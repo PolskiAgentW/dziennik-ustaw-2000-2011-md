@@ -1,0 +1,1287 @@
+{
+ "eli": "DU/2003/1791",
+ "title": "Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 3 października 2003 r. w sprawie wymagań metrologicznych, którym powinny odpowiadać wagi nieautomatyczne",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/1791/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI, PRACY I POLITYKI SPOŁECZNEJ[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 października 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wymagań metrologicznych, którym powinny odpowiadać wagi nieautomatyczne"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 pkt 3 ustawy z dnia 11 maja 2001 r. — Prawo o miarach (Dz. U. Nr 63, poz. 636, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Rozporządzenie określa wymagania metrologiczne, którym powinny odpowiadać wagi nieautomatyczne przeznaczone do określenia masy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_1/pkt_1",
+       "text": "w obrocie handlowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "będącej podstawą obliczania opłat targowych, ceł, podatków, premii, opustów, kar, wynagrodzeń, odszkodowań lub podobnych typów opłat;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_1/pkt_3",
+       "text": "przy stosowaniu odrębnych przepisów prawnych oraz w opiniach biegłych i ekspertów wydawanych w procesach sądowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_1/pkt_4",
+       "text": "w praktyce medycznej do ważenia pacjentów w celu monitorowania, diagnozowania i leczenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/ust_1/pkt_5",
+       "text": "przy sporządzaniu lekarstw na receptę w aptekach oraz w analizach wykonywanych w laboratoriach medycznych i farmaceutycznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_1/ust_1/pkt_6",
+       "text": "będącej podstawą obliczania należności w bezpośrednim obrocie handlowym i przy paczkowaniu towarów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Uznaje się, że wagi nieautomatyczne, które są zgodne z normą zharmonizowaną PN-EN 45501 „Zagadnienia metrologiczne wag nieautomatycznych”, spełniają wymagania rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "waga nieautomatyczna — przyrząd pomiarowy służący do określania masy ciała, a także mogący służyć do określania innych, związanych z masą wielkości, ilości, parametrów albo właściwości, wykorzystujący działanie na ciało siły grawitacji, wymagający interwencji operatora podczas ważenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "waga elektroniczna — waga nieautomatyczna wyposażona w urządzenia elektroniczne, spełniające określone funkcje, produkowane jako oddzielne zespoły, które mogą być badane niezależnie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "waga kalkulacyjna — waga nieautomatyczna, która wyznacza należność na podstawie wskazanej masy i ceny jednostkowej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "obciążenie maksymalne Max — maksymalna zdolność ważenia bez uwzględnienia granicy zakresu dodającego urządzenia tarującego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "obciążenie minimalne Min — wartość obciążenia, poniżej której wyniki ważenia mogą być obarczone nadmiernym błędem względnym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "zakres ważenia — przedział między obciążeniem minimalnym a obciążeniem maksymalnym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "graniczne obciążenie bezpieczne Lim — maksymalne obciążenie statyczne, którym waga nieautomatyczna może być obciążona bez spowodowania stałej zmiany jej właściwości metrologicznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "działka elementarna d — wyrażona w jednostkach miary masy wartość różnicy między wartościami:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_8/lit_a",
+       "text": "odpowiadającymi dwóm kolejnym wskazom podziałki, przy wskazaniu analogowym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_8/lit_b",
+       "text": "dwóch kolejnych wskazań, przy wskazaniu cyfrowym;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "działka legalizacyjna e — wartość wyrażona w jednostkach miary masy stosowana do badań, kontroli i klasyfikacji wagi nieautomatycznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "błędy graniczne dopuszczalne — wartości skrajne błędu dopuszczone przez wymagania metrologiczne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "błąd podstawowy — błąd wagi nieautomatycznej wyznaczony w warunkach odniesienia, przy określonych wartościach wielkości wpływających;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "nośnia ładunku — część wagi przeznaczona do przyjmowania ładunku;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "waga wielodziałkowa — waga nieautomatyczna z jednym zakresem ważenia podzielonym na podzakresy, w których wartości działek są różne, a podzakresy ważenia wybierane są samoczynnie, odpowiednio do stosowanego wzrastającego i malejącego obciążenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_2/pkt_14",
+     "text": "waga wielozakresowa — waga nieautomatyczna z dwoma lub więcej zakresami ważenia z różnymi obciążeniami maksymalnymi i różnymi wartościami działek dla tej samej nośni ładunku, w której każdy zakres obejmuje obciążenia od zera do jego obciążenia maksymalnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_2/pkt_15",
+     "text": "urządzenie wskazujące — część wagi nieautomatycznej, która wskazuje wynik ważenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_2/pkt_16",
+     "text": "pomocnicze urządzenie wskazujące — urządzenie wskazujące z działką elementarną d mniejszą od działki legalizacyjnej e;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_2/pkt_17",
+     "text": "urządzenie wskazujące z większą rozdzielczością — urządzenie tymczasowo zmieniające działkę elementarną d na wartość mniejszą niż działka legalizacyjna e;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_2/pkt_18",
+     "text": "urządzenie tarujące — urządzenie do nastawiania wskazania zerowego, gdy nośnia ładunku jest obciążona;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "par_2/pkt_19",
+     "text": "dodające urządzenie tarujące — urządzenie tarujące bez zmiany zakresu ważenia dla ładunków netto;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "par_2/pkt_20",
+     "text": "odejmujące urządzenie tarujące — urządzenie tarujące zmniejszające zakres ważenia dla ładunków netto;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "par_2/pkt_21",
+     "text": "urządzenie ważące tarę — urządzenie tarujące, które zachowuje wartość tary i może ją wskazywać lub drukować, gdy waga jest obciążona lub nieobciążona.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Konstrukcja i wykonanie wag nieautomatycznych"
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Ustala się cztery klasy dokładności wag nieautomatycznych, zwanych dalej „wagami”:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "I — specjalna;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "II — wysoka;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "III — średnia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "IIII — zwykła.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Charakterystyki klas dokładności, o których mowa w ust. 1, zwanych dalej „klasami”, określa tabela 1 załącznika do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Działka elementarna d i działka legalizacyjna e powinny mieć postać 1 x 10 k , 2 x 10 k lub 5 x 10 k jednostek miary masy, gdzie k jest dowolną liczbą całkowitą albo zerem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Dla wszystkich wag bez pomocniczych urządzeń wskazujących stosuje się wymaganie: d = e.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Dla wag z pomocniczymi urządzeniami wskazującymi stosuje się następujące wymagania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_3/pkt_1",
+       "text": "e = 1 x 10 k g, gdzie k jest dowolną liczbą całkowitą albo zerem i",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_3/pkt_2",
+       "text": "d < e ≤ 10 d, z zastrzeżeniem ust. 4.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Dla wag klasy I z d < 10 –4 g przyjmuje się e = 10 –3 g.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Wagi klasy I albo II z jednym zakresem ważenia mogą być wyposażone w pomocnicze urządzenia wskazujące.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Dla wag, o których mowa w ust. 1, wartość minimalną obciążenia minimalnego przyjmuje się według tabeli 1 załącznika do rozporządzenia, z tym że w kolumnie 3 tabeli działkę legalizacyjną e zastępuje się działką elementarną d.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "W wagach klasy I z jednym zakresem ważenia obciążenie maksymalne Max może być mniejsze niż 50 000 e, jeżeli d < 10 –4 g.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Wagi mogą mieć wiele zakresów ważenia (wagi wielozakresowe) pod warunkiem, że są one wyraźnie oznaczone na wadze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Klasę każdego zakresu ważenia wagi wielozakresowej określa się zgodnie z § 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Jeżeli zakresy ważenia należą do różnych klas, waga powinna spełniać wymagania tej klasy, której wymagania są najostrzejsze.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Wagi z jednym zakresem ważenia mogą mieć kilka podzakresów (wagi wielodziałkowe).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Wagi wielodziałkowe nie powinny być wyposażone w pomocnicze urządzenia wskazujące.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Każdy podzakres ważenia i wagi wielodziałkowej jest określony przez jego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_3/pkt_1",
+       "text": "działkę legalizacyjną e , gdzie e > e ; i (i+1) i",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_3/pkt_2",
+       "text": "obciążenie maksymalne Max i , gdzie Max r = Max;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_3/pkt_3",
+       "text": "obciążenie minimalne Min , gdzie Min = Max i Min₁ = Min,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "gdzie:"
+      },
+      {
+       "type": "text",
+       "text": "i — numer podzakresu (i = 1, 2, ... r),"
+      },
+      {
+       "type": "text",
+       "text": "r — liczba podzakresów."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Obciążenia maksymalne są obciążeniami netto, niezależnie od wartości zastosowanej tary.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "Podzakresy ważenia wag wielodziałkowych powinny należeć do tej samej klasy, która stanowi jednocześnie klasę wagi, i określa ją tabela 2 załącznika do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Konstrukcja i wykonanie wag powinny zapewniać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "zachowanie przez wagi właściwości metrologicznych podczas ich prawidłowego użytkowania i przy prawidłowym zainstalowaniu oraz w czasie użytkowania w warunkach otoczenia, dla których są przewidziane;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "wskazanie wartości masy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Wagi elektroniczne w przypadku występowania zakłóceń:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_9/pkt_1",
+     "text": "nie powinny wskazywać znaczących odchyleń, to jest różnicy między błędem wskazania a błędem podstawowym wagi większej niż wartość działki legalizacyjnej e, albo",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_9/pkt_2",
+     "text": "powinny wykrywać znaczące odchylenia automatycznie i wykazywać je poprzez podanie sygnału ostrzegawczego optycznego lub akustycznego, trwającego do podjęcia przez użytkownika działań korekcyjnych albo do ustąpienia odchylenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Wagi powinny spełniać wymagania, o których mowa w § 8 i 9, w przewidywanym okresie ich użytkowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Elektroniczne urządzenia cyfrowe powinny stale zapewniać kontrolę prawidłowego przebiegu procesu pomiaru, wskazywania i wszystkich procesów zapamiętywania i przekazywania danych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Wagi elektroniczne przy automatycznym wykryciu znaczącego błędu trwałości, to jest różnicy między błędem podstawowym w okresie użytkowania a początkowym błędem podstawowym wagi większej niż wartość działki legalizacyjnej e, powinny podawać sygnał ostrzegawczy optyczny lub akustyczny trwający do podjęcia przez użytkownika działań korekcyjnych albo do ustąpienia błędu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Podłączenie do wagi elektronicznej urządzenia peryferyjnego poprzez odpowiedni interfejs nie powinno mieć negatywnego wpływu na właściwości metrologiczne wagi.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Wagi zasilane z baterii powinny sygnalizować, że napięcie spadło poniżej wymaganej wartości minimalnej i powinny wówczas nadal działać prawidłowo albo wyłączać się automatycznie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Wagi powinny mieć zabezpieczenia uniemożliwiające ich niewłaściwe lub niezgodne z prawem zastosowanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Części składowe wag, które nie powinny być demontowane lub regulowane przez użytkownika, powinny być zabezpieczone przed takim działaniem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Wyniki ważenia i inne wartości masy powinny być wskazywane dokładnie, jednoznacznie i niemyląco, a urządzenia wskazujące powinny umożliwiać łatwy odczyt w normalnych warunkach użytkowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Wskazania wag powinny być wyrażone w legalnych jednostkach miary masy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_14/ust_3",
+     "text": "Wskazania powyżej obciążenia maksymalnego Max powiększonego o 9 e nie powinny być możliwe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_14/ust_4",
+     "text": "Pomocnicze urządzenie wskazujące dopuszcza się tylko na prawo od znaku dziesiętnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_14/ust_5",
+     "text": "Urządzenie wskazujące z większą rozdzielczością może być używane tylko chwilowo i podczas jego działania nie powinno być możliwe drukowanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_14/ust_6",
+     "text": "Dopuszcza się dodatkowe wskazania, jeżeli niemożliwe jest pomylenie ich ze wskazaniami, o których mowa w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_14/ust_7",
+     "text": "Drukowane wyniki, o których mowa w ust. 1, powinny być poprawne, właściwie identyfikowalne i jednoznaczne, a wydruki powinny być wyraźne, czytelne, nieusuwalne i trwałe.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Wagi mogą być w miarę potrzeby wyposażone w:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_1/pkt_1",
+       "text": "urządzenie poziomujące do ustawiania wagi w jej pozycji odniesienia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_1/pkt_2",
+       "text": "wskaźnik poziomu o czułości wystarczającej do prawidłowego ustawienia wagi.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Wagi mogą być wyposażone w:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_2/pkt_1",
+       "text": "urządzenia zerujące do nastawiania wskazania zerowego, gdy nośnia ładunku wagi jest nieobciążona, których działanie powinno powodować dokładne zerowanie i nie powinno być przyczyną nieprawidłowych wyników pomiarów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_2/pkt_2",
+       "text": "jedno lub więcej urządzeń tarujących, których działanie powinno zapewniać dokładne zerowanie i prawidłowe ważenie netto;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_2/pkt_3",
+       "text": "urządzenie zadające tarę, odejmujące zadaną wartość tary od wartości brutto lub netto i wskazujące wynik odejmowania, przy działaniu którego zakres ważenia ładunków netto jest odpowiednio zmniejszony, którego działanie powinno zapewniać poprawne wyznaczenie wartości netto.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Wagi o obciążeniu maksymalnym Max nie większym niż 100 kg stosowane w bezpośrednim obrocie handlowym powinny dodatkowo:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_1/pkt_1",
+       "text": "wskazywać wszystkie podstawowe informacje o operacji ważenia, a w przypadku wag kalkulacyjnych powinny także jednoznacznie i dostatecznie długo wskazywać dokładną wartość obliczonej należności za nabywany produkt, umożliwiając kupującemu poprawne jej odczytanie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_1/pkt_2",
+       "text": "posiadać konstrukcję chroniącą kupującego przed nieprawidłowym, wynikającym z wadliwego funkcjonowania wag, obliczeniem należności.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Wagi, o których mowa w ust. 1, nie powinny posiadać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_2/pkt_1",
+       "text": "pomocniczych urządzeń wskazujących;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_2/pkt_2",
+       "text": "urządzeń wskazujących z większą rozdzielczością.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Wskazania wag, o których mowa w ust. 1, powinny być takie, żeby ich interpretacja była łatwa i jednoznaczna.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_16/ust_4",
+     "text": "Wagi kalkulacyjne, poza ważeniem poszczególnych produktów i obliczaniem należności, mogą wykonywać inne funkcje, jeżeli wskazania odnoszące się do wszystkich umów sprzedaży są przedstawione na wydruku dla kupującego wyraźnie, jednoznacznie i czytelnie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_16/ust_5",
+     "text": "Urządzenia dodatkowe w wagach, o których mowa w ust. 1, są dozwolone, jeżeli nie mogą prowadzić do ich nieuczciwego stosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_16/ust_6",
+     "text": "Wagi wykonane w sposób podobny do wag, o których mowa w ust. 1, niespełniające wymagań ust. 1—5, muszą mieć umieszczony w pobliżu urządzenia wskazującego nieusuwalny napis: „Waga nie może być stosowana w bezpośrednim obrocie handlowym”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Wagi etykietujące, to jest wagi kalkulacyjne drukujące wartość masy, cenę jednostkową i należność dla towarów paczkowanych, powinny spełniać wymagania dla wag kalkulacyjnych stosowanych w bezpośrednim obrocie handlowym w zakresie ich dotyczącym; drukowanie etykiety cenowej nie powinno być możliwe poniżej obciążenia minimalnego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "W przypadku wagi posiadającej kilka urządzeń wskazujących lub drukujących albo podłączonej do kilku urządzeń wskazujących lub drukujących:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_18/pkt_1",
+     "text": "urządzenia, które powtarzają wyniki operacji ważenia i nie mogą mieć wpływu na prawidłowe działanie wagi, nie podlegają wymaganiom rozporządzenia, jeżeli:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_18/pkt_1/lit_a",
+       "text": "wyniki ważenia są drukowane lub zapisywane prawidłowo i nieusuwalnie przez część wagi spełniającą wymagania rozporządzenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_18/pkt_1/lit_b",
+       "text": "wyniki te są dostępne dla stron, których pomiar dotyczy;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_18/pkt_2",
+     "text": "urządzenia przeznaczone dla sprzedającego i kupującego muszą spełniać wymagania rozporządzenia, jeżeli waga jest stosowana w bezpośrednim obrocie handlowym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Na wagach powinny być umieszczone w sposób nieusuwalny, łatwo czytelne i dobrze widoczne w normalnym położeniu pracy wagi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_1/pkt_1",
+       "text": "następujące oznaczenia:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_19/ust_1/pkt_1/lit_a",
+         "text": "nadany znak zatwierdzenia typu, jeśli ma to zastosowanie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_19/ust_1/pkt_1/lit_b",
+         "text": "znak fabryczny lub nazwa producenta,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_19/ust_1/pkt_1/lit_c",
+         "text": "klasy (zamieszczone w elipsie lub między dwoma liniami poziomymi, połączonymi dwoma półokręgami),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_19/ust_1/pkt_1/lit_d",
+         "text": "obciążenie maksymalne w postaci Max...,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_19/ust_1/pkt_1/lit_e",
+         "text": "obciążenie minimalne w postaci Min...,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_19/ust_1/pkt_1/lit_f",
+         "text": "działka legalizacyjna w postaci e = ...;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_1/pkt_2",
+       "text": "dodatkowe oznaczenia, jeśli ma to zastosowanie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_19/ust_1/pkt_2/lit_a",
+         "text": "numer fabryczny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_19/ust_1/pkt_2/lit_b",
+         "text": "znak identyfikacyjny na każdym zespole, dla wag składających się z oddzielnych, ale wspólnych zespołów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_19/ust_1/pkt_2/lit_c",
+         "text": "działka elementarna, jeżeli jest różna od e, w postaci d = ...,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_19/ust_1/pkt_2/lit_d",
+         "text": "granica zakresu tarowania dodającego urządzenia tarującego, w postaci T = + ...,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_19/ust_1/pkt_2/lit_e",
+         "text": "granica zakresu tarowania odejmującego urządzenia tarującego, jeżeli jest różna od Max, w postaci T = – ...,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_19/ust_1/pkt_2/lit_f",
+         "text": "działka urządzenia ważącego tarę, jeżeli jest różna od d, w postaci d T = ...,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_19/ust_1/pkt_2/lit_g",
+         "text": "graniczne obciążenie bezpieczne, jeżeli jest różne od Max, w postaci Lim ...,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_19/ust_1/pkt_2/lit_h",
+         "text": "specjalny zakres temperatury pracy w postaci ... °C/... °C,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_19/ust_1/pkt_2/lit_i",
+         "text": "przełożenie między szalką odważnikową a nośnią ładunku.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Usunięcie oznaczeń, o których mowa w ust. 1, nie powinno być możliwe bez ich uszkodzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "W przypadku umieszczenia na wadze tabliczki znamionowej powinno być możliwe jej zabezpieczenie, chyba że nie może być ona usunięta bez uszkodzenia. Jeżeli tabliczka znamionowa może być zabezpieczona, powinno być możliwe umieszczenie na niej znaku kontrolnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_19/ust_4",
+     "text": "Oznaczenia Max, Min, e, d powinny być również umieszczone w pobliżu miejsca wskazywania wyniku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_19/ust_5",
+     "text": "Każde urządzenie pomiarowe, które jest albo może być podłączone do jednej lub więcej nośni ładunku, powinno mieć oznaczenia dotyczące tych nośni.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Charakterystyki metrologiczne wag nieautomatycznych"
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Błędy graniczne dopuszczalne wag podczas zatwierdzenia typu i legalizacji określa tabela 3 załącznika do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Błędy graniczne dopuszczalne wag w użytkowaniu równe są dwukrotnym wartościom błędów granicznych dopuszczalnych wskazań wag podczas legalizacji, o których mowa w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_20/ust_3",
+     "text": "W przypadku wskazania cyfrowego błąd wskazania wagi powinien być skorygowany o błąd zaokrąglenia, to jest różnicę między wskazaniem cyfrowym a wynikiem wskazanym przez wagę, gdyby wskazanie to było analogowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_20/ust_4",
+     "text": "Błędy graniczne dopuszczalne wagi odnoszą się do wartości netto i tary dla wszystkich możliwych obciążeń z wyłączeniem ustawionych wstępnie wartości tary.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Wyniki ważenia powinny być powtarzalne i możliwe do odtworzenia przy użyciu innych urządzeń wskazujących oraz przy stosowaniu innych metod równoważenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Wpływ zmiany położenia obciążenia na nośni ładunku na wynik ważenia powinien być wystarczająco mały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_21/ust_3",
+     "text": "Waga powinna reagować na małe zmiany obciążenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Wagi klasy II, III i IIII, które mogą być stosowane w położeniu pochylonym, powinny być odpowiednio niewrażliwe na taki stopień pochylenia, jaki może wystąpić w normalnych warunkach ustawienia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Wagi powinny spełniać wymagania, o których mowa w § 20 i 21:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_23/pkt_1",
+     "text": "w zakresie temperatury pracy od –10 °C do 40 °C lub w specjalnym zakresie temperatury podanym przez producenta, przy czym wartość przedziału tego zakresu powinna być co najmniej równa:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_23/pkt_1/lit_a",
+       "text": "5 °C dla wagi klasy I,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "b 15 °C dla wagi klasy II,"
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_23/pkt_1/lit_c",
+       "text": "30 °C dla wagi klasy III i IIII,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_23/pkt_2",
+     "text": "w zakresie wahań napięcia zasilania w normalnych granicach — w przypadku wag zasilanych napięciem o częstotliwości sieciowej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_23/pkt_3",
+     "text": "w warunkach dużej wilgotności względnej przy górnej granicy zakresu temperatury pracy wagi — w przypadku wag elektronicznych z wyłączeniem wag klasy I i wag klasy II z wartością działki legalizacyjnej e mniejszą niż 1 g.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Długotrwałe obciążenie wag klasy II, III i IIII powinno mieć pomijalnie mały wpływ na wskazania przy obciążeniu i na wskazania zera natychmiast po zdjęciu obciążenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Przy innych wielkościach wpływających niż te, o których mowa w § 22—24, wagi powinny nadal działać prawidłowo albo wyłączać się automatycznie.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Przepis końcowy"
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Gospodarki, Pracy i Polityki Społecznej: J. Hausner"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 3 października 2003 r. (poz. 1791)",
+   "body": [
+    {
+     "type": "text",
+     "text": "CHARAKTERYSTYKI METROLOGICZNE WAG NIEAUTOMATYCZNYCH"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 1"
+    },
+    {
+     "type": "text",
+     "text": "Charakterystyki klas dokładności wag nieautomatycznych"
+    },
+    {
+     "type": "text",
+     "text": "Obciążenie minimalne Liczba działek legalizacyjnych n = Max/e Wartość działki Min *) Klasa legalizacyjnej e wartość minimalna wartość minimalna wartość maksymalna"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3 4 5"
+    },
+    {
+     "type": "text",
+     "text": "I 0,001 g ≤ e 100 e 50 000 —"
+    },
+    {
+     "type": "text",
+     "text": "0,001 g ≤ e ≤ 0,05 g 20 e 100 100 000 II 0,1 g ≤ e 50 e 5 000 100 000"
+    },
+    {
+     "type": "text",
+     "text": "III 0,1 g≤ e ≤ 2 g 20 e 100 10 000 5 g ≤ e 20 e 500 10 000"
+    },
+    {
+     "type": "text",
+     "text": "IIII 5 g ≤ e 10 e 100 1 000"
+    },
+    {
+     "type": "text",
+     "text": "*) Obciążenie minimalne jest zmniejszone do 5 e dla wag klasy II i III stosowanych do określenia opłat według taryf pocztowych."
+    },
+    {
+     "type": "text",
+     "text": "Tabela 2"
+    },
+    {
+     "type": "text",
+     "text": "Charakterystyki podzakresów ważenia wag wielodziałkowych"
+    },
+    {
+     "type": "text",
+     "text": "Obciążenie minimalne Liczba działek legalizacyjnych Wartość działki Min Klasa legalizacyjnej e wartość minimalna *) wartość maksymalna wartość minimalna n = Max /e n = Max /e"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3 4 5"
+    },
+    {
+     "type": "text",
+     "text": "I 0,001 g ≤ e i 100 e i 50 000 —"
+    },
+    {
+     "type": "text",
+     "text": "0,001 g ≤ e ≤ 0,05 g 20 e 5 000 100 000 II 0,1 g i ≤ e i 50 e i i 5 000 100 000"
+    },
+    {
+     "type": "text",
+     "text": "III 0,1 g ≤ e i 20 e i 500 10 000"
+    },
+    {
+     "type": "text",
+     "text": "IIII 5 g ≤ e i 10 e i 50 1 000"
+    },
+    {
+     "type": "text",
+     "text": "*) Dla i = r stosuje się odpowiednią kolumnę tabeli 1, gdzie e jest zastąpione przez e r ."
+    },
+    {
+     "type": "text",
+     "text": "Tabela 3"
+    },
+    {
+     "type": "text",
+     "text": "Błędy graniczne dopuszczalne wag nieautomatycznych podczas legalizacji"
+    },
+    {
+     "type": "text",
+     "text": "Błąd Obciążenie m graniczny klasa I klasa II klasa III klasa IIII dopuszczalny"
+    },
+    {
+     "type": "text",
+     "text": "0 ≤ m ≤ 50 000 e 0 ≤ m ≤ 5 000 e 0 ≤ m ≤ 500 e 0 ≤ m ≤ 50 e ±0,5 e"
+    },
+    {
+     "type": "text",
+     "text": "50 000 e < m ≤ 200 000 e 5 000 e < m ≤ 20 000 e 500 e < m ≤ 2 000 e 50 e < m ≤ 200 e ±1,0 e"
+    },
+    {
+     "type": "text",
+     "text": "200 000 e < m 20 000 e < m ≤ 100 000 e 2 000 e < m ≤ 10 000 e 200 e < m ≤ 1 000 e ±1,5 e"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Gospodarki, Pracy i Polityki Społecznej kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 7 stycznia 2003 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki, Pracy i Polityki Społecznej (Dz. U. Nr 1, poz. 5).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 155, poz. 1286 i Nr 166, poz. 1360 oraz z 2003 r. Nr 170, poz. 1652. i i (i–1) i (i+1) i i"
+ }
+}

@@ -1,0 +1,1826 @@
+{
+ "eli": "DU/2003/2314",
+ "title": "Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 30 grudnia 2003 r. w sprawie wymagań metrologicznych, którym powinny odpowiadać wagi automatyczne dla pojedynczych ładunków",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/2314/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI, PRACY I POLITYKI SPOŁECZNEJ[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 grudnia 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wymagań metrologicznych, którym powinny odpowiadać wagi automatyczne dla pojedynczych ładunków"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 pkt 3 ustawy z dnia 11 maja 2001 r. — Prawo o miarach (Dz. U. Nr 63, poz. 636, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepis ogólny"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "waga — przyrząd pomiarowy do ważenia, bez udziału operatora, uformowanych pojedynczych ładunków;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "urządzenie wskazujące — część wagi, która wyświetla wynik ważenia w jednostkach miary masy i może wskazywać dodatkowo różnicę między masą ładunku a wartością nominalną albo wartość średnią lub odchylenie standardowe eksperymentalne błędu dla określonej liczby kolejnych ważeń;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "nominalna wartość nastawy — wartość wyrażona w jednostkach miary masy, nastawiona przez operatora, służąca do ustalenia wartości granicznych masy poszczególnych grup ładunków;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "obciążenie maksymalne (Max) — największa dopuszczalna wartość obciążenia wagi bez uwzględnienia wartości granicznej zakresu dodającego urządzenia tarującego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "obciążenie minimalne (Min) — wartość obciążenia, poniżej którego wyniki ważenia mogą być obarczone nadmiernym błędem względnym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "zakres ważenia — przedział między obciążeniem minimalnym a obciążeniem maksymalnym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "wartość działki elementarnej (d) — wyrażona w jednostkach miary masy wartość różnicy między wartościami:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_7/lit_a",
+       "text": "odpowiadającymi dwóm sąsiednim wskazom podziałki, przy wskazaniu analogowym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_7/lit_b",
+       "text": "dwóch kolejnych wskazań, przy wskazaniu cyfrowym;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "wartość działki legalizacyjnej (e) — umowna wartość wyrażona w jednostkach miary masy stosowana do badań, kontroli i klasyfikacji wagi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "waga wielodziałkowa — waga z jednym zakresem ważenia podzielonym na podzakresy, w których wartości działek są różne, a podzakresy ważenia wybierane są samoczynnie, odpowiednio do wzrastającego i malejącego obciążenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "waga wielozakresowa — waga z dwoma lub więcej zakresami ważenia o różnych obciążeniach maksymalnych i różnych wartościach działek dla tej samej nośni ładunku, w której każdy zakres obejmuje obciążenie od zera do jego obciążenia maksymalnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "błąd wskazania wagi — różnica między wskazaniem wagi a poprawną wartością masy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_1/pkt_12",
+     "text": "błąd średni (X) – — wartość średnia błędów wskazań dla określonej liczby kolejnych automatycznych ważeń ładunków o tej samej wartości nominalnej masy lub ładunków o zbliżonej masie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_1/pkt_13",
+     "text": "odchylenie standardowe eksperymentalne błędu (s) — odchylenie standardowe błędu wskazania dla określonej liczby kolejnych automatycznych ważeń ładunków o tej samej wartości nominalnej masy lub ładunków o zbliżonej masie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_1/pkt_14",
+     "text": "błędy graniczne dopuszczalne wagi — określone wartości skrajne błędu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_1/pkt_15",
+     "text": "klasa dokładności — klasa wag spełniających określone wymagania metrologiczne i których błędy są zawarte w wyznaczonych granicach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Wymagania metrologiczne w zakresie konstrukcji i wykonania wag"
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Waga może być skonstruowana jako:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "waga kontrolująca, rozdzielająca ładunki o różnych masach na dwie lub więcej grup na podstawie różnicy między ich wartością masy a nominalną wartością nastawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "waga segregująca, rozdzielająca ładunki o różnych masach na kilka grup, charakteryzujących się określonym zakresem masy, w tym waga z dodatkową funkcją obliczania opłat według ustalonej taryfy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "waga etykietująca, nanosząca na każdy ładunek etykietę z wynikiem ważenia, w tym waga etykietująca kalkulacyjna, obliczająca należność za ważony ładunek;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "waga załadunkowa, zainstalowana w pojeździe, która waży pojedyncze ładunki nieopakowane podczas ich załadunku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład wagi wchodzą w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "nośnia ładunku, przeznaczona do przyjmowania ładunku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "zespół wagowy, wyznaczający masę ładunku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "zespół sterujący pracą wagi podczas ważenia automatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "urządzenie wskazujące analogowe albo cyfrowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "urządzenie tarujące, służące do nastawiania wskazania zerowego, gdy nośnia ładunku jest obciążona;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_1/pkt_6",
+       "text": "urządzenie zerujące, służące do nastawiania wskazania zerowego, gdy nośnia ładunku jest nieobciążona.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Waga może być dodatkowo wyposażona w szczególności w:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "urządzenie drukujące wyniki ważenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "wskaźnik poziomu ustawienia wagi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_2/pkt_3",
+       "text": "korektor dynamiki przeznaczony do eliminowania zmiany wskazania wagi spowodowanej przez dynamiczne oddziaływanie ładunku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_2/pkt_4",
+       "text": "pomocnicze urządzenia wskazujące;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_2/pkt_5",
+       "text": "urządzenia elektroniczne, realizujące określone funkcje, będące oddzielnymi zespołami wagi, zwanej dalej „wagą elektroniczną”.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "W wagach mogą być stosowane urządzenia zerujące lub urządzenia tarujące, w których nastawienie wskazania zerowego może być dokonywane:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "nieautomatycznie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "półautomatycznie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "automatycznie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Urządzenie zerujące może być:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "inicjujące, w którym automatyczne nastawianie wskazania zerowego jest dokonywane przez włączanie wagi przed jej gotowością do pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "podtrzymujące zero, w którym wskazanie zerowe jest automatycznie utrzymywane w danych granicach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Urządzenie tarujące może być urządzeniem zadającym tarę, w którym zadana wartość tary odejmowana jest od wartości brutto lub netto i wynik odejmowania jest wskazywany, przy działaniu, którego zakres ważenia ładunków netto jest w wadze odpowiednio zmniejszony.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Jeżeli waga jest wyposażona w korektor dynamiki, każdy dostęp do niego powinien być w sposób automatyczny i nieusuwalny rejestrowany.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W wadze wyposażonej we wskaźnik poziomu powinno być możliwe jej ustawienie z pochyleniem nie większym niż 1 %.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "W wagach, z wyjątkiem wag klasy dokładności X (x ≤ 0,01) i Y (I), elementy adiustacji powinny być zabezpieczone przed dostępem osób nieuprawnionych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Urządzenie wskazujące powinno umożliwiać łatwe i jednoznaczne odczytanie wyników ważenia w warunkach użytkowania wagi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Błąd odczytu dla urządzenia wskazującego analogowego nie powinien przekraczać 0,2 wartości działki legalizacyjnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Wyniki ważenia powinny zawierać nazwy lub oznaczenia legalnych jednostek miary masy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Wartość działki elementarnej powinna być wyk k k rażona w postaci 1 x 10 ; 2 x 10 lub 5 x 10 , gdzie k jest liczbą całkowitą albo zerem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_6/ust_5",
+     "text": "Wskazanie wagi nie powinno być większe niż:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_5/pkt_1",
+       "text": "dla wag klasy dokładności X, większa z następujących wartości:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_6/ust_5/pkt_1/lit_a",
+         "text": "obciążenie maksymalne powiększone o wartość 9 działek legalizacyjnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_6/ust_5/pkt_1/lit_b",
+         "text": "obciążenie maksymalne powiększone o trzykrotną graniczną dopuszczalną wartość odchylenia standardowego eksperymentalnego błędu s podczas zatwierdzenia typu i legalizacji;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_5/pkt_2",
+       "text": "dla wag klasy dokładności Y, obciążenie maksymalne powiększone o wartość 9 działek legalizacyjnych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Wartość działki elementarnej urządzenia wskazującego lub urządzenia drukującego odpowiadająca:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "wartość masy pojedynczego ładunku — powinna być równa wartości działki legalizacyjnej lub wartości działki elementarnej pomocniczego urządzenia wskazującego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "wartość błędu średniego lub odchylenia standardowego eksperymentalnego błędu dla kolejnych ważeń ładunku — może być mniejsza niż wartość działki legalizacyjnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Urządzenie wskazujące z większą rozdzielczością, które tymczasowo zmienia wartość działki elementarnej na wartość mniejszą niż wartość działki legalizacyjnej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_1/pkt_1",
+       "text": "nie powinno być stosowane w wagach z pomocniczym urządzeniem wskazującym, w którym wartość działki elementarnej jest mniejsza od wartości działki legalizacyjnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_1/pkt_2",
+       "text": "powinno działać w czasie nieprzekraczającym 5 sekund od momentu jego uruchomienia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Podczas działania urządzenia wskazującego z większą rozdzielczością nie powinno być możliwe drukowanie wyników ważenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "W urządzeniu drukującym wyniki ważenia wydruk powinien:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_1/pkt_1",
+       "text": "być wyraźny i trwały w warunkach użytkowania wagi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_1/pkt_2",
+       "text": "mieć wysokość znaków co najmniej 2 mm;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_1/pkt_3",
+       "text": "zawierać nazwę lub oznaczenie jednostki miary mas, umieszczone po prawej stronie wartości liczbowej lub powyżej kolumny, w której podane są wartości liczbowe.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Drukowanie wyników ważenia podczas ważenia nieautomatycznego powinno być możliwe, jeżeli są spełnione następujące kryteria stabilnego położenia równowagi, zwane dalej „kryteriami stabilności”:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_2/pkt_1",
+       "text": "w okresie 5 sekund po wydruku są wskazywane nie więcej niż dwie sąsiednie wartości masy, z których jedna jest równa wartości wydrukowanej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_2/pkt_2",
+       "text": "urządzenia zerujące i tarujące działają poprawnie.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Urządzenie zerujące powinno umożliwiać zerowanie wagi z błędem nieprzekraczającym:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "±0,25 e albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_1/pkt_2",
+       "text": "±0,5 d — dla wag wyposażonych w pomocnicze urządzenie wskazujące.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Zakres działania urządzenia zerującego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_2/pkt_1",
+       "text": "nie powinien przekraczać 4 % obciążenia maksymalnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_2/pkt_2",
+       "text": "inicjującego nie powinien przekraczać 20 % obciążenia maksymalnego, chyba że są spełnione wymagania, określone w załącznikach nr 2 i 3 do rozporządzenia, dla dowolnego obciążenia z zakresu działania tego urządzenia.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Urządzenie zerujące półautomatyczne powinno działać tylko wtedy, gdy kasuje poprzednią wartość tary i spełnione są kryteria stabilności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Urządzenie zerujące automatyczne powinno działać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_2/pkt_1",
+       "text": "gdy spełnione są kryteria stabilności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_2/pkt_2",
+       "text": "z częstotliwością zapewniającą utrzymanie zera w granicach ±0,5 e.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Po rozpoczęciu ważenia automatycznego urządzenie zerujące automatyczne powinno działać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_3/pkt_1",
+       "text": "w danym okresie czasu podczas każdego cyklu ważenia, bez możliwości jego wyłączenia lub zmiany ustawienia czasu działania albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_3/pkt_2",
+       "text": "w programowanym przedziale czasu, o danej wartości maksymalnej.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Urządzenie podtrzymujące zero powinno działać tylko wtedy, gdy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_1/pkt_1",
+       "text": "wskazanie jest równe zeru lub ma ujemną wartość masy netto, odpowiadającą wskazaniu zero dla masy brutto;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_1/pkt_2",
+       "text": "spełnione są kryteria stabilności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_1/pkt_3",
+       "text": "zmiana wskazania jest mniejsza niż 0,5 e na sekundę.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Gdy wskazanie zerowe jest wyświetlone po wytarowaniu, zakres działania urządzenia podtrzymującego zero nie powinien przekraczać wartości 4 % obciążenia maksymalnego wokół rzeczywistej wartości zera.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Urządzenie tarujące powinno umożliwiać ustawienie wskazania zerowego z błędem nie większym niż ±0,25 e.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Urządzenie tarujące w wagach wyposażonych w pomocnicze urządzenie wskazujące powinno umożliwiać ustawienie wskazania zerowego z błędem nie większym niż ±0,5 d.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Urządzenie tarujące w wagach wielodziałkowych, gdzie e jest wartością działki legalizacyjnej pierwszego podzakresu¹ ważenia, powinno umożliwiać ustawienie wskazania zerowego z błędem nie większym niż ±0,25 e₁.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_13/ust_4",
+     "text": "Działanie urządzenia tarującego powinno być:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_4/pkt_1",
+       "text": "możliwe powyżej zera i w zakresie tarowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_4/pkt_2",
+       "text": "w widoczny sposób sygnalizowane przez wagę za pomocą symboli „NET” i „T” albo wyrazów „NETTO” i „TARA”.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_13/ust_5",
+     "text": "Półautomatyczne lub automatyczne urządzenie tarujące powinno działać tylko wtedy, gdy są spełnione kryteria stabilności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Wartość działki urządzenia zadającego tarę powinna być równa wartości działki elementarnej lub automatycznie do niej zaokrąglona.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Wartość zadanej tary:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_2/pkt_1",
+       "text": "w wadze wielozakresowej przenoszona z jednego zakresu ważenia do innego zakresu z większą wartością działki legalizacyjnej powinna być zaokrąglona do większej wartości działki;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_2/pkt_2",
+       "text": "w wadze wielodziałkowej nie powinna przekraczać wartości obciążenia maksymalnego pierwszego podzakresu ważenia Max₁;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_14/ust_2/pkt_3",
+       "text": "powinna być oznaczona symbolem „PT” lub wyrazami „ZADANA TARA”.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Urządzenia zerujące i tarujące nieautomatyczne i półautomatyczne nie powinny działać podczas ważenia automatycznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Urządzenie zerujące i tarujące półautomatyczne mogą być obsługiwane za pomocą tego samego przycisku, pod warunkiem że działają niezależnie od siebie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Waga etykietująca powinna być wyposażona w co najmniej jedno urządzenie wskazujące, które może być używane do kontroli nominalnych wartości nastawy i wartości zadanej tary, a w przypadku wag etykietujących kalkulacyjnych — cen jednostkowych oraz nazw towarów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Waga etykietująca kalkulacyjna powinna:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_2/pkt_1",
+       "text": "sprawdzać aktualne wartości ceny jednostkowej i zadanej wartości tary, podczas ważenia automatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_2/pkt_2",
+       "text": "obliczać należności poprzez mnożenie wskazywanych wartości masy przez cenę jednostkową, a następnie zaokrąglenie do najbliższej wartości działki elementarnej należności, przy czym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_16/ust_2/pkt_2/lit_a",
+         "text": "wartość działki elementarnej należności powinna wynosić 1 grosz,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_16/ust_2/pkt_2/lit_b",
+         "text": "cena jednostkowa powinna być ograniczona wyłącznie do ceny za 100 g lub 1 kg.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "W wadze, o której mowa w ust. 2:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_3/pkt_1",
+       "text": "powinno być możliwe drukowanie danych dotyczących wartości masy, ceny jednostkowej i należności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_3/pkt_2",
+       "text": "nie powinno być możliwe drukowanie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_16/ust_3/pkt_2/lit_a",
+         "text": "powtórne danych przechowywanych w pamięci wagi,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_16/ust_3/pkt_2/lit_b",
+         "text": "wartości masy poniżej obciążenia minimalnego wagi.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Waga elektroniczna powinna być tak skonstruowana i wykonana, aby w przypadku zakłóceń:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_17/ust_1/pkt_1",
+       "text": "nie wystąpiło odchylenie znaczące, rozumiane jako różnica między błędem wskazania wagi a jej błędem wskazania wyznaczonym w warunkach odniesienia, przekraczająca wartość działki legalizacyjnej albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_17/ust_1/pkt_2",
+       "text": "po wystąpieniu odchyleń znaczących podała sygnał ostrzegawczy, optyczny lub akustyczny, trwający do momentu podjęcia przez operatora działań lub zniknięcia odchylenia albo przestała działać.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Waga elektroniczna powinna mieć możliwość kontroli wyświetlacza, inicjowanej automatycznie przy włączaniu wagi, polegającej na wskazaniu wszystkich znaków wyświetlonych przez urządzenie wskazujące w czasie wystarczającym do wykonania obserwacji przez operatora.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Podczas nagrzewania wagi elektronicznej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_17/ust_3/pkt_1",
+       "text": "nie powinna ona wskazywać i przesyłać wyników ważenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_17/ust_3/pkt_2",
+       "text": "jej automatyczne działanie powinno być wstrzymane.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_17/ust_4",
+     "text": "Waga elektroniczna może być wyposażona w interfejs pozwalający na połączenie wagi z urządzeniem peryferyjnym, którego użycie nie powinno:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_17/ust_4/pkt_1",
+       "text": "wpływać na właściwości metrologiczne wagi i na poprawność jej działania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_17/ust_4/pkt_2",
+       "text": "umożliwiać wprowadzania do wagi instrukcji lub danych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_17/ust_4/pkt_2/lit_a",
+         "text": "które nie są zdefiniowane i mogłyby być mylone z wynikiem ważenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_17/ust_4/pkt_2/lit_b",
+         "text": "służących do fałszowania wyświetlanych, przetwarzanych lub zapamiętanych wyników ważenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_17/ust_4/pkt_2/lit_c",
+         "text": "w celu dokonania przez osoby nieuprawnione adiustacji wagi.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Waga zasilana z baterii, po spadku napięcia poniżej danej wartości, powinna nadal działać prawidłowo albo wyłączać się automatycznie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Na wadze powinny być w sposób trwały i czytelny zamieszczone w szczególności następujące oznaczenia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_1/pkt_1",
+       "text": "nazwa lub znak producenta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_1/pkt_2",
+       "text": "numer i znak fabryczny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_19/ust_1/pkt_3",
+       "text": "nadany znak zatwierdzenia typu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_19/ust_1/pkt_4",
+       "text": "oznaczenie klasy dokładności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_19/ust_1/pkt_5",
+       "text": "wartość działki legalizacyjnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_19/ust_1/pkt_6",
+       "text": "obciążenie maksymalne, w postaci „Max ...”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_19/ust_1/pkt_7",
+       "text": "obciążenie minimalne, w postaci „Min ...”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_19/ust_1/pkt_8",
+       "text": "granica zakresu tarowania dodającego urządzenia tarującego, w postaci „T = + ...”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_19/ust_1/pkt_9",
+       "text": "granica zakresu tarowania odejmującego urządzenia tarującego, w postaci „T = – ...”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_19/ust_1/pkt_10",
+       "text": "wartość napięcia zasilającego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_19/ust_1/pkt_11",
+       "text": "wartość częstotliwości napięcia zasilającego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Na wadze powinny być zamieszczone dodatkowo, jeżeli mają zastosowanie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_2/pkt_1",
+       "text": "nazwa lub znak identyfikacyjny importera;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_2/pkt_2",
+       "text": "wartość działki elementarnej, w postaci: „d...”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_19/ust_2/pkt_3",
+       "text": "maksymalna wydajność ważenia, w postaci: „.......... ładunków na minutę”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_19/ust_2/pkt_4",
+       "text": "maksymalna prędkość transportu ładunku, w postaci: „........... m/s”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_19/ust_2/pkt_5",
+       "text": "specjalny zakres temperatury pracy „.... °C/.... °C”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_19/ust_2/pkt_6",
+       "text": "ciśnienie robocze;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_19/ust_2/pkt_7",
+       "text": "zakres regulacji nominalnej wartości nastawy, w postaci „± ... g” lub „... %” wartości punktu nastawy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Oznaczenia mogą być przedstawione na programowalnym wyświetlaczu danych, przy zapewnieniu automatycznej i nieusuwalnej rejestracji każdej zmiany programu oznakowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_19/ust_4",
+     "text": "W przypadku zastosowania wyświetlacza danych na wadze powinny być zamieszczone w sposób trwały i czytelny w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_4/pkt_1",
+       "text": "typ wagi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_4/pkt_2",
+       "text": "nazwa lub znak producenta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_19/ust_4/pkt_3",
+       "text": "nadany znak zatwierdzenia typu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_19/ust_4/pkt_4",
+       "text": "wartość napięcia zasilającego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_19/ust_4/pkt_5",
+       "text": "wartość częstotliwości napięcia zasilającego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_19/ust_4/pkt_6",
+       "text": "ciśnienie robocze.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Charakterystyki metrologiczne wag"
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Wagi kontrolujące powinny być wykonywane jako wagi klasy dokładności X, w której zawarte są podklasy oznaczone przez współczynnik x o wartości równej 1; 2, albo 1 x 10 ; 2 x 10 ; 5 x 10 , gdzie k jest liczbą całkowitą ujemną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Wagi segregujące, etykietujące i załadunkowe powinny być wykonywane jako wagi klasy dokładności Y, w której zawarte są cztery podklasy I, II, a, b.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_20/ust_3",
+     "text": "Waga może być zakwalifikowana jednocześnie do klasy dokładności X i Y, jeżeli spełnia wymagania dla każdej z tych klas.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Wartości działek legalizacyjnych i liczbę działek legalizacyjnych wag, w zależności od klasy dokładności wagi, określa załącznik nr 1 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Dla wag wielozakresowych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_22/ust_1/pkt_1",
+       "text": "wartość działki legalizacyjnej, określoną w załączniku nr 1 do rozporządzenia, zastępuje się odpowiednio wartościami działek legalizacyjnych e , e , ... e , gdzie e < e < ... e ;¹",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_22/ust_1/pkt_2",
+       "text": "obciążenie minimalne, obciążenie maksymalne oraz liczbę działek legalizacyjnych n zastępuje się odpowiadającymi każdemu zakresowi i (i = 1, 2, ..., r) wartościami Min , Max , n . i i i",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Dla wag klasy dokładności Y obciążenie minimalne nie powinno być mniejsze niż:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_22/ust_2/pkt_1",
+       "text": "100 e — dla wag klasy Y (I);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_22/ust_2/pkt_2",
+       "text": "20 e przy 0,001 g ≤ e ≤ 0,05 g — dla wag klasy Y (II);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_22/ust_2/pkt_3",
+       "text": "50 e przy e ≥ 0,1 g — dla wag klasy Y (II);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_22/ust_2/pkt_4",
+       "text": "20 e — dla wag klasy Y (a);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_22/ust_2/pkt_5",
+       "text": "10 e — dla wag klasy Y (b);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_22/ust_2/pkt_6",
+       "text": "5 e — dla wag dowolnej klasy stosowanych do określania opłat.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "W wadze wielodziałkowej:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_23/pkt_1",
+     "text": "każdy podzakres ważenia (i) jest określony przez jego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_23/pkt_1/lit_a",
+       "text": "wartość działki legalizacyjnej e ; e > e , i i + 1 i",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_23/pkt_1/lit_b",
+       "text": "obciążenie maksymalne Max i ,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_23/pkt_1/lit_c",
+       "text": "obciążenie minimalne Min : Min = Max i i (i–1) i Min = Min, ¹ Max d) liczbę działek legalizacyjnych n = –—— i ; i e i",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_23/pkt_2",
+     "text": "wartość działki legalizacyjnej e , i liczba działek legalizacyjnych n powinny spełniać i wymagania określone w załączniku i nr 1 do rozporządzenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_23/pkt_3",
+     "text": "wartość ilorazu Max / e , z wyjątkiem ostatniego podzakresu, powinna i wynosić i+1 co najmniej:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_23/pkt_3/lit_a",
+       "text": "50 000 — dla wag klasy dokładności X (x≤0,01) i Y (I),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_23/pkt_3/lit_b",
+       "text": "5 000 — dla wag klasy dokładności X (x ≤ 0,1) i Y (II),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_23/pkt_3/lit_c",
+       "text": "500 — dla wag klasy dokładności X (x ≤ 1) i Y (a),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_23/pkt_3/lit_d",
+       "text": "50 — dla wag klasy dokładności X (2) i Y (b).",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "W wagach wyposażonych w pomocnicze urządzenia wskazujące z wyróżnioną działką:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_1/pkt_1",
+       "text": "wyróżniona działka powinna znajdować się na prawo od znaku dziesiętnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_1/pkt_2",
+       "text": "wartość działki legalizacyjnej e powinna być równa 10 k kg i powinna być większa od wartości działki elementarnej d, lecz nie więcej niż o jej 10-krotną wartość, gdzie k jest liczbą całkowitą ujemną, dodatnią lub zerem, przy czym dla wag klasy dokładności X (x ≤ 0,01) i klasy dokładności Y (I) z d < 0,1 mg przyjmuje się wartość działki legalizacyjnej e równą 1 mg;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_24/ust_1/pkt_3",
+       "text": "obciążenie minimalne powinno być określone zgodnie z wymaganiami, o których mowa w § 22 ust. 2, po zastąpieniu wartości działki legalizacyjnej wartością działki elementarnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_24/ust_1/pkt_4",
+       "text": "liczba działek legalizacyjnych n może być mniejsza niż 50 000 dla wagi klasy dokładności X (x ≤ 0,01) lub wagi klasy dokładności Y (I) z działką d < 0,1 mg.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "Graniczne dopuszczalne wartości:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_25/ust_1/pkt_1",
+       "text": "błędu średniego X – dla wag klasy dokładności X, przy automatycznym ważeniu określonej liczby ładunków o masie m, zawartej w zakresie ważenia wagi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_25/ust_1/pkt_2",
+       "text": "odchylenia standardowego eksperymentalnego błędu dla wag klasy dokładności X (1), przy automatycznym ważeniu określonej liczby ładunków o masie m, zawartej w zakresie ważenia wagi,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "określa załącznik nr 2 do rozporządzenia."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Graniczne dopuszczalne wartości odchylenia standardowego eksperymentalnego błędu dla pozostałych wag klas dokładności X oblicza się poprzez iloczyn współczynnika x i granicznych dopuszczalnych wartości odchylenia standardowego eksperymentalnego błędu, o których mowa w załączniku nr 2 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Błędy graniczne dopuszczalne wagi:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_26/pkt_1",
+     "text": "dla wag klasy dokładności Y przy automatycznym ważeniu dowolnego ładunku o masie m, zawartej w zakresie ważenia wagi,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_26/pkt_2",
+     "text": "dla wag klasy dokładności X i klasy dokładności Y przy nieautomatycznym ważeniu dowolnego ładunku o masie m, zawartej w zakresie ważenia wagi,",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "określa załącznik nr 3 do rozporządzenia."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_27/ust_1",
+     "text": "Przy zatwierdzeniu typu i legalizacji wagi powinny spełniać wymagania określone w załącznikach nr 2 i 3 do rozporządzenia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_27/ust_1/pkt_1",
+       "text": "w zakresie temperatury pracy od –10 °C do 40 °C;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_27/ust_1/pkt_2",
+       "text": "w innym zakresie temperatury pracy niż określony w pkt 1, dla wag o zastosowaniach specjalnych, w przedziale nie mniejszym niż:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_27/ust_1/pkt_2/lit_a",
+         "text": "5 °C dla wag klasy dokładności X (x≤0,01) i Y(I),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_27/ust_1/pkt_2/lit_b",
+         "text": "15 °C dla wag klasy dokładności X (x ≤ 0,1) i Y(II),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_27/ust_1/pkt_2/lit_c",
+         "text": "30 °C dla wag pozostałych klas dokładności;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_27/ust_1/pkt_3",
+       "text": "przy zmianach napięcia w zakresie (–15 ÷10) % jego wartości nominalnej dla wag zasilanych napięciem o częstotliwości sieciowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_27/ust_1/pkt_4",
+       "text": "przy spadku napięcia poniżej jego wartości nominalnej o daną wartość dla wagi zasilanej napięciem stałym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_27/ust_1/pkt_5",
+       "text": "przy podłużnym lub poprzecznym pochyleniu podstawy wagi równym 5 % dla wag niezainstalowanych na stałe i niewyposażonych we wskaźnik poziomu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_27/ust_1/pkt_6",
+       "text": "przy pochyleniu podłużnym i poprzecznym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_27/ust_1/pkt_6/lit_a",
+         "text": "równym 10 % albo",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_27/ust_1/pkt_6/lit_b",
+         "text": "danej wartości, lecz nie mniejszej niż 5 % — jeżeli waga jest wyposażona w ogranicznik pochylenia,",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "dla wag załadunkowych;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_27/ust_1/pkt_7",
+       "text": "przy wilgotności względnej 85 % w temperaturze równej wartości górnej granicy zakresu temperatury pracy wagi dla wag elektronicznych klasy dokładności Y (a), Y (b), X (x > 0,1) i Y (II), X (0,01 < x≤0,1) gdy e ≥ 1 g;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_27/ust_1/pkt_8",
+       "text": "przy każdym niecentrycznym położeniu ładunku o masie równej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_27/ust_1/pkt_8/lit_a",
+         "text": "1/3 sumy obciążenia maksymalnego i, jeżeli ma to zastosowanie, maksymalnej wartości tary dodającej albo",
+         "children": [
+          {
+           "type": "text",
+           "text": "1 b) ——– sumy obciążenia maksymalnego i, jeżeli a – 1 ma to zastosowanie, maksymalnej wartości tary dodającej — w przypadku liczby punktów podparcia nośni ładunku a > 4,"
+          },
+          {
+           "type": "text",
+           "text": "dla wag, które mogą być w czasie ważenia obciążane niecentrycznie."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_27/ust_2",
+     "text": "Wskazanie zerowe wagi nie powinno zmieniać się o więcej niż o wartość jednej działki legalizacyjnej na skutek zmiany temperatury otoczenia o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_27/ust_2/pkt_1",
+       "text": "1 °C, dla wag klasy dokładności X (x ≤ 0,01) i Y (I);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_27/ust_2/pkt_2",
+       "text": "5 °C, dla wag pozostałych klas dokładności.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Stabilność przedziału wskazań wagi elektronicznej, z wyłączeniem wag klasy X (x ≤ 0,01) i Y (I), powinna być taka, aby wartość bezwzględna różnicy między błędami wskazania wagi dla ładunku o masie zbliżonej do obciążenia maksymalnego, dla dowolnego z dwóch pomiarów, nie przekraczała 50 % wartości bezwzględnej błędów granicznych dopuszczalnych wagi przy zatwierdzeniu typu i legalizacji, określonych w załącznikach nr 2 i 3 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Przepis końcowy"
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2004 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Gospodarki, Pracy i Polityki Społecznej: w z. J. Banach"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 30 grudnia 2003 r. (poz. 2314) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WARTOŚĆ DZIAŁKI LEGALIZACYJNEJ E I LICZBA DZIAŁEK LEGALIZACYJNYCH WAG W ZALEŻNOŚCI OD KLASY DOKŁADNOŚCI"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 7 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 2"
+    },
+    {
+     "type": "text",
+     "text": "GRANICZNE DOPUSZCZALNE WARTOŚCI BŁĘDU ŚREDNIEGO X – I ODCHYLENIA STANDARDOWEGO EKSPERYMENTALNEGO BŁĘDU"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Graniczne dopuszczalne wartości błędu średniego X – przy automatycznym ważeniu określonej liczby ładunków o masie m, zawartej w zakresie ważenia wagi, dla wag klasy X:",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Graniczne dopuszczalne wartości odchylenia standardowego ekspermentalnego błędu s, przy automatycznym ważeniu określonej liczby ładunków o masie m, dla wag klasy X (1):",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Na stronie 8 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Załącznik nr 3"
+      },
+      {
+       "type": "text",
+       "text": "BŁĘDY GRANICZNE DOPUSZCZALNE WAG"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Błędy graniczne dopuszczalne dla wag klasy dokładności Y, przy automatycznym ważeniu dowolnego ładunku o masie m, zawartej w zakresie ważenia wagi:",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Błędy graniczne dopuszczalne dla wag klasy dokładności X i klasy dokładności Y, przy nieautomatycznym ważeniu dowolnego ładunku o masie m:",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Gospodarki, Pracy i Polityki Społecznej kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 7 stycznia 2003 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki, Pracy i Polityki Społecznej (Dz. U. Nr 1, poz. 5).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 155, poz. 1286 i Nr 166, poz. 1360 oraz z 2003 r. Nr 170, poz. 1652. k k k 2 r 1 2 r"
+ }
+}

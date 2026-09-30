@@ -1,0 +1,1909 @@
+{
+ "eli": "DU/2003/2147",
+ "title": "Rozporządzenie Ministra Finansów z dnia 10 grudnia 2003 r. w sprawie zasad tworzenia rezerw na ryzyko związane z działalnością banków",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/2147/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 grudnia 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zasad tworzenia rezerw na ryzyko związane z działalnością banków"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 81 ust. 2 pkt 8 lit. c ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694 oraz z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152 i Nr 139, poz. 1324) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "ustawa o rachunkowości — ustawę z dnia 29 września 1994 r. o rachunkowości;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "ekspozycje kredytowe — bilansowe należności z tytułu kredytów i pożyczek, skupionych wierzytelności, czeków i weksli, zrealizowanych gwarancji, innych wierzytelności o podobnym charakterze oraz udzielone zobowiązania pozabilansowe o charakterze finansowym i gwarancyjnym, z wyłączeniem:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "odsetek i prowizji, także skapitalizowanych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "wierzytelności od podmiotów zależnych od banku, jeżeli:",
+       "children": [
+        {
+         "type": "text",
+         "text": "— zaangażowanie kapitałowe banku w te podmioty wycenione jest metodą praw własności, na podstawie art. 63 ustawy o rachunkowości, oraz"
+        },
+        {
+         "type": "text",
+         "text": "— poziom rezerw tworzonych przez te podmioty jest nie niższy niż poziom obliczony zgodnie z zasadami określonymi w rozporządzeniu;"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "ekspozycje kredytowe wobec Skarbu Państwa — ekspozycje kredytowe wynikające z umów zawartych przez osoby uprawnione do reprezentowania Skarbu Państwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "pożyczki i kredyty detaliczne — ekspozycje kredytowe wobec osób fizycznych, udzielone na cele niezwiązane z działalnością gospodarczą lub prowadzeniem gospodarstwa rolnego, z wyłączeniem pożyczek i kredytów mieszkaniowych, pożyczek i kredytów hipotecznych oraz zobowiązań pozabilansowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "pożyczki i kredyty mieszkaniowe — ekspozycje kredytowe wobec osób fizycznych wynikające z finansowania niezwiązanego z działalnością gospodarczą lub prowadzeniem gospodarstwa rolnego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_5/lit_a",
+       "text": "nabycia, budowy, przebudowy, rozbudowy lub nadbudowy domu albo lokalu mieszkalnego stanowiącego odrębną nieruchomość,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_5/lit_b",
+       "text": "nabycia spółdzielczego prawa do lokalu mieszkalnego lub prawa do domu jednorodzinnego w spółdzielni mieszkaniowej albo prawa odrębnej własności lokalu mieszkalnego w spółdzielni mieszkaniowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_5/lit_c",
+       "text": "remontu domu albo lokalu, o których mowa w lit. a i b,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_5/lit_d",
+       "text": "nabycia działki budowlanej lub jej części pod budowę domu jednorodzinnego lub budynku mieszkalnego, w którym jest lub ma być położony lokal mieszkalny,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_5/lit_e",
+       "text": "innego celu związanego z zaspokajaniem potrzeb mieszkaniowych, w szczególności pokrycia kosztów partycypacji w kosztach budowy mieszkań przez towarzystwa budownictwa społecznego;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "pożyczki i kredyty hipoteczne — ekspozycje kredytowe wobec osób fizycznych na cele niezwiązane z działalnością gospodarczą lub prowadzeniem gospodarstwa rolnego, zabezpieczone zabezpieczeniami wymienionymi w ust. 3 pkt 14 załącznika nr 2 do rozporządzenia, pod warunkiem, że zabezpieczenia te ustanowione są na nieruchomości mieszkalnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "rezerwa na ryzyko ogólne — rezerwę utworzoną zgodnie z art. 130 ustawy z dnia 29 sierpnia 1997 r. — Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.[^2]);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "pierwotna wysokość zabezpieczanej kwoty — wysokość ekspozycji kredytowej określoną w umowie obowiązującej w dniu dokonywania klasyfikacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Banki tworzą rezerwy na ryzyko związane z ich działalnością, zwane dalej „rezerwami celowymi”, w odniesieniu do ekspozycji kredytowych zaklasyfikowanych do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "kategorii „normalne” — w zakresie ekspozycji kredytowych wynikających z pożyczek i kredytów detalicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "kategorii „pod obserwacją”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "grupy „zagrożone” — w tym do kategorii „poniżej standardu”, „wątpliwe” lub „stracone”.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Zasady klasyfikacji ekspozycji kredytowych określa załącznik nr 1 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Wykaz zabezpieczeń ekspozycji kredytowych określa załącznik nr 2 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Obowiązek tworzenia rezerw celowych nie dotyczy ekspozycji kredytowych stanowiących udzielone zobowiązania pozabilansowe w przypadku, gdy postanowienia umowy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_4/pkt_1",
+       "text": "gwarantują bankowi swobodę w podjęciu decyzji o uruchomieniu środków w ramach zobowiązania lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_4/pkt_2",
+       "text": "uzależniają uruchomienie środków w ramach zobowiązania od terminowej obsługi już wykorzystanej części i niebudzącej obaw sytuacji ekonomiczno-finansowej dłużnika w przypadku, gdy wymagane jest stosowanie tego kryterium, lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_4/pkt_3",
+       "text": "uzależniają uruchomienie środków w ramach zobowiązania od złożenia zabezpieczeń wymienionych w załączniku nr 2 do rozporządzenia, umożliwiających pomniejszenie podstawy tworzenia rezerw celowych o kwotę odpowiadającą uruchamianym środkom lub klasyfikowanie ekspozycji kredytowej do kategorii „normalne”.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Komisja Nadzoru Bankowego może, na wniosek banku, zezwolić na inną klasyfikację ekspozycji kredytowych, w szczególności w oparciu o wewnętrzne systemy ratingów i metody szacowania oczekiwanych strat, zwane dalej „modelami ryzyka kredytowego”, informując ministra właściwego do spraw instytucji finansowych o udzielonym zezwoleniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Rezerwy celowe na ryzyko związane z ekspozycjami kredytowymi wynikającymi z pożyczek i kredytów detalicznych, zaklasyfikowanymi do kategorii „normalne” tworzy się w wysokości co najmniej wymaganego poziomu rezerw, stanowiącego 1,5 % podstawy tworzenia rezerw celowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Rezerwy celowe na ryzyko związane z ekspozycjami kredytowymi zaklasyfikowanymi do kategorii „pod obserwacją”, „poniżej standardu”, „wątpliwe” i „stracone” tworzy się na podstawie indywidualnej oceny ryzyka obciążającego daną ekspozycję, jednak w wysokości co najmniej wymaganego poziomu rezerw, stanowiącego w relacji do podstawy tworzenia rezerw celowych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "1,5 % — w przypadku kategorii „pod obserwacją”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "20 % — w przypadku kategorii „poniżej standardu”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_2/pkt_3",
+       "text": "50 % — w przypadku kategorii „wątpliwe”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_2/pkt_4",
+       "text": "100 % — w przypadku kategorii „stracone”.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Komisja Nadzoru Bankowego, na wniosek banku, może zezwolić na utworzenie rezerw celowych w innej wysokości niż określona w ust. 1 i 2, w szczególności w oparciu o modele ryzyka kredytowego, informując ministra właściwego do spraw instytucji finansowych o udzielonym zezwoleniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Rezerwy celowe tworzy się, aktualizuje co do wysokości oraz rozwiązuje najpóźniej w ostatnim dniu miesiąca kończącego kwartał, w którym dokonano przeglądu i klasyfikacji ekspozycji kredytowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Podstawę tworzenia rezerw celowych stanowi wartość bilansowa ekspozycji kredytowej bez uwzględnienia utworzonych rezerw celowych, ale z uwzględnieniem przewidywanej, w związku z restrukturyzacją zadłużenia, kwoty umorzenia części ekspozycji kredytowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Podstawę tworzenia rezerw celowych na ryzyko związane z ekspozycjami kredytowymi, zakwalifikowanymi do kategorii „pod obserwacją” lub grupy „zagrożone”, można pomniejszyć, z zastrzeżeniem § 5, o wartość zabezpieczeń wymienionych w:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "ust. 3 pkt 3, 14, 15, 16, 17 i 18 oraz w zakresie pojazdów samochodowych — pkt 21 i 22 załącznika nr 2 do rozporządzenia — w przypadku ekspozycji kredytowych wynikających z pożyczek i kredytów detalicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "ust. 3 załącznika nr 2 do rozporządzenia — w przypadku pozostałych ekspozycji kredytowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Przeglądów i aktualizacji wartości zabezpieczeń, o które pomniejszono podstawę tworzenia rezerw celowych, dokonuje się, z zastrzeżeniem ust. 4, w trybie obowiązującym dla przeglądów i klasyfikacji ekspozycji kredytowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "W przypadku zabezpieczeń w postaci hipoteki, zastawu na statku morskim i zastawu na statku powietrznym wartość zabezpieczenia ustala się na podstawie posiadanej wyceny rzeczoznawcy lub — w określonych odrębnymi przepisami przypadkach — na podstawie wyceny bankowo-hipotecznej. Bank, w ramach przeglądów i aktualizacji wartości zabezpieczeń, dokonuje analizy rynkowych cen zabezpieczeń na podstawie własnych lub międzybankowych baz danych, zgodnie z przyjętą pisemną procedurą. Jeśli wynikający z tej analizy spadek rynkowych cen tych zabezpieczeń, w okresie od dokonania ostatniej wyceny przez rzeczoznawcę, może mieć znaczący wpływ na wartość danego zabezpieczenia ekspozycji kredytowej, bank powinien zlecić ponowną wycenę lub pisemnie uzasadnić odstąpienie od jej zlecenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Pomniejszeń, o których mowa w § 4 ust. 2, można dokonać, jeżeli na dzień dokonywania przeglądu, o którym mowa w § 4 ust. 3, spełnione są łącznie następujące warunki:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "wartość zabezpieczenia jest możliwa do uzyskania, w wysokości uwzględnianej do pomniejszenia podstawy tworzenia rezerw, podczas ewentualnego postępowania egzekucyjnego, biorąc pod uwagę ograniczenia prawne, ekonomiczne i faktyczne mogące wpływać na rzeczywistą możliwość zaspokojenia się banku z przedmiotu zabezpieczenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "zabezpieczenie to nie jest lub nie było wykorzystane w trybie przewidzianym w cz. I ust. 3 pkt 2 i ust. 4 załącznika nr 1 do rozporządzenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Kwota, o którą można pomniejszyć podstawę tworzenia rezerw celowych, w przypadku zabezpieczeń w postaci:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "hipoteki — nie może być wyższa niż wysokość dokonanego wpisu do księgi wieczystej oraz:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_2/pkt_1/lit_a",
+         "text": "50 % wartości ustalonej na podstawie wyceny rzeczoznawcy. Jeżeli wycena rzeczoznawcy nie uwzględnia wcześniej powstałych obciążeń, wartość tę pomniejsza się najpierw o łączną kwotę tych obciążeń,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_2/pkt_1/lit_b",
+         "text": "60 % bankowo-hipotecznej wartości nieruchomości, ustalonej zgodnie z art. 22 ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2003 r. Nr 99, poz. 919);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "przeniesienia prawa własności rzeczy ruchomej — nie może być wyższa niż 50 % wartości sprzedaży netto danej rzeczy ruchomej i 50 % pierwotnej wysokości zabezpieczanej kwoty;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "przeniesienia prawa własności papierów wartościowych, z wyjątkiem emitowanych przez Skarb Państwa, Narodowy Bank Polski, banki centralne lub rządy krajów będących członkiem Organizacji Współpracy Gospodarczej i Rozwoju oraz inne banki — nie może być wyższa niż 50 % ich wartości godziwej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_2/pkt_4",
+       "text": "zastawu na statku morskim lub powietrznym — nie może być wyższa niż 50 % wyceny rzeczoznawcy i 50 % pierwotnej wysokości zabezpieczanej kwoty;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_2/pkt_5",
+       "text": "zastawu rejestrowego na prawach z papierów wartościowych, o których mowa w pkt 3 — nie może być wyższa niż 50 % ich wartości godziwej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_2/pkt_6",
+       "text": "zastawu rejestrowego na rzeczy ruchomej — nie może być wyższa niż 50 % wartości sprzedaży netto danej rzeczy ruchomej i 50 % pierwotnej wysokości zabezpieczanej kwoty;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_5/ust_2/pkt_7",
+       "text": "gwarancji lub poręczenia podmiotu, o których mowa w ust. 2 pkt 6 i ust. 3 pkt 9 załącznika nr 2 do rozporządzenia, oraz oświadczenia patronackiego, o którym mowa w ust. 3 pkt 23 załącznika nr 2 do rozporządzenia — łącznie w stosunku do jednego kredytobiorcy nie może być wyższa niż 15 % aktywów netto wystawcy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Limity pomniejszenia kwoty ekspozycji kredytowej określa załącznik nr 3 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Z zastrzeżeniem ust. 5 i 6:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_4/pkt_1",
+       "text": "w przypadku ekspozycji kredytowych zabezpieczonych zabezpieczeniami wymienionymi w ust. 3 pkt 14 załącznika nr 2 do rozporządzenia — w bankach hipotecznych, oraz zabezpieczeniami wymienionymi w ust. 3 pkt 14 lit. a, b, c, e i f załącznika nr 2 do rozporządzenia, pod warunkiem że zabezpieczenia te ustanowione są na nieruchomości mieszkalnej — w pozostałych bankach, kwota, o którą można pomniejszyć podstawę tworzenia rezerw celowych, nie może być większa niż limit pomniejszenia dla poszczególnych okresów opóźnienia w spłacie, określony w tabeli nr 1 załącznika nr 3 do rozporządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_4/pkt_2",
+       "text": "w przypadku ekspozycji kredytowych zabezpieczonych zabezpieczeniami, wymienionymi w ust. 3 załącznika nr 2 do rozporządzenia, z wyłączeniem określonych w pkt 1, kwota, o którą można pomniejszyć podstawę tworzenia rezerw celowych, nie może być większa niż limit pomniejszenia dla poszczególnych okresów opóźnienia w spłacie, określony w tabeli nr 2 załącznika nr 3 do rozporządzenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "Dla celów określonych w ust. 4 opóźnienie w spłacie liczy się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_5/pkt_1",
+       "text": "od dnia wejścia w życie rozporządzenia — w przypadku ekspozycji kredytowych opóźnionych w spłacie w dniu wejścia w życie rozporządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_5/pkt_2",
+       "text": "od dnia wystąpienia opóźnienia — w przypadku pozostałych ekspozycji kredytowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_5/ust_6",
+     "text": "Jeżeli w przypadku ekspozycji kredytowej opóźnionej w spłacie, terminy (harmonogram) spłaty zostały zmienione, to opóźnienie w spłacie ekspozycji kredytowej liczy się dla celów określonych w ust. 4 według zmienionych terminów (zmienionego harmonogramu) spłaty pod warunkiem, że zmiana ta została dokonana po raz pierwszy. W przypadku kolejnych zmian terminów (harmonogramu) spłaty, opóźnienie w spłacie ekspozycji kredytowej liczy się według terminów (harmonogramu) spłaty ustalonych w pierwszej zmianie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "W przypadku gdy bank posiada wobec dłużnika ekspozycje kredytowe stanowiące zarówno należności bilansowe, jak i udzielone zobowiązania pozabilansowe, jeżeli warunki umowy nie stanowią inaczej, posiadane zabezpieczenia uwzględnia się w pierwszej kolejności w ustalaniu podstawy tworzenia rezerwy celowej na należności bilansowe.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Wymagany poziom rezerw celowych na ryzyko związane z ekspozycjami kredytowymi:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "wynikającymi z pożyczek i kredytów detalicznych, zaklasyfikowanymi do kategorii „normalne” — pomniejsza się o kwotę równą 25 % rezerwy na ryzyko ogólne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "zaklasyfikowanymi do kategorii „pod obserwacją” — pomniejsza się o kwotę równą 25 % rezerwy na ryzyko ogólne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Rezerwy celowe tworzy się w ciężar kosztów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Rezerwy celowe rozwiązuje się po wygaśnięciu przyczyn ich utworzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Rezerwę celową zmniejsza się odpowiednio do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_2/pkt_1",
+       "text": "zmniejszenia się kwoty ekspozycji kredytowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_2/pkt_2",
+       "text": "zmiany kategorii ekspozycji kredytowej na kategorię o niższym stopniu ryzyka w wyniku dokonanej klasyfikacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_2/pkt_3",
+       "text": "wzrostu wartości zabezpieczenia pomniejszającego podstawę tworzenia rezerw celowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_9/ust_2/pkt_4",
+       "text": "wzrostu wartości rezerwy na ryzyko ogólne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Ekspozycje kredytowe stanowiące należności umorzone, przedawnione lub nieściągalne odpisuje się w ciężar utworzonych na nie rezerw celowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Wniosek, o którym mowa w § 2 ust. 5 oraz § 3 ust. 3, powinien w szczególności zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "szczegółowy opis modelu ryzyka kredytowego, w tym w szczególności:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_10/ust_1/pkt_1/lit_a",
+         "text": "zasady określania portfela kredytowego objętego modelem ryzyka kredytowego oraz analizę jego jednorodności,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_10/ust_1/pkt_1/lit_b",
+         "text": "określenie rozkładu strat w portfelu kredytowym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_10/ust_1/pkt_1/lit_c",
+         "text": "zasady szacowania parametrów rozkładu strat na portfelu kredytowym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_10/ust_1/pkt_1/lit_d",
+         "text": "opis źródeł i metod aktualizacji danych (próba historyczna) wykorzystywanych do szacowania parametrów modelu — prawdopodobieństwa przeklasyfikowania ekspozycji kredytowych i ich zmienność,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_10/ust_1/pkt_1/lit_e",
+         "text": "zasady uwzględniania zabezpieczeń dopuszczonych rozporządzeniem,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_10/ust_1/pkt_1/lit_f",
+         "text": "specyfikację i weryfikację założeń modelu ryzyka kredytowego;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_1/pkt_2",
+       "text": "założenia i opis przyjętych zasad weryfikacji historycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_1/pkt_3",
+       "text": "procedury zarządzania ryzykiem kredytowym w banku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_10/ust_1/pkt_4",
+       "text": "procedury wewnętrznej kontroli w zarządzaniu ryzykiem kredytowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_10/ust_1/pkt_5",
+       "text": "przykład zastosowania modelu ryzyka kredytowego do klasyfikacji ekspozycji kredytowych oraz wyznaczania wymaganego poziomu rezerw celowych za okres poprzedniego kwartału wraz z wynikami weryfikacji historycznej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Wycena wartości bilansowej ekspozycji kredytowych wynikająca z zastosowania przyjętego modelu powinna być zgodna z wyceną wynikającą z zastosowania Międzynarodowych Standardów Rachunkowości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Zezwolenia, o których mowa w § 2 ust. 5 oraz § 3 ust. 3, mogą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_3/pkt_1",
+       "text": "być wydane bezterminowo lub na czas określony;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_3/pkt_2",
+       "text": "zostać cofnięte, jeśli bank nie zapewnia właściwego zarządzania ryzykiem kredytowym, a w szczególności jeśli na podstawie przeprowadzonej weryfikacji stwierdzono, że w okresie ostatnich 12 miesięcy rzeczywiste straty są wyższe od rezerw celowych obliczonych na podstawie modelu ryzyka kredytowego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "W przypadku utworzenia rezerw celowych w wysokości niższej niż wymagany poziom rezerw celowych, z zastrzeżeniem § 2 ust. 5 oraz § 3 ust. 3, zarząd banku niezwłocznie zawiadamia Komisję Nadzoru Bankowego o przyczynach takiego stanu i niezwłocznie uzupełnia brakujące rezerwy celowe, przy czym uzupełnienie nie może nastąpić później niż do końca danego roku obrotowego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Przy dokonywaniu klasyfikacji ekspozycji kredytowych wobec Skarbu Państwa, powstałych przed dniem 1 stycznia 2002 r., w przypadku których bank zawarł z reprezentantem Skarbu Państwa, na podstawie dotychczasowych przepisów, umowy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_1/pkt_1",
+       "text": "potwierdzające bezsporność i wymagalność ekspozycji kredytowej oraz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_1/pkt_2",
+       "text": "określające terminy (harmonogramy) spłat",
+       "children": [
+        {
+         "type": "text",
+         "text": "— okres opóźnienia w spłacie kapitału lub odsetek liczy się od terminów (harmonogramu) spłat określonych w tych umowach."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Jeżeli bank nie zawarł umów, o których mowa w ust. 1 pkt 1, ekspozycje kredytowe wobec Skarbu Państwa, powstałe przed dniem 1 stycznia 2002 r. klasyfikuje się jako „stracone”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Decyzje Komisji Nadzoru Bankowego dotyczące rezerw celowych, wydane na podstawie dotychczasowych przepisów, zachowują moc do czasu ich wygaśnięcia lub cofnięcia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Traci moc rozporządzenie Ministra Finansów z dnia 10 grudnia 2001 r. w sprawie zasad tworzenia rezerw na ryzyko związane z działalnością banków (Dz. U. Nr 149, poz. 1672 oraz z 2002 r. Nr 31, poz. 288).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2004 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Finansów: w z. W. Ciesielski"
+    },
+    {
+     "type": "text",
+     "text": "Załączniki do rozporządzenia Ministra Finansów z dnia 10 grudnia 2003 r. (poz. 2147)"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 1"
+    },
+    {
+     "type": "text",
+     "text": "ZASADY KLASYFIKACJI EKSPOZYCJI KREDYTOWYCH"
+    },
+    {
+     "type": "text",
+     "text": "I. Kryteria klasyfikacji ekspozycji kredytowych"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Ekspozycje kredytowe klasyfikuje się zgodnie z cz. II niniejszego załącznika na podstawie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_1/pkt_1",
+       "text": "kryterium terminowości spłaty kapitału lub odsetek w odniesieniu do:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_15/ust_1/pkt_1/lit_a",
+         "text": "ekspozycji kredytowych wobec Skarbu Państwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_15/ust_1/pkt_1/lit_b",
+         "text": "ekspozycji kredytowych wobec osób fizycznych, udzielonych na cele niezwiązane z działalnością gospodarczą lub prowadzeniem gospodarstwa rolnego;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_1/pkt_2",
+       "text": "w odniesieniu do pozostałych ekspozycji kredytowych, dwóch niezależnych od siebie kryteriów:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_15/ust_1/pkt_2/lit_a",
+         "text": "terminowości spłaty kapitału lub odsetek,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_15/ust_1/pkt_2/lit_b",
+         "text": "sytuacji ekonomiczno-finansowej dłużnika.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Ocena sytuacji ekonomiczno-finansowej dłużnika, odpowiednio do jego statusu, powinna w szczególności uwzględniać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_2/pkt_1",
+       "text": "mierniki ilościowe, do których zalicza się zwłaszcza:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_15/ust_2/pkt_1/lit_a",
+         "text": "wskaźniki efektywności działania (np. rentowność, zyskowność kapitału),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_15/ust_2/pkt_1/lit_b",
+         "text": "wskaźniki płynności,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_15/ust_2/pkt_1/lit_c",
+         "text": "wskaźniki rotacji majątku obrotowego i zobowiązań bieżących,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_15/ust_2/pkt_1/lit_d",
+         "text": "wskaźniki struktury bilansu (np. wskaźniki zadłużenia i możliwości obsługi długu),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_15/ust_2/pkt_1/lit_e",
+         "text": "współczynnik wypłacalności (w przypadku banków) i margines bezpieczeństwa (w przypadku ubezpieczycieli);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_2/pkt_2",
+       "text": "mierniki jakościowe, do których zalicza się zwłaszcza:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_15/ust_2/pkt_2/lit_a",
+         "text": "jakość zarządzania (ocena kadry kierowniczej),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_15/ust_2/pkt_2/lit_b",
+         "text": "stopień zależności od rynku,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_15/ust_2/pkt_2/lit_c",
+         "text": "stopień zależności od dotacji rządowych, zamówień rządowych, kilku dużych dostawców lub odbiorców,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_15/ust_2/pkt_2/lit_d",
+         "text": "stopień zależności od innych podmiotów grupy;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_2/pkt_3",
+       "text": "dostępne oceny uznanych agencji ratingowych, odnoszące się zarówno do dłużnika, jak i kraju jego pochodzenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_15/ust_3",
+     "text": "W przypadku ekspozycji kredytowych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_3/pkt_1",
+       "text": "wynikających z nabycia przez bank czeków, weksli oraz wierzytelności z prawem regresu — ocenę sytuacji ekonomiczno-finansowej dłużnika można zastąpić oceną sytuacji ekonomiczno-finansowej wierzyciela;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_3/pkt_2",
+       "text": "w części zabezpieczonej zabezpieczeniami wymienionymi w ust. 2 załącznika nr 2 do rozporządzenia — ocenę sytuacji ekonomiczno-finansowej dłużnika można zastąpić oceną sytuacji ekonomiczno-finansowej wystawcy zabezpieczenia. Przy czym zabezpieczenia te uwzględnia się, stosując odpowiednio zasady określone w § 5 rozporządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_3/pkt_3",
+       "text": "wynikających z finansowania projektów inwestycyjnych, prowadzonych w ramach powołanych do tego celu odrębnych spółek prawa handlowego — ocenę sytuacji ekonomiczno-finansowej dłużnika można zastąpić oceną struktury prawno-finansowej projektu inwestycyjnego, biorąc pod uwagę zawarte i obowiązujące umowy i wiążące oświadczenia minimalizujące poszczególne rodzaje ryzyka projektu, ze szczególnym uwzględnieniem założeń finansowych projektu, które stanowiły podstawę udzielenia kredytu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_15/ust_4",
+     "text": "Niezależnie od postanowień ust. 1 cz. II niniejszego załącznika ekspozycje kredytowe, o których mowa w cz. II ust. 1 pkt 3 i 4 w części zabezpieczonej zabezpieczeniami, o których mowa w ust. 1 załącznika nr 2 do rozporządzenia, mogą być klasyfikowane jako ekspozycje kredytowe „normalne”. Przy czym zabezpieczenia te uwzględnia się, stosując odpowiednio zasady określone w § 5 rozporządzenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "II. Klasyfikacja ekspozycji kredytowych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Z zastrzeżeniem ust. 4 cz. I, ekspozycje kredytowe klasyfikuje się do następujących kategorii:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_1/pkt_1",
+       "text": "w przypadku ekspozycji wobec Skarbu Państwa:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_15/ust_1/pkt_1/lit_a",
+         "text": "ekspozycje kredytowe „normalne” — obejmujące ekspozycje kredytowe, w przypadku których opóźnienie w spłacie kapitału lub odsetek w stosunku do terminu (harmonogramu) spłat określonego w momencie powstania zobowiązania Skarbu Państwa nie przekracza jednego roku,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_15/ust_1/pkt_1/lit_b",
+         "text": "ekspozycje kredytowe „wątpliwe” — obejmujące:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— ekspozycje kredytowe, w przypadku których opóźnienie w spłacie kapitału lub odsetek w stosunku do terminu (harmonogramu) spłat określonego w momencie powstania zobowiązania Skarbu Państwa przekracza jeden rok i nie przekracza 2 lat,"
+          },
+          {
+           "type": "text",
+           "text": "— ekspozycje kredytowe o nieokreślonym terminie (harmonogramie) płatności, dla których okres od momentu powstania zobowiązania Skarbu Państwa do momentu klasyfikacji nie przekracza jednego roku,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_15/ust_1/pkt_1/lit_c",
+         "text": "ekspozycje kredytowe „stracone” — obejmujące:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— ekspozycje kredytowe, w przypadku których opóźnienie w spłacie kapitału lub odsetek w stosunku do terminu (harmonogramu) spłat określonego w momencie powstania zobowiązania Skarbu Państwa przekracza 2 lata,"
+          },
+          {
+           "type": "text",
+           "text": "— ekspozycje kredytowe o nieokreślonym terminie (harmonogramie) płatności, dla których okres od momentu powstania zobowiązania Skarbu Państwa do momentu klasyfikacji przekracza jeden rok,"
+          },
+          {
+           "type": "text",
+           "text": "— wszelkie ekspozycje kredytowe sporne;"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_1/pkt_2",
+       "text": "w przypadku ekspozycji kredytowych wynikających z pożyczek i kredytów detalicznych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_15/ust_1/pkt_2/lit_a",
+         "text": "ekspozycje kredytowe „normalne” — obejmujące ekspozycje, w przypadku których opóźnienie w spłacie kapitału lub odsetek nie przekracza 6 miesięcy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_15/ust_1/pkt_2/lit_b",
+         "text": "ekspozycje kredytowe „stracone” — obejmujące:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— ekspozycje, w przypadku których opóźnienie w spłacie kapitału lub odsetek przekracza 6 miesięcy,"
+          },
+          {
+           "type": "text",
+           "text": "— ekspozycje kredytowe wobec dłużników, przeciwko którym bank złożył wniosek o wszczęcie postępowania egzekucyjnego,"
+          },
+          {
+           "type": "text",
+           "text": "— ekspozycje kredytowe kwestionowane przez dłużników na drodze postępowania sądowego,"
+          },
+          {
+           "type": "text",
+           "text": "— ekspozycje kredytowe wobec dłużników, których miejsce pobytu jest nieznane i których majątek nie został ujawniony;"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_1/pkt_3",
+       "text": "w przypadku pozostałych ekspozycji kredytowych wobec osób fizycznych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_15/ust_1/pkt_3/lit_a",
+         "text": "ekspozycje kredytowe „normalne” — obejmujące ekspozycje kredytowe, w przypadku których opóźnienie w spłacie kapitału lub odsetek nie przekracza 1 miesiąca,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_15/ust_1/pkt_3/lit_b",
+         "text": "ekspozycje kredytowe „pod obserwacją” — obejmujące ekspozycje kredytowe, w przypadku których opóźnienie w spłacie kapitału lub odsetek przekracza 1 miesiąc i nie przekracza 3 miesięcy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_15/ust_1/pkt_3/lit_c",
+         "text": "ekspozycje kredytowe „poniżej standardu” — obejmujące ekspozycje kredytowe, w przypadku których opóźnienie w spłacie kapitału lub odsetek przekracza 3 miesiące i nie przekracza 6 miesięcy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_15/ust_1/pkt_3/lit_d",
+         "text": "ekspozycje kredytowe „wątpliwe” — obejmujące ekspozycje kredytowe, w przypadku których opóźnienie w spłacie kapitału lub odsetek przekracza 6 miesięcy i nie przekracza 12 miesięcy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_15/ust_1/pkt_3/lit_e",
+         "text": "ekspozycje kredytowe „stracone” — obejmujące:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— ekspozycje kredytowe, w przypadku których opóźnienie w spłacie kapitału lub odsetek przekracza 12 miesięcy,"
+          },
+          {
+           "type": "text",
+           "text": "— ekspozycje kredytowe wobec dłużników, przeciwko którym bank złożył wniosek o wszczęcie postępowania egzekucyjnego,"
+          },
+          {
+           "type": "text",
+           "text": "— ekspozycje kredytowe kwestionowane przez dłużników na drodze postępowania sądowego, — ekspozycje kredytowe wobec dłużników, których miejsce pobytu jest nieznane i których majątek nie został ujawniony;"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_15/ust_1/pkt_4",
+       "text": "w przypadku pozostałych ekspozycji kredytowych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_15/ust_1/pkt_4/lit_a",
+         "text": "ekspozycje kredytowe „normalne” — obejmujące ekspozycje kredytowe, w przypadku których opóźnienie w spłacie kapitału lub odsetek nie przekracza 1 miesiąca, a sytuacja ekonomiczno-finansowa dłużników nie budzi obaw,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_15/ust_1/pkt_4/lit_b",
+         "text": "ekspozycje kredytowe „pod obserwacją” — obejmujące ekspozycje kredytowe:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— w przypadku których opóźnienie w spłacie kapitału lub odsetek przekracza 1 miesiąc i nie przekracza 3 miesięcy, a sytuacja ekonomiczno-finansowa dłużników nie budzi obaw, lub"
+          },
+          {
+           "type": "text",
+           "text": "— które ze względu na ryzyko regionu, kraju, branży, grupy klientów, grupy produktów wymagają szczególnej uwagi. Oprócz wymienionych, bank może dodatkowo ustalić inne kryteria klasyfikacji do kategorii „pod obserwacją”,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_15/ust_1/pkt_4/lit_c",
+         "text": "ekspozycje kredytowe „poniżej standardu” — obejmujące:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— ekspozycje kredytowe, w przypadku których opóźnienie w spłacie kapitału lub odsetek przekracza 3 miesiące i nie przekracza 6 miesięcy,"
+          },
+          {
+           "type": "text",
+           "text": "— ekspozycje kredytowe wobec dłużników, których sytuacja ekonomiczno-finansowa może stanowić zagrożenie terminowej spłaty ekspozycji,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_15/ust_1/pkt_4/lit_d",
+         "text": "ekspozycje kredytowe „wątpliwe” — obejmujące:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— ekspozycje kredytowe, w przypadku których opóźnienie w spłacie kapitału lub odsetek przekracza 6 miesięcy i nie przekracza 12 miesięcy,"
+          },
+          {
+           "type": "text",
+           "text": "— ekspozycje kredytowe wobec dłużników, których sytuacja ekonomiczno-finansowa ulega znacznemu pogorszeniu, a zwłaszcza gdy ponoszone straty w sposób istotny naruszają ich kapitały (aktywa netto),"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_15/ust_1/pkt_4/lit_e",
+         "text": "ekspozycje kredytowe „stracone” — obejmujące:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— ekspozycje kredytowe, w przypadku których opóźnienie w spłacie kapitału lub odsetek przekracza 12 miesięcy,"
+          },
+          {
+           "type": "text",
+           "text": "— ekspozycje kredytowe wobec dłużników, których sytuacja ekonomiczno-finansowa pogorszyła się w sposób nieodwracalnie uniemożliwiający spłacenie długu,"
+          },
+          {
+           "type": "text",
+           "text": "— ekspozycje kredytowe wobec dłużników, w stosunku do których ogłoszono upadłość lub w stosunku do których nastąpiło otwarcie likwidacji z wyjątkiem, gdy następuje ona na podstawie przepisów o komercjalizacji i prywatyzacji, — ekspozycje kredytowe wobec dłużników, przeciwko którym bank złożył wniosek o wszczęcie postępowania egzekucyjnego,"
+          },
+          {
+           "type": "text",
+           "text": "— ekspozycje kredytowe kwestionowane przez dłużników na drodze postępowania sądowego,"
+          },
+          {
+           "type": "text",
+           "text": "— ekspozycje kredytowe wobec dłużników, których miejsce pobytu jest nieznane i których majątek nie został ujawniony."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Przeglądów i klasyfikacji ekspozycji kredytowych dokonuje się według danych aktualnych na dzień przeprowadzania klasyfikacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_15/ust_3",
+     "text": "Opóźnienie w spłacie części należnej raty kapitałowej lub odsetkowej, w kwocie nieprzekraczającej 200 zł, nie wymaga przeklasyfikowania ekspozycji kredytowej do wyższej kategorii ryzyka.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_15/ust_4",
+     "text": "Jeżeli bank posiada więcej niż jedną ekspozycję kredytową wobec jednego dłużnika, wszystkie ekspozycje kredytowe wobec tego dłużnika klasyfikuje się do najwyższej kategorii ryzyka spośród kategorii przypisanych tym ekspozycjom, przy czym:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_4/pkt_1",
+       "text": "zasady tej nie stosuje się w przypadku, gdy ekspozycja kredytowa zaklasyfikowana została z uwzględnieniem zasad określonych w cz. I ust. 3 pkt 1 i 2 oraz ust. 4 niniejszego załącznika,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_4/pkt_2",
+       "text": "zmiana klasyfikacji kredytu detalicznego (pożyczki detalicznej) nie wpływa na klasyfikację kredytu mieszkaniowego lub kredytu hipotecznego (pożyczki hipotecznej) oraz zmiana klasyfikacji kredytu mieszkaniowego lub kredytu hipotecznego (pożyczki hipotecznej) nie wpływa na klasyfikację kredytu detalicznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_15/ust_5",
+     "text": "W przypadku ekspozycji kredytowych, których spłata jest uzależniona od podmiotów innych niż dłużnik (w szczególności należności z tytułu środków pieniężnych wpłacanych na zabezpieczenie zobowiązań osób trzecich), kryterium sytuacji ekonomiczno-finansowej stosuje się w odniesieniu do tego spośród tych podmiotów i dłużnika, którego sytuacja ekonomiczno-finansowa jest najgorsza.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_15/ust_6",
+     "text": "W przypadku ekspozycji kredytowych stanowiących zobowiązania solidarne osób trzecich, kryterium sytuacji ekonomiczno-finansowej stosuje się w odniesieniu do tej z nich, której sytuacja ekonomiczno-finansowa jest najlepsza.",
+     "children": [
+      {
+       "type": "text",
+       "text": "III. Zmiana klasyfikacji ekspozycji kredytowych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Ekspozycje kredytowe, w tym także ekspozycje kredytowe, których warunki spłaty zostały zmienione w wyniku podpisania nowych umów, mogą być, z zastrzeżeniem ust. 2, przeniesione do kolejnej kategorii o niższym stopniu ryzyka:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_1/pkt_1",
+       "text": "nie wcześniej niż po upływie 3 miesięcy terminowej obsługi zadłużenia (spłat rat kapitałowych i odsetek) — w przypadku ekspozycji kredytowych wobec osób fizycznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_1/pkt_2",
+       "text": "po odzyskaniu przez dłużnika pełnej zdolności kredytowej, jednak nie wcześniej niż po upływie 3 miesięcy terminowej obsługi zadłużenia (spłat rat kapitałowych i odsetek) — w przypadku pozostałych ekspozycji kredytowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Ekspozycje kredytowe wynikające z należności od Skarbu Państwa mogą być przeniesione bezpośrednio do kategorii „normalne” po całkowitym spłaceniu wszystkich zapadłych rat kapitałowych i odsetkowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "IV. Częstotliwość przeglądów i klasyfikacji ekspozycji kredytowych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Z zastrzeżeniem ust. 2, przeglądów i klasyfikacji ekspozycji kredytowych dokonuje się co najmniej raz na koniec każdego kwartału.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Kryterium sytuacji ekonomiczno-finansowej dłużnika stosuje się co najmniej raz na rok — na koniec dowolnego kwartału, w przypadku ekspozycji kredytowych spełniających łącznie następujące warunki:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_2/pkt_1",
+       "text": "ekspozycja jest zaklasyfikowana do kategorii „normalne”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_2/pkt_2",
+       "text": "kwota ekspozycji łącznie z innymi ekspozycjami banku wobec tego podmiotu nie przekracza równowartości w złotych kwoty 1 mln euro, obliczonej według kursu średniego ustalonego przez Narodowy Bank Polski obowiązującego na dzień dokonywania klasyfikacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_2/pkt_3",
+       "text": "kwota ekspozycji łącznie z innymi ekspozycjami banku wobec tego podmiotu nie przekracza 10 % funduszy własnych banku.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Załącznik nr 2"
+        },
+        {
+         "type": "text",
+         "text": "WYKAZ ZABEZPIECZEŃ EKSPOZYCJI KREDYTOWYCH"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Zabezpieczenia umożliwiające zaklasyfikowanie ekspozycji kredytowej do kategorii „normalne”:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_1/pkt_1",
+       "text": "gwarancja lub poręczenie Skarbu Państwa, Narodowego Banku Polskiego lub Bankowego Funduszu Gwarancyjnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_1/pkt_2",
+       "text": "gwarancja lub poręczenie banku centralnego lub rządu państwa będącego członkiem Organizacji Współpracy Gospodarczej i Rozwoju (OECD);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_1/pkt_3",
+       "text": "gwarancja lub poręczenie państwowej osoby prawnej, z wyłączeniem banków i zakładów ubezpieczeń, uprawnionej na podstawie odrębnych przepisów do ich udzielania w ramach realizacji powierzonych jej zadań państwowych w przypadku, gdy w budżecie państwa określono źródła sfinansowania ewentualnych zobowiązań;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_15/ust_1/pkt_4",
+       "text": "wpłata określonej kwoty w złotych lub w innej walucie wymienialnej na rachunek banku, spełniająca warunki określone w art. 102 ustawy z dnia 29 sierpnia 1997 r. — Prawo bankowe, przy czym przeliczenia na złote należy dokonać według kursu średniego ustalonego przez Narodowy Bank Polski na dzień dokonywania klasyfikacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_15/ust_1/pkt_5",
+       "text": "zastaw rejestrowy na prawach z papierów wartościowych emitowanych przez:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_15/ust_1/pkt_5/lit_a",
+         "text": "Skarb Państwa lub Narodowy Bank Polski,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_15/ust_1/pkt_5/lit_b",
+         "text": "banki centralne lub rządy państw będących członkiem OECD",
+         "children": [
+          {
+           "type": "text",
+           "text": "— według ich wartości godziwej;"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_15/ust_1/pkt_6",
+       "text": "przeniesienie na bank, do czasu spłaty zadłużenia wraz z należnymi odsetkami i prowizją, prawa własności papierów wartościowych emitowanych przez:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_15/ust_1/pkt_6/lit_a",
+         "text": "Skarb Państwa lub Narodowy Bank Polski,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_15/ust_1/pkt_6/lit_b",
+         "text": "banki centralne lub rządy państw będących członkiem OECD",
+         "children": [
+          {
+           "type": "text",
+           "text": "— według ich wartości godziwej."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Zabezpieczenia umożliwiające zastąpienie oceny sytuacji ekonomiczno-finansowej dłużnika oceną sytuacji ekonomiczno-finansowej wystawcy zabezpieczenia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_2/pkt_1",
+       "text": "gwarancja lub poręczenie banku mającego siedzibę w państwie będącym członkiem OECD;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_2/pkt_2",
+       "text": "przelew wierzytelności z akredytywy zabezpieczającej (akredytywa typu stand-by) otwartej lub potwierdzonej przez bank mający siedzibę w państwie będącym członkiem OECD;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_2/pkt_3",
+       "text": "umowa ubezpieczenia eksportowego lub gwarancja ubezpieczeniowa Korporacji Ubezpieczeń Kredytów Eksportowych S.A., objęta gwarancjami Skarbu Państwa, zawarta lub udzielona na podstawie przepisów o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych, dla określonej umowy kredytowej lub zobowiązania pozabilansowego — do 100 % sumy odpowiednio ubezpieczenia lub gwarancji, jeżeli konieczność tworzenia rezerwy celowej jest następstwem zdarzeń objętych tym ubezpieczeniem lub gwarancją;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_15/ust_2/pkt_4",
+       "text": "gwarancja lub poręczenie Banku Gospodarstwa Krajowego ze środków Krajowego Funduszu Poręczeń Kredytowych, udzielona na podstawie przepisów o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_15/ust_2/pkt_5",
+       "text": "gwarancja lub poręczenie jednostki samorządu terytorialnego Rzeczypospolitej Polskiej, przy czym uwzględniana kwota zabezpieczenia powinna wynikać z uchwały właściwego organu jednostki samorządu terytorialnego w sprawie ustalania maksymalnej wysokości pożyczek, gwarancji i poręczeń udzielanych przez zarząd w roku budżetowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_15/ust_2/pkt_6",
+       "text": "gwarancja lub poręczenie innego podmiotu. Gwarancje i poręczenia udzielone przez gwaranta (poręczyciela) za jednego kredytobiorcę uwzględnia się do kwoty 15 % aktywów netto tego gwaranta (poręczyciela), pomniejszonych o należne, lecz niewniesione wkłady na poczet kapitałów (funduszy) podstawowych oraz o akcje własne, według ich wartości godziwej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_15/ust_2/pkt_7",
+       "text": "przeniesienie na bank, do czasu spłaty zadłużenia wraz z należnymi odsetkami i prowizją, prawa własności bankowych papierów wartościowych emitowanych przez inne banki — według ich wartości godziwej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_15/ust_2/pkt_8",
+       "text": "zastaw rejestrowy na prawach z papierów wartościowych, o których mowa w pkt 7 — według ich wartości godziwej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_15/ust_3",
+     "text": "Zabezpieczenia umożliwiające pomniejszenie podstawy tworzenia rezerw celowych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_3/pkt_1",
+       "text": "gwarancja lub poręczenie Skarbu Państwa, Narodowego Banku Polskiego lub Bankowego Funduszu Gwarancyjnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_3/pkt_2",
+       "text": "gwarancja lub poręczenie banku centralnego lub rządu kraju będącego członkiem Organizacji Współpracy Gospodarczej i Rozwoju (OECD);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_3/pkt_3",
+       "text": "gwarancja lub poręczenie banku mającego siedzibę w kraju będącym członkiem OECD w przypadku, gdy sytuacja ekonomiczno-finansowa tego banku nie budzi obaw;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_15/ust_3/pkt_4",
+       "text": "gwarancja lub poręczenie państwowej osoby prawnej, z wyłączeniem banków i zakładów ubezpieczeń, uprawnionej na podstawie odrębnych przepisów do ich udzielania w ramach realizacji powierzonych jej zadań państwowych w przypadku, gdy w budżecie państwa określono źródła sfinansowania ewentualnych zobowiązań;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_15/ust_3/pkt_5",
+       "text": "przelew wierzytelności z akredytywy zabezpieczającej (akredytywa typu stand-by) otwartej lub potwierdzonej przez bank kraju będącego członkiem OECD w przypadku, gdy sytuacja ekonomiczno-finansowa tego banku nie budzi obaw;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_15/ust_3/pkt_6",
+       "text": "umowa ubezpieczenia eksportowego lub gwarancja ubezpieczeniowa Korporacji Ubezpieczeń Kredytów Eksportowych S.A., objęta gwarancjami Skarbu Państwa, zawarta lub udzielona na podstawie przepisów o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych, dla określonej umowy kredytowej lub zobowiązania pozabilansowego — do 100 % sumy odpowiednio ubezpieczenia lub gwarancji, jeżeli konieczność tworzenia rezerwy celowej jest następstwem zdarzeń objętych tym ubezpieczeniem lub gwarancją;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_15/ust_3/pkt_7",
+       "text": "gwarancja lub poręczenie Banku Gospodarstwa Krajowego ze środków Krajowego Funduszu Poręczeń Kredytowych udzielona na podstawie przepisów o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_15/ust_3/pkt_8",
+       "text": "gwarancja lub poręczenie jednostki samorządu terytorialnego Rzeczypospolitej Polskiej o dobrej sytuacji ekonomiczno-finansowej, przy czym uwzględniana kwota zabezpieczenia powinna wynikać z uchwały właściwego organu jednostki samorządu terytorialnego w sprawie ustalania maksymalnej wysokości pożyczek, gwarancji i poręczeń udzielanych przez zarząd w roku budżetowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_15/ust_3/pkt_9",
+       "text": "gwarancja lub poręczenie podmiotu o dobrej sytuacji ekonomiczno-finansowej. Gwarancje i poręczenia udzielone przez gwaranta (poręczyciela) za jednego kredytobiorcę uwzględnia się do kwoty 15 % aktywów netto tego gwaranta (poręczyciela), pomniejszonych o należne, lecz niewniesione wkłady na poczet kapitałów (funduszy) podstawowych oraz o akcje własne — według ich wartości godziwej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_15/ust_3/pkt_10",
+       "text": "wpłata określonej kwoty w złotych lub w innej walucie wymienialnej na rachunek banku, spełniająca warunki określone w art. 102 ustawy z dnia 29 sierpnia 1997 r. — Prawo bankowe, przy czym przeliczenia na złote należy dokonać według kursu średniego ustalonego przez Narodowy Bank Polski na dzień dokonywania klasyfikacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_15/ust_3/pkt_11",
+       "text": "zastaw rejestrowy na wierzytelności z rachunku lokaty złożonej w:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_15/ust_3/pkt_11/lit_a",
+         "text": "banku posiadającym ekspozycję kredytową lub",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_15/ust_3/pkt_11/lit_b",
+         "text": "banku mającym siedzibę w kraju będącym członkiem OECD w przypadku, gdy sytuacja ekonomiczno-finansowa tego banku nie budzi obaw",
+         "children": [
+          {
+           "type": "text",
+           "text": "— wraz z oświadczeniem o blokadzie lokaty oraz pełnomocnictwem do pobrania środków z rachunku lokaty;"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_15/ust_3/pkt_12",
+       "text": "przelew wierzytelności z rachunku lokaty złożonej w banku innym niż bank posiadający należność lub udzielone zobowiązanie pozabilansowe, wraz z oświadczeniem o blokadzie lokaty oraz pełnomocnictwem do pobrania środków z rachunku lokaty;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_15/ust_3/pkt_13",
+       "text": "blokada rachunku lokaty złożonej w banku posiadającym ekspozycję kredytową wraz z pełnomocnictwem do pobrania środków z rachunku lokaty;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_15/ust_3/pkt_14",
+       "text": "hipoteka powstała na:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_15/ust_3/pkt_14/lit_a",
+         "text": "nieruchomości,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_15/ust_3/pkt_14/lit_b",
+         "text": "użytkowaniu wieczystym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_15/ust_3/pkt_14/lit_c",
+         "text": "własnościowym spółdzielczym prawie do lokalu mieszkalnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_15/ust_3/pkt_14/lit_d",
+         "text": "spółdzielczym prawie do lokalu użytkowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_15/ust_3/pkt_14/lit_e",
+         "text": "prawie do domu jednorodzinnego w spółdzielni mieszkaniowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_15/ust_3/pkt_14/lit_f",
+         "text": "prawie do lokalu mieszkalnego w domu budowanym przez spółdzielnię mieszkaniową w celu przeniesienia jej własności na członka;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_15/ust_3/pkt_15",
+       "text": "przeniesienie na bank, do czasu spłaty zadłużenia wraz z należnymi odsetkami i prowizją, prawa własności:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_15/ust_3/pkt_15/lit_a",
+         "text": "papierów wartościowych emitowanych przez Skarb Państwa lub Narodowy Bank Polski,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_15/ust_3/pkt_15/lit_b",
+         "text": "papierów wartościowych emitowanych przez banki centralne lub rządy krajów będących członkiem OECD,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_15/ust_3/pkt_15/lit_c",
+         "text": "bankowych papierów wartościowych emitowanych przez inne banki",
+         "children": [
+          {
+           "type": "text",
+           "text": "— według ich wartości godziwej;"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_15/ust_3/pkt_16",
+       "text": "zastaw rejestrowy na prawach z papierów wartościowych, o których mowa w pkt 15, według ich wartości godziwej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_15/ust_3/pkt_17",
+       "text": "przeniesienie na bank, do czasu spłaty zadłużenia wraz z należnymi odsetkami i prowizją, prawa własności papierów wartościowych, niewymienionych w pkt 15, będących w obrocie giełdowym w krajach będących członkiem OECD;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "par_15/ust_3/pkt_18",
+       "text": "zastaw rejestrowy na prawach z papierów wartościowych, o których mowa w pkt 17;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "par_15/ust_3/pkt_19",
+       "text": "zastaw na statku morskim wpisanym do rejestru okrętowego (hipoteka morska);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "par_15/ust_3/pkt_20",
+       "text": "zastaw na statku powietrznym wpisanym do rejestru państwowego statków powietrznych z odpowiednim zastosowaniem art. 11 ustawy z dnia 3 lipca 2002 r. — Prawo lotnicze (Dz. U. Nr 130, poz. 1112 oraz z 2003 r. nr 210, poz. 2036);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "21",
+       "path": "par_15/ust_3/pkt_21",
+       "text": "przeniesienie na bank przez dłużnika, do czasu spłaty zadłużenia wraz z należnymi odsetkami i prowizją, prawa własności rzeczy ruchomej, na warunkach określonych przez strony w umowie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "22",
+       "path": "par_15/ust_3/pkt_22",
+       "text": "zastaw rejestrowy na rzeczy ruchomej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "23",
+       "path": "par_15/ust_3/pkt_23",
+       "text": "oświadczenie patronackie, zawierające zobowiązanie wystawcy do podjęcia działań wobec dłużnika, mających na celu utrzymanie terminowej obsługi ekspozycji kredytowej banku oraz utrzymanie niebudzącej obaw sytuacji ekonomiczno-finansowej dłużnika, pod warunkiem że:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_15/ust_3/pkt_23/lit_a",
+         "text": "bank posiada opinię prawną potwierdzającą możliwość i skuteczność dochodzenia ewentualnych roszczeń wobec wystawcy oświadczenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_15/ust_3/pkt_23/lit_b",
+         "text": "zobowiązanie ciążące na wystawcy oświadczenia jest ujęte w jego księgach;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "24",
+       "path": "par_15/ust_3/pkt_24",
+       "text": "ubezpieczenie kredytu w instytucji ubezpieczeniowej mającej siedzibę w krajach OECD w przypadku, gdy sytuacja ekonomiczno-finansowa ubezpieczyciela nie budzi obaw;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "25",
+       "path": "par_15/ust_3/pkt_25",
+       "text": "bezwarunkowa cesja wierzytelności od kontrahentów mających siedzibę w krajach OECD w przypadku gdy:",
+       "children": [
+        {
+         "type": "text",
+         "text": "— wierzytelność jest bezsporna i nieprzeterminowana oraz"
+        },
+        {
+         "type": "text",
+         "text": "— kontrahent posiada rating uznanej agencji na poziomie inwestycyjnym."
+        },
+        {
+         "type": "text",
+         "text": "Załącznik nr 3"
+        },
+        {
+         "type": "text",
+         "text": "LIMITY POMNIEJSZENIA KWOTY EKSPOZYCJI KREDYTOWEJ"
+        },
+        {
+         "type": "text",
+         "text": "Tabela nr 1"
+        },
+        {
+         "type": "text",
+         "text": "Limit pomniejszenia ekspozycji kredytowych, o których mowa w § 5 ust. 4 pkt 1 rozporządzenia."
+        },
+        {
+         "type": "text",
+         "text": "Limit pomniejszenia Okres opóźnienia w spłacie w % kwoty ekspozycji kredytowej w miesiącach"
+        },
+        {
+         "type": "text",
+         "text": "100 nie więcej niż 51"
+        },
+        {
+         "type": "text",
+         "text": "75 powyżej 51 i nie więcej niż 54"
+        },
+        {
+         "type": "text",
+         "text": "50 powyżej 54 i nie więcej niż 57"
+        },
+        {
+         "type": "text",
+         "text": "25 powyżej 57 i nie więcej niż 60"
+        },
+        {
+         "type": "text",
+         "text": "0 powyżej 60 Tabela nr 2"
+        },
+        {
+         "type": "text",
+         "text": "Limit pomniejszenia ekspozycji kredytowych, o których mowa w § 5 ust. 4 pkt 2 rozporządzenia."
+        },
+        {
+         "type": "text",
+         "text": "Limit pomniejszenia Okres opóźnienia w spłacie w % kwoty ekspozycji kredytowej w miesiącach"
+        },
+        {
+         "type": "text",
+         "text": "100 nie więcej niż 27"
+        },
+        {
+         "type": "text",
+         "text": "75 powyżej 27 i nie więcej niż 30"
+        },
+        {
+         "type": "text",
+         "text": "50 powyżej 30 i nie więcej niż 33"
+        },
+        {
+         "type": "text",
+         "text": "25 powyżej 33 i nie więcej niż 36"
+        },
+        {
+         "type": "text",
+         "text": "0 powyżej 36"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Finansów kieruje działem administracji rządowej — finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 marca 2002 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 32, poz. 301, Nr 43, poz. 378 i Nr 93, poz. 834).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074 oraz z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535 i Nr 65, poz. 594."
+ }
+}

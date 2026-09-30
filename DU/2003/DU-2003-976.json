@@ -1,0 +1,1959 @@
+{
+ "eli": "DU/2003/976",
+ "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 30 maja 2003 r. w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać zbiorniki ciśnieniowe statków powietrznych Sił Zbrojnych Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/976/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 maja 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać zbiorniki ciśnieniowe statków powietrznych Sił Zbrojnych Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 54 ust. 2 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. Nr 122, poz. 1321 oraz z 2002 r. Nr 74, poz. 676) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Rozporządzenie określa warunki techniczne dozoru technicznego w zakresie projektowania, materiałów i elementów, wytwarzania, eksploatacji oraz naprawy i modernizacji zbiorników ciśnieniowych zainstalowanych i przeznaczonych do zainstalowania na statkach powietrznych Sił Zbrojnych Rzeczypospolitej Polskiej, o których mowa w § 2 pkt 1 lit. a rozporządzenia Ministra Obrony Narodowej z dnia 7 kwietnia 2003 r. w sprawie określenia urządzeń technicznych podlegających Wojskowemu Dozorowi Technicznemu (Dz. U. Nr 67, poz. 627), zwanych dalej „zbiornikami”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Warunki techniczne dotyczą zbiorników o iloczynie nadciśnienia i pojemności wyższym od 50 barów × dm³ oraz nadciśnieniu wyższym od 0,5 bara.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Przepisów rozporządzenia nie stosuje się do zbiorników przeznaczonych do:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "magazynowania i transportu materiałów ciekłych zapalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "paliwa zasilającego silniki statków powietrznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "siłowników hydraulicznych i pneumatycznych, amortyzatorów, hydroakumulatorów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "„WDT” — Wojskowy Dozór Techniczny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "„najwyższe ciśnienie robocze (bar)” — nadciśnienie przyjęte w dokumentacji technicznej zbiornika jako maksymalne w warunkach eksploatacji zbiornika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "„ciśnienie obliczeniowe (bar)” — nadciśnienie przyjęte w dokumentacji technicznej zbiornika do obliczeń wytrzymałościowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "„ciśnienie próbne (bar)” — nadciśnienie, przy którym jest przeprowadzana próba ciśnieniowa zbiornika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "„ciśnienie niszczące (bar)” — najniższe nadciśnienie podczas próby niszczącej, przy którym nastąpiło pęknięcie lub niedopuszczalne trwałe odkształcenie ścianek zbiornika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "„ciśnienie dopuszczalne (bar)” — najwyższe nadciśnienie, przy którym WDT zezwolił na eksploatację zbiornika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_3/pkt_7",
+     "text": "„ciśnienie napełnienia (bar)” — nadciśnienie czynnika roboczego w zbiorniku dla temperatury 15°C;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_3/pkt_8",
+     "text": "„najwyższa temperatura robocza (°C)” — najwyższą temperaturę ścianki zbiornika ustaloną w dokumentacji technicznej dla warunków eksploatacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_3/pkt_9",
+     "text": "„najniższa temperatura robocza (°C)” — najniższą temperaturę ścianki zbiornika ustaloną w dokumentacji technicznej dla warunków eksploatacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_3/pkt_10",
+     "text": "„temperatura dopuszczalna (°C)” — graniczną wartość najwyższej lub najniższej temperatury roboczej, przy której WDT zezwala na eksploatację zbiornika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_3/pkt_11",
+     "text": "„dopuszczalny stopień napełnienia (%)” — część pojemności zbiornika, która może być napełniona czynnikiem roboczym w postaci cieczy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_3/pkt_12",
+     "text": "„masa próżnego zbiornika (kg)” — masę zbiornika bez osprzętu i elementów odejmowalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_3/pkt_13",
+     "text": "„masa netto czynnika roboczego (kg)” — największą dopuszczalną masę czynnika ustaloną w dokumentacji technicznej, którą wolno wprowadzić do zbiornika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_3/pkt_14",
+     "text": "„masa brutto zbiornika (kg)” — masę zbiornika łącznie z osprzętem, elementami odejmowalnymi i masą netto czynnika roboczego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_3/pkt_15",
+     "text": "„czynnik roboczy” — płyn (ciecz lub gaz) zawarty w przestrzeni wewnętrznej zbiornika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_3/pkt_16",
+     "text": "„modernizacja zbiornika” — dokonanie zmian w stosunku do stanu pierwotnego w parametrach pracy lub konstrukcji zbiornika, wpływających na bezpieczeństwo jego eksploatacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_3/pkt_17",
+     "text": "„pojemność” — całkowitą pojemność zbiornika lub pojemność jego przestrzeni, łącznie z króćcami przyłącznymi, bez odliczania pojemności zajętej podczas eksploatacji zbiornika lub jego przestrzeni przez elementy stale połączone ze ściankami w sposób rozbieralny.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Konstrukcja"
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Zbiornik powinien być tak zaprojektowany, aby była zapewniona jego szczelność do wartości ciśnienia próbnego w zakresie zmian temperatury roboczej od najniższej do najwyższej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Przedostawanie się czynnika roboczego do otoczenia podczas napełniania lub opróżniania zbiornika powinno być ograniczone do bezpiecznego minimum.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Zbiornik powinien być zbudowany z materiału odpornego na działanie czynnika roboczego lub wyłożony odpowiednią wykładziną albo zabezpieczony powłoką ochronną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Zbiornik powinien być tak zaprojektowany, aby zapobiec gromadzeniu się potencjalnie niebezpiecznych ładunków elektrostatycznych lub je ograniczyć albo być wyposażony w układ do ich odprowadzania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Elementy zbiornika nie powinny zawierać składników zdolnych do wytworzenia niebezpiecznej reakcji z przechowywanym w nim czynnikiem lub do wyraźnego ich osłabienia, w szczególności przez przyspieszenie starzenia i wzrost kruchości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_4/ust_6",
+     "text": "Sporządzając dokumentację techniczną zbiornika, należy określić:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_6/pkt_1",
+       "text": "wartość masy netto czynnika roboczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_6/pkt_2",
+       "text": "wartość ciśnienia próbnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_6/pkt_3",
+       "text": "jego żywotność.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Konstrukcja zbiornika i jego elementów powinna zapewniać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "dostęp w jak największym stopniu do ścianek zbiornika po stronie wewnętrznej i zewnętrznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "bezpieczne opróżnianie i napełnianie oraz możliwość czyszczenia zbiornika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "prawidłowe odpowietrzanie zbiornika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Obliczenia wytrzymałościowe zbiornika, z zastrzeżeniem § 7, powinny być wykonywane według przepisów, norm lub specyfikacji technicznych uzgodnionych z WDT.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Wykonywanie obliczeń wytrzymałościowych dla połączeń kołnierzowo-śrubowych i króćców przyłącznych nie jest wymagane, jeżeli połączenia zostały wykonane zgodnie z wymaganiami określonymi w normach dopuszczonych do stosowania na terytorium Rzeczypospolitej Polskiej, a w dokumentacji technicznej zbiornika zostały określone materiały elementów połączenia, w tym uszczelek, oraz określona wartość momentu dokręcania nakrętek.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Wartość ciśnienia niszczącego zbiornik:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_3/pkt_1",
+       "text": "wykonany ze stali o wytrzymałości na rozciąganie R ≤ 440 MPa powinna być nie mniejsza niż 2 m ×p p ,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_3/pkt_2",
+       "text": "wykonany ze stali o wytrzymałości na rozciąganie zawartej w przedziale: 440 MPa < R ≤800 MPa powinna być nie mniejsza niż 1,8 × p p m ,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_3/pkt_3",
+       "text": "wykonany ze stali stopowej, ulepszonej cieplnie, o wytrzymałości na rozciąganie R > 800 MPa powinna być nie mniejsza niż 1,6 ×p m p ,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_3/pkt_4",
+       "text": "wykonany z innego materiału powinna być ustalona przez projektanta i uzgodniona z WDT,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "gdzie p p oznacza ciśnienie próbne."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "W przypadku skomplikowanego kształtu zbiornika i braku możliwości wykonania obliczeń wytrzymałościowych można przeprowadzić próbę niszczącą lub próbę niedopuszczalnego trwałego odkształcenia zbiornika na podstawie specyfikacji technicznych uzgodnionych z WDT.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Materiały i wytwarzanie"
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Do budowy ścianek zbiorników mogą być zastosowane:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "stale;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "metale nieżelazne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_8/pkt_3",
+     "text": "tworzywa sztuczne wzmocnione włóknami.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Materiały stosowane do budowy zbiorników powinny być wykonane zgodnie z wymaganiami określonymi w normach dopuszczonych do stosowania na terytorium Rzeczypospolitej Polskiej lub innych specyfikacjach technicznych uzgodnionych z WDT.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Materiały stosowane do budowy zbiorników, o których mowa w § 8 pkt 1 i 2, powinny być dostarczane przez wytwarzającego te materiały wraz z dokumentem zawierającym wyniki badań laboratoryjnych i poświadczającym przeprowadzenie ich kontroli odbiorczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Dane wytrzymałościowe materiałów powinny odpowiadać wartościom podanym w dokumencie, o którym mowa w ust. 2, oraz być sprawdzone podczas wytwarzania tych materiałów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Dane, o których mowa w ust. 3, powinny odpowiadać wartościom podanym w dokumentach z kontroli odbiorczej tych materiałów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Materiały stosowane do budowy zbiorników spajanych powinny zapewniać technologiczną podatność do tych połączeń w określonych warunkach technologicznych i gwarantować uzyskanie ustalonych wymagań eksploatacyjnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Materiały i elementy z tworzyw sztucznych, stosowane do budowy zbiorników, powinny być dostarczane z deklaracją zgodności wytwarzającego materiały i elementy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Materiały dodatkowe, stosowane do spajania zbiorników i ich elementów, powinny być odpowiednio dobrane i określone w instrukcjach technologicznych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Do wytwarzania zbiorników mogą być stosowane materiały inne niż określone w § 8, jeżeli zostaną zakwalifikowane przez WDT.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "W celu zakwalifikowania materiałów, o których mowa w ust. 1, należy przedłożyć informacje zawierające:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_2/pkt_1",
+       "text": "przeznaczenie materiału — rodzaj wykonywanych z niego zbiorników lub ich elementów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_2/pkt_2",
+       "text": "metodę wytwarzania, zakres wymiarowy, stan dostawy oraz parametry przewidzianej obróbki cieplnej, przeróbki plastycznej i spajania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_13/ust_2/pkt_3",
+       "text": "normy lub specyfikacje techniczne wytwarzania materiału, w których podany został jego skład chemiczny i dopuszczalne odchyłki od tego składu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_13/ust_2/pkt_4",
+       "text": "wymagane właściwości, w tym wytrzymałościowe, oraz odporność na korozję lub starzenie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_13/ust_2/pkt_5",
+       "text": "normy, na podstawie których przeprowadza się badania właściwości materiałów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_13/ust_2/pkt_6",
+       "text": "nazwę i skład materiałów wyjściowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_13/ust_2/pkt_7",
+       "text": "rodzaj wystawianego przez wytwórcę dokumentu kontroli materiału.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Zakład montujący zbiorniki i osprzęt na statku powietrznym powinien mieć odpowiednie uprawnienie wydane przez WDT.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Osprzęt"
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Zbiorniki, w zależności od konstrukcji i warunków eksploatacji, mogą być wyposażane w:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_15/pkt_1",
+     "text": "urządzenia zabezpieczające przed nadmiernym wzrostem ciśnienia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_15/pkt_2",
+     "text": "aparaturę kontrolno-pomiarową;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_15/pkt_3",
+     "text": "armaturę zaporową.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Urządzeniami zabezpieczającymi przed nadmiernym wzrostem ciśnienia są zawory bezpieczeństwa, głowice bezpieczeństwa lub automatyka bezpieczeństwa. Urządzenia te instaluje się wtedy, gdy w zbiorniku podczas eksploatacji może nastąpić wzrost ciśnienia ponad najwyższe ciśnienie robocze.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Aparatura kontrolno-pomiarowa i jej elementy powinny być dobrane odpowiednio do rodzaju czynnika roboczego, warunków przeprowadzania odczytu i parametrów zbiornika. Aparatura ta powinna posiadać wymagane dokumenty kontroli metrologicznej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Rodzaj armatury zaporowej powinien być określony w dokumentacji technicznej zbiornika.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Znakowanie"
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Na zbiorniku powinny być trwale naniesione oznaczenia w sposób podany w dokumentacji technicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Oznaczenia, o których mowa w ust. 1, powinny zawierać w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_2/pkt_1",
+       "text": "nazwę lub znak wytwórcy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_2/pkt_2",
+       "text": "numer fabryczny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_19/ust_2/pkt_3",
+       "text": "pojemność (dm³);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_19/ust_2/pkt_4",
+       "text": "ciśnienie napełnienia (bar);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_19/ust_2/pkt_5",
+       "text": "ciśnienie próbne (bar);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_19/ust_2/pkt_6",
+       "text": "masę próżnego zbiornika (kg);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_19/ust_2/pkt_7",
+       "text": "nazwę czynnika roboczego lub jego wzór chemiczny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_19/ust_2/pkt_8",
+       "text": "znak kontroli jakości wytwórcy i żywotność zbiornika (miesiąc i dwie ostatnie cyfry roku, przewidziane przez projektanta jako możliwość eksploatacji zbiornika);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_19/ust_2/pkt_9",
+       "text": "cechę inspektora WDT i datę badania (miesiąc i dwie ostatnie cyfry roku).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Dla zbiornika napełnianego wagowo oznaczenia, o których mowa w ust. 1, powinny zawierać dodatkowo:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_3/pkt_1",
+       "text": "masę netto czynnika roboczego (kg);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_3/pkt_2",
+       "text": "masę brutto zbiornika (kg).",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Dokumentacja techniczna"
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "W fazie projektowania zbiornika powinna być opracowana jego dokumentacja techniczna konstrukcyjna i eksploatacyjna, które projektujący, wytwarzający lub osoba działająca w jego imieniu przedkłada w 2 egzemplarzach do WDT w celu jej uzgodnienia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Dokumentacja konstrukcyjna, o której mowa w § 20, powinna zawierać w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_21/ust_1/pkt_1",
+       "text": "rysunek zestawieniowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_21/ust_1/pkt_2",
+       "text": "obliczenia wytrzymałościowe podstawowych elementów zbiornika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_21/ust_1/pkt_3",
+       "text": "parametry robocze, obliczeniowe i próbne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_21/ust_1/pkt_4",
+       "text": "dane dotyczące źródeł zasilania oraz schemat zasilania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Na rysunku zestawieniowym, o którym mowa w ust. 1 pkt 1, należy podać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_21/ust_2/pkt_1",
+       "text": "wymiary konieczne do sprawdzenia obliczeń wytrzymałościowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_21/ust_2/pkt_2",
+       "text": "nazwę i podstawowe właściwości czynnika roboczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_21/ust_2/pkt_3",
+       "text": "parametry robocze i obliczeniowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_21/ust_2/pkt_4",
+       "text": "gatunki materiałów, z jakich są wykonane elementy zbiornika, wraz z przywołaniem odpowiednich specyfikacji technicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_21/ust_2/pkt_5",
+       "text": "rodzaj oraz dane dotyczące zabezpieczenia antykorozyjnego powierzchni wewnętrznej i zewnętrznej, warunki wykonywania badań i kontroli oraz przewidywany okres eksploatacji zbiornika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_21/ust_2/pkt_6",
+       "text": "współczynniki wytrzymałościowe złączy spajanych i zakres badań nieniszczących tych złączy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_21/ust_2/pkt_7",
+       "text": "wymiary i rozmieszczenie lub zasady rozmieszczania złączy spajanych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_21/ust_2/pkt_8",
+       "text": "wymagania w zakresie obróbki cieplnej i przeróbki plastycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_21/ust_2/pkt_9",
+       "text": "specjalne wymagania dotyczące wytwarzania i badań;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_21/ust_2/pkt_10",
+       "text": "oznaczenia zbiornika i sposób ich naniesienia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_21/ust_3",
+     "text": "Elementy zbiornika, których nie przedstawiono dostatecznie wyraźnie na rysunku zestawieniowym, o którym mowa w ust. 1 pkt 1, powinny być ujęte na odrębnych rysunkach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Dokumentacja eksploatacyjna, o której mowa w § 20, powinna zawierać w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_22/pkt_1",
+     "text": "opis techniczny zbiornika i jego osprzętu wraz z umiejscowieniem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_22/pkt_2",
+     "text": "dopuszczalne parametry pracy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_22/pkt_3",
+     "text": "kryteria oceny niebezpiecznego uszkodzenia zbiornika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_22/pkt_4",
+     "text": "wykaz elementów osprzętu zbiornika, których wymiana wymaga przeprowadzenia badań doraźnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_22/pkt_5",
+     "text": "zasady sprawdzania szczelności osprzętu podczas i po napełnieniu zbiornika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_22/pkt_6",
+     "text": "instrukcję bezpiecznego napełniania i opróżniania zbiorników;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_22/pkt_7",
+     "text": "zasady przechowywania i transportu zbiorników i osprzętu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_22/pkt_8",
+     "text": "technologię montażu i demontażu zbiornika i osprzętu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Wytwarzający zbiorniki lub elementy, na podstawie uzgodnionej dokumentacji konstrukcyjnej, wystawia „Poświadczenie wykonania i zbadania zbiornika lub elementu” stwierdzające, że zbiornik lub element został wykonany i zbadany zgodnie z rozporządzeniem i dokumentacją techniczną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "„Poświadczenie wykonania i zbadania zbiornika lub elementu” powinno być wystawione według wzoru ustalonego przez WDT w ramach uprawnienia do wytwarzania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Zakład montujący zbiorniki na statku powietrznym wystawia dla eksploatującego „Zbiorcze poświadczenie montażu i zbadania zbiorników z osprzętem” z danego statku powietrznego oraz przekazuje dokumentację eksploatacyjną. Dokumenty te powinny być dołączone do dokumentacji pokładowej statku powietrznego cz. I — „Płatowiec i silnik”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "W „Zbiorczym poświadczeniu montażu i zbadania zbiorników z osprzętem” powinny zostać zawarte:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_2/pkt_1",
+       "text": "typy zamontowanych zbiorników;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_2/pkt_2",
+       "text": "numery fabryczne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_24/ust_2/pkt_3",
+       "text": "daty przeprowadzonych badań;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_24/ust_2/pkt_4",
+       "text": "daty dopuszczenia zbiorników do eksploatacji, zgodnie z obowiązującym resursem dla danego statku powietrznego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 7",
+   "text": "Zakresy i terminy badań technicznych"
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "Badanie typu jest obowiązkowe dla urządzeń, o których mowa w § 15 pkt 1. Wytwarzający może zgłaszać do tego badania również inny osprzęt lub zbiorniki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "W badaniach typu może uczestniczyć jako obserwator przedstawiciel zlecającego badanie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_26/ust_1",
+     "text": "Wytwarzający przygotowuje zbiornik lub osprzęt i zgłasza je do badania typu do WDT.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "Do zgłoszenia powinno być załączone oświadczenie wytwarzającego o właściwym przygotowaniu do badań przekazywanego egzemplarza zbiornika lub osprzętu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_26/ust_3",
+     "text": "Program badań typu, uwzględniający wymagania określone w rozporządzeniu oraz obejmujący sprawdzenie podanych w uzgodnionej dokumentacji technicznej parametrów urządzenia, ustala WDT.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_26/ust_4",
+     "text": "Badanie typu powinno być przeprowadzone na odpowiednim stanowisku, ustalonym z WDT, u wytwarzającego lub w specjalistycznej jednostce badawczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_26/ust_5",
+     "text": "WDT w badaniu typu może wykorzystać lub uznać wyniki badań i opinii wykonanych przez laboratorium wytwarzającego lub inne jednostki dozoru technicznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_27/ust_1",
+     "text": "Badaniem typu może być objęty typoszereg zbiorników; w takim przypadku poddaje się badaniom wybrane przez WDT egzemplarze z tego typoszeregu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_27/ust_2",
+     "text": "Zbiorniki mogą być zakwalifikowane do tego samego typoszeregu, jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_27/ust_2/pkt_1",
+       "text": "są wytwarzane w oparciu o te same specyfikacje techniczne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_27/ust_2/pkt_2",
+       "text": "posiadają te same kształty geometryczne; różne może być jedynie ułożenie króćców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_27/ust_2/pkt_3",
+       "text": "są zbudowane z tych samych materiałów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_27/ust_2/pkt_4",
+       "text": "w przypadku różnej ich długości różnią się tylko wymiarami otworów inspekcyjnych, ich ilością i rozmieszczeniem.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_28/ust_1",
+     "text": "Wytwarzający powinien przygotować i zgłosić zbiornik do badania sprawdzającego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_28/ust_2",
+     "text": "Badanie sprawdzające polega na wykonaniu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_28/ust_2/pkt_1",
+       "text": "badania budowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_28/ust_2/pkt_2",
+       "text": "próby ciśnieniowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_28/ust_2/pkt_3",
+       "text": "dodatkowej próby gazowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_28/ust_2/pkt_4",
+       "text": "badania specjalnego, ustalonego w dokumentacji technicznej zbiornika.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_29/ust_1",
+     "text": "Badanie budowy polega na sprawdzeniu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_29/ust_1/pkt_1",
+       "text": "zgodności wykonania zbiornika z wymaganiami określonymi w rozporządzeniu i dokumentacji technicznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_29/ust_1/pkt_2",
+       "text": "stanu ścianek zbiornika i jakości złączy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_29/ust_1/pkt_3",
+       "text": "oznaczeń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_29/ust_1/pkt_4",
+       "text": "osprzętu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_29/ust_1/pkt_5",
+       "text": "masy próżnego zbiornika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_29/ust_1/pkt_6",
+       "text": "prawidłowości ustalenia masy netto czynnika roboczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_29/ust_1/pkt_7",
+       "text": "prawidłowości ustalenia masy brutto;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_29/ust_1/pkt_8",
+       "text": "innych cech, zależnie od konstrukcji zbiornika i stosowanego materiału.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_29/ust_2",
+     "text": "Masa próżnego zbiornika powinna być ustalona przez zważenie z dokładnością do trzech cyfr znaczących.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_29/ust_3",
+     "text": "Elementy zbiornika, których badanie budowy wykonano u wytwarzającego, mogą nie być poddawane powtórnemu badaniu podczas badania budowy całego zbiornika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_30/ust_1",
+     "text": "Próba ciśnieniowa zbiornika powinna być wykonana jako próba hydrauliczna lub, za zgodą WDT, jako próba gazowa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_30/ust_2",
+     "text": "Temperatura czynnika próbnego nie powinna być niższa niż 10°C i wyższa niż 40°C, jeżeli w dokumentacji technicznej zbiornika nie ustalono inaczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_30/ust_3",
+     "text": "Ciśnienie należy podnosić jednostajnie do wysokości ciśnienia próbnego i utrzymać je przez 1 minutę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_30/ust_4",
+     "text": "Oględziny zbiornika przeprowadza się przy ciśnieniu równym najwyższemu ciśnieniu roboczemu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_30/ust_5",
+     "text": "Wynik próby ciśnieniowej uznaje się za pozytywny, jeżeli w czasie próby nie stwierdzono pęknięć, niedopuszczalnych odkształceń trwałych i przenikania cieczy lub gazu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_30/ust_6",
+     "text": "W ramach próby ciśnieniowej należy dodatkowo sprawdzić pojemność zbiornika, przez pomiar masy lub objętości wody wypełniającej zbiornik.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_31/ust_1",
+     "text": "Dodatkowej próbie gazowej podlegają:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_31/ust_1/pkt_1",
+       "text": "zbiorniki spawane;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_31/ust_1/pkt_2",
+       "text": "zbiorniki bezszwowe do gazów palnych, trujących lub chemicznie nietrwałych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_31/ust_2",
+     "text": "Dodatkową próbę gazową należy przeprowadzać pod warstwą wody przy użyciu sprężonego powietrza lub azotu, jako czynnika próbnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_31/ust_3",
+     "text": "Wartość ciśnienia dodatkowej próby gazowej powinna być równa najwyższemu ciśnieniu roboczemu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_31/ust_4",
+     "text": "Zbiorniki poddane próbie gazowej zastępującej próbę hydrauliczną nie podlegają dodatkowej próbie gazowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "W ramach badań sprawdzających poddaje się próbie niszczącej wybrany wyrywkowo, co najmniej jeden zbiornik na 100 wyprodukowanych lub jeden z partii zbiorników mniejszej niż 100.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Próba niszcząca polega na poddaniu zbiornika próbie hydraulicznej na ciśnienie niszczące.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_32/ust_3",
+     "text": "Wynik próby uznaje się za negatywny, jeżeli ciśnienie, przy którym nastąpiło pęknięcie lub trwałe niedopuszczalne odkształcenie ścianek zbiornika, jest mniejsze od wartości określonych w § 6 ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_32/ust_4",
+     "text": "W razie negatywnego wyniku próby niszczącej należy ją powtórzyć na dwóch innych wyrywkowo wybranych zbiornikach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_32/ust_5",
+     "text": "W przypadku negatywnego wyniku nawet jednej z powtórnych prób należy wstrzymać przeprowadzanie badań sprawdzających i zawiesić uprawnienie do wytwarzania zbiorników do czasu ustalenia i usunięcia przyczyn wadliwej produkcji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_33/ust_1",
+     "text": "Seryjnie wytwarzane zbiorniki, które były poddane badaniu typu, mogą być zgłaszane przez wytwarzającego partiami do badań sprawdzających.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_33/ust_2",
+     "text": "Badanie sprawdzające partii zbiorników obejmuje 10% zgłoszonych w partii zbiorników, jednak nie mniej niż 2 zbiorniki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_33/ust_3",
+     "text": "Po stwierdzeniu prawidłowej i powtarzalnej jakości wytwarzanych zbiorników, na wniosek wytwarzającego, WDT może ograniczyć badania sprawdzające partii do 5% ilości zbiorników, jednak nie mniej niż do 2 zbiorników.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_33/ust_4",
+     "text": "Wynik badania sprawdzającego partii zbiorników uznaje się za pozytywny, jeżeli wyniki badania wszystkich zbadanych zbiorników są pozytywne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_33/ust_5",
+     "text": "Zbiorniki z partii, której badania sprawdzające dały wynik negatywny, mogą być ponownie zgłoszone do badań sprawdzających po usunięciu usterek i dokonaniu kontroli wszystkich zbiorników zgłoszonych w danej partii. Powtórne badanie sprawdzające powinno być przeprowadzone jako badanie jednostkowe.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_34/ust_1",
+     "text": "Pozytywny wynik badania sprawdzającego zbiornik stanowi podstawę do jego ocechowania przez inspektora WDT przeprowadzającego badania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_34/ust_2",
+     "text": "Dokumentacja badań sprawdzających zbiorników jest przechowywana u wytwarzającego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_35/ust_1",
+     "text": "Przed wydaniem zbiorczej decyzji zezwalającej na eksploatację zbiorników na danym statku powietrznym, w zakładzie montującym, WDT wykonuje następujące czynności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_35/ust_1/pkt_1",
+       "text": "sprawdza kompletność i prawidłowość dokumentów, o których mowa w § 24;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_35/ust_1/pkt_2",
+       "text": "identyfikuje zbiorniki, sprawdza ich stan i oznakowanie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_35/ust_1/pkt_3",
+       "text": "sprawdza zgodność osprzętu z przedłożonymi dokumentami;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_35/ust_1/pkt_4",
+       "text": "przeprowadza badania odbiorcze.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_35/ust_2",
+     "text": "Badania odbiorcze obejmują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_35/ust_2/pkt_1",
+       "text": "sprawdzenie, czy zbiorniki są zainstalowane zgodnie z dokumentacją eksploatacyjną;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_35/ust_2/pkt_2",
+       "text": "sprawdzenie działania osprzętu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_35/ust_2/pkt_3",
+       "text": "dodatkowe badania, zgodnie z wymaganiami szczegółowymi określonymi w dokumentacji eksploatacyjnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_35/ust_3",
+     "text": "Dokumentacja badań odbiorczych zbiorników jest przechowywana przez zakład montujący zbiorniki na statku powietrznym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "Zbiorczą decyzję dopuszczającą zbiorniki z danego statku powietrznego do eksploatacji należy dołączyć do dokumentacji pokładowej statku powietrznego cz. I — „Płatowiec i silnik”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_37/ust_1",
+     "text": "Badania okresowe zbiorników wykonuje się w zakresie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_37/ust_1/pkt_1",
+       "text": "rewizji wewnętrznej, polegającej na wizualnej ocenie stanu ścianek, ich połączeń, wzmocnień oraz wyposażenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_37/ust_1/pkt_2",
+       "text": "sprawdzenia masy próżnego zbiornika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_37/ust_1/pkt_3",
+       "text": "próby ciśnieniowej w zakresie określonym w § 30 ust. 1—5;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_37/ust_1/pkt_4",
+       "text": "rewizji zewnętrznej w zakresie określonym w § 35 ust. 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_37/ust_2",
+     "text": "Ubytek masy próżnego zbiornika nie może przekroczyć 2%.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_37/ust_3",
+     "text": "W technicznie uzasadnionych przypadkach WDT może polecić uzupełnienie rewizji wewnętrznej lub zastąpić oględziny wewnętrzne innym badaniem, które pozwoli ocenić stan techniczny zbiornika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_37/ust_4",
+     "text": "Pozytywny wynik badania okresowego stanowi podstawę do ocechowania zbiorników przez inspektora WDT i dopuszczenia ich do dalszej eksploatacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_38/ust_1",
+     "text": "Terminy badań okresowych określa WDT, biorąc pod uwagę następujące kryteria:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_38/ust_1/pkt_1",
+       "text": "okresy międzynaprawcze ustalone w obowiązującym biuletynie resursowym dla danego typu statku powietrznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_38/ust_1/pkt_2",
+       "text": "złożoność konstrukcji i przeznaczenie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_38/ust_1/pkt_3",
+       "text": "warunki eksploatacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_38/ust_1/pkt_4",
+       "text": "stan techniczny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_38/ust_1/pkt_5",
+       "text": "parametry pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_38/ust_1/pkt_6",
+       "text": "okres użytkowania i wynikający z tego stopień zużycia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_38/ust_2",
+     "text": "Badania okresowe powinny być przeprowadzane nie rzadziej niż co 12 lat.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_39/ust_1",
+     "text": "WDT przeprowadza następujące rodzaje badań doraźnych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_39/ust_1/pkt_1",
+       "text": "eksploatacyjne — w przypadku stwierdzenia niewłaściwego stanu zbiornika oraz zakończenia naprawy lub modernizacji zbiornika lub statku powietrznego, na którym był zamontowany;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_39/ust_1/pkt_2",
+       "text": "po niebezpiecznym uszkodzeniu zbiornika lub nieszczęśliwym wypadku związanym z eksploatacją zbiornika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_39/ust_1/pkt_3",
+       "text": "kontrolne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_39/ust_2",
+     "text": "Zakres badań doraźnych ustala WDT.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_39/ust_3",
+     "text": "Badania doraźne eksploatacyjne wykonuje się na wniosek eksploatującego lub zakładu przeprowadzającego remont statku powietrznego w przypadku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_39/ust_3/pkt_1",
+       "text": "naprawy lub modernizacji zbiornika oraz wymiany jego elementów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_39/ust_3/pkt_2",
+       "text": "wymiany lub naprawy urządzeń zabezpieczających przed wzrostem ciśnienia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_39/ust_3/pkt_3",
+       "text": "wymiany urządzeń zasilających na urządzenia o innych parametrach lub innej charakterystyce;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_39/ust_3/pkt_4",
+       "text": "nieszczelności zbiornika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_39/ust_3/pkt_5",
+       "text": "przekroczenia dopuszczalnych parametrów pracy zbiornika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_39/ust_3/pkt_6",
+       "text": "remontu statku powietrznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_39/ust_3/pkt_7",
+       "text": "wystąpienia innych okoliczności.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_39/ust_4",
+     "text": "Zakres badań doraźnych eksploatacyjnych wykonywanych w ramach remontu statku powietrznego obejmuje czynności określone w § 37.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_39/ust_5",
+     "text": "Badania doraźne kontrolne przeprowadza się u eksploatującego w ramach nadzoru i kontroli przestrzegania przepisów o dozorze technicznym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 8",
+   "text": "Eksploatacja"
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "W celu zapewnienia bezpiecznej eksploatacji zbiorników eksploatujący powinien zorganizować lub powierzyć wykonywanie czynności eksploatacyjnych kwalifikowanym osobom, służbom lub przedsiębiorcom.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_41/ust_1",
+     "text": "Napełnianie zbiornika innym czynnikiem roboczym niż ten, do którego został przeznaczony, jest niedozwolone.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_41/ust_2",
+     "text": "Na wniosek eksploatującego WDT może dopuścić możliwość zmiany czynnika roboczego i oznaczeń zbiornika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "Napełniać zbiorniki może przedsiębiorca, który został zarejestrowany w WDT na podstawie dokumentów stwierdzających, że posiada:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_42/pkt_1",
+     "text": "niezbędne wyposażenie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_42/pkt_2",
+     "text": "dokumentację eksploatacyjną dla napełnianych (opróżnianych) zbiorników;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_42/pkt_3",
+     "text": "kwalifikowaną obsługę.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_43/ust_1",
+     "text": "Badania okresowe i doraźne eksploatacyjne zbiorników powinny być przeprowadzane u zarejestrowanego w WDT przedsiębiorcy, który powinien:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_43/ust_1/pkt_1",
+       "text": "mieć pomieszczenie odpowiadające przepisom bezpieczeństwa i higieny pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_43/ust_1/pkt_2",
+       "text": "mieć urządzenia niezbędne do wykonywania prac;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_43/ust_1/pkt_3",
+       "text": "mieć opracowaną instrukcję technologiczną dla poszczególnych prac;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_43/ust_1/pkt_4",
+       "text": "zatrudniać przeszkolonych pracowników.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_43/ust_2",
+     "text": "Sposób przygotowania zbiorników do badań powinien być uzgodniony z WDT.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_43/ust_3",
+     "text": "Przedsiębiorca przygotowujący do badań zbiorniki powinien dostarczyć druki poświadczeń z badań według wzoru ustalonego przez WDT.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 9",
+   "text": "Przepisy przejściowe i końcowe"
+  },
+  {
+   "type": "par",
+   "num": "44",
+   "path": "par_44",
+   "text": "Zbiorniki importowane, przeznaczone do zainstalowania na statkach powietrznych Sił Zbrojnych Rzeczypospolitej Polskiej eksploatowanych przed dniem wejścia w życie rozporządzenia, mogą być dopuszczone do eksploatacji przez WDT po:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_44/pkt_1",
+     "text": "sporządzeniu dokumentacji, której zakres ustali WDT;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_44/pkt_2",
+     "text": "wykonaniu czynności określonych w § 28 ust. 2, § 34 i § 35.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "45",
+   "path": "par_45",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Obrony Narodowej: w z. J. Zemke"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

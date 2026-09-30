@@ -1,0 +1,273 @@
+{
+ "eli": "DU/2003/527",
+ "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 marca 2003 r. w sprawie warunków technicznych, jakie powinno spełniać urządzenie monitorowania",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/527/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 marca 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie warunków technicznych, jakie powinno spełniać urządzenie monitorowania"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 48 ustawy z dnia 6 września 2001 r. o rybołówstwie morskim (Dz. U. Nr 129, poz. 1441 oraz z 2002 r. Nr 181, poz. 1514) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa warunki techniczne, jakie powinno spełniać urządzenie monitorowania, w tym dotyczące jego konstrukcji oraz sposobu przesyłania danych lub informacji w zakresie przemieszczania się statków rybackich.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Urządzenie monitorowania powinno być urządzeniem samodzielnym, działającym niezależnie od innych urządzeń znajdujących się na statku rybackim oraz posiadającym własne zasilanie awaryjne.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Urządzenie monitorowania powinno być skonstruowane w taki sposób, aby niezależnie od oddziaływania czynników zewnętrznych, a w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "kołysania o zmiennych amplitudach, kierunkach i przyspieszeniach drgań lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "zmiany temperatury lub wilgotności powietrza, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "obecności w tym urządzeniu soli oraz zawiesin,",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "możliwe było kodowanie i przesyłanie danych oraz informacji dotyczących przemieszczania się statku rybackiego."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Urządzenie monitorowania powinno umożliwiać przesyłanie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "automatycznie oraz każdorazowo na żądanie pracownika okręgowego inspektoratu rybołówstwa morskiego obsługującego system satelitarnego monitorowania statków rybackich, w szczególności:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_4/ust_1/pkt_1/lit_a",
+         "text": "danych identyfikujących urządzenie monitorowania:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— numeru polskiego systemu satelitarnego monitorowania statków rybackich oraz"
+          },
+          {
+           "type": "text",
+           "text": "— numeru urządzenia monitorowania nadanego w polskim systemie satelitarnego monitorowania statków rybackich;"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_4/ust_1/pkt_1/lit_b",
+         "text": "informacji o:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— pozycji statku rybackiego, określonej przez wskazanie długości i szerokości geograficznej wyrażonej w stopniach, minutach i dziesiętnych częściach minuty, z dokładnością do 500 m, w układzie współrzędnych geograficznych WGS-84,"
+          },
+          {
+           "type": "text",
+           "text": "— dacie i godzinie ustalenia pozycji statku rybackiego,"
+          },
+          {
+           "type": "text",
+           "text": "— kursie statku rybackiego nad dnem morza,"
+          },
+          {
+           "type": "text",
+           "text": "— prędkości statku rybackiego nad dnem morza;"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "automatycznie informacji o:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_4/ust_1/pkt_2/lit_a",
+         "text": "braku połączenia urządzenia monitorowania z satelitą,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_4/ust_1/pkt_2/lit_b",
+         "text": "braku lub uszkodzeniu głównego zasilania urządzenia monitorowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_4/ust_1/pkt_2/lit_c",
+         "text": "próbach mechanicznej ingerencji w urządzenie monitorowania.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Przesyłanie danych i informacji, o których mowa w ust. 1 pkt 1, powinno odbywać się w jednym pakiecie przesyłowym, w takich samych odstępach czasu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Urządzenie monitorowania powinno być wyposażone w zabezpieczenia uniemożliwiające wykonującemu rybołówstwo morskie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "zmianę danych identyfikujących urządzenie monitorowania, przesyłanych przez to urządzenie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "mechaniczną ingerencję w urządzenie monitorowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Parametry techniczne poszczególnych elementów urządzenia monitorowania określa załącznik do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa i Rozwoju Wsi: A. Tański"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 14 marca 2003 r. (poz. 527)",
+   "body": [
+    {
+     "type": "text",
+     "text": "PARAMETRY TECHNICZNE POSZCZEGÓLNYCH ELEMENTÓW URZĄDZENIA MONITOROWANIA"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Element urządzenia monitorowania Parametr techniczny"
+    },
+    {
+     "type": "text",
+     "text": "Zakres Inmarsat C Rx 1525.0—1559.0 MHz Tx 1626.5—1660.5 MHz 1 częstotliwości pracy GPS 1575.42 MHz"
+    },
+    {
+     "type": "text",
+     "text": "Transponder co najmniej 12-kanałowy odbiornik GPS Inmarsat-C/GPS odstęp kanałowy 2.5/5 kHz"
+    },
+    {
+     "type": "text",
+     "text": "2 szybkość modulacji co najmniej 1 200 znaków na sekundę"
+    },
+    {
+     "type": "text",
+     "text": "szybkość co najmniej przesyłania danych Rx 600 bitów na sekundę Tx 600 bitów na sekundę"
+    },
+    {
+     "type": "text",
+     "text": "Antena rodzaj Inmarsat-C/GPS dookólna"
+    },
+    {
+     "type": "text",
+     "text": "3 polaryzacja kołowa G/T-23.7 dB/K oraz EIRP 7 dBW przy 5° elewacji"
+    },
+    {
+     "type": "text",
+     "text": "pokrycie sygnałem +90° — –15°"
+    },
+    {
+     "type": "text",
+     "text": "4 Zasilanie 10—36 VDC"
+    },
+    {
+     "type": "text",
+     "text": "5 Interfejs danych RS232 lub RS485 lub IRDA"
+    },
+    {
+     "type": "text",
+     "text": "6 Protokół przesyłania danych IP66"
+    },
+    {
+     "type": "text",
+     "text": "7 Drugorzędne zasilanie bateryjne żywotność co najmniej 12 miesięcy"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej — rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 29 marca 2002 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 32, poz. 305)."
+ }
+}

@@ -1,0 +1,752 @@
+{
+ "eli": "DU/2003/2060",
+ "title": "Rozporządzenie Ministra Finansów z dnia 28 listopada 2003 r. w sprawie sposobu wyliczenia wysokości marginesu wypłacalności oraz minimalnej wysokości kapitału gwarancyjnego dla działów i grup ubezpieczeń",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/2060/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 listopada 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie sposobu wyliczenia wysokości marginesu wypłacalności oraz minimalnej wysokości kapitału gwarancyjnego dla działów i grup ubezpieczeń"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 147 ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Ilekroć w rozporządzeniu jest mowa o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_1/pkt_1",
+       "text": "ustawie — należy przez to rozumieć ustawę z dnia 22 maja 2003 r. o działalności ubezpieczeniowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "w przypadku zakładu ubezpieczeń, wykonującego działalność w zakresie ubezpieczeń, o których mowa w dziale I, grupy 1—4 załącznika do ustawy:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_1/pkt_2/lit_a",
+         "text": "rezerwie matematycznej brutto — należy przez to rozumieć sumę rezerwy składek brutto, rezerwy na ryzyka niewygasłe brutto, rezerwy ubezpieczeń na życie brutto oraz rezerwy ubezpieczeń na życie, gdy ryzyko lokaty ponosi ubezpieczający brutto, z ubezpieczeń bezpośrednich i reasekuracji czynnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_1/pkt_2/lit_b",
+         "text": "rezerwie matematycznej na udziale własnym — należy przez to rozumieć sumę rezerwy składek na udziale własnym, rezerwy na ryzyka niewygasłe na udziale własnym, rezerwy ubezpieczeń na życie na udziale własnym oraz rezerwy ubezpieczeń na życie, jeżeli ryzyko lokaty ponosi ubezpieczający na udziale własnym, z ubezpieczeń bezpośrednich i reasekuracji czynnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_1/ust_1/pkt_2/lit_c",
+         "text": "wielkość ryzyka brutto zakładu ubezpieczeń — różnicę pomiędzy wynikającą z umowy ubezpieczenia wartością świadczeń z tytułu śmierci a rezerwą matematyczną brutto, która dotyczy ryzyka śmierci oraz zobowiązań, które wygasają z chwilą śmierci,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_1/ust_1/pkt_2/lit_d",
+         "text": "wielkości ryzyka na udziale własnym zakładu ubezpieczeń — należy przez to rozumieć wielkość ryzyka brutto zakładu ubezpieczeń, pomniejszoną o udział reasekuratorów i retrocesjonariuszy;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_1/pkt_3",
+       "text": "w przypadku zakładu ubezpieczeń wykonującego działalność w zakresie ubezpieczeń, o których mowa w dziale I grupa 5 załącznika do ustawy, oraz zakładu ubezpieczeń wykonującego działalność w zakresie ubezpieczeń, o których mowa w dziale II załącznika do ustawy:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_1/pkt_3/lit_a",
+         "text": "kwocie składki (G) — należy przez to rozumieć większą z dwóch wielkości:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— składki przypisanej w okresie 12 miesięcy, kończącym się w dniu, na który obliczany jest margines wypłacalności, z ubezpieczeń bezpośrednich i reasekuracji czynnej, z uwzględnieniem storn, niepomniejszonej o udział reasekuratorów i retrocesjonariuszy, oraz"
+          },
+          {
+           "type": "text",
+           "text": "— składki przypisanej w okresie 12 miesięcy, kończącym się w dniu, na który obliczany jest margines wypłacalności, pomniejszonej o stan rezerwy składek na koniec powyższego okresu i powiększonej o stan rezerwy składek na początek powyższego okresu, z ubezpieczeń bezpośrednich i reasekuracji czynnej, z uwzględnieniem storn, niepomniejszonej o udział reasekuratorów i retrocesjonariuszy,"
+          },
+          {
+           "type": "text",
+           "text": "dla potrzeb wyliczenia powyższych dwóch wielkości — sumę składek przypisanych pomniejsza się o podatek, jeżeli jest on zawarty w składce, a dane dotyczące grup ubezpieczeń 11, 12 i 13 działu II załącznika do ustawy zwiększa się o 50 %,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_1/pkt_3/lit_b",
+         "text": "przeciętnej rocznej kwocie odszkodowań i świadczeń — należy przez to rozumieć jedną trzecią, o ile długość okresu porównawczego wynosi 36 miesięcy, albo jedną siódmą, o ile długość okresu porównawczego wynosi 84 miesiące, sumy odszkodowań i świadczeń wypłaconych z ubezpieczeń bezpośrednich i reasekuracji czynnej w okresie porównawczym i wielkości rezerw na niewypłacone odszkodowania i świadczenia według stanu na ostatni dzień okresu porównawczego, pomniejszonej o otrzymane zwroty, regresy i wszelkie odzyski, w tym również odzyski ze sprzedaży pozostałości po szkodach, uzyskane w okresie porównawczym, i wielkość rezerw na niewypłacone odszkodowania i świadczenia według stanu na pierwszy dzień okresu porównawczego, przy czym:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— w powyższym obliczeniu wykorzystuje się dane niepomniejszone o udział reasekuratorów i retrocesjonariuszy,"
+          },
+          {
+           "type": "text",
+           "text": "— dla potrzeb obliczenia marginesu wypłacalności dane dotyczące grup ubezpieczeń 11, 12 i 13 działu II załącznika do ustawy zwiększa się o 50 %, — długość okresu porównawczego wynosi 36 miesięcy, z wyjątkiem sytuacji, gdy co najmniej 50 % składek przypisanych w okresie 12 miesięcy poprzedzających dzień, na który obliczany jest margines wypłacalności, z ubezpieczeń bezpośrednich i reasekuracji czynnej, dotyczy ubezpieczenia ryzyka burzy, gradu, mrozu lub kredytu — wtedy długość okresu porównawczego wynosi 84 miesiące, — ostatnim dniem okresu porównawczego jest dzień, na który obliczany jest margines wypłacalności,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_1/ust_1/pkt_3/lit_c",
+         "text": "współczynniku reasekuracyjnym — należy przez to rozumieć stosunek procentowy łącznej sumy odszkodowań na udziale własnym (po potrąceniu udziału reasekuratorów i retrocesjonariuszy) wypłaconych w okresie ostatnich 36 miesięcy (lub w okresie całej działalności, gdy zakład ubezpieczeń prowadzi działalność krócej niż 3 lata), po potrąceniu wszelkich zwrotów, regresów i odzysków, zwiększonej o kwotę rezerwy na niewypłacone odszkodowania na udziale własnym na koniec tego okresu i zmniejszonej o kwotę rezerwy na niewypłacone odszkodowania na udziale własnym na początek tego okresu, do sumy odszkodowań brutto wypłaconych w tym okresie, skorygowanej o zwiększenie lub zmniejszenie rezerwy na niewypłacone odszkodowania brutto; jeżeli powyższy stosunek jest mniejszy niż 50 %, jako wielkość współczynnika reasekuracyjnego przyjmuje się 50 %.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Do wyliczania równowartości w złotych kwoty wyrażonej w euro przyjmuje się kurs średni walut obcych Narodowego Banku Polskiego według tabeli kursów średnich nr 1 każdego roku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Wysokości obowiązujących bazowych wartości kwot KG1, KG2, KG3, o których mowa w § 8 i 9, służących do określenia minimalnej wysokości kapitału gwarancyjnego, wynoszą odpowiednio 3 000 000 euro, 2 000 000 euro, 3 000 000 euro, oraz kwot T1, T2, o których mowa w załączniku nr 3 w pkt 2 i 3, wykorzystywanych przy wyliczeniu marginesu wypłacalności, wynoszą odpowiednio 50 000 000 euro i 35 000 000 euro.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Wysokości kwot, o których mowa w ust. 1, ogłasza organ nadzoru co roku w terminie do dnia 20 października w Dzienniku Urzędowym Komisji Nadzoru Ubezpieczeń i Funduszy Emerytalnych, z uwzględnieniem zmian europejskiego indeksu cen konsumpcyjnych, publikowanego przez Urząd Statystyczny Unii Europejskiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Jeżeli procentowy wzrost europejskiego indeksu cen konsumpcyjnych, w okresie od dnia ostatniej zmiany obowiązujących wartości kwot KG1, KG2, KG3, T1, T2 do dnia 20 września danego roku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_3/pkt_1",
+       "text": "wynosi co najmniej 5 %, to nowe obowiązujące wartości tych kwot są ustalane poprzez zwiększenie bazowych wartości kwot o procentową wielkość zmiany europejskiego indeksu cen konsumpcyjnych, w okresie od dnia 20 marca 2002 r. do dnia 20 września danego roku, z zaokrągleniem w górę do wielokrotności 100 000 euro;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_3/pkt_2",
+       "text": "jest mniejszy niż 5 %, to obowiązujące wartości tych kwot nie ulegają zmianie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "W przypadku gdy wysokość obowiązujących wartości kwot KG1, KG2, KG3, T1, T2 ulega zmianie w danym roku obrotowym, mają one zastosowanie od początku następnego roku obrotowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Sposób wyliczenia i wysokość marginesu wypłacalności"
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Margines wypłacalności zakładu ubezpieczeń wykonującego działalność w grupach 1, 2 i 4 działu I załącznika do ustawy wylicza się w sposób określony w załączniku nr 1 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Margines wypłacalności zakładu ubezpieczeń wykonującego działalność w grupie 3 działu I załącznika do ustawy wylicza się w sposób określony w załączniku nr 2 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Margines wypłacalności zakładu ubezpieczeń wykonującego działalność w grupie 5 działu I załącznika do ustawy wylicza się w sposób określony w załączniku nr 3 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Jeżeli zakład ubezpieczeń wykonuje działalność w kilku grupach działu I załącznika do ustawy, wymagających obliczenia marginesu wypłacalności według różnych sposobów, margines wypłacalności zakładu ubezpieczeń odpowiada wówczas sumie kwot określających marginesy wypłacalności dla poszczególnych rodzajów ubezpieczeń, wyliczone zgodnie z załącznikami, o których mowa w § 3, 4 i 5.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Margines wypłacalności zakładu ubezpieczeń wykonującego działalność w dziale II załącznika do ustawy wylicza się w sposób określony w załączniku nr 3 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Minimalna wysokość kapitału gwarancyjnego"
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Minimalna wysokość kapitału gwarancyjnego dla zakładu ubezpieczeń w formie spółki akcyjnej, który wykonuje działalność w zakresie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "działu I załącznika do ustawy, wynosi równowartość w złotych obowiązującej wartości kwoty KG1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "działu II załącznika do ustawy, wynosi równowartość w złotych obowiązującej wartości:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_8/pkt_2/lit_a",
+       "text": "kwoty KG2, jeśli zakład prowadzi działalność wyłącznie w zakresie ryzyk klasyfikowanych w grupach 1—9 i 16—18 wymienionych w załączniku do ustawy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_8/pkt_2/lit_b",
+       "text": "kwoty KG3, jeśli zakład prowadzi działalność w zakresie ryzyk, z których przynajmniej jedno ryzyko jest klasyfikowane w grupach 10—15 wymienionych w załączniku do ustawy.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Minimalna wysokość kapitału gwarancyjnego dla zakładu ubezpieczeń w formie towarzystwa ubezpieczeń wzajemnych, który wykonuje działalność w zakresie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_9/pkt_1",
+     "text": "działu I załącznika do ustawy, wynosi równowartość w złotych 75 % obowiązującej wartości kwoty KG1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_9/pkt_2",
+     "text": "działu II załącznika do ustawy, wynosi równowartość w złotych 75 % obowiązującej wartości:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_9/pkt_2/lit_a",
+       "text": "kwoty KG2, jeśli zakład prowadzi działalność wyłącznie w zakresie ryzyk klasyfikowanych w grupach 1—9 i 16—18 wymienionych w załączniku do ustawy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_9/pkt_2/lit_b",
+       "text": "kwoty KG3, jeśli zakład prowadzi działalność w zakresie ryzyk, z których przynajmniej jedno ryzyko jest klasyfikowane w grupach 10—15 wymienionych w załączniku do ustawy.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Minimalna wysokość kapitału gwarancyjnego oraz wysokość marginesu wypłacalności wynosi 0 dla towarzystw ubezpieczeń wzajemnych uznanych za małe, zgodnie z ustawą o działalności ubezpieczeniowej, jeśli spełniają następujące warunki:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_10/pkt_1",
+     "text": "statut towarzystwa przewiduje możliwość pobrania dodatkowych składek lub redukcję świadczeń;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_10/pkt_2",
+     "text": "towarzystwo ubezpieczeń wzajemnych, prowadzące działalność w dziale II:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_10/pkt_2/lit_a",
+       "text": "nie prowadzi ubezpieczeń odpowiedzialności cywilnej — poza przypadkiem, gdy ubezpieczenie odpowiedzialności cywilnej jest związane z głównym ryzykiem i jest objęte tą samą umową ubezpieczenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_10/pkt_2/lit_b",
+       "text": "nie prowadzi ubezpieczeń w grupach 14—15 działu II załącznika do ustawy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_10/pkt_2/lit_c",
+       "text": "przynajmniej 50 % zbioru składki przypisanej w ostatnim roku obrotowym pochodzi od członków uprawnionych do głosowania na walnym zgromadzeniu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Przepisy przejściowe i końcowe"
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Z chwilą wejścia w życie rozporządzenia obowiązującymi wartościami kwot KG1, KG2, KG3, T1, T2 są bazowe wartości kwot, o których mowa w § 2 ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Do czasu dokonania pierwszej zmiany obowiązujących wartości kwot KG1, KG2, KG3, T1, T2 uwzględnia się wzrost europejskiego indeksu cen konsumpcyjnych w okresie od dnia 20 marca 2002 r. do dnia 20 września danego roku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Zakłady ubezpieczeń, które uzyskały zezwolenie na prowadzenie działalności ubezpieczeniowej przed dniem wejścia w życie niniejszego rozporządzenia, mogą do dnia 31 grudnia 2006 r. wyliczać margines wypłacalności oraz ustalać minimalną wysokość kapitału gwarancyjnego zgodnie z przepisami określonymi w rozporządzeniu Ministra Finansów z dnia 17 października 1995 r. w sprawie sposobu wyliczenia i wysokości marginesu wypłacalności oraz minimalnej wysokości kapitału gwarancyjnego dla każdego rodzaju ubezpieczeń oraz dla działalności reasekuracyjnej (Dz. U. Nr 127, poz. 606), jednakże nie dłużej niż do zastosowania po raz pierwszy do określenia tych wartości przepisów niniejszego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2004 r.[^2]",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Finansów: w z. W. Ciesielski"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Finansów z dnia 28 listopada 2003 r. (poz. 2060) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "SPOSÓB WYLICZENIA MARGINESU WYPŁACALNOŚCI ZAKŁADU UBEZPIECZEŃ WYKONUJĄCEGO DZIAŁALNOŚĆ W GRUPACH 1, 2, 4 DZIAŁU I ZAŁĄCZNIKA DO USTAWY"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "W grupach 1, 2 i 4 działu I załącznika do ustawy margines wypłacalności (MW) równa się sumie dwóch składników S1 i S2:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "składnik S1 oblicza się w sposób następujący:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_1/lit_a",
+         "text": "jeśli B < 85 %, to S1 = 4 % x A x 85 %,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_1/lit_b",
+         "text": "jeśli B ≥ 85 %, to S1 = 4 % x A x B,",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "gdzie:"
+        },
+        {
+         "type": "text",
+         "text": "B — współczynnik oznaczający stosunek procentowy rezerwy matematycznej na udziale własnym do rezerwy matematycznej brutto, według stanu na dzień, na który obliczany jest margines wypłacalności,"
+        },
+        {
+         "type": "text",
+         "text": "A — współczynnik oznaczający rezerwę matematyczną brutto, według stanu na dzień, na który obliczany jest margines wypłacalności;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "składnik S2 oblicza się wyłącznie w przypadku umów ubezpieczenia, dla których wielkość ryzyka brutto zakładu ubezpieczeń, według stanu na dzień, na który obliczany jest margines wypłacalności, jest nieujemna, w sposób następujący:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_2/lit_a",
+         "text": "jeśli D < 50 %, to S2 = W x C x 50 %,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_2/lit_b",
+         "text": "jeśli D ≥ 50 %, to S2 = W x C x D,",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "gdzie:"
+        },
+        {
+         "type": "text",
+         "text": "D — współczynnik oznaczający stosunek procentowy wielkości ryzyka na udziale własnym zakładu ubezpieczeń do wielkości ryzyka brutto zakładu ubezpieczeń, według stanu na dzień, na który obliczany jest margines wypłacalności,"
+        },
+        {
+         "type": "text",
+         "text": "W — współczynnik wynoszący: — 0,1 % w ubezpieczeniach na wypadek śmierci, jeżeli umowa ubezpieczenia została zawarta na okres nieprzekraczający 3 lat,"
+        },
+        {
+         "type": "text",
+         "text": "— 0,15 % w ubezpieczeniach na wypadek śmierci, jeżeli umowa ubezpieczenia została zawarta na okres przekraczający 3 lata, ale nieprzekraczający 5 lat,"
+        },
+        {
+         "type": "text",
+         "text": "— 0,3 % w pozostałych ubezpieczeniach na życie,"
+        },
+        {
+         "type": "text",
+         "text": "C — współczynnik oznaczający wielkość ryzyka brutto zakładu ubezpieczeń, według stanu na dzień, na który obliczany jest margines wypłacalności."
+        },
+        {
+         "type": "text",
+         "text": "Załącznik nr 2"
+        },
+        {
+         "type": "text",
+         "text": "SPOSÓB WYLICZENIA MARGINESU WYPŁACALNOŚCI ZAKŁADU UBEZPIECZEŃ WYKONUJĄCEGO DZIAŁALNOŚĆ W GRUPIE 3 DZIAŁU I ZAŁĄCZNIKA DO USTAWY"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "W grupie 3 działu I załącznika do ustawy margines wypłacalności (MW) oblicza się w sposób następujący:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_1/lit_a",
+       "text": "jeśli F < 85 %, to MW = (4 % x E1 + 1 % x E2) x 85 % + E3,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "jeśli F ≥ 85 %, to MW = (4 % x E1 + 1 % x E2) x F + E3,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "gdzie:"
+      },
+      {
+       "type": "text",
+       "text": "F — współczynnik oznaczający stosunek procentowy rezerwy matematycznej na udziale własnym do rezerwy matematycznej brutto, według stanu na dzień, na który obliczany jest margines wypłacalności,"
+      },
+      {
+       "type": "text",
+       "text": "E1 — współczynnik oznaczający rezerwę matematyczną brutto, według stanu na dzień, na który obliczany jest margines wypłacalności, w przypadku gdy zakład ubezpieczeń ponosi ryzyko inwestycyjne, przez co rozumie się, że wynik ubezpieczeniowego funduszu inwestycyjnego obciąża zakład ubezpieczeń, E2 — współczynnik oznaczający rezerwę matematyczną brutto, według stanu na dzień, na który obliczany jest margines wypłacalności, w przypadku gdy zakład ubezpieczeń nie ponosi ryzyka inwestycyjnego, a maksymalny poziom kosztów związanych z zarządzaniem polisą, pokrywanych przez ubezpieczającego, jest ustalony na okres przekraczający 5 lat,"
+      },
+      {
+       "type": "text",
+       "text": "E3 — współczynnik oznaczający 25 % wartości kosztów administracyjnych dotyczących danego rodzaju ubezpieczeń, poniesionych przez zakład ubezpieczeń w okresie 12 miesięcy poprzedzających dzień, na który obliczany jest margines wypłacalności, w przypadku gdy zakład ubezpieczeń nie ponosi ryzyka inwestycyjnego, a maksymalny poziom kosztów związanych z zarządzaniem polisą, pokrywanych przez ubezpieczającego, nie jest ustalony na okres przekraczający 5 lat."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Jeżeli umowa ubezpieczenia obejmuje ryzyko śmierci, to w przypadku umów ubezpieczenia, dla których wielkość ryzyka brutto zakładu ubezpieczeń jest nieujemna, według stanu na dzień, na który obliczany jest margines wypłacalności, do wyniku otrzymanego zgodnie z ust. 1 dodaje się składnik S1, który oblicza się w sposób następujący:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/lit_a",
+       "text": "jeśli D < 50 %, to S1 = 0,3 % x C x 50 %,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/lit_b",
+       "text": "jeśli D ≥ 50 %, to S1 = 0,3 % x C x D, gdzie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "D — współczynnik oznaczający stosunek procentowy wielkości ryzyka na udziale własnym do wielkości ryzyka brutto zakładu ubezpieczeń, według stanu na dzień, na który obliczany jest margines wypłacalności,"
+        },
+        {
+         "type": "text",
+         "text": "C — współczynnik oznaczający wielkość ryzyka brutto zakładu ubezpieczeń, według stanu na dzień, na który obliczany jest margines wypłacalności."
+        },
+        {
+         "type": "text",
+         "text": "Załącznik nr 3"
+        },
+        {
+         "type": "text",
+         "text": "SPOSÓB WYLICZENIA MARGINESU WYPŁACALNOŚCI ZAKŁADU UBEZPIECZEŃ WYKONUJĄCEGO DZIAŁALNOŚĆ W GRUPIE 5 W DZIALE I ORAZ ZAKŁADU UBEZPIECZEŃ WYKONUJĄCEGO DZIAŁALNOŚĆ W DZIALE II ZAŁĄCZNIKA DO USTAWY"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Z zastrzeżeniem pkt 4 margines wypłacalności (MW) jest równy większej z dwóch kwot:",
+     "children": [
+      {
+       "type": "text",
+       "text": "MW1 — obliczonej na podstawie składek oraz"
+      },
+      {
+       "type": "text",
+       "text": "MW2 — obliczonej na podstawie przeciętnej rocznej kwoty odszkodowań i świadczeń."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Kwotę MW1 oblicza się w sposób następujący:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/lit_a",
+       "text": "jeśli G ≤ P1,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "to MW1 = 18 % x G x H,"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/lit_b",
+       "text": "jeśli G > P1,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "to MW1 = [18 % x P1 + 16 % x (G–P1)] x H,"
+      },
+      {
+       "type": "text",
+       "text": "gdzie:"
+      },
+      {
+       "type": "text",
+       "text": "P1 — równowartość w złotych kwoty T1,"
+      },
+      {
+       "type": "text",
+       "text": "G — kwota składki,"
+      },
+      {
+       "type": "text",
+       "text": "H — współczynnik reasekuracyjny."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Kwotę MW2 oblicza się w sposób następujący:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_3/lit_a",
+       "text": "jeśli J ≤ P2,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "to MW2 = 26 % x J x H,"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_3/lit_b",
+       "text": "jeśli J > P2,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "to MW2 = [26 % x P2 + 23 % x (J–P2)] x H,"
+      },
+      {
+       "type": "text",
+       "text": "gdzie:"
+      },
+      {
+       "type": "text",
+       "text": "P2 — równowartość w złotych kwoty T2,"
+      },
+      {
+       "type": "text",
+       "text": "J — przeciętna roczna kwota odszkodowań i świadczeń,"
+      },
+      {
+       "type": "text",
+       "text": "H — współczynnik reasekuracyjny."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Jeśli margines wypłacalności obliczony zgodnie z pkt 1—3 jest mniejszy niż margines wypłacalności obliczony na analogiczny dzień poprzedniego roku, to margines wypłacalności nie może być mniejszy niż iloczyn marginesu wypłacalności obliczonego na analogiczny dzień poprzedniego roku i stosunku wielkości rezerw na niewypłacone odszkodowania i świadczenia według stanu na dzień, na który obliczany jest margines wypłacalności, do wielkości rezerw na niewypłacone odszkodowania i świadczenia według stanu na dzień następny po analogicznym dniu poprzedniego roku. Na potrzeby obliczenia powyższego stosunku wykorzystuje się dane dotyczące rezerw po uwzględnieniu udziału reasekuratora. Jeśli powyższy stosunek jest większy niż 1, jako wielkość tego stosunku przyjmuje się 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Wielkości parametrów procentowych 16 % i 18 % w pkt 2 oraz 23 % i 26 % w pkt 3 zmniejsza się odpowiednio do jednej trzeciej ich wartości w przypadku ubezpieczeń choroby, jeśli zakład stosuje do nich metody właściwe ubezpieczeniom na życie, oraz pod warunkiem, że:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_5/lit_a",
+       "text": "stawki składki są kalkulowane przy użyciu tablic zachorowalności, opracowanych zgodnie z naukami aktuarialnymi,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_5/lit_b",
+       "text": "tworzona jest rezerwa na zwiększenie ryzyka związanego ze wzrostem wieku ubezpieczonego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_5/lit_c",
+       "text": "inkasowana jest dodatkowa składka przeznaczona na margines bezpieczeństwa w stosownej wysokości,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_5/lit_d",
+       "text": "zakład ubezpieczeń ma prawo wypowiedzieć umowę ubezpieczenia w okresie pierwszych trzech lat trwania umowy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_5/lit_e",
+       "text": "umowy ubezpieczenia dają możliwość zwiększania stawek składek lub redukowania świadczeń przez zakład ubezpieczeń w czasie trwania umowy.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Finansów kieruje działem administracji rządowej — instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 marca 2002 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 32, poz. 301, Nr 43, poz. 378 i Nr 93, poz. 834).",
+  "2": "Z dniem wejścia w życie niniejszego rozporządzenia traci moc rozporządzenie Ministra Finansów z dnia 17 października 1995 r. w sprawie sposobu wyliczenia i wysokości marginesu wypłacalności oraz minimalnej wysokości kapitału gwarancyjnego dla każdego rodzaju ubezpieczeń oraz dla działalności reasekuracyjnej (Dz. U. Nr 127, poz. 606)."
+ }
+}

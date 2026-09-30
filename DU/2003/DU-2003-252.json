@@ -1,0 +1,184 @@
+{
+ "eli": "DU/2003/252",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 lutego 2003 r. zmieniające rozporządzenie w sprawie wzorów kart rejestracyjnych, sposobu ich wypełniania oraz katalogów rodzajów przestępstw, cech rysopisowych i znaków szczególnych",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/252/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 lutego 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające rozporządzenie w sprawie wzorów kart rejestracyjnych, sposobu ich wypełniania oraz katalogów rodzajów przestępstw, cech rysopisowych i znaków szczególnych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 21 ust. 3 ustawy z dnia 6 lipca 2001 r. o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych (Dz. U. Nr 110, poz. 1189 i Nr 154, poz. 1800 oraz z 2002 r. Nr 81, poz. 731 i Nr 89, poz. 804) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 3 lipca 2002 r. w sprawie wzorów kart rejestracyjnych, sposobu ich wypełniania oraz katalogów rodzajów przestępstw, cech rysopisowych i znaków szczególnych (Dz. U. Nr 118, poz. 1016 i Nr 238, poz. 2024) załącznik nr 5 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Przepisy rozporządzenia stosuje się od dnia 1 stycznia 2003 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych i Administracji: K. Janik"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 11 lutego 2003 r. (poz. 252)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR STRUKTURALNY ELEKTRONICZNEJ KARTY REJESTRACYJNEJ PRZESTĘPSTW"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<!ELEMENT RODZAJ REJESTRACJA ( KATEGORIA , TYP , KWALIFIKACJA PRAWNA? , W_ZWIAZKU_2? ) > <!-- pole Kategoria jest listą elementów ze słownika kategorii przestepstw--> <!ELEMENT KATEGORIA (#PCDATA)> <!-- pole Typ jest lista elementów ze słownika typów przestępstw--> <!ELEMENT TYP (#PCDATA)> <!-- pole Kwalifikacja prawna czynu jest listą elementów ze słownika kwalifikacji prawnych --> <!ELEMENT KWALIFIKACJA PRAWNA (#PCDATA)> <!-- pole W związku z jest polem tekstowym --> <!ELEMENT W_ZWIAZKU Z (#PCDATA)> <!ELEMENT DATA OD (DATA)> <!ATTLIST DATA format (RRRR-MM-DD | RRRR) REQUIRED"
+    },
+    {
+     "type": "ocr",
+     "text": "> <!ELEMENT DATA (#PCDATA)> <!ELEMENT DATA DO (DATA)> <!ELEMENT MIEJUSCE_PRZESTEPSTWA ( KRAJ? , WOJEWODZTWO? , POWIAT? , GMINA? , MIEJSCOWOSC? , ULICA? , NUMER DOMU? , NUMER MIESZKANIA? , RODZAJ MIEJSCA? )> <!-- pole Kraj jest listą elementów ze słownika krajów --> <!ELEMENT KRAJ (#PCDATA)> <!-- pole Województwo jest listą elementów ze słownika województw --> <!ELEMENT WOJEWODZTWO (#PCDATA)> <!-- pole Powiat jest listą elementów ze słownika powiatów --> <!ELEMENT POWIAT (#PCDATA)> <!-- pole Gmina jest listą elementów ze słownika gmin --> <!ELEMENT GMINA (#PCDATA)> <!-- pole Miejscowość jest listą elementów ze słownika miejscowości --> <!ELEMENT MIEJSCOWOSC (#PCDATA)> <!ELEMENT ULICA (#PCDATA)> <!ELEMENT NUMER DOMU (#PCDATA)> <!ELEMENT NUMER MIESZKANIA (#PCDATA)> <!ELEMENT RODZAJ MIEJSCA (#PCDATA)> <!-- USUNIECIE / ZMIANA --> <!ELEMENT PRZESTEPSTWO_ ZMIANA ( RODZAJ _ZMIANA* , DATA_OD? , DATA_DO? , MIEJSCE_PRZESTEPSTWA* , KOMENTARZ? )> <!ELEMENT RODZAJ_2MIANA ( KATEGORIA? , TYP? , KWALIFIKACJA PRAWNA? , W_ZWIAZKU_Z? )>"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR GRAFICZNY ELEKTRONICZNEJ KARTY REJESTRACYJNEJ PRZESTĘPSTW"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 1 Rejestracja przestępstwa"
+    },
+    {
+     "type": "text",
+     "text": "* — pole obowiązkowe do wypełnienia. *T| — po zaznaczeniu opcji TAK wypełnić należy jedno z pól. Wszystkie pola na następnych ekranach oznaczone * są opcjonalne. %T| — po zaznaczeniu opcji TAK wypełnić należy pole Identyfikator KCIK (pole obowiązkowe), dodatkowo można wypełnić pole Numer rejestracji KCIK (pole opcjonalne). Wszystkie pola na następnych ekranach oznaczone * są opcjonalne. Jeżeli żadne z pól występujących na następnych ekranach nie zostanie wypełnione, wykonana zostanie rejestracja usunięcia. W przeciwnym wypadku zostanie wykonana rejestracja zmiany."
+    },
+    {
+     "type": "text",
+     "text": "UWAGA! Można zaznaczyć tylko jedną z opcji TAK (Przejęto od innego podmiotu lub Rejestracja usunięcia/Rejestracja zmiany). Po zaznaczeniu jednej z opcji TAK pola związane z drugą opcją są automatycznie blokowane."
+    },
+    {
+     "type": "text",
+     "text": "Podmiot rejestrujący Nazwa, siedziba organu/jednostki organizacyjnej — pole wypełniane jest w trakcie instalacji oprogramowania nazwą i siedzibą organu lub jednostki organizacyjnej zgodnie z art. 20 ustawy z dnia 6 lipca 2001 r. o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych (Dz. U. Nr 110, poz.1189 i Nr 154, poz. 1800 oraz z 2002 r. Nr 81, poz. 731 i Nr 89, poz. 804). Znak sprawy — w polu wpisuje się unikalny, nadany przez podmiot uprawniony lub podmiot zobowiązany, znak sprawy umożliwiający identyfikację wszelkich informacji związanych z daną rejestracją. Sporządził — numer PESEL — numer PESEL osoby sporządzającej dokument rejestracji. Wprowadził — numer PESEL — numer PESEL osoby wprowadzającej dane. Telefon kontaktowy — numer telefonu osoby wprowadzającej dane."
+    },
+    {
+     "type": "text",
+     "text": "Przejęto od innego podmiotu TAK/NIE — naciśnij TAK, jeśli rejestrację przejęto od innego podmiotu. Identyfikator KCIK — unikalny identyfikator nadawany przez system centralny służący do identyfikacji informacji. Numer rejestracji KCIK — unikalny numer nadawany przez system lokalny służący do identyfikacji informacji. Rejestracja usunięcia/Rejestracja zmiany TAK/NIE — naciśnij TAK, jeśli chcesz zmodyfikować lub usunąć rejestrację. Identyfikator KCIK — unikalny identyfikator nadawany przez system centralny służący do identyfikacji informacji. Numer rejestracji KCIK — unikalny numer nadawany przez system lokalny służący do identyfikacji informacji."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 5 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 2 Rejestracja: przestępstwo"
+    },
+    {
+     "type": "text",
+     "text": "* — pole obowiązkowe do wypełnienia. ^ — lista może zawierać więcej niż jeden element."
+    },
+    {
+     "type": "text",
+     "text": "Rodzaj popełnionego przestępstwa + (PLUS) — naciśnięcie przycisku powoduje wyświetlenie okna (Rys. 4 Nowe przestępstwo w sprawie), poprzez które można wprowadzić nowy rodzaj przestępstwa."
+    },
+    {
+     "type": "text",
+     "text": "– (MINUS) — naciśnięcie przycisku powoduje usunięcie podświetlonych rodzajów przestępstw z listy."
+    },
+    {
+     "type": "text",
+     "text": "Miejsce przestępstwa + (PLUS) — naciśnięcie przycisku powoduje wyświetlenie okna (Rys. 5 Nowe miejsce przestępstwa), poprzez które można wprowadzić nowe miejsce przestępstwa. – (MINUS) — naciśnięcie przycisku powoduje usunięcie podświetlonych miejsc przestępstw z listy. Data od — data początku okresu czasu przestępstwa w formacie rok, miesiąc, dzień. Data do — data końca okresu czasu przestępstwa w formacie rok, miesiąc, dzień. Komentarz — wpisuje się dodatkowe informacje o przestępstwie."
+    },
+    {
+     "type": "text",
+     "text": "Rys. 3 Zakończenie rejestracji"
+    },
+    {
+     "type": "text",
+     "text": "Nadano Numer rejestracji KCIK rejestracja — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty rejestracji. OK — po naciśnięciu przycisku nastąpi przesłanie rejestracji do systemu centralnego."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 6 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 4 Nowe przestępstwo w sprawie"
+    },
+    {
+     "type": "text",
+     "text": "* — pole obowiązkowe do wypełnienia."
+    },
+    {
+     "type": "text",
+     "text": "Kategoria — wybór z listy kategorii. Typ — wybór z listy typów. Kwalifikacja prawna czynu — wybór z listy. W związku z — pole tekstowe."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 7 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 5 Nowe miejsce przestępstwa"
+    },
+    {
+     "type": "text",
+     "text": "Kraj — wybór z listy krajów. Województwo — wybór z listy województw. Powiat — wybór z listy powiatów. Gmina — wybór z listy gmin. Miejscowość — wybór z listy miejscowości. Ulica Numer domu Numer mieszkania Rodzaj miejsca"
+    },
+    {
+     "type": "text",
+     "text": "Egzemplarze bieżące oraz archiwalne można nabywać: – w Zakładzie Wydawnictw i Poligrafii Centrum Obsługi Kancelarii Prezesa Rady Ministrów, ul. Powsińska 69/71, 02-903 Warszawa, tel. 694-67-00, 694-60-96 — na podstawie nadesłanego zamówienia (wyłącznie sprzedaż wysyłkowa); – w punktach sprzedaży Dziennika Ustaw i Monitora Polskiego w Warszawie (sprzedaż wyłącznie za gotówkę) – ul. Powsińska 69/71, tel. 694-62-96 – al. Szucha 2/4, tel. 629-61-73 (od 1997 r.)"
+    },
+    {
+     "type": "text",
+     "text": "Reklamacje z powodu niedoręczenia poszczególnych numerów zgłaszać należy na piśmie do Zakładu Wydawnictw i Poligrafii Centrum Obsługi Kancelarii Prezesa Rady Ministrów, ul. Powsińska 69/71, 02-903 Warszawa, do 15 dni po otrzymaniu następnego kolejnego numeru"
+    },
+    {
+     "type": "text",
+     "text": "O wszelkich zmianach nazwy lub adresu prenumeratora prosimy niezwłocznie informować na piśmie Zakład Wydawnictw i Poligrafii Centrum Obsługi Kancelarii Prezesa Rady Ministrów"
+    },
+    {
+     "type": "text",
+     "text": "Dziennik Ustaw i Monitor Polski dostępne są w Internecie pod adresem www.cokprm.gov.pl"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej — sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 14 marca 2002 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. Nr 35, poz. 325 i Nr 58, poz. 533)."
+ }
+}
