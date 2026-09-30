@@ -1,0 +1,678 @@
+{
+ "eli": "DU/2001/1218",
+ "title": "Rozporządzenie Ministra Gospodarki z dnia 11 września 2001 r. w sprawie szczegółowych wymagań technicznych i eksploatacyjnych dla ruchomych publicznych sieci telefonicznych o strukturze komórkowej NMT-450.",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2001/1218/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 września 2001 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczegółowych wymagań technicznych i eksploatacyjnych dla ruchomych publicznych sieci telefonicznych o strukturze komórkowej NMT-450."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 88 ust. 2 pkt 2 ustawy z dnia 21 lipca 2000 r. — Prawo telekomunikacyjne (Dz. U. Nr 73, poz. 852) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Rozporządzenie ustala szczegółowe wymagania techniczne i eksploatacyjne dla ruchomych publicznych sieci telefonicznych, przeznaczonych w szczególności do świadczenia usług telekomunikacyjnych zgodnie z zasadami analogowego systemu radiokomunikacji ruchomej lądowej o strukturze komórkowej NMT-450i, wykorzystującego zakres częstotliwości 450 MHz, zwanych dalej „sieciami komórkowymi NMT-450”, eksploatowanych na obszarze Rzeczypospolitej Polskiej, w tym wymagania techniczne i eksploatacyjne, dotyczące współpracy sieci komórkowych NMT-450 z publicznymi sieciami telefonicznymi, eksploatowanymi na obszarze Rzeczypospolitej Polskiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Ogólne wymagania dla analogowego systemu radiokomunikacji ruchomej lądowej o strukturze komórkowej NMT-450i oraz dla stacji ruchomych i stacji bazowych określają przepisy odrębne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "Szczegółowe wymagania techniczne i eksploatacyjne, o których mowa w ust. 1, określa załącznik do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_1/ust_4",
+     "text": "Szczegółowe wymagania techniczne i eksploatacyjne dla sieci komórkowych NMT-450 mogą być stosowane do oceny zgodności urządzeń telekomunikacyjnych używanych w tych sieciach z wymaganiami zasadniczymi oraz wymaganiami systemu NMT-450i.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W rozporządzeniu Ministra Łączności z dnia 4 września 1997 r. w sprawie wymagań technicznych i eksploatacyjnych dla urządzeń, linii i sieci telekomunikacyjnych zakładanych i używanych na terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 109, poz. 709 i Nr 134, poz. 887) w załączniku nr 1 po wyrazach „Załącznik nr 15 — Wymagania techniczne i eksploatacyjne dla sieci radiokomunikacji ruchomej lądowej o strukturze komórkowej, zakładanej i eksploatowanej w paśmie częstotliwości 450 MHz, oraz warunki jej współpracy z siecią telekomunikacyjną użytku publicznego” skreśla się wyrazy „Część 1 — Wymagania podstawowe.”",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni do dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki: J. Steinhoff"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Gospodarki z dnia 11 września 2001 r. (poz. 1218)",
+   "body": [
+    {
+     "type": "text",
+     "text": "SZCZEGÓŁOWE WYMAGANIA TECHNICZNE I EKSPLOATACYJNE DLA SIECI KOMÓRKOWYCH NMT-450"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Postanowienia ogólne"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Określenia użyte w załączniku oznaczają:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/pkt_1",
+       "text": "ACR — automatyczną centralę radiotelefoniczną sieci komórkowej NMT-450, sterującą pracą tej sieci w poszczególnych regionach i w całym kraju, realizującą funkcje zaliczania za połączenia zestawiane w sieci komórkowej NMT-450 i zapewniającą współpracę tej sieci komórkowej z PSTN,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/pkt_2",
+       "text": "aparat publiczny — publicznie dostępny aparat telefoniczny, w którym połączenie jest opłacane automatycznie, w szczególności za pomocą monety, karty telefonicznej albo karty płatniczej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/pkt_3",
+       "text": "ETSI — Europejski Instytut Norm Telekomunikacyjnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/pkt_4",
+       "text": "ITU — Międzynarodowy Związek Telekomunikacyjny,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/pkt_5",
+       "text": "POU — podsystem obsługi i utrzymania sieci komórkowej NMT-450, umożliwiający uzyskiwanie podstawowych danych o konfiguracji tej sieci, gromadzenie danych o ruchu w tej sieci i jakości jego obsługi oraz zgłaszanie alarmów systemowych do centrum obsługi i utrzymania sieci,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_1/pkt_6",
+       "text": "PSTN — stacjonarną publiczną sieć telefoniczną eksploatowaną na terenie Rzeczypospolitej Polskiej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_1/pkt_7",
+       "text": "SAR — stację abonencką zapewniającą użytkownikowi korzystanie z sieci komórkowej NMT-450 w każdym punkcie obszaru objętego zasięgiem tej sieci,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_1/pkt_8",
+       "text": "SAS — stację abonencką umożliwiającą użytkownikowi korzystanie z usług telekomunikacyjnych wyłącznie w punkcie zainstalowania, jako:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/pkt_8/lit_a",
+         "text": "urządzenie końcowe sieci komórkowej NMT-450,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/pkt_8/lit_b",
+         "text": "urządzenie końcowe PSTN,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_1/pkt_8/lit_c",
+         "text": "aparat publiczny sieci komórkowej NMT-450 lub PSTN,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_1/pkt_9",
+       "text": "SB — stację bazową sieci komórkowej NMT-450, którą tworzy zestaw urządzeń radiowych nadawczych, odbiorczych lub nadawczo-odbiorczych oraz urządzeń sterujących i zarządzających wykorzystaniem kanałów radiowych stacji, przeznaczoną do obsługi łączności radiowej stacji abonenckich i współpracującą z ACR w procesach identyfikacji i lokalizacji stacji abonenckich oraz przełączaniu połączeń będących w stadium realizacji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_1/pkt_10",
+       "text": "WTE — wymagania techniczne i eksploatacyjne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Szczegółowe WTE dla sieci komórkowych NMT-450"
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "Sieć komórkowa NMT-450 jest przeznaczona do świadczenia usług telekomunikacyjnych zgodnie z zasadami analogowego systemu radiokomunikacji ruchomej lądowej o strukturze komórkowej NMT-450i.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "Podstawowe wymagania dla analogowego systemu radiokomunikacji ruchomej lądowej o strukturze komórkowej NMT-450i określa załącznik nr 15 — część 2 do rozporządzenia Ministra Łączności z dnia 4 września 1997 r. w sprawie wymagań technicznych i eksploatacyjnych dla urządzeń, linii i sieci telekomunikacyjnych zakładanych i używanych na terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 109, poz. 709 i Nr 134, poz. 887), zwanego dalej „rozporządzeniem”.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Sieć komórkowa NMT-450 wykorzystuje w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/pkt_1",
+       "text": "zakresy częstotliwości dla urządzeń radiowych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/pkt_1/lit_a",
+         "text": "nadawczych SB: 452,5—457,0 MHz,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/pkt_1/lit_b",
+         "text": "odbiorczych SB: 462,5—467,0 MHz,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/pkt_2",
+       "text": "odstęp międzykanałowy: 25 kHz albo 12,5 kHz,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/pkt_3",
+       "text": "udoskonalony system automatyki, w tym sygnał potwierdzenia identyfikacji stacji abonenckich, zgodny z wymaganiami systemu NMT-900,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/pkt_4",
+       "text": "kompresję i dekompresję sygnału w torach akustycznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "Sieć komórkowa NMT-450 powinna zapewniać:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_4/ust_1/pkt_1",
+         "text": "realizację połączeń:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_4/ust_1/pkt_1/lit_a",
+           "text": "pomiędzy dwiema dowolnymi stacjami abonenckimi tej sieci,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_4/ust_1/pkt_1/lit_b",
+           "text": "zarówno krajowych, jak i międzynarodowych: — wychodzących z sieci komórkowej NMT-450 do innych publicznych sieci telefonicznych, — przychodzących do sieci komórkowej NMT-450 z innych publicznych sieci telefonicznych,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_4/ust_1/pkt_2",
+         "text": "możliwość utrzymania ciągłości wszystkich określonych w pkt 1 rodzajów połączeń w przypadku przemieszczania SAR między obszarami obsługiwanymi przez różne ACR tej sieci.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "Operator eksploatujący sieć komórkową NMT-450 może zastosować odpowiednie środki techniczne, uniemożliwiające obsługę SAS zarejestrowanej w danej SB poza obszarem jej zasięgu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "Sieć komórkowa NMT-450 powinna w szczególności umożliwiać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/pkt_1",
+       "text": "świadczenie usługi telefonicznej w zakresie częstotliwości sygnału akustycznego: 0,3÷3,4 kHz,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/pkt_2",
+       "text": "wykonywanie połączeń do automatycznych usług specjalnych, zwanych dalej „AUS”.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Szczegółowe WTE dla urządzeń telekomunikacyjnych używanych w sieciach komórkowych NMT-450"
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_6/ust_1",
+       "text": "ACR sieci komórkowej NMT-450 powinny:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_6/ust_1/pkt_1",
+         "text": "być dostosowane do nadawania numeracji o długości wymaganej w połączeniach z abonentami krajowych sieci PSTN i ruchomych publicznych sieci telefonicznych, w tym w połączeniach międzynarodowych oraz w dostępie do AUS,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_6/ust_1/pkt_2",
+         "text": "umożliwiać indywidualne zaliczanie połączeń.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_6/ust_2",
+       "text": "ACR, SB i POU sieci komórkowej NMT-450 powinny współpracować ze sobą za pomocą cyfrowych linii transmisyjnych, w szczególności realizowanych za pomocą: kabli miedzianych, światłowodów lub mikrofalowych linii radiowych, zgodnie z odpowiednimi wymaganiami obowiązującymi na obszarze Rzeczypospolitej Polskiej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_7/ust_1",
+       "text": "WTE dotyczące SB stosowanych w sieciach komórkowych NMT-450 określa załącznik nr 15a do rozporządzenia — część 4.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_7/ust_2",
+       "text": "SB sieci komórkowej NMT-450 powinna wykorzystywać:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_7/ust_2/pkt_1",
+         "text": "jeden kanał częstotliwości jako kanał sygnalizacyjny,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_7/ust_2/pkt_2",
+         "text": "co najmniej jeden kanał częstotliwości do obsługi połączeń telefonicznych.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_7/ust_3",
+       "text": "Na obszarze obsługiwanym przez jedną SB sieci komórkowej NMT-450, przenoszącą maksymalny ruch 10,6 Erlanga, sumaryczny czas zajętości wszystkich wykorzystywanych przez daną SB kanałów częstotliwości (przeznaczonych do sygnalizacji lub obsługi połączeń telefonicznych) nie może przekraczać 3 minut w ciągu godziny największego ruchu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "Z zastrzeżeniem § 9 i § 12, WTE dotyczące stacji abonenckich stosowanych w sieciach komórkowych NMT-450 określa załącznik nr 15a do rozporządzenia — część 3.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "9",
+     "path": "par_9",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_9/ust_1",
+       "text": "SAS powinna mieć możliwość wykorzystania wszystkich kanałów częstotliwości przewidzianych dla sieci komórkowej NMT-450.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_9/ust_2",
+       "text": "SAS może być wykonana jako:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_9/ust_2/pkt_1",
+         "text": "urządzenie końcowe sieci komórkowej NMT-450, składające się z urządzenia radiowego nadawczo-odbiorczego wraz z anteną i zasilaczem oraz układu lub układów współpracy użytkownika z klawiaturą do wybierania numeru, wyświetlaczem i mikrotelefonem,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_9/ust_2/pkt_2",
+         "text": "urządzenie radiowe nadawczo-odbiorcze wraz z anteną i zasilaczem wyposażone w układ współpracy, spełniający WTE określone w załącznikach nr 5, 17 i 18 do rozporządzenia, przeznaczone do przyłączania telekomunikacyjnego urządzenia końcowego, w szczególności:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_9/ust_2/pkt_2/lit_a",
+           "text": "aparatu telefonicznego powszechnego użytku, spełniającego WTE określone w załączniku nr 18 do rozporządzenia oraz w normie PN-T-83001:1999,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_9/ust_2/pkt_2/lit_b",
+           "text": "aparatu faksowego, spełniającego WTE określone w załączniku nr 16 do rozporządzenia,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "par_9/ust_2/pkt_2/lit_c",
+           "text": "modemu o przepływności do 4800 bit/s,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "d",
+           "path": "par_9/ust_2/pkt_2/lit_d",
+           "text": "aparatu publicznego, spełniającego WTE określone w załączniku nr 20 do rozporządzenia,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_9/ust_2/pkt_3",
+         "text": "urządzenie końcowe sieci komórkowej NMT-450 określone w pkt 1, wyposażone w układ współpracy, o którym mowa w pkt 2.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_9/ust_3",
+       "text": "Wyposażenie liniowe SAS przeznaczone do współpracy z analogowym urządzeniem końcowym powinno spełniać WTE określone w załączniku nr 17 do rozporządzenia, z zastrzeżeniem, iż dopuszcza się, aby wymagana wartość prądu w pętli abonenckiej była uzyskiwana przy zasilaniu linii napięciem niższym niż wymagane w WTE określonych w załączniku nr 5 do rozporządzenia, jeżeli długość lub rezystancja linii abonenckiej dołączonej do SAS jest zbliżona do maksymalnej, dopuszczanej przez producenta SAS.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_9/ust_4",
+       "text": "Podstawowym źródłem zasilania SAS powinna być sieć prądu przemiennego. Zanik i powrót zasilania nie powinny przerywać lub zakłócać realizowanych połączeń.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_9/ust_5",
+       "text": "Do awaryjnego zasilania SAS w przypadkach zaniku napięcia sieci prądu przemiennego zaleca się stosowanie gazoszczelnej baterii akumulatorów montowanej wewnątrz obudowy stacji, przy czym w czasie normalnej eksploatacji bateria ta nie powinna wymagać żadnych czynności obsługowych. Przy średnim ruchu nieprzekraczającym 0,1 Erlanga czas pracy stacji z baterii zasilania rezerwowego nie powinien być krótszy niż 8 godzin.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_9/ust_6",
+       "text": "Zewnętrzne zasilacze sieciowe dla SAS, niestanowiące wraz z nią mechanicznej całości, podlegają obowiązkowej ocenie zgodności z wymaganiami zasadniczymi dla urządzeń telekomunikacyjnych. W szczególności powinny one spełniać wymagania normy PN-EN 60950:2000.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Szczegółowe WTE, dotyczące współpracy sieci komórkowej NMT-450 z innymi publicznymi sieciami telefonicznymi"
+    },
+    {
+     "type": "par",
+     "num": "10",
+     "path": "par_10",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_10/ust_1",
+       "text": "Dostęp do sieci komórkowej NMT-450 z dowolnej PSTN, jak również dostęp z sieci komórkowej NMT-450 do dowolnej PSTN, powinien być realizowany za pośrednictwem ACR za pomocą cyfrowych linii transmisyjnych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_10/ust_2",
+       "text": "Numeracja stosowana w sieci komórkowej NMT-450 oraz schematy wybierania powinny być zgodne z określonymi dla tej sieci w planie numeracji krajowej dla publicznych sieci telefonicznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "11",
+     "path": "par_11",
+     "text": "ACR sieci komórkowej NMT-450 współpracujące z centralami PSTN powinny:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/pkt_1",
+       "text": "stosować sygnalizację SS7 ISUP 1 (Integrated System User Part — Warstwa Użytkownika Telefonicznego) zgodną z WTE określonymi w załączniku nr 5 do rozporządzenia oraz w normie PN-T-05112:1996,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/pkt_2",
+       "text": "przesyłać do PSTN sygnały tonowe i zapowiedzi zgodne z WTE, o których mowa w pkt 1,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/pkt_3",
+       "text": "umożliwiać dołączanie cyfrowych linii transmisyjnych o przepustowości n x 2048 kbit/s poprzez standardowe złącze PCM 30, przy czym zaleca się, aby:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_11/pkt_3/lit_a",
+         "text": "parametry sygnałów przekazywanych w tych liniach były zgodne z WTE określonymi dla par symetrycznych o rezystancji 120 omów i kodów liniowych HDB 3 w dokumencie ETSI-TBR13, dotyczącymi cyfrowych linii dzierżawionych 2048 kbit/s, oraz w zaleceniu ITU-T G.703, dotyczącym charakterystyk hierarchicznych cyfrowych systemów komutacyjnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_11/pkt_3/lit_b",
+         "text": "struktura ramki sygnałów przekazywanych w tych liniach była zgodna z WTE określonymi w zaleceniu ITU-T G.704, dotyczącym struktury synchronicznej sieci szkieletowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_11/pkt_3/lit_c",
+         "text": "kanały radiowe PCM o przepustowości 64 kbit/s były zgodne z WTE określonymi dla „A-Law” w zaleceniu ITU-T G.711, dotyczącym modulacji impulsowo-kodowej częstotliwości pasma głosowego.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "12",
+     "path": "par_12",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_12/ust_1",
+       "text": "SAS sieci komórkowej NMT-450 może być używana jako urządzenie końcowe PSTN, z zastrzeżeniem ust. 2 pkt 3.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_12/ust_2",
+       "text": "W przypadku używania SAS w sposób opisany w ust. 1:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_12/ust_2/pkt_1",
+         "text": "SAS powinna:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_12/ust_2/pkt_1/lit_a",
+           "text": "posiadać numer abonencki sieci PSTN, przy czym numer stacji oraz schematy wybierania numerów przez SAS powinny być zgodne z określonymi dla abonentów PSTN w planie numeracji krajowej dla publicznych sieci telefonicznych,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_12/ust_2/pkt_1/lit_b",
+           "text": "umożliwiać w szczególności: — wykonywanie usług i połączeń określonych w § 5, — transmisję danych w paśmie fonicznym za pomocą modemów z szybkością transmisji do 4800 bit/s, — transmisję faksów grupy 3, — dołączenie aparatu publicznego,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_12/ust_2/pkt_2",
+         "text": "nie powinny być realizowane połączenia telefoniczne abonentów publicznych sieci telefonicznych z numerem przypisanym SAS w sieci komórkowej NMT-450,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_12/ust_2/pkt_3",
+         "text": "stacja SAS nie powinna być lokalizowana na obszarach aglomeracji miejskich o liczbie mieszkańców przekraczającej 100 tysięcy.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

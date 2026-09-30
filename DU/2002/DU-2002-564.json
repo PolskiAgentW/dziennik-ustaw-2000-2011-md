@@ -1,0 +1,172 @@
+{
+ "eli": "DU/2002/564",
+ "title": "Rozporządzenie Rady Ministrów z dnia 30 kwietnia 2002 r. w sprawie wysokości opłat za udostępnienie danych ze zbiorów meldunkowych, zbioru PESEL oraz ewidencji wydanych i utraconych dowodów osobistych oraz warunków i sposobu ich wnoszenia.",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2002/564/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 kwietnia 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wysokości opłat za udostępnienie danych ze zbiorów meldunkowych, zbioru PESEL oraz ewidencji wydanych i utraconych dowodów osobistych oraz warunków i sposobu ich wnoszenia."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 44h ust. 10 ustawy z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2001 r. Nr 87, poz. 960 i Nr 110, poz. 1189) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Opłatę za udostępnienie jednostkowych danych zgromadzonych w zbiorze meldunkowym, zbiorze PESEL oraz ewidencji wydanych i utraconych dowodów osobistych ustala się w wysokości 4% kwoty najniższego wynagrodzenia za pracę pracowników, określonego w przepisach odrębnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Opłatę za udostępnienie danych do celów badawczych, statystycznych, badania opinii publicznej lub rynku ustala się według następującego wzoru:",
+   "children": [
+    {
+     "type": "text",
+     "text": "O = K x (A + B) + M gdzie: O — łączna kwota opłaty za udostępnienie danych, K — współczynnik wynoszący:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "1,0 — do celów badawczych lub statystycznych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_2/lit_b",
+     "text": "1,5 — do celów badania opinii publicznej lub rynku,",
+     "children": [
+      {
+       "type": "text",
+       "text": "A — opłata za prace informatyczne: A = 0,5 Ha x Z + 0,5 Hb x Z + 0,75 Hc x Z + 10 Hd x Z + He x Z,"
+      },
+      {
+       "type": "text",
+       "text": "B — opłata za prace eksploatacyjne: B = 1,5 Hf x 10 Z + Hg x 10 Z + 1,5 Hh x 10 Z + 0,6 Hi x 10 Z + 0,5 Hj x 10 Z,"
+      },
+      {
+       "type": "text",
+       "text": "M — koszt materiałów eksploatacyjnych doliczany w przypadku gdy przekroczy 5% wartości usługi, a poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "H — ilość godzin przeznaczonych na realizację zadania:"
+      },
+      {
+       "type": "text",
+       "text": "Ha — czas trwania prac projektowych,"
+      },
+      {
+       "type": "text",
+       "text": "Hb — czas opracowania dokumentacji programowej,"
+      },
+      {
+       "type": "text",
+       "text": "Hc — czas trwania prac analitycznych,"
+      },
+      {
+       "type": "text",
+       "text": "Hd — czas opracowania nowego programu,"
+      },
+      {
+       "type": "text",
+       "text": "He — czas opracowania programu z gotowych modułów,"
+      },
+      {
+       "type": "text",
+       "text": "Hf — czas wyboru podzbioru z bazy danych,"
+      },
+      {
+       "type": "text",
+       "text": "Hg — czas przetwarzania wybranych danych,"
+      },
+      {
+       "type": "text",
+       "text": "Hh — czas wykonania tablicy statystycznej,"
+      },
+      {
+       "type": "text",
+       "text": "Hi — czas drukowania wykazów z wybranego podzbioru zawierającego poniżej 300 danych jednostkowych, Hj — czas drukowania wykazów z wybranego podzbioru zawierającego powyżej 300 danych jednostkowych,"
+      },
+      {
+       "type": "text",
+       "text": "Z — opłata za udostępnienie jednostkowych danych, o których mowa w § 1."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Do wniosku o udostępnienie jednostkowych danych dołącza się dowód dokonania opłaty, o której mowa w § 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Opłatę, o której mowa w § 2, wnosi się w terminie 14 dni od dnia udostępnienia danych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Opłata za udostępnianie danych za pomocą urządzeń teletransmisji podmiotom, o których mowa w art. 44h ust. 2 pkt 1 ustawy z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych, jest pobierana co miesiąc i wynosi n x 100 Z, gdzie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "Z — opłata za udostępnienie jednostkowych danych, o której mowa w § 1,"
+    },
+    {
+     "type": "text",
+     "text": "n — ilość terminali dialogowych."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Opłaty wnosi się do kasy organu udostępniającego dane lub na jego rachunek bankowy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: L. Miller"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

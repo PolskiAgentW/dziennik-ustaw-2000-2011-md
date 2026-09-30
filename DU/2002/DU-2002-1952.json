@@ -1,0 +1,1096 @@
+{
+ "eli": "DU/2002/1952",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 grudnia 2002 r. zmieniające rozporządzenie w sprawie wzoru karty zapytania.",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2002/1952/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 grudnia 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające rozporządzenie w sprawie wzoru karty zapytania."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 28 ust. 5 ustawy z dnia 6 lipca 2001 r. o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych (Dz. U. Nr 110, poz. 1189 i Nr 154, poz. 1800 oraz z 2002 r. Nr 81, poz. 731 i Nr 89, poz. 804) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 3 lipca 2002 r. w sprawie wzoru karty zapytania (Dz. U. Nr 122, poz. 1047) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2003 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych i Administracji: K. Janik"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 grudnia 2002 r. (poz. 1952)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR STRUKTURALNY ELEKTRONICZNEJ KARTY ZAPYTANIA"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "| PODMIOT | RACHUNEK_BANKOWY | RACHUNEK_PAPIEROW_WARTOSCIOWYCH | PRZESTEPSTWO ) )> <!ELEMENT IDENTYFIKATOR_KCIK (#PCDATA)> <!-- OSOBA --> <!-- realizacja warunku sprawdzenie po: 1 - Danych osobowych 2 - Danych rysopisowych 3 - Przynależności do grupy przestępczej --> <!ELEMENT OSOBA ( DANE_OSOBOWE | DANE_RYSOPISOWE | GRUPA_PRZESTEPCZA )> <!ELEMENT DANE_OSOBOWE ( ( NUMER_PESEL | ( NUMER_PESEL? , NAZWISKO , IMIE+ , IMIE_POPRZEDNIE* , NAZWISKO_POPRZEDNIE* , IMIE_OJCA , IMIE_MATKI? , NAZWISKO_RODOWE_MATKI? , DATA_URODZENIA , MIEJSCE_URODZENIA? , PLEC , PSEUDONIM* , OBYWATELSTWO* , NUMER_NIP? , NUMER_REGON?"
+    },
+    {
+     "type": "ocr",
+     "text": ") , ADRES_ ZAMELDOWANIA? , ADRES_POBYTU? , DOKUMENT _TOZSAMOSCI? )> <!ELEMENT NUMER_PESEL (#PCDATA)> <!ELEMENT <!ELEMENT <!ELEMENT <!ATTLIST rodzaj"
+    },
+    {
+     "type": "ocr",
+     "text": "NAZWISKO (#PCDATA)> IMIE (#PCDATA)> IMIE_POPRZEDNIE (#PCDATA)> NAZWISKO POPRZEDNIE"
+    },
+    {
+     "type": "ocr",
+     "text": "FALSZYWE DODATKOWE"
+    },
+    {
+     "type": "ocr",
+     "text": "UZYWANE_POPRZEDNIO # REQUIRED"
+    },
+    {
+     "type": "ocr",
+     "text": "( | | RODOWE | ) > <! ELEMENT <! ELEMENT <! ELEMENT <! ELEMENT <! ELEMENT <!ATTLIST"
+    },
+    {
+     "type": "ocr",
+     "text": "NAZWISKO_POPRZEDNIE (i PCDATA)> IMIE_OJCA (#PCDATA)> IMIE_MATKI (#PCDATA)> NAZWISKO_RODOWE_MATKI (#PCDATA)> DATA_URODZENIA (DATA)> DATA format (RRRR-MM-DD | RRRR) #REQUIRED > <!ELEMENT <!ELEMENT <!-- pole"
+    },
+    {
+     "type": "ocr",
+     "text": "DATA (#PCDATA)> MIEJSCE_URODZENIA (#PCDATA)> Płeć zawiera 2 elementy: l - KOBIETA 2 - MEZCZYZNA -->"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<!ATTLIST PLEC rodzaj ( K | M ) #REQUIRED"
+    },
+    {
+     "type": "ocr",
+     "text": "<!ELEMENT PLEC EMPTY> <!ELEMENT PSEUDONIM (#PCDATA)> <!-- pole Obywatelstwo jest listą elementów ze słownika obywatelstw --> <!ELEMENT OBYWATELSTWO (#PCDATA)> <!ELEMENT NUMER_NIP (#PCDATA)> <!ELEMENT NUMER_REGON (#PCDATA)> <!ELEMENT ADRES_ZAMELDOWANIA (ADRES )> <!ELEMENT ADRES ( KRAJ? , WOJEWODZTWO? , POWIAT? , GMINA? , MIEJSCOWOSC? , ULICA? , NUMER_DOMU? , NUMER_MIESZKANIA? , KOD_POCZTOWY? , POCZTA? )> <!-- pole Kraj jest listą elementów ze słownika krajów --> <!ELEMENT KRAJ (#PCDATA)> <!-- pole Województwo jest listą elementów ze słownika województw --> <!ELEMENT WOJEWODZTWO (#PCDATA)> <!-- pole Powiat jest lista elementów ze słownika powiatów --> <!ELEMENT POWIAT (#PCDATA)> <!-- pole Gmina jest listą elementów ze słownika gmin --> <!ELEMENT GMINA (#PCDATA)> <!-- pole Miejscowość jest listą elementów ze słownika miejscowości --> <!ELEMENT MIEJSCOWOSC (#PCDATA)> <!ELEMENT ULICA (#PCDATA)> <!ELEMENT NUMER_DOMU (#PCDATA)> <!ELEMENT NUMER_MIESZKANIA (#PCDATA)> <!ELEMENT KOD_POCZTOWY (#PCDATA)> <!ELEMENT POCZTA (#PCDATA)> <!ELEMENT ADRES_POBYTU (ADRES)> <!ELEMENT DOKUMENT_TOZSAMOSCI ( RODZAJ_DOKUMENTU? , ORGAN_WYSTAWIAJACY? , SERIA_I_NUMER? , DATA_WYSTAWIENIA? )> <!-- pole Rodzaj dokumentu jest listą elementów ze słownika rodzajów dokumentów --> <!ELEMENT RODZAJ _ DOKUMENTU (#PCDATA)> <!ELEMENT ORGAN_WYSTAWIAJACY (#PCDATA)> <!ELEMENT SERIA_I_NUMER (#PCDATA)> <!ELEMENT DATA_WYSTAWIENIA (DATA)> <!ELEMENT DANE_RYSOPISOWE ( RYSOPIS* , ZNAKI_SZCZEGOLNE* )> <!-- pole Rysopis jest listą elementów ze słownika cech rysopisowych --> <!ELEMENT RYSOPIS (#PCDATA)> <!-- pole Znaki szczególne jest listą elementów ze słownika znaków szczególnych --> <!ELEMENT ZNAKI_SZCZEGOLNE ( MIEJSCE_ZNAKU, ZNAK, OPIS_ZNAKU? )> <!ELEMENT MIEJSCE_ZNAKU (#PCDATA)> <!ELEMENT ZNAK (#PCDATA)> <!-- pole Treść tatuażu jest opisem słownym symbolu lub znaku <!ELEMENT OPIS_ZNAKU (#PCDATA)> <!ELEMENT GRUPA_PRZESTEPCZA (NAZWA_GRUPY)>"
+    },
+    {
+     "type": "ocr",
+     "text": "-->"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<!ELEMENT NAZWA_GRUPY (#PCDATA)> <!-- PRZESTEPSTWO --> <!ELEMENT PRZESTEPSTWO ( ( ZNAK_SPRAWY , NAZWA_ORGANU ) | ( ZNAK_SPRAWY? , NAZWA_ORGANU? , KATEGORIA , TYP , KWALIFIKACJA_PRAWNA* , W_ZWIAZKU_Z* , DATA_OD , DATA_DO? , MIEJSCE_PRZESTEPSTWA? ) ) > <!ELEMENT NAZWA_ORGANU (#PCDATA)> <!-- pole Kategoria jest lista elementów ze słownika kategorii przestępstw--> <!ELEMENT KATEGORIA (#PCDATA)> <!-- pole Typ jest listą elementów ze słownika typów przestępstw--> <!ELEMENT TYP (#PCDATA)> <!-- pole Kwalifikacja prawna czynu jest lista elementów ze słownika kwalifikacji prawnych --> <!ELEMENT KWALIFIKACJA_PRAWNA (#PCDATA)> <!--"
+    },
+    {
+     "type": "ocr",
+     "text": "pole W związku z jest polem tekstowym --> <!ELEMENT W_ZWIAZKU_Z (#PCDATA)> <!ELEMENT DATA_OD (DATA)> <!ELEMENT DATA_DO (DATA)> <!ELEMENT MIEJSCE_PRZESTEPSTWA ( KRAJ? , WOJEWODZTWO? , POWIAT? , GMINA? , MIEJSCOWOSC? , ULICA? , NUMER_DOMU? , NUMER_MIESZKANIA? , RODZAJ _MIEJSCA? ) > <!ELEMENT RODZAJ MIEJSCA (#PCDATA)> <!-- PRZEDMIOT --> <!ELEMENT PRZEDMIOT ( POJAZD | DOKUMENT | RZECZ )> <!ELEMENT POJAZD C ¢"
+    },
+    {
+     "type": "ocr",
+     "text": "NUMER_REJESTRACYJNY NUMER_STLNIKA_OZNAKOWANTA? NUMER_NADWOZIA_RAMY_VIN? MARKA_POJAZDU? TYP_POJAZDU? RODZAJ_POJAZDU?"
+    },
+    {
+     "type": "ocr",
+     "text": "NUMER_REJESTRACYJNY? NUMER_STLNIKA_OZNAKOWANTA NUMER_NADWOZIA RAMY_VIN? MARKA_POJAZDU? TYP_POJAZDU? RODZAJ_POJAZDU?"
+    },
+    {
+     "type": "ocr",
+     "text": "NUMER_REJESTRACYJNY? NUMER_SILNIKA _OZNAKOWANIA? NUMER_NADWOZIA _RAMY_VIN MARKA_POJAZDU? TYP_POJAZDU?"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": ", RODZAJ_POJAZDU? ) )> <!ELEMENT <!ELEMENT <!ELEMENT <!-- pole <!ELEMENT <!ELEMENT <!-- pole <!ELEMENT"
+    },
+    {
+     "type": "ocr",
+     "text": "<!ELEMENT"
+    },
+    {
+     "type": "ocr",
+     "text": "NUMER REJESTRACYJNY (#PCDATA)> NUMER_SILNIKA_OZNAKOWANIA (#PCDATA)> NUMER_NADWOZIA _RAMY_VIN (#PCDATA)> Marka jest listą elementów ze słownika marek pojazdów --> MARKA_POJAZDU (#PCDATA)> TYP_POJAZDU (#PCDATA)> Rodzaj pojazdu jest listą elementów ze słownika rodzajów pojazdów --> RODZAJ _ POJAZDU (#PCDATA)>"
+    },
+    {
+     "type": "ocr",
+     "text": "DOKUMENT ( RODZAJ. DOKUMENTU , SERIA_I_NUMER ) > <!ELEMENT SK"
+    },
+    {
+     "type": "ocr",
+     "text": "RZECZ NUMER_FABRYCZNY » NUMER_OZNAKOWANTA? , MARKA_RZECZY , TYP_RZECZY? RODZAJ _RZECZY"
+    },
+    {
+     "type": "ocr",
+     "text": "NUMER_ FABRYCZNY? , NUMER_OZNAKOWANIA , MARKA_RZECZY , TYP_RZECZY? , RODZAJ RZECZY"
+    },
+    {
+     "type": "ocr",
+     "text": ")> <!ELEMENT <!ELEMENT <!ELEMENT <!ELEMENT <!-- pole <!ELEMENT <!-- <!ELEMENT"
+    },
+    {
+     "type": "ocr",
+     "text": "NUMER_FABRYCZNY (#PCDATA)> NUMER_OZNAKOWANIA (#PCDATA)> MARKA_RZECZY (#PCDATA)> TYP_RZECZY (#PCDATA)> Rodzaj rzeczy jest listą elementów ze słownika rodzajów rzeczy --> RODZAJ _ RZECZY (#PCDATA)> RACHUNEK BANKOWY --> RACHUNEK_BANKOWY ( NUMER_RACHUNKU , NAZWA_"
+    },
+    {
+     "type": "ocr",
+     "text": "BANKU , TYP RACHUNKU? )> <! ELEMENT <! ELEMENT <!ELEMENT <!-- <!ELEMENT ( NUMER_"
+    },
+    {
+     "type": "ocr",
+     "text": "NUMER_RACHUNKU (#PCDATA)> NAZWA_BANKU (#PCDATA)> TYP_RACHUNKU (#PCDATA)> RACHUNEK PAPIERÓW WARTOŚCIOWYCH. --> RACHUNEK_PAPIEROW_WARTOSCIOWYCH RACHUNKU , NAZWA BIURA _MAKLERSKIEGO , TYP _RACHUNKU? )> <!ELEMENT <|-- <!-- <! ELEMENT ( NAZWA_"
+    },
+    {
+     "type": "ocr",
+     "text": "PODMIOT realizacja warunku *!|"
+    },
+    {
+     "type": "ocr",
+     "text": "NAZWA_BIURA_ MAKLERSKIEGO (#PCDATA)> --> oraz *| --> PODMIOT PODMIOTU , ( NUMER_KRS | ( NUMER_KRS? , NUMER_EDG , PROWADZACY ) ? Lai \"=\"—\""
+    },
+    {
+     "type": "ocr",
+     "text": "NUMER_REGON NUMER_NIP?"
+    },
+    {
+     "type": "ocr",
+     "text": "NUMER_REGON? , NUMER_NIP"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": ") ) , WLASCICIEL? , ADRES_PODMIOTU? )> <!ELEMENT NAZWA_PODMIOTU (#PCDATA)> <!ELEMENT NUMER_KRS (#PCDATA)> <!ELEMENT NUMER_EDG (#PCDATA)> <!ELEMENT PROWADZACY (#PCDATA)> <!ELEMENT WLASCICIEL ( NAZWISKO? , IMIE? , NUMER_PESEL? )> <!ELEMENT ADRES_PODMIOTU (ADRES)>"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR GRAFICZNY ELEKTRONICZNEJ KARTY ZAPYTANIA"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 8 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "się unikalny, nadany przez podmiot uprawniony, podmiot zobowiązany lub Szefa Centrum, znak sprawy umożliwiający identyfikację wszelkich informacji związanych ze sprawdzeniem. Sporządził — numer PESEL — numer PESEL osoby sporządzającej dokument zapytania. Wprowadził - numer PESEL — numer PESEL osoby wprowadzającej dane. Telefon kontaktowy — numer telefonu osoby wprowadzającej dane. Rejestracja Identyfikator KCIK - unikalny identyfikator nadawany przez system centralny służący do identyfikacji informacji. Numer rejestracji KCIK- unikalny numer nadawany przez system lokalny służący do identyfikacji informacji. Rodzaj sprawdzenia — wybór z listy: OSOBY, PRZESTĘPSTWA, PRZEDMIOTY, RACHUNKI BANKOWE, RACHUNKI PAPIERÓW WARTOŚCIOWYCH, PODMIOTY. Po wybraniu opcji Rodzaj sprawdzenia następnym oknem jest: Dla: OSOBY okno Rys. 3 Sprawdzenie osoby: sprawdzenie po Dla: PRZEDMIOTY okno Rys. 15 Sprawdzenie: przedmiot Dla: PODMIOTY okno Rys. 22 Sprawdzenie: podmiot Dla: RACHUNKI BANKOWE okno Rys. 24 Sprawdzenie: rachunek bankowy Dla: RACHUNKI PAPIERÓW WARTOŚCIOWYCH okno Rys. 26 Sprawdzenie: rachunek papierów wartościowych Dla: PRZESTĘPSTWA okno Rys. 28 Sprawdzenie: przestępstwo"
+    },
+    {
+     "type": "ocr",
+     "text": "‘Nowy podmiot zobowiazany ELEKTRONICZNA KARTA ZAPYTANIA WZÓR DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH Oryginał tylko w formie elektronicznej"
+    },
+    {
+     "type": "ocr",
+     "text": "Podmiot zobowiązany"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 2 Nowy podmiot zobowiązany"
+    },
+    {
+     "type": "ocr",
+     "text": "Podmiot zobowiązany — listy podmiotów zobowiązanych do udzielenia informacji zgodnie z art. 20 ustawy."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie osoby: sprawdzenie po"
+    },
+    {
+     "type": "ocr",
+     "text": "ELEKTRONICZNA KARTA ZAPYTANIA WZÓR DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH Oryginał tylko w Formie elektronicznej"
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie po | Danych personalnych Rysopisie Przynależności do grupy przestępczej i"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 3 Sprawdzenie osoby: sbrawdzenie po"
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie po Danych personalnych — zaznaczenie opcji pozwala na sprawdzenie osoby według danych personalnych. Rysopisie — zaznaczenie opcji umożliwia sprawdzenie osoby po cechach rysopisowych i znakach szczególnych. Przynależności do grupy przestępczej — zaznaczenie opcji umożliwia sprawdzenie osoby po przynależności do grupy przestępczej. Po wybraniu opcji Sprawdzenie po następnym oknem jest: Dla Danych personalnych okno Rys. 4 Sprawdzenie osób: dane personalne. Dla Rysopisie okno Rys. 9 Sprawdzenie osoby: rysopis. Dla Przynależności do grupy przestępczej okno Rys. 13 Sprawdzenie osoby: grupa przestępcza."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie osoby: dane personalne"
+    },
+    {
+     "type": "ocr",
+     "text": "ELEKTRONICZNA KARTA ZAPYTANIA DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH"
+    },
+    {
+     "type": "ocr",
+     "text": "ek Numer PESEL:"
+    },
+    {
+     "type": "ocr",
+     "text": "* Nazwiska:"
+    },
+    {
+     "type": "ocr",
+     "text": "* A Imiefimiona:"
+    },
+    {
+     "type": "ocr",
+     "text": "4 Imiona poprzednie: > Nazwiska poprzednie: * Imię ojca:"
+    },
+    {
+     "type": "ocr",
+     "text": "Imię matki:"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwisko rodowe matki:"
+    },
+    {
+     "type": "ocr",
+     "text": "* Data urodzenia:"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce urodzenia: * płeć:"
+    },
+    {
+     "type": "ocr",
+     "text": "4 Pseudonimy: “ Obywatelstwa:"
+    },
+    {
+     "type": "ocr",
+     "text": "Numer NIP:"
+    },
+    {
+     "type": "ocr",
+     "text": "Numer REGON:"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 4"
+    },
+    {
+     "type": "ocr",
+     "text": "** _ po wypełnieniu tego pola nie trzeba wypełniać pól oznaczonych *. * - pole obowiązkowe do wypełnienia. A - pole lub lista zawiera więcej niż jeden element."
+    },
+    {
+     "type": "ocr",
+     "text": "WZÓR. Oryginał tylko w Formie elektronicznej"
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie osób: dane personalne"
+    },
+    {
+     "type": "ocr",
+     "text": "Numer PESEL - wpisuje się numer Powszechnego Elektronicznego Systemu Ewidencji Ludności. Nazwisko Imię/Imiona Imiona poprzednie Nazwiska poprzednie — w tym fałszywe, dodatkowe, rodowe, używane poprzednio. Imię ojca Imię matki Nazwisko rodowe matki Data urodzenia — data urodzenia w formacie rok, miesiąc, dzień lub tylko rok (patrz wyjaśnienie do poła Tylko rok) Tylko rok — zaznaczenie opcji powoduje, że format wprowadzanej daty urodzenia ograniczony jest tylko do roku, po oznaczeniu pola można ponownie wprowadzać datę w formacie rok, miesiąc, dzicń. Miejsce urodzenia Płeć — wybór z listy płci (KOBIETA, MĘŻCZYZNA). Pseudonimy Obywatelstwa — wybór z listy obywatelstw. Numer NIP — wpisuje się Numer Identyfikacji Podatkowej. Numer REGON — wpisuje się numer identyfikacji statystycznej"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie osoby: adres zameldowania"
+    },
+    {
+     "type": "ocr",
+     "text": "ELEKTRONICZNA KARTA ZAPYTANIA WZÓR DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH Oryginał tylko w formie elektronicznej"
+    },
+    {
+     "type": "ocr",
+     "text": "kraj wajewództwo:"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejscowość:"
+    },
+    {
+     "type": "ocr",
+     "text": "Ulica: Numer domu: Numer mieszkania: ["
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 5 Sprawdzenie osoby: adres zameldowania"
+    },
+    {
+     "type": "ocr",
+     "text": "Kraj — wybór z listy krajów. Województwo — wybór z listy województw. Powiat — wybór z listy powiatów. Gmina — wybór z listy gmin. Miejscowość — wybór z listy miejscowości. Ulica Numer domu Numer mieszkania Poczta Kod pocztowy"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "$prawdzenie osoby: adres pobytu ELEKTRONICZNA KARTA ZAPYTANIA WZÓR DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH"
+    },
+    {
+     "type": "ocr",
+     "text": "Kraj: Powiat: Miejscowość: Ulica: Numer domu: Kod pocztowy:"
+    },
+    {
+     "type": "ocr",
+     "text": "Kraj — wybór z listy krajów. Województwo — wybór z listy województw. Powiat — wybór z listy powiatów. Gmina — wybór z listy gmin. Miejscowość — wybór z listy miejscowości. Ulica Numer domu Numer mieszkania Poczta Kod pocztowy"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 6"
+    },
+    {
+     "type": "ocr",
+     "text": "Oryginat tylko w Formie elektronicznej a województwo:"
+    },
+    {
+     "type": "ocr",
+     "text": "Numer mieszkania: ["
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie osoby: adres pobytu"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie osoby: dokument tożsamości ELEKTRONICZNA KARTA ZAPYTANIA WZóR DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH Oryginał tylko w formie elektronicznej Dokument tożsamości: Rodzaj dokumentu: Organ wystawiający:"
+    },
+    {
+     "type": "ocr",
+     "text": "Data wystawienia: F]2002-10-15"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 7 Sprawdzenie osoby: dokument tożsamości"
+    },
+    {
+     "type": "ocr",
+     "text": "Dokument tożsamości Rodzaj dokumentu — wybór z listy dokumentów. Organ wystawiający — nazwa organu wystawiającego dokument tożsamości. Seria i numer Data wystawienia — data wystawienia dokumentu w formacie rok, miesiąc, dzień."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Zakończenie sprawdzenia ELEKTRONICZNA KARTA ZAPYTANIA DQ KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH elektronicznej Sprawdzenie gotowe do przesłania Nadano Numer rejestracji KCIK zapytanie:"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 8 Zakończenie sprawdzenia"
+    },
+    {
+     "type": "ocr",
+     "text": "Nadano Numer rejestracji KCIK zapytanie — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK - po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie osoby: rysopis"
+    },
+    {
+     "type": "ocr",
+     "text": "ELEKTRONICZNA KARTA ZAPYTANIA WZÓR DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH Oryginał tylko w Formie elektronicznej * Rysopis"
+    },
+    {
+     "type": "ocr",
+     "text": "“Znaki szczególne"
+    },
+    {
+     "type": "ocr",
+     "text": "< Wstecz jl. zakończ |"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 9 Sprawdzenie osoby: rysopis"
+    },
+    {
+     "type": "ocr",
+     "text": "A - lista zawiera więcej niż jeden element."
+    },
+    {
+     "type": "ocr",
+     "text": "Rysopis +] (PLUS) — naciśnięcie przycisku powoduje wyświetlenie okna (Rys. 11 Nowa cecha rysopisowa), poprzez które można wprowadzić cechę rysopisową do rysopisu. ul. (MINUS) — naciśnięcie przycisku powoduje usunięcie podświetlonych elementów rysopisu z listy. Znaki szczególne JJ (PLUS) — naciśnięcie przycisku powoduje wyświetlenie okna (Rys. 12 Nowy znak szczególny), poprzez które można wprowadzić nowy znak szczególny. [=] (MINUS) — naciśnięcie przycisku powoduje usunięcie podświetlonych elementów znaków szczególnych z listy."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Zakończenie sprawdzenia ELEKTRONICZNA KARTA ZAPYTANIA DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH elektronicznej Sprawdzenie gotowe do przesłania Nadano Numer rejestracji KCIK zapytanie:"
+    },
+    {
+     "type": "ocr",
+     "text": "Ry. 10 Zakończenie sprawdzenia"
+    },
+    {
+     "type": "ocr",
+     "text": "Nadano Numer rejestracji KCIK zapytanie — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK - po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    },
+    {
+     "type": "ocr",
+     "text": "Nawa cecha rysopisowa ELEKTRONICZNA KARTA ZAPYTANIA DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH"
+    },
+    {
+     "type": "ocr",
+     "text": "Cecha rysopisowa:"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa cechy:"
+    },
+    {
+     "type": "ocr",
+     "text": "Cecha rysopisowa — wybór z listy cech. Nazwa cechy — wybór z listy nazw wybranej cechy."
+    },
+    {
+     "type": "ocr",
+     "text": "Nowy znak szczególny ELEKTRONICZNA KARTA ZAPYTANIA WZÓR. DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH Oryginał tylko w Formie elektronicznej"
+    },
+    {
+     "type": "ocr",
+     "text": "Rodzaj znaku:"
+    },
+    {
+     "type": "ocr",
+     "text": "# Treść tatuażu:"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 12 Nowy znak szczególny"
+    },
+    {
+     "type": "ocr",
+     "text": "# - pole pojawi się wtedy, gdy w polu Rodzaj znaku zostanie wybrany TATUAŻ."
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce występowania znaku — wybór z listy miejsc występowania znaku. Rodzaj znaku — wybór z listy rodzajów znaków. Treść tatuażu — opis słowny symbolu lub znaku."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie osoby: grupa przestępcza ELEKTRONICZNA KARTA ZAPYTANIA WZÓR DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH Oryginał tylko w formie elektronicznej Przynależność do grupy przestępczej"
+    },
+    {
+     "type": "ocr",
+     "text": "< Wstecz"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 13 Sprawdzenie osoby: gruba przestępcza Przynależność do grupy przestępczej Nazwa grupy — wpisuje się nazwę grupy przestępczej, do której należy osoba sprawdzana."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 19 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Zakończenie sprawdzenia ELEKTRONICZNA KARTA ZAPYTANIA WZÓR DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH — Gryginał tylko w formie elektronicznej Sprawdzenie gotowe do przesłania Nadano Numer rejestracji KCIK zapytanie:"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 14 Zakończenie sprawdzenia"
+    },
+    {
+     "type": "ocr",
+     "text": "Nadano Numer rejestracji KCIK zapytanie — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK — po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie: przedmiot"
+    },
+    {
+     "type": "ocr",
+     "text": "ELEKTRONICZNĄ KARTA ZAPYTANIA WZÓR. DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH Oryginał tylko w Formie elektronicznej"
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie Pojazdu Dokumentu ©) Rzeczy"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 15 Sprawdzenie: przedmiot"
+    },
+    {
+     "type": "ocr",
+     "text": "Po wybraniu opcji Sprawdzenie następnym oknem jest: Dla Pojazdu okno Rys. 16 Sprawdzenie przedmiotu: pojazd Dla Dokumentu okno Rys. 18 Sprawdzenie przedmiotu: dokument Dla Rzeczy okno Rys. 20 Sprawdzenie przedmiotu: rzecz"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 20 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie przedmiotu: pojazd"
+    },
+    {
+     "type": "ocr",
+     "text": "ELEKTRONICZNA KARTA ZAPYTANIA WZÓR DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH Oryginał tylko w Formie elektronicznej"
+    },
+    {
+     "type": "ocr",
+     "text": "Numer stnikafoznakowania: | 0 f Numer nadwożeframyfi |"
+    },
+    {
+     "type": "ocr",
+     "text": "Typ:"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 16 Sprawdzenie przedmiotu: pojazd"
+    },
+    {
+     "type": "ocr",
+     "text": "*| - jedno z tych pól musi zostać wypełnione."
+    },
+    {
+     "type": "ocr",
+     "text": "Numer rejestracyjny — wprowadzany wyłącznie dużymi literami i cyframi bez znaków odstępu. Pozostałe znaki są blokowane przy wprowadzaniu do bazy KCIK (myślniki, spacje, inne znaki interpunkcyjne). Tablice rejestracyjne ze znakami pisanymi cyrylicą należy wprowadzać fonetycznie przy użyciu alfabetu łacińskiego. Numer silnika/oznakowania — numer silnika (oznakowania) silnika rejestrowanego pojazdu. Numer nadwozia/ramy/vin — do tego pola może być wpisywany numer VIN lub numer mający identyfikować karoserię, podwozie, nadwozie lub ramę pojazdu. Marka — wybór z listy marek pojazdów. Typ — typ pojazdu. | Rodzaj pojazdu — wybór z listy pojazdów."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 21 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Zakończenie sprawdzenia ELEKTRONICZNA KARTA ZAPYTANIA DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH elektronicznej Sprawdzenie gotowe do przesłania Nadano Numer rejestracji KCIK zapytanie:"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 17 Zakończenie sprawdzenia"
+    },
+    {
+     "type": "ocr",
+     "text": "Nadano Numer rejestracji KCIK zapytanie — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK — po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie przedmiotu: dokument"
+    },
+    {
+     "type": "ocr",
+     "text": "ELEKTRONICZNA KARTA ZAPYTANIA WZÓR DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH Oryginał tylko w formie elektronicznej"
+    },
+    {
+     "type": "ocr",
+     "text": "* Rodzaj dokumentu: * Seria i numer dokumentu:"
+    },
+    {
+     "type": "ocr",
+     "text": "Ry. 18 Sprawdzenie przedmiotu: dokument"
+    },
+    {
+     "type": "ocr",
+     "text": "* - pole obowiązkowe do wypełnienia. Rodzaj dokumentu — wybór z listy rodzajów dokumentów. Seria i numer dokumentu — wprowadzane wyłącznie dużymi literami i cyframi bez znaków odstępu. Pozostałe znaki są blokowane przy wprowadzaniu do bazy KCIK (myślniki, spacje, inne znaki interpunkcyjne)."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Zakończenie sprawdzenia ELEKTRONICZNA KARTA ZAPYTANIA DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH elektronicznej Sprawdzenie gotowe do przesłania Nadano Numer rejestracji KCIK zapytanie:"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 19 Zakończenie sprawdzenia"
+    },
+    {
+     "type": "ocr",
+     "text": "Nadano Numer rejestracji KCIK zapytanie — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK -- po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie przedmiotu: rzecz ELEKTRONICZNA KARTA ZAPYTANIA WZÓR DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH Oryginał tylko w formie elektronicznej Numer Fabryczny: Numer oznakowania: * Marka: Typ: * Rodzaj rzeczy:"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 20 Sprawdzenie przedmiolu: rzecz *| - jedno z tych pół musi zostać wypełnione. * - pole obowiązkowe do wypełnienia. Numer fabryczny — numer fabryczny przedmiotu. Numer oznakowania — numer oznakowania przedmiotu. Marka — marka przedmiotu. Typ — typ przedmiotu. Rodzaj rzeczy — wybór z listy rzeczy."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 24 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Zakończenie sprawdzenia ELEKTRONICZNĄ KARTA ZAPYTANIA DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH elektronicznej Sprawdzenie gotowe do przesłania Nadano Numer rejestracji KCIK zapytanie:"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 21 Zakończenie sprawdzenia"
+    },
+    {
+     "type": "ocr",
+     "text": "Nadano Numer rejestracji KCIK zapytanie — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK — po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie: podmiot"
+    },
+    {
+     "type": "ocr",
+     "text": "ELEKTRONICZNA KARTA ZAPYTANIA WZÓR DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH Oryginał tylko w Formie elektronicznej Podmiot $$$ $$ mą * Nazwa: sk Numer 2 Krajowego Rejestru | Sądowego (KRS): Numer z ewidencji działalności [ |] gospodarczej: Prowadzonej przez: » |iumernecon: || |] Numer: | |"
+    },
+    {
+     "type": "ocr",
+     "text": "właściciel"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwisko:"
+    },
+    {
+     "type": "ocr",
+     "text": "Imię:"
+    },
+    {
+     "type": "ocr",
+     "text": "Numer PESEL:"
+    },
+    {
+     "type": "ocr",
+     "text": "Adres Kraj: > województwo:"
+    },
+    {
+     "type": "ocr",
+     "text": "Powiat: | Gmina:"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejscowość:"
+    },
+    {
+     "type": "ocr",
+     "text": "Ulica:"
+    },
+    {
+     "type": "ocr",
+     "text": "Numer domu: Numer mieszkania: [ Kod pocztowy: Paczta:"
+    },
+    {
+     "type": "ocr",
+     "text": "_< Wstecz. 4] ~~ Zakończ"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 22 Sprawdzenie: podmiot * _ pole obowiązkowe do wypełnienia. *!| - jeśli sprawdzenie dotyczy przedsiębiorcy, to należy obowiązkowo podać Numer z Krajowego Rejestru Sądowego"
+    },
+    {
+     "type": "ocr",
+     "text": "(KRS) lub Numer z ewidencji działalności gospodarczej UWAGA : jeśli wpisuje się Numer z ewidencji działalności gospodarczej należy wypełnić pole Prowadzonej przez *| - jedno z tych pól musi zostać wypełnione."
+    },
+    {
+     "type": "ocr",
+     "text": "Podmiot Nazwa — nazwa podmiotu. Numer z Krajowego Rejestru Sądowego (KRS). Numer z ewidencji działalności gospodarczej. Prowadzonej przez — wpisuje się organ prowadzący ewidencję działalności gospodarczej. Numer REGON — wpisuje się numer identyfikacji statystycznej Numer NIP — wpisuje się Numer Identyfikacji Podatkowej. Właściciel Nazwisko — nazwisko właściciela. Imię — imię właściciela. Numer PESEL - wpisuje się numer Powszechnego Elektronicznego Systemu Ewidencji Ludności. Adres Kraj — wybór z listy krajów. Województwo — wybór z listy województw. Powiat — wybór z listy powiatów. Gmina — wybór z listy gmin. Miejscowość — wybór z listy miejscowości. Ulica Numer domu Numer mieszkania Kod pocztowy Poczta"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 26 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Zakończenie sprawdzenia ELEKTRONICZNA KARTA ZAPYTANIA WZÓR DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH Oryginał tylko w Formie elektronicznej Sprawdzenie gotowe do przesłania Nadano Numer rejestracji KCIK zapytanie:"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 23 Zakończenie sprawdzenia Nadano Numer rejestracji KCIK zapytanie — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK - po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie: rachunkek bankowy ELEKTRONICZNĄ KARTA ZAPYTANIA WZÓR. DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH Oryginał tylko w formie elektronicznej"
+    },
+    {
+     "type": "ocr",
+     "text": "* Numer rachunku: * Nazwa banku:"
+    },
+    {
+     "type": "ocr",
+     "text": "Typ rachunku:"
+    },
+    {
+     "type": "ocr",
+     "text": "ws wWestecz JL"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 24 Sprawdzenie: rachunek bankowy * —- pole obowiązkowe do wypełnienia. Numer rachunku Nazwa banku — nazwa banku, w którym znajduje się rachunek. Typ rachunku — wpisuje się informację dotyczącą typu rachunku."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 27 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Zakończenie sprawdzenia ELEKTRONICZNA KARTA ZAPYTANIA WZÓR Oryginał tylko w Formie elektronicznej"
+    },
+    {
+     "type": "ocr",
+     "text": "DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH"
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie gotowe do przesłania Nadano Numer rejestracji KCIK zapytanie:"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 25 Zakończenie sprawdzenia"
+    },
+    {
+     "type": "ocr",
+     "text": "Nadano Numer rejestracji KCIK zapytanie — nadany lokalnic przecz program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK — po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie: rachunek papierów wartościowych"
+    },
+    {
+     "type": "ocr",
+     "text": "ELEKTRONICZNA KARTA ZAPYTANIA WZÓR DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH Oryginał tylko w Formie elektronicznej"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 26 Sprawdzenie: racbunek papierów wartościowych"
+    },
+    {
+     "type": "ocr",
+     "text": "* - pole obowiązkowe do wypełnienia. Numer rachunku Nazwa biura maklerskiego — nazwa biura maklerskiego, w którym są złożone papiery wartościowe. Typ rachunku — wpisuje się informację dotyczącą typu rachunku."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 28 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Zakończenie sprawdzenia ELEKTRONICZNĄ KARTA ZAPYTANIA DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH elektronicznej Sprawdzenie gotowe do przesłania Nadano Numer rejestracji KCIK zapytanie:"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 27 Zakończenie sprawdzenia"
+    },
+    {
+     "type": "ocr",
+     "text": "Nadano Numer rejestracji KCIK zapytanie — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK — po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 29 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawdzenie: przestępstwo"
+    },
+    {
+     "type": "ocr",
+     "text": "ELEKTRONIC ZNA KARTA ZAPYTANIA WZÓR DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH Oryginał tylko w formie siskóronieznać"
+    },
+    {
+     "type": "ocr",
+     "text": "biazwa organ! NAA śadnostki otqanzacyjneć: “a zaj poapalsionage przestępstwa i * kategoria: | * Typ."
+    },
+    {
+     "type": "ocr",
+     "text": "je wajfikacia prawn crn W zudazku z:"
+    },
+    {
+     "type": "ocr",
+     "text": "j"
+    },
+    {
+     "type": "ocr",
+     "text": "Numer domu: kumać mieszkania: DĄ Rodzaj miejsca: | | Mone nnn neni NA j"
+    },
+    {
+     "type": "ocr",
+     "text": "SOROS |"
+    },
+    {
+     "type": "ocr",
+     "text": "Ry. 28 Sprawdzenie: przestępstwo"
+    },
+    {
+     "type": "ocr",
+     "text": "*#1- po wypełnieniu tych pól nie trzeba wypełniać pół oznaczonych *. * . pole obowiązkowe do wypełnienia. Znak sprawy - w polu wpisuje się unikalny, nadany przez podmiot uprawniony lub podmiot zobowiązany, znak sprawy umożliwiający identyfikację wszelkich informacji związanych z daną rejestracją. Nazwa organu/jednostki organizacyjnej — wpisuje się nazwę jednostki organizacyjnej prowadzącej czynności lub postępowanie. Rodzaj popełnionego przestępstwa Kategoria — wybór z listy kategorii. Typ — wybór z listy typów. Kwalifikacja prawna czynu — wybór z listy. W związku z — pole tekstowe. Data od - data początku okresu czasu, dla którego wykonane będzie zapytanie w formacie rok, miesiąc, dzień. Data do - data końca okresu czasu, dla którego wykonane będzie zapytanie w formacie rok, miesiąc, dzień. Adres Kraj — wybór z listy krajów. Województwo — wybór z listy województw. Powiat — wybór z listy powiatów. Gmina — wybór z listy gmin. Miejscowość — wybór z listy miejscowości. Ulica Numer domu Numer mieszkania Rodzaj miejsca"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 30 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Zakończenie sprawdzenia ELEKTRONICZNA KARTA ZAPYTANIA DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH elektronicznej Sprawdzenie gotowe do przesłania Nadano Numer rejestracji KCIK zapytanie: —-—"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 29 Zakończenie sprawdzenia"
+    },
+    {
+     "type": "ocr",
+     "text": "Nadano Numer rejestracji KCIK zapytanie — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK - po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    },
+    {
+     "type": "text",
+     "text": "— 14699 —"
+    },
+    {
+     "type": "text",
+     "text": "Informacja omożliwości zakupu wydawnictw Centrum Obsługi Kancelarii Prezesa Rady Ministrów"
+    },
+    {
+     "type": "text",
+     "text": "Zakład Wydawnictw iPoligrafii Centrum Obsługi Kancelarii Prezesa Rady Ministrów informuje, że wsprzedaży znajdują się następujące wydawnictwa:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Przepisy żeglugowe na śródlądowych drogach wodnych,stanowiące załącznik do zarządzenia Ministra Transportu iGospodarki Morskiej zdnia 19 grudnia 1991 r. (załącznik do Monitora Polskiego z1992 r. Nr 4, poz. 20). Cena brutto — 5,56zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Układ europejski ustanawiający stowarzyszenie między Rzecząpospolitą Polską, zjednej strony, aWspólnotami Europejskimi iich państwami członkowskimi, zdrugiej strony(załącznik do Dz. U. z1994 r. Nr 11, poz. 38). Cena brutto — 42,80zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wymagania dotyczące wytwarzania materiału siewnego (załącznik do Monitora Polskiego z 1996 r. Nr 52, poz. 481). Cenabrutto— 37,80zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Konwencja oochronie gatunków dzikiej flory ifauny europejskiej oraz ich siedlisk naturalnych(załącznik do Dz. U. z1996 r. Nr 58, poz. 263). Cena brutto — 12,73zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Zasady metodologiczne badania wskaźników techniczno-ekonomicznych(załącznik do Monitora Polskiego z1996 r. Nr 84, poz. 751). Cena brutto — 20,33zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Umowa o wolnym handlu między Rzecząpospolitą Polską a Republiką Litewską (załącznik do Dz. U. z 1996 r. Nr 158, poz. 807). Cena brutto — 32,10zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Protokół dodatkowy nr 4 do Środkowoeuropejskiej umowy owolnym handlu (CEFTA)(załącznik do Dz. U. z1996 r. Nr 158, poz. 809). Cena brutto — 47,08zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Polska Klasyfikacja Wyrobów i Usług(załącznik do Dz. U. z 1997 r. Nr 42, poz. 264 — 6 tomów). Cena brutto — 351,00 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Porozumienie w formie wymiany listów między Rzecząpospolitą Polską a Wspólnotami Europejskimi w sprawie zmiany Protokołu nr 4 do Układu Europejskiego...(załącznik do Dz. U. z 1997 r. Nr 104, poz. 662). Cena brutto — 49,22 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Polska Klasyfikacja Działalności (załącznik do Dz. U. z 1997 r. Nr 128, poz. 829). Cena brutto — 60,00 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Polska Scalona Nomenklatura Towarowa Handlu Zagranicznego (PCN) (załącznik do Dz. U. z 1998 r. Nr 11, poz. 37). Cena brutto — 54,57 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Konstytucja i Konwencja Międzynarodowego Związku Telekomunikacyjnego (załącznik do Dz. U. z 1998 r. Nr 35, poz. 196). Cena brutto — 46,01 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "Klasyfikacja Wyrobów Obronnych (KWO)(załącznik do Dz. U. z 1999 r. Nr 26, poz. 231). Cena brutto — 10,70 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "Poprawki do załącznika do Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. (załącznik do Dz. U. z 1999 r. Nr30, poz. 286). Cena brutto — 53,50 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "Umowa europejska dotycząca międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzona w Genewie dnia 30 września 1957 r. (tekst jednolity) — 2 tomy (załącznik do Dz. U. z 1999 r. Nr 30, poz. 287). Cena brutto — 86,67 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Konwencja o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej oraz o zniszczeniu jej zapasów (załącznik do Dz. U. z 1999 r. Nr 63, poz. 703). Cena brutto — 32,10 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "Umowa o wolnym handlu między Rzecząpospolitą Polską a Królestwem Danii i Wyspami Owczymi (załącznik do Dz. U. z 1999r. Nr63, poz. 705). Cena brutto — 13,91 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "Zmiany w Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) (załącznik do Dz. U. z 1999 r. Nr 92, poz. 1045). Cena brutto — 61,00 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "Polska Scalona Nomenklatura Towarowa Handlu Zagranicznego (PCN) (załącznik do Dz. U. z 2000 r. Nr 120, poz. 1271). Cena brutto — 151,00 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "ust_20",
+     "text": "Zmiany w Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) (załącznik do Dz. U. z 2001 r. Nr 12, poz. 94). Cena brutto — 40,00 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "21",
+     "path": "ust_21",
+     "text": "Taryfa celna(załącznik do Dz. U. z 2001 r. Nr 146, poz. 1639 — 2 tomy). Cena brutto — 120,00 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "22",
+     "path": "ust_22",
+     "text": "Polska Scalona Nomenklatura Towarowa Handlu Zagranicznego (PCN) (załącznik do Dz. U. z 2001 r. Nr 151, poz. 1701). Cena brutto — 151,00 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "23",
+     "path": "ust_23",
+     "text": "Konwencja Narodów Zjednoczonych o prawie morza(załącznik do Dz. U. z 2002 r. Nr 59, poz. 543). Cena brutto — 108,00 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "24",
+     "path": "ust_24",
+     "text": "Wykaz substancji niebezpiecznych wraz z ich klasyfikacją i oznakowaniem(załącznik do Dz. U. z 2002 r. Nr 129, poz. 1110). Cena brutto — 42,00 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "Bezpieczeństwo i higiena pracy, prowadzenie ruchu oraz specjalistyczne zabezpieczenie przeciwpożarowe w podziemnych zakładach górniczych (załącznik do Dz. U. z 2002 r. Nr 139, poz. 1169). Cena brutto — 24,20 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "26",
+     "path": "ust_26",
+     "text": "Program badań statystycznych statystyki publicznej na rok 2003 (załącznik do Dz. U. z 2002 r. Nr 146, poz. 1227). Cena brutto — 61,50 zł.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wszyscy zainteresowani wydawnictwami proszeni są o dokonanie wpłaty na konto bankowe Zakładu Wydawnictw iPoligrafii Centrum Obsługi Kancelarii Prezesa Rady Ministrów wABN–AMRO Bank S.A. nr 16700004-643991059784,podanie liczby zamawianych egzemplarzy oraz adresu odbiorcy. Dowód wpłaty zokreśleniem zamawianych tytułów będzie traktowany jako zamówienie. Ponadto wymienione wydawnictwa można nabywać wpunktach sprzedaży Dziennika Ustaw iMonitora Polskiego."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej — sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 14 marca 2002 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. Nr 35, poz. 325 i Nr 58, poz. 533)."
+ }
+}

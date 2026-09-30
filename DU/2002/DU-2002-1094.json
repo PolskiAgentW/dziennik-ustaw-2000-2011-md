@@ -1,0 +1,3383 @@
+{
+ "eli": "DU/2002/1094",
+ "title": "Rozporządzenie Rady Ministrów z dnia 7 sierpnia 2002 r. w sprawie określenia warunków technicznych o organizacyjnych dla kwalifikowanych podmiotów świadczących usługi certyfikacyjne, polityk certyfikacji dla kwalifikowanych certyfikatów wydawanych przez te podmioty oraz warunków technicznych dla bezpiecznych urządzeń służących do składania i weryfikacji podpisu elektronicznego.",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2002/1094/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 sierpnia 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie określenia warunków technicznych i organizacyjnych dla kwalifikowanych podmiotów świadczących usługi certyfikacyjne, polityk certyfikacji dla kwalifikowanych certyfikatów wydawanych przez te podmioty oraz warunków technicznych dla bezpiecznych urządzeń służących do składania i weryfikacji podpisu elektronicznego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 10 ust. 4, art. 17 ust. 2 i art. 18 ust. 3 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, poz. 1450) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "szczegółowe warunki techniczne, jakim powinny odpowiadać bezpieczne urządzenia do składania podpisów elektronicznych oraz bezpieczne urządzenia do weryfikacji podpisów elektronicznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "podstawowe wymagania organizacyjne i techniczne dotyczące polityk certyfikacji dla kwalifikowanych certyfikatów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "szczegółowe warunki techniczne i organizacyjne, które muszą spełniać kwalifikowane podmioty świadczące usługi certyfikacyjne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "ustawa — ustawę z dnia 18 września 2001 r. o podpisie elektronicznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "algorytm szyfrowy — zestaw przekształceń matematycznych służących do zamiany informacji na niezrozumiałą, czasami z wykorzystaniem parametrów zależnych od zastosowanego klucza;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "funkcja skrótu — funkcję odwzorowującą ciągi bitów na ciągi bitów o stałej długości, w której dla danej wartości funkcji jest obliczeniowo trudne wyznaczenie argumentu odwzorowywanego na tę wartość, a dla danego argumentu jest obliczeniowo trudne wyznaczenie drugiego argumentu odwzorowywanego na tę samą wartość;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "atrybut podpisu — dodatkowe dane, które są podpisywane razem z podpisywanymi danymi lub do nich logicznie dołączane, a w szczególności:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_4/lit_a",
+       "text": "wskazanie kwalifikowanego certyfikatu lub kwalifikowany certyfikat służący do weryfikacji podpisu elektronicznego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_4/lit_b",
+       "text": "oznaczenie czasu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_4/lit_c",
+       "text": "format zawartości, umożliwiający w szczególności ustalenie sposobu kodowania podpisanych elektronicznie danych;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "identyfikator obiektu — ciąg liczb, który jednoznacznie i niezmiennie wskazuje na określony obiekt, w szczególności skonstruowany w oparciu o postanowienia Polskiej Normy PN-ISO/IEC 9834;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "komponent techniczny — sprzęt stosowany w celu wygenerowania lub użycia danych służących do składania bezpiecznego podpisu elektronicznego lub poświadczenia elektronicznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "oprogramowanie podpisujące — oprogramowanie, które przygotowuje dane, które mają zostać podpisane lub poświadczone elektronicznie, i przesyła je do komponentu technicznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "oprogramowanie weryfikujące — oprogramowanie, które sprawdza poprawność bezpiecznego podpisu elektronicznego lub poświadczenia elektronicznego i ważność kwalifikowanego certyfikatu lub zaświadczenia certyfikacyjnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "oprogramowanie publiczne — oprogramowanie podpisujące, do którego w normalnych warunkach eksploatacji może mieć dostęp każda osoba fizyczna; oprogramowaniem publicznym nie jest w szczególności oprogramowanie używane w mieszkaniu prywatnym, lokalu biurowym lub telefonie komórkowym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "klucze infrastruktury — klucze kryptograficzne algorytmów szyfrowych stosowane do innych celów niż składanie lub weryfikacja bezpiecznego podpisu elektronicznego lub poświadczenia elektronicznego, a w szczególności klucze stosowane:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_10/lit_a",
+       "text": "w protokołach uzgadniania lub dystrybucji kluczy zapewniających poufność danych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_10/lit_b",
+       "text": "do zapewnienia, podczas transmisji lub przechowywania, poufności i integralności zgłoszeń certyfikacyjnych, kluczy użytkowników, rejestrów zdarzeń,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_10/lit_c",
+       "text": "do weryfikacji dostępu do urządzeń, oprogramowania weryfikującego lub podpisującego;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "moduł kluczowy — urządzenie współpracujące z komponentem technicznym, przechowujące klucze infrastruktury lub dane służące do składania bezpiecznych podpisów elektronicznych lub poświadczeń elektronicznych, lub klucze chroniące te dane, lub przechowujące części tych kluczy lub danych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "bezpieczna ścieżka — łącze zapewniające wymianę między oprogramowaniem podpisującym a komponentem technicznym informacji związanych z uwierzytelnieniem użytkownika komponentu technicznego, zabezpieczone w sposób uniemożliwiający naruszenie integralności przesyłanych danych przez jakiekolwiek oprogramowanie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "bezpieczny kanał — łącze zapewniające wymianę między oprogramowaniem podpisującym a komponentem technicznym informacji związanych z przekazywaniem danych, które mają być podpisane lub poświadczone elektronicznie, zabezpieczone w sposób uniemożliwiający naruszenie integralności przesyłanych danych przez jakiekolwiek oprogramowanie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_2/pkt_14",
+     "text": "segment sieci — wydzieloną część sieci teleinformatycznej, połączoną z pozostałymi częściami za pośrednictwem specjalistycznych urządzeń umożliwiających odłączenie tej części od reszty sieci;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_2/pkt_15",
+     "text": "śluza bezpieczeństwa — sprzęt lub oprogramowanie chroniące segment sieci teleinformatycznej przed przepływem nieuprawnionych danych z innego segmentu sieci teleinformatycznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_2/pkt_16",
+     "text": "ścieżka certyfikacji — uporządkowany ciąg zaświadczeń certyfikacyjnych lub zaświadczeń certyfikacyjnych i kwalifikowanego certyfikatu, utworzony w ten sposób, że za pomocą danych służących do weryfikacji poświadczenia elektronicznego i nazwy wydawcy pierwszego zaświadczenia certyfikacyjnego na ścieżce jest możliwe wykazanie, że dla każdych dwóch bezpośrednio po sobie występujących zaświadczeń certyfikacyjnych lub zaświadczenia certyfikacyjnego i kwalifikowanego certyfikatu, poświadczenie elektroniczne zawarte w jednym z nich zostało sporządzone za pomocą danych służących do składania poświadczenia elektronicznego związanych z drugim z nich; dane służące do weryfikacji pierwszego poświadczenia elektronicznego są dla weryfikującego punktem zaufania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_2/pkt_17",
+     "text": "zgłoszenie certyfikacyjne — zbiór dokumentów i danych identyfikujących podmiot podlegający certyfikacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_2/pkt_18",
+     "text": "znacznik czasu — jednostkę danych oznaczającą moment, w którym zaszło określone zdarzenie, względem ustalonego czasu odniesienia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Szczegółowe warunki techniczne, jakim powinny odpowiadać bezpieczne urządzenia do składania podpisów elektronicznych oraz bezpieczne urządzenia do weryfikacji podpisów elektronicznych"
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Bezpieczne urządzenie do składania podpisów elektronicznych składa się z oprogramowania podpisującego oraz współpracującego z nim komponentu technicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Bezpieczne urządzenie do weryfikacji podpisów elektronicznych składa się z oprogramowania weryfikującego albo składa się z oprogramowania weryfikującego oraz współpracującego z nim komponentu technicznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Bezpieczne urządzenie do składania podpisów elektronicznych oraz bezpieczne urządzenie do weryfikacji podpisów elektronicznych powinno uniemożliwiać odtworzenie jakichkolwiek danych, których ujawnienie może spowodować brak skuteczności mechanizmów zabezpieczających, w szczególności hasła i danych służących do składania bezpiecznego podpisu elektronicznego, zawartych w komponencie technicznym, na podstawie obserwacji i pomiarów zewnętrznych zjawisk fizycznych związanych z przechowywaniem i użytkowaniem komponentu technicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W przypadku gdy uwierzytelnienie dostępu odbywa się w bezpiecznym urządzeniu do składania podpisów elektronicznych za pomocą hasła, użytkownik powinien mieć możliwość zmiany hasła. Po kilkukrotnym, następującym bezpośrednio po sobie, podaniu błędnych danych uwierzytelniających następuje blokada komponentu technicznego lub modułu kluczowego. W komponencie technicznym lub module kluczowym może zostać wykorzystany mechanizm dodatkowego uwierzytelnienia w celu wprowadzenia nowego hasła i nowego limitu maksymalnej liczby nieudanych kolejnych uwierzytelnień, po których następuje blokada.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "W przypadku użycia oprogramowania publicznego uwierzytelnienie, o którym mowa w ust. 2, przeprowadza się za pomocą bezpiecznej ścieżki zapewniającej integralność danych, a w przypadku użycia hasła, również jego poufność, o ile wprowadzanie hasła lub cech biometrycznych nie odbywa się wprost do komponentu technicznego, a za pomocą oprogramowania podpisującego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "W przypadku użycia oprogramowania publicznego, transmisję danych, które mają być podpisane lub poświadczone elektronicznie, lub ich skrótu z oprogramowania podpisującego do komponentu technicznego przeprowadza się za pomocą bezpiecznego kanału.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Komponenty techniczne generujące dane służące do składania i weryfikacji bezpiecznego podpisu elektronicznego zapewniają mechanizmy, zgodnie z którymi generowanie następuje wyłącznie pod nadzorem uprawnionej osoby.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Komponenty techniczne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "posiadają obudowy, które zapewniają wykazanie prób nielegalnego otwarcia lub penetracji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "sprawdzają integralność zawartości pamięci, w której są zapisane dane służące do składania bezpiecznego podpisu elektronicznego, poświadczenia elektronicznego, prywatnego klucza infrastruktury lub hasła, o którym mowa w § 4 ust. 2, oraz kodu programu, a w przypadku stwierdzenia błędu integralności odmawiają użycia i informują użytkownika o błędzie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "sprawdzają dane podpisywane lub poświadczane elektronicznie okresowo, co najmniej w ramach testów po włączeniu zasilania lub co najmniej przed każdym użyciem tych danych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "umożliwiają zdefiniowanie i zarządzanie urządzeniem jako:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_4/lit_a",
+         "text": "administrator urządzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_4/lit_b",
+         "text": "podpisujący lub poświadczający;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_1/pkt_5",
+       "text": "rozróżniają dopuszczalne zakresy zarządzania urządzeniem przypisane do ról, o których mowa w lit. a i b, oraz zapobiegają zarządzaniu urządzeniem niezgodnie z zakresem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_1/pkt_6",
+       "text": "są dostarczane razem z instrukcją użytkowania, zawierającą informację o wymaganej konfiguracji użytkowania; w instrukcji użytkowania powinna być opisana metoda, za pomocą której użytkownik będzie miał możliwość potwierdzania używanej konfiguracji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Komponenty techniczne powinny posiadać certyfikaty zgodności, zaświadczające spełnienie wymagań określonych w Polskich Normach, a w przypadku braku takich norm, spełnienie wymagań określonych w dokumentach, o których mowa w § 49:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "w ust. 2 pkt 2 — dla poziomu E3 z minimalną siłą mechanizmów zabezpieczających, określoną jako „wysoka”, albo poziomu bezpieczniejszego lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "w ust. 2 pkt 8 — dla poziomu 3 albo bezpieczniejszego, lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "w ust. 1 pkt 4 — dla poziomu EAL4 albo bezpieczniejszego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Komponenty techniczne sprawdzają komplementarność danych służących do składania lub weryfikacji bezpiecznego podpisu elektronicznego lub poświadczenia elektronicznego i odpowiednio kluczy infrastruktury, po ich wytworzeniu lub wprowadzeniu do urządzeń, jak również umożliwiają weryfikację komplementarności tych danych lub kluczy oraz udostępniają wynik weryfikacji na żądanie oprogramowania podpisującego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Bezpieczne urządzenie do składania podpisów elektronicznych oraz bezpieczne urządzenie do weryfikacji podpisów elektronicznych mają możliwość obliczania i prezentowania przynajmniej jednej z funkcji skrótu w stosunku do danych służących do weryfikacji bezpiecznego podpisu elektronicznego lub poświadczenia elektronicznego, będących dla osoby składającej bezpieczny podpis elektroniczny lub weryfikującego bezpieczny podpis elektroniczny punktem zaufania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Dane, które mają być podpisane lub poświadczone elektronicznie, przygotowywane przez oprogramowanie podpisujące, powinny odpowiadać danym transmitowanym do komponentu technicznego, z zastrzeżeniem ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Jeżeli oprogramowanie przygotowuje skrót danych, które mają być podpisane lub poświadczone elektronicznie, za pomocą jednej z funkcji skrótu, a następnie transmituje ten skrót, musi on dotyczyć prezentowanych przez oprogramowanie danych, które mają zostać podpisane lub poświadczone elektronicznie; może również dotyczyć w szczególności prezentowanego atrybutu podpisu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Wykaz algorytmów szyfrowych i funkcji skrótu wykorzystywanych do tworzenia bezpiecznych podpisów elektronicznych i poświadczeń elektronicznych zawiera załącznik nr 1 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Jeżeli oprogramowanie podpisujące składa się z kilku elementów działających na różnych urządzeniach, urządzenia te zapewniają, że wymieniane między tymi elementami dane uwierzytelniające użytkownika w stosunku do urządzenia oraz dane, które mają być podpisane lub poświadczone elektronicznie, transmituje się w sposób zapewniający ich integralność i poufność.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "Bezpieczne urządzenia do składania podpisów elektronicznych zapewniają dołączenie do bezpiecznego podpisu elektronicznego atrybutu podpisu, o którym mowa w § 2 pkt 4 lit. a.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_7/ust_6",
+     "text": "Bezpieczne urządzenia do składania podpisów elektronicznych zapewniają możliwość prezentacji przeznaczonych do podpisania danych, w szczególności przez określenie oprogramowania służącego do edycji danych lub przez informacje zawarte w atrybucie podpisu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_7/ust_7",
+     "text": "Przesłanie hasła lub danych biometrycznych do komponentu technicznego umożliwia jego odblokowanie i składanie bezpiecznych podpisów elektronicznych lub poświadczeń elektronicznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_7/ust_8",
+     "text": "Ułatwienia ograniczające liczbę czynności, jakie musi wykonać podpisujący lub poświadczający przy składaniu pojedynczego bezpiecznego podpisu elektronicznego lub poświadczenia elektronicznego, muszą być ograniczone czasem ich trwania lub liczbą składanych bezpiecznych podpisów elektronicznych lub poświadczeń elektronicznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_7/ust_9",
+     "text": "Oprogramowanie publiczne niszczy dane, które były transmitowane przez bezpieczną ścieżkę lub bezpieczny kanał, po zakończeniu procesu generowania bezpiecznego podpisu elektronicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_7/ust_10",
+     "text": "Bezpieczne urządzenia do składania podpisów elektronicznych umożliwiają niszczenie danych służących do składania bezpiecznego podpisu elektronicznego lub poświadczenia elektronicznego i kluczy infrastruktury na żądanie osoby składającej bezpieczny podpis elektroniczny lub podmiotu świadczącego usługi certyfikacyjne, w stopniu uniemożliwiającym ich odtworzenie na podstawie analizy zapisów w urządzeniach, w których były tworzone, przechowywane lub stosowane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "par_7/ust_11",
+     "text": "Oprogramowanie podpisujące stosowane przy składaniu bezpiecznych podpisów elektronicznych powinno posiadać deklarację zgodności, zgodną z normą, o której mowa w § 49 ust. 1 pkt 6.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Oprogramowanie weryfikujące powinno zapewniać, że prezentowane przez nie podczas weryfikacji bezpiecznego podpisu elektronicznego dane będą odpowiadały danym podpisywanym, bez względu na format danych podpisywanych, którym może być w szczególności plik tekstowy, graficzny, dźwiękowy lub wizualny. W przypadku braku możliwości odtworzenia podczas weryfikacji danych podpisanych w formie identycznej z użytą podczas podpisywania, zrozumiałej dla weryfikującego, oprogramowanie weryfikujące powinno informować o tym weryfikującego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Oprogramowanie weryfikujące podaje wynik weryfikacji bezpiecznego podpisu elektronicznego lub poświadczenia elektronicznego w chwili dokonywania weryfikacji lub w momencie wskazanym przy wywołaniu procesu weryfikacji bezpiecznego podpisu elektronicznego lub poświadczenia elektronicznego, jako:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_2/pkt_1",
+       "text": "poprawnie zweryfikowany — gdy bezpieczny podpis elektroniczny lub poświadczenie elektroniczne jest poprawne w rozumieniu specyfikacji zastosowanego algorytmu szyfrowego, a kwalifikowany certyfikat lub zaświadczenie certyfikacyjne zawierające dane służące do jego weryfikacji oraz użyta ścieżka certyfikacji są ważne w rozumieniu § 13;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_2/pkt_2",
+       "text": "negatywnie zweryfikowany — gdy bezpieczny podpis elektroniczny lub poświadczenie elektroniczne jest niepoprawne w rozumieniu specyfikacji zastosowanego algorytmu szyfrowego lub kwalifikowany certyfikat albo zaświadczenie certyfikacyjne zawierające dane służące do jego weryfikacji są nieważne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_2/pkt_3",
+       "text": "niekompletnie zweryfikowany — gdy bezpieczny podpis elektroniczny lub poświadczenie elektroniczne jest poprawne w rozumieniu specyfikacji zastosowanego algorytmu szyfrowego, ale podczas weryfikacji nie udało się potwierdzić, że kwalifikowany certyfikat lub zaświadczenie certyfikacyjne służące do jego weryfikacji oraz użyta ścieżka certyfikacji zawiera ważne w określonym czasie poświadczenia elektroniczne, w szczególności gdy kwalifikowany certyfikat służący do weryfikacji tego podpisu jest zawieszony.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "W przypadkach, o których mowa w ust. 2 pkt 2 i 3, oprogramowanie weryfikujące podaje przyczynę braku możliwości poprawnego zweryfikowania bezpiecznego podpisu elektronicznego lub poświadczenia elektronicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_8/ust_4",
+     "text": "Jeżeli do danych podpisanych elektronicznie lub poświadczonych elektronicznie jest dołączony więcej niż jeden bezpieczny podpis elektroniczny lub poświadczenie elektroniczne, oprogramowanie weryfikujące informuje i wskazuje przy prezentowaniu wyniku weryfikacji, który z podpisów lub poświadczeń został przez to oprogramowanie zweryfikowany.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Oprogramowanie weryfikujące umożliwia, na życzenie weryfikującego, prezentację zawartości co najmniej następujących pól kwalifikowanego certyfikatu służącego do weryfikacji bezpiecznego podpisu elektronicznego, określonych w szczegółowych wymaganiach dotyczących kwalifikowanego certyfikatu i zaświadczenia certyfikacyjnego oraz listy unieważnionych i zawieszonych certyfikatów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_1/pkt_1",
+       "text": "podmiotu świadczącego usługi certyfikacyjne, który wydał kwalifikowany certyfikat;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_1/pkt_2",
+       "text": "okresu ważności kwalifikowanego certyfikatu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_1/pkt_3",
+       "text": "imienia i nazwiska lub nazwy powszechnej albo pseudonimu posiadacza kwalifikowanego certyfikatu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_9/ust_1/pkt_4",
+       "text": "sposobu wykorzystania danych służących do składania podpisu elektronicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_9/ust_1/pkt_5",
+       "text": "polityki certyfikacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Szczegółowe wymagania dotyczące kwalifikowanego certyfikatu i zaświadczenia certyfikacyjnego oraz listy unieważnionych i zawieszonych certyfikatów zawiera załącznik nr 2 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "W przypadku gdy zamiast imienia i nazwiska lub nazwy powszechnej w kwalifikowanym certyfikacie występuje pseudonim, jest to jednoznacznie wskazywane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Oprogramowanie weryfikujące pokazuje powiązane z danymi podpisanymi wszystkie atrybuty podpisu na życzenie weryfikującego oraz ostrzega weryfikującego o braku możliwości jednoznacznej interpretacji danych zawartych w atrybutach bezpiecznego podpisu elektronicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_9/ust_5",
+     "text": "Oprogramowanie weryfikujące stosowane przy weryfikacji bezpiecznych podpisów elektronicznych powinno posiadać deklarację zgodności, zgodnie z normą, o której mowa w § 49 ust. 1 pkt 6.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Bezpieczne urządzenia służące do składania lub weryfikacji podpisu elektronicznego jednoznacznie rozpoznają wartości pól, o których mowa w pkt 1.1.1—1.1.7 oraz w pkt 3.1—3.6 załącznika nr 2 do rozporządzenia, oraz występujące pola rozszerzeń oznaczone jako krytyczne.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Bezpieczne urządzenia służące do składania podpisu elektronicznego zapewniają, że dane służące do składania bezpiecznego podpisu elektronicznego będą wykorzystywane w sposób określony w pkt 1.2.3 załącznika nr 2 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Podstawowe wymagania organizacyjne i techniczne dotyczące polityk certyfikacji dla kwalifikowanych certyfikatów"
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Maksymalny okres ważności kwalifikowanego certyfikatu przewidziany przez politykę certyfikacji wynosi nie więcej niż 2 lata.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Ważność kwalifikowanego certyfikatu i znacznika czasu określa się na podstawie odpowiedniej ścieżki certyfikacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Ścieżka certyfikacji zostaje zweryfikowana poprawnie, gdy wszystkie zaświadczenia certyfikacyjne i kwalifikowane certyfikaty zawarte w ścieżce, o której mowa w ust. 1, są w określonym czasie ważne i posiadają identyfikatory polityk certyfikacji z określonego przez weryfikującego zbioru dopuszczalnych polityk certyfikacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Ścieżka certyfikacji, o której mowa w ust. 1, zawiera zaświadczenie certyfikacyjne, określone w art. 23 ust. 2 ustawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Listy unieważnionych i zawieszonych certyfikatów, zwane dalej „listami CRL”, listy unieważnionych zaświadczeń certyfikacyjnych oraz kwalifikowane certyfikaty, wydawane w ramach polityk certyfikacji, zawierają wszystkie obligatoryjne pola wymienione w załączniku nr 2 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Polityka certyfikacji może dopuszczać, aby kwalifikowane certyfikaty, wydawane w ramach polityki certyfikacji, zawierały dodatkowe pola rozszerzeń oznaczane jako niekrytyczne, których wartości nie muszą być rozpoznawane przez bezpieczne urządzenia służące do składania podpisu elektronicznego i bezpieczne urządzenia do weryfikacji podpisu elektronicznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Polityki certyfikacji dla kwalifikowanych certyfikatów określają parametry algorytmów szyfrowych używanych do świadczenia usług certyfikacyjnych przez kwalifikowany podmiot świadczący usługi certyfikacyjne, co najmniej takie same jak określone w wymaganiach dla algorytmów szyfrowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Wymagania dla algorytmów szyfrowych określa załącznik nr 3 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_15/ust_3",
+     "text": "Polityki certyfikacji wskazują identyfikatory obiektów dotyczących struktury użycia algorytmów szyfrowych przewidzianych dla danej polityki certyfikacji wraz z funkcjami skrótu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_15/ust_4",
+     "text": "Liczby będące parametrami algorytmów szyfrowych, które według specyfikacji algorytmu są liczbami pierwszymi, powinny wypełniać kryteria testów sprawdzających cechy liczb pierwszych w ten sposób, że mogą dawać błędny wynik z prawdopodobieństwem nie większym niż 2 –60 .",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_15/ust_5",
+     "text": "Procedury stosowane przy tworzeniu danych służących do składania lub weryfikacji bezpiecznego podpisu elektronicznego lub poświadczenia elektronicznego używają jako argumentu ciągu losowego pochodzącego ze źródła generującego ciąg losowy w oparciu o zjawisko fizyczne. Argument ciągu losowego musi być tej samej długości co parametry składające się na tworzone dane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_15/ust_6",
+     "text": "Procedury stosowane przy tworzeniu losowych parametrów algorytmów szyfrowych, o których mowa w ust. 1, różnych dla każdego użycia algorytmu w celu złożenia bezpiecznego podpisu elektronicznego lub poświadczenia elektronicznego, używają jako argumentu ciągu losowego pochodzącego ze źródła generującego ciąg losowy w oparciu o zjawisko fizyczne lub ciągu pseudolosowego. W obu przypadkach należy zapewnić, że prawdopodobieństwo przypadkowego, ponownego wygenerowania takiego samego ciągu było nie większe niż większa z dwóch wartości 2 –128 lub 2 –k , przy czym przez „k” należy rozumieć określoną w bitach długość tworzonych losowych parametrów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_15/ust_7",
+     "text": "Ciąg pseudolosowy, o którym mowa w ust. 6, jest tworzony w oparciu o generator określony w normie, o której mowa w § 49 ust. 2 pkt 1, lub w oparciu o inny generator, zapewniający co najmniej takie samo bezpieczeństwo stosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_15/ust_8",
+     "text": "Badanie jakości generatorów losowych opartych na zjawiskach fizycznych, o których mowa w ust. 5 i 6, wykonuje się z wykorzystaniem proponowanych testów statystycznych lub z wykorzystaniem innego zestawu testów, zapewniających co najmniej takie samo bezpieczeństwo stosowania generatorów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_15/ust_9",
+     "text": "Wykaz testów statystycznych proponowanych do badania jakości generatorów losowych zawiera załącznik nr 4 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Polityka certyfikacji określa sposób stosowania przez kwalifikowane podmioty świadczące usługi certyfikacyjne kluczy infrastruktury do zapewnienia poufności i integralności podczas transmisji lub przechowywania zgłoszeń certyfikacyjnych, kluczy użytkowników, rejestrów lub dzienników zdarzeń do weryfikacji dostępu do urządzeń i oprogramowania lub do dystrybucji i uzgadniania kluczy w odpowiednich protokołach.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Polityka certyfikacji określa minimalne parametry asymetrycznych algorytmów szyfrowych stosujących klucze infrastruktury, o których mowa w § 16, odpowiednie do wymagań zawartych w załączniku nr 3 do rozporządzenia, jeżeli podmiot używa algorytmów w nim wymienionych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Polityka certyfikacji zapewnia, że dane służące do składania poświadczenia elektronicznego stosowane przez kwalifikowany podmiot świadczący usługi certyfikacyjne do poświadczeń elektronicznych lub klucze chroniące te dane są dzielone na części według schematu progowego stopnia (m, n), gdzie wartość „m” wynosi co najmniej 2, natomiast n > m + 1. Każdą z części przechowuje się w modułach kluczowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Dane, o których mowa w ust. 1, pojawiają się w pełnej formie wyłącznie w komponencie technicznym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Polityka certyfikacji przewiduje, że klucze infrastruktury wykorzystywane do zapewnienia poufności przekazu podpisywanych danych przez osobę składającą bezpieczny podpis elektroniczny lub do zapewnienia poufności przekazu danych służących do składania bezpiecznego podpisu elektronicznego lub poświadczenia elektronicznego przez kwalifikowany podmiot świadczący usługi certyfikacyjne przechowuje się w indywidualnych modułach kluczowych lub komponentach technicznych. Kilka modułów kluczowych lub komponentów technicznych, będących pod kontrolą jednej lub więcej osób, może zawierać te same dane związane z zapewnieniem poufności podpisywanych lub poświadczanych danych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Polityka certyfikacji może przewidywać, że kwalifikowany podmiot świadczący usługi certyfikacyjne może je świadczyć za pośrednictwem podległych punktów rejestracji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Punkty rejestracji mogą zajmować się bezpośrednią obsługą klientów, w szczególności mogą tworzyć zgłoszenia certyfikacyjne i przechowywać dokumenty, o których mowa w § 21 ust. 1 pkt 2 i 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Polityka certyfikacji, określając minimalne warunki identyfikacji osób, którym są wydawane kwalifikowane certyfikaty, wskazuje, że:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_21/ust_1/pkt_1",
+       "text": "kwalifikowane podmioty świadczące usługi certyfikacyjne lub podległe im punkty rejestracji w ramach polityk certyfikacji potwierdzają tożsamość osoby ubiegającej się o wydanie kwalifikowanego certyfikatu na podstawie ważnego dowodu osobistego lub paszportu, z zastrzeżeniem ust. 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_21/ust_1/pkt_2",
+       "text": "umowę o wydanie kwalifikowanego certyfikatu wnioskodawca podpisuje własnoręcznie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_21/ust_1/pkt_3",
+       "text": "osoba potwierdzająca w imieniu kwalifikowanego podmiotu świadczącego usługi certyfikacyjne tożsamość wnioskodawcy poświadcza dokonanie tego potwierdzenia własnoręcznym podpisem oraz podaniem swojego numeru PESEL w pisemnym oświadczeniu o potwierdzeniu tożsamości wnioskodawcy, z zastrzeżeniem ust. 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "W przypadku gdy osoba ubiegająca się o wydanie kwalifikowanego certyfikatu posiada ważny kwalifikowany certyfikat, potwierdzenie jej tożsamości nie wymaga przedstawienia ważnego dowodu osobistego lub paszportu, a dane niezbędne do zgłoszenia certyfikacyjnego mogą być opatrzone bezpiecznym podpisem elektronicznym tej osoby, o ile posiadany kwalifikowany certyfikat i certyfikat, którego dotyczy zgłoszenie certyfikacyjne, jest wydawany przez ten sam podmiot i w ramach tej samej polityki certyfikacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_21/ust_3",
+     "text": "Umowa o wydanie kwalifikowanego certyfikatu zawiera co najmniej następujące dane wnioskodawcy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_21/ust_3/pkt_1",
+       "text": "imię, nazwisko;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_21/ust_3/pkt_2",
+       "text": "datę i miejsce urodzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_21/ust_3/pkt_3",
+       "text": "numer PESEL;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_21/ust_3/pkt_4",
+       "text": "serię, numer i rodzaj dokumentu tożsamości oraz oznaczenie organu wydającego dowód osobisty lub paszport, na podstawie którego potwierdzono tożsamość wnioskodawcy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_21/ust_4",
+     "text": "W przypadku, o którym mowa w ust. 2, podmiot świadczący usługi certyfikacyjne sprawdza prawdziwość danych podanych przez osobę ubiegającą się o kwalifikowany certyfikat przez porównanie ich z danymi zawartymi w umowie dotyczącej kwalifikowanego certyfikatu uwierzytelniającego bezpieczny podpis elektroniczny, którego użyto do podpisania umowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_21/ust_5",
+     "text": "Kwalifikowany podmiot świadczący usługi certyfikacyjne może za zgodą właściciela kwalifikowanego certyfikatu wpisać do kwalifikowanego certyfikatu dodatkowe informacje o jego posiadaczu do pól rozszerzeń, o których mowa w § 14 ust. 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Szczegółowe warunki techniczne i organizacyjne, które muszą spełnić kwalifikowane podmioty świadczące usługi certyfikacyjne"
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Kwalifikowany podmiot świadczący usługi certyfikacyjne zapewnia, że bezpieczny podpis elektroniczny oraz poświadczenie elektroniczne są tworzone w oparciu o algorytmy szyfrowe i funkcje skrótu określone w załączniku nr 1 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Kwalifikowane certyfikaty lub znaczniki czasu są wydawane przez kwalifikowane podmioty świadczące usługi certyfikacyjne, zgodnie z wybraną przez podmiot i określoną we wniosku o wpis do rejestru kwalifikowanych podmiotów świadczących usługi certyfikacyjne polityką certyfikacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Wydając kwalifikowany certyfikat, podmiot świadczący usługi certyfikacyjne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_1/pkt_1",
+       "text": "potwierdza tożsamość osoby i prawdziwość danych identyfikacyjnych zawartych w zgłoszeniu certyfikacyjnym oraz, w przypadkach gdy jest to konieczne, potwierdza, że dane służące do składania bezpiecznego podpisu elektronicznego komplementarne z danymi służącymi do weryfikacji bezpiecznego podpisu elektronicznego znajdującymi się w zgłoszeniu certyfikacyjnym znajdują się w posiadaniu osoby starającej się o kwalifikowany certyfikat;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_1/pkt_2",
+       "text": "zapewnia, że zgłoszenie certyfikacyjne będzie zawierało czas jego przygotowania z minimalną dokładnością do jednej minuty, bez konieczności synchronizacji czasu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_24/ust_1/pkt_3",
+       "text": "zapewnia, że zgłoszenie certyfikacyjne będzie opatrzone podpisem elektronicznym Inspektora do spraw Rejestracji, o którym mowa w § 36 ust. 2 pkt 2, zapewniającym integralność podpisanych danych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "Czas początku ważności kwalifikowanego certyfikatu powinien być zsynchronizowany z czasem, o którym mowa w § 31, i nie może być wcześniejszy niż moment jego wydania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Kwalifikowany podmiot świadczący usługi certyfikacyjne, przetwarzając klucze infrastruktury lub dane służące do składania bezpiecznego podpisu elektronicznego lub poświadczenia elektronicznego, zapewnia, aby:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_25/pkt_1",
+     "text": "dane, których ujawnienie spowoduje brak skuteczności mechanizmów zabezpieczających, w szczególności prywatne klucze infrastruktury i dane służące do składania bezpiecznego podpisu elektronicznego lub poświadczenia elektronicznego, były wysyłane drogą elektroniczną w postaci zaszyfrowanej zapewniającej poufność tych danych lub przez przekazywanie modułów kluczowych lub komponentów technicznych bezpiecznymi kanałami łączności;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_25/pkt_2",
+     "text": "dane służące do weryfikacji bezpiecznego podpisu lub poświadczenia elektronicznego i publiczne klucze infrastruktury były wysyłane do użytkowników w sposób zapewniający ich integralność i autentyczność, przy czym samo zastosowanie zaświadczeń certyfikacyjnych, w których pola: wydawca i właściciel, o których mowa w załączniku nr 2 do rozporządzenia, są identyczne, nie zapewnia wystarczającego poziomu pewności co do autentyczności danych lub klucza.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_26/ust_1",
+     "text": "Serwery oraz stacje robocze systemu teleinformatycznego wykorzystywane przez kwalifikowany podmiot świadczący usługi certyfikacyjne do świadczenia usług certyfikacyjnych łączy się za pomocą logicznie wydzielonej, co najmniej dwusegmentowej sieci wewnętrznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "Sieć, o której mowa w ust. 1, musi spełniać następujące wymagania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_26/ust_2/pkt_1",
+       "text": "dostęp do sieci z zewnątrz odbywa się tylko za pośrednictwem serwerów zlokalizowanych w strefie, w której serwery w niej zgromadzone mogą kontaktować się bez konieczności użycia śluzy bezpieczeństwa tylko między sobą, natomiast w przypadku transmisji informacji z segmentem sieci wewnętrznej muszą korzystać z pośrednictwa wewnętrznej śluzy bezpieczeństwa; w przypadku transmisji z zewnętrzną siecią teleinformatyczną muszą korzystać z pośrednictwa zewnętrznej śluzy bezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_26/ust_2/pkt_2",
+       "text": "segment sieci, w którym znajduje się serwer dokonujący poświadczeń elektronicznych, jest oddzielony od segmentu podłączonego do strefy, o której mowa w pkt 1, za pomocą śluzy bezpieczeństwa lub urządzenia pośredniczącego w wymianie danych między siecią wewnętrzną i sieciami zewnętrznymi, rozpoznającego dane przychodzące spoza sieci wewnętrznej na podstawie adresu i portu docelowego i rozsyłającego je do odpowiednich adresów w sieci wewnętrznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_26/ust_2/pkt_3",
+       "text": "śluzy bezpieczeństwa sieci konfiguruje się w taki sposób, że pozwalają na realizację wyłącznie tych protokołów i usług, które są niezbędne do realizacji usług certyfikacyjnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_26/ust_3",
+     "text": "Śluzy bezpieczeństwa, o których mowa w ust. 2 pkt 1, muszą posiadać co najmniej klasę E3 według normy, o której mowa w § 49 ust. 2 pkt 2, lub zapewniać co najmniej taki sam stopień bezpieczeństwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "Dane służące do składania poświadczenia elektronicznego kwalifikowanych certyfikatów, wykorzystywane przez kwalifikowany podmiot świadczący usługi certyfikacyjne w ramach danej polityki certyfikacji, mogą być dodatkowo wykorzystywane wyłącznie do poświadczania kluczy infrastruktury, list CRL, list unieważnionych zaświadczeń certyfikacyjnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Kwalifikowany podmiot świadczący usługi certyfikacyjne wydający kwalifikowane certyfikaty tworzy zapasowy ośrodek przetwarzania danych, zapewniający możliwość wykonywania obowiązku, o którym mowa w § 29, w przypadku awarii podstawowych urządzeń.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "Kwalifikowany podmiot świadczący usługi certyfikacyjne wydający kwalifikowane certyfikaty zapewnia możliwość ich unieważnienia oraz tworzenia i publikowania list CRL i list unieważnionych zaświadczeń certyfikacyjnych również w przypadku awarii, w szczególności przez użycie zapasowego ośrodka przetwarzania danych, z zachowaniem obowiązku określonego w § 33 ust. 3.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_30/ust_1",
+     "text": "Poświadczenia elektroniczne, kwalifikowane certyfikaty, listy CRL, listy unieważnionych zaświadczeń certyfikacyjnych oraz znaczniki czasu powinny spełniać wymagania zawarte w odpowiednich Polskich Normach, a w razie ich braku — wymagania określone w dokumentach, o których mowa w § 49:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_30/ust_1/pkt_1",
+       "text": "w ust. 2 pkt 3—5 — dla poświadczeń elektronicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_30/ust_1/pkt_2",
+       "text": "w ust. 2 pkt 6 — dla znaczników czasu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_30/ust_1/pkt_3",
+       "text": "w ust. 1 pkt 3 lub ust. 2 pkt 7 — dla kwalifikowanych certyfikatów, list CRL oraz list unieważnionych zaświadczeń certyfikacyjnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_30/ust_2",
+     "text": "W przypadku gdy bezpieczne urządzenie do składania lub weryfikacji podpisów elektronicznych stosuje inny niż określony w ust. 1 pkt 1 format podpisu elektronicznego, kwalifikowany podmiot świadczący usługi certyfikacyjne, który umieścił takie urządzenie w wykazie, o którym mowa w art. 10 ust. 1 pkt 8 ustawy, format ten rejestruje i opatruje identyfikatorem obiektu zawartym w odpowiednim atrybucie podpisu, o ile taki format nie został wcześniej zarejestrowany i opatrzony identyfikatorem obiektu przez inny podmiot.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_30/ust_3",
+     "text": "Szczegółowy opis struktur danych, o których mowa w ust. 1, zapisuje się przy użyciu formalnej notacji określonej w normie wskazanej w § 49 ust.1 pkt 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_30/ust_4",
+     "text": "Szczegółowe opisy struktur danych, o których mowa w ust. 1 i 2, wykorzystywane przez kwalifikowany podmiot świadczący usługi certyfikacyjne udostępnia się nieodpłatnie odbiorcy usług certyfikacyjnych na jego wniosek.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "Kwalifikowany podmiot świadczący usługi certyfikacyjne wykorzystujący przy świadczeniu usług oznaczenie czasu, w szczególności przy znakowaniu czasem, tworzeniu rejestrów zdarzeń oraz tworzeniu listy CRL, stosuje rozwiązania zapewniające synchronizację z Międzynarodowym Wzorcem Czasu (Coordinated Universal Time), zwanym dalej ,,UTC’’, z dokładnością do 1 sekundy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "Kwalifikowany podmiot świadczący usługi certyfikacyjne wydający kwalifikowane certyfikaty zapewnia możliwość zgłoszenia wniosku o unieważnienie kwalifikowanego certyfikatu przez całą dobę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Procedury zgłoszenia, o którym mowa w ust. 1, uzgadnia się z osobą ubiegającą się o wydanie kwalifikowanego certyfikatu, najpóźniej w momencie jego wydania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_32/ust_3",
+     "text": "Posiadacza kwalifikowanego certyfikatu informuje się o konieczności niezwłocznego zgłoszenia wniosku o unieważnienie kwalifikowanego certyfikatu w momencie podejrzenia utraty lub ujawnienia swoich danych służących do składania bezpiecznego podpisu elektronicznego innej osobie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_33/ust_1",
+     "text": "Lista CRL wydana w ramach polityki certyfikacji powinna zapewnić określenie czasu unieważnienia lub zawieszenia kwalifikowanego certyfikatu z dokładnością do jednej sekundy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_33/ust_2",
+     "text": "Oprogramowanie stosowane do unieważniania lub zawieszania kwalifikowanych certyfikatów i unieważniania zaświadczeń certyfikacyjnych dokonuje automatycznie zapisu czasu unieważnienia lub zawieszenia i umieszcza go odpowiednio na liście CRL lub liście unieważnionych zaświadczeń certyfikacyjnych, używając do tego czasu rzeczywistego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_33/ust_3",
+     "text": "Czas między odebraniem zgłoszenia o unieważnieniu lub zawieszeniu kwalifikowanego certyfikatu a opublikowaniem listy CRL nie może być dłuższy niż jedna godzina.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_33/ust_4",
+     "text": "Zaktualizowana lista CRL, o której mowa w ust. 1, jest wydawana nie rzadziej niż raz dziennie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_33/ust_5",
+     "text": "Dostęp do list CRL i list unieważnionych zaświadczeń certyfikacyjnych dla odbiorców usług certyfikacyjnych jest nieodpłatny.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "Kwalifikowany podmiot świadczący usługi certyfikacyjne zapewnia, aby komponenty techniczne, stosowane przez ten podmiot do świadczenia usług w ramach danej polityki certyfikacji, nie były stosowane do żadnego innego celu, w tym do świadczenia usług w ramach innej polityki certyfikacji, oraz zapewnia, że do świadczenia usługi znakowania czasem i wydawania kwalifikowanych certyfikatów zostaną użyte oddzielne komponenty techniczne.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_35/ust_1",
+     "text": "W systemie teleinformatycznym wykorzystywanym przez kwalifikowany podmiot świadczący usługi certyfikacyjne do tworzenia danych służących do składania bezpiecznego podpisu elektronicznego lub poświadczenia elektronicznego stosuje się mechanizmy zabezpieczające przed nieupoważnionym dostępem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_35/ust_2",
+     "text": "Każdy dostęp do systemu jest monitorowany, a każde użycie systemu w celu wygenerowania danych służących do składania bezpiecznego podpisu elektronicznego jest rejestrowane.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_36/ust_1",
+     "text": "Kwalifikowany podmiot świadczący usługi certyfikacyjne zapewnia szczegółowe udokumentowanie i opisanie wszystkich elementów stosowanego przez niego systemu teleinformatycznego, bezpośrednio związanych ze świadczeniem usług certyfikacyjnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_36/ust_2",
+     "text": "Kwalifikowany podmiot świadczący usługi certyfikacyjne zapewnia obsługę systemów teleinformatycznych przez:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_36/ust_2/pkt_1",
+       "text": "osoby nadzorujące wdrożenie i stosowanie wszystkich procedur bezpiecznej eksploatacji systemów teleinformatycznych wykorzystywanych przy świadczeniu usług certyfikacyjnych, zwane dalej „Inspektorami Bezpieczeństwa”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_36/ust_2/pkt_2",
+       "text": "osoby, które zatwierdzają przygotowane zgłoszenia certyfikacyjne lub potwierdzają tworzenie listy CRL, zwane dalej „Inspektorami do spraw Rejestracji”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_36/ust_2/pkt_3",
+       "text": "osoby, które instalują, konfigurują i zarządzają systemem i siecią teleinformatyczną, zwane dalej „Administratorami Systemu”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_36/ust_2/pkt_4",
+       "text": "osoby, które wykonują stałą obsługę systemu teleinformatycznego, w tym wykonujące kopie zapasowe, zwane dalej „Operatorami Systemu”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_36/ust_2/pkt_5",
+       "text": "osoby, które analizują zapisy rejestrów zdarzeń mających miejsce w systemach teleinformatycznych wykorzystywanych przy świadczeniu usług certyfikacyjnych, zwane dalej „Inspektorami do spraw Audytu”.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_36/ust_3",
+     "text": "Funkcja, o której mowa w ust. 2 pkt 1, nie może być łączona z żadną z funkcji wymienionych w ust. 2 pkt 3 i 4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_36/ust_4",
+     "text": "Funkcja, o której mowa w ust. 2 pkt 5, nie może być łączona z żadną z funkcji wymienionych w ust. 2 pkt 1—4.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_37/ust_1",
+     "text": "Systemy i sieci teleinformatyczne wykorzystywane przez kwalifikowany podmiot świadczący usługi certyfikacyjne przy świadczeniu usług certyfikacyjnych powinny umożliwiać rejestrowanie zdarzeń zapisanych w rejestrach zdarzeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_37/ust_2",
+     "text": "Przy tworzeniu rejestrów zdarzeń stosuje się następujące zasady:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_37/ust_2/pkt_1",
+       "text": "w rejestrach zdarzeń zapisuje się informacje dotyczące:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_37/ust_2/pkt_1/lit_a",
+         "text": "żądania świadczenia usług certyfikacyjnych normalnie udostępnianych przez system lub usług niewykonywanych przez system, informacji o wykonaniu lub niewykonaniu usługi oraz o przyczynie jej niewykonania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_37/ust_2/pkt_1/lit_b",
+         "text": "istotnych zdarzeń związanych ze zmianami w środowisku systemu, w tym w podsystemie zarządzania kluczami i certyfikatami, w szczególności tworzenia kont i rodzaju przydzielanych uprawnień,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_37/ust_2/pkt_1/lit_c",
+         "text": "instalacji nowego oprogramowania lub aktualizacje,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_37/ust_2/pkt_1/lit_d",
+         "text": "rozpoczęcia i przerwania funkcji rejestrujących zdarzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_37/ust_2/pkt_1/lit_e",
+         "text": "zmian w konfiguracji funkcji rejestrujących zdarzenia, w tym w szczególności każdą modyfikację czasu systemowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_37/ust_2/pkt_1/lit_f",
+         "text": "czasu tworzenia kopii zapasowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_37/ust_2/pkt_1/lit_g",
+         "text": "czasu archiwizowania rejestrów zdarzeń,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_37/ust_2/pkt_1/lit_h",
+         "text": "zamykania, otwierania i ponownego uruchamiania po zamknięciu systemu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_37/ust_2/pkt_1/lit_i",
+         "text": "negatywnych wyników testów, o których mowa w § 15 ust. 8,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_37/ust_2/pkt_1/lit_j",
+         "text": "wszystkich zgłoszeń unieważnienia kwalifikowanego certyfikatu oraz wszystkich wiadomości z tym związanych, a w szczególności wysłane i odebrane komunikaty o zgłoszeniach przesyłane w relacjach posiadacza kwalifikowanego certyfikatu z kwalifikowanym podmiotem świadczącym usługi certyfikacyjne;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_37/ust_2/pkt_2",
+       "text": "każdy wpis do rejestru zdarzeń zawiera co najmniej następujące informacje:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_37/ust_2/pkt_2/lit_a",
+         "text": "datę i czas wystąpienia zdarzenia z dokładnością do jednej sekundy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_37/ust_2/pkt_2/lit_b",
+         "text": "rodzaj zdarzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_37/ust_2/pkt_2/lit_c",
+         "text": "identyfikator lub inne dane pozwalające na określenie osoby odpowiedzialnej za zaistnienie zdarzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_37/ust_2/pkt_2/lit_d",
+         "text": "określenie, czy zdarzenie dotyczy operacji zakończonej sukcesem czy błędem;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_37/ust_2/pkt_3",
+       "text": "systemy teleinformatyczne stosowane przez kwalifikowane podmioty świadczące usługi certyfikacyjne umożliwiają przeglądanie rejestrów zdarzeń co najmniej w zakresie informacji, o których mowa w pkt 2, i zapewniają uprawnionym osobom dokonującym przeglądu zawartości czytelną formę zapisów umożliwiającą ich interpretację;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_37/ust_2/pkt_4",
+       "text": "zmiany zapisów dotyczących zarejestrowanych zdarzeń są zabronione;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_37/ust_2/pkt_5",
+       "text": "system zawiera mechanizmy zapewniające zachowanie integralności rejestru zdarzeń w stopniu uniemożliwiającym ich modyfikację po przeniesieniu do archiwum.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_37/ust_3",
+     "text": "Rejestry zdarzeń dotyczące instalacji nowego oprogramowania lub jego aktualizacji, archiwizacji lub kopii zapasowych mogą być tworzone w formie innej niż elektroniczna.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_38/ust_1",
+     "text": "Kwalifikowany podmiot świadczący usługi certyfikacyjne tworzy kopie zapasowe rejestrów zdarzeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_38/ust_2",
+     "text": "Kopie zapasowe tworzy się z wykorzystaniem technik zapewniających integralność danych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_38/ust_3",
+     "text": "Przy tworzeniu kopii zapasowych powinny być obecne co najmniej dwie spośród osób, o których mowa w § 36 ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_38/ust_4",
+     "text": "Czynności Operatora Systemu polegające na tworzeniu kopii zapasowych nadzoruje bezpośrednio Inspektor Bezpieczeństwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "W celu rozpoznania ewentualnych nieuprawnionych działań Administrator Systemu i Inspektor do spraw Audytu analizują informacje, o których mowa w § 37 ust. 2 pkt 1, przynajmniej raz w każdym dniu roboczym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "Kwalifikowany podmiot świadczący usługi certyfikacyjne, archiwizując informacje:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_40/pkt_1",
+     "text": "przechowuje przez co najmniej 20 lat:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_40/pkt_1/lit_a",
+       "text": "wszystkie kwalifikowane certyfikaty i zaświadczenia certyfikacyjne, których był wydawcą,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_40/pkt_1/lit_b",
+       "text": "wszystkie listy CRL i listy unieważnionych zaświadczeń certyfikacyjnych, których był wydawcą,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_40/pkt_1/lit_c",
+       "text": "umowy o świadczenie usług certyfikacyjnych, o których mowa w art. 14 ustawy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_40/pkt_1/lit_d",
+       "text": "dokumenty, o których mowa w § 21 ust. 1 pkt 2 i 3;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_40/pkt_2",
+     "text": "przechowuje przez co najmniej 3 lata wszystkie stworzone przez siebie rejestry zdarzeń w sposób umożliwiający ich elektroniczne przeglądanie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "Kwalifikowany podmiot świadczący usługi certyfikacyjne jest obowiązany zatrudniać pracowników posiadających wiedzę, kwalifikacje i doświadczenie odpowiednie do pełnienia funkcji związanych z usługami certyfikacyjnymi, w szczególności obejmujące dziedziny:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_41/pkt_1",
+     "text": "automatycznego przetwarzania danych w sieciach i systemach teleinformatycznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_41/pkt_2",
+     "text": "mechanizmów zabezpieczania sieci i systemów teleinformatycznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_41/pkt_3",
+     "text": "kryptografii, podpisów elektronicznych i infrastruktury klucza publicznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_41/pkt_4",
+     "text": "sprzętu i oprogramowania stosowanego do elektronicznego przetwarzania danych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_42/ust_1",
+     "text": "Kwalifikowany podmiot świadczący usługi certyfikacyjne w ramach polityk certyfikacji zapewnia stosowanie środków ochrony fizycznej pomieszczeń wszędzie tam, gdzie są tworzone i używane dane służące do składania bezpiecznego podpisu lub poświadczenia elektronicznego oraz są przechowywane informacje związane z niezaprzeczalnością bezpiecznego podpisu elektronicznego weryfikowanego na podstawie wydanych przez te podmioty kwalifikowanych certyfikatów, w szczególności umowy, o której mowa w art. 14 ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_42/ust_2",
+     "text": "Środki ochrony fizycznej pomieszczeń, o których mowa w ust. 1, obejmują co najmniej instalacje systemów kontroli dostępu lub procedur kontroli wejścia, systemu ochrony przeciwpożarowej oraz systemu alarmowego włamania i napadu klasy SA3 lub wyższej, zgodnie z właściwą Polską Normą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_42/ust_3",
+     "text": "Kwalifikowany podmiot świadczący usługi certyfikacyjne wprowadza zabezpieczenia chroniące system teleinformatyczny przed zagrożeniami fizycznymi i środowiskowymi, polegające na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_42/ust_3/pkt_1",
+       "text": "fizycznej ochronie dostępu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_42/ust_3/pkt_2",
+       "text": "ochronie przed skutkami naturalnych katastrof;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_42/ust_3/pkt_3",
+       "text": "ochronie przeciwpożarowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_42/ust_3/pkt_4",
+       "text": "ochronie przed awarią infrastruktury;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_42/ust_3/pkt_5",
+       "text": "ochronie przed zalaniem wodą, kradzieżą, włamaniem i napadem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_42/ust_3/pkt_6",
+       "text": "odtwarzaniu systemu po katastrofie.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "W zakresie świadczenia usługi znakowania czasem do kwalifikowanego podmiotu świadczącego usługi certyfikacyjne nie stosuje się wymagań określonych w rozporządzeniu dotyczących zgłoszeń certyfikacyjnych, punktów rejestracji i list CRL.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "44",
+   "path": "par_44",
+   "text": "W przypadku świadczenia usługi znakowania czasem przez kwalifikowany podmiot świadczący usługi certyfikacyjne, każdy znacznik czasu wystawiony przez taki podmiot powinien zawierać identyfikator polityki certyfikacji, zgodnie z którą został wydany.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "45",
+   "path": "par_45",
+   "text": "Kwalifikowany podmiot świadczący usługi certyfikacyjne polegające na znakowaniu czasem może sprawdzać autentyczność zgłoszenia żądania usługi i nie realizować jej, gdy zgłoszenie nie odpowiada prawidłowemu formatowi lub pochodzi od osoby, która nie jest uprawniona do odbioru tej usługi lub której tożsamość nie może być potwierdzona.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "46",
+   "path": "par_46",
+   "text": "Kwalifikowany podmiot świadczący usługę znakowania czasem dołącza do każdej wysłanej w ramach tej usługi wiadomości elektronicznej niepowtarzalny numer seryjny.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "47",
+   "path": "par_47",
+   "text": "Kwalifikowany podmiot świadczący usługi certyfikacyjne polegające na znakowaniu czasem świadczy tę usługę wyłącznie za pomocą wytworzonych specjalnie dla tej usługi danych służących do składania poświadczenia elektronicznego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "48",
+   "path": "par_48",
+   "text": "Kwalifikowany podmiot świadczący usługę znakowania czasem zapisuje w rejestrach zdarzeń, o których mowa w § 37, informacje o błędach w działaniu źródła czasu, o którym mowa w § 31.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "49",
+   "path": "par_49",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_49/ust_1",
+     "text": "W Polskim Komitecie Normalizacyjnym są udostępniane następujące normy międzynarodowe:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_49/ust_1/pkt_1",
+       "text": "norma ISO/IEC 8824 — Information technology — Open Systems Interconnection — Specification of Abstract Syntax Notation One (ASN.1), wydana przez International Organization for Standardization;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_49/ust_1/pkt_2",
+       "text": "norma ISO/IEC 15946-2 — Information technology — Security techniques — Cryptographic techniques based on elliptic curves — Part 2: Digital signatures, do wydania przez International Organization for Standardization;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_49/ust_1/pkt_3",
+       "text": "norma ISO/IEC 9594-8 — Information technology — Open Systems Interconnection — The Directory: Authentication framework;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_49/ust_1/pkt_4",
+       "text": "norma ISO/IEC 15408 — Information technology — Security techniques — Evaluation criteria for IT security, wydana przez International Organization for Standardization;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_49/ust_1/pkt_5",
+       "text": "norma PN-ISO/IEC 9834 — Technika informatyczna — Współdziałanie systemów otwartych — Procedury organów rejestracji OSI;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_49/ust_1/pkt_6",
+       "text": "norma PN-EN 45014 — Ogólne kryteria deklaracji zgodności składanej przez dostawcę;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_49/ust_1/pkt_7",
+       "text": "norma ISO 3166 — Codes for the representation of countries and their subdivisions;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_49/ust_1/pkt_8",
+       "text": "norma ISO/IEC 4217 — Codes for representation of currencies and funds.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_49/ust_2",
+     "text": "W siedzibie ministerstwa obsługującego ministra właściwego do spraw gospodarki są udostępniane następujące międzynarodowe normy, standardy, zalecenia, raporty i specyfikacje techniczne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_49/ust_2/pkt_1",
+       "text": "norma ANSI X9.17 — Financial Institution Key Management (Wholesale), wydana przez American National Standards Institute;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_49/ust_2/pkt_2",
+       "text": "ITSEC v 1.2 wydany przez Komisję Europejską, Dyrektoriat XIII/F, w 1991 r.;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_49/ust_2/pkt_3",
+       "text": "specyfikacja techniczna ETSI TS 101 733 — Electronic Signature Format, wydana przez European Telecommunications Standards Institute;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_49/ust_2/pkt_4",
+       "text": "specyfikacja techniczna ETSI TS 101 903 — XML Advanced Electronic Signatures (XAdES), wydana przez European Telecommunications Standards Institute;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_49/ust_2/pkt_5",
+       "text": "dokument PKCS#7 Cryptographic Message Syntax Standard, wydany przez RSA Security;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_49/ust_2/pkt_6",
+       "text": "specyfikacja techniczna ETSI TS 101 861 — Time Stamping Profile, wydana przez European Telecommunications Standards Institute;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_49/ust_2/pkt_7",
+       "text": "zalecenie ITU-T Recommendation X.509 — Information technology — Open Systems Interconnection — The Directory: Public-key and attribute certificate frameworks, wydane również jako norma międzynarodowa ISO/IEC 9594-8 — Information technology — Open Systems Interconnection — The Directory: Authentication framework;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_49/ust_2/pkt_8",
+       "text": "norma FIPS PUB 140 Security Requirements for Cryptographic Modules, wydana przez National Institute of Standards and Technology.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Przepis końcowy"
+  },
+  {
+   "type": "par",
+   "num": "50",
+   "path": "par_50",
+   "text": "Rozporządzenie wchodzi w życie z dniem 16 sierpnia 2002 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: w z. M. Pol"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Rady Ministrów z dnia 7 sierpnia 2002 r. (poz. 1094) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ ALGORYTMÓW SZYFROWYCH I FUNKCJI SKRÓTU WYKORZYSTYWANYCH DO TWORZENIA BEZPIECZNYCH PODPISÓW ELEKTRONICZNYCH I POŚWIADCZEŃ ELEKTRONICZNYCH"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 11 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE KWALIFIKOWANEGO CERTYFIKATU I ZAŚWIADCZENIA CERTYFIKACYJNEGO ORAZ LISTY UNIEWAŻNIONYCH I ZAWIESZONYCH CERTYFIKATÓW"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 12 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Uniqueldentifier ::= BIT STRING"
+    },
+    {
+     "type": "ocr",
+     "text": "SubjectPublickeylnfo ::= SEQUENCE f algorithm Algorithmidentifier, subjectPubl ickey BIT STRING }"
+    },
+    {
+     "type": "ocr",
+     "text": "Extensions ::= SEQUENCE SIZE (1..MAX) OF Extension"
+    },
+    {
+     "type": "ocr",
+     "text": "Extension ::= SEQUENCE { extnID OBJECT IDENTIFIER, critical BOOLEAN DEFAULT FALSE, extnvalue OCTET STRING }"
+    },
+    {
+     "type": "ocr",
+     "text": "W skład profilu kwalifikowanego certyfikatu muszą obligatoryjnie wejść pola: version, serialNumber, signature, issuer, validity, subject, subjectPublickeylnfo, signatureAlgorithm, signaturevalue oraz następujące rozszerzenia (extensions): keyUsage, certificatePolicies i basicConstraints. Pola: issuerUniqueID oraz subjectUniqueID nie powinny być uzywane."
+    },
+    {
+     "type": "ocr",
+     "text": "1.1 Pole treści certyfikatu Pole tbsCertificate zawiera nazwy wydawcy certyfikatu, nazwy użytkownika certyfikatu, klucz publiczny podmiotu, okres ważności certyfikatu oraz inne informacje pomocnicze, w tym rozszerzenia. Ich typy oraz interpretacje przedstawiono poniżej."
+    },
+    {
+     "type": "ocr",
+     "text": "1.1.1 Wersja certyfikatu (version) Wartość pola powiana wynosić 2, wskazując że numerem wersji certyfikatu jest v3."
+    },
+    {
+     "type": "ocr",
+     "text": "1.1.2 Numer seryjny (serialNumber) Numer setyjny musi być unikalny dla wszystkich certyfikatów wydanych przez dany podmiot świadczący usługi certyfikacyjne."
+    },
+    {
+     "type": "ocr",
+     "text": "1.1.3 Algorytm podpisu (signature) Pole zawiera identyfikator oraz opcjonalnie parametry algorytmu stosowanego przez kwalifikowany podmiot świadczący usługi certyfikacyjne do poświadczania elektronicznego certyfikatu. Pole to ma postać:"
+    },
+    {
+     "type": "ocr",
+     "text": "Algorithmidentifier ::= SEQUENCE f algorithm OBJECT IDENTIFIER, parameters ANY DEFINED BY algorithm OPTIONAL }"
+    },
+    {
+     "type": "ocr",
+     "text": "Pole algorithm może przyjmować przynajmniej następujące dopuszczalne wartości:"
+    },
+    {
+     "type": "ocr",
+     "text": "Identyfikator Sha- { iso( 1 ) member-body(2) US(840) rsadsi(1 13549) pkcs(1) 1 5 } 1 WithRSAEncryption"
+    },
+    {
+     "type": "ocr",
+     "text": "Ecdsa-with-shal { iso(1) member-body(2) us(840) ansi-X9-62(10045) signatures(4) 1 }"
+    },
+    {
+     "type": "ocr",
+     "text": "1.1.4 Wydawca (issuer) Pole zawiera identyfikator wyróżniający podmiotu świadczącego usługi certyfikacyjne, który wydał certyfikat."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Name ::= CHOICE { rdnSequence RDNSequence }"
+    },
+    {
+     "type": "ocr",
+     "text": "RDNSequence ::= SEQUENCE OF RelativeDistinguishedName"
+    },
+    {
+     "type": "ocr",
+     "text": "RelativeDistinguishedName ::= SET OF AttributeTypeAndvalue"
+    },
+    {
+     "type": "ocr",
+     "text": "AttributeTypeAndvalue ::= SEQUENCE f type AttributeType, value Attributevalue }"
+    },
+    {
+     "type": "ocr",
+     "text": "AttributeType ::= OBJECT IDENTIFIER"
+    },
+    {
+     "type": "ocr",
+     "text": "Attributevalue ::= ANY"
+    },
+    {
+     "type": "ocr",
+     "text": "DirectoryString ::= CHOICE { printableString PrintableString, utf8String UTF8String, bmpString BMPString }"
+    },
+    {
+     "type": "ocr",
+     "text": "id-at AttributeType ::= (joint-iso-ccitt(2) ds(5) 4}"
+    },
+    {
+     "type": "ocr",
+     "text": "Pole RelativeDistinguishedName może występować wielokrotnie w certyfikacie, ale definiujący go zbiór argumentów jest zawsze zbiorem jednoelementowym i element jest typu AttributeTypeAndValue. Przy takim założeniu wielokrotne wystąpienie pola RelativeDistinguishedName jest równoznaczne wieloktotnemu użyciu elementów typu Attribute TypeAndValue."
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa wydawcy jest jego unikalną nazwą wyróżniającą. W przypadku kwalifikowanego podmiotu świadczącego usługi certyfikacyjne, nazwa wydawcy powinna zawierać oficjalnie zarejestrowaną nazwę organizacji."
+    },
+    {
+     "type": "ocr",
+     "text": "W celu jednoznacznej identyfikacji wydawcy certyfikatu przyjmuje się, że nazwa musi być zbudowana przy użyciu podzbioru następujących atrybutów, przy czym atrybuty typu „nazwa kraju”, „nazwa organizacji” muszą wystąpić oraz należy zawrzeć informacje o numerze wpisu w rejestrze kwalifikowanych podmiotów świadczących usługi certyfikacyjne za pomocą atrybutu typu „numer seryjny” lub „nazwa powszechna”:"
+    },
+    {
+     "type": "ocr",
+     "text": "¢ nazwa kraju (ang. coaniryName), * nazwa organizacji (ang. organizationName), + numer seryjny (ang. seria/ Number), » nazwa województwa (ang. stateOrProvinceName), * nazwa miejscowości (ang. /ocalityName), » nazwa powszechna (ang. commonName) * nazwa domeny (ang. domainComponeni)."
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa kraju określa kraj, w którym ma siedzibę wydawca certyfikatu. Składnia oraz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-at-countryName OBJECT IDENTIFIER ::= {id-at 6} X520countryName ::= PrintableString (SIZE (2)) — kod wg ISO 3166 (dla Polski PL)"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa organizacji opisuje nazwę przybraną przez wydawcę certyfikatów; nazwa ta powinna odpowiadać oficjalnej nazwie prawnej, pod którą funkcjonuje wydawca na rynku. Składnia oraz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-at-organizationName OBJECT IDENTIFIER ::= d-at 10) ub-organization-name INTEGER ::= x5200rganizationName ::= CHOICE { printableString PrintableString (SIZE (1..ub-organization-name) ),"
+    },
+    {
+     "type": "ocr",
+     "text": "li 64"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "utf8String UTF8String (SIZE (1..ub-organization-name)), bmpString BMPString (SIZE(1..ub-organization-name) ) }"
+    },
+    {
+     "type": "ocr",
+     "text": "Numer setyjny - zawiera numer wpisu w rejestrze kwalifikowanych podmiotów świadczących usługi certyfikacyjne."
+    },
+    {
+     "type": "ocr",
+     "text": "Składnia oraz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-at-serialNumber OBJECT IDENTIFIER 3:5 {id-at 5) ub-serial-number INTEGER ::= 64 serialNumber ::= PrintableString (SIZE (1..ub-serial-number))"
+    },
+    {
+     "type": "ocr",
+     "text": "Wartość wpisu musi być zapisana jako ciąg znaków w postaci: | Nr wpisu: <wartosé wpisu>"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa województwa okteśla nazwę województwa, w którym siedzibę ma wydawca certyfikatów. Składnia oraz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-at-stateOrProvinceName OBJECT IDENTIFIER ::= {id-at 8} ub-state-name INTEGER = 128 X520StateOrProvinceName ::= CHOICE { printableString PrintableString (SIZE (1..ub-state-name)), ut f£8String UTF8String (SIZE (1..ub-state-name)), bmpString BMPString (SIZE(1..ub-state-name)) }"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa miejscowości okteśla miejscowość, w której siedzibę ma wydawca certyfikatów. Składnia oraz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-at-localityName OBJECT IDENTIFIER ::= (id-at 7) ub-locality-name INTEGER ::= 128 x520LocalityName ::= CHOICE { printableString PrintableString (SIZE (1..ub-locality-name) ), utf8String UTF8String (SIZE (1..ub-locality-name)), bmpString BMPString (SIZE(1..ub-locality-name) ) }"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa powszechna zawiera nazwę wydawcy, pod którą jest on znany w pewnym okteślonym środowisku, np. w kraju, na świecie, oraz opcjonalnie numer wpisu w rejestrze kwalifikowanych podmiotów świadczących usługi certyfikacyjne. Składnia oraz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-at-commonName AttributeType ::= [id-at 3) ub-common-name INTEGER = 64 X520CommonName ::= CHOICE [ printableString PrintableString (SIZE (1..ub-common-name)), utf8String UTF8String (SIZE (1..ub-common-name)), bmpString BMPString (SIZE(1..ub-common-name) ) }"
+    },
+    {
+     "type": "ocr",
+     "text": "Jeśli pole nie zawiera atrybutu serialNumber, to na wartość tego atrybutu składają się ciągi znaków reprezentujące w kolejności nazwę wydawcy i numer wpisu, oddzielone średnikiem."
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa domeny — atrybut zawierający nazwę wykorzystywaną do identyfikacji obiektów w katalogu X.500 dostępnego za pomocą protokołu LDAP."
+    },
+    {
+     "type": "ocr",
+     "text": "id-domainComponent OBJECT IDENTIFIER ::= ( 0 9 2342 19200300 100 1 25 }"
+    },
+    {
+     "type": "ocr",
+     "text": "DomainComponent ::= IA5String"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "W certyfikatach wydawanych po 31 grudnia 2003 r. wartości atrybutów opartych na DirectoryString powinny być kodowane jako UTF8String. Do tego czasu wartości tych atrybutów powinny być kodowane:"
+    },
+    {
+     "type": "ocr",
+     "text": "« jako PrintableString lub UTF8String, jeśli możliwa jest reprezentacja wartości atrybutu w ramach PrintableString, » jako BMPString lub UTF8String w pozostałych przypadkach."
+    },
+    {
+     "type": "ocr",
+     "text": "1.1.5 Okres ważności certyfikatu (validity) Pole zawiera oznaczenie początku i końca okresu ważności certyfikatu. Pole reprezentowane jest jako ciąg dwóch dat: daty początku ważności certyfikatu (notBefore) oraz daty końca ważności certyfikatu (notAfter). Przyjmuje się, iż zarówno notBefote, jak 1 notAfter będą kodowane zgodnie z typem Generalized Time."
+    },
+    {
+     "type": "ocr",
+     "text": "Przyjmuje się, że daty ważności do toku 2049 są kodowane w formacie UTCTime, począwszy zaś od 1 stycznia 2050 r. — w formacie Generalized Time."
+    },
+    {
+     "type": "ocr",
+     "text": "Validity ::= SEQUENCE ft notBefore \"Time, notAfter Time }"
+    },
+    {
+     "type": "ocr",
+     "text": "Time ::= CHOICE { utcTime UTCTime, generalTime GeneralizedTime }"
+    },
+    {
+     "type": "ocr",
+     "text": "Daty początku i końca ważności powinny być zapisywane w postaci UTCTime, jeśli nie przekraczają roku 2049. Daty rozpoczynające się lub przekraczające rok 2050 powinny być zapisywane przy użyciu GeneralizedTime."
+    },
+    {
+     "type": "ocr",
+     "text": "Daty początku i końca powinny być wyrażone w GMT oraz powinny zawierać pole sekund, nawet jeśli liczba sekund wynosi 0. Wartości zapisywane jako GeneralizedTime nie powinny zawierać ułamków sekund."
+    },
+    {
+     "type": "ocr",
+     "text": "Interpretacja dwucyfrowego sposobu zapisu roku w UTCTime (pola YY) jest następująca:"
+    },
+    {
+     "type": "ocr",
+     "text": "'« jeśli YY jest większe lub równe 50, to rok powinien być interpretowany jako 19YY; »« jeśli YY jest mniejsze niż 50, to rok powinien być interpretowany jako 20YY."
+    },
+    {
+     "type": "ocr",
+     "text": "1.1.6 Właściciel certyfikatu (subject) Pole identyfikatora podmiotu subject umożliwia zidentyfikowanie podmiotu związanego z kluczem publicznym, umieszczonym w polu klucza publicznego wydanego certyfikatu. Nazwa podmiotu umieszczona jest w tym polu lub w polu subjectAltName."
+    },
+    {
+     "type": "ocr",
+     "text": "Pole subject musi zawierać niepustą nazwę wyróżniającą podmiotu. Zawiera niektóre lub wszystkie atrybuty zawarte w następującym zbiorze atrybutów:"
+    },
+    {
+     "type": "ocr",
+     "text": "nazwa kraju (ang. countryName), nazwa powszechna (ang. commonName), nazwisko (ang. surename), imię (imiona) (ang. given Nase), numer seryjny (ang. seria/Numben), organizacja (ang. organizationName), jednostka organizacyjna (ang. organżzaliona/U nit Name), województwo (ang. stateOrProvinceName), nazwa miejscowości (ang. /ocality Name), adres (ang. postalAddress), * pseudonim (ang. psedonym)."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa podmiotu utworzona w oparciu o podzbiór powyższych atrybutów musi być unikalna w obtębie domeny kwalifikowanego podmiotu świadczącego usługi certyfikacyjne."
+    },
+    {
+     "type": "ocr",
+     "text": "Certyfikaty mogą być wydawane różnym kategoriom osób fizycznych:"
+    },
+    {
+     "type": "ocr",
+     "text": "kategoria I zawiera przynajmniej następujące atrybuty: nazwa kraju, nazwisko, imię (imiona), numer seryjny,"
+    },
+    {
+     "type": "ocr",
+     "text": "kategoria II zawiera przynajmniej następujące atrybuty: nazwa kraju, nazwa powszechna, numer setyjny,"
+    },
+    {
+     "type": "ocr",
+     "text": "kategoria III zawiera przynajmniej następujące atrybuty: nazwa kraju i pseudonim,"
+    },
+    {
+     "type": "ocr",
+     "text": "Atrybuty wchodzące w skład nazwy podmiotu należy interpretować następująco:"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa kraju — składnia oraz OID tego atrybutu opisane są w pkt 1.1.4."
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa własna — składnia oraz OID tego atrybutu opisane są w pkt 1.1.4."
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwisko określa nazwisko (plus ewentualnie nazwisko rodowe lub nazwisko po mężu) podmiotu, zgodnie z informacją wpisaną w dowodzie osobistym lub paszporcie. Składnia oraz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-at-surname AttributeType := {id-at 4} ub-surname-length INTEGER ::= 40 X520SurName ::= CHOICE ( printableString PrintableString (SIZE (1.. ub-surname-length)), utf8String UTF8String (SIZE (1.. ub-surname-length)), bmpString BMPString (SIZE(1.. ub-surname-length)) |"
+    },
+    {
+     "type": "ocr",
+     "text": "Imię (imiona) okteśla imię (imiona) podmiotu, zgodnie z informacją wpisaną w dowodzie osobistym lub paszporcie. Składnia oraz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-at-givenname AttributeType 225 {id-at 42} ub-given-name-length INTEGER ::= 16 X520GivenName ::= CHOICE { printableString PrintableString (SIZE (1.. ub-given-namelength)), utf8String UTF8String (SIZE (1.. ub-given-name-length)), bmpString BMPString (SIZE(1.. ub-given-name-length) ) }"
+    },
+    {
+     "type": "ocr",
+     "text": "Numer seryjny - składnia oraz OID tego atrybutu opisane są w pkt 1.1.4, zawiera tylko PESEL lub NIP podmiotu."
+    },
+    {
+     "type": "ocr",
+     "text": "Wartość NIP musi być zapisana jako ciąg znaków w postaci: | NIP: <wartość NIP> Wartość PESEL musi być zapisana jako ciąg znakow w postaci: | PESEL: <wartość PESEL>."
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa organizacji, z którą właściciel certyfikatu jest związany. Składnia oraz OID tego atrybutu opisane są w pkt 1.1.4."
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa jednostki organizacyjnej, z którą właściciel certyfikatu jest związany."
+    },
+    {
+     "type": "ocr",
+     "text": "Składnia otaz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-at-organizationalUnitName AttributeType ::= {id-at 11} ub-organizational-unit-name-length INTEGER ::= 32 X5200rganizationalUnitName ::= CHOICE ["
+    },
+    {
+     "type": "note",
+     "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "printableString PrintableString (SIZE (1..ub-organizational-unit-name)), utf8String UTF8String (SIZE (1..ub-organizational-unit-name)), bmpString BMPString (SIZE(1..ub-organizational-unit-name)) }"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa województwa - składnia oraz OID tego atrybutu opisane są w pkt 1.1.4."
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa miejscowości - składnia oraz OID tego atrybutu opisane są w pkt 1.1.4."
+    },
+    {
+     "type": "ocr",
+     "text": "Adres — określa adres pocztowy. Składnia oraz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-at- postalAddress AttributeType 3 {id-at 16} ub-postal-line INTEGER ::= 6 ub-postal-string INTEGER ::= 30 X520PostalAddress ::= SEQUENCE SIZE (1..ub-postal-line) OF CHOICE ( printableString PrintableString (SIZE (1.. 1..ub-postal-string)), utf8String UTF8String (SIZE (1.. ub-postal-string)), bmpString BMPString (SIZE(1.. ub-postal-string)) }"
+    },
+    {
+     "type": "ocr",
+     "text": "Pseudonim określa nazwę, pod którą znany jest podmiot w swoim środowisku lub którą chce się posługiwać bez ujawnienia swojego prawdziwego imienia i nazwiska. Składnia oraz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-at-pseudonym AttributeType 235 {id-at 65} ub-pseudonym INTEGER ::= 128 X520Pseudonym ::= CHOICE [ printableString PrintableString (SIZE (1.. ub-pseudonym)), utf8String UTF8String (SIZE (L.. ub-pseudonym)), bmpString BMPString (SIZE(1.. ub-pseudonym)) }"
+    },
+    {
+     "type": "ocr",
+     "text": "Użycie pseudonimu wyklucza możliwość jednoczesnego włączenia imienia lub nazwiska."
+    },
+    {
+     "type": "ocr",
+     "text": "Jeśli nazwa organizacji zostanie włączona do nazwy podmiotu, to jednocześnie muszą być użyte atrybuty: nazwa województwa, nazwa miejscowości i adtes, które wtedy będą dotyczyły tej organizacji."
+    },
+    {
+     "type": "ocr",
+     "text": "W certyfikatach wydawanych po 31 grudnia 2003 r. wartości atrybutów opartych na DirectoryString powinny być kodowane jako UTF8String. Do tego czasu wartości tych atrybutów powinny być kodowane:"
+    },
+    {
+     "type": "ocr",
+     "text": "« jako PrintableString lub UTFS8String, jeśli możliwa jest reprezentacja wattości atrybutu w ramach PrintableString, » jako BMPString lub UTF8String w pozostałych przypadkach."
+    },
+    {
+     "type": "ocr",
+     "text": "1.1.7 Klucz publiczny podmiotu (subjectPublicKeylnfo) Pole zawiera wartość klucza publicznego (dane służące do weryfikacji podpisu elektronicznego) wraz z identyfikatorem algorytmu, z którym stowarzyszony jest klucz. Algorytm identyfikowany jest w oparciu o struktutę AlgorithmIdentifier, przedstawioną w pkt 1.1.3."
+    },
+    {
+     "type": "ocr",
+     "text": "SubjectPublicKkeylnfo ::= SEQUENCE { algorithm AlgorithmIdentifier, subjectPublickey BIT STRING }"
+    },
+    {
+     "type": "ocr",
+     "text": "Dla algorytmu RSA klucz publiczny kodowany jest jako typ RSAPublicKey:"
+    },
+    {
+     "type": "ocr",
+     "text": "RSAPublicKey ::= SEQUENCE { modulus INTEGER, -- n publ icExponent INTEGER -- e — }"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 19 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Dla algorytmu DSA, o którym mowa w pkt 1.1.3, kodowany jest jako typ INTEGER."
+    },
+    {
+     "type": "ocr",
+     "text": "Parametry grupy dla algorytmu DSA są zapisywane w strukturze AlgorithmIdentifier obiektu SubjectPublicKeylnfo w postaci:"
+    },
+    {
+     "type": "ocr",
+     "text": "Dss-Parms ::= SEQUENCE [ Pp INTEGER, q INTEGER, g INTEGER }"
+    },
+    {
+     "type": "ocr",
+     "text": "Dopuszczalne są następujące identyfikatoty algorytmów dla zdefiniowanych powyżej kluczy publicznych:"
+    },
+    {
+     "type": "ocr",
+     "text": "Identyfikator RsaEncryption 4 iso(1) member-body(2) us(840) rsadsi(113549) pkcs(1) pkcs- 1(1) 1} { iso(1) member-body(2) us(840) x9-57(10040) x9cm(4) 1 )"
+    },
+    {
+     "type": "ocr",
+     "text": "W przypadku innych typów kluczy publicznych, ich struktura zapisu oraz identyfikatory algorytmów muszą zostać jednoznacznie okteślone przez kwalifikowany podmiot świadczący usługi certyfikacyjne 1 udostępnione nieodpłatnie odbiorcy usług certyfikacyjnych na jego wniosek."
+    },
+    {
+     "type": "ocr",
+     "text": "1.1.8 Unikalny identyfikator wystawcy (issuerUniqueldentifier) Pole nie powinno występować."
+    },
+    {
+     "type": "ocr",
+     "text": "1.1.9 Unikalny identyfikator właściciela (subjectUniqueldentifier) Pole nie powinno występować."
+    },
+    {
+     "type": "ocr",
+     "text": "1.1.10 Pola rozszerzeń certyfikatu X.509 v3 Rozszerzenia zdefiniowane w certyfikatach wg zalecenia X.509 v3 umożliwiają przypisanie dodatkowych atrybutów podmiotowi lub kluczowi publicznemu oraz ułatwiają zarządzanie hierarchiczną strukturą certyfikatów."
+    },
+    {
+     "type": "ocr",
+     "text": "Certyfikaty wg zalecenia X.509 v3 umożliwiają także definiowanie własnych rozszerzeń, specyficznych dla zastosowań danego systemu. Każde takie rozszerzenie musi być oznaczone jako krytyczne lub niekrytyczne. Bezpieczne urządzenie do składania i weryfikacji podpisów elektronicznych musi odrzucić każdy certyfikat, w którym po napotkaniu krytycznego rozszerzenia nie będzie w stanie go rozpoznać; z kolei każde niekrytyczne rozszerzenie może być ignorowane."
+    },
+    {
+     "type": "ocr",
+     "text": "Pole rozszerzeń certyfikatu jest sekwencją jednego lub kilku rozszerzeń. Format oraz zawartość rozszerzeń, stosowanych w kwalifikowanych certyfikatach, ma postać:"
+    },
+    {
+     "type": "ocr",
+     "text": "Extensions ::= SEQUENCE SIZE (1..MAX) OF Extension"
+    },
+    {
+     "type": "ocr",
+     "text": "Extension ::= SEQUENCE { extnID OBJECT IDENTIFIER, critical BOOLEAN DEFAULT FALSE, extnvalue OCTET STRING }"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 20 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Zdefiniowano następujące rozszerzenia standardowe i niestandardowe:"
+    },
+    {
+     "type": "ocr",
+     "text": "rozszerzenia standardowe: » authorityKeyldentifier © subjectKeyldentifier © RkeyUsage » extKeyUsage » certificatePolicies © subject AltName © basicConstraints » subjectDirectoryA tiributes"
+    },
+    {
+     "type": "ocr",
+     "text": "rozszerzenia niestandardowe: » biometriclnfo » gtStatements"
+    },
+    {
+     "type": "ocr",
+     "text": "1.2 Rozszerzenia standardowe"
+    },
+    {
+     "type": "ocr",
+     "text": "1.2.1 Identyfikator klucza wydawcy (authorityKeyldentifier) Rozszerzenie to identyfikuje klucz publiczny służący do weryfikacji wydanego certyfikatu. W związku z tym, że wydawca może posiadać więcej niż jeden klucz publiczny, nawet w ramach tej samej polityki certyfikacji, np. w momencie zmiany klucza na nowy, pole to ułatwia jednoznaczną identyfikację klucza. Identyfikacja ta bazuje na nazwie wydawcy (pole issuer) oraz numerze seryjnym certyfikatu (pole serialNumber) lub identyfikatorze klucza wydawcy."
+    },
+    {
+     "type": "ocr",
+     "text": "id-ce OBJECT IDENTIFIER ::= {joint~-iso-ccitt(2) ds(5) 29}"
+    },
+    {
+     "type": "ocr",
+     "text": "id-ce-authorityKeyldentifier OBJECT IDENTIFIER 225 { id-ce 35 } Authoritykeyldentifier ::= SEQUENCE { keyIdentifier [0] KeyIdentifier OPTIONAL, authorityCertIssuer [1] GeneralNames OPTIONAL , authoritycertserialNumber [2] CertificateSerialNumber OPTIONAL }"
+    },
+    {
+     "type": "ocr",
+     "text": "KeyIdentifier ::= OCTET STRING"
+    },
+    {
+     "type": "ocr",
+     "text": "GeneralNames ::= SEQUENCE SIZE (1..MAX) OF GeneralName"
+    },
+    {
+     "type": "ocr",
+     "text": "GeneralName ::= CHOICE [{ otherName [0] OtherName, rfc822Name [1] IA5String, dNSName [2] IA5String, x400Address [3] ORAddress, directoryName [4] Name, ediPartyName [5] EDIPartyName, uniformResourceldentifier [6] IA5String, iPAddress [7] OCTET STRING, registeredID [8] OBJECT IDENTIFIER }"
+    },
+    {
+     "type": "ocr",
+     "text": "Pole keyldentifier struktury AuthorityKeyldentifier dołączane jest do każdego certyfikatu tworzonego przez kwalifikowany podmiot świadczący usługi certyfikacyjne i wykorzystywane jest do budowania ścieżki certyfikatów. W przypadku podmiotu, tozpowszechniającego swój klucz w postaci certyfikatu z własnym poświadczeniem (tzw. autocettyfikatu), pole AuthorityKeyldentifier może być pominięte."
+    },
+    {
+     "type": "ocr",
+     "text": "Rozszerzenie nie może być oznaczane jako ktytyczne."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 21 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "1.2.2 Identyfikator klucza podmiotu (subjectKeyldentifier) Rozszerzenie to umożliwia identyfikację zaświadczeń certyfikacyjnych, które zawierają określony klucz publiczny podmiotu."
+    },
+    {
+     "type": "ocr",
+     "text": "W celu ułatwienia budowy ścieżki certyfikacji rozszerzenie to powinno wystąpić ewentualnie tylko w zaświadczeniach certyfikacyjnych, gdzie wartość cA jestrówna TRUE."
+    },
+    {
+     "type": "ocr",
+     "text": "id-ce-subjectKeyIdentifier OBJECT IDENTIFIER ::= { id-ce 14 } SubjectKeyIdentifier ::= KeyIdentifier"
+    },
+    {
+     "type": "ocr",
+     "text": "Rozszerzenie nie powinno występować w certyfikatach."
+    },
+    {
+     "type": "ocr",
+     "text": "1.2.3 Sposób wykorzystania klucza podmiotu (keyUsage) Rozszerzenie to określa sposób wykorzystania klucza, np. klucz do zapewnienia poufności, klucz do wymiany kluczy, klucz do podpisywania itp. Dopuszczalne są kombinacje różnych zastosowań tego samego klucza. Nie wszystkie możliwe kombinacje bitów są jednak dozwolone. Wybór dozwolonych kombinacji bitów jest w szczególności uzależniony od typu algorytmu klucza publicznego."
+    },
+    {
+     "type": "ocr",
+     "text": "id-ce-keyUsage OBJECT IDENTIFIER ::= { id-ce 15 ) KeyUsage ::= BIT STRING f digitalSignature (0), -- klucz do realizacji podpisu elektronicznego nonRepudiation (1), -- klucz związany z realizacją usług -- niezaprzeczalnosci keyEncipherment (2), -- klucz do wymiany kluczy dataEncipherment (3), -- klucz do szyfrowania danych keyAgreement (4), -- klucz do uzgadniania kluczy keycertSign (5), -- klucz do podpisywania certyfikatów i zaświadczeń certyfikacyjnych cRLSign (6), -- klucz do podpisywania list CRL encipheronly (7), -- klucz tylko do szyfrowania decipheronly (8) -- klucz tylko do deszyfrowania }"
+    },
+    {
+     "type": "ocr",
+     "text": "Użycie poszczególnych bitów w polu keyUsage musi być zgodne z następującymi zasadami (ustawiony bit oznacza odpowiednio):"
+    },
+    {
+     "type": "ocr",
+     "text": "a) digitalSignature: przeznaczenie certyfikatu do realizacji usługi uwierzytelnienia za pomocą podpisu cyfrowego w innych celach niż określone w pkt b, f 1g;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) nonRepudiation: przeznaczenie certyfikatu dla zapewnienia usługi niezaptzeczalności przez osoby fizyczne, ale jednocześnie dla innego celu niż określony w pkt f i g. Bit nonRepudiation może być ustawiony tylko w kwalifikowanych certyfikatach kluczy publicznych użytkowników służących do weryfikacji bezpiecznych podpisów elektronicznych i nie może być łączony z innymi przeznaczeniami, w tym w szczególności, o których mowa w pkt c-e związanych z zapewnieniem poufności,"
+    },
+    {
+     "type": "ocr",
+     "text": "c) keyEncipherment: do szyfrowania kluczy algorytmow symettycznych zapewniających poufność danych,"
+    },
+    {
+     "type": "ocr",
+     "text": "d) dataEncipherment: do szyfrowania danych użytkownika, innych niż określone w pkt c i e;"
+    },
+    {
+     "type": "ocr",
+     "text": "e) keyAgteement: do protokołów uzgadniania klucza,"
+    },
+    {
+     "type": "ocr",
+     "text": "f) keyCertSign: klucz publiczny jest używany do weryfikacji poświadczeń elektronicznych w certyfikatach i zaświadczeniach certyfikacyjnych wydanych przez kwalifikowany podmiot świadczący usługi certyfikacyjne,"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "g) cRLSign: klucz publiczny jest używany do weryfikacji poświadczeń elektronicznych w listach unieważnionych 1 zawieszonych certyfikatów oraz listach unieważnionych i zawieszonych zaświadczeń certyfikacyjnych wydanych przez kwalifikowany podmiot świadczący usługi certyfikacyjne,"
+    },
+    {
+     "type": "ocr",
+     "text": "h) encipherOnly: może być użyty tylko z bitem keyAgreement do wskazania, że służy tylko do szyfrowania danych w protokołach uzgadniania klucza,"
+    },
+    {
+     "type": "ocr",
+     "text": "i) decipherOnly: może być użyty tylko z bitem keyAgreement do wskazania, że służy tylko do odszyftowania danych w protokołach uzgadniania klucza."
+    },
+    {
+     "type": "ocr",
+     "text": "Brak ustawienia jakiegokolwiek z powyższych bitów oznacza użycie certyfikatu w innym celu, niż okteślony w pkt a-1."
+    },
+    {
+     "type": "ocr",
+     "text": "Rozszerzenie jest krytyczne."
+    },
+    {
+     "type": "ocr",
+     "text": "1.2.4 Rozszerzenie precyzujące obszar zastosowania certyfikatu (extKeyUsage) Pole to należy interpretować jako zawężenie dopuszczalnego obszaru zastosowania klucza, określonego w polu keyUsage."
+    },
+    {
+     "type": "ocr",
+     "text": "Rozszerzenie to jest krytyczne, co oznacza, że certyfikat musi być stosowany tylko zgodnie ze wskazanym obszarem zastosowania."
+    },
+    {
+     "type": "ocr",
+     "text": "id-ce-extKeyUsage OBJECT IDENTIFIER ::= {id-ce 37}"
+    },
+    {
+     "type": "ocr",
+     "text": "ExtKeyUsageSyntax ::= SEQUENCE SIZE (1..MAX) OF KeyPurposeld KeyPurposeId ::= OBJECT IDENTIFIER"
+    },
+    {
+     "type": "ocr",
+     "text": "W szczegolnosci zdefiniowano nastepujacy obszar zastosowania:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-pkix OBJECT IDENTIFIER ::= { iso(1) identified-organization(3) dod(6) internet(1) security(5) mechanisms(5) pkix(7) }"
+    },
+    {
+     "type": "ocr",
+     "text": "id-kp OBJECT IDENTIFIER ::= { id-pkix 3 } id-kp-dvcs OBJECT IDENTIFIER ::= (id-kp 10} -- podpisywanie dokumentów elektronicznych przez urząd notarialny w oparciu o -- protokół DVCS; bity pola keyUsage, które są zgodne z tym polem: -- digitalSignature"
+    },
+    {
+     "type": "ocr",
+     "text": "1.2.5 Polityka certyfikacji (certificatePolicies) Rozszerzenie określające polityki certyfikacji zawiera sekwencję jednej lub wielu polityk określających warunki świadczenia usług certyfikacyjnych przez kwalifikowany podmiot."
+    },
+    {
+     "type": "ocr",
+     "text": "id-ce-certificatePolicies OBJECT IDENTIFIER ::= { id-ce 32 } anyPolicy OBJECT IDENTIFIER ::= {id-ce-certificate-policies 0}"
+    },
+    {
+     "type": "ocr",
+     "text": "CertificatePolicies ::= SEQUENCE SIZE (1..MAX) OF PolicyInformation"
+    },
+    {
+     "type": "ocr",
+     "text": "PolicyInformation ::= SEQUENCE { policyIdentifier CertPolicy!rd, policyQualifiers SEQUENCE SIZE (1..MAX) OF PolicyQualifierInfo OPTIONAL }"
+    },
+    {
+     "type": "ocr",
+     "text": "CertPolicyId ::= OBJECT IDENTIFIER"
+    },
+    {
+     "type": "ocr",
+     "text": "PolicyqualifierInfo ::= SEQUENCE { policyQualifierId PolicyQualifierId, qualifier ANY DEFINED BY policyQualifiertd }"
+    },
+    {
+     "type": "ocr",
+     "text": "id-qt OBJECT IDENTIFIER ::= { id-pkix 2 } id-qt-cps OBJECT IDENTIFIER ::= { id-qt 1 } id-qt-unotice OBJECT IDENTIFIER ::= { id-qt 2 }"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "PolicyQualifierId ::= OBJECT IDENTIFIER ( id-qt-cps | id-qt-unotice )"
+    },
+    {
+     "type": "ocr",
+     "text": "Qualifier ::= CHOICE { cPSuri CPSuri, userNotice UserNotice }"
+    },
+    {
+     "type": "ocr",
+     "text": "CPSuri ::= IA5String"
+    },
+    {
+     "type": "ocr",
+     "text": "UserNotice ::= SEQUENCE f noticeRef NoticeReference OPTIONAL, explicitText DisplayText OPTIONAL }"
+    },
+    {
+     "type": "ocr",
+     "text": "NoticeReference ::= SEQUENCE f organization DisplayText, noticeNumbers SEQUENCE OF INTEGER }"
+    },
+    {
+     "type": "ocr",
+     "text": "DisplayText ::= CHOICE { visiblestring Visiblestring (SIZE (1..200)), bmpString BMPString (SIZE (1..200)), utf8string UTF8String (SIZE (1..200)) }"
+    },
+    {
+     "type": "ocr",
+     "text": "Rozszerzenie jest krytyczne."
+    },
+    {
+     "type": "ocr",
+     "text": "1.2.6 Alternatywna nazwa podmiotu (subjectAltName) Rozszerzenie to umożliwia zdefiniowanie innej nazwy podmiotu, któremu wydawany jest certyfikat."
+    },
+    {
+     "type": "ocr",
+     "text": "id-ce-subjectAltName OBJECT IDENTIFIER ::= { id-ce 17 }"
+    },
+    {
+     "type": "ocr",
+     "text": "SubjectAltName ::= GeneralNames"
+    },
+    {
+     "type": "ocr",
+     "text": "GeneralNames ::= SEQUENCE SIZE (1..MAX) OF GeneralName"
+    },
+    {
+     "type": "ocr",
+     "text": "GeneralName ::= CHOICE [{ otherName [01 OtherName, rfc822Name [1] IA5String, dNSName [2] IA5String, x400Address [3] ORAddress, directoryName [4] Name, ediPartyName [5] EDIPartyName, uniformResourceldentifier [6] IA5String, iPAddress [7] OCTET STRING, registeredID [8] OBJECT IDENTIFIER }"
+    },
+    {
+     "type": "ocr",
+     "text": "OtherName ::= SEQUENCE [ type-id OBJECT IDENTIFIER, value [0] EXPLICIT ANY DEFINED BY type-id |"
+    },
+    {
+     "type": "ocr",
+     "text": "EDIPartyName ::= SEQUENCE { nameAssigner [0] DirectoryString OPTIONAL, partyName [1] DirectoryString }"
+    },
+    {
+     "type": "ocr",
+     "text": "Zaleca się stosowanie następujących alternatywnych nazw podmiotu:"
+    },
+    {
+     "type": "ocr",
+     "text": "» adres poczty elektronicznej (pole rfi822Name),"
+    },
+    {
+     "type": "ocr",
+     "text": "» identyfikator niezmienny (permanent identifier) należący do pola ofherName."
+    },
+    {
+     "type": "ocr",
+     "text": "Rozszerzenie może być oznaczane jako krytyczne lub niekrytyczne."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 24 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "1.2.6.1 Adres poczty elektronicznej Adres poczty elektronicznej zawiera adres poczty elektronicznej podmiotu, zgodny z formatem addr-spec RFC 822. Adres ten może być wykorzystywany do komunikowania się z podmiotem. Wydawca nie może gwarantować, że adres ten będzie zawsze aktualny (aktualny jest jednak na pewno w momencie wydawania certyfikatu)."
+    },
+    {
+     "type": "ocr",
+     "text": "Składnia otaz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "pkcs-9 OBJECT IDENTIFIER ::= { iso(1) member-body(2) us(840) rsadsi(113549) pkcs(l) 9 |"
+    },
+    {
+     "type": "ocr",
+     "text": "id-emailAddress AttributeType ::= ( pkcs-9 1 } EmailAddress ::= IA5String (SIZE (1..ub-emailaddress-length) )"
+    },
+    {
+     "type": "ocr",
+     "text": "Adres poczty elektronicznej można umieścić także w polu atrybuty katalogu podmiotu. W przypadku certyfikatów stosowanych do ochrony poczty elektronicznej, zaleca się, aby informacje tę umieszczać w polu nazwy alternatywnej podmiotu."
+    },
+    {
+     "type": "ocr",
+     "text": "1.2.6.2 Identyfikator niezmienny Identyfikator niezmienny (PI) umieszczany jest w polu ofherName 1 jest nazwą (typu 1A5String lub UTF8String) przydzieloną przez upoważnioną do tego organizację, np. przez kwalifikowany podmiot świadczący usługi certyfikacyjne lub przez Krajowy Rejestr Identyfikatorów Obiektów (KRIO). Nazwa ta jest jednoznaczna w domenie tej organizacji i pozwala na odróżnienie danego podmiotu od wszystkich innych podmiotów. Wydawca certyfikatów, który umieści tego typu identyfikator w certyfikacie, zaświadcza, że różne certyfikaty posiadające ten sam stały identyfikator (wydane przez tego wydawcę) odnoszą się do tego samego podmiotu. Identyfikator niezmienny zdefiniowany jest następująco:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-on OBJECT IDENTIFIER ::= ( id-pkix 8 } id-on-permanentIdentifier AttributeType ::= { id-on 2 } PermanentIdentifier ::= SEQUENCE [ identifier Value Identifier Value, identifierT ype IdentifierType OPTIONAL }"
+    },
+    {
+     "type": "ocr",
+     "text": "Identifier Value ::= CHOICE { iA5String TASString, uTF8String UTF8String )"
+    },
+    {
+     "type": "ocr",
+     "text": "IdentifierType ::= CHOICE { registeredOID OBJECT IDENTIFIER, uniformResourceldentifier _ IASString, intluniformResourceldentifier UTF8String )"
+    },
+    {
+     "type": "ocr",
+     "text": "Pole źdenizfierType (jeśli występuje) określa nazwę organizacji odpowiedzialnej za przydzielony podmiotowi identyfikator niezmienny, jak też i typ tego identyfikatora. Jeśli pole to nie występuje, to domyślnie przyjmuje się, że organem przydzielającym identyfikator jest sam kwalifikowany podmiot świadczący usługi certyfikacyjne o nazwie określonej w polu żsszer certyfikatu podmiotu."
+    },
+    {
+     "type": "ocr",
+     "text": "Pole identifierValue zawieta wartość przydzielonego podmiotowi stałego identyfikatora."
+    },
+    {
+     "type": "ocr",
+     "text": "1.2.7 Podstawowe ograniczenia (basicConstraints) Rozszerzenie umożliwia określenie, czy podmiot jest użytkownikiem końcowym, czy też podmiotem wydającym certyfikaty."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "id-ce-basicConstraints OBJECT IDENTIFIER ::= ( id-ce 19 } BasicConstraints ::= SEQUENCE { CA BOOLEAN DEFAULT FALSE, pathLenConstraint INTEGER (0..MAX) OPTIONAL }"
+    },
+    {
+     "type": "ocr",
+     "text": "Pole cA określa, czy podmiot jest użytkownikiem końcowym (FALSE), czy też podmiotem wydającym certyfikaty lub zaświadczenia certyfikacyjne (TRUE). W certyfikacie użytkownika końcowego wydawca musi umieścić pole basicConstrains, zawierające jedynie pustą sekwencję SEQUENCE."
+    },
+    {
+     "type": "ocr",
+     "text": "Rozszerzenie jest krytyczne."
+    },
+    {
+     "type": "ocr",
+     "text": "1.2.8 Atrybuty katalogu podmiotu (subjectDirectoryAttributes) Rozszerzenie to zawiera dodatkowe atrybuty powiązane z podmiotem 1 dopełniające informacje zawarte w polu subject oraz subjectAlternativeName. W rozszerzeniu tym wystąpić powinny atrybuty, które nie należą do elementów wchodzących w skład nazwy podmiotu."
+    },
+    {
+     "type": "ocr",
+     "text": "id-ce-subjectDirectoryAttributes OBJECT IDENTIFIER ::= { id-ce 9 } SubjectDirectoryAttributes ::= SEQUENCE SIZE (1..MAX) OF Attribute Attribute ::= SEQUENCE ( type AttributeType, values SET OF AttributeValue |"
+    },
+    {
+     "type": "ocr",
+     "text": "Rozszerzenie nie może być oznaczane jako krytyczne."
+    },
+    {
+     "type": "ocr",
+     "text": "W polu SubjectDirectoryAttributes mogą wystąpić w szczególności następujące atrybuty:"
+    },
+    {
+     "type": "ocr",
+     "text": "« stanowisko (ang. źii/e) umożliwia określenie pozycji lub funkcji podmiotu w firmie, której nazwa podana została w atrybucie organization lub organizational-unit pola subject. Składnia oraz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-at-title OBJECT IDENTIFIER ::= {id-at 12}"
+    },
+    {
+     "type": "ocr",
+     "text": "X520Title ::= CHOICE { printableString PrintableString (SIZE (1..ub-title)), utf8String UTF8String (SIZE (1..ub-title)), bmpString BMPString (SIZE(1..ub-title)) |"
+    },
+    {
+     "type": "ocr",
+     "text": "» data urodzenia (ang. date of birth) zawiera datę urodzenia podmiotu. Składnia oraz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-pda OBJECT IDENTIFIER ::= { id-pkix 9 } id-pda-dateOfBirth OBJECT IDENTIFIER ::= { id-pda 1 }"
+    },
+    {
+     "type": "ocr",
+     "text": "DateOfBirth ::= GeneralizedTime"
+    },
+    {
+     "type": "ocr",
+     "text": "* miejsce urodzenia (ang. place of birth) okteśla miejsce urodzenia podmiotu. Składnia oraz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-pda-placeOfBirth OBJECT IDENTIFIER ::= { id-pda 2 }"
+    },
+    {
+     "type": "ocr",
+     "text": "PlaceOfBirth ::= DirectoryString"
+    },
+    {
+     "type": "ocr",
+     "text": "« płeć (ang. gender) — płeć podmiotu; pole może przyjmować wartość „F” lub „£f” w ptzypadku kobiety oraz „M” lub „m” w przypadku mężczyzny. Składnia oraz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-pda-gender OBJECT IDENTIFIER ::= [ id-pda 3 }"
+    },
+    {
+     "type": "ocr",
+     "text": "Gender ::= PrintableString (SIZE(1))"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 26 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "| -— \"M\", \"E\", \"m\" or we"
+    },
+    {
+     "type": "ocr",
+     "text": "¢ obywatelstwo (ang. country of citizenship) — deklarowany kraj pochodzenia podmiotu w dniu wydawania certyfiktu (podmiot może deklarować więcej miż jeden kraj pochodzenia). Składnia oraz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-pda-countryOfCitizenship OBJECT IDENTIFIER ::= { id-pda 4 |]"
+    },
+    {
+     "type": "ocr",
+     "text": "CountryOfCitizenship ::= PrintableString (SIZE (2)) -- ISO 3166 Country Code"
+    },
+    {
+     "type": "ocr",
+     "text": "« kraj pobytu (ang. country of residence) — deklarowany kraj zamieszkania podmiotu w dniu wydawania certyfikatu (podmiot może deklarować więcej niż jeden kraj zamieszkania). Składnia oraz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-pda-countryOfResidence OBJECT IDENTIFIER ::= ( id-pda 5 |]"
+    },
+    {
+     "type": "ocr",
+     "text": "CountryOfResidence ::= PrintableString (SIZE (2)) -- ISO 3166 Country Code"
+    },
+    {
+     "type": "ocr",
+     "text": ". pełniona rola (ang. rok) — zawiera informacje o roli pełnionej przez podmiot w organizacji, przy czym należy odróżnić rolę od stanowiska. Można być np. zatrudnionym na stanowisku dyrektora ds. handlowych, a jednocześnie pełnić role prokurenta w firmie. Składnia oraz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-at-role OBJECT IDENTIFIER ::= { id-at 72 }"
+    },
+    {
+     "type": "ocr",
+     "text": "RoleSyntax ::= SEQUENCE [ roleAuthority [0] GeneralNames OPTIONAL, roleName [1] GeneralName"
+    },
+    {
+     "type": "ocr",
+     "text": "Pole roleName musi wystąpić w atrybucie pełniona rola i spośród wielu możliwości, które daje typ GeneralName, należy wybrać uniformResourceldentifier. Pole może wystąpić wielokrotnie."
+    },
+    {
+     "type": "ocr",
+     "text": "» adres poczty elektronicznej (ang. e-mail) — zawiera informacje o adresie poczty elektronicznej podmiotu. Ponieważ podmiot może posługiwać się więcej niż tylko jednym adresem poczty elekttonicznej, stąd pole to może wystąpić więcej niż jeden raz. Składnia oraz OID tego atrybutu są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "pkcs-9 OBJECT IDENTIFIER ::= { iso(l) member-body(2) us(840) rsadsi(113549) pkcs(L) 9 ]"
+    },
+    {
+     "type": "ocr",
+     "text": "id-emailAddress AttributeType ::= { pkcs-9 1 } EmailAddress ::= IA5String (SIZE (1..ub-emailaddress-length) )"
+    },
+    {
+     "type": "ocr",
+     "text": ". zakres dostępu (ang. clearance) — zawiera informacje o poświadczeniu bezpieczeństwa właściciela certyfikatu:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-at-clearance OBJECT IDENTIFIER ::= ( joint-iso-ccitt(2) ds(5) module(1) selected-attribute-types(5) clearance (55) }"
+    },
+    {
+     "type": "ocr",
+     "text": "Clearance ::= SEQUENCE { policyId OBJECT IDENTIFIER, classList ClassList DEFAULT (unclassified), securityCategories SET OF SecurityCategory OPTIONAL"
+    },
+    {
+     "type": "ocr",
+     "text": "ClassList ::= BIT STRING [ unmarked (0), -- nieoznaczona unclassified (1), -- nieklasyfikowana restricted (2), -- zastrzezona confidential (3), -- poufna secret (4), -- tajna topSecret (5) -- ściśle tajna}"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 27 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "SecurityCategory ::= SEQUENCE [{ type [0] IMPLICIT OBJECT IDENTIFIER, value [1] ANY DEFINED BY type }"
+    },
+    {
+     "type": "ocr",
+     "text": "Pole policyId określa identyfikator polityki bezpieczeństwa, do której odnosi się przypisany podmiotowi zakres dostępu."
+    },
+    {
+     "type": "ocr",
+     "text": "Pole SecurityCategory zawiera dodatkowe informacje związane z poświadczeniem bezpieczeństwa."
+    },
+    {
+     "type": "ocr",
+     "text": "Zdefiniowano następujący rodzaj informacji dodatkowych:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-gov-PersonalSecurityClearanceEntry OBJECT IDENTIFIER ::= { iso(1) member-body(2) p1(616) organization(1) gov(101) moe(3) pki(1l) certificate-extensions(1l) 1 }"
+    },
+    {
+     "type": "ocr",
+     "text": "PersonalSecurityClearanceEntry ::= SEQUENCE { clearancelssuer DistinguishedName, clearanceValidFrom GeneralizedTime, clearanceValidTo GeneralizedTime, secretOfficeEmail [2] IMPLICIT EmailAddress OPTIONAL }"
+    },
+    {
+     "type": "ocr",
+     "text": "gdzie:"
+    },
+    {
+     "type": "ocr",
+     "text": "e pole clearancelssuer - wydawca poświadczenia bezpieczeństwa,"
+    },
+    {
+     "type": "ocr",
+     "text": "e pole clearanceValidFrom - data początku ważności poświadczenia"
+    },
+    {
+     "type": "ocr",
+     "text": "e pole clearanceValidTo - data końca ważności poświadczenia"
+    },
+    {
+     "type": "ocr",
+     "text": "e pole sectetOfficeEmail - adres e-mail kancelarii tajnej"
+    },
+    {
+     "type": "ocr",
+     "text": "Pole może wystąpić wielokrotnie."
+    },
+    {
+     "type": "ocr",
+     "text": "1.3 Rozszerzenia niestandardowe"
+    },
+    {
+     "type": "ocr",
+     "text": "1.3.1 Informacje biometryczne (biometriclnfo) Znacznym wsparciem wymogu jednoznacznej identyfikacji posiadacza certyfikatu kwalifikowanego jest możliwość umieszczenia w certyfikacie informacji o jego cechach biometrycznych (zdjęcia twarzy lub tęczówki oka, odcisku palca, wzorca podpisu odręcznego itp.). Składnia oraz OID tego rozszerzenia jest następująca:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-pe-biometricInfo OBJECT IDENTIFIER ::= {id-pe 2)"
+    },
+    {
+     "type": "ocr",
+     "text": "BiometricSyntax ::= SEQUENCE OF BiometricData BiometricData ::= SEQUENCE [ typeOfBiometricData TypeOfBiometricData, hashAlgorithm AlgorithmIdentifier, biometricDataHash OCTET STRING, sourceDataUri IA5String OPTIONAL }"
+    },
+    {
+     "type": "ocr",
+     "text": "TypeOfBiometricData ::= CHOICE [ predefinedBiometricType PredefinedBiometricType, biometricData0id OBJECT IDENTIFIER }"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 28 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "PredefinedBiometricType ::= INTEGER ( picture(0),handwritten-signature(1)} ) (picture |handwritten-signature)"
+    },
+    {
+     "type": "ocr",
+     "text": "Predefiniuje się dwa typy informacji biometrycznej (pole predefinedBiometric Type): podpis odręczny oraz zdjęcie. Inne typy informacji biometrycznej można związać z jej identyfikatorem (pole biometricDataOid), zdefiniowanym np. przez wydawcę certyfikatu."
+    },
+    {
+     "type": "ocr",
+     "text": "W certyfikacie kwalifikowanym umieszczany jest jedynie skrót z cechy biometrycznej. Wartość skrótu umieszczana jest w polu biometricDataHash, identyfikator funkcji zaś skrótu, za pomocą której policzono tę wartość w polu hashAlgorithm. Pełna informacja biometryczna o podmiocie (jego wzorzec biometryczny) przechowywana jest w bazie danych, któtej adres URI podany jest w polu sourceDataUri."
+    },
+    {
+     "type": "ocr",
+     "text": "Efektywne wykorzystanie informacji biometrycznej umieszczonej w certyfikacie (skrót) możliwe jest jedynie w przypadku, gdy nastąpi porównanie wzorca zawartego w bazie (informacja pełna) ze skrótem odczytanym z certyfikatu."
+    },
+    {
+     "type": "ocr",
+     "text": "Rozszerzenie nie może być oznaczone jako krytyczne."
+    },
+    {
+     "type": "ocr",
+     "text": "1.3.2 Deklaracje wydawcy certyfikatu kwalifikowanego (qcStatements) Rozszerzenie zawiera deklaracje wydawcy certyfikatu kwalifikowanego."
+    },
+    {
+     "type": "ocr",
+     "text": "id-pe-qcStatements OBJECT IDENTIFIER ::= [ id-pe 3)"
+    },
+    {
+     "type": "ocr",
+     "text": "QCStatements ::= SEQUENCE OF QCStatement"
+    },
+    {
+     "type": "ocr",
+     "text": "QCStatement ::= SEQUENCE [ statementId OBJECT IDENTIFIER, statementInfo ANY DEFINED BY statementId OPTIONAL"
+    },
+    {
+     "type": "ocr",
+     "text": "Pole statementld zawiera identyfikator deklaracji. Pole statementInfo zawiera dodatkowe informacje związane z deklaracją."
+    },
+    {
+     "type": "ocr",
+     "text": "Definiuje się następujące typy deklaracji:"
+    },
+    {
+     "type": "ocr",
+     "text": "(a) oświadczenie, że certyfikat jest certyfikatem kwalifikowanym, wydanym przez kwalifikowany podmiot świadczący usługi certyfikacyjne."
+    },
+    {
+     "type": "ocr",
+     "text": "Pole statementId ma wartość:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-etsi-qcs OBJECT IDENTIFIER ::= ( itu-t(0) identified-organization(4) etsi(0) id-qc-profile(1862) 1 } id-etsi-qcs-QcCompliance OBJECT IDENTIFIER ::= { id-etsi-qcs 1 }"
+    },
+    {
+     "type": "ocr",
+     "text": "-- Deklaracja ta jest oświadczeniem wydawcy, że ten certyfikat został wydany jako certyfikat kwalifikowany zgodnie z wymaganiami ustawy o podpisie elektronicznym oraz towarzyszącymi jej rozporządzeniami"
+    },
+    {
+     "type": "ocr",
+     "text": "Pole statementlnfo nie występuje."
+    },
+    {
+     "type": "ocr",
+     "text": "Oświadczenie, że certyfikat jest certyfikatem kwalifikowanym, wydanym przez kwalifikowany podmiot świadczący usługi certyfikacyjne zgodnie z wymaganiami ustawy o podpisie elektronicznym oraz towarzyszącymi jej rozporządzeniami, może być tównież zawarte w polu UserNotice rozszerzenia, o którym mowa w pkt 1.2.5 (certificatePolicies)."
+    },
+    {
+     "type": "ocr",
+     "text": "Deklaracja nie jest obligatoryjna."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 29 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "(b) limit transakcji, którą jednorazowo można potwierdzić za pomocą certyfikatu. Pole statementid ma wartość: id-etsi-qcs-QcLimitValue OBJECT IDENTIFIER ::= { id-etsi-qcs 2 | Pole statementInfo ma postać:"
+    },
+    {
+     "type": "ocr",
+     "text": "QcLimitValue ::= MonetaryValue MonetaryValue::= SEQUENCE { currency Iso4217CurrencyCode, --kody zdefiniowane są w ISO 4217 amount INTEGER, exponent INTEGER -- value = amount * 10“exponent |"
+    },
+    {
+     "type": "ocr",
+     "text": "Iso4217CurrencyCode ::= CHOICE [ Alphabetic PrintableString (SIZE 3), -- rekomendowane numeric INTEGER (1..999) } -- Alfabetyczne lub numeryczne kody walut są zgodne z ISO 4217 -- Rekomenduje się stosowanie postaci alfanumerycznej Wartość pola currency określa kod alfabetyczny lub numeryczny waluty zgodny z ISO"
+    },
+    {
+     "type": "ocr",
+     "text": "4217. Zaleca się stosowanie kodu alfabetycznego. Górną kwotę transakcji wyznacza się jako amount * 10”exponent. Deklaracja nie jest obligatoryjna."
+    },
+    {
+     "type": "ocr",
+     "text": "(c) wskazania, czy podmiot składając podpis działa:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) we własnym imieniu albo"
+    },
+    {
+     "type": "ocr",
+     "text": "2) jako przedstawiciel innej osoby fizycznej, osoby prawnej, albo jednostki otganizacyjnej nieposiadającej osobowości prawnej, albo _3) w charakterze członka organu albo organu osoby prawnej, albo jednostki organizacyjnej nieposiadającej osobowości prawnej, albo"
+    },
+    {
+     "type": "ocr",
+     "text": "4) jako otgan władzy publicznej."
+    },
+    {
+     "type": "ocr",
+     "text": "Pole statementId ma wartość: id-gov-subjectSignatureType OBJECT IDENTIFIER ::= { iso(1) memberbody(2) pl(616) organization(1) gov(101) moe(3) pki(l) certificateextensions(1) 2 )"
+    },
+    {
+     "type": "ocr",
+     "text": "Pole statementInfo ma postać:"
+    },
+    {
+     "type": "ocr",
+     "text": "SubjectSignatureType ::= ENUMERATED [ weWlasnymImieniu (lL), upowaznionyPrzedstawiciel (2), czlonekOrganu (3), organWladzyPublicznej (4) }"
+    },
+    {
+     "type": "ocr",
+     "text": "Deklaracja nie jest obligatoryjna. Rozszerzenie może być oznaczone jako krytyczne lub niekrytyczne."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 30 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "2. Podstawowe pola listy CRL"
+    },
+    {
+     "type": "ocr",
+     "text": "Zalecenie ITU-T X.509 v3 określa strukturę tzw. list unieważnionych i zawieszonych certyfikatów (ang. Certificate Revocation List - CRL). Przepisy załącznika dot. listy CRL stosuje się odpowiednio do listy unieważnionych zaświadczeń certyfikacyjnych (ang. Authority Revocation List - ARL). Listy te publikowane są perlodycznie przez kwalifikowany podmiot Świadczący usługi certyfikacyjne, wydający kwalifikowane certyfikaty, po ich uprzednim poświadczeniu elektronicznym za pomocą danych służących do składania poświadczenia elektronicznego. CRL jest ogólnie dostępną listą zawierającą wskazanie czasu powstania oraz umożliwiającą zidentyfikowanie unieważnionych i zawieszonych certyfikatów. Każdy unieważniony i zawieszony certyfikat umieszczony na liście CRL identyfikowany jest za pomocą jego numeru seryjnego (pole serialNumber - pkt 1.1.2)."
+    },
+    {
+     "type": "ocr",
+     "text": "Lista uniewaznionych i zawieszonych certyfikatów CertificateList jest ciągiem trzech pól, których znaczenie przedstawiono poniżej:"
+    },
+    {
+     "type": "ocr",
+     "text": "CertificateList ::= SEQUENCE { tbscertList TBSCertList, signatureAlgorithm Algorithmrdentifier, signaturevalue BIT STRING"
+    },
+    {
+     "type": "ocr",
+     "text": "W skład profilu listy CRL wydanej przez kwalifikowy podmiot świadczący usługi certyfikacyjne muszą obligatoryjnie wejść pola: version, signature, issuer, \"thisUpdate, nextupdate, signatureAlgorithm, signaturevalue oraz tozszerzenie (extension) cRLNumber. Ponadto dla niepustej listy CRL dodatkowo muszą zostać umieszczone, w stosunku do każdego zawieszanego lub unieważnianego certyfikatu, pola: usercertificate i revocationDate oraz rozszerzenie"
+    },
+    {
+     "type": "ocr",
+     "text": "cRLReason."
+    },
+    {
+     "type": "ocr",
+     "text": "2.1 Pole informacyjne (tbsCertList) Pole to jest sekwencją zawierającą nazwę wydawcy, datę wydania, datę przewidywanego następnego wydania listy, listę unieważnionych i zawieszonych certyfikatów oraz opcjonalnie rozszerzenia. Lista unieważnionych i zawieszonych certyfikatów zawiera z kolet sekwencje definiujące unieważniany lub zawieszany certyfikat: numer seryjny, datę unieważnienia oraz opcjonalnie rozszerzenia listy CRL. 2.2 Pole algorytmu podpisu (signatureAlgorithm) Pole to zawiera identyfikator algorytmu stosowanego przez kwalifikowany podmiot świadczący usługi certyfikacyjne polegające na wydawaniu certyfikatów do poświadczenia elektronicznego CertificateList. Pole jest typu AlgorithmlIdentifiet, zdefiniowanym w pkt 1.1.3, i musi zawierać taki sam identyfikator algorytmu, jaki zastosowano w przypadku pola signature sekwencji tbsCertList."
+    },
+    {
+     "type": "ocr",
+     "text": "2.3 Wartość podpisu (signatureValue) Pole zawiera poświadczenie elektroniczne sekwencji tbsCertList."
+    },
+    {
+     "type": "ocr",
+     "text": "3. Poświadczona elektronicznie lista certyfikatów (tBSCertList)"
+    },
+    {
+     "type": "ocr",
+     "text": "Poświadczana elektronicznie lista zawieszonych i unieważnionych certyfikatów jest sekwencją obligatoryjnych lub opcjonalnych pól. Pola obligatoryjne identyfikują wydawcę CRL, opcjonalne zaś zawierają listy zawieszonych i unieważnionych certyfikatów oraz rozszerzenia CRL."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 31 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "TBSCertList ::= SEQUENCE f version Version OPTIONAL, signature Algorithmidentifier, issuer Name, thisupdate Time, nextUpdate Time OPTIONAL,"
+    },
+    {
+     "type": "ocr",
+     "text": "revokedcertificates SEQUENCE OF SEQUENCE { usercertificate certificateSerialNumber, revocationDate Time, crlEntryExtensions Extensions OPTIONAL } OPTIONAL, crlEextensions [0] EXPLICIT Extensions OPTIONAL }"
+    },
+    {
+     "type": "ocr",
+     "text": "3.1 Wersja (version) Wartość pola powinna wynosić 1, wskazując, że numerem wersji CRL jest v2. 3.2 _ Algorytm podpisu (signature) Pole identyfikuje algorytm, jaki został użyty do poświadczenia elektronicznego listy CRL. Lista CRL może być poświadczona z użyciem przynajmniej algorytmów określonych w pkt 1.1.3. 3.3 Wydawca (issuer) Połe zawiera identyfikator wyróżniający kwalifikowanego podmiotu świadczącego usługi certyfikacyjne, który wydał listę CRL."
+    },
+    {
+     "type": "ocr",
+     "text": "Zawartość pola opisana jest w pkt 1.1.4. 3.4 Data wydania (thisUpdate) Pole zawiera datę wydania listy CRL."
+    },
+    {
+     "type": "ocr",
+     "text": "Zasady reprezentacji czasu są opisane w pkt 1.1.5."
+    },
+    {
+     "type": "ocr",
+     "text": "3.5 Data następnego wydania (nextUpdate) Pole zawiera datę, do której na pewno zostanie wydana następna lista CRL. Publikacja musi nastąpić wcześniej niż deklarowana data, ale w żadnym przypadku później."
+    },
+    {
+     "type": "ocr",
+     "text": "Zasady reprezentacji czasu są opisane w pkt 1.1.5."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6 Certyfikaty unieważnione i zawieszone (revokedCertificates) Ta część CRL zawiera listę zawieszonych i unieważnionych certyfikatów. Certyfikaty te identyfikowane są na podstawie numerów seryjnych (usercertificate). Określana jest także data zawieszenia lub unieważnienia certyfikatu (revocationDate) definiowana w sposób określony w pkt 1.1.5. Z każdym zawieszonym lub unieważnionym certyfikatem związać należy również przyczynę zawieszenia lub unieważnienia poprzez pole cRLReason, określone w pkt 3.6.1. Poniżej przedstawiono niektóre z rozszerzeń crlEntryExtensions, dotyczących każdego z zawieszonych lub unieważnionych certyfikatów oddzielnie. Każde z nich jest niekrytyczne."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.1 Kod przyczyny unieważnienia/zawieszenia (cRLReason) Pole jest niekrytycznym rozszerzeniem listy CRL, które umożliwia określenie przyczyny unieważnienia certyfikatu lub wskazania, że jest on zawieszony. Kwalifikowany podmiot świadczący usługi certyfikacyjne i wydający kwalifikowane certyfikaty musi wskazać, czy certyfikat znajdujący się na liście CRL jest zawieszony, czy unieważniony. Składnia oraz OID tego rozszerzenia jest następujący:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-ce-cRLReason OBJECT IDENTIFIER ::= { id-ce 21 }"
+    },
+    {
+     "type": "ocr",
+     "text": "CRLReason ::= ENUMERATED { unspecified (0), -- nieokreślona (nieznana) keyCompromise (1), -- kompromitacja klucza cACompromi se (2), -- kompromitacja klucza CC affiliationchanged (3), -- zamiana danych (afiliacji) subskrybenta"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 32 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "superseded (4), -- zastąpienie (odnowienie) klucza cessationofoperation (5), -- zaprzestanie operacji z wykorzystaniem klucza certificateHold (6), -- certyfikat zawieszony (wstrzymany) removeF romCRi. (8), -- certyfikat wycofany z listy CRL privilegewithdrawn (9), -- certyfikat klucza publicznego (PKC) lub certyfikat atrybutów został unieważniony z powodu anulowania zawartych w nich uprawnień aaCompromise (10) -- kompromitacja atrybutów potwierdzanych przez wystawcę atrybutów }"
+    },
+    {
+     "type": "ocr",
+     "text": "Użycie poszczególnych wartości w polu CRLReaSON musi być zgodne z następującymi zasadami:"
+    },
+    {
+     "type": "ocr",
+     "text": "a)"
+    },
+    {
+     "type": "ocr",
+     "text": "b)"
+    },
+    {
+     "type": "ocr",
+     "text": "c)"
+    },
+    {
+     "type": "ocr",
+     "text": "d)"
+    },
+    {
+     "type": "ocr",
+     "text": "e)"
+    },
+    {
+     "type": "ocr",
+     "text": "8)"
+    },
+    {
+     "type": "ocr",
+     "text": "h)"
+    },
+    {
+     "type": "ocr",
+     "text": "i)"
+    },
+    {
+     "type": "ocr",
+     "text": "unspecified: certyfikat został unieważniony, jednak przyczyna unieważnienia jest nieznana; powód unieważnienia nie wyklucza, że ma miejsce kompromitacja lub podejrzenie kompromitacji danych służących do składania podpisu elektronicznego właściciela,"
+    },
+    {
+     "type": "ocr",
+     "text": "keyCompromise: certyfikat został unieważniony z powodu kompromitacji lub podejrzenia kompromitacji danych służących do składania podpisu elektronicznego właściciela,"
+    },
+    {
+     "type": "ocr",
+     "text": "cACompromise: dotyczy tylko zaświadczeń certyfikacyjnych i oznacza, że zostało ono unieważnione z powodu kompromitacji danych służących do składania poświadczenia elektronicznego kwalifikowanego podmiotu świadczącego usługi certyfikacyjne,"
+    },
+    {
+     "type": "ocr",
+     "text": "affiliationChanged: certyfikat został unieważniony z powodu zmiany danych zawartych w cettyfikacie, innych niż określone w pkt. i) oraz j); powód unieważnienia wskazuje, że nie ma miejsca kompromitacja lub podejrzenie kompromitacji danych służących do składania podpisu elektronicznego właściciela,"
+    },
+    {
+     "type": "ocr",
+     "text": "superseded: certyfikat został unieważniony z powodu zastąpienia klucza publicznego; powód unieważnienia wskazuje, że nie ma miejsca kompromitacja lub podejrzenie kompromitacji danych służących do składania podpisu elektronicznego właściciela,"
+    },
+    {
+     "type": "ocr",
+     "text": "cessationOfOperation: certyfikat został unieważniony z powodu zaprzestania używania go do celu, dla którego został wydany, i jednocześnie nie ma miejsca sytuacja określona w pkt d ie; wskazany powód unieważnienia wskazuje, że nie ma miejsca kompromitacja lub podejrzenie kompromitacji danych służących do składania podpisu elektronicznego właściciela,"
+    },
+    {
+     "type": "ocr",
+     "text": "certificateHold: certyfikat został zawieszony; zawieszenie może zostać anulowane ptzez wydanie kolejnej listy bez informacji o zawieszeniu certyfikatu lub certyfikat może zostać unieważniony, ale wtedy data unieważnienia musi być identyczna z datą zawieszenia; zawieszając certyfikat, można jednocześnie określić dodatkowe wskazówki postępowania w sytuacji próby weryfikacji jego ważności - patrz pkt 3.6.2,"
+    },
+    {
+     "type": "ocr",
+     "text": "removeFromCRL: w przypadku pełnych list CRL, ten kod nie powinien być używany,"
+    },
+    {
+     "type": "ocr",
+     "text": "privilegeWithdrawn: certyfikat został unieważniony z powodu zmiany danych zawartych w certyfikacie, określających rolę właściciela certyfikatu, o której mowa w pkt. 1.3.2 lit. c ppkt. 2-4; powód unieważnienia nie wyklucza, że ma miejsce"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 33 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "kompromitacja lub podejrzenie kompromitacji danych służących do składania podpisu elektronicznego właściciela,"
+    },
+    {
+     "type": "ocr",
+     "text": "D aaCompromise: dotyczy certyfikatu atrybutów i ma znaczenie identyczne jak w pkt 1."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.2 Kod postępowania po napotkaniu zawieszenia certyfikatu (holdinstructionCode) Pole jest niekrytycznym rozszerzeniem, które definiuje zarejestrowany identyfikator instrukcji określającej działanie, jakie powinno zostać podjęte po napotkaniu certyfikatu na liście CRL z adnotacją o zawieszeniu certyfikatu (certificateHold). Składnia oraz OID tego rozszerzenia są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "jid-ce-holdinstructioncode OBJECT IDENTIFIER ::= { id-ce 23 } holdInstructioncode ::= OBJECT IDENTIFIER"
+    },
+    {
+     "type": "ocr",
+     "text": "Zdefiniowano następujące kody, które są pomocne przy weryfikacji ważności zawieszonych certyfikatów:"
+    },
+    {
+     "type": "ocr",
+     "text": "holdInstruction OBJECT IDENTIFIER ::= { iso(1) member-body(2) us(840) x9-57(10040) 2 } id-holdinstruction-none. OBJECT IDENTIFIER ::= fholdInstruction 1} id-holdinstruction-callissuer OBJECT IDENTIFIER ::= {holdinstruction 2} id-holdinstruction-reject OBJECT IDENTIFIER ::= {holdInstruction 3}"
+    },
+    {
+     "type": "ocr",
+     "text": "Jeśli aplikacja weryfikująca napotka kod id-holdinstruction-callissuer, musi poinformować użytkownika o konieczności skontaktowania się z wydawcą certyfikatu w celu wyjaśnienia przyczyn zawieszenia certyfikatu lub musi odrzucić certyfikat (uznać go za nieważny). W przypadku napotkania z kolei kodu id-holdinstruction-reject należy obligatoryjnie odrzucić rozpatrywany certyfikat. Kod id-holdinstruction-none jest semantycznie równoważny pominięciu tozszerzenia holdInstructionCode."
+    },
+    {
+     "type": "ocr",
+     "text": "3.7 Pola rozszerzeń (criExtensions)"
+    },
+    {
+     "type": "ocr",
+     "text": "Profil listy CRL wydanej przez kwalifikowany podmiot świadczący usługi certyfikacyjne składa się z następujących rozszerzeń standardowych:"
+    },
+    {
+     "type": "ocr",
+     "text": "© authorityKeyldentifier e cCRLNumber"
+    },
+    {
+     "type": "ocr",
+     "text": "Kazde z rozszerzen jest niekrytyczne."
+    },
+    {
+     "type": "ocr",
+     "text": "3.7.1 Identyfikator klucza wydawcy (authorityKeyldentifier) Pole to umożliwia identyfikację danych służących do weryfikacji poświadczenia elektronicznego, odpowiadającego danym służącym do składania poświadczenia elektronicznego, zastosowanym do poświadczenia elektronicznego listy CRL. Składnia tego rozszerzenia opisana jest w pkt 1.2.1."
+    },
+    {
+     "type": "ocr",
+     "text": "Rozszerzenie nie może być oznaczane jako krytyczne."
+    },
+    {
+     "type": "ocr",
+     "text": "3.7.2 Numer CRL (cRLNumber) Pole jest niekrytycznym rozszerzeniem CRL i określa monotonicznie zwiększany numer list CRL wydanych przez urząd certyfikacji. Dzięki temu rozszerzeniu użytkownik listy jest w stanie w prosty sposób określić, kiedy określony CRL zastąpił inny CRL. Składnia oraz OID tego rozszerzenia są następujące:"
+    },
+    {
+     "type": "ocr",
+     "text": "id-ce-cRLNumber OBJECT IDENTIFIER ::= | id-ce 20 } cRLNumber ::= INTEGER (0..MAX)"
+    },
+    {
+     "type": "ocr",
+     "text": "Rozszerzenie nie może być oznaczane jako krytyczne."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYMAGANIA DLA ALGORYTMÓW SZYFROWYCH"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 34 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ TESTÓW STATYSTYCZNYCH PROPONOWANYCH DO BADANIA JAKOŚCI GENERATORÓW LOSOWYCH"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 35 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "W przypadku badania jakości generatorów liczb losowych stosowanych w bezpiecznych urządzeniach do tworzenia i weryfikacji podpisu elektronicznego, weryfikowana jest hipoteza ich „losowości”. Do weryfikacji hipotezy losowości zaleca się następujący zestaw 4 testów zgodnych z normą FIPS 140-2."
+    },
+    {
+     "type": "ocr",
+     "text": "1. Testy tradycyjne zgodne z normą FIPS 140-2 Do weryfikacji hipotezy ,,losowosci” genetatorow liczb losowych proponowane jest zastosowanie następujących testów statystycznych: — test pojedynczych bitów, — test pokerowy, — test serii, — test długich serii. Każdy z ww testów musi być przeprowadzony na tym samym ciągu 20 000 kolejnych bitów, wygenerowanym przez poddawany badaniu generator liczb losowych. W opisie każdego z testów wyspecyfikowano warunki, jakie są wymagane, aby test dał pozytywną odpowiedź dotyczącą jakości generatora."
+    },
+    {
+     "type": "ocr",
+     "text": "1.1. Test pojedynczych bitów Krok 1. Obliczamy wattość m równą liczbie jedynek w wygenerowanym ciągu. Krok 2. Sprawdzamy, czy liczba m znajduje się w przedziale akceptacji: 9725S m £10275. Jeśli tak, to stwierdzamy, że badany ciąg został przez test zaakceptowany, i przyjmujemy, że nie ma podstaw do odrzucenia hipotezy o losowości generatora."
+    },
+    {
+     "type": "ocr",
+     "text": "1.2. Test pokerowy Krok 1. Dzielimy wygenerowany ciąg bitów na 5000 czterobitowych przylegających bloków i obliczamy oraz zapamiętujemy liczbę f(i) wystąpień każdej z szesnastu możliwych wartości O<i<15, gdzie liczba wystąpień wartości i rozumiana jest jako liczba wystąpień czterobitowego bloku będącego binatną reptezentacją liczby i. iB) 2"
+    },
+    {
+     "type": "ocr",
+     "text": "Krok 2. Obliczamy liczbę p = (16/5000) * p UFO] | — 5000. i=0"
+    },
+    {
+     "type": "ocr",
+     "text": "Krok 3. Sprawdzamy, czy wartość p znajduje się w przedziale akceptacji: 2.16Ś p £46.17. Jeżeli tak, to stwierdzamy, że badany ciąg jest przez test akceptowany, i przyjmujemy, że nie"
+    },
+    {
+     "type": "ocr",
+     "text": "ma podstaw do odrzucenia hipotezy o losowości badanego generatora."
+    },
+    {
+     "type": "ocr",
+     "text": "1.3. Test serii Serią nazywamy taki ciąg kolejnych bitów o identycznych wartościach, że po ostatnim bicie i przed pierwszym bitem tego ciągu występuje bit o wartości przeciwnej lub żaden."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 36 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Krok 1. Obliczamy w wygenerowanym ciągu liczbę serii kolejno o długościach: 1, 2, 3, 415 oraz liczbę wszystkich serii o długości większej lub równej 6. Krok 2. Sprawdzamy, czy obliczone w kroku 1 liczby serii znajdują się w odpowiednich przedziałach akceptacji:"
+    },
+    {
+     "type": "ocr",
+     "text": "6 i więcej"
+    },
+    {
+     "type": "ocr",
+     "text": "Jeżeli wszystkie obliczone liczby serii spełniają powyższy warunek, to stwierdzamy, że badany ciąg jest przez test akceptowany i nie ma podstaw do odrzucenia hipotezy o losowości badanego generatora."
+    },
+    {
+     "type": "ocr",
+     "text": "1.4. Test długich serii Krok 1. Znajdujemy długość najdłuższej serii w wygenerowanym ciągu. Krok 2. Jeżeli znaleziona w pierwszym kroku długość jest mniejsza niż 26, to stwietdzamy, że badany ciąg jest przez test akceptowany i nie ma podstaw do odrzucenia hipotezy o losowości badanego generatora."
+    },
+    {
+     "type": "ocr",
+     "text": "2. Kryterium uzyskania pozytywnej oceny jakości wygenerowanego ciągu i generatora"
+    },
+    {
+     "type": "ocr",
+     "text": "Uważa się, że nie ma podstaw do odrzucenia hipotezy o losowości badanego ciągu, jeżeli uzyskuje on pozytywną ocenę wszystkich testów tradycyjnych. Badany ciąg (lub jego fragment) może być wówczas wykorzystany w celach kryptograficznych. Przyjmuje się, że jakość badanego generatora losowego jest zadowalająca, jeżeli liczba niezaakceptowanych kolejnych testów nie odbiega istotnie od wartości oczekiwanej, jaką jest jeden wynik negatywny na każde dziesięć tysięcy testów."
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

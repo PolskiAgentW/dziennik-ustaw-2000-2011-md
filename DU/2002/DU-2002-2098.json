@@ -1,0 +1,5313 @@
+{
+ "eli": "DU/2002/2098",
+ "title": "Rozporządzenie Ministra Zdrowia z dnia 24 grudnia 2002 r. w sprawie warunków stosowania promieniowania jonizującego w celach medycznych oraz sposobu wykonywania kontroli wewnętrznej nad przestrzeganiem tych warunków.",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2002/2098/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ZDROWIA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 grudnia 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie warunków bezpiecznego stosowania promieniowania jonizującego w celach medycznych oraz sposobu wykonywania kontroli wewnętrznej nad przestrzeganiem tych warunków."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 15 ust. 3 ustawy z dnia 29 listopada 2000 r. — Prawo atomowe (Dz. U. z 2001 r. Nr 3, poz. 18, Nr 100, poz. 1085 i Nr 154, poz. 1800 oraz z 2002 r. Nr 74, poz. 676 i Nr 135, poz. 1145) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "„audyt kliniczny” — systematyczną kontrolę lub przegląd medycznych procedur radiologicznych, mające na celu polepszenie jakości otrzymywanych przez pacjenta świadczeń zdrowotnych poprzez usystematyzowaną analizę, w ramach której praktyka, procedury i wyniki radiologiczne są porównywane z uznanymi standardami oraz, w razie konieczności, modyfikację dotychczasowego postępowania lub wprowadzenie nowych standardów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "„dawka tolerancji” — dopuszczalną dawkę promieniowania jonizującego pochłoniętą przez określony narząd lub tkankę zdrową lub ich część, której odpowiada akceptowane ryzyko późnego powikłania popromiennego wynoszące nie więcej niż 5 % w okresie 5 lat po leczeniu, z wyjątkiem rdzenia kręgowego i ośrodkowego układu nerwowego, dla których nie może przekroczyć 1 %;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "„fizyk medyczny” — specjalistę w dziedzinie fizyki lub technologii promieniowania w odniesieniu do ekspozycji na promieniowanie jonizujące w celach medycznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "„istotny błąd dozymetryczny” — niezamierzoną różnicę (5—25 %) między całkowitą przepisaną dawką promieniowania a dawką rzeczywiście zaaplikowaną w trakcie leczenia radioterapeutycznego, zwiększającą prawdopodobieństwo nieakceptowanego wyniku leczenia, poprzez wystąpienie powikłań, ale niezwiększającą w znacznym stopniu ryzyka utraty życia przez pacjenta poddawanego radioterapii;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "„kontrola jakości” — zespół działań wchodzących w skład zarządzania jakością, polegających na kontroli planowania, koordynacji i realizacji, mających na celu utrzymanie lub poprawę jakości funkcjonowania urządzeń radiologicznych oraz procedur diagnostycznych i leczniczych; do kontroli jakości należy w szczególności ocena i utrzymanie wymaganych wartości dla wszystkich parametrów eksploatacyjnych urządzeń radiologicznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "„medyczna procedura radiologiczna” — procedurę medyczną polegającą na ekspozycjach, o których mowa w art. 15 ust. 1 ustawy z dnia 29 listopada 2000 r. — Prawo atomowe, zwanej dalej „ustawą”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "„medycyna nuklearna” — wszelką działalność diagnostyczną związaną z podawaniem pacjentom produktów radiofarmaceutycznych, a także z zabiegami terapeutycznymi przy użyciu produktów radiofarmaceutycznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "„narządy krytyczne” — narządy wewnętrzne człowieka, których obecność w objętości tarczowej lub w jej pobliżu ma wpływ na wartość planowanej dawki w radioterapii;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "„objętość tarczowa” — objętość guza nowotworowego lub innych tkanek, które są napromieniane w celu osiągnięcia planowanego efektu terapeutycznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "„odpowiedzialność kliniczna” — odpowiedzialność, jaka spoczywa na lekarzu realizującym procedury prowadzące do indywidualnej ekspozycji na promieniowanie jonizujące w celach medycznych; obejmuje ona w szczególności: uzasadnienie, optymalizację ochrony przed promieniowaniem, kliniczną ocenę wyniku, współpracę z innymi specjalistami i personelem, a w razie potrzeby — uzyskiwanie informacji o wynikach poprzednich badań, a także przekazywanie informacji lub dokumentacji radiologicznej innym lekarzom i ewentualne informowanie pacjenta oraz innych zainteresowanych osób realizujących medyczne procedury radiologiczne o ryzyku związanym ze stosowaniem promieniowania jonizującego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "„osoba kierująca na badanie lub zabieg” — lekarza, lekarza stomatologa lub felczera, uprawnionych, na podstawie odrębnych przepisów, do kierowania pacjenta na zabieg związany z ekspozycją na promieniowanie w celach medycznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_1/pkt_12",
+     "text": "„osoba wykonująca badanie lub zabieg” — lekarza, lekarza stomatologa lub inną osobę należącą do personelu medycznego, która ma uprawnienia do ponoszenia odpowiedzialności za ekspozycję pacjenta na promieniowanie w celach medycznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_1/pkt_13",
+     "text": "„poziomy referencyjne” — dawki promieniowania jonizującego na powierzchnię skóry w badaniach rentgenodiagnostycznych lub poziomy aktywności — w przypadku podawania pacjentom produktów radiofarmaceutycznych, dotyczące badań typowych pacjentów, dla poszczególnych kategorii urządzeń radiologicznych; poziomy referencyjne nie mogą być przekraczane w przypadku powszechnie stosowanych medycznych procedur radiologicznych, jeżeli stosuje się właściwe sposoby postępowania i urządzenia techniczne; poziomy referencyjne mogą być przekraczane w przypadku istnienia istotnych wskazań klinicznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_1/pkt_14",
+     "text": "„radioterapia” — wszelką działalność terapeutyczną związaną z wykorzystaniem aparatów terapeutycznych emitujących fotonowe promieniowanie jonizujące lub cząstki, urządzenia do terapii hadronowej, a także źródła izotopowe wprowadzane bezpośrednio do narządów wewnętrznych śródtkankowo, dojamowo, a także umieszczane na powierzchni ciała pacjenta (brachyterapia);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_1/pkt_15",
+     "text": "„rentgenodiagnostyka” — wszelką działalność diagnostyczną związaną z wykorzystaniem konwencjonalnych aparatów rentgenowskich, mammografów, tomografów komputerowych, rentgenowskich densytometrów kości, a także zabiegi wykonywane pod kontrolą aparatu rentgenowskiego, zwane dalej „zabiegami z zakresu radiologii interwencyjnej”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_1/pkt_16",
+     "text": "„ryzyko radiacyjne” — wielkość zagrożenia lub prawdopodobieństwo szkodliwego, a w szczególności chorobowego, następstwa związanego z dokonaną lub potencjalną ekspozycją na promieniowanie jonizujące; obejmuje ono zarówno prawdopodobieństwo pojawienia się niepożądanych następstw, jak i ich nasilenie oraz charakter;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_1/pkt_17",
+     "text": "„urządzenie radiologiczne” — urządzenie zawierające źródło promieniowania jonizującego lub służące do detekcji promieniowania, w tym w szczególności kamery scyntylacyjne i pozytronowy tomograf emisyjny PET, wykorzystywane do celów leczniczych lub diagnostycznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_1/pkt_18",
+     "text": "„wypadek w radioterapii” — efekt kliniczny i patologiczny wynikający z niezamierzonej różnicy, większej niż 25 %, między całkowitą przepisaną dawką promieniowania a dawką rzeczywiście zaaplikowaną w trakcie leczenia radioterapeutycznego, zwiększający w znacznym stopniu ryzyko ciężkich powikłań u pacjenta z utratą życia włącznie lub spadku wyleczalności nowotworu, gdy dawka zaaplikowana jest mniejsza niż przepisana o więcej niż 25 %; wypadkiem w radioterapii jest również napromienienie niewłaściwego pacjenta, błędna anatomicznie lokalizacja obszaru napromienienia oraz niewłaściwy rozkład dawki, w tym przy użyciu nieprawidłowego typu wiązki lub energii fotonu lub cząstek, a także niewłaściwe frakcjonowanie, jeżeli prowadzą one do nieosiągnięcia założonych efektów terapeutycznych lub odległych w czasie ciężkich następstw zdrowotnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "par_1/pkt_19",
+     "text": "„zarządzanie jakością” — zespół systematycznie planowanych i wykonywanych działań, koniecznych dla wystarczającego zapewnienia, że dana struktura, system lub ich części składowe bądź procedury będą działać w sposób zadowalający, spełniając właściwe normy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Ekspozycja na promieniowanie jonizujące w celach medycznych jest uzasadniona dostarczaniem korzyści, których dodatni bilans musi wynikać z przewagi potencjalnych korzyści diagnostycznych i leczniczych uzyskiwanych bezpośrednio przez pacjenta nad uszczerbkiem zdrowotnym, który ekspozycja u pacjenta może powodować. W ocenie bilansu korzyści i uszczerbku związanych z określoną procedurą należy uwzględnić jej kliniczną skuteczność i rozważyć korzyści i rodzaje ryzyka związane ze stosowaniem alternatywnych procedur, służących temu samemu celowi, prowadzących do mniejszej ekspozycji na promieniowanie jonizujące lub nienarażających na jego działanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Dopuszczenie do powszechnego stosowania medycznych procedur radiologicznych wymaga spełnienia warunków, o których mowa w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Medyczne procedury radiologiczne podlegają opiniowaniu (ocenie) właściwego konsultanta krajowego w przypadku uzyskania nowych danych dotyczących ich skuteczności i możliwych następstw zdrowotnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Uzasadnienie ekspozycji pacjenta na promieniowanie jonizujące w celach medycznych następuje przed jej wykonaniem, z uwzględnieniem celów badania lub leczenia oraz cech charakterystycznych pacjenta, którego ekspozycja dotyczy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Jeżeli medyczna procedura radiologiczna nie została uzasadniona w sposób, o którym mowa w ust. 1, wykonanie badania lub zabiegu indywidualnego może być uzasadnione w szczególnych sytuacjach, podlegających w każdym przypadku odrębnej ocenie osoby wykonującej badanie lub zabieg. Dotyczy to w szczególności ekspozycji w celach prawno-medycznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_2/ust_6",
+     "text": "Mogą istnieć okoliczności wykluczające lub zmniejszające zakres stosowania medycznej procedury radiologicznej u pacjenta, pomimo że procedura ta jest uznawana za ogólnie uzasadnioną. O zakresie stosowania medycznej procedury radiologicznej decyduje lekarz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_2/ust_7",
+     "text": "Dokonywanie ekspozycji na promieniowanie jonizujące w celach medycznych, które nie zostały uprzednio uzasadnione w sposób, o którym mowa w ust. 1, 5 lub 6, jest niedopuszczalne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Warunkiem wykonania badania lub zabiegu z zastosowaniem promieniowania jonizującego jest skierowanie wystawione przez osobę kierującą na badanie lub zabieg, z zastrzeżeniem ust. 4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Skierowanie, o którym mowa w ust. 1, może być wystawione po upewnieniu się, że inne alternatywne i nieinwazyjne metody lub wcześniej wykonane badania radiologiczne nie mogą dostarczyć niezbędnych, analogicznych informacji lub wyników leczniczych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Skierowanie, o którym mowa w ust. 1, w formie pisemnej lub elektronicznej, zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_3/pkt_1",
+       "text": "cel i uzasadnienie badania lub zabiegu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_3/pkt_2",
+       "text": "wstępne rozpoznanie kliniczne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_3/pkt_3",
+       "text": "informacje niezbędne do prawidłowego przeprowadzenia medycznej procedury radiologicznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_3/pkt_4",
+       "text": "podpis osoby kierującej na badanie lub zabieg.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Bez skierowania może być wykonane badanie z zastosowaniem promieniowania jonizującego przeprowadzane w ramach badań przesiewowych lub stomatologicznych — z wyłączeniem badań pantomograficznych — oraz w przypadkach bezpośredniego zagrożenia życia pacjenta.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Warunkiem podjęcia badania lub zabiegu z zastosowaniem promieniowania jonizującego lub jego zaniechania jest zlecenie wystawione przez lekarza specjalistę w dziedzinie radioterapii onkologicznej lub w dziedzinie medycyny nuklearnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Odpowiedzialność kliniczną za badanie lub zabieg z zastosowaniem promieniowania jonizującego ponosi lekarz specjalista w dziedzinie radioterapii lub medycyny nuklearnej, który planował, nadzorował i prowadził takie leczenie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Przerwanie lub zaniechanie podjętego badania lub zabiegu z zastosowaniem promieniowania jonizującego może podjąć lekarz, o którym mowa w ust. 2, po zasięgnięciu konsyliarnej opinii w przypadkach:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_3/pkt_1",
+       "text": "stwierdzonej błędnej kwalifikacji do leczenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_3/pkt_2",
+       "text": "błędu w zakresie fizycznych lub technicznych parametrów napromieniania stwierdzonego w trakcie leczenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_3/pkt_3",
+       "text": "nietolerancji leczenia lub zagrożenia życia pacjenta przez kontynuowanie terapii.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Lekarz przeprowadzający badanie lub zabieg z zastosowaniem promieniowania jonizującego, po jego zakończeniu, informuje o przebiegu tego badania lub zabiegu osobę kierującą na leczenie lub zabieg.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Badania z zastosowaniem promieniowania jonizującego lub zabiegi z zakresu radiologii interwencyjnej wykonuje się w sposób gwarantujący osiągnięcie wymaganego rezultatu przy możliwie najmniejszej dawce promieniowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Wartości dawek promieniowania lub aktywności produktu radiofarmaceutycznego przy badaniach i zabiegach, o których mowa w ust. 1, nie mogą, z zastrzeżeniem ust. 4, przekraczać poziomów referencyjnych, o których mowa w ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Poziomy referencyjne dla badań z zastosowaniem promieniowania jonizującego lub zabiegów z zakresu radiologii określają załączniki nr 1 i 2 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Przekroczenie poziomów referencyjnych, o których mowa w ust. 3, może być uzasadnione wyłącznie istotnymi wskazaniami klinicznymi oraz szczególnymi warunkami wykonywania badań lub zabiegów, o których mowa w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "Dawki dla osób poddawanych ekspozycji w celach prawno-medycznych powinny być możliwie jak najmniejsze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_5/ust_6",
+     "text": "Za właściwe wykonanie badań i zabiegów, o których mowa w ust. 1, oraz za ograniczenie do minimum ekspozycji pacjenta na promieniowanie jonizujące odpowiada lekarz, który je wykonuje lub nadzoruje.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Zabiegi z zakresu radiologii interwencyjnej wykonywane mogą być przez lekarzy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "posiadających specjalizację w zakresie dyscyplin, w których są one stosowane;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "którzy odbyli staż w zakresie technik interwencyjnych, nadzorowany przez doświadczonego w tym zakresie specjalistę;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_1/pkt_3",
+       "text": "którzy zdali egzamin przed komisją powołaną przez ministra właściwego do spraw zdrowia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Przewodniczącym komisji, o której mowa w ust. 1 pkt 3, jest krajowy konsultant w dziedzinie radiologii i diagnostyki obrazowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Badania diagnostyczne i lecznicze wykonywane przy użyciu produktów radiofarmaceutycznych są wykonywane wyłącznie przez lekarzy posiadających specjalizację z medycyny nuklearnej lub pod ich nadzorem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Badania rentgenodiagnostyczne są wykonywane przez lekarzy posiadających specjalizację z dziedziny radiologii lub techników elektroradiologii. Technicy elektroradiologii nie mogą wykonywać badań dynamicznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_6/ust_5",
+     "text": "Lekarze, o których mowa w ust. 1—4, odbywają szkolenie specjalistyczne w dziedzinie ochrony radiologicznej, zakończone egzaminem przed komisją powołaną przez ministra właściwego do spraw zdrowia oraz potwierdzone certyfikatem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_6/ust_6",
+     "text": "Szkolenie, o którym mowa w ust. 5, powtarza się co 5 lat.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Eksperyment medyczny z użyciem źródeł promieniowania jonizującego może być przeprowadzony, jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "oczekiwane korzyści poznawcze lub lecznicze przewyższają niepożądane skutki napromienienia dla osób badanych lub leczonych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "będzie w nim brać udział jak najmniejsza liczba osób, przy możliwie małych dawkach promieniowania lub małych aktywnościach produktów radiofarmaceutycznych, zapewniających uzyskanie wyników na założonym poziomie prawdopodobieństwa znamienności statystycznej. Wartości dawek lub aktywności określane są przez pomiar i spełniają warunek optymalizacji ochrony przed promieniowaniem.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Osoby uczestniczące w eksperymencie, o którym mowa w ust. 1, przed przystąpieniem do niego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "są pisemnie informowane o ryzyku związanym z napromienieniem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "wyrażają zgodę na piśmie na uczestnictwo w eksperymencie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Dawki, o których mowa w ust. 1 pkt 2, zależą od rodzaju i wielkości potencjalnych korzyści, o których mowa w ust. 4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Wymaganą zależność między potencjalną korzyścią badania naukowego na ochotnikach przy użyciu produktów radiofarmaceutycznych lub promieniowania rentgenowskiego a wielkością ryzyka i dawką efektywną wyrażoną w milisiwertach (mSv) określa załącznik nr 3 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Osoby, które nie są zatrudnione przy pracy w narażeniu na promieniowanie jonizujące, a świadomie i z własnej woli opiekują się pacjentami poddawanymi terapeutycznej ekspozycji na promieniowanie w postaci produktów radiofarmaceutycznych wprowadzanych do organizmu, nie mogą być narażone na promieniowanie jonizujące, którego efektywna dawka przekracza 5 mSv rocznie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Osoby, o których mowa w ust. 1, otrzymują szczegółową instrukcję postępowania opracowaną przez lekarza prowadzącego leczenie, po zasięgnięciu opinii krajowego konsultanta w dziedzinie terapii onkologicznej lub medycyny nuklearnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Zakłady opieki zdrowotnej stosujące promieniowanie jonizujące w celach medycznych obowiązane są wprowadzić system zarządzania jakością świadczonych usług diagnostycznych i leczniczych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Dokumentacja systemu, o którym mowa w ust. 1, zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_2/pkt_1",
+       "text": "księgę jakości opracowaną zgodnie z normami PN-EN-ISO/IEC;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_2/pkt_2",
+       "text": "ogólne procedury opracowane zgodnie z normami, o których mowa w pkt 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_2/pkt_3",
+       "text": "opisy procedur postępowania diagnostycznego lub terapeutycznego mających zastosowanie w danym zakładzie opieki zdrowotnej, opracowane zgodnie z zaleceniami konsultantów krajowych w dziedzinie radioterapii onkologicznej, radiologii i diagnostyki obrazowej oraz medycyny nuklearnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_9/ust_2/pkt_4",
+       "text": "instrukcje obsługi urządzeń radiologicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_9/ust_2/pkt_5",
+       "text": "zapisy dotyczące wyników przeprowadzanych wstępnych i okresowych testów urządzeń radiologicznych i urządzeń pomocniczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_9/ust_2/pkt_6",
+       "text": "zapisy dotyczące kwalifikacji i szkoleń personelu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_9/ust_2/pkt_7",
+       "text": "zapisy dotyczące analizy odrzuconych wyników badań oraz podjętych działań korygujących i naprawczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_9/ust_2/pkt_8",
+       "text": "zapisy dotyczące okresowych przeglądów systemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_9/ust_2/pkt_9",
+       "text": "standardy opisów wyników badań.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Parametry techniczne nowo instalowanych urządzeń radiologicznych muszą spełniać kryteria określone w dokumencie Komisji Europejskiej „Radiation Protection”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Podstawowe wskazania dotyczące obrazowania z wykorzystaniem promieniowania jonizującego opiniują konsultanci krajowi w dziedzinie radiologii i diagnostyki obrazowej oraz medycyny nuklearnej, uwzględniając aktualne zalecenia Komisji Europejskiej.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Rentgenodiagnostyka"
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Podczas dokonywania diagnostycznych badań rentgenowskich należy przestrzegać następujących zasad postępowania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_1/pkt_1",
+       "text": "w radiografii planarnej stosuje się parametry ekspozycji decydujące o jakości i natężeniu promieniowania jonizującego właściwe dla fizycznej budowy pacjenta oraz rodzaju wykonywanego badania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_1/pkt_2",
+       "text": "w radiografii planarnej liczba projekcji i czas ekspozycji oraz rozmiary wiązki promieniowania padającej na ciało pacjenta ogranicza się do wartości niezbędnych dla uzyskania żądanej informacji diagnostycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_1/pkt_3",
+       "text": "stosuje się osłony osobiste chroniące przed promieniowaniem części ciała i narządy pacjenta niebędące przedmiotem badania, a znajdujące się w wiązce pierwotnej promieniowania, jeżeli nie umniejsza to diagnostycznych wartości wyniku badania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_12/ust_1/pkt_4",
+       "text": "stosuje się materiały i urządzenia zmniejszające do minimum narażenie na promieniowanie jonizujące i zapewniające uzyskanie obrazu o wartości diagnostycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_12/ust_1/pkt_5",
+       "text": "stosuje się wyłącznie automatyczne wywoływanie i utrwalanie błon rentgenowskich, z wyjątkiem błon stosowanych w stomatologii.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Podczas dokonywania diagnostycznych badań za pomocą rentgenowskiego tomografu komputerowego należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_2/pkt_1",
+       "text": "ograniczyć do niezbędnego minimum wielkość części ciała pacjenta będącej przedmiotem badania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_2/pkt_2",
+       "text": "ograniczyć wartości iloczynu prądu i czasu ekspozycji wyrażonego w miliamperosekundach (mAs) do najmniejszych wartości pozwalających na uzyskanie obrazu o optymalnych cechach diagnostycznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_2/pkt_3",
+       "text": "dostosować parametry skanowania do rozmiarów ciała pacjenta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_12/ust_2/pkt_4",
+       "text": "w technice spiralnej z istniejących danych rekonstruować obraz warstw pośrednich zamiast wykonywania dodatkowych obrazów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_12/ust_2/pkt_5",
+       "text": "ograniczyć w technice spiralnej stosunek grubości warstwy badanej do skoku spirali do wartości nie większych od jedności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_12/ust_2/pkt_6",
+       "text": "zapewnić w technice stacjonarnej niezachodzenie na siebie warstw (przesunięcie stołu między kolejnymi warstwami jest nie mniejsze niż grubość warstwy);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_12/ust_2/pkt_7",
+       "text": "stosować osłony osobiste na tarczycę, piersi, soczewki oczu i gonady, jeżeli leżą one bliżej niż 10 cm poza obszarem badanym, w szczególności u osób poniżej 16 roku życia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_12/ust_2/pkt_8",
+       "text": "stosować parametry ekspozycji dla dzieci uwzględniające wielkość ciała;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_12/ust_2/pkt_9",
+       "text": "stosować rotację wiązki ograniczoną do kąta mniejszego od 360°, jeżeli jest to technicznie możliwe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_12/ust_2/pkt_10",
+       "text": "dokonać odpowiedniego wyboru parametrów rekonstrukcji obrazu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_12/ust_2/pkt_11",
+       "text": "stosować zmienną filtrację modyfikującą system akwizycji tomografu komputerowego, w przypadku gdy jest to możliwe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_12/ust_2/pkt_12",
+       "text": "rejestrować parametry ekspozycji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Podczas diagnostycznych badań za pomocą mammografu należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_3/pkt_1",
+       "text": "używać urządzeń radiologicznych przeznaczonych wyłącznie do badań mammograficznych, których parametry odpowiadają normom serii EN 60601;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_3/pkt_2",
+       "text": "prowadzić systematyczną, cotygodniową kontrolę obrazu fantomu referencyjnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_3/pkt_3",
+       "text": "używać filtru rodowego w przypadku piersi o znacznych rozmiarach (powyżej 6 cm po kompresji) i dużej zawartości tkanki gruczołowej, jeżeli mammograf posiada możliwość wyboru rodzaju filtracji(Mo/Rh) z pulpitu sterowniczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_12/ust_3/pkt_4",
+       "text": "ograniczyć do niezbędnego minimum stosowanie geometrycznego powiększenia obrazu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_12/ust_3/pkt_5",
+       "text": "stosować osłony osobiste ochraniające przed promieniowaniem jamę brzuszną, w szczególności w przypadku pacjentek w wieku rozrodczym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_12/ust_3/pkt_6",
+       "text": "stosować aparaty o ognisku nie większym niż 0,3 mm do mammograficznych badań przesiewowych dla odległości pomiędzy ogniskiem a detektorem równej 60 cm;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_12/ust_3/pkt_7",
+       "text": "używać do oceny obrazów mammograficznych negatoskopów, o luminancji wyrażonej w kandelach na m² większej niż 3 000 cd/m².",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_12/ust_4",
+     "text": "W badaniach, o których mowa w ust. 1—3, należy stosować podstawowe parametry techniczne określone w załączniku nr 4 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Aparatura rentgenodiagnostyczna podlega okresowym testom wewnętrznej kontroli parametrów, wykonywanym przez przeszkolony w tym zakresie personel zakładu opieki zdrowotnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Testom wewnętrznej kontroli parametrów podlegają w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_2/pkt_1",
+       "text": "parametry pracy lampy rentgenowskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_2/pkt_2",
+       "text": "geometria wiązki promieniowania rentgenowskiego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_13/ust_2/pkt_3",
+       "text": "detektor obrazu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_13/ust_2/pkt_4",
+       "text": "systemy automatyki aparatu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_13/ust_2/pkt_5",
+       "text": "procesy fotochemiczne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Sposób wykonywania wewnętrznej kontroli parametrów musi być zgodny z wymaganiami określonymi w normach, których wykaz ustala minister właściwy do spraw zdrowia, po zasięgnięciu opinii właściwego konsultanta krajowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_13/ust_4",
+     "text": "Szczegółowy zakres i częstość testów, o których mowa w ust. 2, oraz dopuszczalne odchylenia badanych parametrów określa załącznik nr 5 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_13/ust_5",
+     "text": "Jeżeli zakres wewnętrznej kontroli parametrów wykracza poza możliwości techniczne zakładu opieki zdrowotnej, testy, o których mowa w ust. 2, wykonują jednostki organizacyjne posiadające notyfikację ministra właściwego do spraw zdrowia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_13/ust_6",
+     "text": "Nadzór wewnętrzny nad aparaturą rentgenodiagnostyczną sprawuje fizyk medyczny lub osoba posiadająca odpowiednie kwalifikacje.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_13/ust_7",
+     "text": "Audyt kliniczny zewnętrzny sprawowany jest:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_7/pkt_1",
+       "text": "w zakresie stosowanych procedur i uzyskiwanych wyników — przez audytorów posiadających stosowne notyfikacje;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_7/pkt_2",
+       "text": "w zakresie narażenia pacjentów i parametrów technicznych aparatury rentgenodiagnostycznej — przez certyfikowane i notyfikowane w tym zakresie jednostki Państwowej Inspekcji Sanitarnej lub inne jednostki.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_13/ust_8",
+     "text": "Zakres parametrów technicznych, o których mowa w ust. 7 pkt 2, oraz częstotliwość ich kontroli i tolerancję określa załącznik nr 6 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Badania przesiewowe, o których mowa w § 3 ust. 4, mogą być wykonywane za zgodą ministra właściwego do spraw zdrowia, na wniosek właściwego konsultanta krajowego, po zasięgnięciu opinii konsultanta krajowego w dziedzinie radiologii i diagnostyki obrazowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Wniosek, o którym mowa w ust. 1:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_2/pkt_1",
+       "text": "zawiera szczegółowy opis systemu zarządzania jakością w zakładach opieki zdrowotnej, które zostały wyznaczone do prowadzenia badań przesiewowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_2/pkt_2",
+       "text": "określa cel i uzasadnienie badania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_14/ust_2/pkt_3",
+       "text": "wykazuje, że:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_14/ust_2/pkt_3/lit_a",
+         "text": "korzyści zdrowotne związane z badaniem przesiewowym przewyższają znacznie możliwe szkodliwe następstwa badania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_14/ust_2/pkt_3/lit_b",
+         "text": "nie ma innych metod rozpoznawczych o podobnej skuteczności, obciążonych mniejszym ryzykiem.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_14/ust_3",
+     "text": "Przeprowadzanie badań przesiewowych podlega okresowej kontroli w zakresie jakości wykonywania tych badań oraz ich wyników.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_14/ust_4",
+     "text": "Kontrolę, o której mowa w ust. 3, przeprowadza zespół powoływany przez ministra właściwego do spraw zdrowia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_14/ust_5",
+     "text": "Zespół, o którym mowa w ust. 4, po każdej przeprowadzonej kontroli przedstawia ministrowi właściwemu do spraw zdrowia wniosek dotyczący kontynuowania lub zaprzestania badań przesiewowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_14/ust_6",
+     "text": "Kontrola wyników badań przesiewowych obejmuje okresy nie dłuższe niż 3 lata, licząc od dnia wydania zgody, o której mowa w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Stosowanie badań fotofluorograficznych ogranicza się wyłącznie do przeprowadzania badań przesiewowych, o których mowa w § 3 ust. 4, z zastrzeżeniem ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Zabrania się wykonywania badań fotofluorograficznych u osób poniżej 16 roku życia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Stosowanie fluoroskopii dopuszczalne jest w przypadkach, w których ze względów diagnostycznych nie może być ona zastąpiona radiografią.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Wykonywanie badań rentgenodiagnostycznych u osób poniżej 16 roku życia wymaga:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_17/ust_1/pkt_1",
+       "text": "używania wyłącznie aparatury rentgenodiagnostycznej wyposażonej w co najmniej sześciopulsowe generatory, z wyłączeniem badań stomatologicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_17/ust_1/pkt_2",
+       "text": "unieruchamiania niemowląt lub małych dzieci przy użyciu bobiksu lub innego urządzenia spełniającego tę funkcję;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_17/ust_1/pkt_3",
+       "text": "stosowania osłon na gonady, a w przypadku tomografii klatki piersiowej u dziewcząt — także na gruczoły piersiowe, gdy w trakcie badania mogą znaleźć się w pobliżu pierwotnej wiązki promieniowania, jeżeli nie uniemożliwi to poprawnego wykonania badania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Optymalne parametry techniczne badań rentgenodiagnostycznych z zakresu radiologii pediatrycznej określa tabela B załącznika nr 4 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Wykonywanie badań rentgenodiagnostycznych u kobiet w ciąży ogranicza się do niezbędnych przypadków, jeżeli nie mogą być one wykonane po rozwiązaniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Badania, o których mowa w ust. 1, należy wykonywać w sposób zapewniający maksymalną ochronę płodu przed ekspozycją na promieniowanie, poprzez wybór właściwej techniki badania oraz stosowanie właściwych osłon na okolicę brzucha i miednicy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_18/ust_3",
+     "text": "Przepisów ust. 2 nie stosuje się w przypadku wykonywania badań rentgenodiagnostycznych koniecznych dla ratowania życia pacjentki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Podczas wykonywania badania rentgenodiagnostycznego lub zabiegu z zakresu radiologii interwencyjnej w pomieszczeniu, w którym znajduje się aparat rentgenowski, przebywać może wyłącznie pacjent oraz osoby, które wykonują czynności bezpośrednio związane z badaniem lub zabiegiem. Dotyczy to również badania wykonywanego przy łóżku chorego, z zastrzeżeniem ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "W uzasadnionych przypadkach, w szczególności gdy z uwagi na stan pacjenta nie jest możliwe przeniesienie go do innego pomieszczenia, badanie lub zabieg, o których mowa w ust. 1, dokonywane są w pomieszczeniu, w którym się pacjent znajduje, przy czym:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_2/pkt_1",
+       "text": "wiązkę pierwotną promieniowania kierować należy wyłącznie na chorego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_2/pkt_2",
+       "text": "inni chorzy, o ile jest to możliwe, opuszczają to pomieszczenie na czas badania lub zabiegu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Jeżeli w czasie wykonywania radiografii zachodzi konieczność podtrzymywania pacjenta, czynność tę wykonuje osoba, która:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_20/ust_1/pkt_1",
+       "text": "ukończyła 18 lat;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_20/ust_1/pkt_2",
+       "text": "nie jest w ciąży;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_20/ust_1/pkt_3",
+       "text": "wyposażona została w fartuch i rękawice ochronne z gumy ołowianej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_20/ust_1/pkt_4",
+       "text": "poinstruowana została o sposobie postępowania i ryzyku radiacyjnym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Czynności, o których mowa w ust. 1, w warunkach ambulatoryjnych wykonywać może również członek rodziny pacjenta lub jego opiekun spełniający warunki określone w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_20/ust_3",
+     "text": "Osoby, o których mowa w ust. 1, powinny być często zmieniane.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Do przeprowadzania zabiegów z zakresu radiologii interwencyjnej jest stosowana wyłącznie aparatura przeznaczona do tego celu, z wyposażeniem zapewniającym właściwą ochronę pacjenta i personelu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Aparatura, o której mowa w ust. 1, jest wyposażona w dobrze widoczny dla operatora rejestrator dawki i czasu ekspozycji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_21/ust_3",
+     "text": "Aparatura, o której mowa w ust. 1, jest poddawana systematycznej kontroli parametrów w zakresie funkcji i sprawności technicznej zgodnie z parametrami, o których mowa w ust. 4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_21/ust_4",
+     "text": "Zakres i częstotliwość wykonywania kontroli oraz tolerancję parametrów technicznych aparatury określa załącznik nr 6 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Wykonywanie zabiegów z zakresu radiologii interwencyjnej odbywać się może wyłącznie na podstawie pisemnych procedur opracowanych przez zakład radiologii, pozytywnie zaopiniowanych przez konsultanta krajowego w dziedzinie radiologii i diagnostyki obrazowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Wykonywanie zabiegów zgodnie z procedurami, o których mowa w ust. 1, wymaga ponadto:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_22/ust_2/pkt_1",
+       "text": "stosowania jak najkrótszego czasu emisji promieniowania jonizującego niezbędnego dla prawidłowego wykonania badania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_22/ust_2/pkt_2",
+       "text": "unikania trybu pracy aparatury rentgenowskiej w reżimie wysokiej mocy dawki;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_22/ust_2/pkt_3",
+       "text": "właściwego doboru parametrów pracy lampy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_22/ust_2/pkt_4",
+       "text": "stosowania możliwie największej odległości lampy od pacjenta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_22/ust_2/pkt_5",
+       "text": "stosowania możliwie najbliższego położenia wzmacniacza obrazu względem ciała pacjenta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_22/ust_2/pkt_6",
+       "text": "ograniczenia do minimum stosowania geometrycznego powiększenia obrazu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_22/ust_2/pkt_7",
+       "text": "zmieniania położenia miejsca wejścia wiązki pierwotnej promieniowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_22/ust_2/pkt_8",
+       "text": "ograniczenia do minimum liczby rejestrowanych obrazów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_22/ust_2/pkt_9",
+       "text": "stosowania kontroli indywidualnych dawek promieniowania jonizującego otrzymywanych przez personel na całe ciało oraz na skórę dłoni.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Zabiegi z zakresu radiologii interwencyjnej u kobiet w ciąży mogą być wykonywane dla ratowania zdrowia i życia matki, jeżeli nie dotyczą okolicy miednicy małej i brzucha (w bezpośrednim sąsiedztwie płodu). W przypadku gdy doszło do napromienienia zarodka lub płodu bezpośrednią wiązką promieniowania, fizyk medyczny dokonuje obliczenia dawki dla zarodka lub płodu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "Dalsze postępowanie lekarskie zależne jest od wielkości dawki promieniowania obliczonej zgodnie z ust. 1 oraz szacunku ryzyka poważnych uszkodzeń zarodka lub płodu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Pacjent, który w wyniku zabiegu z zakresu radiologii interwencyjnej otrzymał dawkę sumaryczną na skórę wyrażoną w greyach przekraczającą 3 Gy, jest poddawany badaniom kontrolnym w okresie 10—14 dni po zabiegu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "W stosunku do pacjenta, o którym mowa w ust. 1, w przypadku gdy jest to konieczne, podejmuje się leczenie dermatologiczne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_24/ust_3",
+     "text": "Jeżeli pacjent w wyniku zabiegu z zakresu radiologii interwencyjnej, wykonywanego według obowiązujących procedur, a mogącego wymagać powtórzenia, otrzymał dawkę sumaryczną na skórę przekraczającą 1 Gy, dokumentacja wyników badań i informacja o dawce jest przekazywana lekarzowi prowadzącemu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_24/ust_4",
+     "text": "Zabiegi wykonywane według procedur, o których mowa w ust. 3, wymagają rejestracji i rozpoznawania ekspozycji pacjenta oraz przekazywania tych informacji innym lekarzom i placówkom uczestniczącym w jego leczeniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "Audyt wewnętrzny w zakładach opieki zdrowotnej, w których wykonywane są zabiegi z zakresu radiologii interwencyjnej, przeprowadza się nie rzadziej niż co pół roku, a także w razie doraźnej potrzeby.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Audyt zewnętrzny w zakładach, o których mowa w ust. 1, przeprowadza komisja powołana przez konsultanta krajowego w dziedzinie radiologii i diagnostyki obrazowej co najmniej raz na 3 lata, a także po każdym incydencie prowadzącym do uchwytnego uszkodzenia popromiennego u pacjenta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_25/ust_3",
+     "text": "Zakład, o którym mowa w ust. 1, zgłasza niezwłocznie ministrowi właściwemu do spraw zdrowia wystąpienie incydentów, o których mowa w ust. 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Medycyna nuklearna"
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "W zakładzie medycyny nuklearnej, poza wymaganiami określonymi dla odpowiedniej klasy pracowni izotopowej, są wydzielone pomieszczenia przeznaczone na:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_26/pkt_1",
+     "text": "przyjmowanie i przechowywanie źródeł promieniotwórczych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_26/pkt_2",
+     "text": "prowadzenie prac związanych z preparatyką i dozowaniem produktów radiofarmaceutycznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_26/pkt_3",
+     "text": "hospitalizowanie pacjentów poddawanych onkologicznej terapii jodem-131, jeżeli taka terapia jest prowadzona;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_26/pkt_4",
+     "text": "zbieranie i przechowywanie skażonej pościeli, bielizny i odpadów promieniotwórczych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_26/pkt_5",
+     "text": "kontrolę dozymetryczną, usuwanie skażeń i przechowywanie odzieży (śluza, punkt dozymetryczny, szatnia), wyposażone w kabiny z prysznicem i umywalkami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_26/pkt_6",
+     "text": "aparaturę diagnostyczną;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_26/pkt_7",
+     "text": "laboratorium fotochemiczne, jeżeli stosuje się chemiczną obróbkę błon fotograficznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_26/pkt_8",
+     "text": "gabinet lekarski;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_26/pkt_9",
+     "text": "poczekalnię z możliwością oddzielenia przestrzeni zajmowanej przez pacjentów przed i po podaniu produktów radiofarmaceutycznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_26/pkt_10",
+     "text": "węzeł sanitarny.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_27/ust_1",
+     "text": "Zakład medycyny nuklearnej jest wyposażony w aparaturę do pomiarów aktywności produktów radiofarmaceutycznych, mocy dawki, skażeń promieniotwórczych, właściwą dla rodzaju źródeł i zakresu prowadzonych prac oraz właściwe osłony przed promieniowaniem jonizującym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_27/ust_2",
+     "text": "Wyjścia z oddziału, w którym do terapii onkologicznej stosuje się otwarte źródła promieniotwórcze, są monitorowane, w szczególności za pomocą bramki dozymetrycznej z sygnałem dźwiękowym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Personel oraz pacjenci przebywający na terenie zakładu medycyny nuklearnej obowiązani są przestrzegać instrukcji mających na celu ograniczenie narażenia na promieniowanie jonizujące, opracowanej zgodnie z opinią konsultanta krajowego w dziedzinie medycyny nuklearnej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "Bezpieczne stosowanie produktów radiofarmaceutycznych do celów diagnostycznych i leczniczych wymaga przestrzegania w szczególności następujących zasad postępowania:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_29/pkt_1",
+     "text": "wykonywania badań diagnostycznych i przeprowadzania leczenia wyłącznie na podstawie pisemnych procedur zgodnie z opinią właściwego konsultanta krajowego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_29/pkt_2",
+     "text": "wykonywania wszelkich czynności związanych z przygotowaniem produktów radiofarmaceutycznych przez znakowanie gotowych zestawów lub podzielenie większych porcji gotowych produktów radiofarmaceutycznych do podania pacjentom, wyłącznie w przeznaczonych do tego celu pomieszczeniach wyposażonych w wyciągi radiochemiczne i zapewniających zachowanie jałowości w procesie znakowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_29/pkt_3",
+     "text": "w przypadku gdy w zakładzie medycyny nuklearnej znakuje się radionuklidem pobrany od pacjenta materiał biologiczny oraz w każdym przypadku wytwarzania produktu radiofarmaceutycznego, wydzielone do tego celu pomieszczenia i tryb pracy zapewniają utrzymanie stopnia czystości bakteriologicznej klasy A w rozumieniu przepisów w sprawie wymagań Dobrej Praktyki Wytwarzania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_29/pkt_4",
+     "text": "stosowania osłon przed promieniowaniem jonizującym właściwych dla rodzaju źródeł i zakresu prowadzonych prac, w tym używania strzykawek wyposażonych w osłony pochłaniające promieniowanie gamma i beta;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_29/pkt_5",
+     "text": "niedozwolona jest manipulacja źródłami o aktywności wyrażonej w megabekerelach większej niż 0,1 MBq nieosłoniętymi osłoną o grubości co najmniej równoważnej 3 mm Pb w sposób umożliwiający ich dotykowy kontakt ze skórą dłoni i palców, również osłoniętych rękawicą zapobiegającą skażeniom powierzchniowym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_29/pkt_6",
+     "text": "przy podawaniu pacjentom produktów radiofarmaceutycznych w celach diagnostycznych należy stosować metody postępowania ograniczające odkładanie się znacznika promieniotwórczego w narządach niepodlegających badaniu oraz — jeżeli jest to możliwe — przyspieszające wydalanie znacznika z organizmu pacjenta;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_29/pkt_7",
+     "text": "każdorazowe podanie pacjentowi produktu radiofarmaceutycznego wymaga uprzedniego zmierzenia jego aktywności, tak aby pacjent otrzymał ilość (aktywność) przepisaną przez lekarza nadzorującego badanie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_29/pkt_8",
+     "text": "podawanie produktu radiofarmaceutycznego dorosłym pacjentom uwzględnia — w przypadkach, w których jest to uzasadnione, ciężar lub powierzchnię ciała, a w przypadku osób do 16 roku życia — ciężar ciała lub wiek; sposoby obliczania aktywności opiniuje konsultant krajowy w dziedzinie medycyny nuklearnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_29/pkt_9",
+     "text": "informowania na piśmie pacjenta poddawanego terapii radioizotopowej o właściwym zachowaniu się w stosunku do najbliższego otoczenia zgodnie z opinią konsultanta krajowego w dziedzinie medycyny nuklearnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_30/ust_1",
+     "text": "Badania diagnostyczne przy użyciu produktów radiofarmaceutycznych u kobiet w ciąży są ograniczone do przypadków, w których nie mogą być one wykonane po rozwiązaniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_30/ust_2",
+     "text": "W przypadkach, o których mowa w ust. 1, należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_30/ust_2/pkt_1",
+       "text": "ograniczyć aktywności produktów radiofarmaceutycznych do najmniejszej wartości umożliwiającej badanie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_30/ust_2/pkt_2",
+       "text": "zwiększyć podaż płynów badanej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_30/ust_2/pkt_3",
+       "text": "pouczyć badaną o konieczności częstego oddawania moczu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_30/ust_3",
+     "text": "Stosowanie do celów diagnostycznych i leczniczych jodków znakowanych¹³¹I i¹²⁵I u kobiet w ciąży po 8 tygodniach od zapłodnienia nie jest dopuszczalne. Dotyczy to również leczenia przeciwbólowego przy użyciu osteotropowych produktów radiofarmaceutycznych w dowolnym okresie ciąży.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_30/ust_4",
+     "text": "W przypadku konieczności wykonania badania lub leczenia przy użyciu produktu radiofarmaceutycznego u kobiety karmiącej, lekarz wykonujący lub nadzorujący badanie jest obowiązany poinformować pacjentkę o konieczności przerwania karmienia piersią lub okresowego zaprzestania karmienia, z podaniem długości tego okresu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_30/ust_5",
+     "text": "Okresy zaprzestania karmienia piersią niemowląt po podaniu produktów radiofarmaceutycznych dla celów diagnostycznych określa załącznik nr 7 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_31/ust_1",
+     "text": "W leczeniu ambulatoryjnym otwartymi źródłami jodu-131, podana jednorazowa aktywność nie może przekraczać 800 MBq.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_31/ust_2",
+     "text": "Jeżeli podana jednorazowa aktywność przekracza wartość określoną w ust. 1, pacjent może być zwolniony ze szpitala po spadku aktywności w ciele poniżej tej wartości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_31/ust_3",
+     "text": "Przy podejmowaniu decyzji o zwolnieniu z leczenia szpitalnego otwartymi źródłami jodu-131 uwzględnić należy każdorazowo warunki mieszkaniowe i rodzinne pacjenta oraz możliwości przestrzegania przez niego ograniczeń warunkujących zmniejszenie ryzyka radiacyjnego dla osób z otoczenia, tak aby dawki efektywne dla tych osób nie przekroczyły wartości, o których mowa w ust. 4. Przepisu nie stosuje się do osób, o których mowa w § 8.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_31/ust_4",
+     "text": "Limity użytkowe dawek dla planowania ochrony przed promieniowaniem rodziny pacjenta leczonego otwartymi źródłami jodu-131 oraz osób postronnych określa załącznik nr 8 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_31/ust_5",
+     "text": "Przy podejmowaniu decyzji, o której mowa w ust. 3, należy uwzględnić opinie konsultanta krajowego w dziedzinie medycyny nuklearnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "Urządzenia radiologiczne stosowane w medycynie nuklearnej, a także produkty radiofarmaceutyczne podlegają testom wewnętrznej kontroli parametrów, wykonywanym przez przeszkolony w tym zakresie personel zakładu opieki zdrowotnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Minimalny zakres i częstotliwość testów, o których mowa w ust. 1, określa załącznik nr 9 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_33/ust_1",
+     "text": "Audyt kliniczny zewnętrzny w zakresie stosowanych procedur i uzyskiwanych wyników oraz w zakresie narażenia pacjentów i parametrów technicznych urządzeń radiologicznych sprawowany jest przez wojewódzkiego konsultanta w dziedzinie medycyny nuklearnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_33/ust_2",
+     "text": "W przypadku zakładu kierowanego przez konsultanta, o którym mowa w ust. 1, audyt kliniczny zewnętrzny prowadzony jest przez osobę wyznaczoną przez konsultanta krajowego w dziedzinie medycyny nuklearnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_33/ust_3",
+     "text": "Audyt kliniczny zewnętrzny jest wykonywany nie rzadziej niż co 3 lata, a jego wyniki przekazywane konsultantowi krajowemu w dziedzinie medycyny nuklearnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_34/ust_1",
+     "text": "Personel stosujący otwarte źródła jodu-131 dla leczenia raka tarczycy podlega wewnętrznej kontroli zawartości jodu promieniotwórczego w gruczole tarczowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_34/ust_2",
+     "text": "Częstotliwość kontroli, o której mowa w ust. 1, uzależnia się od stopnia zagrożenia skażeniami wewnętrznymi jodem-131.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_34/ust_3",
+     "text": "W zakładach, w których stosuje się znakowanie produktów radiofarmaceutycznych izotopem 99m Tc uzyskiwanym z generatora, należy oznaczać indywidualne dawki promieniowania dla skóry dłoni osób przeprowadzających procedury znakowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Radioterapia"
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_35/ust_1",
+     "text": "Zakład radioterapii, stosując promieniowanie jonizujące, zapewnia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_35/ust_1/pkt_1",
+       "text": "właściwą strukturę organizacyjną i wyposażenie zakładu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_35/ust_1/pkt_2",
+       "text": "właściwy dobór, liczbę i kwalifikacje personelu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_35/ust_1/pkt_3",
+       "text": "przestrzeganie ustalonego regulaminu pracy zakładu, procedur dotyczących jakości i kontroli tej jakości, w tym uczestnictwa w audytach wewnętrznych i zewnętrznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_35/ust_2",
+     "text": "Wymagania dotyczące pomieszczeń i wyposażenia zakładu teleradioterapii określa załącznik nr 10 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_35/ust_3",
+     "text": "Wymagania dotyczące wyposażenia zakładu brachyterapii określa załącznik nr 11 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_36/ust_1",
+     "text": "Minister właściwy do spraw zdrowia może wyrazić zgodę na prowadzenie radykalnego leczenia przeciwnowotworowego przez zakład dysponujący wyłącznie jednym megawoltowym aparatem terapeutycznym, po uprzednim zasięgnięciu opinii konsultanta krajowego w dziedzinie radioterapii onkologicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_36/ust_2",
+     "text": "Niedopuszczalne jest stosowanie aparatów ortowoltowych do celów radioterapii głębokiej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_37/ust_1",
+     "text": "Przebieg pracy aparatu terapeutycznego oraz symulatorów jest zapisywany w rejestrze eksploatacji prowadzonym oddzielnie dla każdego aparatu i symulatora.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_37/ust_2",
+     "text": "Rejestr eksploatacji zawiera w szczególności informacje o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_37/ust_2/pkt_1",
+       "text": "awariach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_37/ust_2/pkt_2",
+       "text": "przeprowadzonych konserwacjach i naprawach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_37/ust_2/pkt_3",
+       "text": "dokonanych kontrolach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_37/ust_2/pkt_4",
+       "text": "innych zdarzeniach mogących mieć wpływ na pracę aparatu terapeutycznego i symulatora.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_37/ust_3",
+     "text": "Wpisu do rejestru eksploatacji dokonywać należy w sposób czytelny, opatrując go podpisem i datą.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_38/ust_1",
+     "text": "Aparaty terapeutyczne stosowane w zakładach radioterapii podlegają okresowej kontroli dokonywanej przez użytkownika w zakresie parametrów mechanicznych, dozymetrycznych oraz sprawności systemu zabezpieczeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_38/ust_2",
+     "text": "Urządzenia dozymetryczne oraz urządzenia wspomagające planowanie i realizację leczenia wykorzystywane w zakładach radioterapii podlegają okresowym wewnętrznym testom kontrolnym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_38/ust_3",
+     "text": "Szczegółowe zasady, zakres oraz częstotliwość przeprowadzania kontroli, o których mowa w ust. 1 i 2, określa załącznik nr 12 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_38/ust_4",
+     "text": "Dokumenty z przeprowadzonych kontroli, o których mowa w ust. 1 i 2, przechowuje się przez co najmniej 5 lat od dnia zakończenia eksploatacji aparatu lub urządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_39/ust_1",
+     "text": "W zakładzie radioterapii wdraża się procedury zapewnienia i kontroli jakości według zaleceń ESTRO-EBR, EC, spełniające wymagania, o których mowa w ust. 6.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_39/ust_2",
+     "text": "W zakładzie radioterapii, w którym prowadzone jest radykalne leczenie przeciwnowotworowe, liczba zatrudnionych lekarzy ze specjalnością z radioterapii onkologicznej i techników radioterapii zapewnia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_39/ust_2/pkt_1",
+       "text": "uczestnictwo lekarza w czasie pierwszego napromieniania pacjenta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_39/ust_2/pkt_2",
+       "text": "obecność dwóch techników podczas napromieniania pacjenta z użyciem zewnętrznych wiązek promieniowania megawoltowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_39/ust_3",
+     "text": "Przy zakładzie radioterapii działa pracownia (zakład) fizyki medycznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_39/ust_4",
+     "text": "Pracownią (zakładem) fizyki medycznej lub pracownią (zakładem) planowania leczenia kieruje fizyk medyczny, który jest odpowiedzialny za planowanie i sprawdzanie fizycznych oraz technicznych parametrów napromieniania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_39/ust_5",
+     "text": "W zakładzie radioterapii wdraża się i dokumentuje procedurę podwójnego niezależnego sprawdzania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_39/ust_5/pkt_1",
+       "text": "wyznaczonej objętości tarczowej i technik napromieniania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_39/ust_5/pkt_2",
+       "text": "obliczonego czasu napromienienia lub obliczonej ekspozycji wyrażonej w jednostkach monitorowych, dla każdego obszaru napromieniania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_39/ust_5/pkt_3",
+       "text": "fizycznych i technicznych parametrów ustawienia aparatu terapeutycznego oraz parametrów technicznych stołu terapeutycznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_39/ust_6",
+     "text": "Wymagania procedur systemu zarządzania i kontroli jakości radioterapii określa załącznik nr 13 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_40/ust_1",
+     "text": "Leczenie z użyciem promieniowania jonizującego musi być zgodne z protokołem terapeutycznym obowiązującym w zakładzie radioterapii, określającym sposób planowania i prowadzenia radioterapii oraz badań kontrolnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_40/ust_2",
+     "text": "Odstępstwa od protokołu terapeutycznego są uzasadniane w dokumentacji medycznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_41/ust_1",
+     "text": "Podjęcie leczenia z użyciem promieniowania jonizującego poprzedza przygotowanie planu leczenia zawierającego dane niezbędne dla prawidłowej realizacji napromieniania i uwzględniającego okresowe badania lekarskie pacjenta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_41/ust_2",
+     "text": "Plan leczenia, o którym mowa w ust. 1, zatwierdza co najmniej dwóch lekarzy specjalistów w dziedzinie radioterapii onkologicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_41/ust_3",
+     "text": "W przypadku brachyterapii, dane, o których mowa w ust. 1, obejmują w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_41/ust_3/pkt_1",
+       "text": "wyznaczenie kolejności prowadnic przeznaczonych do poruszania się źródeł i ich oznaczenie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_41/ust_3/pkt_2",
+       "text": "wyznaczenie na podstawie zdjęć lokalizacyjnych przestrzennych współrzędnych źródeł promieniotwórczych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_41/ust_4",
+     "text": "Odstąpienie od wykonania zdjęć, o których mowa w ust. 3 pkt 2, uzasadnione jest w przypadku, gdy układ aplikatorów w sposób jednoznaczny określa współrzędne źródeł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_41/ust_5",
+     "text": "W przypadku teleradioterapii dane, o których mowa w ust. 1, obejmują symulację zaplanowanych wiązek. Dokonanie symulacji utrwala się zapisem w postaci zdjęcia rentgenowskiego lub zapisu cyfrowego. Odstąpienie od dokonania symulacji uzasadniać mogą jedynie względy medyczne każdorazowo odnotowywane w dokumentacji medycznej pacjenta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_41/ust_6",
+     "text": "W odniesieniu do trójwymiarowego planowania leczenia wymagane są:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_41/ust_6/pkt_1",
+       "text": "seria zdjęć tomograficznych w odstępach nie większych niż 8 mm;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_41/ust_6/pkt_2",
+       "text": "trójwymiarowe odtworzenie objętości tarczowej i narządów krytycznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_41/ust_6/pkt_3",
+       "text": "udokumentowanie planu leczenia w formie histogramu rozkładu dawki w objętości tarczowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_41/ust_7",
+     "text": "Lekarz prowadzący leczenie na bieżąco wpisuje do karty napromieniania dane zawarte w planie leczenia lub podpisem potwierdza wpis technika radioterapii.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_42/ust_1",
+     "text": "Karta napromieniania podlega, nie rzadziej niż raz w tygodniu, kontroli przez lekarza prowadzącego oraz kontroli drugiego lekarza niezwiązanego z leczeniem danego pacjenta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_42/ust_2",
+     "text": "Kontrola karty napromieniania jest udokumentowana. Szczegółowej podwójnej kontroli podlegają:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_42/ust_2/pkt_1",
+       "text": "prawidłowość obliczeń czasów napromieniania dla aparatów ze źródłem promieniotwórczym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_42/ust_2/pkt_2",
+       "text": "prawidłowość obliczeń dawki monitorowej dla akceleratorów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_42/ust_2/pkt_3",
+       "text": "dawki sumaryczne otrzymywane przez pacjenta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_42/ust_2/pkt_4",
+       "text": "zgodność wpisów w karcie napromieniania z opisem planu leczenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_42/ust_3",
+     "text": "W brachyterapii z zastosowaniem urządzeń ze zdalnie sterowanymi źródłami promieniotwórczymi kontrola planu leczenia i karty napromieniania obejmuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_42/ust_3/pkt_1",
+       "text": "ocenę prawidłowości obliczeń czasu postoju źródeł w zaplanowanych punktach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_42/ust_3/pkt_2",
+       "text": "spełnienie wymagań określonych w ust. 2 pkt 3 i 4.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_42/ust_4",
+     "text": "Kontrola czasu i dawki napromieniania jest dokonywana najpóźniej po pierwszym napromienianiu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "W przypadku gdy pacjent jest napromieniony jednorazowo, kontrola dokonywana jest przed ekspozycją."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_42/ust_5",
+     "text": "Przeprowadzający kontrolę potwierdza jej dokonanie podpisem i datą.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_43/ust_1",
+     "text": "Karta napromieniania zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_43/ust_1/pkt_1",
+       "text": "dane jednoznacznie identyfikujące pacjenta oraz rozpoznanie lekarskie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_43/ust_1/pkt_2",
+       "text": "nazwisko lekarza prowadzącego, a w przypadku jego czasowej nieobecności — nazwisko lekarza zastępującego, a także lekarza nadzorującego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_43/ust_1/pkt_3",
+       "text": "czytelnie i jednoznacznie sformułowane, opatrzone podpisem lekarza, dyspozycje realizacji napromieniania z uwzględnieniem:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_43/ust_1/pkt_3/lit_a",
+         "text": "parametrów ekspozycji terapeutycznych pacjenta na stole terapeutycznym oraz punktów topograficznych dla centratorów pozycjonowania pacjenta,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_43/ust_1/pkt_3/lit_b",
+         "text": "wartości dawki frakcyjnej w obszarze tarczowym dla każdego pola napromieniania (lub wartości łącznej będącej sumą przyczynków z wszystkich pól napromieniania),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_43/ust_1/pkt_3/lit_c",
+         "text": "przedziału czasowego między kolejnymi frakcjami,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_43/ust_1/pkt_3/lit_d",
+         "text": "wartości dawki całkowitej i sposobu zapisu jej akumulacji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_43/ust_1/pkt_3/lit_e",
+         "text": "dla zdefiniowanych i wybranych narządów krytycznych — analogiczne wartości parametrów określonych w lit. b—d dotyczą maksymalnej dawki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_43/ust_1/pkt_3/lit_f",
+         "text": "zdefiniowanych użytych modyfikatorów (osłony, filtry, kompensatory) i przyporządkowanie ich odpowiednim polom napromieniania wraz z opisem ich użycia.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_43/ust_2",
+     "text": "W trakcie realizacji radioterapii technik potwierdza podpisem zgodność parametrów zapisanych ze zrealizowanymi, w szczególności jednostek monitorowych (czas ekspozycji).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "44",
+   "path": "par_44",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_44/ust_1",
+     "text": "Bezpieczne stosowanie promieniowania jonizującego w teleradioterapii wymaga:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_44/ust_1/pkt_1",
+       "text": "uczestniczenia lekarza oraz fizyka medycznego na wniosek lekarza prowadzącego, potwierdzonego ich podpisem, w przygotowaniu pacjenta do pierwszego napromieniania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_44/ust_1/pkt_2",
+       "text": "uczestniczenia co najmniej dwóch techników radioterapii w przygotowaniu pacjenta do napromieniania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_44/ust_1/pkt_3",
+       "text": "stałej obserwacji pacjenta przez technika radioterapii podczas napromieniania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_44/ust_1/pkt_4",
+       "text": "udziału fizyka medycznego w czasie napromieniania — na wniosek lekarza lub technika.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_44/ust_2",
+     "text": "Aparat terapeutyczny jest okresowo wyłączany z eksploatacji w celu konserwacji, kontroli parametrów technicznych oraz kalibracji i dozymetrii generowanego promieniowania zgodnie z przyjętym wewnętrznym harmonogramem jego pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_44/ust_3",
+     "text": "Harmonogram, o którym mowa w ust. 2, ustala kierownik zakładu radioterapii w porozumieniu z fizykiem medycznym, uwzględniając, że w okresie godziny może być leczonych radykalnie nie więcej niż 5 pacjentów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_44/ust_4",
+     "text": "Lekarz specjalista z dziedziny radioterapii planujący i realizujący leczenie z wykorzystaniem promieniowania jonizującego jest odpowiedzialny za prawidłowość proponowanego leczenia i jego skutki kliniczne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "45",
+   "path": "par_45",
+   "text": "Bezpieczne stosowanie promieniowania jonizującego w brachyterapii wymaga:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_45/pkt_1",
+     "text": "przygotowania pacjenta do leczenia, planowania i realizacji napromieniania przez lekarza specjalistę z dziedziny radioterapii oraz jego uczestnictwa w rozpoczęciu napromieniania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_45/pkt_2",
+     "text": "stałej obserwacji pacjenta w czasie napromieniania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_45/pkt_3",
+     "text": "umieszczania pacjenta z wprowadzonymi na stałe źródłami promieniotwórczymi w odizolowanym pomieszczeniu do czasu zmniejszenia mocy dawki ekspozycyjnej do wartości dopuszczalnej dla osób postronnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_45/pkt_4",
+     "text": "w przypadku bezpośrednich aplikacji źródeł promieniotwórczych — stosowania osłon i narzędzi pozwalających zmniejszyć do minimum narażenie personelu na promieniowanie pod warunkiem, że nie utrudni to implantacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_45/pkt_5",
+     "text": "zapewnienia możliwości monitorowania wyjścia pracownika z obszaru kontrolowanego, w szczególności przez bramkę dozymetryczną z sygnałem dźwiękowym, w zakładach brachyterapii stosujących ręczne aplikacje źródeł promieniotwórczych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_45/pkt_6",
+     "text": "wykonywania zdjęć sprawdzających położenie zaaplikowanych źródeł promieniotwórczych bezpośrednio w pomieszczeniu, w którym dokonuje się aplikacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_45/pkt_7",
+     "text": "zabezpieczenia źródeł promieniotwórczych na czas aplikacji przed przypadkowym przemieszczeniem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_45/pkt_8",
+     "text": "okresowego sprawdzania położenia źródeł promieniotwórczych — w przypadku długotrwałych aplikacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_45/pkt_9",
+     "text": "porównania po skończonym leczeniu liczby źródeł promieniotwórczych użytych do aplikacji z liczbą źródeł wyjętych oraz dodatkowej kontroli pacjenta za pomocą detektora promieniowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_45/pkt_10",
+     "text": "przygotowania indywidualnych aplikatorów oraz stosowania technik sterylizacji wykluczających możliwość uszkodzenia źródeł promieniotwórczych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_45/pkt_11",
+     "text": "udziału fizyka medycznego w procedurach wymienionych w pkt 1 i pkt 6—10.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "46",
+   "path": "par_46",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_46/ust_1",
+     "text": "Zastosowanie radioterapii u kobiet w ciąży, wynikające z rozpoznania nowotworu złośliwego i braku zadowalających alternatywnych metod postępowania wymaga:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_46/ust_1/pkt_1",
+       "text": "lokalizacji guza w stosunku do płodu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_46/ust_1/pkt_2",
+       "text": "zastosowania osłon chroniących płód w przypadku, gdy odległość i położenie guza to umożliwiają;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_46/ust_1/pkt_3",
+       "text": "ustalenia ryzyka dla matki wynikającego z leczenia innego niż radioterapia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_46/ust_1/pkt_4",
+       "text": "obliczenia dawki dla zarodka lub płodu, będącej wynikiem podjętej terapii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_46/ust_1/pkt_5",
+       "text": "ustalenia prawdopodobieństwa uszkodzenia płodu w zależności od okresu ciąży, w którym nastąpiłoby leczenie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_46/ust_2",
+     "text": "Jeżeli przeprowadzone oceny wskazują na wysokie prawdopodobieństwo powstania ciężkiego uszkodzenia płodu polegającego na powstaniu wad rozwojowych poszczególnych narządów, ciężkiego niedorozwoju umysłowego, wysokiego prawdopodobieństwa indukcji nowotworu, który może ujawnić się w okresie pierwszych 20 lat życia dziecka, kobieta ciężarna jest o tym informowana przez konsylium lekarskie, celem podjęcia decyzji o dalszym postępowaniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_46/ust_3",
+     "text": "Dla uniknięcia niezamierzonego uszkodzenia zarodka lub płodu w wyniku radioterapii okolicy brzucha i miednicy, w przypadku nierozpoznawalnej ciąży, można podjąć radioterapię u kobiet w okresie płodności wyłącznie po uzyskaniu negatywnego testu ciążowego, przeprowadzonego u pacjentki przed podjęciem decyzji o leczeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_46/ust_4",
+     "text": "Od wykonania testu, o którym mowa w ust. 3, można odstąpić, jeżeli istnieją bezpośrednie okoliczności świadczące o niemożliwości zajścia pacjentki w ciążę.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Nieszczęśliwe wypadki związane ze stosowaniem promieniowania jonizującego w radioterapii oraz szczegółowe zasady zapobiegania tym wypadkom"
+  },
+  {
+   "type": "par",
+   "num": "47",
+   "path": "par_47",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_47/ust_1",
+     "text": "Awarią aparatu terapeutycznego jest niestandardowa i nieujęta w instrukcji obsługi przerwa lub niewłaściwa praca aparatu terapeutycznego, a także każde niewłaściwe lub sprzeczne wskazania czujników i wskaźników.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_47/ust_2",
+     "text": "W przypadku, o którym mowa w ust. 1, technik radioterapii obsługujący aparat terapeutyczny obowiązany jest zgłosić awarię osobie odpowiedzialnej za stan i sprawność aparatury w zakładzie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_47/ust_3",
+     "text": "Technik radioterapii może użytkować aparat terapeutyczny, który miał awarię, po otrzymaniu protokołu dopuszczenia aparatu do dalszej pracy podpisanego przez kierownika zakładu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_47/ust_4",
+     "text": "Osobę odpowiedzialną za stan i sprawność aparatury w zakładzie wyznacza dyrektor zakładu opieki zdrowotnej lub osoba przez niego upoważniona.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_47/ust_5",
+     "text": "Kierownik zakładu radioterapii, brachyterapii lub medycyny nuklearnej jest obowiązany prowadzić rejestr i dokumentację błędów technicznych i dozymetrycznych oraz wszelkich niezgodności między parametrami i wskaźnikami zapisanymi w karcie napromienienia a parametrami i wskaźnikami w trakcie realizacji napromieniania, prowadzących do wystąpienia istotnego błędu dozymetrycznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_47/ust_6",
+     "text": "Kierownik zakładu, o którym mowa w ust. 5, obowiązany jest:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_47/ust_6/pkt_1",
+       "text": "wyjaśnić przyczynę i uwarunkowania stwierdzonego błędu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_47/ust_6/pkt_2",
+       "text": "powiadomić bezpośredniego przełożonego o powstałym błędzie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_47/ust_6/pkt_3",
+       "text": "podjąć działania zmierzające do eliminacji przyczyn błędu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "48",
+   "path": "par_48",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_48/ust_1",
+     "text": "W przypadku stwierdzenia, że w procesie leczenia radioterapeutycznego wystąpił istotny błąd dozymetryczny, kierownik zakładu radioterapii lub medycyny nuklearnej zobowiązany jest do powiadomienia o tym błędzie odpowiednio krajowego i wojewódzkiego konsultanta w dziedzinie radioterapii onkologicznej lub medycyny nuklearnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_48/ust_2",
+     "text": "Jeżeli pacjentowi podano pomyłkowo produkt radiofarmaceutyczny o aktywności wyższej niż przepisana — to należy, jeżeli jest to technicznie możliwe, wdrożyć postępowanie zmierzające do zmniejszenia wychwytu nuklidu w narządach i przyspieszenia jego wydalania z ustroju.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_48/ust_3",
+     "text": "Konsultant krajowy w dziedzinie radioterapii lub medycyny nuklearnej nakazuje niezwłocznie przeprowadzenie audytu zewnętrznego celem wykrycia przyczyn i zapobieżenia w przyszłości zdarzeniom, o których mowa w ust. 1 i 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "49",
+   "path": "par_49",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_49/ust_1",
+     "text": "W przypadku gdy istnieje co najmniej uzasadnione podejrzenie, że miał miejsce wypadek w radioterapii, kierownik zakładu radioterapii lub zakładu medycyny nuklearnej, na którego terenie zdarzenie to wystąpiło, powiadamia o tym właściwego terenowo państwowego wojewódzkiego inspektora sanitarnego oraz wojewódzkiego i krajowego konsultanta w dziedzinie radioterapii onkologicznej lub medycyny nuklearnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_49/ust_2",
+     "text": "W przypadku gdy przyczyną wypadku w radioterapii była lub mogła być awaria aparatu terapeutycznego, kierownik zakładu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_49/ust_2/pkt_1",
+       "text": "wstrzymuje napromienianie terapeutyczne przy zastosowaniu tego urządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_49/ust_2/pkt_2",
+       "text": "zabezpiecza urządzenie oraz pomieszczenie, w którym się ono znajduje, przed dostępem z zewnątrz.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_49/ust_3",
+     "text": "W przypadku gdy wypadek w radioterapii powstał w wyniku błędu proceduralnego, kierownik zakładu radioterapii lub medycyny nuklearnej do czasu wyjaśnienia przyczyn wypadku zakazuje uczestniczenia w leczeniu pacjentów osobom biorącym udział w procesie leczenia pacjentów, którzy ulegli wypadkowi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "50",
+   "path": "par_50",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_50/ust_1",
+     "text": "Konsultant krajowy w dziedzinie radioterapii onkologicznej lub medycyny nuklearnej powiadamia o wypadku w radioterapii ministra właściwego do spraw zdrowia, który w porozumieniu z Głównym Inspektorem Sanitarnym oraz Prezesem Państwowej Agencji Atomistyki, w terminie 48 godzin, powołuje komisję dla oceny przyczyn i okoliczności wypadku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_50/ust_2",
+     "text": "Komisja, o której mowa w ust. 1, przystępuje do wykonywania czynności wyjaśniających niezwłocznie i przygotowuje oraz przekazuje niezwłocznie raport ministrowi właściwemu do spraw zdrowia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "51",
+   "path": "par_51",
+   "text": "Pacjent będący ofiarą wypadku w radioterapii poddawany jest właściwym badaniom lub właściwemu leczeniu, jeżeli jest to konieczne.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "52",
+   "path": "par_52",
+   "text": "Analiza przyczyn i okoliczności istotnego błędu dozymetrycznego oraz wypadku w radioterapii jest upowszechniana przez krajowego konsultanta w dziedzinie radioterapii onkologicznej lub krajowego konsultanta w dziedzinie medycyny nuklearnej wśród wszystkich placówek radioterapii lub medycyny nuklearnej w kraju dla zapobieżenia dalszym wypadkom tego typu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "53",
+   "path": "par_53",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_53/ust_1",
+     "text": "Zakład radioterapii podlega zewnętrznemu audytowi w zakresie bezpiecznego stosowania promieniowania jonizującego, a w szczególności dozymetrii wiązki promieniowania, co najmniej raz na dwa lata.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_53/ust_2",
+     "text": "Audyt, o którym mowa w ust. 1, dokonywany jest na zlecenie ministra właściwego do spraw zdrowia przez powołany w tym celu zespół.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_53/ust_3",
+     "text": "Przeprowadzenie audytu, o którym mowa w ust. 1, nie wyklucza przeprowadzenia kontroli wykonywanych na podstawie odrębnych przepisów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "54",
+   "path": "par_54",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_54/ust_1",
+     "text": "Zakład radioterapii może wprowadzić niekonwencjonalne wysokospecjalistyczne techniki napromieniania lub niekonwencjonalne sposoby frakcjonowania dawki promieniowania po:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_54/ust_1/pkt_1",
+       "text": "spełnieniu wymagań określonych w § 7;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_54/ust_1/pkt_2",
+       "text": "uzyskaniu pozytywnej opinii właściwego konsultanta krajowego w sprawie wprowadzenia tych technik lub sposobów frakcjonowania dawki promieniowania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_54/ust_2",
+     "text": "Dokonując oceny projektu zastosowania niekonwencjonalnej techniki, konsultant, o którym mowa w ust. 1 pkt 2, oraz komisja bioetyczna, o której mowa w § 7, rozpatrują w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_54/ust_2/pkt_1",
+       "text": "właściwość kwalifikacji pacjenta do proponowanej techniki leczenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_54/ust_2/pkt_2",
+       "text": "jakość i stopień uzasadnienia podjęcia leczenia, w szczególności teoretyczne i eksperymentalne dane przedstawione przez autorów projektu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_54/ust_2/pkt_3",
+       "text": "prawdopodobieństwo negatywnego wyniku badania i wynikające z tego możliwe następstwa dla zdrowia pacjentów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_54/ust_2/pkt_4",
+       "text": "opinie ekspertów powołanych przez komisję bioetyczną.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_54/ust_3",
+     "text": "Zapewnia się obiektywną ocenę skutków leczenia niekonwencjonalną techniką i obserwacje pacjentów przez okres niezbędny dla pełnej oceny rezultatów leczenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_54/ust_4",
+     "text": "W celu uzyskania opinii, o której mowa w ust. 1 pkt 2, zakład, o którym mowa w ust. 1, powinien:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_54/ust_4/pkt_1",
+       "text": "posiadać udokumentowane przeszkolenie w zakresie umiejętności praktycznych lekarzy specjalistów, fizyków medycznych i techników do stosowania konwencjonalnych i niekonwencjonalnych procedur;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_54/ust_4/pkt_2",
+       "text": "udokumentować wdrożenie wszystkich wymaganych procedur kontroli jakości, o których mowa w § 39;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_54/ust_4/pkt_3",
+       "text": "udokumentować zakres możliwości technicznych aparatury symulacyjnej i terapeutycznej do planowania i realizacji zadań, o których mowa w ust. 1.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Przepisy przejściowe i końcowe"
+  },
+  {
+   "type": "par",
+   "num": "55",
+   "path": "par_55",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_55/ust_1",
+     "text": "Systemy zarządzania jakością, o których mowa w § 9, są wdrażane w terminie do dnia 31 grudnia 2004 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_55/ust_2",
+     "text": "Systemy zarządzania jakością, o których mowa w § 9, są certyfikowane, zgodnie z odrębnymi przepisami, w terminie do dnia 31 grudnia 2005 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "56",
+   "path": "par_56",
+   "text": "Dopuszcza się stosowanie aparatury rentgenowskiej, rentgenowskiej aparatury dentystycznej, tomografów komputerowych oraz kamer scyntylacyjnych niespełniających kryteriów określonych w dokumencie, o którym mowa w § 10, w terminie do dnia 31 grudnia 2006 r., jeżeli ze względów technicznych nie jest możliwe uzyskanie i utrzymanie tych kryteriów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "57",
+   "path": "par_57",
+   "text": "Testy, o których mowa w § 13 oraz w § 32, wdrażane są terminie do dnia 31 grudnia 2005 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "58",
+   "path": "par_58",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_58/ust_1",
+     "text": "Aparatura stosowana do przeprowadzania zabiegów z zakresu radiologii interwencyjnej do dnia wejścia w życie rozporządzenia powinna zostać wyposażona w urządzenia, o których mowa w § 21 ust. 2, w terminie do dnia 31 grudnia 2004 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_58/ust_2",
+     "text": "W przypadku gdy aparatura, o której mowa w ust. 1, z przyczyn technicznych nie może zostać wyposażona w terminie do dnia 31 grudnia 2004 r. w urządzenia, o których mowa w § 21 ust. 2, powinna ona zostać wycofana z eksploatacji w terminie do dnia 31 grudnia 2005 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_58/ust_3",
+     "text": "Testy, o których mowa w § 21 ust. 3, wdrażane są w terminie do dnia 31 grudnia 2003 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "59",
+   "path": "par_59",
+   "text": "Jeżeli lekarze, o których mowa w § 6 ust. 1—4, nie odbyli, do dnia wejścia w życie rozporządzenia, szkolenia, o którym mowa w § 6 ust. 5, obowiązani są do jego odbycia w terminie do dnia 31 grudnia 2004 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "60",
+   "path": "par_60",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2003 r., z wyjątkiem § 12 ust. 1 pkt 5, który wchodzi w życie z dniem 1 stycznia 2005 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Zdrowia: M. Łapiński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Zdrowia z dnia 24 grudnia 2002 r. (poz. 2098) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "POZIOMY REFERENCYJNE DAWEK DLA BADAŃ RENTGENODIAGNOSTYCZNYCH"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 14 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "B. Radiologia pediatryczna"
+    },
+    {
+     "type": "ocr",
+     "text": "[uGy] Radiografia klatki piersiowej (poza noworodkami)"
+    },
+    {
+     "type": "ocr",
+     "text": "projekcja LAT 200 ea | - _ projekcja AP 3 Radiografia czaszki - projekcja PA/AP 1500 projekcja LAT 1000 Radiografia miednicy - niemowlęta starsze dzieci"
+    },
+    {
+     "type": "ocr",
+     "text": "0) Wartości poziomów referencyjnych dla pozostałych badań są obecnie nieokreślone."
+    },
+    {
+     "type": "ocr",
+     "text": "(2) Poziomy referencyjne odnoszą się do standardowego pacjenta w wieku 5 lat (z wyłączeniem badań noworodków i niemowląt)."
+    },
+    {
+     "type": "ocr",
+     "text": "C. Tomografia komputerowa"
+    },
+    {
+     "type": "ocr",
+     "text": "Rodzaj badania"
+    },
+    {
+     "type": "ocr",
+     "text": "[2 |Badanie twarzyizatok™ | |_| |"
+    },
+    {
+     "type": "ocr",
+     "text": "| Wysokorozdzielcze badania płuc Rutynowe badanie brzucha lub jamy brzusznej” Badanie wątroby i śledzion Rutynowe badania miednicy lub narządów miednicy” Badanie kości miednicy lub obręczy 25 520 biodrowej”?"
+    },
+    {
+     "type": "ocr",
+     "text": "(1) Referencyjne poziomy dawek określone na podstawie dawki pochłoniętej w powietrzu."
+    },
+    {
+     "type": "ocr",
+     "text": "(2) Dane odnoszą się do fantomu głowy (PMMA o średnicy 16 cm)."
+    },
+    {
+     "type": "ocr",
+     "text": "3) Dane odnoszą się do fantomu ciała (PMMA o średnicy 32 cm)."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "POZIOMY REFERENCYJNE AKTYWNOŚCI PRODUKTÓW RADIOFARMACEUTYCZNYCH, PODAWANYCH DOROSŁYM PACJENTOM O TYPOWEJ BUDOWIE CIAŁA (CIĘŻAR ∼70 KG, WZROST ∼170 CM) W NAJCZĘSTSZYCH BADANIACH DIAGNOSTYCZNYCH"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 16 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Krwawienie z przewodu ”™Tc — erytrocyty i równoważne 400 pokarmowego — lokalizacja Badanie przejścia pokarmu \"TE — koloidy i związki niewchłanialne przez przełyk, badanie refluksu przełykowego niewchłanialne związki \"Te żołądka"
+    },
+    {
+     "type": "ocr",
+     "text": "nerek"
+    },
+    {
+     "type": "ocr",
+     "text": "moczowego mT > — EC, MAG-3 123] — o-hipuran I — metylocholesterol"
+    },
+    {
+     "type": "ocr",
+     "text": "nowotworów i ropni \"Te — analogi somatostatycznych 800 nowotworów Obrazowanie guzów I — metajodobenzyloguanidyna 400 neuroektodermalnych 21] — metajodobenzyloguanidyna"
+    },
+    {
+     "type": "ocr",
+     "text": "Obrazowanie rozlegtosci \"Tc — MIBI 1000 procesu nowotworowego branych guzów"
+    },
+    {
+     "type": "ocr",
+     "text": "węzłów chłonnych \"TC — znak. leukocyty 800 zapalnych TC — immunoglobulina 400 Oznaczenie klirensu \"Tc DTPA nerkowego kłębkowego Oznaczenie efektywnego"
+    },
+    {
+     "type": "ocr",
+     "text": "R >"
+    },
+    {
+     "type": "ocr",
+     "text": "© ©"
+    },
+    {
+     "type": "ocr",
+     "text": "400"
+    },
+    {
+     "type": "ocr",
+     "text": "R a AN Z | c-EC przepływu osocza przez nerki | '”I— ortohipuran 20 BH — ortohipuran 6 Szybkość oczyszczania osocza na drodze sekrecji kanalikowej | \"Te MAG3 40 E ©"
+    },
+    {
+     "type": "ocr",
+     "text": "Watrobowy klirens \"Tc — \"Tc HEPIDA HEPIDA"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYMAGANA ZALEŻNOŚĆ MIĘDZY POTENCJALNĄ KORZYŚCIĄ BADANIA NAUKOWEGO NA OCHOTNIKACH PRZY UŻYCIU PRODUKTÓW RADIOFARMACEUTYCZNYCH LUB PROMIENIOWANIA RENTGENOWSKIEGO A WIELKOŚCIĄ RYZYKA I DAWKĄ EFEKTYWNĄ W mSv"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 18 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZALECANE PODSTAWOWE PARAMETRY TECHNICZNE BADAŃ RENTGENODIAGNOSTYCZNYCH Dziennik Ustaw Nr 241 — 16001 — Poz. 2098"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 19 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 20 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "b. Radiologia pediatryczna dla Filtracji dodatkowej do I mm AI-+0,1 lub 0,2 mm Cu (lub równoważna)"
+    },
+    {
+     "type": "ocr",
+     "text": "] Parametry techniczne badań s ] Rodzaj badania Ulozenic Urządzenia pomocnicze Wielkość Kratka przeciwroz- Nominalna Odległość Napięcie Zalecana komora Czas Oslony specjalne pacjenta ogniska proszeniowa klasa ognisko lampy lampy rtg automatycznej ekspozycji lampy rlg czułości — kaseta kontroli ekspozycji [mm] zestawu [cm] [kV] [ms] _ blona - folia | Radiografia klatki piersiowej na wznak | stól lub statyw pionowy w 0,6 r=8; 40/cm* 400 - 800 100 - 150 60 — 80 boczna; bez auto- <10 osłona _ brzucha — gumą (poza noworodkami) lub zależności od wieku (< 1,3) (100 — 150 z | matyki dla niemo- ołowiową w pobliżu - projekcja PA/AP pionowo kratkądla | wlat i młodszych krawędzi wiązki - projekcja LAT starszych | dzieci , M dzieci) Radiografia _ klatki piersiowej | na wznak | bobiks (stół) zależnie od 0,6 bez kratki 200 — 400 80 — 100 60 -65 bez automatyki osłona brzucha _ gumą noworodków warunków klinicznych 1,3) i (150) ołowiową w pobliżu - projekcja AP krawędzi wiązki (jeżeli niemożliwe, osłona | inkubatora) Radiografia czaszki na wznak | stół, stół z kratką, specjalny 0,6 r=8, 40/cm* 400 - 800 115 środkowa osłona ciała gumą olowiową - projekcja PA/AP lub aparat do zdjęć czaszki lub| (£1,3) (200) (100- 150) w poblizu krawedzi wiazki pionowo statyw pionowy ze stalą lub - projekcja LAT ruchomą kratką Radiografia miednicy nawznak. | stól 0,6 r=8; 40/em\" 400 - 800 100 bez automatyki oslony na gonady, jeśli - niemowięta (Ss 1,3) możliwe ze względów diagnostycznych - starsze dzieci stół z kratką r=8; 40/cm 115 środkowa lub obie | < 50 l a (100-150) boczne Radiografia całego kręgosłupa na wznak | stół, stół z kratką, lub statyw <13 r=8; 40/em? 600 - 800 150-200 bez automatyki <800 | osłony na gonady dla - projekcja PA/AP Jub pionowy ze stalą Jub ru- lub specjalne kasety chłopców (wykonywana tylka na podstawie | pionowo choma kratką, albo ze specścisłych wskazań klinicznych) jalnymi kasetami lub _| specjalizowany aparat Radiografia odciuka kręgoslupa na wznak | stól, stół z kratką lub statyw 0,6 =8; 40/em? 400 - 800 | 115 srodkowa osłona na gonady dla - projekcja PA/AP lub pionowy ze stałą lub rucho-| (< 1,3) | lub specjalne kasety (100-150) chlopców pionowo mą kratką, w zależności od r=8; 40/em? 65-90 - projekcja LAT _|_wieku Radiografia brzucha na wznak | stół, stół z kralką 0,6 r=8; 40/cm* 400 - 800 100-115 65-85 środkowa lub obie <20 osłony na gonady dla - projekcja AP/PA z użyciem wiązki | na brzuchu (21,3) kaseta z kralką dla boczne, bez auto- chłopców; oslony z gumy poziomej lub pionowej lub ba pozycji na boku matyki dla niemo- olowiowej na larczycę w boku wląt i młodszych pobliżu krawędzi wiązki — dzieci Radiografia ukladu moczowego na wznak | stół, stół z kratką 0,6 r=8; 40/em? 400 - 800 100-115 65-85 środkowa lub obie <20 osłony na gonady dla - projekcja AP/PA lub na (£ 1,3) (100-120 dła | boczne chłopców; osłony z gumy (bez lub przed podaniem środka | brzuchu starszych ołowiowej na tarczycę z kontrastowego) dzieci) pobliżu krawędzi wiązki - projekcja AP/PA 65-80 (po podaniu środka kontrastowego) a Radiografia pęcherza moczowego i| w — zależ- | uchylny stół fluoroskopowy 0,6 1=8; 40/cm* 400 - 800 najmniejsza 65-90 nieprzestonięta <20 osłony na jądra u chłopców moczowodów w trakcie i po mikcji ności od (S 1,3) lub możliwa (120 dla przez napełniany fazy bada- wzmacniacz starszych | kontrastem pęcherz. L nia obrażu dzieci) a - tylko dla wskazań specjalnych i dla młodzieży; - bez kratki dla niemowląt do 6 miesiąca życia"
+    },
+    {
+     "type": "ocr",
+     "text": "Lvz JN MEIS() Ąluuaizq"
+    },
+    {
+     "type": "ocr",
+     "text": "<009L"
+    },
+    {
+     "type": "ocr",
+     "text": "8602 “20d"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 21 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "od grzbielu języka do podstawy karku"
+    },
+    {
+     "type": "ocr",
+     "text": "3-5\") 250-50) Kregi i struktury od I cm powyżej do | sąsiadujące lub | odpowiadający bez nachylenia lub | tkanka miękka | 140-350 30-40 tkanka miękka okołokręgowe cm poniżej obszaru skok=1.0 obszarowi badania równolegle do | lub wysoka | 2000-3000 200-400 kości podejrzewanych dysków rozdzielczość — | 300-400 25-35 kręgosłup zmian ch"
+    },
+    {
+     "type": "ocr",
+     "text": "międzykręgow szyjny Kręgosłup lędźwiowy i| na wznak: nogiw|od _ szypułki do wymiar kręgosłupa równolegle do | tkanka miekka/ | 140-400 30-40 tkanka miękka przepuklina krążka | zgięciu szypułki z centrum w płaszczyzny dysków. | standard — lub | 2000-3000 200-400 kości międzykręgowego obszarze zmiany różne nachylenie | wysoka 250-300 25-35 kręgosłup chorobowej może być wymagane | rozdzielczość lędźwiowy dla poszczególnych przestrzeni międzykręgowych Rdzeń kręgowy od [ em powyżej do | cm poniżej podejrzewanych zmian"
+    },
+    {
+     "type": "ocr",
+     "text": "140-400 2000-3000 250-300"
+    },
+    {
+     "type": "ocr",
+     "text": "30-40 200-400 25-35"
+    },
+    {
+     "type": "ocr",
+     "text": "tkanka miękka kości kręgosłup szyjny CT-mielogy tkanka miekka"
+    },
+    {
+     "type": "ocr",
+     "text": "3000-4000"
+    },
+    {
+     "type": "ocr",
+     "text": "300-600"
+    },
+    {
+     "type": "ocr",
+     "text": "400-600"
+    },
+    {
+     "type": "ocr",
+     "text": "0-30 30-60 500-700"
+    },
+    {
+     "type": "ocr",
+     "text": "Klatka piersiowa - ogólne dostosowany do największej / średnicy klatki piersiowej"
+    },
+    {
+     "type": "ocr",
+     "text": "na wznak; ręce do powyżej glowy"
+    },
+    {
+     "type": "ocr",
+     "text": "od szczytu podstawy płuc"
+    },
+    {
+     "type": "ocr",
+     "text": "sąsiadujące lub skok=1,0; 4-5 mm lub skok aż do 1,5 może być stosowany do wykrywania dużych zmian sąsiadujące lub skok= 1.0; dla dużych zmian 2-4 mm lub skok=1.2°1,5 10-20 mm"
+    },
+    {
+     "type": "ocr",
+     "text": "tkanka miękka/ standard 800-1600 miąższ płucny"
+    },
+    {
+     "type": "ocr",
+     "text": "Klatka piersiowa naczynia Śród piersia"
+    },
+    {
+     "type": "ocr",
+     "text": "obszar nieprawidłowej radiografii lub kliniczne podejrzanych zmian"
+    },
+    {
+     "type": "ocr",
+     "text": "obszar serca i głównych naczyń"
+    },
+    {
+     "type": "ocr",
+     "text": "100-400 150-500"
+    },
+    {
+     "type": "ocr",
+     "text": "tkanka miękka tkanka miękka (kontrast)"
+    },
+    {
+     "type": "ocr",
+     "text": "Klatka piersiowa dostosowany do wysokorozdzielcza minimum koniecznego dla przedstawienia całych płatów płuc dostosowany do największej średnicy brzucha"
+    },
+    {
+     "type": "ocr",
+     "text": "wysoka 1000-1600 400-700 rozdzielczość"
+    },
+    {
+     "type": "ocr",
+     "text": "Brzuch - ogólne na wznak; ramiona wzdłuż. klatki piersiowej lub na poziomie glowy"
+    },
+    {
+     "type": "ocr",
+     "text": "od sklepienia wątroby do rozdwojenia aorty"
+    },
+    {
+     "type": "ocr",
+     "text": "7.10 mm 4.5 mm dia konkretnych wskazań”"
+    },
+    {
+     "type": "ocr",
+     "text": "sąsiadujące lub skok=1,0; dia badań przesiewowych 10 mm — lub skok=1,2:2,0"
+    },
+    {
+     "type": "ocr",
+     "text": "standard lub tkanka miękka"
+    },
+    {
+     "type": "ocr",
+     "text": "150-600 2000-3000"
+    },
+    {
+     "type": "ocr",
+     "text": "30-60 0-30 400-600"
+    },
+    {
+     "type": "ocr",
+     "text": "z kontrastem bez kontrastu kości, jeśli wymagane"
+    },
+    {
+     "type": "ocr",
+     "text": "Wątroba i śedziona od przepony do | cm poniżej do ogonowego końca wątroby i śledziony"
+    },
+    {
+     "type": "ocr",
+     "text": "7-10 mm; 4-5 mm, jeśli małe zmiany są adejrzane"
+    },
+    {
+     "type": "ocr",
+     "text": "tkanka miękka/ | 150-300 standard 0-30"
+    },
+    {
+     "type": "ocr",
+     "text": "z kontrastem bez kontrastu"
+    },
+    {
+     "type": "ocr",
+     "text": "Nerki od Lem powyżej do | 4-5 mm dla | sąsiadujące lub | dostosowany do 200-400 30-150 z kontrastem fem poniżej biegu- | nieznanych lub | skok=1,0 największej średnicy 0-30 bez kontrastu nów nerek małych zmian brzucha” 7.10 mm dla szukania dużych zmian"
+    },
+    {
+     "type": "ocr",
+     "text": "Lvz JN MEIS() Ąluuaizq"
+    },
+    {
+     "type": "ocr",
+     "text": "vOO9L"
+    },
+    {
+     "type": "ocr",
+     "text": "8602 “20d"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "(Trzustka"
+    },
+    {
+     "type": "ocr",
+     "text": "Nadnercza"
+    },
+    {
+     "type": "ocr",
+     "text": "Miednica — ogólne"
+    },
+    {
+     "type": "ocr",
+     "text": "kości miednicy"
+    },
+    {
+     "type": "ocr",
+     "text": "1-2 em powyżej | 3-5 mn; sąsiadująco lub tkanka miękka | 150-400 z kontrastem ogona trzustki do | 7-10 mm skok =1,0; bez kontrastu 1-2 em poniżej | w znanych | 5-10 mm lub wyrostka hakowego | dużych skok=1,2-2,0 w zmianach” badaniach wysięku 2-5 mm może być grubszy, jeżeli zmiana jest znana!”"
+    },
+    {
+     "type": "ocr",
+     "text": "od 1-2 cm powyżej do 1-2. cm poniżej nadnerczy"
+    },
+    {
+     "type": "ocr",
+     "text": "sąsiadująco lub skok=1.0 w przypadku małych zmian zachodzące warstwy sąsiadujsico lub skok=1,0. 4-5 mm lub skok- 1,2+1,5 w badaniach przesiewowych"
+    },
+    {
+     "type": "ocr",
+     "text": "150-400 z kontrastem bez kontrastu"
+    },
+    {
+     "type": "ocr",
+     "text": "od grzebienia biodrowego do przepony miednicznej"
+    },
+    {
+     "type": "ocr",
+     "text": "7-10 mm; 4-5 mm, jeżeli małe zmiany są podejrzewane” )"
+    },
+    {
+     "type": "ocr",
+     "text": "dostosowany do największej średnicy miednicy"
+    },
+    {
+     "type": "ocr",
+     "text": "tkanka miękka/ standard — tub wysoka rozdzielczość dla badania kości tkanka miękka standard lub wysoka rozdzielczość"
+    },
+    {
+     "type": "ocr",
+     "text": "200-600 30-60 Tkanka nniękka (kontrast) tkanka miękka (kontrast) kości"
+    },
+    {
+     "type": "ocr",
+     "text": "0-30"
+    },
+    {
+     "type": "ocr",
+     "text": "2000-3000 400-600"
+    },
+    {
+     "type": "ocr",
+     "text": "3-5 mm w obszarze biodra 3-10 mm _ poza obszarem biodra ”"
+    },
+    {
+     "type": "ocr",
+     "text": "puzózłamania: od łem powyżej do 1 cm poniżej obszaru chorobowego"
+    },
+    {
+     "type": "ocr",
+     "text": "sąsiadująco lub skok=1,0 w obszarze biodra < 5 mm lub skok=1,2+1,5 poza obszarem biodra"
+    },
+    {
+     "type": "ocr",
+     "text": "wymiar łączny miednicy biodrowej i stawów (zazwyczaj 15- 40 cm)"
+    },
+    {
+     "type": "ocr",
+     "text": "zazwyczaj nachyleń"
+    },
+    {
+     "type": "ocr",
+     "text": "1000-1500 200-600"
+    },
+    {
+     "type": "ocr",
+     "text": "150-200 30-50"
+    },
+    {
+     "type": "ocr",
+     "text": "stawy, kości tkanki miękkie"
+    },
+    {
+     "type": "ocr",
+     "text": "Kosei ramienia na wznak; | obszar złamania lub | 3-5 mm” sąsiadująco lub | wymiar barku zmiana guza kości ramiennej skok= 1,0 w | (zazwyczaj 15-20 em) chorobowa w | lub fopatkowej obszarze stawów centrum okola; 2-5 mm lub chore ramię skok=1,2+1,5 poza"
+    },
+    {
+     "type": "ocr",
+     "text": "1) (2) (3) (4)"
+    },
+    {
+     "type": "ocr",
+     "text": "wzdluż ciała , drugie ramię za plową"
+    },
+    {
+     "type": "ocr",
+     "text": "tym obszarem"
+    },
+    {
+     "type": "ocr",
+     "text": "standardowe napięcie łampy;, mAs tak niski jak to możliwe dla zapewnienia wymaganej jakości obrazu; dla skanów czołowych zgodnie z pozycją pacjenta; wtórna redukcja FOV jest konieczna dla oceny subtelnych zmian: zalecana technika spiralna."
+    },
+    {
+     "type": "ocr",
+     "text": "Lvz JN MEIS() Ąluuaizq"
+    },
+    {
+     "type": "ocr",
+     "text": "G009L"
+    },
+    {
+     "type": "ocr",
+     "text": "8602 “20d"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZAKRES I CZĘSTOTLIWOŚĆ RUTYNOWYCH TESTÓW WEWNĘTRZNEJ KONTROLI PARAMETRÓW ORAZ ICH DOPUSZCZALNE ODCHYLENIA"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 24 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 6",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZAKRES I CZĘSTOTLIWOŚĆ WYKONYWANIA ORAZ TOLERANCJA PARAMETRÓW TECHNICZNYCH APARATURY PODLEGAJĄCEJ ZEWNĘTRZNYM AUDYTOM KLINICZNYM"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 26 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 27 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "13."
+    },
+    {
+     "type": "ocr",
+     "text": "14."
+    },
+    {
+     "type": "ocr",
+     "text": "15. 16."
+    },
+    {
+     "type": "ocr",
+     "text": "17."
+    },
+    {
+     "type": "ocr",
+     "text": "12."
+    },
+    {
+     "type": "ocr",
+     "text": "12."
+    },
+    {
+     "type": "ocr",
+     "text": "13."
+    },
+    {
+     "type": "ocr",
+     "text": "14."
+    },
+    {
+     "type": "ocr",
+     "text": "10."
+    },
+    {
+     "type": "ocr",
+     "text": "11."
+    },
+    {
+     "type": "ocr",
+     "text": "13."
+    },
+    {
+     "type": "ocr",
+     "text": "Ocena rozdzielczości niskokontrastowej toru wizyjnego obrazowania oraz poziomu szumu Pomiar mocy dawki w wiązce pierwotnej padającej na pacjenta"
+    },
+    {
+     "type": "ocr",
+     "text": "Pomiar maksymalnej mocy dawki Sprawdzenie automatycznego wyłącznika czasowego po upływie 5 | raz/rok min. ekspozycji Ocena zniekształcenia obrazu Mammografia (testy w pozycjach 1- 10 oraz dodatkowo) raz/rok Pomiary dawki powierzchniowej na |. fantomie akredytacyjnym. raz/rok Pomiar wartości i równomierności siły nacisku płyty dociskowej Angiografia (testy w pozycjach 1- | rąz/rok 10 oraz dodatkowo) Ocena rozdzielczości e raz/rok wysokokontrastowej toru wizyjnego Ocena rozdzielczości niskokontrastowej toru wizyjnego oraz poziomu szumów raz/rok Pomiar maksymalnej mocy dawki w wiązce pierwotnej Tomografia komputerowa (testy w pozycjach 1,2,3,7,8 oraz dodatkowo) Pomiar jednorodności odwzorowania raz/rok referencyjnego fantomu raz/rok Ocena poprawności odwzorowania kontrastu Ocena rozdzielczości raz/rok wysokokontrastowej"
+    },
+    {
+     "type": "ocr",
+     "text": "raz/rok"
+    },
+    {
+     "type": "ocr",
+     "text": "poniżej wartości referencyjnych"
+    },
+    {
+     "type": "ocr",
+     "text": "< 10%"
+    },
+    {
+     "type": "ocr",
+     "text": "zgodnie z EUR 16263EN 130-200 N"
+    },
+    {
+     "type": "ocr",
+     "text": "zgodnie z norma IEC"
+    },
+    {
+     "type": "ocr",
+     "text": "zgodnie z norma IEC"
+    },
+    {
+     "type": "ocr",
+     "text": "ponizej wartosci referencyjnych"
+    },
+    {
+     "type": "ocr",
+     "text": "zgodnie z zaleceniami producenta"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 28 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Ocena rozdzielczości <20% zg. zIEC 61223-2-6 niskokontrastowej i poziomu szumu <20% Pomiar grubości warstwy < poziomów Ocena wielkości dozymetrycznych"
+    },
+    {
+     "type": "ocr",
+     "text": "referencyjnych Ocena dokładności i powtarzalności 0.2 cm; + 20 % od ustawienia (ruchu) stołu wyniku poprzed. + 0,2 cm Ocena dokładności świetlnych wskaźników położenia"
+    },
+    {
+     "type": "ocr",
+     "text": "Radiologia stomatologiczna (testy w pozycjach 1-10 oraz dodatkowo) 20 cm dla U > 60 kV Pomiar odległości FSD | 10 cm dla U < 60 kV"
+    },
+    {
+     "type": "ocr",
+     "text": "< 6 cm Pomiar średnicy pola na końcu tubusa"
+    },
+    {
+     "type": "ocr",
+     "text": "raz/rok Ocena jednorodności obrazu"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 7",
+   "body": [
+    {
+     "type": "text",
+     "text": "OKRESY ZAPRZESTANIA KARMIENIA PIERSIĄ NIEMOWLĄT PO PODANIU PRODUKTÓW RADIOFARMACEUTYCZNYCH DLA CELÓW DIAGNOSTYCZNYCH"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 29 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 8",
+   "body": [
+    {
+     "type": "text",
+     "text": "LIMITY UŻYTKOWE DAWEK DLA PLANOWANIA OCHRONY PRZED PROMIENIOWANIEM OSÓB Z RODZINY PACJENTA LECZONEGO OTWARTYMI ŹRÓDŁAMI JODU-131 ORAZ OSÓB POSTRONNYCH"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 30 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 9",
+   "body": [
+    {
+     "type": "text",
+     "text": "MINIMALNY ZAKRES I CZĘSTOTLIWOŚĆ TESTÓW WEWNĘTRZNEJ KONTROLI JAKOŚCI W MEDYCYNIE NUKLEARNEJ"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Mierniki aktywności bezwzględnej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "testy akceptacyjne sprawdzające zgodność parametrów i cech urządzenia z danymi katalogowymi. Ponadto sprawdzenie obecności atestu kalibracji dla poszczególnych radionuklidów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "testy eksploatacyjne:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_2/lit_a",
+         "text": "codziennie — pomiar tła, pomiar odtwarzalności wskazań,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_2/lit_b",
+         "text": "co miesiąc — testy na dokładność i precyzję pomiarów, testy na liniowość zależności pomiarów i aktywności,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_1/pkt_2/lit_c",
+         "text": "co 2 lata — bezwzględna kalibracja urządzenia.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Kontrola jakości kamer scyntylacyjnych.",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "testy akceptacyjne.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Wszystkie kamery scyntylacyjne podlegają obowiązkowym testom akceptacyjnym na zgodność parametrów technicznych i cech ze specyfikacją producenta. Testy akceptacyjne obejmują również poprawność funkcjonowania komputerowych programów przetwarzania obrazów scyntygraficznych;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "testy eksploatacyjne dla kamer planarnych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_2/lit_a",
+         "text": "codzienne: — kalibracja energetyczna, — pomiar tła (odtwarzalność), — test na jednorodność czułości obszaru odwzorowywania detektora,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_2/lit_b",
+         "text": "co miesiąc: — kontrola jednorodności obrazowania przez detektor z zastosowaniem ilościowej analizy obrazu, — kontrola przestrzennej liniowości i wewnętrznej rozdzielczości detektora (bar phantom test);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "testy kontroli jakości rotacyjnych kamer scyntylacyjnych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Kamery rotacyjne podlegają testom przewidzianym dla kamer planarnych, a ponadto następującym testom okresowym:"
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_3/lit_a",
+         "text": "test jednorodności odwzorowywania przez detektor (duża liczba zarejestrowanych zliczeń) — częstotliwość zależna od stabilności detektora, przeciętnie raz w miesiącu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_3/lit_b",
+         "text": "test precyzji środka obrotu (z częstością zalecaną przez producenta),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_2/pkt_3/lit_c",
+         "text": "test rozdzielczości tomograficznej (przy okazji testu precyzji środka obrotu),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_2/pkt_3/lit_d",
+         "text": "test globalnego działania systemu (przy użyciu fantomu Jaszczaka — co kwartał),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_2/pkt_3/lit_e",
+         "text": "test rozmiaru piksela matrycy obrazowej (co pół roku).",
+         "children": [
+          {
+           "type": "text",
+           "text": "Wszystkie testy kontrolne obu typów kamer przeprowadza się po każdej naprawie urządzenia."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Kontrola jakości produktów radiofarmaceutycznych.",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "generatory nuklidów krótkożyjących. Testy kontrolne nie są obowiązkowe.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Należy sprawdzać wydajność elucji nuklidu."
+        },
+        {
+         "type": "text",
+         "text": "Wskazane jest przeprowadzenie kontroli częstości radionuklidowej (zawartość⁹⁹Mo w eluacie z generatora molibdenowo-technetowego) i czystości chemicznej (zawartość Al .+3 ) w przypadku trudności z uzyskaniem deklarowanej przez producenta wydajności elucji oraz w sytuacji, gdy uzyskiwane obrazy scyntygraficzne sugerują możliwość obecności w eluacie radionuklidu emitującego promieniowanie o energii fotonów wyższej niż fotonów emitowanych przez⁹⁹⁴Tc;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "produkty radiofarmaceutyczne:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_3/pkt_2/lit_a",
+         "text": "gotowe do użycia nie podlegają kontroli jakości u użytkownika z wyjątkiem pomiaru aktywności podawanej pacjentom,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_2/lit_b",
+         "text": "przygotowywane u użytkownika z zestawów do znakowania i eluatu z generatora.",
+         "children": [
+          {
+           "type": "text",
+           "text": "Nie ma obowiązku rutynowej kontroli jakości wyznakowanego preparatu (z wyjątkiem pomiaru aktywności każdej porcji podawanej pacjentowi), jeżeli produkt radiofarmaceutyczny jest przygotowywany przez wykwalifikowanego pracownika i zgodnie z instrukcją producenta. Zalecane jest sprawdzanie czystości radiochemicznej wyznakowanego preparatu (ocena zawartości nadtechnecjanu i tlenku technetu zredukowanego, niewiązanego w formę kompleksu) w przypadku wątpliwości co do jakości przygotowywanego produktu radiofarmaceutycznego,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_3/pkt_2/lit_c",
+         "text": "pozostałe przygotowywane u użytkownika.",
+         "children": [
+          {
+           "type": "text",
+           "text": "W przypadku znakowania komórek krwi bądź przygotowywania produktów radiofarmaceutycznych niezgodnie z instrukcją producenta, a także według własnych metod, obowiązują wszystkie wymagania dla producenta leków przewidziane przez prawo farmaceutyczne."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 10",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYMAGANIA STAWIANE ZAKŁADOWI TELERADIOTERAPII W ZAKRESIE POMIESZCZEŃ I WYPOSAŻENIA"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "W każdym zakładzie teleradioterapii znajdują się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "pomieszczenia spełniające wymagania ochrony radiologicznej, w których będą zainstalowane megawoltowe aparaty terapeutyczne, symulator i ewentualnie tomograf komputerowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "pomieszczenia towarzyszące wraz z infrastrukturą techniczną;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "modelarnia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "pomieszczenia kliniczne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "pomieszczenia dla celów planowania leczenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Minimalne wyposażenie zakładu teleradioterapii stanowią:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "co najmniej dwa megawoltowe aparaty terapeutyczne, w tym jeden akcelerator liniowy generujący wiązki elektronów o energii nie mniejszej niż 9 MeV. Integralną częścią każdego aparatu jest stół terapeutyczny i zestaw centratorów laserowych: jeden strzałkowy i dwa boczne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "co najmniej jeden symulator ze stołem terapeutycznym o identycznych parametrach technicznych jak stoły stosowane w leczeniu pacjenta i zestawem centratorów laserowych: jednym strzałkowym i dwoma bocznymi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "system planowania leczenia zintegrowany bezpośrednio lub pośrednio z tomografem komputerowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "zestaw interfonii oraz interwizji, pozwalający na kontakt z pacjentem i jego obserwację podczas napromieniania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "specjalistyczna aparatura pomiarowo-kontrolna:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_5/lit_a",
+         "text": "dwa dawkomierze z dwiema komorami jonizacyjnymi posiadającymi aktualne świadectwa legalizacji oraz jedno źródło kontrolne,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_5/lit_b",
+         "text": "analizator pola promieniowania wiązek fotonów i elektronów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_2/pkt_5/lit_c",
+         "text": "fantomy wodne i fantomy stałe z adaptorami dla posiadanych komór jonizujących,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_2/pkt_5/lit_d",
+         "text": "atestowane przyrządy do pomiaru ciśnienia atmosferycznego i temperatury powietrza,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_2/pkt_5/lit_e",
+         "text": "dawkomierze do codziennej kontroli dozymetrycznej, w ilości odpowiadającej liczbie akceleratorów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_2/pkt_5/lit_f",
+         "text": "zestaw akcesoriów i przyrządów do kontroli geometrii wiązek promieniowania w aparacie megawoltowym i symulatorze;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_2/pkt_6",
+       "text": "system wizualizacji wiązki zintegrowany z aparatem terapeutycznym lub co najmniej zestawy do wykonywania zdjęć sprawdzających, w ilości odpowiadającej liczbie megawoltowych aparatów terapeutycznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_2/pkt_7",
+       "text": "oprzyrządowanie do unieruchamiania i pozycjonowania pacjenta na stole terapeutycznym w pomieszczeniu symulatora i aparatów terapeutycznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wyposażenie modelarni stanowią:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "stół terapeutyczny i zestaw centratorów laserowych: strzałkowy i dwa boczne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "zestawy do wykonania masek unieruchamiających pacjenta, zapewniające odtwarzalność pozycji terapeutycznej pacjenta i centrowania wiązek promieniowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "zestawy do przygotowania osłon narządów niebędących przedmiotem leczenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "zestawy urządzeń do mocowania masek unieruchamiających dla każdego aparatu terapeutycznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Zakład teleradioterapii ma zagwarantowany, dla potrzeb planowania leczenia, dostęp do tomografu komputerowego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Załącznik nr 11"
+      },
+      {
+       "type": "text",
+       "text": "WYMAGANIA DOTYCZĄCE WYPOSAŻENIA ZAKŁADU BRACHYTERAPII"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wyposażenie zakładu brachyterapii stanowią co najmniej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "jeden aparat do zdalnego wprowadzania źródeł promieniotwórczych z zestawem aplikatorów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "aparat rentgenowski do sprawdzania położenia aplikatorów, źródeł oraz wykonywania zdjęć lokalizacyjnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "system do planowania leczenia w brachyterapii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "dwa dawkomierze z komorą jonizacyjną i fantom do pomiarów aktywności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "system do monitorowania dawki w czasie napromieniania mocą dawki większą od 12 Gy/h;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "telefon, interfonia lub przycisk alarmowy umożliwiający kontakt pacjenta z punktem pielęgniarskim;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "kamery telewizyjne oraz interfonia umożliwiające kontakt z pacjentem przy aparatach do napromieniania wysoką mocą dawki.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "W przypadku aplikacji wymagających wykonania indywidualnych aplikatorów metodą odcisków lub odlewów zakład brachyterapii posiadać powinien możliwość korzystania z modelarni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Aparaty terapeutyczne stosowane w zakładach brachyterapii, służące bezpośrednio do napromieniania pacjenta metodą zdalnego wprowadzania źródeł promieniotwórczych, muszą spełniać następujące wymagania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "wyłączenie i ponowne włączenie aparatu nie może likwidować sygnalizowanego błędu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "posiadanie systemu zabezpieczeń zapewniającego wycofanie źródeł promieniotwórczych do pojemnika ochronnego w przypadku awarii aparatu, awarii zasilania, przypadkowego przerwania leczenia lub wtargnięcia do pomieszczenia osoby nieleczonej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Aparaty terapeutyczne do napromieniania wysoką mocą dawki stosowane w zakładach brachyterapii powinny ponadto:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_4/pkt_1",
+       "text": "posiadać dwa niezależne systemy odliczające czas i informujące o zakończeniu napromieniania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "realizować tylko leczenie zgodne z wybranym z konsoli sterującej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_4/pkt_3",
+       "text": "weryfikować ustawione warunki i sygnalizować przypadkowe błędy personelu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_4/pkt_4",
+       "text": "drukować w protokole leczenia wszystkie informacje o przeszkodach i błędach w realizacji leczenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_4/pkt_5",
+       "text": "być wyposażone w zestawy przyrządów do regularnego sprawdzania bezpiecznej pracy aparatu.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Załącznik nr 12"
+        },
+        {
+         "type": "text",
+         "text": "ZASADY, ZAKRES ORAZ CZĘSTOTLIWOŚĆ PRZEPROWADZANIA KONTROLI APARATÓW TERAPEUTYCZNYCH W ZAKŁADACH RADIOTERAPII"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Warunkiem instalacji i dopuszczenia aparatu terapeutycznego do użytkowania po instalacji i w czasie eksploatacji jest dokonanie odbioru technicznego od producenta oraz okresowa kontrola parametrów mechanicznych i dozymetrycznych aparatu terapeutycznego w celu utrzymania ich wartości w dopuszczalnym zakresie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Osobami odpowiedzialnymi za przeprowadzenie odbioru, o którym mowa w pkt 1, są pracownicy autoryzowanego serwisu aparaturowego oraz fizycy medyczni zatrudnieni w zakładzie radioterapii.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Osobami odpowiedzialnymi za przeprowadzenie okresowych kontroli są pracownicy serwisu, fizycy medyczni, specjaliści wspomagający fizyków medycznych i technicy radioterapii.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Pełna ocena parametrów technicznych akceleratora po instalacji obejmuje kontrolę:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_4/pkt_1",
+       "text": "wyłączników bezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "awaryjnego licznika dawki;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_4/pkt_3",
+       "text": "położeń: 0°, 90°, 180° i 270° dla ruchu obrotowego ramienia i kolimatora akceleratora;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_4/pkt_4",
+       "text": "zgodność osi obrotu kolimatora z osią symulacji świetlnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_4/pkt_5",
+       "text": "izocentrum mechanicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_4/pkt_6",
+       "text": "centratorów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_4/pkt_7",
+       "text": "telemetru;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_4/pkt_8",
+       "text": "symulacji świetlnej pola promieniowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_4/pkt_9",
+       "text": "wyposażenia dodatkowego: kolimatorów wiązek elektronów, klinów mechanicznych, osłon i tac do osłon;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_4/pkt_10",
+       "text": "systemów interwencji i interfonii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_4/pkt_11",
+       "text": "dodatkowych parametrów, które wynikają z indywidualnych uwarunkowań konstrukcyjnych danego aparatu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Ocena parametrów dozymetrycznych akceleratora po instalacji obejmuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "kontrolę pola promieniowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "kontrolę jednorodności wiązki promieniowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "kontrolę symetrii wiązki promieniowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_5/pkt_4",
+       "text": "określenie jakości wiązek promieniowania rentgenowskiego oraz energii wiązek elektronów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_5/pkt_5",
+       "text": "wyznaczenie wydajności wiązki promieniowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_5/pkt_6",
+       "text": "kontrolę powtarzalności wydajności wiązki promieniowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_5/pkt_7",
+       "text": "kontrolę proporcjonalności dawki pochłoniętej do jednostek monitorowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_5/pkt_8",
+       "text": "kontrolę pracy akceleratora w różnych położeniach ramienia aparatu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_5/pkt_9",
+       "text": "kontrolę stabilności wydajności wiązek promieniowania podczas dnia pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_5/pkt_10",
+       "text": "kontrolę dodatkowych parametrów, które wynikają z indywidualnych uwarunkowań konstrukcyjnych danego przyspieszacza.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Okresowa kontrola akceleratorów obejmuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "następujące testy codzienne wykonywane przez techników radioterapii:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_6/pkt_1/lit_a",
+         "text": "kontrola systemu blokady drzwi wejściowych do akceleratora,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_6/pkt_1/lit_b",
+         "text": "kontrola telemetru,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_6/pkt_1/lit_c",
+         "text": "kontrola symulacji świetlnej pola promieniowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_6/pkt_1/lit_d",
+         "text": "kontrola centratorów;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "pomiary wydajności wiązek promieniowania dokonywane przez fizyków medycznych bądź specjalistów wspomagających fizyka medycznego co najmniej 2 razy w tygodniu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_6/pkt_3",
+       "text": "cotygodniowe testy wykonywane przez pracowników serwisu aparatury:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_6/pkt_3/lit_a",
+         "text": "kontrola telemetru,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_6/pkt_3/lit_b",
+         "text": "kontrola symulacji świetlnej pola promieniowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_6/pkt_3/lit_c",
+         "text": "kontrola centratorów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_6/pkt_3/lit_d",
+         "text": "wyposażenia dodatkowego: kolimatorów wiązek elektronów, klinów mechanicznych, osłon i tac do osłon;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_6/pkt_4",
+       "text": "następujące testy wykonywane raz na kwartał przez fizyków medycznych i pracowników serwisu aparatury:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_6/pkt_4/lit_a",
+         "text": "kontrola świateł informacyjnych i ostrzegawczych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_6/pkt_4/lit_b",
+         "text": "kontrola wyłączników bezpieczeństwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_6/pkt_4/lit_c",
+         "text": "awaryjnego licznika dawki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_6/pkt_4/lit_d",
+         "text": "położeń: 0°, 90°, 180° i 290° dla ruchów obrotowych ramienia i kolimatora akceleratora,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_6/pkt_4/lit_e",
+         "text": "zgodności osi obrotu kolimatora z osią symulacji świetlnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_6/pkt_4/lit_f",
+         "text": "izocentrum mechanicznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_6/pkt_4/lit_g",
+         "text": "centratorów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_6/pkt_4/lit_h",
+         "text": "telemetru,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "ust_6/pkt_4/lit_i",
+         "text": "symulacji świetlnej pola promieniowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "ust_6/pkt_4/lit_j",
+         "text": "wyposażenia dodatkowego: kolimatorów wiązek elektronów, klinów mechanicznych, osłon i tac do osłon,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "ust_6/pkt_4/lit_k",
+         "text": "systemów interwizji i interfonii,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "ust_6/pkt_4/lit_l",
+         "text": "kontrola pola promieniowania;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_6/pkt_5",
+       "text": "następujące testy wykonywane co najmniej 2 razy w roku przez fizyków medycznych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_6/pkt_5/lit_a",
+         "text": "kontrola jednorodności wiązek promieniowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_6/pkt_5/lit_b",
+         "text": "kontrola symetrii wiązek promieniowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_6/pkt_5/lit_c",
+         "text": "kontrola jakości wiązek promieniowania rentgenowskiego oraz energii wiązek elektronów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_6/pkt_5/lit_d",
+         "text": "kontrola pracy akceleratorów w różnych położeniach ramienia aparatu;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_6/pkt_6",
+       "text": "następujące testy wykonywane co najmniej raz w roku przez fizyków medycznych bądź specjalistów ich wspomagających:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_6/pkt_6/lit_a",
+         "text": "kontrola proporcjonalności dawki pochłoniętej do jednostek monitorowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_6/pkt_6/lit_b",
+         "text": "kontrola stabilności wydajności wiązki promieniowania podczas dnia pracy.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "W celu oceny parametrów technicznych aparatu kobaltowego po instalacji należy dokonać kontroli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_7/pkt_1",
+       "text": "wyłączników bezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "położenia 0° dla ruchów obrotowych ramienia, głowicy i kolimatorów aparatu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_7/pkt_3",
+       "text": "zgodności osi obrotu kolimatora z osią świetlnej pola;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_7/pkt_4",
+       "text": "izocentrum;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_7/pkt_5",
+       "text": "centratorów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_7/pkt_6",
+       "text": "telemetru;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_7/pkt_7",
+       "text": "symulacji świetlnej pola promieniowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_7/pkt_8",
+       "text": "wyposażenia dodatkowego: filtrów klinowych, osłon i tac do osłon;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_7/pkt_9",
+       "text": "zegara;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_7/pkt_10",
+       "text": "dodatkowych parametrów, które wynikają z indywidualnych uwarunkowań konstrukcyjnych danego aparatu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "W celu oceny parametrów dozymetrycznych aparatu kobaltowego po instalacji należy dokonać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_8/pkt_1",
+       "text": "kontroli pola promieniowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_8/pkt_2",
+       "text": "pomiaru wydajności aparatu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_8/pkt_3",
+       "text": "pomiaru „czasu martwego” przesuwu źródła.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Okresowa kontrola aparatów kobaltowych obejmuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_9/pkt_1",
+       "text": "następujące testy codzienne wykonywane przez techników radioterapii:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_9/pkt_1/lit_a",
+         "text": "kontrola systemu blokady drzwi wejściowych do aparatu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_9/pkt_1/lit_b",
+         "text": "kontrola telemetru,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_9/pkt_1/lit_c",
+         "text": "kontrola symulacji świetlnej pola promieniowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_9/pkt_1/lit_d",
+         "text": "kontrola centratorów;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_9/pkt_2",
+       "text": "cotygodniowe testy wykonywane przez pracowników serwisu aparatury:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_9/pkt_2/lit_a",
+         "text": "kontrola telemetru,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_9/pkt_2/lit_b",
+         "text": "kontrola symulacji świetlnej pola promieniowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_9/pkt_2/lit_c",
+         "text": "kontrola centratorów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_9/pkt_2/lit_d",
+         "text": "wyposażenia dodatkowego: filtrów klinowych, osłon i tac do osłon,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_9/pkt_2/lit_e",
+         "text": "zegara;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_9/pkt_3",
+       "text": "testy wykonywane raz na kwartał przez fizyków medycznych i pracowników serwisu aparatury: wymienione w ust. 6;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_9/pkt_4",
+       "text": "testy wykonywane raz na kwartał przez fizyków medycznych i specjalistów wspomagających ich pracę: wymienione w ust. 7.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Po instalacji aparatu terapeutycznego fizycy medyczni dokonują pomiarów dozymetrycznych dla potrzeb systemu planowania leczenia wg protokołu zgodnie z wymaganiami danego systemu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Okresowe przeglądy i konserwację akceleratorów przeprowadza autoryzowany serwis wg harmonogramu uzgodnionego pomiędzy użytkownikami i producentem akceleratora, co najmniej jeden raz na kwartał, a w przypadku bomby kobaltowej nie rzadziej niż jeden raz na pół roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Pracownicy serwisu i aparatury są upoważnieni do dokonywania przeglądów, konserwacji i codziennego uruchamiania akceleratora zgodnie z instrukcją obsługi aparatu i po odbyciu stosownych szkoleń.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 13",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYMAGANIA PROCEDUR SYSTEMU ZARZĄDZANIA I KONTROLI JAKOŚCI RADIOTERAPII"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "System zarządzania i kontroli jakości w zakładzie radioterapii wdraża zespół powołany przez kierownika zakładu w składzie co najmniej dwóch lekarzy specjalistów radioterapii, dwóch fizyków medycznych i jeden starszy technik radioterapii.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "System kontroli jakości radioterapii, zwany dalej „SKJR”, jest dokumentem zawierającym określenia celów i zadań zakładu radioterapii, oraz procedur i etapów leczenia promieniami, form i sposobów ich nadzoru oraz osób odpowiedzialnych za ich realizację w celu zapewnienia najwyższej precyzji i jakości leczenia promieniami indywidualnych pacjentów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Procedura jest dokumentem opracowanym w formie instrukcji, zawierającym szczegółową informację i opis działań nią objętych oraz osób je realizujących, ze wskazaniem ich obowiązków, uprawnień, podległości organizacyjnej i merytorycznej oraz zakresu odpowiedzialności. Oprócz elementów technicznych i fizycznych procedura musi szczegółowo określić zasady postępowania z pacjentem, na etapie, którego procedura dotyczy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Zbiór procedur w ramach SKJR, o których mowa w ust. 2 i 3, musi zawierać szczegółowe instrukcje dotyczące:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_4/pkt_1",
+       "text": "rejestracji pacjenta, założenia i prowadzenia dokumentacji lekarskiej i jej archiwizacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "kryteriów kwalifikacji i zasad wyznaczenia terminów rozpoczęcia radioterapii i dopuszczalnego czasu oczekiwania na rozpoczęcie leczenia oraz zasad przestrzegania kolejności i ewentualnych priorytetów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_4/pkt_3",
+       "text": "planowania objętości tarczowej oraz zasad ich weryfikacji i dopuszczalnych zakresów odchyleń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_4/pkt_4",
+       "text": "wyboru i wykonania masek unieruchamiających oraz modyfikatorów rozkładu dawki promieniowania w wyznaczonych objętościach (filtry, kompensatory i inne);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_4/pkt_5",
+       "text": "symulacji i dwu- lub trójwymiarowego planowania radioterapii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_4/pkt_6",
+       "text": "obowiązujących w zakładzie standardowych technik radykalnej i paliatywnej radioterapii oraz sposobów frakcjonowania dawki promieniowania dla różnych typów i lokalizacji nowotworów, jak również kryteria ich doboru dla indywidualnego pacjenta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_4/pkt_7",
+       "text": "wypełnienia karty napromieniania, wyboru aparatu terapeutycznego oraz szczegółowy harmonogram realizacji radioterapii u indywidualnego pacjenta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_4/pkt_8",
+       "text": "ułożenia i unieruchomienia pacjenta na stole terapeutycznym, centrowania wiązek promieniowania, codziennej kontroli, powtarzalności fizycznych i technicznych parametrów napromieniania w trakcie leczenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Każda z procedur, o których mowa w ust. 4, musi ponadto określić osobę lub osoby odpowiedzialne za ich realizację oraz zakres ich obowiązków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "System kontroli jakości radioterapii obejmuje również procedury w zakresie kalibracji i dozymetrii, serwisu i przeglądu aparatury terapeutycznej i wspomagającej, o których mowa w ust. 3—5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "SKJR musi uwzględnić i definiować wymagane postępowanie w przypadku nieprawidłowości lub błędów występujących przy realizacji procedur objętych systemem kontroli, a w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_7/pkt_1",
+       "text": "sposoby i formę identyfikacji, zgłaszania i dokumentacji niezgodności (błędów) w realizacji procedur(y) objętych systemem kontroli;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "sposoby zapobiegania i usuwania nieprawidłowości, o których mowa w pkt 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_7/pkt_3",
+       "text": "osoby i zakres ich odpowiedzialności w realizacji zadań, o których mowa w pkt 1 i 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "SKJR musi uwzględniać i ściśle określać formę, zakres i częstość audytów (kontroli) procedur objętych systemem kontroli jakości, w tym co najmniej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_8/pkt_1",
+       "text": "audyt kwalifikacji do leczenia promieniami;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_8/pkt_2",
+       "text": "audyt wyznaczania objętości zainteresowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_8/pkt_3",
+       "text": "audyt pozycjonowania i unieruchamiania pacjenta na stole terapeutycznym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_8/pkt_4",
+       "text": "audyt symulacji radioterapii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_8/pkt_5",
+       "text": "audyt planowania radioterapii (technika, sposób frakcjonowania);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_8/pkt_6",
+       "text": "audyt karty napromieniania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_8/pkt_7",
+       "text": "audyt realizacji leczenia promieniami.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Audyt procedury polega na kontroli precyzji wykonania procedury lub etapach leczenia zgodnie z przyjętymi kryteriami i dopuszczalnym zakresie zdefiniowanym w dokumencie SKJR.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "W zakładzie radioterapii obowiązują audyty wewnętrzne i zewnętrzne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_10/pkt_1",
+       "text": "audyt wewnętrzny realizują u każdego pacjenta w oparciu o protokół audytów pracownicy wyznaczeni przez kierownika zakładu, którzy nie są bezpośrednio związani z jednym lub kolejnymi etapami planowania i realizacji radioterapii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_10/pkt_2",
+       "text": "audyt zewnętrzny jest formą okresowej, całościowej lub wybiórczej kontroli zgodności wykonania procedur technicznych, fizycznych, terapeutycznych, dozymetrycznych z zapisem w dokumencie SKJR;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_10/pkt_3",
+       "text": "audyt zewnętrzny jest prowadzony zgodnie z odpowiednimi obowiązującymi przepisami lub na szczególne zalecenie ministra właściwego do spraw zdrowia oraz z inicjatywy kierownika zakładu w ramach jednego z programów europejskich.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "System kontroli jakości radioterapii opracowuje indywidualnie każdy zakład radioterapii zgodnie z zakresem prowadzonej działalności w oparciu o zalecenia Raportu ICRU 60, 62 oraz raportu QART-ESTRO, 1995.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "System kontroli jakości radioterapii jest otwartym dokumentem w zakładzie radioterapii i wymaga implementacji w przypadku zmian w strukturze organizacyjnej, wdrażania nowych technik, metod leczenia i zmian w wyposażeniu zakładu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "— 16019 —"
+      },
+      {
+       "type": "text",
+       "text": "Informacja omożliwości zakupu wydawnictw Centrum Obsługi Kancelarii Prezesa Rady Ministrów"
+      },
+      {
+       "type": "text",
+       "text": "Zakład Wydawnictw iPoligrafii Centrum Obsługi Kancelarii Prezesa Rady Ministrów informuje, że wsprzedaży znajdują się następujące wydawnictwa:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Przepisy żeglugowe na śródlądowych drogach wodnych,stanowiące załącznik do zarządzenia Ministra Transportu iGospodarki Morskiej zdnia 19 grudnia 1991 r. (załącznik do Monitora Polskiego z1992 r. Nr 4, poz. 20). Cena brutto — 5,56zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Układ europejski ustanawiający stowarzyszenie między Rzecząpospolitą Polską, zjednej strony, aWspólnotami Europejskimi iich państwami członkowskimi, zdrugiej strony(załącznik do Dz. U. z1994 r. Nr 11, poz. 38). Cena brutto — 42,80zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wymagania dotyczące wytwarzania materiału siewnego (załącznik do Monitora Polskiego z 1996 r. Nr 52, poz. 481). Cenabrutto— 37,80zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Konwencja oochronie gatunków dzikiej flory ifauny europejskiej oraz ich siedlisk naturalnych(załącznik do Dz. U. z1996 r. Nr 58, poz. 263). Cena brutto — 12,73zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Zasady metodologiczne badania wskaźników techniczno-ekonomicznych(załącznik do Monitora Polskiego z1996 r. Nr 84, poz. 751). Cena brutto — 20,33zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Umowa o wolnym handlu między Rzecząpospolitą Polską a Republiką Litewską (załącznik do Dz. U. z 1996 r. Nr 158, poz. 807). Cena brutto — 32,10zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Protokół dodatkowy nr 4 do Środkowoeuropejskiej umowy owolnym handlu (CEFTA)(załącznik do Dz. U. z1996 r. Nr 158, poz. 809). Cena brutto — 47,08zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Polska Klasyfikacja Wyrobów i Usług(załącznik do Dz. U. z 1997 r. Nr 42, poz. 264 — 6 tomów). Cena brutto — 351,00 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Porozumienie w formie wymiany listów między Rzecząpospolitą Polską a Wspólnotami Europejskimi w sprawie zmiany Protokołu nr 4 do Układu Europejskiego...(załącznik do Dz. U. z 1997 r. Nr 104, poz. 662). Cena brutto — 49,22 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Polska Klasyfikacja Działalności (załącznik do Dz. U. z 1997 r. Nr 128, poz. 829). Cena brutto — 60,00 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Polska Scalona Nomenklatura Towarowa Handlu Zagranicznego (PCN) (załącznik do Dz. U. z 1998 r. Nr 11, poz. 37). Cena brutto — 54,57 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Konstytucja i Konwencja Międzynarodowego Związku Telekomunikacyjnego(załącznik do Dz. U. z 1998 r. Nr 35, poz. 196). Cena brutto — 46,01 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "Klasyfikacja Wyrobów Obronnych (KWO)(załącznik do Dz. U. z 1999 r. Nr 26, poz. 231). Cena brutto — 10,70 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "Poprawki do załącznika do Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r.(załącznik do Dz. U. z 1999 r. Nr30, poz. 286). Cena brutto — 53,50 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "Umowa europejska dotycząca międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzona w Genewie dnia 30 września 1957 r. (tekst jednolity) — 2 tomy (załącznik do Dz. U. z 1999 r. Nr 30, poz. 287). Cena brutto — 86,67 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Konwencja o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej oraz o zniszczeniu jej zapasów (załącznik do Dz. U. z 1999 r. Nr 63, poz. 703). Cena brutto — 32,10 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "Umowa o wolnym handlu między Rzecząpospolitą Polską a Królestwem Danii i Wyspami Owczymi (załącznik do Dz. U. z 1999r. Nr63, poz. 705). Cena brutto — 13,91 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "Zmiany w Polskiej Klasyfikacji Wyrobów i Usług (PKWiU)(załącznik do Dz. U. z 1999 r. Nr 92, poz. 1045). Cena brutto — 61,00 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "Polska Scalona Nomenklatura Towarowa Handlu Zagranicznego (PCN) (załącznik do Dz. U. z 2000 r. Nr 120, poz. 1271). Cena brutto — 151,00 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "ust_20",
+     "text": "Zmiany w Polskiej Klasyfikacji Wyrobów i Usług (PKWiU)(załącznik do Dz. U. z 2001 r. Nr 12, poz. 94). Cena brutto — 40,00 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "21",
+     "path": "ust_21",
+     "text": "Taryfa celna(załącznik do Dz. U. z 2001 r. Nr 146, poz. 1639 — 2 tomy). Cena brutto — 120,00 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "22",
+     "path": "ust_22",
+     "text": "Polska Scalona Nomenklatura Towarowa Handlu Zagranicznego (PCN) (załącznik do Dz. U. z 2001 r. Nr 151, poz. 1701). Cena brutto — 151,00 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "23",
+     "path": "ust_23",
+     "text": "Konwencja Narodów Zjednoczonych o prawie morza(załącznik do Dz. U. z 2002 r. Nr 59, poz. 543). Cena brutto — 108,00 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "24",
+     "path": "ust_24",
+     "text": "Wykaz substancji niebezpiecznych wraz z ich klasyfikacją i oznakowaniem(załącznik do Dz. U. z 2002 r. Nr 129, poz. 1110). Cena brutto — 42,00 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "Bezpieczeństwo i higiena pracy, prowadzenie ruchu oraz specjalistyczne zabezpieczenie przeciwpożarowe w podziemnych zakładach górniczych (załącznik do Dz. U. z 2002 r. Nr 139, poz. 1169). Cena brutto — 24,20 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "26",
+     "path": "ust_26",
+     "text": "Program badań statystycznych statystyki publicznej na rok 2003 (załącznik do Dz. U. z 2002 r. Nr 146, poz. 1227). Cena brutto — 61,50 zł.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wszyscy zainteresowani wydawnictwami proszeni są o dokonanie wpłaty na konto bankowe Zakładu Wydawnictw iPoligrafii Centrum Obsługi Kancelarii Prezesa Rady Ministrów wABN–AMRO Bank S.A. nr 16700004-643991059784,podanie liczby zamawianych egzemplarzy oraz adresu odbiorcy. Dowód wpłaty zokreśleniem zamawianych tytułów będzie traktowany jako zamówienie. Ponadto wymienione wydawnictwa można nabywać wpunktach sprzedaży Dziennika Ustaw iMonitora Polskiego."
+      },
+      {
+       "type": "text",
+       "text": "———————[^1] Minister Zdrowia kieruje działem administracji rządowej — zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 28 czerwca 2002 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. Nr 93, poz. 833)."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

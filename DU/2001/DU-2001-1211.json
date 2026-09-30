@@ -1,0 +1,3389 @@
+{
+ "eli": "DU/2001/1211",
+ "title": "Rozporządzenie Ministra Gospodarki z dnia 18 września 2001 r. w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać zbiorniki bezciśnieniowe i niskociśnieniowe przeznaczone do magazynowania materiałów ciekłych zapalnych.",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2001/1211/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 18 września 2001 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać zbiorniki bezciśnieniowe i niskociśnieniowe przeznaczone do magazynowania materiałów ciekłych zapalnych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 8 ust. 4 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. Nr 122, poz. 1321) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa warunki techniczne dozoru technicznego, w zakresie projektowania, wytwarzania, badania, eksploatacji, naprawy i modernizacji zbiorników bezciśnieniowych i niskociśnieniowych, przeznaczonych do magazynowania materiałów ciekłych zapalnych, zwanych dalej „zbiornikami”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Przepisów rozporządzenia nie stosuje się do:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "zbiorników służących do transportu materiałów ciekłych zapalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "zbiorników technologicznych niesłużących do magazynowania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "zbiorników przeznaczonych do przechowywania materiałów ciekłych zapalnych w ilościach koniecznych do użytku na potrzeby przechowującego te materiały, w szczególności kanistrów i bębnów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "jednorazowych opakowań przeznaczonych do magazynowania i transportu materiałów ciekłych zapalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "zbiorników bezciśnieniowych i zbiorników niskociśnieniowych o ciśnieniu nie wyższym niż 0,5 bara (50 kPa) przeznaczonych do magazynowania materiałów niebezpiecznych o właściwościach trujących lub żrących.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "materiały ciekłe zapalne — substancje, których prężność pary w temperaturze 50°C nie jest większa niż 3 bary (300 kPa), a temperatura zapłonu nie jest wyższa niż 61°C i nie są całkowicie w stanie gazowym w temperaturze 20°C i pod ciśnieniem normalnym 1,013 bara (101,3 kPa),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "zbiorniki bezciśnieniowe — zbiorniki służące do przechowywania materiałów przy ciśnieniu atmosferycznym lub zmiennym w granicach od 0,0025 bara (0,25 kPa) podciśnienia do 0,035 bara (3,5 kPa) nadciśnienia; nie uwzględnia się przy tym ciśnienia hydrostatycznego, wywołanego słupem czynnika roboczego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "zbiorniki niskociśnieniowe — zbiorniki do przechowywania materiałów, w których:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_3/lit_a",
+       "text": "ciśnienie robocze, bez uwzględnienia ciśnienia hydrostatycznego, jest utrzymywane powyżej ciśnienia atmosferycznego, ale nie przekracza 0,5 bara (50 kPa),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_3/lit_b",
+       "text": "do opróżniania bądź przepłukiwania zbiornika jest używany gaz o ciśnieniu do 0,5 bara (50 kPa),",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "zbiorniki umiejscowione — zbiorniki ustawione i przystosowane do eksploatacji w określonym miejscu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "zbiorniki naziemne — zbiorniki znajdujące się w pomieszczeniach lub na przestrzeni otwartej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "zbiorniki podziemne — zbiorniki przykryte lub obsypane warstwą ziemi o grubości co najmniej 0,5 m, a w przypadku zbiorników o osi pionowej, ich górne dno znajduje się co najmniej 0,5 m poniżej powierzchni otaczającego terenu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_3/pkt_7",
+     "text": "najwyższe ciśnienie robocze zbiornika (bar lub kPa) — ciśnienie określone w dokumentacji technicznej zbiornika jako maksymalne w warunkach jego eksploatacji, nie wyższe niż 0,5 bara (50 kPa); nie uwzględnia się przy tym ciśnienia hydrostatycznego wywołanego słupem czynnika znajdującego się w zbiorniku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_3/pkt_8",
+     "text": "ciśnienie obliczeniowe (bar lub kPa) — ciśnienie przyjęte w dokumentacji technicznej zbiornika do obliczeń wytrzymałościowych, z uwzględnieniem wymaganego ciśnienia próbnego oraz ciśnienia hydrostatycznego przy wypełnieniu zbiornika czynnikiem roboczym lub wodą,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_3/pkt_9",
+     "text": "ciśnienie dopuszczalne (bar lub kPa) — graniczna wartość ciśnienia roboczego, mierzona w najwyższym punkcie przestrzeni ciśnieniowej zbiornika, przy którym organ właściwej jednostki dozoru technicznego zezwala na eksploatację zbiornika lub jego przestrzeni albo przy którym dopuszcza zbiornik do obrotu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_3/pkt_10",
+     "text": "najwyższa temperatura robocza (°C) — najwyższa temperatura ścianki zbiornika, ustalona w dokumentacji technicznej zbiornika dla warunków jego eksploatacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_3/pkt_11",
+     "text": "najniższa temperatura robocza (°C) — najniższa temperatura ścianki zbiornika, ustalona w dokumentacji technicznej zbiornika dla warunków jego eksploatacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_3/pkt_12",
+     "text": "temperatura dopuszczalna (°C) — graniczna wartość najwyższej albo najniższej temperatury roboczej, przy której organ właściwej jednostki dozoru technicznego zezwala na eksploatację zbiornika albo przy której dopuszcza zbiornik do obrotu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_3/pkt_13",
+     "text": "masa netto ładunku — największa dopuszczalna masa (kg) czynnika roboczego, ustalona w dokumentacji technicznej zbiornika, którą wolno wprowadzić do zbiornika,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_3/pkt_14",
+     "text": "pojemność (m³) — całkowita pojemność zbiornika lub przestrzeni zbiornika, łącznie z króćcami/przyłączami, bez odliczenia objętości zajętej podczas eksploatacji zbiornika lub jego przestrzeni przez ciała stałe połączone ze ściankami w sposób rozbieralny,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_3/pkt_15",
+     "text": "czynnik roboczy — materiał ciekły zapalny, który jest magazynowany w zbiorniku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_3/pkt_16",
+     "text": "niebezpieczna reakcja:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_16/lit_a",
+       "text": "tworzenie związków wybuchowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_16/lit_b",
+       "text": "spalanie lub wydzielanie znacznych ilości ciepła,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_3/pkt_16/lit_c",
+       "text": "wydzielanie gazów trujących lub palnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_3/pkt_16/lit_d",
+       "text": "tworzenie materiałów niestabilnych chemicznie,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_3/pkt_17",
+     "text": "dopuszczalny poziom cieczy w zbiorniku — najniższy albo najwyższy poziom cieczy, którego przekroczenie stanowi niebezpieczeństwo dla stanu technicznego lub prawidłowej pracy zbiornika,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_3/pkt_18",
+     "text": "ciśnienie próbne — ciśnienie, przy którym jest wykonywana próba szczelności,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "par_3/pkt_19",
+     "text": "modernizacja zbiornika — dokonanie zmian w stosunku do stanu pierwotnego w parametrach pracy lub konstrukcji zbiornika, wpływających na poprawę bezpieczeństwa jego eksploatacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Konstrukcja"
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Zbiorniki powinny być tak zaprojektowane, aby zapewniały, w sposób określony w odrębnych przepisach, minimalizację ubytku czynnika roboczego, w przypadku zmian temperatury lub ciśnienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Przedostawanie się czynników roboczych do otoczenia podczas napełniania lub opróżniania zbiorników powinno być ograniczone do bezpiecznego minimum.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Zbiorniki powinny być zbudowane z materiału odpornego na działanie czynnika roboczego lub wyłożone odpowiednią wykładziną albo zabezpieczone powłoką ochronną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Sporządzając dokumentację techniczną zbiornika, należy przewidzieć jego żywotność.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Elementy zbiornika stykające się bezpośrednio z czynnikiem roboczym powinny być odporne na działanie tych czynników.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_4/ust_6",
+     "text": "Elementy zbiornika nie powinny zawierać składników zdolnych do wytworzenia niebezpiecznej reakcji z przechowywaną w nim zawartością lub do wyraźnego ich osłabienia, w szczególności przez przyspieszenie starzenia i wzrost kruchości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_4/ust_7",
+     "text": "Zbiornik powinien być tak zaprojektowany, aby zapobiec gromadzeniu się potencjalnie niebezpiecznych ładunków elektrostatycznych lub je ograniczyć albo być wyposażony w układ do ich odprowadzania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Konstrukcja zbiornika i jego elementów powinna zapewniać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "umożliwienie, w jak największym stopniu, dostępu do ścianek zbiornika po stronie wewnętrznej i zewnętrznej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "całkowite i bezpieczne opróżnianie oraz czyszczenie zbiornika,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "prawidłowe odpowietrzanie zbiornika, także podczas hydraulicznej próby szczelności, jeżeli jest dla niego wymagana.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Obliczenia wytrzymałościowe powinny być wykonywane w sposób określony w:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "odrębnych przepisach dotyczących obliczeń wytrzymałościowych dla urządzeń ciśnieniowych; w przypadku zbiornika metalowego, dla którego przewiduje się ciśnieniową próbę szczelności; jako ciśnienie obliczeniowe należy przyjąć 0,8 wysokości zastosowanego ciśnienia próbnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "odrębnych przepisach dotyczących stałych zbiorników ciśnieniowych z tworzyw sztucznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "W innych przypadkach niż określone w ust. 1, obliczenia wytrzymałościowe mogą być wykonywane w sposób określony w normach i warunkach technicznych uzgodnionych z organem właściwej jednostki dozoru technicznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "W obliczeniach wytrzymałościowych należy uwzględnić obciążenie statyczne pochodzące od zawartości zbiornika, jeżeli ma ono istotny wpływ na wymagane grubości ścianek.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "W obliczeniach grubości ścianki zbiornika nie uwzględnia się grubości jego wykładziny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "W przypadku możliwości powstania w zbiorniku podciśnienia, projektant powinien przeprowadzić obliczenia wytrzymałościowe zbiornika w zakresie przewidywanego ciśnienia zewnętrznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Obliczenia innych obciążeń dla zbiorników naziemnych, w szczególności obciążenie śniegiem i wiatrem, należy wykonywać zgodnie z wymaganiami określonymi w Polskich Normach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "W obliczeniach wytrzymałościowych zbiorników podziemnych należy uwzględnić również obciążenie ziemią.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_7/ust_6",
+     "text": "W przypadku skomplikowanych kształtów zbiornika i braku możliwości wykonania obliczeń wytrzymałościowych, można przeprowadzić próbę niszczącą lub próbę trwałego odkształcenia, na podstawie warunków proponowanych przez projektanta i uzgodnionych z organem właściwej jednostki dozoru technicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_7/ust_7",
+     "text": "Nie jest wymagane wykonywanie obliczeń wytrzymałościowych dla połączeń kołnierzowo-śrubowych króćców przyłącznych, jeżeli połączenia te wykonane zostały zgodnie z wymaganiami określonymi w Polskich Normach. W dokumentacji technicznej zbiornika powinny być określone materiały elementów połączenia, w tym uszczelek, oraz określona wartość momentu dokręcania nakrętek.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Minimalna grubość stalowych ścianek walcowych i den zbiorników, o średnicy zewnętrznej większej niż 800 mm, nie powinna być mniejsza niż 5 mm. Grubość stalowej ścianki zbiornika zewnętrznego w zbiorniku dwuściankowym nie powinna być mniejsza niż 3 mm.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "W zbiorniku należy pozostawić wolną przestrzeń stanowiącą zabezpieczenie przed przelaniem się cieczy lub trwałym odkształceniem zbiornika zamkniętego w wyniku powiększenia się w nim objętości cieczy pod wpływem wzrostu temperatury.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Napełnienie zbiornika cieczą w odniesieniu do najwyższej temperatury roboczej nie powinno przekraczać 97% pojemności zbiornika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Zbiornik umiejscowiony, którego pojemność wynosi powyżej 2,5 m³, o ile przepisy odrębne nie stanowią inaczej, powinien być wyposażony w urządzenie sygnalizujące powstanie wycieku i urządzenie zabezpieczające przed przenikaniem czynnika roboczego do gruntu oraz do wód powierzchniowych i gruntowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Jako urządzenia sygnalizujące powstanie wycieku, o którym mowa w ust. 1, mogą być stosowane:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_2/pkt_1",
+       "text": "system monitorowania przestrzeni międzydennej w zbiornikach naziemnych o osi pionowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_2/pkt_2",
+       "text": "system monitorowania przestrzeni międzyściennej w zbiornikach podziemnych i naziemnych o osi poziomej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_2/pkt_3",
+       "text": "inne urządzenia dopuszczone do stosowania przez organ właściwej jednostki dozoru technicznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Jako urządzenie zabezpieczające, o którym mowa w ust. 1, może być stosowane:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_3/pkt_1",
+       "text": "dla zbiorników naziemnych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_10/ust_3/pkt_1/lit_a",
+         "text": "podwójne dno dla zbiorników o osi pionowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_10/ust_3/pkt_1/lit_b",
+         "text": "podwójna ścianka dla zbiorników o osi poziomej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_10/ust_3/pkt_1/lit_c",
+         "text": "zbiornik rezerwowy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_10/ust_3/pkt_1/lit_d",
+         "text": "obwałowanie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_10/ust_3/pkt_1/lit_e",
+         "text": "taca,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_10/ust_3/pkt_1/lit_f",
+         "text": "szczelne pomieszczenie, w którym znajduje się zbiornik, o ile drzwi umieszczono na odpowiedniej wysokości,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_3/pkt_2",
+       "text": "dla zbiorników podziemnych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_10/ust_3/pkt_2/lit_a",
+         "text": "geomembrana,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_10/ust_3/pkt_2/lit_b",
+         "text": "podwójna ścianka,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_10/ust_3/pkt_2/lit_c",
+         "text": "zbiornik rezerwowy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_10/ust_3/pkt_2/lit_d",
+         "text": "obudowa betonowa.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_10/ust_4",
+     "text": "Urządzenie zabezpieczające, o którym mowa w ust. 3, powinno być tak zaprojektowane i zbudowane, aby w przypadku powstania wycieku w zbiorniku wyciek ten został zatrzymany przez to urządzenie i nie doszło do skażenia środowiska.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Zbiornik bezciśnieniowy może być wyposażony w urządzenie oddechowe, zabezpieczające zbiornik przed przekroczeniem dopuszczalnego nadciśnienia i podciśnienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Przy doborze przepustowości urządzenia oddechowego powinno być uwzględnione najwyższe natężenie przepływu gazu, wynikające z nagrzewania lub chłodzenia zawartości oraz napełniania albo opróżniania zbiornika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Urządzenie oddechowe powinno być zabezpieczone w sposób uniemożliwiający przedostanie się do niego wody deszczowej i ciał obcych oraz odporne na korozję i wyposażone w bezpiecznik przeciwogniowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_11/ust_4",
+     "text": "Nie należy umieszczać armatury zaporowej między zbiornikiem a urządzeniem oddechowym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Podparcie zbiornika powinno być tak zaprojektowane, aby podczas transportu, eksploatacji i badań zbiornika powstałe w jego ściankach naprężenia nie przekroczyły wartości dopuszczalnych. Odporność ogniowa podpór powinna odpowiadać wymaganiom określonym w odrębnych przepisach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "W celu uniknięcia naprężeń powodowanych siłami dylatacyjnymi wyłącznie jedna podpora powinna być utwierdzona na stałe. Pozostałe podpory powinny mieć możliwość przesuwania się.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Podpory powinny być tak usytuowane, aby nie zakrywały złączy spawanych. W uzasadnionych przypadkach dopuszcza się zakrycie podporami obwodowych złączy spawanych zbiornika, pod warunkiem że przed zakryciem złącza spawane będą poddawane w 100% badaniom nieniszczącym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_12/ust_4",
+     "text": "Nie należy zakrywać podporami miejsc krzyżowania się złączy spawanych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_12/ust_5",
+     "text": "Liczba podpór zbiornika poziomego powinna być możliwie najmniejsza. Podpory zbiornika o średnicy wewnętrznej większej niż 600 mm powinny obejmować nie mniej niż 1/3 obwodu zbiornika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_12/ust_6",
+     "text": "Podpory zbiornika pionowego zamocowane do części walcowej powinny być umieszczone możliwie najbliżej tworzącej części walcowej zbiornika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_12/ust_7",
+     "text": "Podpora zajmująca cały obwód zbiornika pionowego powinna mieć otwór lub otwory umożliwiające dokonanie czynności związanych z eksploatacją, obsługą i badaniami zbiornika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "W zbiorniku należy zaprojektować otwory inspekcyjne, które będą umożliwiały oględziny wewnętrzne zbiornika, jego czyszczenie, naprawę i wykonanie badań, lub określić metody badania jego wewnętrznych powierzchni. W przypadku zastosowania włazu jako otworu inspekcyjnego powinien on mieć średnicę wewnętrzną co najmniej 600 mm.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Wewnętrzna powłoka ochronna zbiornika metalowego powinna mieć odpowiednią wytrzymałość, elastyczność i odporność mikrobiologiczną oraz przylegać na całej powierzchni do metalu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Zewnętrzne powłoki ochronne powinny być wykonywane i badane w sposób określony w odrębnych przepisach i dokumentacji technicznej zbiornika lub dokumentacji dotyczącej instalacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Jeżeli jest wymagane posadowienie zbiornika na fundamencie, fundament ten powinien być wykonany zgodnie z przepisami prawa budowlanego, a w przypadku lokalizacji takiego zbiornika na terenach występowania szkód górniczych, zgodnie z wymaganiami określonymi w przepisach prawa geologicznego i górniczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Podłoże pod zbiornik wraz z fundamentem powinno być izolowane od gruntu w sposób zapewniający ochronę gruntu przed skażeniem w przypadku powstania awarii spowodowanej nieszczelnością zbiornika. Szczegółowe wymagania w tym zakresie powinny być określone w dokumentacji technicznej zbiornika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Materiały i wytwarzanie"
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Do budowy zbiorników mogą być stosowane:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_17/pkt_1",
+     "text": "stale,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_17/pkt_2",
+     "text": "metale nieżelazne,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_17/pkt_3",
+     "text": "żywice epoksydowe, winyloestrowe i poliestrowe, wzmacniane szklanym lub węglowym włóknem, matą lub tkaniną, oraz inne tworzywa sztuczne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Materiały stosowane do budowy zbiorników powinny być wykonane zgodnie z wymaganiami określonymi w Polskich Normach lub innych specyfikacjach technicznych uzgodnionych z organem właściwej jednostki dozoru technicznego, jeżeli zapewniają poziom bezpieczeństwa nie mniejszy niż określony w Polskich Normach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Materiały stosowane do budowy zbiorników, takie jak stale i metale nieżelazne, powinny być dostarczane przez wytwarzającego te materiały wraz z dokumentem poświadczającym przeprowadzenie ich kontroli odbiorczej i zawierającym wyniki badań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_18/ust_3",
+     "text": "Dane wytrzymałościowe materiałów powinny być określone w Polskich Normach lub specyfikacjach technicznych, uzgodnionych z organem właściwej jednostki dozoru technicznego, oraz sprawdzone podczas ich produkcji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_18/ust_4",
+     "text": "Dane, o których mowa w ust. 3, powinny odpowiadać wartościom określonym w dokumentach kontroli tych materiałów, z tym że wytrzymałość na rozciąganie miedzi w stanie wyżarzonym powinna wynosić co najmniej 200 N/mm, a wydłużenie A — nie mniej niż 35%.¹⁰",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_18/ust_5",
+     "text": "Odlewy z metali nieżelaznych powinny być poddane, jeżeli ich kształt na to pozwala, hydraulicznej próbie szczelności. Zastosowane ciśnienie tej próby nie powinno spowodować w najbardziej narażonym miejscu zbiornika naprężeń przekraczających wartość 77% granicy plastyczności w temperaturze 20°C.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Materiały stosowane do budowy zbiorników spawanych, zgrzewanych lub lutowanych powinny zapewniać technologiczną podatność do tych połączeń w określonych warunkach technologicznych i gwarantować uzyskanie ustalonych wymagań eksploatacyjnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Materiały i elementy z tworzyw sztucznych, stosowane do budowy zbiorników, powinny być dostarczane z deklaracją zgodności wytwarzającego materiały i elementy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Materiały dodatkowe stosowane do spajania zbiorników i ich elementów powinny być odpowiednio dobrane i określone w instrukcjach technologicznych, uzgodnionych z organem właściwej jednostki dozoru technicznego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Pomocnicze elementy zbiorników mogą być wykonywane z materiałów określonych przez projektanta. Przy wyborze tych materiałów projektant powinien kierować się względami bezpieczeństwa i niezawodnej pracy zbiornika, a w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_22/pkt_1",
+     "text": "spawalnością, jeżeli elementy pomocnicze mają być spawane do ścianki zbiornika lub między sobą,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_22/pkt_2",
+     "text": "odpornością na działanie czynnika magazynowego w zbiorniku i otaczającej atmosfery,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_22/pkt_3",
+     "text": "własnościami wytrzymałościowymi i innymi cechami odpowiednimi dla charakteru pracy zbiornika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Do wytwarzania zbiorników mogą być stosowane inne materiały niż określone w § 17, jeżeli zostaną zakwalifikowane przez organ właściwej jednostki dozoru technicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "W celu zakwalifikowania materiału, o którym mowa w ust. 1, należy przedłożyć informacje dotyczące:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_23/ust_2/pkt_1",
+       "text": "przeznaczenia materiału,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_23/ust_2/pkt_2",
+       "text": "gatunku materiału, rodzaju wykonywanych z niego wyrobów, metod wytwarzania, zakresów wymiarowych, stanu dostawy i parametrów przewidzianej obróbki cieplnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_23/ust_2/pkt_3",
+       "text": "numeru Polskiej Normy lub warunków technicznych na dany materiał i wykonywane z niego wyroby, w których określony jest skład chemiczny i dopuszczalne odchyłki od tego składu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_23/ust_2/pkt_4",
+       "text": "wymaganych własności materiału, w tym własności wytrzymałościowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_23/ust_2/pkt_5",
+       "text": "odporności na korozję lub starzenie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_23/ust_2/pkt_6",
+       "text": "parametrów obróbki plastycznej oraz spajania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_23/ust_2/pkt_7",
+       "text": "normy, na podstawie której przeprowadza się badania własności materiałów, z podaniem jej numeru,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_23/ust_2/pkt_8",
+       "text": "nazwy i składu materiałów wyjściowych, zgodnie z Polską Normą,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_23/ust_2/pkt_9",
+       "text": "rodzaju wystawionego przez wytwórcę dokumentu kontroli.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Osprzęt"
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Zbiorniki w zależności od konstrukcji i warunków eksploatacji mogą być wyposażane w:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_24/pkt_1",
+     "text": "urządzenia zabezpieczające przed nadmiernym wzrostem nadciśnienia lub podciśnienia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_24/pkt_2",
+     "text": "urządzenia zabezpieczające przed przepełnieniem,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_24/pkt_3",
+     "text": "aparaturę kontrolno-pomiarową i sygnalizacyjną,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_24/pkt_4",
+     "text": "armaturę,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_24/pkt_5",
+     "text": "bezpieczniki przeciwogniowe.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "Do urządzeń zabezpieczających, o których mowa w § 24 pkt 1, zalicza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_25/ust_1/pkt_1",
+       "text": "syfonowe przyrządy bezpieczeństwa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_25/ust_1/pkt_2",
+       "text": "urządzenia oddechowe, o których mowa w § 11,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_25/ust_1/pkt_3",
+       "text": "zawory bezpieczeństwa i głowice bezpieczeństwa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_25/ust_1/pkt_4",
+       "text": "automatykę zabezpieczającą.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Urządzenia zabezpieczające powinny być zainstalowane wtedy, gdy zbiornik nie jest na stałe połączony z atmosferą i może nastąpić w nim wzrost ciśnienia ponad najwyższe ciśnienie robocze z powodu ogrzewania albo niedopuszczalnego spadku ciśnienia, w szczególności podczas opróżniania zbiornika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_25/ust_3",
+     "text": "Automatyka zabezpieczająca, o której mowa w ust. 1 pkt 4, obejmuje układy sygnalizacji, blokad i wyłączeń parametrycznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_25/ust_4",
+     "text": "W szczególnych przypadkach, dla zbiorników bezciśnieniowych, zamiast urządzeń zabezpieczających mogą być stosowane układy sygnalizacji ostrzegawczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_25/ust_5",
+     "text": "Sygnalizacja ostrzegawcza powinna składać się z sygnalizacji akustycznej i optycznej, a jej człony wykonawcze powinny być umieszczone w sterowni ze stałą obsługą, jeśli jest możliwa likwidacja zagrożenia z tej sterowni.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Urządzenia zabezpieczające przed przepełnieniem powinny odpowiadać wymaganiom dla automatyki zabezpieczającej lub sygnalizacji ostrzegawczej, określonym w § 25 ust. 3—5.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_27/ust_1",
+     "text": "Aparatura kontrolno-pomiarowa i jej elementy powinny być dobrane odpowiednio do rodzaju czynnika roboczego, warunków przeprowadzania odczytu i parametrów zbiornika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_27/ust_2",
+     "text": "Wskaźniki aparatury, o której mowa w ust. 1, powinny być umieszczone i oświetlone w taki sposób, aby ich wskazania były wyraźnie widoczne ze stanowiska obsługi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_27/ust_3",
+     "text": "Aparatura lub jej elementy powinny posiadać odpowiednie dokumenty kontroli metrologicznej określone w odrębnych przepisach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_28/ust_1",
+     "text": "Zbiornik, dla którego ze względu na bezpieczeństwo eksploatacji jest wymagana kontrola temperatury, powinien być wyposażony w termometr. Dokładność wskazań termometrów szklanych powinna odpowiadać klasie dokładności co najmniej 1,5. Termometry manometryczne i elektryczne powinny posiadać klasę dokładności nie mniejszą niż 2,5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_28/ust_2",
+     "text": "Termometr szklany powinien być instalowany w osłonie zabezpieczającej go przed uszkodzeniem i nieutrudniającej odczytów temperatury.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_28/ust_3",
+     "text": "Zakres wskazań termometru powinien być większy o 25% od wartości temperatury dopuszczalnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_28/ust_4",
+     "text": "Wartość temperatury dopuszczalnej powinna być oznaczona w sposób trwały na podziałce lub osłonie termometru czerwoną kreską. Oznaczenie to może być wykonane przy pomocy przytwierdzonej do termometru czerwonej płytki lub przez podanie wartości tej temperatury czerwoną barwą na tabliczce.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_29/ust_1",
+     "text": "Zbiornik niskociśnieniowy powinien być wyposażony w manometr o klasie dokładności co najmniej 2,5. Zakres wskazań manometru powinien być tak dobrany, aby najwyższe ciśnienie robocze zbiornika wynosiło 0,5—0,7 zakresu wskazań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_29/ust_2",
+     "text": "W zależności od wysokości, oznaczonej symbolem „h”, na jakiej zainstalowany jest manometr nad poziomem obsługi, średnica manometru nie powinna być mniejsza niż:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_29/ust_2/pkt_1",
+       "text": "65 mm przy h≤2 m,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_29/ust_2/pkt_2",
+       "text": "100 mm przy 2 m < h≤5 m,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_29/ust_2/pkt_3",
+       "text": "160 mm przy h > 5 m.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_29/ust_3",
+     "text": "Na tarczy manometru ciśnienie dopuszczalne zbiornika powinno być oznaczone czerwoną kreską. Ciśnienie to zamiast na tarczy manometru można oznaczyć czerwoną płytką przytwierdzoną do obudowy manometru i przylegającą do szkła tego manometru albo podać jego wartość czerwoną barwą na tabliczce umieszczonej w miejscu widocznym w pobliżu manometru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_29/ust_4",
+     "text": "Zbiornik powinien być wyposażony w manowakuometr, jeżeli może w nim powstać podciśnienie większe niż 0,025 bara (2,5 kPa).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_29/ust_5",
+     "text": "Między zbiornikiem i manometrem należy zainstalować zawór odcinający.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_30/ust_1",
+     "text": "Rodzaj, typ i liczbę cieczowskazów określa się w dokumentacji technicznej zbiornika, z uwzględnieniem właściwości czynnika roboczego i jego parametrów oraz wymagań określonych w odrębnych przepisach, jeżeli cieczowskaz służy do celów pomiarowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_30/ust_2",
+     "text": "Nie należy stosować zaworów i kurków probierczych do sprawdzania poziomu cieczy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_30/ust_3",
+     "text": "Cieczowskazy powinny być zabezpieczone przed uszkodzeniem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_31/ust_1",
+     "text": "Ilość i rodzaj armatury zaporowej i spustowej należy ustalić w dokumentacji technicznej zbiornika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_31/ust_2",
+     "text": "Króćce zbiorników o pojemności 2,5 m³ i większej, umieszczone poniżej najwyższego dopuszczalnego poziomu napełnienia, powinny być wyposażone w samoczynnie działające zawory zwrotne lub nadmiarowe, zabezpieczające przed nadmiernym i niezamierzonym wypływem czynnika roboczego. Wymaganie to nie dotyczy króćców do odbioru magazynowanego czynnika, króćców spustowych i króćców do odwodnienia oraz króćców cieczowskazowych i pomiarowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_31/ust_3",
+     "text": "Średnica wewnętrzna armatury spustowej nie powinna być mniejsza niż 8 mm, a wymiary i kształt przewodów przyłącznych powinny być tak dobrane przez projektanta, aby:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_31/ust_3/pkt_1",
+       "text": "odprowadzanie czynnika roboczego było bezpieczne dla osób obsługujących zbiornik i otoczenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_31/ust_3/pkt_2",
+       "text": "nie następowała utrata drożności armatury i przewodów oraz istniała możliwość ich czyszczenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_31/ust_3/pkt_3",
+       "text": "spełnione były wymagania, o których mowa w § 11, dotyczące urządzeń oddechowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_31/ust_4",
+     "text": "Materiały, z jakich wykonane zostały elementy armatury stykające się z czynnikiem roboczym, powinny być odporne na działanie tego czynnika i nie powinny z nim tworzyć związków chemicznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "Zbiorniki, w których zastosowano zawory oddechowe, powinny być wyposażone w bezpieczniki przeciwogniowe.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Znakowanie"
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_33/ust_1",
+     "text": "Na zbiorniku powinna być zamocowana w miejscu dostępnym trwała i czytelna tabliczka fabryczna, zwana dalej „tabliczką”, odporna na korozję i działanie czynnika roboczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_33/ust_2",
+     "text": "Tabliczka powinna zawierać w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_33/ust_2/pkt_1",
+       "text": "nazwę lub znak wytwórcy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_33/ust_2/pkt_2",
+       "text": "numer fabryczny,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_33/ust_2/pkt_3",
+       "text": "rok produkcji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_33/ust_2/pkt_4",
+       "text": "najwyższe ciśnienie robocze lub napis „bezciśnieniowy”,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_33/ust_2/pkt_5",
+       "text": "ciśnienie próbne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_33/ust_2/pkt_6",
+       "text": "pojemność,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_33/ust_2/pkt_7",
+       "text": "nazwy czynników roboczych, na które zbiornik jest przeznaczony.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_33/ust_3",
+     "text": "Dla zbiornika napełnianego wagowo informacje zamieszczone na tabliczce należy uzupełnić o dopuszczalną masę czynnika roboczego i masę pustego zbiornika oraz masę brutto zbiornika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_33/ust_4",
+     "text": "Jeżeli temperatura robocza zbiornika wykracza poza zakres –20°C do 50°C, informacje zamieszczone na tabliczce należy uzupełnić o najniższą lub najwyższą temperaturę roboczą.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_34/ust_1",
+     "text": "Na ściance zbiornika metalowego w pobliżu tabliczki powinny być wybite lub, jeżeli może to mieć szkodliwy wpływ na ściankę zbiornika, oznaczone w inny trwały sposób informacje dotyczące:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_34/ust_1/pkt_1",
+       "text": "nazwy lub znaku wytwarzającego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_34/ust_1/pkt_2",
+       "text": "numeru fabrycznego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_34/ust_1/pkt_3",
+       "text": "roku produkcji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_34/ust_2",
+     "text": "Na zbiorniku naziemnym, niezależnie od tabliczki i informacji, o których mowa w ust. 1, powinien być umieszczony w sposób czytelny i trwały napis o wysokości liter co najmniej 10 cm z nazwą czynnika, na który zbiornik jest przeznaczony, lub wzór chemiczny tego czynnika oraz nalepki ostrzegawcze określone w odrębnych przepisach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Dokumentacja techniczna"
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_35/ust_1",
+     "text": "W fazie projektowania zbiornika powinna być opracowana dokumentacja techniczna, którą wytwarzający lub osoba działająca w jego imieniu przedkłada w dwóch egzemplarzach organowi właściwej jednostki dozoru technicznego w celu jej uzgodnienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_35/ust_2",
+     "text": "Dokumentacja techniczna, o której mowa w ust. 1, powinna zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_35/ust_2/pkt_1",
+       "text": "rysunek zestawieniowy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_35/ust_2/pkt_2",
+       "text": "obliczenia wytrzymałościowe podstawowych elementów zbiornika, z zastrzeżeniem § 7 ust. 6,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_35/ust_2/pkt_3",
+       "text": "dane o osprzęcie i, jeżeli zbiornik ma być wyposażony w instalacje pomocnicze, schematy tych instalacji i dane o ich doborze,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_35/ust_2/pkt_4",
+       "text": "technologię montażu dla zbiorników scalanych na miejscu ustawienia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_35/ust_3",
+     "text": "Na rysunku zestawieniowym, o którym mowa w ust. 2 pkt 1, należy podać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_35/ust_3/pkt_1",
+       "text": "wymiary konieczne do sprawdzenia obliczeń wytrzymałościowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_35/ust_3/pkt_2",
+       "text": "nazwę i podstawowe właściwości czynnika roboczego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_35/ust_3/pkt_3",
+       "text": "parametry robocze i obliczeniowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_35/ust_3/pkt_4",
+       "text": "gatunki materiałów, z jakich wykonane są elementy zbiornika, wraz z numerami odpowiednich norm,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_35/ust_3/pkt_5",
+       "text": "rodzaj oraz dane dotyczące zabezpieczenia antykorozyjnego powierzchni wewnętrznej i zewnętrznej, warunki wykonywania badań i kontroli oraz przewidywany okres eksploatacji zbiornika,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_35/ust_3/pkt_6",
+       "text": "numery norm dotyczących elementów znormalizowanych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_35/ust_3/pkt_7",
+       "text": "współczynniki wytrzymałościowe złączy spajanych i zakres badań nieniszczących tych złączy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_35/ust_3/pkt_8",
+       "text": "wymiary i rozmieszczenie lub zasady rozmieszczania złączy spajanych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_35/ust_3/pkt_9",
+       "text": "wymagania w zakresie obróbki cieplnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_35/ust_3/pkt_10",
+       "text": "specjalne wymagania dotyczące wytwarzania i badań, w tym dane o próbie szczelności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_35/ust_3/pkt_11",
+       "text": "miejsce umieszczenia tabliczki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_35/ust_3/pkt_12",
+       "text": "w razie potrzeby ustalanej przez projektanta, dopuszczalne osiadanie fundamentu zbiornika i częstotliwość pomiaru tego osiadania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_35/ust_4",
+     "text": "Elementy zbiornika, których nie przedstawiono dostatecznie wyraźnie na rysunku zestawieniowym, powinny być ujęte na odrębnych rysunkach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_36/ust_1",
+     "text": "Wytwarzający zbiornik powinien wystawić dokument poświadczający, zwany dalej „poświadczeniem”, że zbiornik ten został wykonany i zbadany zgodnie z dokumentacją techniczną oraz warunkami określonymi w uprawnieniu do wytwarzania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_36/ust_2",
+     "text": "Poświadczenie powinno być wystawione również w przypadku montażu zbiornika na miejscu jego ustawienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_36/ust_3",
+     "text": "Wytwarzający, który jest poddostawcą elementu zbiornika, wystawia poświadczenie dotyczące tego elementu według wzoru ustalonego przez organ właściwej jednostki dozoru technicznego w ramach uprawnienia do wytwarzania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_36/ust_4",
+     "text": "Wytwarzający powinien załączyć instrukcję eksploatacji do zbiornika przygotowanego do eksploatacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_37/ust_1",
+     "text": "W celu uzyskania decyzji zezwalającej na eksploatację zbiornika eksploatujący powinien przedłożyć dokumentację odbiorczą zbiornika, zawierającą dokumenty, o których mowa w § 36 ust. 1—3, oraz:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_37/ust_1/pkt_1",
+       "text": "opis działania zbiornika wraz z danymi dotyczącymi osprzętu i źródeł zasilania, schemat połączeń ze współpracującymi urządzeniami oraz dane dotyczące zabezpieczeń antykorozyjnych, w tym opis systemu zabezpieczenia katodowego dla zbiorników podziemnych, jeżeli ma być zastosowany,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_37/ust_1/pkt_2",
+       "text": "plan usytuowania zbiornika z uwidocznieniem miejsca ustawienia zbiornika oraz związanych z nim urządzeń — dla zbiornika ustawionego w budynku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_37/ust_1/pkt_3",
+       "text": "plan usytuowania zbiornika z uwzględnieniem rozmieszczenia sąsiadujących obiektów budowlanych i urządzeń — dla zbiornika ustawionego na zewnątrz budynku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_37/ust_1/pkt_4",
+       "text": "protokoły badania szczelności wykładziny lub powłoki ochronnej oraz ich odporności mikrobiologicznej, jeżeli takie badania są wymagane w dokumentacji technicznej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_37/ust_1/pkt_5",
+       "text": "instrukcję eksploatacji zbiornika.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_37/ust_2",
+     "text": "Dokumentację, o której mowa w ust. 1, eksploatujący przedkłada organowi właściwej jednostki dozoru technicznego w dwóch egzemplarzach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 7",
+   "text": "Zakresy i terminy badań technicznych"
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "Materiały stosowane do wytwarzania zbiorników lub elementów powinny być poddane kontroli u wytwarzającego przez organ właściwej jednostki dozoru technicznego podczas badania budowy, o którym mowa w § 46, w zakresie zgodności z wymaganiami określonymi w rozporządzeniu i dokumentacji technicznej, o której mowa w § 35 ust. 1.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "Organ właściwej jednostki dozoru technicznego wykonuje następujące rodzaje badań technicznych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_39/pkt_1",
+     "text": "badanie typu — badanie zbiornika lub osprzętu przed rozpoczęciem seryjnej produkcji lub dopuszczeniem do obrotu i oznaczeniem znakiem dozoru technicznego, w celu sprawdzenia i poświadczenia przez organ właściwej jednostki dozoru technicznego, że zbadany egzemplarz reprezentatywny dla zamierzonej produkcji spełnia wymagania określone w rozporządzeniu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_39/pkt_2",
+     "text": "badanie sprawdzające — badanie przeprowadzane w toku wytwarzania zbiornika, w tym badanie budowy i próba szczelności,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_39/pkt_3",
+     "text": "badanie odbiorcze — wykonywanie czynności, które poprzedzają wydanie decyzji zezwalającej na eksploatację zbiornika,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_39/pkt_4",
+     "text": "badanie okresowe — badanie wykonywane w toku eksploatacji zbiornika objętego dozorem pełnym,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_39/pkt_5",
+     "text": "badanie doraźne — badanie wykonywane w toku eksploatacji zbiornika, wynikające z doraźnych potrzeb eksploatacyjnych oraz nadzoru i kontroli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_40/ust_1",
+     "text": "Przeprowadzenie badań typu, o których mowa w § 39 pkt 1, obowiązuje dla urządzeń zabezpieczających określonych w § 25 ust. 1. Inny osprzęt lub zbiornik mogą być zgłaszane przez wytwarzającego do badania typu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_40/ust_2",
+     "text": "Wytwarzający przygotowuje zbiornik lub urządzenia zabezpieczające i zgłasza je do organu właściwej jednostki dozoru technicznego. Do zgłoszenia powinno być załączone oświadczenie wytwarzającego o właściwym przygotowaniu do badań przekazywanego egzemplarza zbiornika lub urządzenia zabezpieczającego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_40/ust_3",
+     "text": "Program badań typu ustala organ właściwej jednostki dozoru technicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_40/ust_4",
+     "text": "Program badań typu powinien uwzględniać wymagania określone w rozporządzeniu oraz obejmować sprawdzenie podanych w dokumentacji technicznej parametrów urządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_40/ust_5",
+     "text": "Przeprowadzający badanie typu może wykorzystać lub uznać wyniki badań i opinii wykonanych przez wyspecjalizowane jednostki projektanta lub wytwarzającego bądź odpowiednią jednostkę badawczą.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_41/ust_1",
+     "text": "Badaniem typu może być objęty typoszereg zbiorników; w takim przypadku poddaje się badaniom wybrane przez organ właściwej jednostki dozoru technicznego egzemplarze z tego typoszeregu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_41/ust_2",
+     "text": "Zbiorniki mogą być zakwalifikowane do tego samego typoszeregu, jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_41/ust_2/pkt_1",
+       "text": "spełniają wymagania tych samych przepisów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_41/ust_2/pkt_2",
+       "text": "są wytwarzane na podstawie tej samej technologii,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_41/ust_2/pkt_3",
+       "text": "posiadają te same kształty geometryczne; różne może być jedynie ułożenie króćców,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_41/ust_2/pkt_4",
+       "text": "są zbudowane z tych samych materiałów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_41/ust_2/pkt_5",
+       "text": "w przypadku różnej ich długości, różnią się tylko wymiarami, ilością i rozmieszczeniem otworów inspekcyjnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_41/ust_2/pkt_6",
+       "text": "w przypadku poddania ciśnieniu zewnętrznemu przy jednakowej średnicy, zachowują te same lub mniejsze długości obliczeniowe elementów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_41/ust_2/pkt_7",
+       "text": "posiadają podpory tej samej konstrukcji, uwzględniającej w obliczeniach wytrzymałościowych najbardziej niekorzystny wariant obciążenia.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_42/ust_1",
+     "text": "Badania typu powinny być przeprowadzane na odpowiednim stanowisku uzgodnionym z organem właściwej jednostki dozoru technicznego, na stanowisku u wytwarzającego lub na miejscu ustawienia urządzenia, w zależności od rodzaju urządzenia, zakresu badań, gabarytów i możliwości przestrzennych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_42/ust_2",
+     "text": "W badaniach może uczestniczyć przedstawiciel zlecającego badanie jako obserwator.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_43/ust_1",
+     "text": "O wszelkich zmianach konstrukcyjnych lub technologicznych wprowadzonych w toku produkcji wytwarzający powinien poinformować organ właściwej jednostki dozoru technicznego. Zmiany te podlegają dodatkowym uzgodnieniom.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_43/ust_2",
+     "text": "Wprowadzenie zmian w urządzeniach poddanych badaniu typu może wymagać przeprowadzenia dodatkowych badań.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "44",
+   "path": "par_44",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_44/ust_1",
+     "text": "Wytwarzający powinien przygotować i zgłosić zbiornik lub jego element do badań sprawdzających. W przypadku gdy wytwarzający dostarcza zbiorniki w elementach, badania częściowe lub całkowite zbiornika przeprowadza się w miejscu jego ustawienia. W takim przypadku wytwarzający lub działający w jego imieniu przygotowuje i zgłasza zbiornik do badań w miejscu jego ustawienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_44/ust_2",
+     "text": "Sposób przeprowadzenia badań sprawdzających powinien być uzgodniony z organem właściwej jednostki dozoru technicznego przed rozpoczęciem budowy lub montażu zbiornika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_44/ust_3",
+     "text": "Seryjnie wytwarzane zbiorniki, które były poddane badaniu typu, mogą być zgłaszane przez wytwarzającego partiami do badań sprawdzających.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_44/ust_4",
+     "text": "Badanie sprawdzające partii zbiorników obejmuje 10% zgłoszonych w partii zbiorników, jednak nie mniej niż dwa zbiorniki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_44/ust_5",
+     "text": "Po stwierdzeniu prawidłowej i powtarzalnej jakości wytwarzanych zbiorników, na wniosek wytwarzającego, organ właściwej jednostki dozoru technicznego może ograniczyć badania sprawdzające partii do 5% ilości zbiorników, jednak nie mniej niż do dwóch zbiorników.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_44/ust_6",
+     "text": "Wynik badania sprawdzającego partii zbiorników uznaje się za pozytywny, jeżeli wyniki badania wszystkich zbadanych zbiorników są pozytywne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_44/ust_7",
+     "text": "W razie negatywnego wyniku badań jednego lub więcej zbiorników, wynik badania sprawdzającego partii zbiorników uznaje się za negatywny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_44/ust_8",
+     "text": "Zbiorniki z partii, której badania sprawdzające dały wynik negatywny, mogą być ponownie zgłoszone do badań sprawdzających po usunięciu usterek i dokonaniu kontroli wszystkich zbiorników zgłoszonych w danej partii. Powtórne badanie sprawdzające może być przeprowadzone jako badanie sprawdzające na podwójnej liczbie zbiorników lub jako badanie jednostkowe.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "45",
+   "path": "par_45",
+   "text": "Badania sprawdzające, o których mowa w § 39 pkt 2, polegają na przeprowadzeniu:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_45/pkt_1",
+     "text": "badania budowy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_45/pkt_2",
+     "text": "próby szczelności,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_45/pkt_3",
+     "text": "próby szczelności powłok zewnętrznych lub wykładzin, jeżeli mają zastosowanie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_45/pkt_4",
+     "text": "badań specjalnych, ustalonych w dokumentacji technicznej zbiornika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "46",
+   "path": "par_46",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_46/ust_1",
+     "text": "Badanie budowy zbiornika, o którym mowa w § 45 pkt 1, przeprowadza się u wytwarzającego lub, jeżeli ze względu na wielkość lub metodę montażu zbiornik jest scalany dopiero na miejscu jego ustawienia, u eksploatującego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_46/ust_2",
+     "text": "Badanie budowy polega na sprawdzeniu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_46/ust_2/pkt_1",
+       "text": "zgodności wykonania zbiornika z wymaganiami określonymi w rozporządzeniu i dokumentacją techniczną, o której mowa w § 35 ust. 1,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_46/ust_2/pkt_2",
+       "text": "stanu ścianek zbiornika,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_46/ust_2/pkt_3",
+       "text": "jakości złączy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_46/ust_2/pkt_4",
+       "text": "oznaczeń,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_46/ust_2/pkt_5",
+       "text": "wyposażenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_46/ust_2/pkt_6",
+       "text": "innych cech, zależnie od konstrukcji zbiornika i stosowanego materiału.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_46/ust_3",
+     "text": "Elementy zbiornika, których badanie budowy wykonano u wytwarzającego, mogą nie być poddawane powtórnemu badaniu podczas badania budowy całego zbiornika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_46/ust_4",
+     "text": "Zbiorniki poddane u wytwarzającego badaniu budowy bez kompletnego osprzętu powinny być u eksploatującego poddane badaniu uzupełniającemu, po zainstalowaniu kompletnego osprzętu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "47",
+   "path": "par_47",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_47/ust_1",
+     "text": "Zbiorniki powinny być poddane próbie szczelności, o której mowa w § 45 pkt 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_47/ust_2",
+     "text": "Rodzaj przeprowadzanej próby szczelności lub wymaganą jej czułość oraz wysokość ciśnienia próbnego określa dokumentacja techniczna zbiornika, o której mowa w § 35 ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_47/ust_3",
+     "text": "Wysokość ciśnienia próbnego dla próby szczelności nie powinna być niższa niż:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_47/ust_3/pkt_1",
+       "text": "dla zbiorników jednościankowych i zbiorników wewnętrznych w przypadku dwuściankowych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_47/ust_3/pkt_1/lit_a",
+         "text": "0,75 bara (75 kPa) — dla zbiorników bezciśnieniowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_47/ust_3/pkt_1/lit_b",
+         "text": "0,75 bara (75 kPa) plus najwyższe ciśnienie robocze — dla zbiorników niskociśnieniowych,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_47/ust_3/pkt_2",
+       "text": "0,4 bara (40 kPa) — dla przestrzeni między zbiornikiem zewnętrznym i wewnętrznym zbiorników dwuściankowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_47/ust_4",
+     "text": "Próby szczelności wykonuje się oddzielnie dla każdej przestrzeni zbiornika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_47/ust_5",
+     "text": "Zbiorniki, których konstrukcja nie pozwala na wykonanie ciśnieniowej próby szczelności, w szczególności zbiorniki z dachem pływającym, powinny być poddawane hydrostatycznej próbie szczelności przy użyciu wody lub próbie penetracyjnej. Dopuszcza się przeprowadzenie okresowych prób szczelności tych zbiorników przy użyciu czynnika roboczego. Zastosowanie innego czynnika do wykonania próby szczelności, innej metody lub niższego ciśnienia niż określone w ust. 3 i 7 wymaga uzyskania zgody organu właściwej jednostki dozoru technicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_47/ust_6",
+     "text": "Próby szczelności podczas badań typu powinny być wykonywane jako hydrauliczne, z wyjątkiem prób, o których mowa w ust. 5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_47/ust_7",
+     "text": "Próby szczelności w ramach badań okresowych mogą być przeprowadzane jako hydrauliczne, przy ciśnieniu próbnym 0,75 bara (75 kPa) lub jako pneumatyczne przy ciśnieniu próbnym 0,3 bara (30 kPa) albo jako inna próba, o której mowa w § 48 ust. 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "48",
+   "path": "par_48",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_48/ust_1",
+     "text": "Rodzaj próby szczelności i wysokość ciśnienia powinny być określone w dokumentacji technicznej zbiornika, o której mowa w § 35 ust. 1, z uwzględnieniem wymagań, o których mowa w § 47 ust. 3. Wybór rodzaju próby powinien zapewnić uzyskanie wymaganej czułości badania i brać pod uwagę możliwości techniczne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_48/ust_2",
+     "text": "Ciśnienie próbne zbiornika powinno zależeć od:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_48/ust_2/pkt_1",
+       "text": "przyjętego, najwyższego ciśnienia roboczego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_48/ust_2/pkt_2",
+       "text": "zastosowanej metody badania szczelności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_48/ust_2/pkt_3",
+       "text": "ciśnienia hydrostatycznego wytwarzanego przez czynnik roboczy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_48/ust_2/pkt_4",
+       "text": "wymagań szczelności ze względu na ochronę środowiska.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_48/ust_3",
+     "text": "W badaniach zbiorników lub ich elementów mogą być zastosowane następujące rodzaje prób szczelności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_48/ust_3/pkt_1",
+       "text": "hydrauliczna ciśnieniowa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_48/ust_3/pkt_2",
+       "text": "gazowa ciśnieniowa:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_48/ust_3/pkt_2/lit_a",
+         "text": "przeprowadzana przy użyciu powietrza lub innego niepalnego gazu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_48/ust_3/pkt_2/lit_b",
+         "text": "amoniakalna lub inna chemiczna,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_48/ust_3/pkt_3",
+       "text": "z helowym wykrywaczem nieszczelności — ciśnieniowe, ciśnieniowo-próżniowe lub próżniowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_48/ust_3/pkt_4",
+       "text": "gazowa próżniowa—-pęcherzykowa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_48/ust_3/pkt_5",
+       "text": "bezciśnieniowa—penetracyjna, w tym nafta-kreda,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_48/ust_3/pkt_6",
+       "text": "hydrauliczna hydrostatyczna,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_48/ust_3/pkt_7",
+       "text": "ultradźwiękowa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_48/ust_3/pkt_8",
+       "text": "inne rodzaje prób szczelności, uzgodnione z organem właściwej jednostki dozoru technicznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_48/ust_4",
+     "text": "Wynik próby szczelności uznaje się za pozytywny, jeżeli podczas jej przeprowadzania nie stwierdzono pęknięć, trwałych odkształceń ani przenikania cieczy lub gazu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "49",
+   "path": "par_49",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_49/ust_1",
+     "text": "Próba hydrauliczna ciśnieniowa, o której mowa w § 48 ust. 3 pkt 1, powinna być przeprowadzana przy użyciu wody o temperaturze od 4°C do 40°C. Za zgodą organu właściwej jednostki dozoru technicznego może być zastosowana inna ciecz albo dla zwiększenia czułości ciecz z dodatkiem farby wskaźnikowej bądź luminoforu ultrafioletowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_49/ust_2",
+     "text": "Ciśnienie powinno podnosić się jednostajnie do wysokości ciśnienia próbnego z szybkością nie większą niż 1 bar/min (100 kPa/min).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_49/ust_3",
+     "text": "Ciśnienie próbne powinno być utrzymywane przez czas określony w dokumentacji technicznej, o której mowa w § 35 ust. 1, lecz nie krócej niż 30 minut; po tym czasie dokonuje się oględzin zbiornika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_49/ust_4",
+     "text": "Organ właściwej jednostki dozoru technicznego może skrócić czas utrzymywania ciśnienia, biorąc pod uwagę grubość ścianek zbiornika, do 5 minut na 1 mm grubości ścianki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "50",
+   "path": "par_50",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_50/ust_1",
+     "text": "Gazowa ciśnieniowa próba szczelności, o której mowa w § 48 ust. 3 pkt 2 lit. a), powinna być wykonywana przy pomocy powietrza, azotu lub dwutlenku węgla. Zastosowanie innych gazów wymaga zgody organu właściwej jednostki dozoru technicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_50/ust_2",
+     "text": "Temperatura gazu użytego do próby powinna mieścić się w przedziale temperatur eksploatacji zbiornika. Ciśnienie powinno być utrzymywane przez czas określony w dokumentacji technicznej zbiornika, o której mowa w § 35 ust. 1, lecz nie krócej niż 30 minut.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_50/ust_3",
+     "text": "Po uzyskaniu wymaganego ciśnienia próbnego w zbiorniku dokonuje się oględzin złącz spawanych i innych połączeń z naniesionym środkiem pieniącym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "51",
+   "path": "par_51",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_51/ust_1",
+     "text": "Próba szczelności przeprowadzana metodą amoniakalną, o której mowa w § 48 ust. 3 pkt 2 lit. b), może być stosowana do sprawdzania szczelności stalowych elementów, w szczególności den spawanych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_51/ust_2",
+     "text": "Próba szczelności przeprowadzana metodą helową, o której mowa w § 48 ust. 3 pkt 3, powinna być stosowana dla złączy, gdy wymagane są większe czułości; próbę należy przeprowadzać w temperaturze od 15°C do 25°C, zgodnie z instrukcją opracowaną przez wytwórcę helowego wykrywacza nieszczelności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "52",
+   "path": "par_52",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_52/ust_1",
+     "text": "Próba szczelności przeprowadzana metodą gazową próżniową, o której mowa w § 48 ust. 3 pkt 4, polega na pokryciu badanych powierzchni detektorem cieczowym, umieszczeniu na danym odcinku szczelnej skrzynki z przezroczystą pokrywą i wytworzeniu próżni w tej skrzynce.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_52/ust_2",
+     "text": "Metodę gazową próżniową można stosować w temperaturach od 0°C do 30°C.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "53",
+   "path": "par_53",
+   "text": "Próba szczelności przeprowadzana metodą „nafta-kreda”, o której mowa w § 48 ust. 3 pkt 5, może być stosowana w przypadku, gdy wykonanie próby ciśnieniowej nie jest możliwe, a gęstość czynnika roboczego jest wyższa od gęstości wody. Grubość badanych ścianek nie powinna przekraczać 25 mm.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "54",
+   "path": "par_54",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_54/ust_1",
+     "text": "Próba ultradźwiękowa, o której mowa w § 48 ust. 3 pkt 7, może być stosowana do badań szczelności zbiorników podziemnych wypełnionych czynnikiem roboczym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_54/ust_2",
+     "text": "Badanie może być wykonywane w temperaturze od –10°C do 40°C.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_54/ust_3",
+     "text": "W badaniu wykorzystuje się czasy przepływu fal ultradźwiękowych w części wypełnionej czynnikiem roboczym oraz emisję dźwięku w części niewypełnionej czynnikiem roboczym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "55",
+   "path": "par_55",
+   "text": "Wytwarzający powinien przeprowadzić badanie szczelności zewnętrznych pokryć ochronnych na zbiornikach podziemnych przy napięciu probierczym, zależnym od rodzaju i grubości pokrycia, określonym w dokumentacji technicznej na podstawie Polskich Norm lub innych specyfikacji technicznych, uzgodnionych z organem właściwej jednostki dozoru technicznego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "56",
+   "path": "par_56",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_56/ust_1",
+     "text": "Badania odbiorcze, o których mowa w § 39 pkt 3, polegają na przeprowadzeniu pierwszej po badaniach sprawdzających rewizji zewnętrznej, na miejscu zainstalowania-ustawienia zbiornika, oraz:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_56/ust_1/pkt_1",
+       "text": "sprawdzeniu kompletności wymaganej dokumentacji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_56/ust_1/pkt_2",
+       "text": "wykonaniu próby szczelności wraz z osprzętem, jeżeli próba taka jest wymagana.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_56/ust_2",
+     "text": "Pozytywny wynik badania odbiorczego stanowi podstawę do wydania decyzji zezwalającej na eksploatację zbiornika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "57",
+   "path": "par_57",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_57/ust_1",
+     "text": "Przeprowadza się następujące rodzaje badań okresowych, o których mowa w § 39 pkt 4:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_57/ust_1/pkt_1",
+       "text": "rewizję wewnętrzną,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_57/ust_1/pkt_2",
+       "text": "próbę szczelności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_57/ust_1/pkt_3",
+       "text": "rewizję zewnętrzną.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_57/ust_2",
+     "text": "Badania okresowe zbiorników powinny być przeprowadzane z częstotliwością określoną w załączniku do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_57/ust_3",
+     "text": "Terminy badań okresowych wyznacza się od daty zakończenia badania odbiorczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_57/ust_4",
+     "text": "Na uzasadniony wniosek eksploatującego rewizja wewnętrzna lub próba szczelności mogą być przeprowadzone przed wyznaczonym terminem ich przeprowadzenia, pod warunkiem że termin ten zostanie uzgodniony z organem właściwej jednostki dozoru technicznego z 14-dniowym wyprzedzeniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_57/ust_5",
+     "text": "Rewizja zewnętrzna może być przeprowadzona w okresie całego roku kalendarzowego, w którym wygasa wyznaczony dla niej termin.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_57/ust_6",
+     "text": "Jeżeli badanie doraźne obejmuje pełny zakres odpowiedniego badania okresowego, kolejny termin tego badania może być, za zgodą eksploatującego, ustalony od daty zakończenia badania doraźnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_57/ust_7",
+     "text": "Eksploatujący lub działający w jego imieniu powinien przygotować zbiornik do badań okresowych, w sposób określony przez organ właściwej jednostki dozoru technicznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "58",
+   "path": "par_58",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_58/ust_1",
+     "text": "Rewizja wewnętrzna, o której mowa w § 57 ust. 1 pkt 1, polega na wizualnej ocenie stanu ścianek zbiornika, ich połączeń, wzmocnień oraz wyposażenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_58/ust_2",
+     "text": "Organ właściwej jednostki dozoru technicznego w uzasadnionych technicznie przypadkach może polecić uzupełnienie rewizji wewnętrznej lub zastąpić oględziny wewnętrzne innym badaniem, które pozwoli ocenić stan techniczny zbiornika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "59",
+   "path": "par_59",
+   "text": "Próba szczelności, o której mowa w § 57 ust. 1 pkt 2, powinna być przeprowadzona zgodnie z wymaganiami określonymi w § 47—54.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "60",
+   "path": "par_60",
+   "text": "W szczególnie uzasadnionych technicznie przypadkach, gdy przygotowanie zbiornika do badań jest utrudnione lub zbiornik wyposażony jest w podwójną ściankę i system monitorowania przecieków, organ właściwej jednostki dozoru technicznego może wydłużyć termin przeprowadzenia rewizji wewnętrznej lub próby szczelności albo wyrazić zgodę na zastąpienie ich innym badaniem. Rewizja wewnętrzna powinna być przeprowadzana nie rzadziej niż co 10 lat.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "61",
+   "path": "par_61",
+   "text": "Rewizja zewnętrzna, o której mowa w § 57 ust. 1 pkt 3, polega na wykonaniu zewnętrznej oceny wizualnej zbiornika w miejscach dostępnych oraz sprawdzeniu działania jego osprzętu i automatyki zabezpieczającej oraz zapisów, o których mowa w § 66 pkt 2. Rewizję tę można przeprowadzić w ruchu lub podczas postoju zbiornika.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "62",
+   "path": "par_62",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_62/ust_1",
+     "text": "Przeprowadza się następujące rodzaje badań doraźnych, o których mowa w § 39 pkt 5:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_62/ust_1/pkt_1",
+       "text": "eksploatacyjne — w przypadku stwierdzenia niewłaściwego stanu zbiornika oraz zakończenia jego modernizacji lub naprawy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_62/ust_1/pkt_2",
+       "text": "po niebezpiecznym uszkodzeniu zbiornika lub nieszczęśliwym wypadku związanym z eksploatacją zbiornika,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_62/ust_1/pkt_3",
+       "text": "kontrolne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_62/ust_2",
+     "text": "Zakres badań doraźnych ustala organ właściwej jednostki dozoru technicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_62/ust_3",
+     "text": "Badania doraźne eksploatacyjne, o których mowa w ust. 1 pkt 1, wykonuje się na wniosek eksploatującego, z zastrzeżeniem § 73, w przypadku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_62/ust_3/pkt_1",
+       "text": "naprawy lub modernizacji zbiornika oraz wymiany jego elementów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_62/ust_3/pkt_2",
+       "text": "wymiany lub naprawy urządzeń zabezpieczających przed wzrostem ciśnienia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_62/ust_3/pkt_3",
+       "text": "wymiany urządzeń zasilających na urządzenia o innych parametrach lub innej charakterystyce,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_62/ust_3/pkt_4",
+       "text": "nieszczelności ścianek zbiornika,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_62/ust_3/pkt_5",
+       "text": "zmiany połączeń określonych w schemacie, o którym mowa w § 37 ust. 1 pkt 1,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_62/ust_3/pkt_6",
+       "text": "przekroczenia dopuszczalnych parametrów pracy zbiornika,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_62/ust_3/pkt_7",
+       "text": "wystąpienia innych okoliczności, ustalonych przez organ właściwej jednostki dozoru technicznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_62/ust_4",
+     "text": "Badania doraźne kontrolne, o których mowa w ust. 1 pkt 3, przeprowadza się u eksploatującego w ramach nadzoru i kontroli przestrzegania przepisów o dozorze technicznym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "63",
+   "path": "par_63",
+   "text": "Zbiorniki o pojemności do 2,5 m³ objęte są dozorem technicznym uproszczonym, zbiorniki o pojemności powyżej 2,5 m³ do 15 m³ — dozorem technicznym ograniczonym, a zbiorniki o pojemności powyżej 15 m³ — dozorem technicznym pełnym.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 8",
+   "text": "Eksploatacja"
+  },
+  {
+   "type": "par",
+   "num": "64",
+   "path": "par_64",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_64/ust_1",
+     "text": "Na zewnętrznych powierzchniach zbiornika nie powinny znajdować się pozostałości czynnika roboczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_64/ust_2",
+     "text": "Strefy zagrożenia wybuchem, odległości zbiornika od obiektów budowlanych i ułożonych pod ziemią przewodów oraz uziemienie powinny być, zgodnie z odrębnymi przepisami, określone w dokumentacji odbiorczej, o której mowa w § 37 ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "65",
+   "path": "par_65",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_65/ust_1",
+     "text": "Eksploatujący zbiornik opracowuje instrukcję eksploatacji zbiornika, która powinna zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_65/ust_1/pkt_1",
+       "text": "charakterystykę zbiornika,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_65/ust_1/pkt_2",
+       "text": "opis czynności związanych z napełnianiem, magazynowaniem i opróżnianiem,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_65/ust_1/pkt_3",
+       "text": "zasady bezpieczeństwa i higieny pracy, ze szczególnym uwzględnieniem czynnika znajdującego się w zbiorniku oraz skażenia mikrobiologicznego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_65/ust_1/pkt_4",
+       "text": "wymagania określone w odrębnych przepisach, dotyczące ochrony przed wybuchem i pożarem oraz ochrony środowiska, odpowiednie dla czynnika roboczego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_65/ust_1/pkt_5",
+       "text": "wymagania dotyczące obsługi urządzeń zabezpieczających, czynności związane z konserwacją zbiornika, w tym również częstotliwość, sposób i zakres sprawdzania wykładzin i pokryć oraz częstotliwość kontroli zagrożenia korozją,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_65/ust_1/pkt_6",
+       "text": "wymagania dotyczące kwalifikacji osób sprawujących nadzór oraz obsługujących i konserwujących zbiornik,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_65/ust_1/pkt_7",
+       "text": "sposób postępowania w razie wystąpienia uszkodzeń i nieprawidłowości podczas eksploatacji zbiornika.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_65/ust_2",
+     "text": "W przypadku gdy zbiornik stanowi część instalacji, dopuszcza się, aby instrukcja eksploatacji zbiornika stanowiła część instrukcji technologicznej instalacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_65/ust_3",
+     "text": "Instrukcja eksploatacji zbiornika powinna znajdować się w miejscu dostępnym dla osób obsługujących zbiornik.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "66",
+   "path": "par_66",
+   "text": "Osoby obsługujące zbiornik powinny postępować zgodnie z instrukcją eksploatacji zbiornika, f a w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_66/pkt_1",
+     "text": "kontrolować, aby nie nastąpiło przekroczenie parametrów dopuszczalnych, a w przypadku ich przekroczenia, podejmować działania przewidziane w instrukcji eksploatacji mające na celu sprowadzenie parametrów do poziomu dopuszczalnego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_66/pkt_2",
+     "text": "prowadzić zapisy dotyczące eksploatacji zbiornika lub instalacji, zgodnie z instrukcją eksploatacji, a także rejestrować wykonane przeglądy, próby okresowe oraz wymiany części składowych i osprzętu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "67",
+   "path": "par_67",
+   "text": "Zbiornik może być przekazany do rozruchu przed zakończeniem badań odbiorczych, jeżeli wyłącznym celem rozruchu, prowadzonego pod nadzorem osoby odpowiedzialnej za rozruch, będzie sprawdzenie prawidłowości działania zbiornika, jego zabezpieczeń i osprzętu oraz ewentualna regulacja instalacji napełniania i opróżniania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "68",
+   "path": "par_68",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_68/ust_1",
+     "text": "Zbiornik może być napełniany wyłącznie czynnikiem roboczym określonym na tabliczce i w protokole badania odbiorczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_68/ust_2",
+     "text": "Przeznaczenie zbiornika do magazynowania innego czynnika roboczego niż określony na tabliczce wymaga uzyskania zgody organu właściwej jednostki dozoru technicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_68/ust_3",
+     "text": "Przed pierwszym napełnieniem zbiornika należy podjąć odpowiednie środki zapobiegające wystąpieniu ewentualnych zagrożeń w zbiorniku lub jego otoczeniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "69",
+   "path": "par_69",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_69/ust_1",
+     "text": "Wartość masy netto ładunku zbiornika, dla napełniania metodą wagową, oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "F × V Q = ——— ρ⁰ [kg lub t] 100"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają: Q — wartość masy netto ładunku zbiornika, F — napełnienie zbiornika, o którym mowa w § 9 ust. 2, wyrażone w %, V — pojemność zbiornika, wyrażona w dm³ lub m³, ρ — gęstość cieczy w najwyższej temperaturze robo- ⁰ czej, wyrażona w kg/dm³ lub t/m³."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_69/ust_2",
+     "text": "W obliczeniu, o którym mowa w ust. 1, nie uwzględnia się masy par cieczy lub powietrza w zbiorniku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "70",
+   "path": "par_70",
+   "text": "Dopuszczalne napełnienie zbiornika, jeżeli zbiornik jest napełniany metodą pojemnościową, w zależności od temperatury napełnienia, oblicza się według wzoru:",
+   "children": [
+    {
+     "type": "text",
+     "text": "ρ F n = — ρ⁰ ×F [%]"
+    },
+    {
+     "type": "text",
+     "text": "gdzie poszczególne symbole oznaczają: F — dopuszczalne napełnienie zbiornika, ρ n — gęstość w najwyższej temperaturze roboczej, ⁰ wyrażona w kg/dm³ lub t/m³, ρ — gęstość w temperaturze napełniania, wyrażona w kg/dm lub t/m , F — napełnienie zbiornika, o którym mowa w § 9 ust. 2, wyrażone w %."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "71",
+   "path": "par_71",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_71/ust_1",
+     "text": "Wejście do zbiornika może nastąpić po jego opróżnieniu, dokonaniu neutralizacji lub dezynfekcji i przewietrzeniu oraz innych czynnościach gwarantujących bezpieczeństwo, zgodnie z odrębnymi przepisami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_71/ust_2",
+     "text": "Inspektor może wejść do zbiornika po uzyskaniu pisemnego zezwolenia od eksploatującego zbiornik.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "72",
+   "path": "par_72",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_72/ust_1",
+     "text": "Dopuszcza się wymianę osprzętu zbiornika, bez uzgodnienia z organem właściwej jednostki dozoru technicznego, na osprzęt tego samego typu oraz o tych samych parametrach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_72/ust_2",
+     "text": "Wymiana osprzętu powinna odbywać się pod nadzorem osób odpowiedzialnych za kontrolę eksploatacyjną zbiornika i powinna być odnotowana w postaci zapisów, o których mowa w § 66 pkt 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "73",
+   "path": "par_73",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_73/ust_1",
+     "text": "Podziemne zbiorniki oraz dna zbiorników naziemnych o osi pionowej wykonane ze stali węglowych lub stopowych powinny być wyposażone w system zabezpieczenia katodowego, z zastrzeżeniem ust. 4. System ten powinien gwarantować ujemny potencjał zbiornika w stosunku do gruntu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_73/ust_2",
+     "text": "Potencjał zbiornika mierzony w stosunku do elektrody porównawczej miedź-siarczan miedzi nie powinien być większy niż 0,85 V. W przypadku zagrożenia korozją przez beztlenowe bakterie redukujące siarczany, potencjał ten nie powinien być większy niż 0,95 V.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_73/ust_3",
+     "text": "Jeżeli zbiorniki, o których mowa w ust. 1, znajdują się w strefie występowania prądów błądzących, należy zastosować specjalne środki ochrony katodowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_73/ust_4",
+     "text": "Ochrona katodowa nie jest wymagana, jeżeli zbiornik nie styka się z gruntem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 9",
+   "text": "Przepisy przejściowe i końcowe"
+  },
+  {
+   "type": "par",
+   "num": "74",
+   "path": "par_74",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_74/ust_1",
+     "text": "Zbiorniki eksploatowane przed dniem wejścia w życie rozporządzenia powinny być do dnia 31 grudnia 2001 r. zgłoszone przez eksploatującego do organu właściwej jednostki dozoru technicznego w celu przeprowadzenia próby szczelności oraz rewizji zewnętrznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_74/ust_2",
+     "text": "W terminie do dnia 31 grudnia 2002 r. eksploatujący zbiornik powinien przedłożyć organowi właściwej jednostki dozoru technicznego dokumentację, o której mowa w ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_74/ust_3",
+     "text": "Dokumentacja powinna zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_74/ust_3/pkt_1",
+       "text": "uproszczony rysunek zestawieniowy zbiornika, na którym powinny być podane:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_74/ust_3/pkt_1/lit_a",
+         "text": "zasadnicze wymiary konieczne do sprawdzenia obliczeń wytrzymałościowych, z podaną rzeczywistą grubością elementów głównych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_74/ust_3/pkt_1/lit_b",
+         "text": "nazwa i podstawowe właściwości czynnika roboczego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_74/ust_3/pkt_1/lit_c",
+         "text": "parametry robocze,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_74/ust_3/pkt_1/lit_d",
+         "text": "rodzaje lub gatunki użytych materiałów, jeżeli są znane,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_74/ust_3/pkt_1/lit_e",
+         "text": "specyfikacje króćców i ich rozmieszczenie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_74/ust_3/pkt_1/lit_f",
+         "text": "dopuszczalne napełnienie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_74/ust_3/pkt_1/lit_g",
+         "text": "parametry i rodzaj próby szczelności,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_74/ust_3/pkt_1/lit_h",
+         "text": "dane o zabezpieczeniu antykorozyjnym,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_74/ust_3/pkt_2",
+       "text": "obliczenia wytrzymałościowe zbiornika, ograniczone do sprawdzenia zasadniczych elementów głównych, w szczególności płaszcza, den i wzmocnień, wykonane przy założeniach:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_74/ust_3/pkt_2/lit_a",
+         "text": "w przypadku braku danych materiałowych, dla elementów stalowych należy przyjąć granicę plastyczności równą 180 N/mm²,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_74/ust_3/pkt_2/lit_b",
+         "text": "dla połączeń spawanych należy przyjąć współczynnik złącza spawanego Z = 0,7,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_74/ust_3/pkt_2/lit_c",
+         "text": "współczynnik bezpieczeństwa X = 1,8,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_74/ust_3/pkt_2/lit_d",
+         "text": "wartości ciśnień obliczeniowych należy przyjmować zgodnie z wymaganiami określonymi w § 6,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_74/ust_3/pkt_2/lit_e",
+         "text": "obliczenia wytrzymałościowe połączeń kołnierzowo-śrubowych nie są wymagane, jeżeli połączenia te są wykonane zgodnie z Polskimi Normami. W przypadku niezgodności z Polskimi Normami, obliczenia obowiązują dla średnicy nominalnej króćca powyżej DN 100,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_74/ust_3/pkt_3",
+       "text": "poświadczenie eksploatującego o przyjętej grubości nominalnej ścianek zbiornika, spełniającej wymagania, o których mowa w § 75 ust. 1, jeżeli eksploatujący nie posiada obliczeń wytrzymałościowych. W przypadku różnych grubości pasów płaszcza zbiornika, grubości nominalne powinny być określone dla każdej z zastosowanych grubości,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_74/ust_3/pkt_4",
+       "text": "dane o osprzęcie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_74/ust_3/pkt_5",
+       "text": "opis działania zbiornika,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_74/ust_3/pkt_6",
+       "text": "schemat instalacji oraz rodzaje zabezpieczeń,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_74/ust_3/pkt_7",
+       "text": "plan usytuowania zbiornika,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_74/ust_3/pkt_8",
+       "text": "inne istotne informacje dotyczące dotychczasowej eksploatacji zbiornika, takie jak stwierdzone uszkodzenia, dokonane naprawy, wiek zbiornika i dane dotyczące jego posadowienia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_74/ust_3/pkt_9",
+       "text": "instrukcję eksploatacji zbiornika lub wypis z instrukcji technologicznej.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "75",
+   "path": "par_75",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_75/ust_1",
+     "text": "Zbiorniki, o których mowa w § 74 ust. 1, powinny spełniać następujące wymagania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_75/ust_1/pkt_1",
+       "text": "rzeczywista minimalna grubość ścianki zbiorników powinna zapewniać stateczność konstrukcji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_75/ust_1/pkt_2",
+       "text": "w przypadku wyposażenia zbiornika w osprzęt o nietypowej konstrukcji lub gdy wytwarzający ten osprzęt nie jest znany, eksploatujący zbiornik może uzyskać decyzję organu właściwej jednostki dozoru technicznego zezwalającą na eksploatację po:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_75/ust_1/pkt_2/lit_a",
+         "text": "pisemnym poświadczeniu o długoletniej i bezawaryjnej pracy tego osprzętu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_75/ust_1/pkt_2/lit_b",
+         "text": "przeprowadzonym sprawdzeniu stanu osprzętu i uzyskaniu pozytywnych wyników tego sprawdzenia.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_75/ust_2",
+     "text": "Umieszczone na zbiornikach, o których mowa w § 74 ust. 1, tabliczki lub tabliczki zastępcze powinny zawierać w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_75/ust_2/pkt_1",
+       "text": "numer fabryczny lub ewidencyjny zbiornika,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_75/ust_2/pkt_2",
+       "text": "pojemność zbiornika,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_75/ust_2/pkt_3",
+       "text": "nazwy lub wzory chemiczne czynnika lub czynników roboczych, które mogą być magazynowane w zbiorniku.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "76",
+   "path": "par_76",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_76/ust_1",
+     "text": "Po otrzymaniu dokumentacji, o której mowa w § 74 ust. 3, organ właściwej jednostki dozoru technicznego poddaje zbiornik próbie szczelności oraz rewizji zewnętrznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_76/ust_2",
+     "text": "Jeżeli eksploatujący zbiorniki, o których mowa w § 74 ust. 1, przedłoży dokument potwierdzający, zgodne z wymaganiami określonymi w odrębnych przepisach, przeprowadzenie próby szczelności jedną z metod, o których mowa w § 48 ust. 3, próba szczelności powinna być przeprowadzana z częstotliwością określoną w załączniku do rozporządzenia, począwszy od dnia przeprowadzenia tej próby.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "77",
+   "path": "par_77",
+   "text": "Zbiorniki, dla których próba szczelności lub rewizja zewnętrzna zakończone zostały wynikiem negatywnym, powinny być wycofane z użytkowania albo, jeżeli jest to technicznie i ekonomicznie uzasadnione, poddane odpowiedniej naprawie lub modernizacji i ponownie przedstawione do badań.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "78",
+   "path": "par_78",
+   "text": "Zbiorniki, których proces wytwarzania rozpoczął się przed dniem wejścia w życie rozporządzenia, mogą być do dnia 31 grudnia 2002 r. zgłaszane do organu właściwej jednostki dozoru technicznego. Przepisy § 74 i § 77 stosuje się odpowiednio.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "79",
+   "path": "par_79",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki: J. Steinhoff"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Gospodarki z dnia 18 września 2001 r. (poz. 1211)",
+   "body": [
+    {
+     "type": "text",
+     "text": "CZĘSTOTLIWOŚĆ BADAŃ OKRESOWYCH ZBIORNIKÓW"
+    },
+    {
+     "type": "text",
+     "text": "Częstotliwość badania zbiornika nie rzadziej niż"
+    },
+    {
+     "type": "text",
+     "text": "dla zbiorników stalowych dla zbiorników stalowych dla Rodzaj badania naziemnych podziemnych zbiorników z tworzyw do 30 lat powyżej 30 lat do 20 lat powyżej 20 lat sztucznych eksploatacji eksploatacji eksploatacji eksploatacji"
+    },
+    {
+     "type": "text",
+     "text": "Rewizja wewnętrzna 10 lat 6 lat 10 lat 5 lat 10 lat"
+    },
+    {
+     "type": "text",
+     "text": "Próba szczelności 10 lat 6 lat 10 lat 5 lat 10 lat"
+    },
+    {
+     "type": "text",
+     "text": "Rewizja zewnętrzna 2 lata 1 rok 2 lata 1 rok 2 lata"
+    },
+    {
+     "type": "text",
+     "text": "f 3 3"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

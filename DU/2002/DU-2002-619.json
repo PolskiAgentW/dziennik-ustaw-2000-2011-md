@@ -1,0 +1,635 @@
+{
+ "eli": "DU/2002/619",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 maja 2002 r. w sprawie Biuletynu Informacji Publicznej.",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2002/619/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 maja 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Biuletynu Informacji Publicznej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 ust. 4 ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "szczegółowe standardy ujednoliconego systemu stron Biuletynu Informacji Publicznej, obejmujące:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "strukturę strony głównej Biuletynu Informacji Publicznej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "standardy struktury stron Biuletynu Informacji Publicznej, na których udostępniają informacje publiczne organy władzy publicznej oraz inne podmioty wykonujące zadania publiczne, a także związki zawodowe i ich organizacje oraz partie polityczne,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "zakres i tryb przekazywania ministrowi właściwemu do spraw administracji publicznej przez organy władzy publicznej oraz inne podmioty wykonujące zadania publiczne, a także związki zawodowe i ich organizacje oraz partie polityczne, informacji niezbędnych do zamieszczenia na stronie głównej Biuletynu Informacji Publicznej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "standardy zabezpieczania treści informacji publicznych udostępnianych w Biuletynie Informacji Publicznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "ustawa — ustawę z dnia 6 września 2001 r. o dostępie do informacji publicznej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "Biuletyn — Biuletyn Informacji Publicznej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "adres URL — adres wskazujący lokalizację strony głównej lub podmiotowej strony Biuletynu w sieci teleinformatycznej (adres strony www),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "hasło dostępu — indywidualne hasło będące ciągiem znaków literowych, cyfrowych i innych, znane jedynie osobie uprawnionej do dokonywania zmian w treści informacji publicznych udostępnianych w Biuletynie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "identyfikator — ciąg znaków literowych, cyfrowych i innych jednoznacznie identyfikujący osobę uprawnioną do dokonywania zmian w treści informacji publicznych udostępnianych w Biuletynie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "mechanizmy baz danych — elementy oprogramowania serwera pozwalające na gromadzenie, porządkowanie, aktualizowanie i udostępnianie informacji publicznych w Biuletynie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "menu podmiotowe — wykaz podmiotów, o których mowa w art. 4 ust. 1 i 2 ustawy, zobowiązanych do udostępniania informacji publicznych w Biuletynie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "menu przedmiotowe — wykaz grup tematycznych, w które są zestawione informacje publiczne udostępniane w Biuletynie, na podstawie ustawy lub ustaw szczególnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "moduł wyszukujący — element oprogramowania serwera umożliwiający znalezienie stron Biuletynu zawierających wyrażenie poszukiwane przez odwiedzającego Biuletyn,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "moduł administracyjny — element oprogramowania serwera umożliwiający dostęp (po podaniu identyfikatora i hasła dostępu) do Biuletynu w celu dokonania niezbędnych zmian w treści informacji publicznych udostępnianych w Biuletynie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "moduł bezpieczeństwa — programowe lub sprzętowo-programowe rozwiązanie techniczne pozwalające na odseparowanie informacji publicznych zawartych na podmiotowych stronach Biuletynu od sieci Internet, w sposób uniemożliwiający niekontrolowaną penetrację lub eksplorację tych informacji albo ich zniszczenie lub modyfikację przez osoby nieuprawnione,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "odwiedzający Biuletyn — osobę poszukującą informacji publicznej w Biuletynie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "odwiedziny Biuletynu — wywołanie strony głównej lub podmiotowej strony Biuletynu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_2/pkt_14",
+     "text": "podmiotowe strony Biuletynu — strony Biuletynu, na których udostępnia się informacje publiczne, utworzone, utrzymywane i aktualizowane przez podmioty, o których mowa w art. 4 ust. 1 i 2 ustawy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_2/pkt_15",
+     "text": "serwer — komputer, w którym są zgromadzone informacje publiczne udostępniane w Biuletynie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Dostęp do informacji publicznych zawartych w Biuletynie jest możliwy poprzez stronę główną Biuletynu posiadającą adres URL - www.bip.gov.pl, według menu podmiotowego lub przedmiotowego albo poprzez podmiotowe strony Biuletynu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Informacje publiczne zawarte w Biuletynie organizuje się w postaci baz danych, a ich udostępnianie odbywa się w oparciu o mechanizmy baz danych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Informacje publiczne zawarte w Biuletynie udostępnia się odwiedzającym Biuletyn przez całą dobę bez przerwy, z zastrzeżeniem § 22.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Informacje publiczne udostępniane w Biuletynie nie mogą zawierać niewyjaśnionych skrótów.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Struktura strony głównej Biuletynu Informacji Publicznej"
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Stronę główną Biuletynu redaguje się w sposób umożliwiający modyfikacje menu podmiotowego i przedmiotowego, a także uwzględniając technologiczny rozwój systemu teleinformatycznego, w którym działa Biuletyn.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Strona główna Biuletynu zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_1/pkt_1",
+       "text": "logo (znak graficzny) Biuletynu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_1/pkt_2",
+       "text": "imię i nazwisko, adres, numer telefonu, numer faksu i adres e-mail osób redagujących stronę główną Biuletynu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_1/pkt_3",
+       "text": "instrukcję korzystania z Biuletynu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_8/ust_1/pkt_4",
+       "text": "menu podmiotowe wraz z adresami URL,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_8/ust_1/pkt_5",
+       "text": "menu przedmiotowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_8/ust_1/pkt_6",
+       "text": "informację o liczbie odwiedzin podmiotowych stron Biuletynu i poszczególnych grup tematycznych w menu przedmiotowym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_8/ust_1/pkt_7",
+       "text": "rejestr zmian treści strony głównej Biuletynu, ze wskazaniem daty, od której zmiany te obowiązują,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_8/ust_1/pkt_8",
+       "text": "moduł wyszukujący.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Strona główna Biuletynu nie może zawierać reklam i innych treści o charakterze komercyjnym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Standardy struktury podmiotowych stron Biuletynu Informacji Publicznej"
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Podmiotowe strony Biuletynu są tworzone w formie odrębnych stron www.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "W przypadku gdy podmiot, o którym mowa w art. 4 ust. 1 i 2 ustawy, posiada własny internetowy serwis informacyjny, podmiotową stronę Biuletynu utworzoną przez ten podmiot wydziela się z tego serwisu, poprzez umieszczenie na stronie głównej serwisu przycisku ekranowego Biuletynu z logo Biuletynu, umożliwiającego bezpośredni dostęp do podmiotowej strony Biuletynu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Podmiotowe strony Biuletynu umieszcza się na serwerze podmiotu, o którym mowa w art. 4 ust. 1 i 2 ustawy, albo na innym serwerze obsługującym taki podmiot.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Na podmiotowych stronach Biuletynu umieszcza się przyciski ekranowe umożliwiające dostęp do strony głównej Biuletynu oraz do strony głównej istniejącego internetowego serwisu informacyjnego podmiotu, o którym mowa w art. 4 ust. 1 i 2 ustawy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Podmiotowa strona Biuletynu zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_1/pkt_1",
+       "text": "logo (znak graficzny) Biuletynu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_1/pkt_2",
+       "text": "imię i nazwisko, adres, numer telefonu, numer faksu i adres e-mail osób redagujących podmiotową stronę Biuletynu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_1/pkt_3",
+       "text": "instrukcję korzystania z podmiotowej strony Biuletynu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_12/ust_1/pkt_4",
+       "text": "menu przedmiotowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_12/ust_1/pkt_5",
+       "text": "informację o liczbie odwiedzin podmiotowej strony Biuletynu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_12/ust_1/pkt_6",
+       "text": "rejestr zmian treści informacji publicznych zawartych na podmiotowych stronach Biuletynu, ze wskazaniem daty, od której zmiany te obowiązują,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_12/ust_1/pkt_7",
+       "text": "informację dotyczącą sposobu dostępu do informacji publicznych będących w posiadaniu podmiotu tworzącego podmiotową stronę Biuletynu, a nieudostępnionych w Biuletynie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_12/ust_1/pkt_8",
+       "text": "moduł wyszukujący.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Podmiotowa strona Biuletynu nie może zawierać reklam i innych treści o charakterze komercyjnym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Zakres i tryb przekazywania informacji niezbędnych do zamieszczenia na stronie głównej Biuletynu Informacji Publicznej"
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Podmioty, o których mowa w art. 4 ust. 1 i 2 ustawy, przekazują ministrowi właściwemu do spraw administracji publicznej informacje o adresie URL utworzonej przez siebie podmiotowej strony Biuletynu, o nazwie podmiotu oraz o liczbie odwiedzin podmiotowej strony Biuletynu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Podmioty, o których mowa w art. 4 ust. 1 i 2 ustawy, powiadamiają ministra właściwego do spraw administracji publicznej o zmianach w treści informacji, które przekazali w celu zamieszczenia na stronie głównej Biuletynu, oraz o likwidacji podmiotu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Przekazywanie informacji, o których mowa w § 13 ust. 1, oraz powiadamianie ministra właściwego do spraw administracji publicznej o zmianach w treści tych informacji następuje w terminie zapewniającym zachowanie zgodności treści strony głównej i podmiotowych stron Biuletynu, nie później niż w ciągu 24 godzin od wprowadzenia tych zmian.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Przekazywanie informacji, o których mowa w § 13, odbywa się poprzez moduł administracyjny strony głównej Biuletynu lub na adres poczty elektronicznej: redakcja@bip.gov.pl. w sposób zapewniający integralność i uwierzytelnienie nadawcy przesłanych informacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "W przypadku braku możliwości przekazania informacji, o których mowa w § 13, w sposób określony w ust. 1, dopuszcza się przekazywanie tych informacji drogą pocztową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_15/ust_3",
+     "text": "Administrator strony głównej Biuletynu jest obowiązany potwierdzić odbiór informacji, o których mowa w ust. 1 i 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Standardy zabezpieczania treści informacji publicznych udostępnianych w Biuletynie Informacji Publicznej"
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Podmioty, o których mowa w art. 4 ust. 1 i 2 ustawy, wyznaczają pracowników odpowiedzialnych za:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_1/pkt_1",
+       "text": "przekazywanie ministrowi właściwemu do spraw administracji publicznej informacji niezbędnych do zamieszczenia na stronie głównej Biuletynu oraz powiadamianie tego ministra o zmianach w treści tych informacji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_1/pkt_2",
+       "text": "dokonywanie zmian treści informacji publicznych udostępnianych na podmiotowej stronie Biuletynu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Pracownicy, o których mowa w ust. 1 pkt 1, powinni posiadać indywidualny zewnętrzny identyfikator oraz zewnętrzne hasło dostępu do modułu administracyjnego strony głównej Biuletynu, nadane przez administratora tej strony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Pracownicy, o których mowa w ust. 1 pkt 2, powinni posiadać indywidualny wewnętrzny identyfikator oraz wewnętrzne hasło dostępu do modułu administracyjnego podmiotowej strony Biuletynu, nadane przez administratora internetowego serwisu informacyjnego podmiotu, z zastrzeżeniem ust. 4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_16/ust_4",
+     "text": "W przypadku gdy podmiot, o którym mowa w art. 4 ust. 1 i 2 ustawy, nie posiada własnego internetowego serwisu informacyjnego, indywidualny wewnętrzny identyfikator oraz wewnętrzne hasło dostępu do modułu administracyjnego podmiotowej strony Biuletynu nadaje pracownikom, o których mowa w ust. 1 pkt 2, administrator podmiotowej strony Biuletynu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Pracownicy, o których mowa w § 16 ust. 1, prowadzą dzienniki, w których odnotowują zmiany w treści informacji publicznych udostępnianych w Biuletynie oraz próby dokonywania takich zmian przez osoby nieuprawnione.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Administrator strony głównej Biuletynu i administratorzy podmiotowych stron Biuletynu dokonują bieżącej, nie rzadziej niż co 24 godziny, kontroli dzienników, których mowa w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Serwer strony głównej Biuletynu oraz serwery podmiotowych stron Biuletynu ochrania się przez moduł bezpieczeństwa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Informacje zgromadzone w bazie danych strony głównej Biuletynu oraz informacje publiczne zgromadzone na podmiotowych stronach Biuletynu kopiuje się systematycznie na odrębne elektroniczne nośniki informacji, nie rzadziej niż raz na dobę.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Oprogramowanie serwera strony głównej Biuletynu oraz serwerów podmiotowych stron Biuletynu zawiera zabezpieczenia uniemożliwiające instalację na tych serwerach przez osoby nieuprawnione innego oprogramowania, w szczególności spowalniającego obsługę Biuletynu lub uniemożliwiającego taką obsługę.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Minister właściwy do spraw administracji publicznej oraz podmioty, o których mowa w art. 4 ust. 1 i 2 ustawy, są zobowiązane do posiadania serwera zastępczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "W przypadku awarii serwera strony głównej lub podmiotowej strony Biuletynu serwer, o którym mowa w ust. 1, przejmuje jego funkcje.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "W przypadku awarii serwera podmiotowej strony Biuletynu odwiedzający podmiotową stronę Biuletynu jest informowany o chwilowym zablokowaniu połączeń z tą stroną. Czas ten nie może być dłuższy niż 24 godziny.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Przepis końcowy"
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych i Administracji: K. Janik"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

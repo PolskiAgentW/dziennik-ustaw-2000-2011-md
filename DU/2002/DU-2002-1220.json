@@ -1,0 +1,1948 @@
+{
+ "eli": "DU/2002/1220",
+ "title": "Rozporządzenie Ministra Gospodarki z dnia 6 września 2002 r. w sprawie wymagań technicznych i metrologicznych, którym powinny odpowiadać taksometry elektroniczne.",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2002/1220/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 września 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wymagań technicznych i metrologicznych, którym powinny odpowiadać taksometry elektroniczne."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 8 pkt 1 ustawy z dnia 3 kwietnia 1993 r. — Prawo o miarach (Dz. U. Nr 55, poz. 248, z 1997 r. Nr 43, poz. 272 i Nr 121, poz. 770, z 2000 r. Nr 43, poz. 489 i Nr 120, poz. 1268 oraz z 2001 r. Nr 154, poz. 1800) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepis ogólny"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "taksometrze, należy przez to rozumieć elektroniczny przyrząd pomiarowy, który służy do obliczania, według ustalonych taryf, należności za długość drogi przebytej przez taksówkę, a poniżej prędkości granicznej, za czas wynajęcia taksówki;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "taksówce, należy przez to rozumieć pojazd służący do usługowego prowadzenia działalności w zakresie przewozu osób i ładunków;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "stałej k taksometru (wyrażonej w impulsach na kilometr drogi — imp/km), należy przez to rozumieć wielkość określającą rodzaj i liczbę sygnałów, które powinien przyjąć taksometr, aby poprawnie wskazać długość przebytej drogi równą 1 km;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "współczynniku charakterystycznym w (wyrażonym w obrotach na kilometr drogi — obr/km lub w impulsach na kilometr drogi — imp/km), należy przez to rozumieć wielkość określającą rodzaj i liczbę sygnałów elementu taksówki przeznaczonego do napędu taksometru (obrotów lub impulsów) przypadających na 1 km drogi przebytej przez taksówkę;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "stałej c taryf, należy przez to rozumieć wielkość określającą stosunek długości pierwszego odcinka drogi do następnego odcinka i pierwszego okresu czasu do następnego okresu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "opłacie początkowej, należy przez to rozumieć stałą minimalną wartość należności wskazywaną w momencie włączenia taksometru;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "prędkości granicznej, należy przez to rozumieć prędkość, przy której taksówka przebywa drogę odpowiadającą jednostce taryfowej (drogę równą jej pierwszemu lub następnemu odcinkowi) w czasie właściwym dla tej jednostki taryfowej (w czasie równym odpowiednio pierwszemu lub następnemu okresowi);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "kasie rejestrującej, należy przez to rozumieć kasę rejestrującą o zastosowaniu specjalnym w rozumieniu § 3 ust. 2 rozporządzenia Ministra Finansów z dnia 4 lipca 2002 r. w sprawie kryteriów i warunków technicznych, którym muszą odpowiadać kasy rejestrujące, oraz warunków stosowania tych kas przez podatników (Dz. U. Nr 108, poz. 948);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "legalizacji pierwotnej, należy przez to rozumieć legalizację taksometru dokonaną po jego wyprodukowaniu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "legalizacji ostatecznej, należy przez to rozumieć legalizację taksometru dokonaną w miejscu i warunkach jego użytkowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "pierwszym odcinku drogi, należy przez to rozumieć odcinek, po którym opłata początkowa zwiększa się o jednostkę taryfową;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_1/pkt_12",
+     "text": "następnym odcinku drogi, należy przez to rozumieć każdy odcinek o tej samej długości, po którym wskazywana opłata zmienia się o jednostkę taryfową;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_1/pkt_13",
+     "text": "pierwszym okresie, należy przez to rozumieć okres, po którym opłata początkowa zwiększa się o jednostkę taryfową;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_1/pkt_14",
+     "text": "następnym okresie, należy przez to rozumieć każdy okres o tej samej wartości, po którym wskazywana opłata zmienia się o jednostkę taryfową;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_1/pkt_15",
+     "text": "dopłacie, należy przez to rozumieć opłatę za dodatkową usługę wykonywaną przez kierowcę taksówki na rzecz pasażera;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_1/pkt_16",
+     "text": "jednostce dopłaty, należy przez to rozumieć stałą wartość, o jaką zmienia się wskazanie dopłaty;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_1/pkt_17",
+     "text": "jednostce taryfowej, należy przez to rozumieć stałą wartość we wszystkich zastosowanych w taksometrze taryfach, o jaką zmienia się opłata.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Wymagania techniczne, jakim powinny odpowiadać taksometry"
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "W skład taksometru wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "zespół opłat służący do wskazywania należności za wynajęcie taksówki;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "zespół drogi służący do obliczania, według ustalonych taryf, należności za długość drogi przebytej przez wynajętą taksówkę, poruszającą się z prędkością większą od prędkości granicznej, i przekazujący informację o tej należności do zespołu opłat;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "zespół czasu służący do obliczania, według ustalonych taryf, należności za czas wynajęcia taksówki stojącej lub poruszającej się z prędkością mniejszą od prędkości granicznej i przekazujący informację o tej należności do zespołu opłat;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "zespół przełącznika rodzaju pracy taksometru, zwany dalej „zespołem przełącznika”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_1/pkt_5",
+       "text": "zespół liczników sumujących i wskazujących w postaci szeregu cyfr:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_5/lit_a",
+         "text": "liczbę kilometrów przebytych przez taksówkę, zwanych dalej „kilometrami ogólnymi”,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_5/lit_b",
+         "text": "liczbę kilometrów przebytych przez wynajętą taksówkę, zwanych dalej „kilometrami płatnymi”,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_5/lit_c",
+         "text": "liczbę wynajęć taksówki, zwany dalej „licznikiem kursów”,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_1/pkt_5/lit_d",
+         "text": "liczbę jednostek taryfowych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_1/pkt_6",
+       "text": "urządzenie do oświetlania jego przedniej ścianki, umożliwiające łatwe odczytanie wskazań zespołu opłat i zespołu przełącznika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/ust_1/pkt_7",
+       "text": "złącze testowe służące do wyprowadzenia z taksometru sygnałów START i STOP.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Taksometr współpracuje z kasą rejestrującą, która może być w niego wbudowana lub podłączona, w sposób niezakłócający jego działania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład taksometru, oprócz zespołów i urządzeń wymienionych w § 2 ust. 1, mogą wchodzić:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "liczniki wskazujące sumę opłat;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "zespół dopłat wraz z licznikiem dopłat;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "zewnętrzne urządzenia informacyjne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "zespół drukujący;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "liczniki wskazujące utarg uzyskany za daną dobę lub długość drogi przebytej w ciągu danej doby przez taksówkę, mające zapewnioną możliwość ustawienia ich wskazań na zero;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_1/pkt_6",
+       "text": "zespół licznika zliczającego liczbę obrotów lub impulsów elementu napędzającego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/ust_1/pkt_7",
+       "text": "elektroniczne urządzenie zabezpieczające.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Działanie urządzeń, o których mowa w ust. 1, nie powinno zakłócać działania taksometru.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Taksometr:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "wytwarza się z materiałów o wytrzymałości, stabilności i innych właściwościach odpowiednich do przewidywanego okresu trwałości przyrządu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "konstruuje i wykonuje się w taki sposób, aby możliwe było nałożenie cech zabezpieczających, które uniemożliwią, bez ich naruszenia:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_4/pkt_2/lit_a",
+       "text": "dostęp do wnętrza taksometru, a zwłaszcza do podzespołów wymagających szczególnej ochrony, w tym do urządzeń przeznaczonych do regulacji lub dopasowania przyrządu do taksówki,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_4/pkt_2/lit_b",
+       "text": "ingerencję w program taksometru;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "w przypadku posiadania wspólnej płyty głównej z kasą rejestrującą umożliwia wykonanie czynności fiskalizacji kasy rejestrującej bez naruszenia cech zabezpieczających taksometr;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "zapewnia transmisję rejestrowanych danych do kasy rejestrującej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_4/pkt_5",
+     "text": "zapewnia możliwość blokowania jego działania, najpóźniej po wykonaniu operacji kończącej kurs, w przypadku odłączenia lub uszkodzenia kasy rejestrującej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_4/pkt_6",
+     "text": "ma obudowę chroniącą zespoły taksometru przed pyłem i wilgocią.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Na wewnętrznej lub zewnętrznej stronie przedniej ścianki taksometru, w łatwo widocznym miejscu, powinny być zamieszczone w sposób trwały następujące oznaczenia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "nazwa lub znak wytwórcy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "numer fabryczny i rok produkcji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "nadany znak zatwierdzenia typu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "wartość stałej k lub zakres wartości, w którym stała ta może być ustawiana, jeśli w taksometrze jest umieszczony układ dopasowujący.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Na przedniej ściance taksometru powinny być umieszczone następujące oznaczenia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "opłata złotych (zł);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "taryfa — przy okienku taryf;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "km ogólne, km płatne, kursy, jednostki taryfowe przy okienku liczników lub przy okienkach odpowiednich liczników, jeżeli występują one oddzielnie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_2/pkt_4",
+       "text": "dopłata złotych (zł) — przy okienku dopłat.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Jeżeli w taksometrze przy nanoszeniu oznaczeń, o których mowa w ust. 2, zastosowano umowne symbole lub znaki, to na przedniej ściance taksometru należy zamieścić odpowiednią legendę (taką jak: W — WOLNY; K — KASA).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Litery i cyfry oznaczeń powinny być wykonane w sposób trwały i czytelny. Wysokość liter napisów OPŁATA, DOPŁATA, TARYFA, WOLNY, KASA i cyfr nie powinna być mniejsza niż 4 mm. Wysokość pozostałych napisów i oznaczeń nie powinna być mniejsza niż 2,5 mm.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Stała k taksometru nie może być mniejsza niż 400 imp/km.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Należy zapewnić możliwość nastawienia stałej, o której mowa w ust. 1, na wartość współczynnika charakterystycznego w z dokładnością odpowiadającą błędom granicznym dopuszczalnym, określonym w § 16.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "W urządzeniu służącym do oświetlania przedniej ścianki taksometru źródłem światła, z zastrzeżeniem ust. 2, są żarówki, które powinny być tak zamieszczone, aby ich wymiana była możliwa bez naruszania cech zabezpieczających taksometr.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Jeżeli w taksometrze zastosowano wskaźniki samoświecące (LED) oświetlenie nie jest wymagane.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Taksometr może być napędzany wałkiem giętkim lub impulsami przekazywanymi przez przetwornik przewodem elektrycznym, bezpośrednio od kół napędowych taksówki lub za pośrednictwem przekładni i reduktora.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Wałek, o którym mowa w ust. 1, powinien mieć średnicę nie mniejszą niż 3,3 mm i być osłonięty pancerzem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Przewód, o którym mowa w ust. 1, powinien być ekranowany i osłonięty na zewnątrz powłoką izolującą.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Taksometr powinien umożliwiać zmianę układu taryf za pomocą przycisków taksometru lub za pośrednictwem interfejsu przy użyciu układu programującego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Dostęp do urządzenia programującego nie powinien być możliwy bez naruszenia cech zabezpieczających taksometr.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Programowanie taryf nie powinno być możliwe bez naruszenia cechy zabezpieczającej dostęp do urządzenia programującego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "W taksometrach powinna istnieć możliwość wyświetlania lub drukowania informacji o układzie taryf. Wyświetlanie tych informacji powinno być możliwe tylko w położeniu zespołu przełącznika WOLNY.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Informacja, o której mowa w ust. 1, powinna zawierać co najmniej wartość:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_2/pkt_1",
+       "text": "opłaty początkowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_2/pkt_2",
+       "text": "opłaty za 1 kilometr drogi przebytej we wszystkich położeniach taryfowych zespołu przełącznika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_2/pkt_3",
+       "text": "opłaty za 1 godzinę postoju we wszystkich położeniach taryfowych zespołu przełącznika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_10/ust_2/pkt_4",
+       "text": "jednostki taryfowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_10/ust_2/pkt_5",
+       "text": "stałej c taryf;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_10/ust_2/pkt_6",
+       "text": "wartość jednostki dopłaty w przypadku stosowania zespołu dopłat.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Jeżeli sygnał wytwarzany przez przetwornik znajdujący się w zespole napędowym taksówki jest wykorzystywany przez kilka przyrządów pomiarowych (takich jak: prędkościomierz, drogomierz i taksometr), to w razie uszkodzenia jednego z tych przyrządów, specjalny układ lub obwód dzielący powinien zapewnić prawidłowe działanie pozostałych.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Wymagania metrologiczne, jakim powinny odpowiadać taksometry"
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Dowodem legalizacji taksometru jest świadectwo legalizacji, wydane przez organy administracji miar.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Taksometr powinien być wprowadzony do użytkowania dopiero po legalizacji ostatecznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Taksometr użytkowany lub przechowywany w stanie gotowości do użycia powinien mieć ważne świadectwo legalizacji i nienaruszone cechy zabezpieczające.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Taksometry posiadające zatwierdzony typ mogą być wprowadzone do obrotu lub użytkowania w terminie określanym w decyzji o zatwierdzeniu ich typu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Okres ważności świadectwa legalizacji taksometru wynosi 25 miesięcy, licząc od pierwszego dnia miesiąca, w którym została dokonana legalizacja ostateczna.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Świadectwo legalizacji taksometru traci ważność przed upływem okresu, o którym mowa w ust. 1, w przypadku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_2/pkt_1",
+       "text": "uszkodzenia taksometru;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_2/pkt_2",
+       "text": "uszkodzenia którejkolwiek z cech zabezpieczających taksometr lub taksometr — taksówka;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_14/ust_2/pkt_3",
+       "text": "stwierdzenia, że błędy wskazań taksometru przekraczają granice błędów dopuszczalnych, o których mowa w § 16;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_14/ust_2/pkt_4",
+       "text": "zmiany opon kół napędzających taksometr na opony o innych wymiarach i rodzaju konstrukcji niż to podano w świadectwie legalizacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_14/ust_2/pkt_5",
+       "text": "zmiany układu taryf na inny niż to podano w świadectwie legalizacji;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_14/ust_3",
+     "text": "Po wygaśnięciu ważności świadectwa legalizacji, o którym mowa w ust. 1 i 2, taksometr wymaga ponownej legalizacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Taksometr powinien działać poprawnie w następujących warunkach:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_15/pkt_1",
+     "text": "w temperaturze od –25°C do +55°C;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_15/pkt_2",
+     "text": "przy wilgotności względnej powietrza od 10% do 95%;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_15/pkt_3",
+     "text": "przy wibracjach od 20 Hz do 200 Hz i przyspieszeniach do 20 m/s²;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_15/pkt_4",
+     "text": "przy napięciu zasilania od 9 V do 16 V; jeżeli podczas działania taksometru wystąpi przerwa w jego zasilaniu trwająca do 10 s, to wskazanie opłaty widoczne wcześniej powinno być wyświetlone ponownie; w przypadku dłuższej przerwy w zasilaniu taksometr powinien przełączyć się do położenia pracy WOLNY;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_15/pkt_5",
+     "text": "przy zakłóceniach elektromagnetycznych, elektrostatycznych lub innych, o następujących wartościach lub zakresach wartości:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_15/pkt_5/lit_a",
+       "text": "dla wyładowań elektrostatycznych: napięcie 6 kV, przy wyładowaniu przez kontakt z taksometrem, i 8 kV, przy wyładowaniu przez powietrze, energia 2 mJ, częstotliwość 1 Hz,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_15/pkt_5/lit_b",
+       "text": "dla pola elektromagnetycznego: pasmo częstotliwości od 26 MHz do 1000 MHz, natężenie pola 10 V/m,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_15/pkt_5/lit_c",
+       "text": "dla impulsów przewodzonych zakłóceń: amplituda +250 V, czas narastania 10 ns, czas trwania 1 µs.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Błędy graniczne dopuszczalne przy legalizacji taksometru niezainstalowanego w taksówce wynoszą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_1/pkt_1",
+       "text": "w odniesieniu do zespołu drogi:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_16/ust_1/pkt_1/lit_a",
+         "text": "dla pierwszego odcinka drogi: ±1% długości tego odcinka, lecz nie mniej niż ±10 m,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_16/ust_1/pkt_1/lit_b",
+         "text": "dla następnych odcinków drogi: ±0,2% sumy długości tych odcinków, lecz nie mniej niż ±1% długości jednego następnego odcinka i nie mniej niż ±5 m;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_1/pkt_2",
+       "text": "w odniesieniu do zespołu czasu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_16/ust_1/pkt_2/lit_a",
+         "text": "dla pierwszego okresu: ±1,5% tego okresu, lecz nie mniej niż ±10 s,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_16/ust_1/pkt_2/lit_b",
+         "text": "dla następnych okresów: ±0,3% sumy czasu tych okresów, lecz nie mniej niż 1,5% jednego następnego okresu i nie mniej niż ±5 s;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_16/ust_1/pkt_3",
+       "text": "w odniesieniu do liczników sumujących i wskazujących długość przebytej drogi: ±1% długości przebytej drogi.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Błędy graniczne dopuszczalne przy legalizacji ostatecznej taksometru wynoszą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_2/pkt_1",
+       "text": "dla pierwszego odcinka drogi: ±2% długości tego odcinka, lecz nie mniej niż ±20 m;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_2/pkt_2",
+       "text": "dla następnych odcinków drogi: ±1% długości tych odcinków, lecz nie mniej niż ±15 m.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Licznik kursów nie może wykazywać różnic względem liczby tych kursów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_16/ust_4",
+     "text": "Licznik sumujący i wskazujący liczbę jednostek taryfowych nie może wykazywać różnic względem liczby tych jednostek.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_16/ust_5",
+     "text": "Licznik sumujący i wskazujący liczbę dopłat nie może wykazywać różnic względem liczby tych dopłat.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Taksometry należy stosować do bezpośredniego określania należności za przebytą przez wynajętą taksówkę długość drogi lub poniżej prędkości granicznej za czas jej wynajęcia tylko:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_17/pkt_1",
+     "text": "w tych miejscowościach i w tego rodzaju taksówkach, dla których obowiązuje taryfa zastosowana w taksometrze;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_17/pkt_2",
+     "text": "przy takiej wartości stałej k taksometru lub współczynnika charakterystycznego w, przy której taksometr został legalizowany.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Taksometr powinien być umieszczony w taksówce w takim miejscu, aby obserwacja i odczytywanie wskazań zespołu opłat i zespołu przełącznika nie przedstawiało trudności dla pasażera.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Taksometr powinien być umocowany w taksówce w sposób niezagrażający bezpieczeństwu pasażerów i kierowcy taksówki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Szczegółowe wymagania techniczne, jakim powinny odpowiadać zespoły i elementy składowe taksometru"
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Zespół opłat taksometru składa się z jednego lub kilku wyświetlaczy elektronicznych oraz licznika elektronicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Włączony zespół opłat powinien wskazywać opłatę początkową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Przyrost opłaty powinien następować skokowo o wartość jednostki taryfowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_19/ust_4",
+     "text": "Górna granica zakresu wskazań zespołu opłat powinna wynosić nie mniej niż 99,99 złotych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_19/ust_5",
+     "text": "Wysokość cyfr wskazujących należność w zespole opłat nie powinna być mniejsza niż 10 mm i powinna zapewniać łatwy odczyt.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "W przypadku zmiany układu taryf zastosowanego w taksometrze zespół opłat powinien umożliwiać zmianę opłaty początkowej i jednostki taryfowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Zespół opłat lub zespół dopłat, o którym mowa w § 3 ust. 1 pkt 2, może umożliwiać wyświetlanie informacji o stosowaniu upustu podczas realizacji kursu poprzez wyświetlenie wyrazu „rabat”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_20/ust_3",
+     "text": "Wyświetlanie należności uwzględniającej zastosowanie upustu powinno nastąpić najpóźniej w położeniu KASA.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Wyświetlacz elektroniczny, o którym mowa w § 19 ust. 1, powinien być wykonany w taki sposób, aby możliwe było łatwe odczytanie wskazań w dzień i w nocy, w normalnych warunkach oświetlenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Poprawność działania zespołu opłat powinna być sprawdzana w sposób ciągły przez automatyczny program testujący.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "W przypadku wykrycia przez program, o którym mowa w ust. 1, nieprawidłowości w działaniu zespołu opłat lub jego uszkodzenia, informacja o tym powinna zostać wyraźnie wyświetlona lub powinien on zostać automatycznie wyłączony.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Zespół drogi powinien być napędzany od kół napędowych taksówki, z tym że jazda do tyłu nie powinna powodować zmniejszania należności do zapłacenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Zespół drogi powinien obliczać należność za przebytą przez taksówkę długość drogi według co najmniej dwóch taryf o różnych wysokościach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "Obliczanie należności przez zespół drogi według taryf, o których mowa w ust. 1, i wskazywanie jej przez zespół opłat odbywa się według następujących zasad:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_2/pkt_1",
+       "text": "opłata początkowa, wspólna dla wszystkich taryf, powinna zwiększyć się o jednostkę taryfową, również wspólną dla wszystkich taryf, dopiero po przejechaniu przez taksówkę pierwszego odcinka drogi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_2/pkt_2",
+       "text": "zwiększenie opłaty o jednostkę taryfową następuje po przejechaniu przez taksówkę każdego następnego odcinka drogi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_24/ust_2/pkt_3",
+       "text": "długości pierwszego odcinka i następnego odcinka w wyższej taryfie powinny być mniejsze od długości odpowiadających im odcinków w taryfie niższej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_24/ust_2/pkt_4",
+       "text": "stosunek długości pierwszego odcinka do następnego odcinka w każdej taryfie powinien być stały dla wszystkich taryf, jakie równocześnie zastosowano w taksometrze, i równy stosunkowi pierwszego okresu do następnego okresu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "Zespół drogi powinien uruchamiać zespół opłat, jeżeli prędkość taksówki jest większa od prędkości granicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Prędkość graniczna, o której mowa w ust. 1, dla każdej taryfy nie powinna być większa niż 20 km/h.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_26/ust_1",
+     "text": "Zespół drogi powinien umożliwiać zmianę długości następnych odcinków drogi w przypadku zmiany zastosowanych w taksometrze taryf.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "Zespół drogi powinien mieć urządzenie do zmiany długości pierwszego odcinka drogi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "Obliczanie należności przez zespół czasu i wskazywanie jej przez zespół opłat odbywa się według następujących zasad:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_27/pkt_1",
+     "text": "opłata początkowa (wspólna dla wszystkich taryf) powinna zwiększać się o jednostkę taryfową (również wspólną dla wszystkich taryf) dopiero po upływie pierwszego okresu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_27/pkt_2",
+     "text": "każde kolejne zwiększenie opłaty o jednostkę taryfową powinno nastąpić po upływie następnego okresu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Zespół czasu powinien umożliwiać zmianę wartości pierwszego i następnych okresów w przypadku zmiany taryf zastosowanych w taksometrze.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_29/ust_1",
+     "text": "Liczniki sumujące i wskazujące liczbę kilometrów ogólnych i płatnych powinny być napędzane od kół napędowych taksówki, przy czym jazda do tyłu nie powinna powodować zmniejszania wskazań tych liczników.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_29/ust_2",
+     "text": "Górna granica zakresu pomiarowego liczników, o których mowa w ust. 1, nie powinna być mniejsza niż 99999 km, a wartość działki elementarnej nie większa niż 1 km.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "Liczniki kursów oraz jednostek taryfowych powinny zwiększać swoje wskazania skokowo o jednostkę.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "Licznik kursów powinien być napędzany od zespołu przełącznika, a na pełny cykl pracy tego zespołu powinien przypadać przyrost wskazania licznika o jedność.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "Wskazania liczników sumujących i wskazujących, o których mowa w § 29 ust. 1 i § 30, powinny być zabezpieczone przed skasowaniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Wskazania liczników, o których mowa w § 29 ust. 1 i § 30, są wyświetlane w zespole opłat i ewentualnie w zespole dopłat w położeniu zespołu przełącznika WOLNY, przy czym powinno być jednoznacznie określone, któremu z liczników odpowiada wyświetlona wartość.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_32/ust_3",
+     "text": "W przypadku, o którym mowa w ust. 2, w instrukcji obsługi taksometru wytwórca powinien określić jednostki wyświetlanych wartości liczbowych i wyjaśnić symbole lub znaki zastosowane w poszczególnych licznikach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_32/ust_4",
+     "text": "Liczniki sumujące, o których mowa w § 29 ust. 1 i § 30, powinny zachowywać wskazywaną wartość przez co najmniej 1 tydzień po ich odłączeniu od napięcia zasilającego taksometr.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_32/ust_5",
+     "text": "Wysokość cyfr wartości liczbowych wskazywanych w licznikach, o których mowa w § 29 ust. 1 i § 30, powinna wynosić co najmniej 4 mm.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_33/ust_1",
+     "text": "Zespół przełącznika powinien być sterowany ręcznie, z tym że zmiana poszczególnych stanów pracy tego zespołu, o których mowa w § 34 ust. 1, może odbywać się w sposób mechaniczny, elektryczny lub elektroniczny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_33/ust_2",
+     "text": "Jeżeli zmiana, o której mowa w ust. 1, odbywa się w sposób mechaniczny, to przełącznik może być napędzany ręcznie lub za pomocą silnika elektrycznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_34/ust_1",
+     "text": "Taksometr powinien być uruchamiany przez zespół przełącznika, z zastrzeżeniem ust. 2, po wprowadzeniu tego zespołu w jedno z następujących położeń, odpowiadających rodzajom pracy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_34/ust_1/pkt_1",
+       "text": "WOLNY, gdy taksówka nie jest wynajęta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_34/ust_1/pkt_2",
+       "text": "TARYFA, gdy taksówka jest wynajęta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_34/ust_1/pkt_3",
+       "text": "KASA, gdy następuje rozliczenie kursu między kierowcą a pasażerem.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_34/ust_2",
+     "text": "Włącznik uruchamiający zespół przełącznika może być zainstalowany w siedzeniach taksówki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_35/ust_1",
+     "text": "W położeniu zespołu przełącznika WOLNY:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_35/ust_1/pkt_1",
+       "text": "powinien być widoczny w okienku taryf napis WOLNY lub umowny symbol tego położenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_35/ust_1/pkt_2",
+       "text": "powinno być skasowane lub nastawione na zero wskazanie opłaty i dopłaty;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_35/ust_1/pkt_3",
+       "text": "powinien działać tylko licznik sumujący ogólną liczbę kilometrów przebytych przez taksówkę;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_35/ust_1/pkt_4",
+       "text": "powinien być wyłączony zespół czasu i zespół drogi.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_35/ust_2",
+     "text": "W położeniu zespołu przełącznika WOLNY powinno być zapewnione:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_35/ust_2/pkt_1",
+       "text": "sprawdzanie poprawności działania wszystkich elementów wskazujących;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_35/ust_2/pkt_2",
+       "text": "wyświetlenie oraz dodatkowe drukowanie wartości liczbowych wskazywanych przez liczniki sumujące i wskazujące, o których mowa w § 29 ust. 1 i § 30;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_35/ust_2/pkt_3",
+       "text": "wyświetlenie wartości stałej k taksometru;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_35/ust_2/pkt_4",
+       "text": "wyświetlenie danych dotyczących taryf;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_35/ust_2/pkt_5",
+       "text": "wyświetlenie wartości wielkości mierzonych elektronicznymi licznikami, o których mowa w § 3 ust. 1 pkt 7.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_35/ust_3",
+     "text": "W położeniu zespołu przełącznika WOLNY może być wyświetlany numer fabryczny taksometru, czas i data.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_36/ust_1",
+     "text": "W taksometrze powinny być co najmniej dwa położenia zespołu przełącznika TARYFA odpowiadające kolejnym coraz wyższym taryfom.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_36/ust_2",
+     "text": "Położenia zespołu przełącznika, o których mowa w ust. 1, powinny być oznaczone numerami widocznymi w okienku taryf, przy czym numer o większej wartości powinien odpowiadać taryfie wyższej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_37/ust_1",
+     "text": "Przy wszystkich położeniach TARYFA powinny działać zespoły i urządzenia składowe taksometru wymienione w § 2 ust. 1, z wyjątkiem licznika kursów i z zastrzeżeniem ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_37/ust_2",
+     "text": "Jeżeli liczba położeń zespołu przełącznika odpowiadających taryfom jest większa od liczby zastosowanych taryf, to powinna istnieć możliwość blokowania taryf zapasowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_37/ust_3",
+     "text": "Blokada wymieniona w ust. 2 powinna być odpowiednio zabezpieczona.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_38/ust_1",
+     "text": "W położeniu zespołu przełącznika KASA:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_38/ust_1/pkt_1",
+       "text": "powinien ukazywać się w okienku taryf napis KASA lub umowny symbol tego położenia oraz numer taryfy, według której taksometr działa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_38/ust_1/pkt_2",
+       "text": "powinny działać zespoły i urządzenia składowe wymienione w § 2 ust. 1, z wyjątkiem zespołu czasu i licznika kursów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_38/ust_2",
+     "text": "W położeniu przełącznika KASA wskazanie należnej opłaty powinno być widoczne przez co najmniej 10 s, przy czym w tym czasie nie powinno być możliwe przestawienie zespołu przełącznika do położenia WOLNY.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "Powinno być możliwe przestawianie zespołu przełącznika:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_39/pkt_1",
+     "text": "z położenia WOLNY bezpośrednio do położenia odpowiadającego pierwszej taryfie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_39/pkt_2",
+     "text": "z dowolnego położenia odpowiadającego określonej taryfie do położenia odpowiadającego następnej lub poprzedniej taryfie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_39/pkt_3",
+     "text": "z każdego położenia odpowiadającego taryfie do położenia KASA;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_39/pkt_4",
+     "text": "z położenia KASA do położenia WOLNY po wydrukowaniu przez kasę rejestrującą paragonu fiskalnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_39/pkt_5",
+     "text": "z położenia WOLNY do położenia TARYFA oraz z położenia TARYFA do położenia KASA, przy prędkości taksówki nie większej niż 5 km/h.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "Sygnały złącza testowego taksometru (typu TTL lub otwarty kolektor npn; stan niski o czasie trwania od 0,01 ms do 1 ms) powinny być generowane jako:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_40/pkt_1",
+     "text": "sygnał START, generowany w momencie przełączenia taksometru z położenia WOLNY do położenia TARYFA;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_40/pkt_2",
+     "text": "sygnał STOP, generowany w momencie zmiany opłaty o jednostkę taryfową.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_41/ust_1",
+     "text": "Jeżeli w obowiązującej taryfie jest dozwolone stosowanie dopłat, to taksometr powinien zostać wyposażony w zespół dopłat wraz z licznikiem wskazującym dopłatę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_41/ust_2",
+     "text": "Konstrukcja zespołu, o którym mowa w ust. 1, powinna umożliwiać jego uruchomienie jedynie z chwilą wynajęcia taksówki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_41/ust_3",
+     "text": "Uruchomienie przycisku zespołu dopłat powinno powodować dodanie kolejnej jednostki dopłaty w położeniu zespołu przełącznika TARYFA. Każde następne uruchomienie przycisku powinno zwiększać wskazanie licznika dopłat o jedną jednostkę dopłaty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_41/ust_4",
+     "text": "W położeniu KASA wartość dopłaty powinna być dodana do wartości opłaty za pomocą przycisku. Wartość dopłaty powinna być ponownie oddzielona od wartości opłaty za kurs po upływie 5 sekund.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_41/ust_5",
+     "text": "Wartość dopłaty powinna być wskazywana w postaci cyfr o wysokości nie mniejszej niż 8 mm i nie większej niż wysokość cyfr zespołu opłat.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "Górna granica zakresu pomiarowego licznika zespołu dopłat powinna wynosić co najmniej 9,99 złotych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "Jeżeli dopłaty nie są dozwolone, to licznik sumujący liczbę dopłat powinien być wyłączony.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "44",
+   "path": "par_44",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_44/ust_1",
+     "text": "Zewnętrznymi urządzeniami informacyjnymi taksometru mogą być nieruchome tabliczki świetlne, dla których wymagania techniczne i rodzaje kodów sygnalizacyjnych określa załącznik do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_44/ust_2",
+     "text": "Urządzenia, o których mowa w ust. 1, służą do informowania o położeniu zespołu przełącznika i taryfie taksometru.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "45",
+   "path": "par_45",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_45/ust_1",
+     "text": "Sterowanie urządzeniami, o których mowa w § 44 ust. 1, powinno odbywać się za pomocą zespołu przełącznika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_45/ust_2",
+     "text": "Przy położeniu TARYFA na nieruchomej tabliczce świetlnej powinny ukazywać się te same numery zastosowanych taryf, jak w okienku taryf taksometru, oraz inne umowne oznaczenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_45/ust_3",
+     "text": "Informacje, o których mowa w § 44 ust. 2, powinny być wyraźnie widoczne z zewnątrz taksówki z odległości co najmniej 25 m, w przejrzystym powietrzu w dzień i w nocy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "46",
+   "path": "par_46",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_46/ust_1",
+     "text": "Zespół drukujący służy do wydruku wskazań liczników sumujących i wskazujących oraz danych o układzie taryf.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_46/ust_2",
+     "text": "Dane, o których mowa w ust. 1, powinny być zgodne z danymi wskazywanymi przez taksometr.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_46/ust_3",
+     "text": "Wydruki z drukarki powinny być czytelne i jednoznaczne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "47",
+   "path": "par_47",
+   "text": "Zliczanie obrotów lub impulsów zespołu licznika, o którym mowa w § 3 ust. 1 pkt 6, powinno odbywać się z dokładnością 0,1 obrotu lub 1 impulsu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "48",
+   "path": "par_48",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_48/ust_1",
+     "text": "Taksometr może być wyposażony w elektroniczne urządzenie zabezpieczające, w którym:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_48/ust_1/pkt_1",
+       "text": "każda zmiana lub ingerencja w układ taryf jest rejestrowana za pomocą dodatkowego licznika niedającego się wyzerować lub który w nieusuwalny sposób rejestruje datę, kiedy miała miejsce ingerencja, przy czym rejestracja powinna być dokonywana oddzielnie dla każdej taryfy lub grupy taryf;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_48/ust_1/pkt_2",
+       "text": "każda zmiana stałej k jest rejestrowana za pomocą licznika, którego wskazanie jest niemożliwe do wyzerowania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_48/ust_2",
+     "text": "W przypadku, o którym mowa w ust. 1, korzystanie z taksometru powinno być niemożliwe, gdy przekroczona jest pojemność liczników rejestrujących.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Przepisy przejściowe i końcowe"
+  },
+  {
+   "type": "par",
+   "num": "49",
+   "path": "par_49",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_49/ust_1",
+     "text": "Do taksometrów zalegalizowanych przed dniem wejścia w życie rozporządzenia, które nie spełniają wymagań technicznych określonych w rozporządzeniu, stosuje się, nie dłużej niż do dnia 30 czerwca 2003 r., wymagania techniczne stosowane przy ostatniej przed dniem wejścia w życie rozporządzenia legalizacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_49/ust_2",
+     "text": "Do legalizacji pierwotnej taksometrów nieprzewidzianych do współpracy z kasą rejestrującą stosuje się wymagania techniczne stosowane do legalizacji taksometrów, o których mowa w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_49/ust_3",
+     "text": "W przypadkach, o których mowa w ust. 1 i 2, świadectwa legalizacji są wydawane na czas określony, lecz nie dłużej niż do dnia 30 czerwca 2003 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "50",
+   "path": "par_50",
+   "text": "Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Gospodarki: w z. A. Szarawarski"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Gospodarki z dnia 6 września 2002 r. (poz. 1220)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYMAGANIA TECHNICZNE I RODZAJE KODÓW SYGNALIZACYJNYCH NIERUCHOMYCH TABLICZEK ŚWIETLNYCH"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nieruchoma tabliczka świetlna",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "Schemat nieruchomej tabliczki świetlnej",
+       "children": [
+        {
+         "type": "text",
+         "text": "1 — wskaźniki taryf."
+        },
+        {
+         "type": "text",
+         "text": "Wymiary minimalne określono w milimetrach."
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "Nieruchoma tabliczka świetlna przewidziana jest do mocowania wewnątrz taksówki z prawej strony na wysokości przedniej szyby. Napis WOLNY powinien być widoczny z zewnątrz taksówki.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "Kod sygnalizacji działania taksometru: WOLNY — ciągłe podświetlanie napisu WOLNY, barwa światła żółta, TARYFA 1 — ciągłe świecenie jednego światła skrajnego barwy żółtej, TARYFA 2 — ciągłe świecenie dwóch świateł skrajnych barwy żółtej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Nieruchoma tabliczka świetlna z trzema punktami świetlnymi",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "Schemat nieruchomej tabliczki świetlnej z trzema punktami świetlnymi",
+       "children": [
+        {
+         "type": "text",
+         "text": "1 — punkt świetlny barwy zielonej, 2 — punkty świetlne barwy żółtej, 3 — obudowa, 4 — przyssawki gumowe."
+        },
+        {
+         "type": "text",
+         "text": "Wymiary minimalne określono w milimetrach."
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "Nieruchoma tabliczka świetlna z trzema punktami świetlnymi przewidziana jest do mocowania dwiema przyssawkami do górnej części przedniej szyby z prawej strony wewnątrz taksówki.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "Kod sygnalizacji działania taksometru dla dwóch taryf: WOLNY — ciągłe świecenie środkowego światła barwy zielonej, TARYFA 1 — ciągłe świecenie jednego światła barwy żółtej, TARYFA 2 — ciągłe świecenie dwóch świateł barwy żółtej.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "Kod sygnalizacji działania taksometru dla czterech taryf: WOLNY — ciągłe świecenie środkowego światła barwy zielonej, TARYFA 1 — ciągłe świecenie jednego światła barwy żółtej, TARYFA 2 — ciągłe świecenie dwóch świateł barwy żółtej, TARYFA 3 — ciągłe świecenie jednego światła barwy zielonej i jednego światła barwy żółtej, TARYFA 4 — ciągłe świecenie jednego światła barwy zielonej i dwóch świateł barwy żółtej.",
+       "children": [
+        {
+         "type": "text",
+         "text": "———————[^1] Minister Gospodarki kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 1 lipca 2002 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki (Dz. U. Nr 97, poz. 867)."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}
