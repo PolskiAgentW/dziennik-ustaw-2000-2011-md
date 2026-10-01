@@ -1,7 +1,7 @@
 {
  "eli": "DU/2003/935",
  "title": "Rozporządzenie Ministra Finansów z dnia 20 maja 2003 r. zmieniające rozporządzenie w sprawie określenia wzoru rejestru transakcji, sposobu jego prowadzenia oraz trybu dostarczania danych z rejestru Generalnemu Inspektorowi Informacji Finansowej",
- "converter": "eli2md 0.6.17",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/935/text.pdf",
  "body": [
   {
@@ -503,7 +503,15 @@
     },
     {
      "type": "note",
-     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Wykaz jednostek organizacyjnych instytucji obowiązanej"
+    },
+    {
+     "type": "ocr",
+     "text": "Ip. |numer jednostki | nazwa jednostki | ulica kod miejscowość | województwo numer numer organizacyjnej IO | organizacyjnej pocztowy telefonu faksu (opis w zał. 2) IO 1"
     }
    ]
   },
@@ -520,7 +528,27 @@
     },
     {
      "type": "note",
-     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "E. Struktura rekordu nagłówkowego ip. |nazwa pola _ | długość pola zawartość | komentarz l |typRek 2A HE Rekord nagłówkowy 2 |pDat 8N Data utworzenia pliku 3 |pCzas 6N Czas utworzenia pliku w strukturze ggmmss 4 | nrNipIO 10N Numer NIP instytucji obowiązanej 5 {CR} {LF} | Znacznik końca rekordu"
+    },
+    {
+     "type": "ocr",
+     "text": "F. Struktura rekordu danych Ip. nazwa pola __| długość pola zawartość | komentarz 1 | typRek 2A DA Rekord danych 2 ; Separator pola 3 |01 2N Etykieta pierwsza 4 separator 1X Separator etykiety 5 | dane Pierwsze pole z danymi 6 | separator 1X ; Separator pola"
+    },
+    {
+     "type": "ocr",
+     "text": "N NN 2N Etykieta ostatniego pola N+l | separator 1X Separator etykiety i danych N+2 | dane Ostatnie pole z danymi N+3 ; Separator pola N+4 {CR} {LF} | Znacznik końca rekordu"
+    },
+    {
+     "type": "ocr",
+     "text": "G. Struktura rekordu końca"
+    },
+    {
+     "type": "ocr",
+     "text": "Ip. |nazwa pola | długość pola zawartość | komentarz ł | typRek 2A TR Rekord końca ilRek 8N Liczba rekordów w pliku 3 {CR} {LF} | Znacznik końca rekordu"
     }
    ]
   },

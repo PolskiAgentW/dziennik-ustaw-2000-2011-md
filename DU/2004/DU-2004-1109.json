@@ -1,7 +1,7 @@
 {
  "eli": "DU/2004/1109",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 30 kwietnia 2004 r. zmieniające rozporządzenie w sprawie sposobu przedstawiania przez apteki Narodowemu Funduszowi Zdrowia zbiorczych zestawień zrealizowanych recept podlegających refundacji oraz wzoru zbiorczego zestawienia recept podlegających refundacji",
- "converter": "eli2md 0.6.17",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/1109/text.pdf",
  "body": [
   {
@@ -97,7 +97,11 @@
     },
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "10 |Z CN-30 11 |Z CN-50 12 |Z CN-LR 13 12 CN-P-0 14 |Z CN-P-R 15 |Z CN-P-30 16 12 CN-P-50 17 |Z DN-R 18 12 DN-30 19 42 DN-50 20 42 DN-LR 21 {2 DN-P-O 22 |Z DN-P-R 23 12 DN-P-30 24 |Z DN-P-50 25 12 IB 26 |Z IW 27 42 ZK 28 |Z E 29 |Z AZ 30 42 WP 31 |Z PO 32 |N U-R 33 IN U-30 34 IN U-50 35 IN U-LR 36 |N CN 37 IN DN 38 |N P"
     },
     {
      "type": "note",
@@ -133,7 +137,11 @@
     },
     {
      "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "1 3 4 5 6 7 3 Z U-50 4 Z U-LR 5 Z P-0 6 Z P-R 7 VA P-30 8 Z P-50 9 Z CN-R 10 |Z CN-30 ii 12 CN-50 12 12 CN-LR 13 42 CN-P-0 14 |Z CN-P-R 15 42 CN-P-30 16 12 CN-P-50 17 |Z DN-R 18 12 DN-30 19 12 DN-50 20 12 DN-LR 21 12 DN-P-0 22 |Z DN-P-R 23 12 DN-P-30 26 |Z DN-P-59 25 12 IB 26 |Z IW 27 12 ZK 28 |Z EB 29 |Z AZ 30 |Z WP 31 [2 PO"
     },
     {
      "type": "note",

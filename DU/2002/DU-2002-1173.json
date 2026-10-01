@@ -1,7 +1,7 @@
 {
  "eli": "DU/2002/1173",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 11 lipca 2002 r. w sprawie oznakowania opakowań substancji niebezpiecznych i preparatów niebezpiecznych.",
- "converter": "eli2md 0.6.17",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2002/1173/text.pdf",
  "body": [
   {
@@ -1411,7 +1411,11 @@
         },
         {
          "type": "note",
-         "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+         "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "ocr",
+         "text": "056 Związki baru 057 Związki lantanu 058 Związki ceru 059 Związki prazeodymu 060 Związki neodymu 061 Związki prometu 062 Związki samaru 063 Związki europu 064 Związki gandolinu 065 Związki terbu 066 Związki dysprozu 067 Związki holmu 068 Związki erbu 069 Związki tulu 070 Związki iterbu 071 Związki lutetu 072 Związki hafnu 073 Związki tantalu 074 Związki wolframu 075 Związki renu 076 Związki osmu 077 Związki irydu 078 Związki płatyny 079 Związki złota 080 Związki rtęci Organiczne związki rtęci 081 Związki talu 082 Związki ołowiu Organiczne związki ołowiu 083 Związki bizmutu 084 Związki polonu 085 Związki astatu 086 Związki radonu 087 Związki fransu 088 Związki radu ‘| 089 Związki aktynu 090 Związki toru 091 Związki protaktynu 092 Zwiazki uranu 093 Związki neptunu 094 Związki płutonu 095 Związki ameryku 096 Związki kiuru 097 Związki berkelu 098 Związki kalifornu 099 Związki einsteinu 100 Związki fermu 101 Związki mendelewu 102 Związki nobla 103 Związki lorensu 601 Węgłowodory Węglowodory alifatyczne Węglowodory aromatyczne Węglowodory alicykliczne Wielopierścieniowe węglowodory aromatyczne"
         },
         {
          "type": "note",

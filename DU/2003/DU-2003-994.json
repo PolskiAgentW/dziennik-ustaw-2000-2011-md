@@ -1,7 +1,7 @@
 {
  "eli": "DU/2003/994",
  "title": "Rozporządzenie Ministra Środowiska z dnia 4 czerwca 2003 r. w sprawie oznaczania opakowań",
- "converter": "eli2md 0.6.17",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/994/text.pdf",
  "body": [
   {
@@ -170,7 +170,39 @@
     },
     {
      "type": "note",
-     "text": "[Strony 3-4 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "2 HDPE lub a 4 ) PEHD 3 Polietylen dużej gęstości /N /N CS 2d lub < lub 4 HDPE HDPE /N pve lub a < D PVC 4 Polichlorek winylu /N „JE lub < \\ PVC"
+    },
+    {
+     "type": "ocr",
+     "text": "4 rene lub C + ) PELD 5 Polietylen malej gęstości /N VAN J Nin OS lub « lub +<— LDPE LDPE"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "6 Polipropylen"
+    },
+    {
+     "type": "ocr",
+     "text": "ZN PE lub C < \\ PP a"
+    },
+    {
+     "type": "ocr",
+     "text": "PP"
+    },
+    {
+     "type": "ocr",
+     "text": "7 Polistyren"
+    },
+    {
+     "type": "ocr",
+     "text": "6 SN PS ub A < \\ PS aX lub A 4 \\ PS"
     }
    ]
   },

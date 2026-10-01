@@ -1,7 +1,7 @@
 {
  "eli": "DU/2005/582",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 16 lutego 2005 r. w sprawie sposobu numeracji i ewidencji dróg publicznych, obiektów mostowych, tuneli, przepustów i promów oraz rejestru numerów nadanych drogom, obiektom mostowym i tunelom",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/582/text.pdf",
  "body": [
   {
@@ -2466,7 +2466,27 @@
     },
     {
      "type": "note",
-     "text": "[Strona 42 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 42 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwisko i imię"
+    },
+    {
+     "type": "ocr",
+     "text": "Podpis"
+    },
+    {
+     "type": "ocr",
+     "text": "Okres od"
+    },
+    {
+     "type": "ocr",
+     "text": "do"
+    },
+    {
+     "type": "ocr",
+     "text": "(strona 3)"
     },
     {
      "type": "note",

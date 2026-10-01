@@ -1,7 +1,7 @@
 {
  "eli": "DU/2001/1681",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 14 grudnia 2001 r. w sprawie szkolenia, egzaminowania i uzyskiwania uprawnień przez kierujących pojazdami, instruktorów i egzaminatorów.",
- "converter": "eli2md 0.6.17",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2001/1681/text.pdf",
  "body": [
   {
@@ -4394,7 +4394,19 @@
     },
     {
      "type": "note",
-     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Strona 2 1 2 3 4 5 6 7 8 21 2 23 24 25 26 27 28 29 30 31 32 3 34 35 36 37 38 39 40 4 42 43 44 45 46 47 48 49 50"
+    },
+    {
+     "type": "ocr",
+     "text": "Potwierdzam posiadanie przez osobę wiedzy i umiejętności ujętych w charakterystyce absolwenta kursu oraz uważam ją za przygotowaną do złażenia egzaminu państwowego."
+    },
+    {
+     "type": "ocr",
+     "text": "(podpis i pieczęć instruktora)"
     }
    ]
   },
@@ -5364,7 +5376,11 @@
     },
     {
      "type": "note",
-     "text": "[Strona 33 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 33 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Strona 2 1 2 3 4 5 6 7 8 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 1 52 53 54 55 KOŃCOWY WYNIK NAUCZANIA Lej074 101) PORA 3) Negatywny: ...... cc cccsesescscsesessecsesesessteesesees OB NOCE (podpis i pieczęć instruktora)"
     }
    ]
   },
@@ -6381,7 +6397,15 @@
     },
     {
      "type": "note",
-     "text": "[Strona 41 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 41 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Strona 2 1 2 3 4 5 6 7 8 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 4 42 43 44 45 46 47 48 49 50 51 52 53 54 55 KOŃCOWY WYNIK NAUCZANIA"
+    },
+    {
+     "type": "ocr",
+     "text": "0720011) AOC 9) Negatywny: oo... cceeccessessssessseeteseeneeensseaneenens OB PO (podpis i pieczęć egzaminatora)"
     }
    ]
   },

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2005/1215",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 14 lipca 2005 r. w sprawie planu numeracji krajowej dla publicznych sieci telefonicznych",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/1215/text.pdf",
  "body": [
   {
@@ -432,7 +432,35 @@
        "children": [
         {
          "type": "note",
-         "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+         "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "ocr",
+         "text": "WYKORZYSTANIE CYFR - „AB” W NUMERACJI KRAJOWEJ TABLICA 1"
+        },
+        {
+         "type": "ocr",
+         "text": "Lp. AB WYKORZYSTANIE WSN/WST Lp. AB WYKORZYSTANIE WSN/WST 1 2 3 4 5 6 7 8 1 10 SKŁADNIK NDS - WST | 51 60 SIECI RUCHOME - WST 2 11 R - - 52 61 POZNAN (PO) | WSN - 3 12 [KRAKOW (KR) | WSN - 53 62 |KALISZ (KL) | WSN - 4 13 KROSNO (KS) | WSN - 54 63 KONIN (KN) | WSN - 5 14 TARNOW (TA) | WSN - 55 64 SIECI PRZYWOLAWCZE - WST 6 15 TARNOBRZEG (TG)| WSN - 56 65 LESZNO (LE) | WSN - 7 16 PRZEMYSL (PR) | WSN - 57 66 SIECI RUCHOME - WST 8 17 |RZESZÓW (RZ) | WSN - 58 67 |PIŁA (PI) | WSN - 9 18 |NOWYSACZ (NS) | WSN - 59 68 |ZIELONA GORA (ZG) | WSN - 10 19 R - - 60 69\" |SIECI RUCHOME - WST"
+        },
+        {
+         "type": "ocr",
+         "text": "11 20 |SIECI TELEINFOR. - WST 61 70 |USLUGI SIECI IN - WST 12 21 R - - 62 71 WROCŁAW (WR) | WSN - 13 22 WARSZAWA (WA) | WSN - 63 72 R - - 14 23 CIECHANOW (CI)| WSN - 64 73 R - - 15 24 PŁOCK (PŁ) | WSN - 65 74 WAŁBRZYCH (WB) | WSN - 16 25 SIEDLCE (SE) | WSN - 66 75 JELENIA GORA (JG) | WSN - 17 26 |MON - WST | 67 76 |LEGNICA (LG) | WSN - 18 27 R - - 68 77 OPOLE (OP) | WSN - 19 28 R - 69 78 SIECI RUCHOME - WST 20 29 OSTROŁĘKA (OS) | WSN - 70 79 SIECI RUCHOME - WST 21 30 USŁUGI STECT IN - WST | 71 80 USŁUGI STECT IN - WST 22 31 [R - - 72 81 |LUBLIN (LU) | WSN - 23 32 KATOWICE (KA) | WSN - 73 82 CHELM (CH) | WSN - 24 33 BIELSKO-BIAŁA (BB)| WSN - 74 83 BIAŁA PODLASKA _(BP)| WSN - 25 34 CZĘSTOCHOWA (CZ) | WSN - 75 84 ZAMOSC (ZA) | WSN - 26 35 R - - 76 85 BIALYSTOK (BK) | WSN - 27 36 [R - - 77 86 |LOMZA (ŁO) | WSN - 28 37 R - - 78 87 SUWAŁKI (SU) | WSN - 29 38 IR - - 79 88 |SIECI RUCHOME - WST 30 39 USŁUGI - WST | 80 89 OLSZTYN (OL) | WSN - WYKORZYSTUJĄCE TECHNOLOGIĘ IP 31 40 USŁUGI SIECI IN - WST | 81 90 R - 32 41 |KIELCE (KI) | WSN - 82 91 |SZCZECIN (SZ) | WSN - 33 42 |LODZ (ŁD) | WSN - 83 92 |R - - 34 | 43 |SIERADZ (SI) | WSN - 84 93 [R - - 35 44 PIOTRKÓW WSN - 85 94 KOSZALIN (KO) | WSN - TRYBUNALSKI (PT) 86 95. |GORZOW WIELKOPOLSKI(GO) | WSN - 36 45 IR - - 87 96 IR - -"
+        },
+        {
+         "type": "ocr",
+         "text": "37 46 SKIERNIEWICE (SK)}| WSN - 88 97 R - - 38 47 MSWiA - WST | 89 98 R - - 39 48 |RADOM (RA) | WSN - 90 99 |R - - 40 49 R - -"
+        },
+        {
+         "type": "ocr",
+         "text": "41 50 |SIECI RUCHOME - WST"
+        },
+        {
+         "type": "ocr",
+         "text": "42 51 |SIECI RUCHOME - WST 43 52 |BYDGOSZCZ (BY)| WSN - JObjasnienia: 44 53 R - - * ABS = 690 dla NMT 450"
+        },
+        {
+         "type": "ocr",
+         "text": "45 54 |WEOCLAWEK (WE)| WSN - 46 55 ELBLAG (EL) | WSN - Skrót R oznacza rezerwę. 47 56 TORUN (TO) | WSN - 48 57 |R - - 49 58 |GDANSK (GD) | WSN - 50 59 |SŁUPSK (SŁ) | WSN -"
         },
         {
          "type": "note",

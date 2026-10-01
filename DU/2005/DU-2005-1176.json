@@ -1,7 +1,7 @@
 {
  "eli": "DU/2005/1176",
  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 20 lipca 2005 r. zmieniające rozporządzenie w sprawie określenia wzorów formularzy sprawozdawczych, objaśnień co do sposobu ich wypełniania oraz wzorów kwestionariuszy i ankiet statystycznych stosowanych w badaniach statystycznych ustalonych w programie badań statystycznych statystyki publicznej na rok 2005",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/1176/text.pdf",
  "body": [
   {
@@ -643,7 +643,11 @@
     },
     {
      "type": "note",
-     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "DZIAŁ 5 *. Typy rodzin objętych pomocą społeczną LICZBA RODZIN LICZBA OSOB WYSZCZEGÓLNIENIE W RODZINACH OGÓŁEM w tym: NA WSI 0 1 2 3 RODZINY OGÓŁEM I wiersz 2+3+4+5+6+7/ 1 o liczbie osób 1 2 2 3 3 4 4 5 5 6 6 i więcej 7 w tym / z wiersza 1 / rodziny z dziećmi ogółem iwiersz 9+10+11+12+13+14+15/ 8 o liczbie dzieci 1 9 2 10 3 11 4 12 5 13 6 14 7 i więcej 15 RODZINY NIEPEŁNE OGÓŁEM fwiersz 17+18+19+20/ 16 o liczbie dzieci 1 17 2 18 3 19 4 i więcej 20 RODZINY EMERYTÓW I RENCISTÓW OGÓŁEM iwiersz 22+23+24+25/ 21 o liczbie osób 1 22 2 23 3 24 4 i więcej 25 * Należy wypełnić wyłącznie za I—XIl."
     },
     {
      "type": "note",

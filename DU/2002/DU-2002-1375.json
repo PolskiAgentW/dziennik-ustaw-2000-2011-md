@@ -1,7 +1,7 @@
 {
  "eli": "DU/2002/1375",
  "title": "Rozporządzenie Ministra Kultury z dnia 16 września 2002 r. w sprawie postępowania z dokumentacją, zasad jej klasyfikowania i kwalifikowania oraz zasad i trybu przekazywania materiałów archiwalnych do archiwów państwowych.",
- "converter": "eli2md 0.6.17",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2002/1375/text.pdf",
  "body": [
   {
@@ -2158,7 +2158,19 @@
       },
       {
        "type": "note",
-       "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+       "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "3114 | Finansowanie inwestycji BS BS Bc 32 Księgowość finansowa Plany, sprawozdania i analizy finansowe - klasa 03"
+      },
+      {
+       "type": "ocr",
+       "text": "320 Dowody księgowe BS BS - 321 Dokumentacja księgowa BS BS - | Ksiegi, rejestry, dzienniki, karty kontowe 322 Rozliczenia BS BS - |Zdostawcami, odbiorcami, pracownikami, instytucjami ubezpieczeniowymi, podatkowymi itp. 323 Windykacja należności BS BS - |Dokumenty związane z udowodnieniem zadłużeń i należności 324 Uzgadnianie sald Bc Bc Bc | Korespondencja 325 Ewidencja syntetyczna lub B5 BS - | Księgi lub kartoteki finansowe analityczna 33 Rozliczenia płac 330 Dokumentacja płac BS BS - | Materiały źródłowe do obliczania wysokości płac, premii i potrąceń z płac (podatki, składki itp.) 331 Deklaracje podatkowe Bc Be - 332 Listy zaliczek na ptace B3 B3 - 333 Listy płac B50 BS0 - 334 Karty zbiorcze płac B50 B50 - 335 Zaświadczenia o płacach Bc Be - | Kopie zaświadczeń lub ich rejestry 336 Dowody ksiegowe B3 B3 - 337 Dokumentacja ksiegowa B5 BS -__ |Jak przy klasie 321 34 Księgowość materiałowo- -towarowa 340 Dowody księgowe B5 BS - | Faktury własne i obce 341 Dokumentacja księgowa BS BS - | Karty ilościowo-wartościowe, analityczne, ksiegi, rejestry i inne"
+      },
+      {
+       "type": "ocr",
+       "text": "35 Koszty i ceny 350 Kalkulacja kosztów 3500 | Ogólne zasady A B25 Bc_ | Własne wytyczne i ustalenia 3501 | Kalkulacje planowe 1 A B25 Bc wynikowe 3502 | Analiza kosztów własnych A B25 Be 351 Kalkulacja cen 3510 | Polityka cen A B25 Bc | Własne ustalenia, zasady i opracowania 3511 | Analizy cen A B25 Bec 3512 | Koordynacja BES BS Be międzyresortowa cen"
       },
       {
        "type": "note",

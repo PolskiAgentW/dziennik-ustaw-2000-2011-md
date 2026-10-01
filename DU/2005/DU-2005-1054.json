@@ -1,7 +1,7 @@
 {
  "eli": "DU/2005/1054",
  "title": "Rozporządzenie Ministra Gospodarki i Pracy z dnia 4 lipca 2005 r. zmieniające rozporządzenie w sprawie wzorów sprawozdań, sporządzonych w ramach Zintegrowanego Programu Operacyjnego Rozwoju Regionalnego 2004-2006",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/1054/text.pdf",
  "body": [
   {
@@ -937,7 +937,27 @@
     },
     {
      "type": "note",
-     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Wydatki związane z EFRR* Priorytet 1 Działanie 1.1 Działanie 1.2 Działanie 1.3 Poddz. 1.3.1"
+    },
+    {
+     "type": "ocr",
+     "text": "GZL IN MEJSN) Aluuaizq Poddz. 1.3.2 Działanie 1.4 Działanie 1.5 Działanie 1.6 Priorytet 3 Działanie 3.1 Działanie 3.2 Działanie 3.3 Działanie 3.4 Działanie 3.5 Poddz. 3.5.1 Poddz. 3.5.2 Priorytet 4"
+    },
+    {
+     "type": "ocr",
+     "text": "7608 Działanie 4.1 Działanie 4.2 Działanie 4.3 Wydatki związane z EFS* Priorytet 2 Działanie 2.1 Działanie 2.2 typ I typ II Działanie 2.3 Działanie 2.4 Działanie 2.5 Działanie 2.6 EFRR - Europejski Fundusz Rozwoju Regionalnego, EFS - Europejski Fundusz Społeczny."
+    },
+    {
+     "type": "ocr",
+     "text": "** Należy wpisać liczbę zawartych umów/ wydanych decyzji o dofinansowanie realizacji projektu. *** Należy wpisać wartość projektów TYLKO w odniesieniu do dofinansowania z Europejskiego Funduszu Rozwoju Regionalnego (Priorytet 1, 3 i 4) lub Europejskiego Funduszu Społecznego (Priorytet 2), zgodnie z unowami/ decyzjami o dofinansowanie."
+    },
+    {
+     "type": "ocr",
+     "text": "VSOL “20d"
     }
    ]
   }

@@ -47,7 +47,7 @@ Zbiór powstaje rocznik po roczniku (pobieranie PDF-ów z API ok. 4 s na akt). L
 w `index.csv`, są w toku.
 
 <!-- stats:start -->
-Stan na 2026-10-01 19:17 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-01 22:42 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -61,11 +61,11 @@ Stan na 2026-10-01 19:17 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2007 | 1591 | 1590 | 1 |
 | 2008 | 1314 | 1314 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 2781, razem 45464 z 118189 stron. Tekst z OCR (oznaczony) ma 43302 z nich w 2714 aktach; treści pozostałych brak.
-Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 4210.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 2781, razem 45464 z 118189 stron. Tekst z OCR (oznaczony) ma 44012 z nich w 2730 aktach; treści pozostałych brak.
+Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 4209.
 
 Rodzaje aktów: Rozporządzenie 14186, Oświadczenie rządowe 521, Umowa międzynarodowa 259, Konwencja 90, Protokół 70, Obwieszczenie 39, Porozumienie 33, Uchwała 21, Postanowienie 19, Dokument wypowiedzenia 12, Traktat 10, Decyzja 2, Ustawa 1, Deklaracja 1, Statut 1, Akt 1.
-Wersje konwertera: eli2md 0.6.18 (8010), eli2md 0.6.17 (6704), eli2md 0.6.16 (537), eli2md 0.6.19 (15).
+Wersje konwertera: eli2md 0.6.18 (7834), eli2md 0.6.17 (6528), eli2md 0.6.16 (524), eli2md 0.6.22 (365), eli2md 0.6.19 (15).
 <!-- stats:end -->
 
 ## Zawartość
@@ -143,6 +143,15 @@ z opublikowanych lat 2004–2005, ziarno 5302):
 
 W żadnym z 19 obejrzanych aktów nie brakowało tekstu samego aktu (poza załącznikami-obrazami opisanymi wyżej) i nie
 było na początku tekstu sąsiedniego aktu. Próba jest mała: odsetka błędnych aktów na tej podstawie nie da się ocenić.
+
+Zmiana 2026-10-02 (eli2md 0.6.22, 365 aktów z lat 2000–2007, w których OCR nie dał tekstu z części stron). Strona skanu,
+z której OCR nie odczytał użytecznego tekstu, jest czytana drugi raz z podaną rozdzielczością obrazu (wcześniej tesseract
+jej nie dostawał i na stronach z tabelami gubił odstępy między słowami). Strony odczytane wcześniej czyta się jak przedtem.
+W tych 365 aktach: strony z tekstem z OCR 9 707 → 10 417, słowa 3 298 694 → 3 475 234; żaden akt nie ma mniej stron
+z OCR ani mniej słów. Aktów, w których OCR odczytał wszystkie strony bez warstwy tekstowej: 1 → 148. Strony z tabelami
+odczytane teraz przez OCR są często słabej jakości (np. DU/2006/398 s. 44: tabela obrócona o 90°). DU/2007/189 nadal
+nie ma tekstu: jego PDF w API ELI (413 392 257 bajtów) jest ucięty, bez końca pliku, także na serwerze (sprawdzone
+2026-10-02).
 
 **Czego te liczby nie mówią:**
 

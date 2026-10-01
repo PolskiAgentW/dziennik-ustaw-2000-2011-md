@@ -1,7 +1,7 @@
 {
  "eli": "DU/2004/2712",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 grudnia 2004 r. w sprawie trybu składania i wzoru wniosku o dofinansowanie realizacji projektu w zakresie działania \"Poprawa przetwórstwa i marketingu artykułów rolnych\"",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/2712/text.pdf",
  "body": [
   {
@@ -874,7 +874,11 @@
     },
     {
      "type": "note",
-     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "SPO 1.5-01"
     },
     {
      "type": "note",

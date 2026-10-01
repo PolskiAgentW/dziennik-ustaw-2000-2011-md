@@ -1,7 +1,7 @@
 {
  "eli": "DU/2005/1676",
  "title": "Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 20 września 2005 r. w sprawie sposobu prowadzenia przez nadawcę ewidencji czasu nadawania audycji wytworzonych pierwotnie w języku polskim, audycji europejskich i audycji europejskich wytworzonych przez producentów niezależnych oraz czasu jej przechowywania",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/1676/text.pdf",
  "body": [
   {
@@ -747,7 +747,27 @@
     },
     {
      "type": "note",
-     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "WYCIĄG Z EWIDENCJI CZASU NADAWANIA AUDYCJI EUROPEJSKICH DANE O EMISJI AUDYCJI WYTWORZONYCH PIERWOTNIE W JĘZYKU POLSKIM PRZEZ PRODUCENTÓW NIEBĘDĄCYCH producentami niezależnymi (w rozumieniu art. 4 pkt 13 ustawy) - strona ostatnia tabeli"
+    },
+    {
+     "type": "ocr",
+     "text": "NAZWA PROGRAMU .............1-11212: NADAWCA ........ccccececrcesessecs OKRES sprawozd. .......22222:::22::2:2 (rok, kwartał)"
+    },
+    {
+     "type": "ocr",
+     "text": "Lp. TYTUŁ AUDYCJI DATA NADANIA GODZINA RZECZYWISTY | RZECZYWISTY CZAS audycji: dzień, NADANIA audycji: | CZAS TRWANIA | TRWANIA audycji miesiąc, rok od-do audycji wskazanych w art. 15b (godziny, minuty) w minutach ust. 5 ustawy, według $ 3 (z wyłączeniem ust. 5 rozporz., audycji z kol. 6) w minutach I 2 3 4 5 6"
+    },
+    {
+     "type": "ocr",
+     "text": "A Suma czasów emisji wykazanych w kol. 5 i 6 w tabeli B Czas emisji z kol. 5 i 6 razem"
+    },
+    {
+     "type": "ocr",
+     "text": "c Kwartalny czas emisji programu (zgodnic z $ 3 ust. 3 rozporz.) D Udział procentowy czasu emisji wykazanego w wierszu B w kwartalnym czasie emisji programu"
     }
    ]
   },

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2005/795",
  "title": "Rozporządzenie Ministra Środowiska z dnia 16 maja 2005 r. w sprawie typów siedlisk przyrodniczych oraz gatunków roślin i zwierząt, wymagających ochrony w formie wyznaczenia obszarów Natura 2000",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/795/text.pdf",
  "body": [
   {
@@ -488,7 +488,19 @@
     },
     {
      "type": "note",
-     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "14|minóg rzeczny Lampetra fluviatilis 15|minóg strumieniowy Lampetra planeri 16|minóg ukraiński Eudontomyzon mariae 17|parposz Alosa fallax 18} piskorz Misgurnus fossilis 19|różanka Rhodeus sericeus amarus 20|strzebla przekopowa Phoxinus percnurus BEZKRĘGOWCE INVERTEBRATA 1|barczatka kataks Eriogaster catax 2|biegacz urozmaicony Carabus variolosus 3|biegacz Zawadzkiego Carabus zawadszkii 4|bogatek wspaniały Buprestis splendens 5|czerwończyk fioletek Lycaena helle 6|czerwończyk nieparek Lycaena dispar 7|jelonek rogacz Lucanus cervus 8|konarek tajgowy* Phryganophilus ruficollis* 9|kozioróg dębosz Cerambyx cerdo 10|krasopani hera* Callimorpha quadripunctaria* 11|kreślinek nizinny Graphoderus bilineatus 12|ksylomka strix* Xvlomoia strix* 13|łątka ozdobna Coenagrion ornatum 14|modraszek eroides Polyommatus eroides 15|modraszek nausitous Maculinea nausithous 16|modraszek telejus Maculinea teleius 17|nadobnica alpejska* Rosalia alpina* 18|pachnica dębowa* Osmoderma eremita* 19|pilnicznik fiotkowy Limoniscus violaceus 20|pływak szerokobrzegi Dytiscus latissimus 21|poczwarówka jajowata Vertigo moulinsiana 22|poczwarówka zmienna Vertigo genesii 23|poczwarówka zwężona Vertigo angustior 24|pogrzybnica Oxyporus mannerheimii 25|ponurek Schneidera Boros schneideri 26|przeplatka aurina Euphydryas aurinia 27|przeplatka maturna Hypodryas maturna 28|rozmiazg kolweński Pytho kolwensis 29|sichrawa karpacka* Pseudogaurotina excellens* 30|skójka gruboskorupowa Unio crassus 31|skójka perłorodna Margaritifera margaritifera 32|strzepotek edypus Coenonympha oedippus 33|szlaczkon szafraniec Colias myrmidone 34|Slimak ostrokrawędzisty Helicigona lapicida 35|Średzinka Mesosa myops 36|trzepla zielona Ophiogomphus cecilia 37|zagłębek bruzdkowany Rhysodes sulcatus 38|zalotka większa Leucorrhinia pectoralis 39|zatoczek łamliwy Anisus vorticulus 40|zgniotek cynobrowy Cucujus cinnaberinus"
+    },
+    {
+     "type": "ocr",
+     "text": "Objaśnienie"
+    },
+    {
+     "type": "ocr",
+     "text": "* Gatunek o znaczeniu priorytetowym."
     }
    ]
   },

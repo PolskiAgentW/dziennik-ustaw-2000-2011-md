@@ -1,7 +1,7 @@
 {
  "eli": "DU/2001/511",
  "title": "Rozporządzenie Rady Ministrów z dnia 15 maja 2001 r. w sprawie udzielania pomocy publicznej w sektorze hutnictwa żelaza i stali.",
- "converter": "eli2md 0.6.17",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2001/511/text.pdf",
  "body": [
   {
@@ -671,7 +671,19 @@
     },
     {
      "type": "note",
-     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "1 |Podstawa prawna otrzymanej pomocy 2 {Forma 3 |Przeznaczenie 4 |Kwota 5 |lntensywność 6 |Organ"
+    },
+    {
+     "type": "ocr",
+     "text": "1 |Podstawa prawna otrzymanej pomocy 2 |Forma 3 |Przeznaczenie 4 |Kwota 5 |Intensywność 6 |Organ"
+    },
+    {
+     "type": "ocr",
+     "text": "1 |Podstawa prawna otrzymanej pomocy 2 iForma 3 |Przeznaczenie 4 |Kwota 5 |Intensywność 5 |Organ"
     },
     {
      "type": "note",

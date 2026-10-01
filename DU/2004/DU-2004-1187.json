@@ -1,7 +1,7 @@
 {
  "eli": "DU/2004/1187",
  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 15 maja 2004 r. w sprawie przeniesienia planowanych wydatków budżetowych oraz limitów zatrudnienia i kwot wynagrodzeń między częściami budżetu państwa określonych w ustawie budżetowej na rok 2004",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/1187/text.pdf",
  "body": [
   {
@@ -119,7 +119,23 @@
     },
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "4120 składki na Fundusz Pracy 44 ZABEZPIECZENIE SPOŁECZNE 150 Przetwórstwo przemysłowe 15011 Rozwój przedsiębiorczości 4302 zakup usług pozostałych 1.790 4412 podróże służbowe krajowe 20 4422 podróże służbowe zagraniczne 100 6062 wydatki na zakupy inwestycyjne jednostek budżetowych 180 750 Administracja publiczna 75001 Urzędy naczelnych i centralnych organów administracji rządowej 4010 wynagrodzenia osobowe pracowników 391 4110 sktadki na ubezpieczenia spoteczne 69 4120 sktadki na Fundusz Pracy 12 4300 zakup ustug pozostatych 78 6050 wydatki inwestycyjne jednostek budzetowych 160"
+    },
+    {
+     "type": "ocr",
+     "text": "ZLL IN MEJSN) Aluuaizq"
+    },
+    {
+     "type": "ocr",
+     "text": "cO6L"
+    },
+    {
+     "type": "ocr",
+     "text": "L8LL “20d"
     }
    ]
   },

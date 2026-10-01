@@ -1,7 +1,7 @@
 {
  "eli": "DU/2005/1331",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 sierpnia 2005 r. zmieniające rozporządzenie w sprawie uposażenia zasadniczego oraz dodatków do uposażenia funkcjonariuszy Straży Granicznej",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/1331/text.pdf",
  "body": [
   {
@@ -397,7 +397,11 @@
     },
     {
      "type": "note",
-     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Stanowiska samodzielne w Straży Granicznej 1|Doradca komendanta XXIV 2|Rzecznik prasowy XXIV XVI 3|Główny specjalista XXII 4|Radca prawny XXII XV XV 5|Legislator XXII 6|Audytor wewnętrzny XX XVI XVI 7|Dziekan XXII 8|Kapelan XIV XIV Stanowiska wykonawcze w Strazy Granicznej 1|Starszy specjalista XII XII XII XII XII XII XII XII 2| Specjalista XI XI XI XI XI XI XI XI 3|Starszy asystent X X X X X X X X 4|Asystent MII MII MII MII MII MII MII VII 5|Straszy referent IV IV IV IV IV IN IV IM 6|Referent IV IV IV IV IV IV IV IV 7|Starszy strażnik graniczny Vil VIII MIII VIII VIII MII 8|Straznik graniczny Vv V M V 9|Straszy kontroler X X X X 10|Kontroler VIII MIII MIII MIII 11| Starszy bosman Vill 12|Bosman MII 13| Starszy wykładowca XII 14|Wykładowca XI"
     }
    ]
   }

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2001/37",
  "title": "Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 14 grudnia 2000 r. w sprawie szczegółowych czynności organów związanych z dopuszczeniem pojazdu do ruchu oraz wzorów dokumentów w tych sprawach.",
- "converter": "eli2md 0.6.17",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2001/37/text.pdf",
  "body": [
   {
@@ -2102,7 +2102,35 @@
     },
     {
      "type": "note",
-     "text": "[Strony 13-14 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "38 11 NACZEPA 01 |SKRZYNIA 39 CIEZAROWA 02 |FURGON 40 03 | WYWROTKA 41 04 |POJEMNIK. 42 05 |CYSTERNA 43 06 |DLUZYCOWA 44 07 |NISKOPODWOZIOWA 45 99 |INNA* 46 12 NACZEPA BEZ PODZIALU SPECJALNA 47 13 PRZYCZEPA 01 SKRZYNIA 48 CIĘŻAROWA 02 |FURGON 49 03 | WYWROTKA 50 04 | POJEMNIK 51 05 | CYSTERNA O 23, 52 06 |DLUZYCOWA 53 07 | NISKOPODWOZIOWA 54 99 |INNA* 55 14 PRZYCZEPA BEZ PODZIAŁU SPECJALNA O 23.4 56 15 PRZYCZEPA 01 SKRZYNIA 57 CIĘŻAROWA 02 |FURGON 58 ROLNICZA 03 WYWROTKA 59 04 ‘| POJEMNIK 60 05 |CYSTERNA 61 06 | DŁUŻYCOWA 62 07 | NISKOPODWOZIOWA 63 99 |INNA*"
+    },
+    {
+     "type": "ocr",
+     "text": "TABELA NR 2 - PRZEZNACZENIA POJAZDÓW ZE WZGLĘDU NA SPECJALIZACJĘ, Z WYJĄTKIEM POJAZDÓW SPECJALNYCH"
+    },
+    {
+     "type": "ocr",
+     "text": "LP. PODRODZAJ POJAZDU PRZEZNACZENIE KOD NAZWA KOD NAZWA 1 2 3 4 5 1 02 FURGON 001 |UNIWERSALNY 2 002 |IZOTERMICZNY 3 003 | CHŁODNIA 4 004 |LODOWNIA 5 005 | PRZEWÓZ MEBLI 6 006 | PRZEWÓZ KONFEKCJI 7 007 |PRZEWÓZ PIECZYWA 8 008 |POCZTOWY 9 099 |INNY * 10 05 CYSTERNA 101 | PRZEWÓZ PALIW PŁYNNYCH 11 102 | PRZEWÓZ MLEKA 12 103 |PRZEWÓZ WODY 13 104 | PRZEWOZ GAZÓW 14 199 |INNY*"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "15 04 POJEMNIK 201 | BETONIARKA 16 202 |PRZEWOZ BITUMU 17 203 |PRZEWÓŻ CEMENTU LUZEM 18 204 |PRZEWOZ SYPKICH ARTYKUŁÓW SPOŻYWCZYCH 19 205 | ASENIZACYJNY 20 299 |INNE * 21 99 INNY 301 | PRZEWÓZ ŻYWEGO DROBIU 22 302 | PRZEWÓZ ŻYWYCH ZWIERZĄT 23 303 | PRZEWÓZ KABLI 24 304 |PRZEWÓZ NAPOJÓW 25 305 |PRZEWÓZ ELEMENTÓW BUDOWLANYCH 26 306 |PRZEWOZ KONTENERÓW 27 307 | PRZEWÓZ POJAZDÓW 28 308 | WYWÓZ ŚMIECI 29 309 |UTYLIZACYJNY 30 399 | PRZEWÓZ INNYCH ŁADUNKÓW"
+    },
+    {
+     "type": "ocr",
+     "text": "TABELA NR 3 - PRZEZNACZENIA POJAZDÓW SPECJALNYCH"
+    },
+    {
+     "type": "ocr",
+     "text": "LP. KOD NAZWA 1 2 3 1 501 OCZYSZCZANIE DRÓG 2 502 ZIMOWEGO UTRZYMANIA DRÓG 3 503 PODNOŚNIK DO PRAC KONSERWACYJNO — MONTAŻOWYCH 4 504 POMOC DROGOWA 5 505 AMBULATORIUM / LABORATORIUM SŁUŻBY ZDROWIA 6 506 ŻURAW SAMOCHODOWY 7 507 POŻARNICZY 8 508 POGOTOWIE TECHNICZNE / WARSZTAT 9 509 KINO / WYSTAWA / BIBLIOTEKA 10 510 SKLEP / BAR 11 511 RADIOFONICZNY / TELEWIZYJNY 12 512 DO PRAC WIERTNICZYCH 13 513 AGREGAT ELEKTRYCZY / SPAWALNICZY 14 514 KEMPINGOWY 15 515 POGRZEBOWY 16 516 LABORATORIUM TECHNICZNE 17 517 KOPARKA 18 518 KOPARKO — SPYCHARKA 19 519 ŁADOWARKA 20 599 INNY *"
     },
     {
      "type": "note",

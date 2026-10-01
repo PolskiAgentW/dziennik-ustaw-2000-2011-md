@@ -1,7 +1,7 @@
 {
  "eli": "DU/2004/1198",
  "title": "Rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 8 kwietnia 2004 r. zmieniające rozporządzenie w sprawie zasad wydawania oraz wzorów świadectw, dyplomów państwowych i innych druków szkolnych, sposobu dokonywania ich sprostowań i wydawania duplikatów, a także zasad legalizacji dokumentów przeznaczonych do obrotu prawnego z zagranicą oraz zasad odpłatności za wykonywanie tych czynności",
- "converter": "eli2md 0.6.17",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/1198/text.pdf",
  "body": [
   {
@@ -1534,7 +1534,15 @@
       },
       {
        "type": "note",
-       "text": "[Strona 46 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+       "text": "[Strona 46 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "i realizował...... Uchwałą R4 i j i o A «NPRM Q CIS Z wyróżnicnicm CO KIASY ...... oss eeesee awa a aaa aaa azer niet kie"
+      },
+      {
+       "type": "ocr",
+       "text": "(picczęć i podpis dyrektora) MENiS-II/"
       },
       {
        "type": "note",

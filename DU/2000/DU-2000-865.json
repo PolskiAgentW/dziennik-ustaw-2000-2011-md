@@ -1,7 +1,7 @@
 {
  "eli": "DU/2000/865",
  "title": "Rozporządzenie Ministra Finansów z dnia 5 września 2000 r. w sprawie wzoru sztandaru Służby Celnej oraz trybu jego nadania.",
- "converter": "eli2md 0.6.17",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/865/text.pdf",
  "body": [
   {
@@ -150,7 +150,19 @@
   },
   {
    "type": "note",
-   "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Załącznik nr 5"
+  },
+  {
+   "type": "ocr",
+   "text": "250 mm 90 mm 5mm"
+  },
+  {
+   "type": "ocr",
+   "text": "NO 25mm 5mm Głowica sztandaru"
   },
   {
    "type": "note",

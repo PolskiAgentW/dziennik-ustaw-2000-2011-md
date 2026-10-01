@@ -1,7 +1,7 @@
 {
  "eli": "DU/2006/1234",
  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 27 września 2006 r. w sprawie dokonania przeniesień planowanych dochodów i wydatków oraz limitów zatrudnienia i kwot wynagrodzeń określonych w ustawie budżetowej na rok 2006",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2006/1234/text.pdf",
  "body": [
   {
@@ -233,7 +233,11 @@
     },
     {
      "type": "note",
-     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "1 2 3 4 5 7 4270 zakup usług remontowych 289 4280 Zakup usług zdrowotnych 32 4300 Zakup usług pozostałych 3093 4302 zakup usług pozostałych 62 4350 Zakup usług dostępu do sieci Internet 37 4410 Podroze siuzbowe krajowe 63 4420 Podróże służbowe zagraniczne 250 4430 Różne opłaty i składki 104 4480 Podatek od nieruchomości 7 9540 Skiadki do organizacji miedzynarodowych 44] 4550 Szkolenia członków korpusu służby cywilnej 278 4610 koszty postępowania sądowego 13 6050 Wydatki inwestycyjne jednostek budżetowych 150 6060 Wydatki na zakupy inwestycyjne jednostek budżetowych I 360 Ogółem 19 404 19 404"
     }
    ]
   },

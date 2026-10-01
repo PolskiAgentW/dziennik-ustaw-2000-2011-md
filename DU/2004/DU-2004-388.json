@@ -1,7 +1,7 @@
 {
  "eli": "DU/2004/388",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 marca 2004 r. w sprawie rejestru wyborców oraz trybu przekazywania przez Rzeczpospolitą Polską innym państwom członkowskim Unii Europejskiej danych zawartych w tym rejestrze",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/388/text.pdf",
  "body": [
   {
@@ -790,7 +790,19 @@
     },
     {
      "type": "note",
-     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "AT BE DE DK ES FI FR GB GR IE IT LU NL PT SE CZ EE CY LV LT"
+    },
+    {
+     "type": "ocr",
+     "text": "MT PL SI"
+    },
+    {
+     "type": "ocr",
+     "text": "W przypadku Polski zawsze PL"
     }
    ]
   },

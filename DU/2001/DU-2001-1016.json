@@ -1,7 +1,7 @@
 {
  "eli": "DU/2001/1016",
  "title": "Rozporządzenie Ministra Gospodarki z dnia 30 maja 2001 r. w sprawie szczegółowego zamieszczania informacji dotyczącej identyfikacji nawozów, sposobu ich pakowania, dopuszczalnych tolerancji zawartości składników nawozowych w nawozach mineralnych, sposobu pobierania próbek i metod badania nawozów mineralnych oraz wartości zanieczyszczeń.",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2001/1016/text.pdf",
  "body": [
   {
@@ -3497,7 +3497,15 @@
     },
     {
      "type": "note",
-     "text": "[Strona 75 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 75 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "redukcyjną U 4 :"
+    },
+    {
+     "type": "ocr",
+     "text": "Statyw dla połączenia przegubowego"
     },
     {
      "type": "note",

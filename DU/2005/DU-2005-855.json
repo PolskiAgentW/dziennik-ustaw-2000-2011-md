@@ -1,7 +1,7 @@
 {
  "eli": "DU/2005/855",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 maja 2005 r. w sprawie sposobu transliteracji imion i nazwisk osób należących do mniejszości narodowych i etnicznych zapisanych w alfabecie innym niż alfabet łaciński",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/855/text.pdf",
  "body": [
   {
@@ -313,7 +313,11 @@
     },
     {
      "type": "note",
-     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "1 2 y CZ i? k u r w SZ W s n t n t Samogłoski: (występują w postaci dopisywanej najczęściej pod litera spółgłoskową) a e , i"
     }
    ]
   },

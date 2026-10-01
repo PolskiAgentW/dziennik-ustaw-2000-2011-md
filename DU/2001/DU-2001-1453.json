@@ -1,7 +1,7 @@
 {
  "eli": "DU/2001/1453",
  "title": "Rozporządzenie Rady Ministrów z dnia 9 października 2001 r. w sprawie opłat za korzystanie ze środowiska.",
- "converter": "eli2md 0.6.17",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2001/1453/text.pdf",
  "body": [
   {
@@ -3016,7 +3016,15 @@
     },
     {
      "type": "note",
-     "text": "[Strona 43 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 43 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Jednostkowa Kod Grupy, podgrupy i rodzaje odpadów stawka zł / I Mg I 2 3"
+    },
+    {
+     "type": "ocr",
+     "text": "20 03 02 Odpady z targowisk 13,80 20 03 03 Odpady z czyszczenia ulic i placów 13,80 20 03 04 Szlamy ze zbiorników bezodpływowych służących do gromadzenia nieczystości 13,80 20 03 06 Odpady ze studzienek kanalizacyjnych 13,80 20 03 07 Odpady wielkogabarytowe 13,80 20 03 99 Odpady komunalne niewymienione w innych podgrupach 13,80"
     },
     {
      "type": "note",
