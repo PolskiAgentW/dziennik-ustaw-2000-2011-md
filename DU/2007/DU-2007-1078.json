@@ -1,0 +1,430 @@
+{
+ "eli": "DU/2007/1078",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 lipca 2007 r. w sprawie warunków udostępniania formularzy i wzorów dokumentów w postaci elektronicznej",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2007/1078/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 lipca 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie warunków udostępniania formularzy i wzorów dokumentów w postaci elektronicznej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 58 ust. 3 ustawy z dnia 18 wrze- poz. 1450, z późn. zm.[^2]) zarządza się, co nastęśnia 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, puje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "warunki techniczne udostępniania formularzy i wzorów dokumentów w postaci elektronicznej odbiorcom usług certyfikacyjnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "warunki bezpieczeństwa udostępniania formularzy i wzorów dokumentów w postaci elektronicznej odbiorcom usług certyfikacyjnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "ustawa — ustawę z dnia 18 września 2001 r. o podpisie elektronicznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "rozporządzenie w sprawie minimalnych wymagań dla systemów teleinformatycznych — rozporządzenie Rady Ministrów z dnia 11 października 2005 r. w sprawie minimalnych wymagań dla systemów teleinformatycznych (Dz. U. Nr 212, poz. 1766);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "ustawa o informatyzacji — ustawę z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565 oraz z 2006 r. Nr 12, poz. 65 i Nr 73, poz. 501);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "odbiorca — odbiorcę usług certyfikacyjnych, o którym mowa w ustawie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "podanie — podanie, wniosek lub inną czynność w postaci elektronicznej, w przypadku gdy przepisy prawa wymagają składania ich w określonej formie lub według określonego wzoru;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "wzór elektroniczny — wzór lub formularz, umożliwiający odbiorcom usług certyfikacyjnych wnoszenie podań i wniosków oraz innych czynności w postaci elektronicznej w przypadkach, gdy przepisy prawa wymagają składania ich w określonej formie lub według określonego wzoru — dokument elektroniczny, który został:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_6/lit_a",
+       "text": "sporządzony zgodnie z przepisami wydanymi na podstawie art. 39¹ § 2 Kodeksu postępowania administracyjnego dotyczącymi zasad obowiązujących dla sporządzania pism w postaci dokumentów elektronicznych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_6/lit_b",
+       "text": "przygotowany w XML, opisujący zakres użycia dokumentu elektronicznego, zawierający definicję struktury danych w formacie XSD oraz opis wizualizacji dokumentu elektronicznego w formacie XSL;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "formularz elektroniczny — rozwiązanie techniczne, obejmujące dane wraz z oprogramowaniem, które umożliwia przygotowanie dokumentu elektronicznego zgodnego z odpowiadającym mu wzorem elektronicznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "jednolity identyfikator — element wyróżnika, o którym mowa w przepisach wydanych na podstawie art. 39¹ § 2 Kodeksu postępowania administracyjnego dotyczących zasad obowiązujących przy sporządzaniu pism w postaci dokumentów elektronicznych dla wzorów elektronicznych umożliwiający jednoznaczną identyfikację wzoru elektronicznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "środki komunikacji elektronicznej — środki komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. Nr 144, poz. 1204, z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808 oraz z 2007 r. Nr 50, poz. 331, zwanej dalej „ustawą o świadczeniu usług”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "system teleinformatyczny — system teleinformatyczny w rozumieniu art. 2 pkt 3 ustawy o świadczeniu usług;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "informatyczny nośnik danych — informatyczny nośnik danych w rozumieniu art. 3 pkt 1 ustawy o informatyzacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "dokument elektroniczny — dokument elektroniczny w rozumieniu art. 3 pkt 2 ustawy o informatyzacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "Minister — ministra właściwego do spraw informatyzacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Wzór elektroniczny publikowany jest w centralnym repozytorium wzorów pism w formie dokumentów elektronicznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Informacje o sposobie dostępu do aktualnego wzoru elektronicznego udostępniane są na stronach podmiotowych Biuletynu Informacji Publicznej organu władzy publicznej właściwego w zakresie wydawania aktów normatywnych określających wzory i formularze lub inne czynności w postaci elektronicznej, w przypadku gdy przepisy prawa wymagają składania ich w określonej formie lub według określonego wzoru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Wzór elektroniczny przekazywany jest w strukturze zawierającej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_3/pkt_1",
+       "text": "opis wzoru elektronicznego — utworzony w XML i podpisany, definiujący znaczenie i zakres użycia dokumentu elektronicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_3/pkt_2",
+       "text": "schemat XSD definiujący strukturę dokumentu elektronicznego tworzonego na podstawie wzoru elektronicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_3/pkt_3",
+       "text": "referencyjny opis wizualizacji dokumentu elektronicznego opisany w języku formatowania XSL.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Minister publikuje na podmiotowej stronie WWW oraz w Biuletynie Informacji Publicznej strukturę opisu wzorów elektronicznych w postaci schematu XSD.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "W celu udostępniania odbiorcom wzorów elektronicznych Minister prowadzi centralne repozytorium wzorów pism w formie dokumentów elektronicznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Repozytorium składa się w szczególności z wzorów elektronicznych. W repozytorium przechowywane i udostępniane są wzory elektroniczne obecnie obowiązujące oraz wzory, które przestały obowiązywać.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Organy władzy publicznej przekazują wzory elektroniczne do centralnego repozytorium na zasadach określonych w rozporządzeniu Prezesa Rady Ministrów z dnia 29 września 2005 r. w sprawie warunków organizacyjno-technicznych doręczania dokumentów elektronicznych podmiotom publicznym (Dz. U. Nr 200, poz. 1651) oraz rozporządzeniu wydanym na podstawie art. 39¹ § 2 Kodeksu postępowania administracyjnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "System teleinformatyczny centralnego repozytorium zapewnia integralność i autentyczność opublikowanych w nim wzorów przez zastosowanie technik kryptograficznych. Kodowane informacje umieszczane są zgodnie z formatem XMLdSIG.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Każdemu formularzowi elektronicznemu przyporządkowany jest numer z jednolitego identyfikatora, który powinien być identyczny z jego numerem na odpowiadającym mu wzorze elektronicznym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_4/ust_6",
+     "text": "Publikacja wzoru elektronicznego następuje z chwilą nadania przez Ministra jednolitego identyfikatora.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_4/ust_7",
+     "text": "Każdemu wzorowi elektronicznemu może być przyporządkowany tylko jeden jednolity identyfikator.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_4/ust_8",
+     "text": "Minister odmawia nadania jednolitego identyfikatora, gdy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_8/pkt_1",
+       "text": "wzór elektroniczny został stworzony niezgodnie z zasadami określonymi w rozporządzeniu w sprawie minimalnych wymagań dla systemów teleinformatycznych oraz zasadami dotyczącymi minimalnych wymagań dla rejestrów publicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_8/pkt_2",
+       "text": "wzorowi elektronicznemu został uprzednio nadany przez Ministra jednolity identyfikator;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_8/pkt_3",
+       "text": "wzór elektroniczny zawiera wyróżnik sporządzony niezgodnie z zasadami publikowanymi przez Ministra na podstawie przepisów dotyczących sporządzania pism w formie dokumentów elektronicznych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Udostępniany wzór elektroniczny zawiera unikalny jednolity identyfikator.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Wymagania organizacyjno-techniczne doręczania i formę potwierdzania odbioru wzorów elektronicznych przez odbiorców regulują przepisy dotyczące doręczania pism w formie dokumentów elektronicznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Formularze elektroniczne sporządzane są na podstawie wzoru elektronicznego w formatach danych zgodnych z rozporządzeniem w sprawie minimalnych wymagań dla systemów teleinformatycznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Właściwe organy władzy publicznej udostępniają formularze elektroniczne w zakresie swojej właściwości rzeczowej odbiorcom, w szczególności na swoich stronach podmiotowych WWW, w Biuletynie Informacji Publicznej zgodnie z przepisami ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.[^3]).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Wzory elektroniczne i formularze elektroniczne są udostępniane przez środki komunikacji elektronicznej za pomocą protokołu komunikacyjnego sieci WWW (HTTP).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Właściwy organ władzy publicznej udostępnia w Biuletynie Informacji Publicznej informacje o sposobie i kosztach udostępniania wzoru elektronicznego na powszechnie używanych, przenośnych informatycznych nośnikach danych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_6/ust_5",
+     "text": "Udostępnianie wzorów elektronicznych sporządzonych na powszechnie używanych, przenośnych informatycznych nośnikach danych następuje na wniosek odbiorcy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_6/ust_6",
+     "text": "Wniosek o udostępnienie wzoru elektronicznego zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_6/pkt_1",
+       "text": "wskazanie wzoru elektronicznego wraz z przyporządkowanym do niego jednolitym identyfikatorem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_6/pkt_2",
+       "text": "nazwę odbiorcy usług certyfikacyjnych ubiegającego się o udostępnienie i adres jego siedziby lub miejsca zamieszkania, w przypadku osoby fizycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_6/pkt_3",
+       "text": "wskazanie rodzaju powszechnie używanego, przenośnego informatycznego nośnika danych, na którym ma być udostępniony;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_6/pkt_4",
+       "text": "własnoręczny podpis albo bezpieczny podpis elektroniczny odbiorcy ubiegającego się o udostępnienie.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "W przypadku Sejmu informacje, o których mowa w § 3 ust. 2 i § 6 ust. 4, oraz formularze elektroniczne, o których mowa w § 6 ust. 2, udostępniane są w systemie informacyjnym Sejmu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Rozporządzenie wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych i Administracji: J. Kaczmarek"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej — informatyzacja, na podstawie § 1 ust. 2 pkt 2 oraz działem administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 lipca 2006 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. Nr 131, poz. 919 oraz z 2007 r. Nr 38, poz. 245).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 64, poz. 565 oraz z 2006 r. Nr 145, poz. 1050.",
+  "3": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110."
+ }
+}

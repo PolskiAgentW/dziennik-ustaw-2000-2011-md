@@ -1,0 +1,675 @@
+{
+ "eli": "DU/2007/1743",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 13 grudnia 2007 r. w sprawie dokonywania wpisów danych SIS oraz aktualizowania, usuwania i wyszukiwania danych SIS poprzez Krajowy System Informatyczny",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2007/1743/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 grudnia 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie dokonywania wpisów danych SIS oraz aktualizowania, usuwania i wyszukiwania danych SIS poprzez Krajowy System Informatyczny"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 21 ust. 1 ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej (Dz. U. Nr 165, poz. 1170) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "techniczne warunki, sposób i tryb dokonywania wpisów danych SIS;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "obowiązki uprawnionych organów związane z dokonywaniem wpisów danych SIS;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "sposób i tryb aktualizowania, usuwania i wyszukiwania danych SIS poprzez Krajowy System Informatyczny.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "Centralnym Węźle Polskiego Komponentu SIS1+ — należy przez to rozumieć podsystem informacyjny stanowiący część infrastruktury technicznej i organizacyjnej krajowego modułu SIS1+, mający na celu zapewnienie przepływu informacji pomiędzy Centralnym Systemem Informacyjnym Schengen (C.SIS) a krajowymi użytkownikami SISone4ALL;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "certyfikacie — należy przez to rozumieć elektroniczne zaświadczenie będące elementem PKI, wydane zgodnie z obowiązującą Polityką Certyfikacji, zapewniające poufność przesyłanych danych oraz bezpieczeństwo procesu uwierzytelniania użytkownika instytucjonalnego i użytkownika indywidualnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "GUI SISone4ALL — (Graphical User Interface) — należy przez to rozumieć sposób prezentacji graficznej informacji oraz interakcji z użytkownikiem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "interfejsie SISone4ALL — należy przez to rozumieć interfejs programu użytkownika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "Kodeksie Postępowania Certyfikacyjnego — należy przez to rozumieć dokument uszczegółowiający ogólne zasady postępowania certyfikacyjnego opisane w Polityce Certyfikacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "wartościach katalogowych — należy przez to rozumieć kodowany słownik danych będący zbiorem określonych dopuszczalnych wartości lub terminów wykorzystywanych przez interfejs SISone4ALL;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "PKI — (Public Key Infrastructure) — należy przez to rozumieć Infrastrukturę Klucza Publicznego będącego kryptosystemem, w którego skład wchodzą urzędy certyfikacyjne, urzędy rejestracyjne, użytkownicy certyfikatów (subskrybenci), oprogramowanie i sprzęt;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "Polityce Certyfikacji — należy przez to rozumieć dokument określający techniczne i organizacyjne warunki oraz zakres tworzenia i stosowania certyfikatów w standardzie X.509 wykorzystywanych przez użytkowników SIS1+;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "sieć SDH — należy przez to rozumieć synchroniczną, cyfrową sieć miejską w Warszawie, będącą w dyspozycji ministra właściwego do spraw wewnętrznych, która realizuje funkcje wspólnej platformy teleinformatycznej łączącej narodowy centralny węzeł SISone4ALL z krajowymi użytkownikami instytucjonalnymi oraz międzynarodową siecią SISNet;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "SIS1+ — należy przez to rozumieć zmodernizowany System Informacyjny Schengen pierwszej generacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "SISone4ALL — należy przez to rozumieć specjalistyczne rozwiązanie informatyczne umożliwiające obsługę SIS1+;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "SSL — (Secure Socket Layer) — należy przez to rozumieć protokół służący do szyfrowania transmisji danych w sieci;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "translatorze — należy przez to rozumieć moduł umożliwiający tłumaczenie zapytań i odpowiedzi, przesyłanych pomiędzy użytkownikami instytucjonalnymi a Centralnym Węzłem Polskiego Komponentu SIS1+, z zaadaptowanego formatu Systemu Informacyjnego Schengen drugiej generacji na protokół obowiązujący w SISone4ALL;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_2/pkt_14",
+     "text": "transliteracji — należy przez to rozumieć sposób zapisywania tekstu pisanego w jednym alfabecie znakami innego alfabetu, zgodnie z ustalonym ich znaczeniem, zapewniający ścisłą odpowiedniość obu tekstów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_2/pkt_15",
+     "text": "ustawie — należy przez to rozumieć ustawę z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_2/pkt_16",
+     "text": "użytkowniku indywidualnym — należy przez to rozumieć osobę fizyczną uprawnioną w ramach organu lub służby do wykorzystywania danych SIS, która w celu dostępu do danych korzysta bezpośrednio z GUI SISone4ALL;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_2/pkt_17",
+     "text": "użytkowniku instytucjonalnym — należy przez to rozumieć organ lub służbę, uprawnione do współpracy z Krajowym Systemem Informatycznym za pośrednictwem własnego systemu informatycznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_2/pkt_18",
+     "text": "użytkowniku końcowym — należy przez to rozumieć osobę fizyczną uprawnioną w ramach organu lub służby do wykorzystywania danych SIS, posiadającą dostęp do Krajowego Systemu Informatycznego za pośrednictwem systemu informatycznego użytkownika instytucjonalnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "par_2/pkt_19",
+     "text": "VPN — (Virtual Private Network) — należy przez to rozumieć wirtualną sieć prywatną jako sieć przekazu danych korzystającą z publicznej infrastruktury telekomunikacyjnej, która poprzez stosowanie protokołów tunelowania i procedur bezpieczeństwa zachowuje poufność danych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "par_2/pkt_20",
+     "text": "X.509 — należy przez to rozumieć standard opisujący sposób użycia asymetrycznych algorytmów kryptograficznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Użytkownik indywidualny dokonuje w SIS1+ wpisów danych SIS z wykorzystaniem protokołu https oraz GUI SISone4ALL, wykorzystując w tym celu bezpieczne połączenie VPN.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Dokonywanie wpisów danych SIS następuje, z zastrzeżeniem ust. 3, za pośrednictwem fizycznie wydzielonej sieci teleinformatycznej, która nie ma styku z siecią ogólnodostępną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "W przypadku polskich urzędów konsularnych dokonywanie wpisów danych SIS następuje za pośrednictwem wydzielonych do tego stanowisk, wyposażonych w mechanizmy szyfrujące zapewniające bezpieczeństwo przekazu informacji oraz poufność i integralność przekazywanych danych, zgodnie z przepisami dotyczącymi ochrony danych osobowych oraz bezpieczeństwa teleinformatycznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "W celu zabezpieczenia dostępu użytkownika indywidualnego do SIS1+ wykorzystuje się technologię SSL z wykorzystaniem certyfikatów X.509.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_3/ust_5",
+     "text": "Za bezpieczeństwo w sieci teleinformatycznej Centralnego Węzła Polskiego Komponentu SIS1+ odpowiada centralny organ techniczny KSI, natomiast za bezpieczeństwo w sieci SDH odpowiada minister właściwy do spraw wewnętrznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_3/ust_6",
+     "text": "W celu umożliwienia dokonywania wpisów danych SIS organ lub służba korzystające bezpośrednio z GUI SISone4ALL występują do centralnego organu technicznego KSI o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_6/pkt_1",
+       "text": "wydanie certyfikatów dla brzegowego urządzenia sieciowego oraz określenie i przekazanie parametrów konfiguracji brzegowego urządzenia sieciowego dla użytkownika indywidualnego, umożliwiającego bezpieczne nawiązanie połączenia z SIS1+;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_6/pkt_2",
+       "text": "przekazywanie aktualnie obowiązującej Polityki Certyfikacji i Kodeksu Postępowania Certyfikacyjnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_6/pkt_3",
+       "text": "założenie kont dostępowych i przydzielenie uprawnień w SISone4ALL dla użytkowników indywidualnych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Użytkownik instytucjonalny dokonuje w SIS1+ wpisów danych SIS z wykorzystaniem własnego systemu informatycznego z użyciem protokołu https oraz interfejsu SISone4ALL oraz bezpiecznego połączenia VPN.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Dokonywanie wpisów danych SIS następuje za pośrednictwem wydzielonej sieci teleinformatycznej, która nie ma fizycznego styku z siecią ogólnodostępną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "W celu zabezpieczenia dostępu użytkownika instytucjonalnego do SIS1+ wykorzystuje się technologię SSL z wykorzystaniem certyfikatów X.509.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "W celu umożliwienia dokonywania wpisów danych SIS użytkownik instytucjonalny występuje do centralnego organu technicznego KSI o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_4/pkt_1",
+       "text": "wydanie certyfikatów dla brzegowego urządzenia sieciowego i serwerów systemu informatycznego użytkownika instytucjonalnego oraz określenie i przekazanie parametrów konfiguracji brzegowego urządzenia sieciowego umożliwiającego bezpieczne nawiązanie połączenia z SIS1+;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_4/pkt_2",
+       "text": "przekazywanie aktualnie obowiązującej Polityki Certyfikacji i Kodeksu Postępowania Certyfikacyjnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_4/pkt_3",
+       "text": "przekazanie niezbędnej dokumentacji zawierającej specyfikację interfejsu translatora.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Do obowiązków organu lub służby korzystających bezpośrednio z GUI SISone4ALL oraz użytkownika instytucjonalnego, w zakresie technicznych warunków dokonywania wpisów danych SIS należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "przestrzeganie zasad obowiązujących w Polityce Certyfikacji i Kodeksie Postępowania Certyfikacyjnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "zapewnienie bezpieczeństwa w swojej sieci teleinformatycznej, podłączonej do Centralnego Węzła Polskiego Komponentu SIS1+.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Wpisów danych SIS do SIS1+ dokonuje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "za pomocą GUI SISone4ALL — w przypadku użytkownika indywidualnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "za pomocą systemu informatycznego użytkownika instytucjonalnego — w przypadku użytkownika końcowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "W przypadku braku bezpośredniego dostępu do Krajowego Systemu Informatycznego spowodowanego przyczynami niezależnymi od danego użytkownika instytucjonalnego lub użytkownika indywidualnego użytkownik instytucjonalny lub użytkownik indywidualny przesyła odpowiednią wypełnioną kartę wpisu danych SIS do SIS1+ centralnemu organowi technicznemu KSI w sposób zapewniający uwierzytelnienie przekazu informacji oraz poufność i integralność przekazywanych danych, zgodnie z przepisami dotyczącymi ochrony danych osobowych oraz bezpieczeństwa teleinformatycznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Do obowiązków organu lub służby korzystających bezpośrednio z GUI SISone4ALL oraz użytkownika instytucjonalnego, w zakresie sposobu dokonywania wpisów danych SIS należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_3/pkt_1",
+       "text": "sprawdzenie przed dokonaniem wpisu, czy dana osoba lub przedmiot już figuruje w SIS1+, oraz, w przypadku pozytywnego wyniku sprawdzenia, przeprowadzenie niezbędnych konsultacji mających na celu zapobieżenie powstaniu niezgodności wpisów wielokrotnych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_6/ust_3/pkt_1/lit_a",
+         "text": "za pośrednictwem Biura SIRENE — w przypadku wpisów dokonanych przez inne państwa członkowskie Unii Europejskiej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_6/ust_3/pkt_1/lit_b",
+         "text": "bezpośrednio z krajowym organem, który dokonał wpisu, a w przypadku braku możliwości przeprowadzenia bezpośrednich konsultacji — za pośrednictwem centralnego organu technicznego KSI;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_3/pkt_2",
+       "text": "stosowanie zasad transliteracji i wartości katalogowych, określonych i udostępnionych przez centralny organ techniczny KSI;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_3/pkt_3",
+       "text": "zapewnienie legalności, aktualności i zgodności z celami dokonywanych wpisów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_3/pkt_4",
+       "text": "niezwłoczne dokonywanie wpisów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "W przypadku gdy użytkownik indywidualny lub użytkownik instytucjonalny jest uprawniony do bezpośredniego dostępu do Krajowego Systemu Informatycznego w celu dokonywania wpisów danych SIS należących do jednej z kategorii danych określonych w art. 3 ust. 1 ustawy, a jednocześnie nie jest uprawniony do bezpośredniego dostępu do Krajowego Systemu Informatycznego w celu wglądu do tej samej kategorii danych na podstawie art. 4 ust. 1 ustawy, wówczas sprawdzenia i konsultacje, o których mowa w ust. 3 pkt 1, prowadzi za pośrednictwem centralnego organu technicznego KSI.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "W przypadku użytkownika indywidualnego wprowadza się następujący tryb dokonywania wpisów danych SIS:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "dokonanie autoryzacji w GUI SISone4ALL na podstawie przydzielonego konta zabezpieczonego hasłem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "dokonanie wpisu, zgodnie z przydzielonymi uprawnieniami;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_1/pkt_3",
+       "text": "po dokonaniu wpisu — wylogowanie się z GUI SISone4ALL.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "W przypadku użytkownika końcowego wprowadza się następujący tryb dokonywania wpisów danych SIS:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "uwierzytelnienie użytkownika końcowego w systemie informatycznym na podstawie przydzielonych uprawnień;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "dokonanie wpisu przez użytkownika końcowego zgodnie z przydzielonymi uprawnieniami;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_2/pkt_3",
+       "text": "automatyczne przekazanie informacji do SIS1+ przez system informatyczny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_2/pkt_4",
+       "text": "odnotowanie w elektronicznym rejestrze informacji dotyczących:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_7/ust_2/pkt_4/lit_a",
+         "text": "użytkownika końcowego, ze wskazaniem jego jednostki i komórki organizacyjnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_7/ust_2/pkt_4/lit_b",
+         "text": "daty i godziny dokonania wpisu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_7/ust_2/pkt_4/lit_c",
+         "text": "danych SIS,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_7/ust_2/pkt_4/lit_d",
+         "text": "niepowtarzalnego identyfikatora wpisu nadanego przez Krajowy System Informatyczny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_7/ust_2/pkt_4/lit_e",
+         "text": "rodzaju czynności wykonanej za pośrednictwem Krajowego Systemu Informatycznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_7/ust_2/pkt_4/lit_f",
+         "text": "kryteriów wyszukiwania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_7/ust_2/pkt_4/lit_g",
+         "text": "listy wyników wyszukiwania, do których uzyskał dostęp użytkownik końcowy.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Do obowiązków organu lub służby korzystających bezpośrednio z GUI SISone4ALL oraz użytkownika instytucjonalnego, w zakresie trybu dokonywania wpisów danych SIS należy zapewnienie, aby użytkownicy indywidualni i użytkownicy końcowi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_3/pkt_1",
+       "text": "dokonywali wpisów w sposób zapewniający ich legalność i poufność;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_3/pkt_2",
+       "text": "zachowywali bezpieczeństwo procesu uwierzytelniania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Do obowiązków użytkownika instytucjonalnego, w zakresie trybu dokonywania wpisów danych SIS należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_4/pkt_1",
+       "text": "zapewnienie prowadzenia elektronicznego rejestru, o którym mowa w ust. 2 pkt 4;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_4/pkt_2",
+       "text": "niezwłoczne udostępnienie — na żądanie Generalnego Inspektora Ochrony Danych Osobowych lub ministra właściwego do spraw wewnętrznych — rejestru, o którym mowa w ust. 2 pkt 4.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Aktualizowanie, usuwanie i wyszukiwanie danych SIS poprzez Krajowy System Informatyczny odbywa się z wykorzystaniem:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "GUI SISone4ALL oraz z zastosowaniem zasad transliteracji przez:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_8/pkt_1/lit_a",
+       "text": "użytkownika indywidualnego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_8/pkt_1/lit_b",
+       "text": "centralny organ techniczny KSI — w przypadku określonym w art. 22 ust. 2 ustawy;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "systemu informatycznego użytkownika instytucjonalnego przez użytkownika końcowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Do aktualizowania, usuwania i wyszukiwania danych SIS poprzez Krajowy System Informatyczny stosuje się odpowiednio § 7 ust. 1 i 2.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych i Administracji: G. Schetyna"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej — sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. Nr 216, poz. 1604)."
+ }
+}

@@ -1,0 +1,635 @@
+{
+ "eli": "DU/2007/68",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 stycznia 2007 r. w sprawie Biuletynu Informacji Publicznej",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2007/68/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 18 stycznia 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Biuletynu Informacji Publicznej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 ust. 5 ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "szczegółowe wymagania dotyczące układu ujednoliconego systemu stron Biuletynu Informacji Publicznej, w szczególności:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "strukturę strony głównej Biuletynu Informacji Publicznej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "standardy struktury stron podmiotowych Biuletynu Informacji Publicznej;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "zakres i tryb przekazywania ministrowi właściwemu do spraw informatyzacji informacji do zamieszczenia na stronie głównej Biuletynu Informacji Publicznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "wymagania dotyczące zabezpieczania treści informacji publicznych udostępnianych w Biuletynie Informacji Publicznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w rozporządzeniu określenia i skróty oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "ustawa — ustawę z dnia 6 września 2001 r. o dostępie do informacji publicznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "BIP — Biuletyn Informacji Publicznej, o którym mowa w art. 8 ust. 1 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "URL — adres wskazujący lokalizację zasobu w Internecie, w szczególności adres strony WWW;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "baza danych — bazę danych w rozumieniu ustawy z dnia 27 lipca 2001 r. o ochronie baz danych (Dz. U. Nr 128, poz. 1402 oraz z 2004 r. Nr 96, poz. 959);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "mechanizmy baz danych — elementy oprogramowania pozwalające na gromadzenie, porządkowanie, aktualizowanie i udostępnianie informacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "spis podmiotów — zamieszczony na stronie głównej BIP wykaz podmiotów określonych w art. 4 ust. 1 i 2 ustawy, które zgłosiły fakt prowadzenia strony podmiotowej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "menu przedmiotowe — podział tematyczny lub wykaz grup tematycznych, w które są zestawione informacje publiczne udostępniane w BIP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "moduł wyszukujący — element oprogramowania umożliwiający znalezienie informacji dostępnych na stronach BIP zawierających poszukiwane wyrażenie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "moduł administracyjny — element oprogramowania zawierający mechanizm identyfikacji i autoryzacji umożliwiający dostęp do stron BIP, w szczególności w celu dokonania niezbędnych zmian w treści udostępnianych informacji publicznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Dostęp do informacji publicznych zawartych w BIP jest możliwy poprzez stronę główną BIP posiadającą URL — http://www.bip.gov.pl, według spisu podmiotów lub menu przedmiotowego albo poprzez strony podmiotowe BIP.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Informacje publiczne zawarte w BIP organizuje się w postaci baz danych, a ich udostępnianie odbywa się w oparciu o mechanizmy baz danych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Informacje publiczne zawarte w BIP udostępnia się odwiedzającym BIP przez całą dobę bez przerwy, z zastrzeżeniem § 21.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Informacje publiczne udostępniane w BIP nie mogą zawierać niewyjaśnionych skrótów, z wyjątkiem skrótów powszechnie przyjętych i zrozumiałych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Strony BIP:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "spełniają minimalne wymagania dla systemów teleinformatycznych określone w rozporządzeniu Rady Ministrów z dnia 11 października 2005 r. w sprawie minimalnych wymagań dla systemów teleinformatycznych (Dz. U. Nr 212, poz. 1766);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "projektuje się w sposób umożliwiający ich modyfikację, uwzględniając technologiczny rozwój systemu teleinformatycznego, w którym działa BIP.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Treści zgromadzone na stronach BIP:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "są udostępniane w jakości niepozostawiającej wątpliwości co do ich zawartości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "nie są zabezpieczone przed drukowaniem i kopiowaniem.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Struktura strony głównej Biuletynu Informacji Publicznej"
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Strona główna BIP zawiera w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "logo (znak graficzny) BIP, umieszczone w górnej części strony;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "adres redakcji strony głównej BIP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_8/pkt_3",
+     "text": "imię i nazwisko, numer telefonu, numer telefaksu i adres poczty elektronicznej co najmniej jednej z osób redagujących stronę główną BIP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_8/pkt_4",
+     "text": "instrukcję korzystania z BIP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_8/pkt_5",
+     "text": "spis podmiotów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_8/pkt_6",
+     "text": "menu przedmiotowe;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_8/pkt_7",
+     "text": "informacje o podmiotach (w szczególności URL strony podmiotowej BIP) prowadzących strony podmiotowe BIP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_8/pkt_8",
+     "text": "moduł wyszukujący.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Standardy struktury stron podmiotowych Biuletynu Informacji Publicznej"
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Strony podmiotowe BIP prowadzone są w formie odrębnych stron WWW.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "W przypadku gdy podmiot, o którym mowa w art. 4 ust. 1 i 2 ustawy, posiada własną stronę WWW, stronę podmiotową BIP utworzoną przez ten podmiot wydziela się z tej strony przez umieszczenie na stronie głównej WWW linku zawierającego logo BIP, umożliwiającego bezpośredni dostęp do podmiotowej strony BIP.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Strona WWW podmiotu może być jednocześnie stroną podmiotową BIP, o ile spełnia wszystkie wymogi ustawy i rozporządzenia. W takich przypadkach ust. 2 nie stosuje się.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Na stronach podmiotowych BIP umieszcza się czytelny link do strony głównej BIP oraz do strony głównej istniejącego internetowego serwisu informacyjnego podmiotu, o którym mowa w art. 4 ust. 1 i 2 ustawy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Strona podmiotowa BIP zawiera w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_1/pkt_1",
+       "text": "logo (znak graficzny) BIP, umieszczone w górnej części strony;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_1/pkt_2",
+       "text": "adres redakcji strony podmiotowej BIP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_1/pkt_3",
+       "text": "imię i nazwisko, numer telefonu, numer telefaksu i adres poczty elektronicznej co najmniej jednej z osób redagujących stronę podmiotową BIP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_11/ust_1/pkt_4",
+       "text": "instrukcję korzystania ze strony podmiotowej BIP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_11/ust_1/pkt_5",
+       "text": "menu przedmiotowe umożliwiające odnalezienie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_11/ust_1/pkt_5/lit_a",
+         "text": "informacji publicznych, o których mowa w art. 8 ust. 3 zdanie pierwsze ustawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_11/ust_1/pkt_5/lit_b",
+         "text": "innych informacji publicznych, o których mowa w art. 8 ust. 3 zdanie drugie ustawy, a w szczególności takich, których publikacja leży w interesie publicznym, zaspokaja potrzeby obywateli i ich wspólnot, wspiera rozwój społeczeństwa obywatelskiego lub przyczynia się do polepszenia działalności podmiotu udostępniającego informacje,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_11/ust_1/pkt_5/lit_c",
+         "text": "informacji publicznych przeznaczonych do publikacji w BIP na podstawie przepisów odrębnych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_11/ust_1/pkt_6",
+       "text": "moduł wyszukujący.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Strona podmiotowa BIP nie może zawierać reklam.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Zakres i tryb przekazywania informacji niezbędnych do zamieszczenia na stronie głównej Biuletynu Informacji Publicznej"
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Podmioty, o których mowa w art. 4 ust. 1 i 2 ustawy, przekazują ministrowi właściwemu do spraw informatyzacji informacje niezbędne do prowadzenia strony głównej BIP, w tym o URL utworzonej przez siebie strony podmiotowej BIP.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Podmioty, o których mowa w art. 4 ust. 1 i 2 ustawy, powiadamiają niezwłocznie ministra właściwego do spraw informatyzacji o zmianach w treści informacji, które przekazały w celu zamieszczania na stronie głównej BIP.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Przekazywanie informacji, o których mowa w § 12 ust. 1, oraz powiadamianie ministra właściwego do spraw informatyzacji o zmianach w treści tych informacji następuje w terminie zapewniającym zachowanie zgodności treści strony głównej i stron podmiotowych BIP, niezwłocznie po wprowadzeniu na stronie podmiotowej BIP tych zmian.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Przekazywanie informacji, o których mowa w § 13, odbywa się poprzez moduł administracyjny strony głównej BIP.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Administrator strony głównej BIP jest obowiązany niezwłocznie potwierdzić odbiór i zamieścić na stronie głównej BIP informacje, o których mowa w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Wymagania dotyczące zabezpieczania treści informacji publicznych udostępnianych w Biuletynie Informacji Publicznej"
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Podmioty, o których mowa w art. 4 ust. 1 i 2 ustawy, wyznaczają osoby odpowiedzialne za:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_1/pkt_1",
+       "text": "przekazywanie ministrowi właściwemu do spraw informatyzacji informacji niezbędnych do zamieszczenia na stronie głównej BIP oraz powiadamianie tego ministra o zmianach w treści tych informacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_1/pkt_2",
+       "text": "dokonywanie zmian treści informacji publicznych udostępnianych na stronach podmiotowych BIP.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Osoby, o których mowa w ust. 1 pkt 2, mają dostęp do modułu administracyjnego strony podmiotowej BIP w oparciu o mechanizmy identyfikacji i autoryzacji nadzorowane przez administratora strony podmiotowej BIP.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Strony BIP są wyposażone w mechanizm dziennika, w którym odnotowywane są zmiany w treści informacji publicznych udostępnianych w BIP oraz próby dokonywania takich zmian przez osoby nieuprawnione.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Dzienniki dla tych stron prowadzone są w sposób automatyczny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Administratorzy stron BIP dokonują kontroli dzienników, o których mowa w ust. 1, w odniesieniu do podlegających im stron, w każdy dzień powszedni.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Strony BIP ochrania się przez moduł bezpieczeństwa — programowe lub sprzętowo-programowe rozwiązanie techniczne uniemożliwiające zniszczenie lub modyfikację informacji publicznych zawartych w BIP przez osoby nieuprawnione.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Informacje zgromadzone w bazie danych stron BIP kopiuje się na odrębne informatyczne nośniki informacji nie później niż dobę po zaistnieniu zmiany treści tych informacji. Jeżeli zmiany treści zachodzą częściej niż raz na dobę, informacje kopiuje się na odrębne informatyczne nośniki informacji raz na dobę.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Strony BIP zawierają rozwiązania chroniące przed celowym spowolnieniem lub uniemożliwieniem dostępu do zasobów tych stron.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Minister właściwy do spraw informatyzacji jest odpowiedzialny za zapewnienie ciągłości dostępu do informacji zgromadzonych na stronie głównej BIP.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Podmioty, o których mowa w art. 4 ust. 1 i 2 ustawy, są zobowiązane do zapewnienia ciągłości dostępu do informacji zgromadzonych na ich stronach podmiotowych BIP.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "W przypadku awarii brak dostępności strony głównej BIP dla odwiedzającego stronę nie powinien być dłuższy niż 8 godzin.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "W przypadku awarii brak dostępności strony podmiotowej BIP dla odwiedzającego stronę nie powinien być dłuższy niż 24 godziny.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Przepis końcowy"
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia[^3].",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Spraw Wewnętrznych i Administracji: L. Dorn"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej — informatyzacja, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 lipca 2006 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. Nr 131, poz. 919).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110.",
+  "3": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 17 maja 2002 r. w sprawie Biuletynu Informacji Publicznej (Dz. U. Nr 67, poz. 619), które utraciło moc z dniem 21 stycznia 2007 r. na podstawie art. 63 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565 oraz z 2006 r. Nr 12, poz. 65 i Nr 73, poz. 501)."
+ }
+}

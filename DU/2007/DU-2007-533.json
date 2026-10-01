@@ -1,0 +1,307 @@
+{
+ "eli": "DU/2007/533",
+ "title": "Rozporządzenie Ministra Finansów z dnia 2 kwietnia 2007 r. w sprawie deklaracji na podatek od środków transportowych składanych za pomocą środków komunikacji elektronicznej",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2007/533/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 2 kwietnia 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie deklaracji na podatek od środków transportowych składanych za pomocą środków komunikacji elektronicznej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 ust. 9 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2006 r. Nr 121, poz. 844, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "format elektroniczny deklaracji na podatek od środków transportowych, zwanej dalej „deklaracją”, oraz układ informacji i powiązań między nimi zgodnie z przepisami o informatyzacji działalności podmiotów realizujących zadania publiczne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "sposób przesyłania deklaracji za pomocą środków komunikacji elektronicznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "rodzaj podpisu elektronicznego, którym powinny być opatrzone deklaracje.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "formacie danych XML (XSD) — rozumie się przez to format danych określony w przepisach rozporządzenia Rady Ministrów z dnia 11 października 2005 r. w sprawie minimalnych wymagań dla systemów teleinformatycznych (Dz. U. Nr 212, poz. 1766);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "protokole komunikacyjnym sieci WWW (HTTP) — rozumie się przez to protokół komunikacyjny określony w przepisach rozporządzenia wymienionego w pkt 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "protokole szyfrującym dla sieci WWW (SSL) — rozumie się przez to protokół szyfrujący określony w przepisach rozporządzenia wymienionego w pkt 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "protokole wywoływania zdalnego dostępu do obiektów (SOAP) — rozumie się przez to protokół wywoływania określony w przepisach rozporządzenia wymienionego w pkt 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "języku opisu usług sieciowych (WSDL) — rozumie się przez to język opisu określony w przepisach rozporządzenia wymienionego w pkt 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Format elektroniczny deklaracji określony jest w formacie danych XML (XSD).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Układ informacji i powiązań między nimi w deklaracji w formacie danych XML (XSD) określa załącznik do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Deklaracje mogą być przesyłane z wykorzystaniem:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "strony internetowej, której adres podany jest na stronie Biuletynu Informacji Publicznej właściwej jednostki samorządu terytorialnego, za pomocą protokołu komunikacyjnego sieci WWW (HTTP) szyfrowanego z użyciem protokołu szyfrującego dla sieci WWW (SSL); przesłanie deklaracji wymaga wypełnienia formularza umieszczonego na stronie internetowej, wygenerowania na jego podstawie dokumentu elektronicznego w formacie XML, określonego w załączniku do rozporządzenia, i podpisania go bezpiecznym podpisem elektronicznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "niewizualnego interfejsu dostępnego na stronie internetowej, której adres podany jest na stronie Biuletynu Informacji Publicznej właściwej jednostki samorządu terytorialnego, poprzez zastosowanie protokołu wywoływania zdalnego dostępu do obiektów (SOAP), opisanego językiem opisu usług sieciowych (WSDL), dostępnego przez sieć WWW (HTTP), szyfrowanego z użyciem protokołu szyfrującego dla sieci WWW (SSL); wymaga to przesłania dokumentu elektronicznego w formacie XML, określonego w załączniku do rozporządzenia, w sposób zdefiniowany w dokumencie WSDL i podpisania go bezpiecznym podpisem elektronicznym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Deklaracje są opatrywane bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu w rozumieniu ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, poz. 1450, z późn. zm.[^3]).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Finansów: w z. E. Suchocka-Roguska"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Finansów z dnia 2 kwietnia 2007 r. (poz. 533)",
+   "body": [
+    {
+     "type": "text",
+     "text": "UKŁAD INFORMACJI I POWIĄZAŃ MIĘDZY NIMI W DEKLARACJI NA PODATEK OD ŚRODKÓW TRANSPORTOWYCH W FORMACIE DANYCH XML (XSD)"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"3\"> <xsd:annotation> <xsd:documentation>wygaśnięcie obowiązku podatkowego</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"4\"> <xsd:annotation> <xsd:documentation>zmiana miejsca zamieszkania lub siedziby</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"5\"> <xsd:annotation> <xsd:documentation>korekta deklaracji</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"6\"> <xsd:annotation> <xsd:documentation>przedłużenie okresu czasowego wycofania pojazdu z ruchu</xsd:documentation> </xsd:annotation> </xsd:enumeration> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"MiejsceSkladania\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Nazwa i adres siedziby organu podatkowego</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"PoprzednieMiejsceSkladania\" type=\"TZnakowy\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Nazwa i adres siedziby organu podatkowego, w którym poprzednio składano deklarację lub wykaz WT-1 na podatek od środków transportowych</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> <!-- Typy danych --> <xsd:simpleType name=\"TMasa\"> <xsd:annotation> <xsd:documentation>Masa pojazdu w tonach</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:decimal\"> <xsd:fractionDigits value=\"1\"/> <xsd:totalDigits value=\"3\"/> <xsd:minExclusive value=\"0\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TWybor\"> <xsd:annotation> <xsd:documentation>Zaznaczenie właściwego wyboru lub brak zaznaczenia wyboru</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:byte\"> <xsd:enumeration value=\"0\"> <xsd:annotation> <xsd:documentation>brak zaznaczenia </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1\"> <xsd:annotation> <xsd:documentation>zaznaczenie</xsd:documentation> </xsd:annotation> </xsd:enumeration> </xsd:restriction>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:simpleType> <xsd:simpleType name=\"TKwota\"> <xsd:annotation> <xsd:documentation>Liczba dziesiętna nieujemna z dwoma miejscami po przecinku</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:decimal\"> <xsd:totalDigits value=\"16\"/> <xsd:fractionDigits value=\"2'/> <xsd:minlnclusive value=\"0\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TLiczbyNaturalne\"> <xsd:annotation> <xsd:documentation>Liczby całkowite dodatnie</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:positivelnteger\"> <xsd:totalDigits value=\"14\"/> <xsd:whiteSpace value=\"collapse\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"T Data\" id=\"TData\"> <xsd:annotation> <xsd:documentation>Typ daty</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:date\"> <xsd:minlnclusive value=\"1900-01-01'/> <xsd:whiteSpace value=\"collapse\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TLiczbaOsi\"> <xsd:annotation> <xsd:documentation>Liczba osi pojazdu</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TLiczbyNaturalne\"> <xsd:totalDigits value=\"1\"/> <xsd:maxlnclusive value=\"10\"/> </xsd:restriction> </xsd:simpleType> <xsd:simple Type name=\"TRodzajZawieszenia\"> <xsd:annotation> <xsd:documentation>Rodzaj zawieszenia</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:byte\"> <xsd:enumeration value=\"1\"> <xsd:annotation> <xsd:documentation>pneumatyczne</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"2\"> <xsd:annotation> <xsd:documentation>równoważne z pneumatycznym</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"3\"> <xsd:annotation> <xsd:documentation>inny system zawieszenia</xsd:documentation> </xsd:annotation> </xsd:enumeration> </xsd:restriction> </xsd:simpleType> <xsd:complexType name=\"TWplywPojazdu\"> <xsd:annotation> <xsd:documentation>Wpływ pojazdu silnikowego na środowisko naturalne</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"P_20_1\" minOccurs=\"0\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation> <xsd:documentation>Certyfikat Euro (EKGONZ)</xsd:documentation> </xsd:annotation> <xsd:simple Type> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"Euro0\"/> <xsd:enumeration value=\"Euro1\"/> <xsd:enumeration value=\"Euro2'/> <xsd:enumeration value=\"Euro3\"/> <xsd:enumeration value=\"Euro4'/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"P_20_2\" type=\"TWybor\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>instalacja gazowa</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_20_3\" type=\"TWybor\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>inne</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:complexType name=\"TldZespoluPojazdow\"> <xsd:annotation> <xsd:documentation>Dopuszczalna masa całkowita zespołu pojazdów, liczba osi pojazdu rodzaj zawieszenia</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"P_15\" type=\"TMasa\"> <xsd:annotation> <xsd:documentation>Dopuszczalna masa całkowita zespołu pojazdów</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_16\" type=\"TLiczbaOsi\"> <xsd:annotation> <xsd:documentation>Liczba osi pojazdu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_17\" type=\"TRodzajZawieszenia\"> <xsd:annotation> <xsd:documentation>Rodzaj zawieszenia</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> <!--Dane identyfikacyjne i adres--> <xsd:complexType name=\"TldOsobyFizycznejPelny\"> <xsd:annotation> <xsd:documentation>Pełny zestaw danych identyfikacyjnych o osobie fizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"NIP\" type=\"TNrNIP\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Numer NIP podmiotu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Nazwisko\" type=\"TNazwisko\"> <xsd:annotation> <xsd:documentation>Nazwisko</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"lmiePierwsze\" type=\"Tlmie\"> <xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Pierwsze imię</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"DataUrodzenia\" type=\"TData\"> <xsd:annotation> <xsd:documentation>Data urodzenia</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"lmieOjca\" type=\"TIlmie\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Imie ojca</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"lmieMatki\" type=\"Tlmie\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>lmię matki</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"PESEL\" type=\"TNrPESEL\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Numer PESEL</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:complexType name=\"TldOsobyNiefizycznejPelny\"> <xsd:annotation> <xsd:documentation>Pełny zestaw danych identyfikacyjnych o osobie niefizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"NIP\" type=\"TNrNIP\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Numer NIP podmiotu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"PelnaNazwa\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Peina nazwa</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NazwaSkrocona\"> <xsd:simple Type> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"70\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"REGON\" type=\"TNrREGON\"> <xsd:annotation> <xsd:documentation>Numer REGON</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:complexType name=\"TAdresPolski\"> <xsd:annotation> <xsd:documentation>Informacje opisujące adres polski</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"KodkKraju\" type=\"xsd:string\" fixed=\"PL\"> <xsd:annotation> <xsd:documentation>Kraj</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Wojewodztwo\" type=\"TJednAdmin\"> <xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Województwo</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Powiat\" type=\"TJednAdmin\"> <xsd:annotation> <xsd:documentation>Powiat</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Gmina\" type=\"TJednAdmin\"> <xsd:annotation> <xsd:documentation>Gmina</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Ulica\" type=\"TUlica\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Nazwa ulicy</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NrDomu\" type=\"TNrBudynku\"> <xsd:annotation> <xsd:documentation>Numer budynku</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NrLokalu\" type=\"TNrLokalu\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Numer lokalu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Miejscowosc\" type=\"TMiejscowosc\"> <xsd:annotation> <xsd:documentation>Nazwa miejscowości</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"KodPocztowy\" type=\"TKodPocztowy\"> <xsd:annotation> <xsd:documentation>Kod pocztowy</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Poczta\" type=\"TMiejscowosc\"> <xsd:annotation> <xsd:documentation>Nazwa urzedu pocztowego</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:simpleType name=\"Tlmie\"> <xsd:annotation> <xsd:documentation>Pierwsze imię</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"30'/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TNazwisko\"> <xsd:annotation> <xsd:documentation>Nazwisko</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"81\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TMiejscowosc\"> <xsd:annotation> <xsd:documentation>Typ określający nazwę miejscowości</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:maxLength value=\"56'/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TJednAdmin\"> <xsd:annotation> <xsd:documentation> Typ określający nazwę województwa nazwę powiatu lub nazwę gminy</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"36'/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TUlica\"> <xsd:annotation> <xsd:documentation>Nazwa ulicy</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"65'/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TNrBudynku\"> <xsd:annotation> <xsd:documentation>Numer budynku</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"9\"/> <xsd:pattern value=\"\\w{1,4}(Aw{0,4})?\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TNrLokalu\"> <xsd:annotation> <xsd:documentation>Numer lokalu</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"10'/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TKodPocztowy\"> <xsd:annotation> <xsd:documentation>Kod pocztowy</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"8\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Typ znakowy ograniczony do jednej linii</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:normalizedString\"> <xsd:minLength value=\"1\"/> <xsd:maxLength value=\"240\"/> <xsd:whiteSpace value=\"replace'/> </xsd:restriction> </xsd:simpleType> <!--Typy rejestrowe --> <xsd:simpleType name=\"TNrNIP\"> <xsd:annotation> <xsd:documentation>Numer NIP</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:positivelnteger\"> <xsd:minInclusive value=\"1010000000\"/> <xsd:maxlnclusive value=\"9999999999\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TNrPESEL\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation> <xsd:documentation>Numer PESEL </xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:pattern value=\"\\d{11}\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TNrREGON\"> <xsd:annotation> <xsd:documentation>Numer REGON </xsd:documentation> </xsd:annotation> <xsd:union> <xsd:simple Type> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"\\d{9}\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"\\d{14}\"/> </xsd:restriction> </xsd:simpleType> </xsd:union> </xsd:simpleType> <!-- Deklaracja --> <xsd:element name=\"Deklaracja\"> <xsd:annotation> <xsd:documentation>Element główny deklaracji</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"Naglowek\" type=\"TNaglowek\"> <xsd:annotation> <xsd:documentation>Nagłówek deklaracji</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Podatnik\"> <xsd:annotation> <xsd:documentation>Dane podatnika</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:choice> <xsd:element name=\"OsobaFizyczna\" type=\"TldOsobyFizycznejPelny\"> <xsd:annotation> <xsd:documentation>Osoba fizyczna</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"OsobaPrawna\" type=\"TldOsobyNiefizycznejPelny\"> <xsd:annotation> <xsd:documentation>Osoba prawna</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"JednostkaOrganizacyjna\" type=\"TIdOsobyNiefizycznejPelny\"> <xsd:annotation> <xsd:documentation>Jednostka organizacyjna nieposiadająca osobowości prawnej</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:choice> <xsd:element name=\"AdresSiedzibyZamieszkania\" type=\"TAdresPolski\"> <xsd:annotation> <xsd:documentation>Adres siedziby / Adres zamieszkania</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:complexType> </xsd:element> <xsd:element ref=\"PozycjeSzczegolowe\"> <xsd:annotation> <xsd:documentation>Dane wymiarowe deklaracji</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Pouczenie\" type=\"xsd:string\" fixed=\"W wypadku niewpłacenia w terminach określonych w art.11 ustawy kwoty podatku (raty podatku) od środków transportowych obliczonego w poz.83 i 84 lub wpłacenia jej w niepełnej wysokości niniejsza deklaracja stanowi podstawę do wystawienia tytułu wykonawczego, zgodnie z przepisami ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz.U. z 2005 r. Nr 229, poz.1954, z późn.zm.).\"> <xsd:annotation> <xsd:documentation>Pouczenie</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Oswiadczenie\" type=\"xsd:string\" fixed=\"Oświadczam, że są mi znane przepisy Kodeksu karnego skarbowego o odpowiedzialnosci za podanie danych niezgodnych z rzeczywistością.'> <xsd:annotation> <xsd:documentation>Oświadczenie</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Zalacznik_DT-1A\" maxOccurs=\"unbounded\"> <xsd:complexType> <xsd:sequence> <xsd:annotation> <xsd:documentation>Dane szczegółowe dotyczące środka transportowego</xsd:documentation> </xsd:annotation> <xsd:element name=\"P_1\"> <xsd:annotation> <xsd:documentation>Dane dotyczące własności albo współwłasności</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"xsd:byte\"> <xsd:enumeration value=\"1\"> <xsd:annotation> <xsd:documentation>właściciel</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"2\"> <xsd:annotation> <xsd:documentation>współwłaściciel wpisany jako pierwszy w dowodzie rejestracyjnym</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"3\"> <xsd:annotation> <xsd:documentation>współwłaściciel niewpisany jako pierwszy w dowodzie rejestracyjnym</xsd:documentation> </xsd:annotation> </xsd:enumeration> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"P_3\"> <xsd:annotation> <xsd:documentation>Data pierwszej rejestracji na terytorium RP</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TData\"> <xsd:minInclusive value=\"1900-01-01'/> </xsd:restriction> </xsd:simpleType> </xsd:element>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:element name=\"P_4\"> <xsd:annotation> <xsd:documentation>Numer rejestracyjny pojazdu</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:minLength value=\"1\"/> <xsd:maxLength value=\"15'/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"P_5\"> <xsd:annotation> <xsd:documentation>Numer identyfikacyjny VIN/nadwozia, podwozia lub ramy</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:minLength value=\"1\"/> <xsd:maxLength value=\"30'/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"P_6\"> <xsd:annotation> <xsd:documentation>Marka, typ, model pojazdu</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:minLength value=\"1\"/> <xsd:maxLength value=\"30'/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"P_7\"> <xsd:annotation> <xsd:documentation>Rok produkcji</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"xsd:gYear\"> <xsd:mininclusive value=\"1900\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"P_8\"> <xsd:annotation> <xsd:documentation>Data nabycia</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TData\"> <xsd:minInclusive value=\"2007-01-01\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"P_9\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Data zbycia</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TData\"> <xsd:minInclusive value=\"2007-01-01'/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"P_10\" minOccurs=\"0\"> <xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Data czasowego wycofania z ruchu</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TData\"> <xsd:minlnclusive value=\"2007-01-01'/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"P_11\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Data ponownego dopuszczenia do ruchu</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TData\"> <xsd:minlnclusive value=\"2007-01-01'/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"P_12\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Data wyrejestrowania</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TData\"> <xsd:minInclusive value=\"2007-01-01'/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:choice> <xsd:annotation> <xsd:documentation>Rodzaj Srodka transportowego</xsd:documentation> </xsd:annotation> <xsd:element name=\"P_2_1'> <xsd:annotation> <xsd:documentation>Samochód ciężarowy</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:annotation> <xsd:documentation>samochod ciezarowy</xsd:documentation> </xsd:annotation> <xsd:element name=\"P_13\" type=\"TMasa\"> <xsd:annotation> <xsd:documentation>Dopuszczalna masa całkowita pojazdu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_16\" type=\"TLiczbaOsi\"> <xsd:annotation> <xsd:documentation>Liczba osi pojazdu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_17\" type=\"TRodzajZawieszenia\"> <xsd:annotation> <xsd:documentation>Rodzaj zawieszenia</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_20\" type=\"TWplywPojazdu\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Wpływ pojazdu silnikowego na środowisko naturalne</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> </xsd:element>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:element name=\"P_2_2\"> <xsd:annotation> <xsd:documentation>Ciągnik siodłowy</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"P_14\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Masa własna ciągnika siodłowego</xsd:documentation> </xsd:annotation> <xsd:simple Type> <xsd:restriction base=\"TMasa\"/> </xsd:simpleType> </xsd:element> <xsd:element name=\"P_151617\" type=\"TldZespoluPojazdow\"> <xsd:annotation> <xsd:documentation>Dopuszczalna masa całkowita zespołu pojazdów, liczba osi pojazdu,rodzaj zawieszenia</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_20\" type=\"TWplywPojazdu\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Wpływ pojazdu silnikowego na środowisko naturalne</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"P_2_3'> <xsd:annotation> <xsd:documentation>Ciągnik balastowy</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"P_151617\" type=\"TldZespoluPojazdow\"> <xsd:annotation> <xsd:documentation>Dopuszczalna masa całkowita zespołu pojazdów, liczba osi pojazdu, rodzaj zawieszenia</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_20\" type=\"TWplywPojazdu\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Wpływ pojazdu silnikowego na środowisko naturalne</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"P_2_4\" type=\"TldZespoluPojazdow\"> <xsd:annotation> <xsd:documentation>Przyczepa</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_2_5\" type=\"TldZespoluPojazdow\"> <xsd:annotation> <xsd:documentation>Naczepa</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_2_6'> <xsd:annotation> <xsd:documentation>Autobus</xsd:documentation> </xsd:annotation> <xsd:complexType>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:sequence> <xsd:element name=\"P_19\"> <xsd:annotation> <xsd:documentation>Liczba miejsc do siedzenia</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"xsd:byte\"> <xsd:minExclusive value=\"0\"/> <xsd:maxlnclusive value=\"99\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"P_20\" type=\"TWplywPojazdu\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Wpływ pojazdu silnikowego na środowisko naturalne</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> </xsd:element> </xsd:choice> <xsd:element name=\"P_18\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Opis rodzaju zawieszenia</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:minLength value=\"1\"/> <xsd:maxLength value=\"240\"/> <xsd:enumeration value=\"\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"P_21\"> <xsd:annotation> <xsd:documentation>Kwota podatku</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TKwota\"/> </xsd:simpleType> </xsd:element> <xsd:element name=\"P_22\" type=\"TKwota\"> <xsd:annotation> <xsd:documentation>Kwota podatku zapłaconego</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:complexType> </xsd:element> <|-- Dane wymiarowe --> <xsd:element name=\"PozycjeSzczegolowe\"> <xsd:annotation> <xsd:documentation>Dane dotyczące przedmiotów opodatkowania</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"D.1\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Samochody ciężarowe o dopuszczalnej masie całkowitej od 3.5 tony do 5.5 tony włącznie</xsd:documentation> </xsd:annotation> <xsd:complexT ype>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:sequence> <xsd:element name=\"P_22\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_23\" type=\"TLiczbyNaturalne\" minOccurs=\"0'/> <xsd:element name=\"P_24\" type=\"TLiczbyNaturalne\" minOccurs=\"0'/> <xsd:element name=\"P_25\" type=\"TKwota\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"D.2\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Samochody ciężarowe o dopuszczalnej masie całkowitej powyżej 5.5 tony do 9 ton włącznie</xsd:documentation> </xsd:annotation> <xsd:complexT ype> <xsd:sequence> <xsd:element name=\"P_26\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_27\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_28\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_29\" type=\"TKwota\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"D.3\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Samochody ciężarowe o dopuszczalnej masie całkowitej powyżej 9 ton i poniżej 12 ton</xsd:documentation> </xsd:annotation> <xsd:complexT ype> <xsd:sequence> <xsd:element name=\"P_30\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_31\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_32\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_33\" type=\"TKwota\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"D.4\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Ciągniki siodłowe i balastowe przystosowane do używania łącznie z naczepą lub przyczepą o dopuszczalnej masie całkowitej zespołu pojazdów od 3.5 tony i poniżej 12 ton</xsd:documentation> </xsd:annotation> <xsd:complexT ype> <xsd:sequence> <xsd:element name=\"P_34\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_35\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_36\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_37\" type=\"TKwota'\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"D.5\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Przyczepy i naczepy, które łącznie z pojazdem silnikowym posiadają dopuszczalną masę całkowitą od 7 ton i poniżej 12 ton, z wyjątkiem związanych wyłącznie z działalnością rolniczą prowadzoną przez podatnika podatku rolnego</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"P_38\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_39\" type=\"TLiczbyNaturalne\" minOccurs=\"0'/> <xsd:element name=\"P_40\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P-41\" type=\"TKwota\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"D.6\" minOccurs=\"0\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation> <xsd:documentation>Autobusy z liczbą miejsc do siedzenia mniejszą niż 30</xsd:documentation> </xsd:annotation> <xsd:complexT ype> <xsd:sequence> <xsd:element name=\"P_42\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_43\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_44\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_45\" type=\"TKwota\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"D.7\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Autobusy z liczbą miejsc do siedzenia równą i wyższą niż 30</xsd:documentation> </xsd:annotation> <xsd:complexT ype> <xsd:sequence> <xsd:element name=\"P_46\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_47\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_48\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_49\" type=\"TKwota\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"D.8\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Dwie osie</xsd:documentation> </xsd:annotation> <xsd:complexT ype> <xsd:sequence> <xsd:element name=\"P_50\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_51\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_52\" type=\"TLiczbyNaturalne\" minOccurs=\"0'/> <xsd:element name=\"P_53\" type=\"TKwota\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"D.9\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Trzy osie</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"P_54\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_55\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_56\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_57\" type=\"TKwota\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"D.10\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Cztery osie i więcej</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"P_58\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_59\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_60\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_61\" type=\"TKwota\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"D.11\" minOccurs=\"0\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation> <xsd:documentation>Dwie osie</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"P_62\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_63\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_64\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_65\" type=\"TKwota\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"D.12\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Trzy osie i wiecej</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"P_66\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_67\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_68\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_69\" type=\"TKwota\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"D.13\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Jedna oś</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"P_70\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_71\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_72\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_73\" type=\"TKwota\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"D.14\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Dwie osie</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"P_74\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_75\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_76\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_77\" type=\"TKwota\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"D.15\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Trzy osie i wiecej</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"P_78\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_79\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_80\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_81\" type=\"TKwota\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"P_82\" type=\"TKwota\"> <xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 19 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Razem kwota podatku</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_83\"> <xsd:annotation> <xsd:documentation>Kwota I raty podatku do zapłaty</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TKwota'> <xsd:fractionDigits value=\"0\"/> <xsd:totalDigits value=\"14\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"P_84\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Kwota II raty podatku do zaptaty</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TKwota'> <xsd:totalDigits value=\"14\"/> <xsd.fractionDigits value=\"0\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> </xsd:sequence> </xsd:complexType> </xsd:element> </xsd:schema>"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Finansów kieruje działem administracji rządowej — finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 lipca 2006 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 131, poz. 908 i Nr 169, poz. 1204).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 220, poz. 1601, Nr 225, poz. 1635, Nr 245, poz. 1775, Nr 249, poz. 1828 i Nr 251, poz. 1847.",
+  "3": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 64, poz. 565 oraz z 2006 r. Nr 145, poz. 1050."
+ }
+}

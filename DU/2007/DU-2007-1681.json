@@ -1,0 +1,532 @@
+{
+ "eli": "DU/2007/1681",
+ "title": "Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 28 listopada 2007 r. w sprawie warunków, sposobu oraz trybu gromadzenia i usuwania danych w ramach Elektronicznego Krajowego Systemu Monitoringu Orzekania o Niepełnosprawności",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2007/1681/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 listopada 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie warunków, sposobu oraz trybu gromadzenia i usuwania danych w ramach Elektronicznego Krajowego Systemu Monitoringu Orzekania o Niepełnosprawności"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 6d ust. 6 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. Nr 123, poz. 776, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa szczegółowe warunki, w tym techniczne i organizacyjne, sposób oraz tryb gromadzenia i usuwania danych w ramach Elektronicznego Krajowego Systemu Monitoringu Orzekania o Niepełnosprawności, zwanego dalej „systemem”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "System jest systemem teleinformatycznym budowanym w ramach standardów określonych przepisami ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565 oraz z 2006 r. Nr 12, poz. 65 i Nr 73, poz. 501).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Dla przetwarzania danych osobowych w systemie ustala się wysoki poziom bezpieczeństwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Minister właściwy do spraw zabezpieczenia społecznego zapewnia eksploatację systemu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W systemie użytkuje się 17 baz danych, w tym jedna przeznaczona jest dla Pełnomocnika Rządu do Spraw Osób Niepełnosprawnych, zwanego dalej „Pełnomocnikiem”, i 16 dla wojewódzkich zespołów do spraw orzekania o niepełnosprawności, zwanych dalej „wojewódzkimi zespołami”. Każda baza wojewódzkiego zespołu zawiera wydzielone logicznie bazy powiatowych zespołów do spraw orzekania o niepełnosprawności, zwanych dalej „powiatowymi zespołami”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "W zakresie funkcjonalności system zapewnia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_3/pkt_1",
+       "text": "Pełnomocnikowi — prowadzenie rejestrów szkoleń i kontroli, generowanie sprawozdań, sporządzanie analiz i statystyk, wspomaganie monitoringu procesu orzekania w nadzorowanych przez niego powiatowych i wojewódzkich zespołach i administrowanie systemem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_3/pkt_2",
+       "text": "wojewódzkim zespołom — prowadzenie rejestrów odwołań, orzeczeń, członków wojewódzkiego zespołu, wydatków wojewódzkiego zespołu, szkoleń i kontroli oraz generowanie niezbędnych dokumentów wymaganych w procesie orzekania, okresowe generowanie sprawozdań, wspomaganie monitoringu procesu orzekania w powiatowych zespołach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_3/pkt_3",
+       "text": "powiatowym zespołom — prowadzenie rejestrów wniosków, orzeczeń, odwołań, członków powiatowego zespołu, wydatków powiatowego zespołu oraz legitymacji, generowanie niezbędnych dokumentów wymaganych w procesie orzekania, okresowe generowanie sprawozdań.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "System umożliwia nadawanie uprawnień użytkownikom, zgodnie z przydzielonymi im poziomami dostępu, według następujących zasad:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "poziom I — wprowadzenie danych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "poziom II — wprowadzenie danych i możliwość ich modyfikacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "poziom III — wprowadzenie, modyfikacja oraz usuwanie danych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Obsługę techniczną nadawania i odbierania uprawnień użytkownikom realizuje minister właściwy do spraw zabezpieczenia społecznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "System zapewnia weryfikacje wprowadzanych danych pod względem formatu oraz poprawności merytorycznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "System wyposaża się w mechanizmy uwierzytelniania użytkownika oraz kontroli dostępu do przetwarzanych danych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Dla każdego użytkownika rejestrowany jest w systemie odrębny identyfikator i hasło.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Bezpośredni dostęp do danych w systemie następuje wyłącznie po wprowadzeniu identyfikatora i hasła użytkownika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Identyfikatora użytkownika nie zmienia się, a po wyrejestrowaniu użytkownika z systemu nie przydziela się go innej osobie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "Identyfikator użytkownika, który utracił uprawnienia do dostępu do danych osobowych, należy niezwłocznie wyrejestrować z systemu, unieważnić jego hasło użytkownika oraz podjąć inne działania w celu zapobieżenia dalszemu dostępowi tej osoby do danych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_5/ust_6",
+     "text": "Hasło użytkownika zmieniane jest nie rzadziej niż co 30 dni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_5/ust_7",
+     "text": "Hasło składa się co najmniej z 8 znaków, zawiera małe i wielkie litery oraz cyfry lub znaki specjalne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_5/ust_8",
+     "text": "Hasła użytkownika nie udostępnia się również po upływie jego ważności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Osobą odpowiedzialną za bezpieczeństwo danych osobowych zgromadzonych w systemie, w tym w szczególności za przeciwdziałanie dostępowi osób nieuprawnionych do systemu oraz za podejmowanie odpowiednich działań w przypadku wykrycia naruszeń w systemach zabezpieczeń jest administrator danych, zwany dalej „administratorem”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "W celu zabezpieczenia danych osobowych zgromadzonych w systemie administrator:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "opracowuje instrukcję, określającą sposób zarządzania systemem z uwzględnieniem wymogów bezpieczeństwa informacji, zawierającą w szczególności:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_7/pkt_1/lit_a",
+       "text": "procedury nadawania użytkownikom systemu uprawnień do przetwarzania danych i rejestrowania tych uprawnień w systemie oraz wskazanie osoby odpowiedzialnej za wykonywanie tych czynności,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_7/pkt_1/lit_b",
+       "text": "metody i środki uwierzytelniania oraz procedury związane z ich zarządzaniem i użytkowaniem,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_7/pkt_1/lit_c",
+       "text": "procedury rozpoczęcia, zawieszenia i zakończenia pracy przeznaczone dla użytkowników systemu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_7/pkt_1/lit_d",
+       "text": "procedury tworzenia kopii zapasowych zbiorów danych oraz programów i narzędzi programowych służących do ich przetwarzania,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_7/pkt_1/lit_e",
+       "text": "sposób, miejsce i okres przechowywania elektronicznych nośników informacji zawierających dane osobowe oraz kopii zapasowych, o których mowa w lit. d,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_7/pkt_1/lit_f",
+       "text": "sposób zabezpieczenia systemu przed działalnością oprogramowania, którego celem jest uzyskanie nieuprawnionego dostępu do systemu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_7/pkt_1/lit_g",
+       "text": "procedury wykonywania przeglądów i konserwacji systemu oraz nośników informacji służących do przetwarzania danych;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "identyfikuje i analizuje zagrożenia i ryzyko, na które może być narażone przetwarzanie danych zgromadzonych w systemie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_7/pkt_3",
+     "text": "określa potrzeby w zakresie zabezpieczenia systemu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_7/pkt_4",
+     "text": "określa sposoby zabezpieczenia danych osobowych adekwatnie do zagrożeń i ryzyka;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_7/pkt_5",
+     "text": "monitoruje działanie zabezpieczeń wdrożonych w celu ochrony danych osobowych i ich przetwarzania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_7/pkt_6",
+     "text": "wykrywa i reaguje na przypadki naruszenia bezpieczeństwa danych zgromadzonych w systemie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Dane osobowe przetwarzane w systemie zabezpiecza się przez wykonanie kopii zapasowych zbiorów danych oraz programów służących do przetwarzania danych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Kopie zapasowe należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_2/pkt_1",
+       "text": "przechowywać w miejscach zabezpieczających je przed nieuprawnionym przejęciem, modyfikacją, uszkodzeniem lub zniszczeniem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_2/pkt_2",
+       "text": "niezwłocznie usuwać po ustaniu ich użyteczności.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "System zabezpiecza się w szczególności przed:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_9/pkt_1",
+     "text": "działaniem oprogramowania, którego celem jest uzyskanie nieuprawnionego dostępu do systemu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_9/pkt_2",
+     "text": "utratą danych spowodowaną awarią zasilania lub zakłóceniami w sieci zasilającej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Pomieszczenia lub części pomieszczeń, tworzące obszar, w którym przetwarzane są dane osobowe, wyposaża się w zabezpieczenia techniczne uniemożliwiające utratę zbiorów danych osobowych oraz zabezpieczenia chroniące przed dostępem do nich osób nieuprawnionych, wykorzystaniem przez osoby nieuprawnione, uszkodzeniem lub zniszczeniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Przebywanie osób nieuprawnionych w pomieszczeniach, o których mowa w ust. 1, jest dopuszczalne za zgodą administratora lub w obecności osoby uprawnionej do przetwarzania danych osobowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "System chroni się przed zagrożeniami pochodzącymi z sieci publicznej poprzez wdrożenie fizycznych oraz logicznych zabezpieczeń chroniących przed nieuprawnionym dostępem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Logiczne zabezpieczenia, o których mowa w ust. 1, obejmują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_2/pkt_1",
+       "text": "kontrolę przepływu informacji pomiędzy systemem a siecią publiczną;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_2/pkt_2",
+       "text": "kontrolę działań inicjowanych z sieci publicznej i systemu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Dla danych przesyłanych w sieci publicznej stosuje się środki kryptograficznej ochrony.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Dla każdej osoby, której dane są przetwarzane w systemie, system zapewnia spójne odnotowanie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_1/pkt_1",
+       "text": "daty wprowadzenia pierwszych i kolejnych danych tej osoby;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_1/pkt_2",
+       "text": "identyfikatora użytkownika wprowadzającego dane;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_1/pkt_3",
+       "text": "informacji komu, kiedy, w jakim zakresie i przez kogo zostały udostępnione dane zgromadzone w systemie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Odnotowanie informacji, o których mowa w ust. 1 pkt 1 i 2, następuje automatycznie po zatwierdzeniu przez użytkownika operacji wprowadzenia danych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Dla każdej osoby, której dane osobowe są przetwarzane w systemie, system zapewnia sporządzenie i wydrukowanie raportu zawierającego w powszechnie zrozumiałej formie informacje, o których mowa w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Urządzenia lub elektroniczne nośniki informacji, zawierające dane osobowe, przeznaczone do naprawy, pozbawia się wcześniej zapisu tych danych w sposób uniemożliwiający ich odzyskanie albo naprawia się je pod nadzorem osoby upoważnionej przez administratora.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Urządzenia lub elektroniczne nośniki informacji, zawierające dane osobowe, przeznaczone do usunięcia z systemu, pozbawia się zapisu tych danych, a w przypadku gdy nie jest to możliwe, uszkadza w sposób uniemożliwiający ich odczytanie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Pracy i Polityki Społecznej: J. Fedak"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Pracy i Polityki Społecznej kieruje działem administracji rządowej — zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Pracy i Polityki Społecznej (Dz. U. Nr 216, poz. 1598).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1082, z 1998 r. Nr 99, poz. 628, Nr 106, poz. 668, Nr 137, poz. 887, Nr 156, poz. 1019 i Nr 162, poz. 1118 i 1126, z 1999 r. Nr 49, poz. 486, Nr 90, poz. 1001, Nr 95, poz. 1101 i Nr 111, poz. 1280, z 2000 r. Nr 48, poz. 550 i Nr 119, poz. 1249, z 2001 r. Nr 39, poz. 459, Nr 100, poz. 1080, Nr 125, poz. 1368, Nr 129, poz. 1444 i Nr 154, poz. 1792 i 1800, z 2002 r. Nr 169, poz. 1387, Nr 200, poz. 1679 i 1683 i Nr 241, poz. 2074, z 2003 r. Nr 7, poz. 79, Nr 90, poz. 844, Nr 223, poz. 2217 i Nr 228, poz. 2262, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001 i Nr 240, poz. 2407, z 2005 r. Nr 44, poz. 422, Nr 132, poz. 1110, Nr 163, poz. 1362, Nr 164, poz. 1366 i Nr 167, poz. 1398, z 2006 r. Nr 63, poz. 440, Nr 94, poz. 651 i Nr 170, poz. 1217 oraz z 2007 r. Nr 23, poz. 144, Nr 115, poz. 791 i Nr 181, poz. 1288."
+ }
+}
