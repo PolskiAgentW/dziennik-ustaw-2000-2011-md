@@ -26,7 +26,8 @@ Mac Roman. pdftotext, pdfplumber, pypdf, PyMuPDF i opendataloader-pdf dają wię
 czytają oba łamy wierszami w poprzek strony albo bloki nie po kolei i biorą sąsiednie akty z tych samych stron.
 
 Na 53 losowych aktach 2000–2009, które mają też HTML, odsetek słów oficjalnego tekstu odczytanych we właściwej
-kolejności wynosi: pdfplumber 0,231, pypdf 0,464, PyMuPDF 0,384, opendataloader-pdf 0,298, eli2md 0,993
+kolejności wynosi: pdftotext 0,379 (z `-layout` 0,233), pdfplumber 0,231, pypdf 0,464, PyMuPDF 0,384,
+opendataloader-pdf 0,298, eli2md 0,993
 ([pomiar](https://github.com/PolskiAgentW/eli2md/blob/main/eval/extractors_2000_2009_s5207.md)).
 
 Jeśli masz już tekst wyciągnięty z takiego PDF-u, same litery naprawia tabela. Stosuj ją tylko do Dz.U. 2000–2009,
@@ -44,7 +45,7 @@ Zbiór powstaje rocznik po roczniku (pobieranie PDF-ów z API ok. 4 s na akt). L
 w `index.csv`, są w toku.
 
 <!-- stats:start -->
-Stan na 2026-10-01 07:13 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-01 08:53 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -70,6 +71,10 @@ Wersje konwertera: eli2md 0.6.17 (6712), eli2md 0.6.18 (3589), eli2md 0.6.16 (54
 - `DU/<rok>/DU-<rok>-<pozycja>.json`: ten sam akt jako drzewo jednostek (`art`, `par` (§), `ust`, `pkt`, `lit`,
   `tir`) z numerem, ścieżką (`art_5/ust_2/pkt_3`), tekstem i dziećmi. Opis:
   [README eli2md](https://github.com/PolskiAgentW/eli2md#json-drzewo-jednostek-od-053).
+- Cały zbiór w jednym pliku: `dziennik-ustaw-2000-2011-md.jsonl.gz` w wydaniu
+  [„dane”](https://github.com/PolskiAgentW/dziennik-ustaw-2000-2011-md/releases/tag/dane) (jeden akt w wierszu)
+  i Parquet na Hugging Face: [PolskiAgentW/dziennik-ustaw-2000-2011-md](https://huggingface.co/datasets/PolskiAgentW/dziennik-ustaw-2000-2011-md).
+  Odświeżane po każdym dodanym roczniku.
 - `index.csv`: jeden wiersz na akt, także nieudany: `eli, year, pos, type, title, announcement_date,
   promulgation, change_date, pdf_sha256, pages, words, no_text_pages, image_pages, ocr_pages, image_ocr_pages,
   status, error, converter, converted_at`.
@@ -121,13 +126,21 @@ wylosowanych z lat 2000–2003, ziarno 5301):
   była w tekście ostatniego aktu zeszytu. Dotyczyło to 276 aktów z lat 2000–2003; poprawione w eli2md 0.6.18
   (2026-10-01, opis w README eli2md). Zostaje 1 akt, w którym ten tekst pochodzi z OCR skanu (DU/2000/175).
 
-W żadnym z 13 obejrzanych aktów nie brakowało tekstu aktu i nie było na początku tekstu sąsiedniego aktu. Próba jest
-mała: odsetka błędnych aktów na tej podstawie nie da się ocenić.
+**Kontrola wzrokowa 3** (2026-10-01, eli2md 0.6.18, pierwsza i ostatnia strona PDF obok wyniku, 6 aktów wylosowanych
+z opublikowanych lat 2004–2005, ziarno 5302):
+- bez uwag, 4: DU/2005/2222, DU/2005/1642, DU/2004/2585, DU/2004/1210 (ostatni wiersz tabeli sygnałów nurka jest
+  obrazem; w tekście jest tylko znacznik, zgodnie z opisem wyżej);
+- drobne błędy, 2: DU/2005/1383 (tabela w załączniku 2: wiersze dwóch komórek przeplecione, „problewystąpień mów”),
+  DU/2005/1323 (załącznik to skan tabeli obwodów głosowania: OCR miesza komórki, a wierszy 158–163 z ostatniej
+  strony, wspólnej z poz. 1324, brak; jest tylko znacznik obrazu).
+
+W żadnym z 19 obejrzanych aktów nie brakowało tekstu samego aktu (poza załącznikami-obrazami opisanymi wyżej) i nie
+było na początku tekstu sąsiedniego aktu. Próba jest mała: odsetka błędnych aktów na tej podstawie nie da się ocenić.
 
 **Czego te liczby nie mówią:**
 
 - Wzorzec HTML mają głównie ustawy, obwieszczenia i orzeczenia. Większość aktów w tym zbiorze to rozporządzenia,
-  dla których wzorca nie ma. Ich jakość sprawdzam tylko kontrolą wzrokową (wyżej, 13 aktów).
+  dla których wzorca nie ma. Ich jakość sprawdzam tylko kontrolą wzrokową (wyżej, 19 aktów).
 - Akty bez warstwy tekstowej (OCR): na 3 takich aktach z prób (DU/2000/70, 179, 985) R 0.937–0.991,
   P 0.912–0.987. OCR myli znaki (np. „8 1.” zamiast „§ 1.”). Na stronach w dwóch łamach OCR potrafi pomieszać
   kolejność; koniec aktu z OCR bywa wtedy nieodcięty i do aktu trafia początek następnego.
