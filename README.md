@@ -24,7 +24,7 @@ Zbiór powstaje rocznik po roczniku (pobieranie PDF-ów z API ok. 4 s na akt). L
 w `index.csv`, są w toku.
 
 <!-- stats:start -->
-Stan na 2026-10-01 03:17 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-01 06:17 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -33,12 +33,13 @@ Stan na 2026-10-01 03:17 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2002 | 1763 | 1763 | 0 |
 | 2003 | 2007 | 2007 | 0 |
 | 2004 | 2511 | 2511 | 0 |
+| 2005 | 1951 | 1951 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 1782, razem 23531 z 64266 stron. Tekst z OCR (oznaczony) ma 22170 z nich w 1738 aktach; treści pozostałych brak.
-Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 2362.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 2055, razem 28639 z 80712 stron. Tekst z OCR (oznaczony) ma 27083 z nich w 1999 aktach; treści pozostałych brak.
+Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 2888.
 
-Rodzaje aktów: Rozporządzenie 8321, Oświadczenie rządowe 292, Umowa międzynarodowa 132, Konwencja 50, Protokół 39, Porozumienie 19, Uchwała 11, Postanowienie 10, Dokument wypowiedzenia 8, Traktat 7, Decyzja 2, Ustawa 1, Deklaracja 1, Statut 1.
-Wersje konwertera: eli2md 0.6.17 (6712), eli2md 0.6.18 (1638), eli2md 0.6.16 (544).
+Rodzaje aktów: Rozporządzenie 10072, Oświadczenie rządowe 370, Umowa międzynarodowa 165, Konwencja 71, Protokół 53, Obwieszczenie 39, Porozumienie 25, Uchwała 15, Postanowienie 14, Traktat 8, Dokument wypowiedzenia 8, Decyzja 2, Ustawa 1, Deklaracja 1, Statut 1.
+Wersje konwertera: eli2md 0.6.17 (6712), eli2md 0.6.18 (3589), eli2md 0.6.16 (544).
 <!-- stats:end -->
 
 ## Zawartość

@@ -1,0 +1,402 @@
+{
+ "eli": "DU/2005/1351",
+ "title": "Rozporządzenie Ministra Infrastruktury z dnia 11 sierpnia 2005 r. w sprawie zakresu usługi zapewnienia minimalnego zestawu łączy dzierżawionych",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/1351/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 sierpnia 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zakresu usługi zapewnienia minimalnego zestawu łączy dzierżawionych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 47 ust. 9 ustawy z dnia 16 lipca 2004 r. — Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800 i Nr 273, poz. 2703) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa zakres usługi obejmującej zapewnienie minimalnego zestawu łączy dzierżawionych oraz ich parametry techniczne.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Określenia użyte w rozporządzeniu oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "analogowe łącza telekomunikacyjne specjalnej jakości — łącza telekomunikacyjne, które spełniają wymagania zawarte w normach przenoszących normy ETSI EN 300 449 V1.2.1:2002U i ETSI EN 300 452 V1.2.1:2002U;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "analogowe łącza telekomunikacyjne zwykłej jakości — łącza telekomunikacyjne, które spełniają wymagania zawarte w normach przenoszących normy ETSI EN 300 448 V1.2.1:2002U i ETSI EN 300 451 V1.2.1:2002U;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "bitowa stopa błędów — stosunek liczby błędnych bitów odebranych do liczby wszystkich odebranych bitów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "blok — grupę następujących po sobie bitów, przy czym każdy bit może należeć tylko do jednego bloku;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "blok uszkodzony — blok, w którym którykolwiek z należących do niego bitów jest błędny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "maksymalny czas odtwarzania usługi — maksymalny czas, w którym funkcje spełniane przez uszkodzone cyfrowe łącze telekomunikacyjne przejęte zostaną przez inny element sieci telekomunikacyjnej lub uszkodzone łącze zostanie naprawione;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "okres niedostępności — okres następujących po sobie kolejno co najmniej dziesięciu sekund ze znaczącym błędem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "sekunda z błędem — sekundę, w której wystąpił co najmniej jeden błędny bit;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "sekunda ze znaczącym błędem — sekundę, w której wartość bitowej stopy błędów przekroczyła 10 –3 lub co najmniej 30 % bloków jest uszkodzonych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "transmisja przeźroczysta — transmisję, w której ciąg bitów pojawiający się na wyjściu jest, w granicach dopuszczalnej stopy błędów, identyczny z ciągiem bitów wprowadzonym na wejściu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Minimalny zestaw rodzajów łączy telekomunikacyjnych, dla świadczenia usługi dzierżawy łączy telekomunikacyjnych, powinien zawierać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "cyfrowe łącza telekomunikacyjne klasy standardowej, o przepływnościach: n × 64 kbit/s (gdzie n = 1...31), 34 Mbit/s, 140 Mbit/s lub 155 Mbit/s;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "cyfrowe łącze telekomunikacyjne klasy standardowej, o przepływności 2048 kbit/s, podzielonej na kanały po 64 kbit/s (łącza strukturalne 2 Mbit/s);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "cyfrowe łącze telekomunikacyjne klasy standardowej, o przepływności 2048 kbit/s, niepodzielonej na kanały (łącza niestrukturalne 2 Mbit/s);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "dwuprzewodowe i czteroprzewodowe analogowe łącza telekomunikacyjne dla pasma 300 Hz—3400 Hz o zwykłej i specjalnej jakości — w przypadku operatorów publicznych stacjonarnych sieci telefonicznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Parametry techniczne dla cyfrowych łączy telekomunikacyjnych określa się przez standardy jakościowe i wymagania dotyczące dostępności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Cyfrowe łącza telekomunikacyjne powinny zapewnić transmisję przeźroczystą między punktami końcowymi łącza.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Standardy jakościowe cyfrowych łączy telekomunikacyjnych określa się za pomocą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "bitowej stopy błędów, zwanej dalej „BER”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "sekundy z błędem, zwanej dalej „ES”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "sekundy ze znaczącym błędem, zwanej dalej „SES”.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Wartość maksymalna BER dla łącza cyfrowego wynosi 10 –6 .",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Wartości ES i SES pozwalające na przekazanie cyfrowego łącza telekomunikacyjnego do eksploatacji oraz maksymalne wartości ES i SES w trakcie eksploatacji cyfrowego łącza telekomunikacyjnego określa załącznik nr 1 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Dostępność cyfrowych łączy dzierżawionych klasy standardowej w zależności od ich długości (L) określa się przez wyznaczenie maksymalnej długości okresu niedostępności i liczby okresów niedostępności dla pojedynczego łącza, średniej długości okresu niedostępności i liczby okresów niedostępności wszystkich łączy tej klasy wydzierżawianych użytkownikom przez jednego operatora w ramach świadczenia usługi dzierżawy łączy telekomunikacyjnych oraz przez maksymalny czas odtwarzania usługi.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Długość łącza L ≤ 500 km"
+      },
+      {
+       "type": "text",
+       "text": "Długość okresu niedostępności 20 × 10 –4"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Ustala się maksymalną długość okresu niedostępności w okresie kolejnych 12 miesięcy dla poje-",
+     "children": [
+      {
+       "type": "text",
+       "text": "Długość łącza L ≤ 500 km"
+      },
+      {
+       "type": "text",
+       "text": "Długość okresu niedostępności 99 × 10 –4"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Ustala się średnią liczbę okresów niedostępności wszystkich cyfrowych łączy telekomunikacyjnych klasy standardowej, wydzierżawianych użytkownikom",
+     "children": [
+      {
+       "type": "text",
+       "text": "Długość łącza L ≤ 500 km"
+      },
+      {
+       "type": "text",
+       "text": "Liczba okresów niedostępności 99"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_6/ust_5",
+     "text": "Ustala się maksymalną liczbę okresów niedostępności w okresie kolejnych 12 miesięcy dla poje-",
+     "children": [
+      {
+       "type": "text",
+       "text": "Długość łącza L ≤ 500 km"
+      },
+      {
+       "type": "text",
+       "text": "Liczba okresów niedostępności 501"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_6/ust_6",
+     "text": "Maksymalny czas odtwarzania usługi w przypadku łącza cyfrowego klasy standardowej wynosi 24 godziny od momentu zgłoszenia usterki lub awarii.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Z zastrzeżeniem § 5 i 6, parametry techniczne łączy dzierżawionych, wchodzących w skład minimalnego zestawu łączy dzierżawionych, określają normy przenoszące normy określone w załączniku nr 2 do rozporządzenia.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Ustala się średnią długość okresu niedostępności wszystkich cyfrowych łączy telekomunikacyjnych klasy standardowej, wydzierżawianych użytkownikom przez jednego operatora w ramach świadczenia usługi dzierżawy łączy telekomunikacyjnych w roku kalendarzowym:",
+     "children": [
+      {
+       "type": "text",
+       "text": "500 km < L ≤ 1000 km 1000 km < L"
+      },
+      {
+       "type": "text",
+       "text": "40 × 10 60 × 10 –4 –4"
+      },
+      {
+       "type": "text",
+       "text": "dynczego cyfrowego łącza telekomunikacyjnego klasy standardowej, dzierżawionego przez użytkownika:"
+      },
+      {
+       "type": "text",
+       "text": "500 km < L ≤ 1000 km 1000 km < L"
+      },
+      {
+       "type": "text",
+       "text": "146 × 10 193 × 10 –4 –4"
+      },
+      {
+       "type": "text",
+       "text": "przez jednego operatora w ramach świadczenia usługi dzierżawy łączy telekomunikacyjnych w roku kalendarzowym:"
+      },
+      {
+       "type": "text",
+       "text": "500 km < L ≤ 1000 km 1000 km < L"
+      },
+      {
+       "type": "text",
+       "text": "141 183"
+      },
+      {
+       "type": "text",
+       "text": "dynczego cyfrowego łącza telekomunikacyjnego klasy standardowej, dzierżawionego przez użytkownika:"
+      },
+      {
+       "type": "text",
+       "text": "500 km < L ≤ 1000 km 1000 km < L"
+      },
+      {
+       "type": "text",
+       "text": "559 617"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Traci moc rozporządzenie Ministra Infrastruktury z dnia 29 kwietnia 2004 r. w sprawie usługi dzierżawy łączy telekomunikacyjnych (Dz. U. Nr 118, poz. 1234).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Rozporządzenie wchodzi w życie z dniem 3 września 2005 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Infrastruktury: K. Opawski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Infrastruktury z dnia 11 sierpnia 2005 r. (poz. 1351) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WARTOŚCI ES I SES POZWALAJĄCE NA PRZEKAZANIE CYFROWEGO ŁĄCZA TELEKOMUNIKACYJNEGO DO EKSPLOATACJI ORAZ MAKSYMALNE WARTOŚCI ES I SES W TRAKCIE EKSPLOATACJI CYFROWEGO ŁĄCZA TELEKOMUNIKACYJNEGO"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Infrastruktury kieruje działem administracji rządowej — łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 czerwca 2004 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. Nr 134, poz. 1429)."
+ }
+}

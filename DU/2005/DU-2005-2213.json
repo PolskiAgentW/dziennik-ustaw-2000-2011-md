@@ -1,0 +1,176 @@
+{
+ "eli": "DU/2005/2213",
+ "title": "Rozporządzenie Rady Ministrów z dnia 27 grudnia 2005 r. zmieniające rozporządzenie w sprawie algorytmu ustalania kwot środków Funduszu Pracy na finansowanie zadań w województwie",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/2213/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 grudnia 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające rozporządzenie w sprawie algorytmu ustalania kwot środków Funduszu Pracy na finansowanie zadań w województwie"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 109 ust. 11 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. Nr 99, poz. 1001, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Rady Ministrów z dnia 28 września 2004 r. w sprawie algorytmu ustalania kwot środków Funduszu Pracy na finansowanie zadań w województwie (Dz. U. Nr 224, poz. 2273) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 2 ust. 1 i 2 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Kwoty środków Funduszu Pracy, jakie mogą być wydatkowane w roku budżetowym na finansowanie zadań w województwie realizowanych przez samorządy powiatowe, ustala się dla następujących zadań, w zakresie nieprzewidzianym do realizacji i finansowania przez ministra, samorządy województw, wojewodów i Ochotnicze Hufce Pracy, określonych w art. 108 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, zwanej dalej „ustawą”:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) w pkt 8—14, 16—25, 41, 42 i 48 — dotyczących finansowania programów na rzecz promocji zatrudnienia, łagodzenia skutków bezrobocia i aktywizacji zawodowej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w pkt 1, 2, 6, 27, 30—34, 36—38 i 43 — dotyczących finansowania innych fakultatywnych zadań;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) w pkt 4a — dotyczącym finansowania w 2006 r. i 2007 r. wynagrodzeń i składek na ubezpieczenia społeczne pracowników powiatowych urzędów pracy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Kwoty środków Funduszu Pracy, jakie mogą być wydatkowane w roku budżetowym na finansowanie zadań w województwie realizowanych przez samorządy województw, ustala się dla następujących zadań, określonych w art. 108 ust. 1 ustawy:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) w pkt 2, 6, 27, 30, 31, 33—36a, 38 i 43 — w zakresie nieprzewidzianym do realizacji i finansowania przez ministra, wojewodów, samorządy powiatowe i Ochotnicze Hufce Pracy;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w pkt 4 — do wysokości określonej w umowie, o której mowa w art. 109 ust. 7 ustawy.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "§ 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 3. Kwotę środków Funduszu Pracy, jaka może być wydatkowana w roku budżetowym na finansowanie zadań w województwie, wymienionych w § 2 ust. 1 pkt 1, realizowanych przez samorządy powiatowe, ustala się według następującego wzoru algorytmu:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "(Ldw x 1,3 + Law + Lpw x 0,8) x Wk x Wo n n n n n Ap = 0,9 x Pa x ———————————————————————— + Pm x U n ¹⁶Σ {(Ldw x 1,3 + Law + Lpw x 0,8) x Wk x Wo } n = 1 n n n n n",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "gdzie znaczenie poszczególnych symboli jest następujące:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Ap — kwota środków Funduszu Pracy, jaka może być wydatkowana na finansowanie zadań w województwie wymienionych w § 2 ust. 1 pkt 1,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Pa — określona w planie Funduszu Pracy kwota środków na realizację w roku budżetowym zadań, o których mowa w § 2 ust. 1 pkt 1, pomniejszona o kwotę ustaloną na realizację tych zadań przez ministra, samorządy województw i Ochotnicze Hufce Pracy oraz pomniejszona o planowaną kwotę przychodów ze środków Unii Europejskiej z tytułu realizacji projektów współfinansowanych z Europejskiego Funduszu Społecznego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Ldw — liczba bezrobotnych powyżej 50. roku n życia zarejestrowanych w powiatowych urzędach pracy województwa, według stanu na dzień 30 września roku poprzedzającego rok, dla którego jest ustalana wysokość środków Funduszu Pracy, zwanego dalej „rokiem poprzednim”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Law — liczba bezrobotnych do 25. roku życia n zarejestrowanych w powiatowych urzędach pracy województwa, według stanu na dzień 30 września roku poprzedniego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Lpw — liczba bezrobotnych zarejestrowan nych w powiatowych urzędach pracy województwa, zmniejszona o liczbę bezrobotnych powyżej 50. roku życia (Ldw) oraz bezrobotnych do 25. roku życia (Law), według stanu na dzień 30 września roku poprzedniego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wk — współczynnik korygujący wynoszący n 1,0 dla województwa o najniższej stopie bezrobocia, według stanu na dzień 30 września roku poprzedniego, i zwiększony dla pozostałych województw o 0,002 za każdą 0,1 punktu procentowego stopy bezrobocia w województwie ponad stopę bezrobocia w województwie o najniższej stopie bezrobocia,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wo — współczynnik korygujący ustalony jan ko iloraz liczby wyrejestrowanych bezrobotnych (odpływ) w powiatowych urzędach pracy województwa w okresie 12 miesięcy poprzedzających dzień 1 października roku poprzedniego do liczby nowo zarejestrowanych w tym okresie bezrobotnych (napływ) w powiatowych urzędach pracy województwa,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Pm — planowana na rok budżetowy kwota przychodów Funduszu Pracy ze środków Unii Europejskiej z tytułu realizacji projektów współfinansowanych z Europejskiego Funduszu Społecznego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "U — wskaźnik ustalony jako iloraz kwoty n środków Funduszu Pracy przeznaczonej w województwie w roku poprzednim na realizację projektów współfinansowanych z Europejskiego Funduszu Społecznego powiększonej o kwotę przychodów Funduszu Pracy ze środków Unii Europejskiej uzyskaną w roku poprzednim z tytułu realizacji w województwie tych projektów oraz kwoty środków Funduszu Pracy przeznaczonej w roku poprzednim na realizację we wszystkich województwach projektów współfinansowanych z Europejskiego Funduszu Społecznego powiększonej o kwotę przychodów Funduszu Pracy ze środków Unii Europejskiej uzyskaną w roku poprzednim z tytułu realizacji we wszystkich województwach tych projektów,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "n — oznacza dane województwo.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 7 ust. 6 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„6. Minister, na wniosek marszałka województwa lub starosty (prezydenta miasta), złożony do dnia 30 listopada, może zmniejszyć kwotę środków Funduszu Pracy ustaloną dla samorządu województwa lub powiatu na realizację zadań, o których mowa w § 2 ust. 1 i 2, jeżeli ich wykorzystanie w roku budżetowym nie jest możliwe lub byłoby nieefektywne. Kwota, o którą zmniejszono środki dla samorządu województwa lub powiatu, na wniosek marszałka województwa, jest przyznawana innemu samorządowi powiatowemu, a w przypadku braku takiej możliwości zwiększa rezerwę, o której mowa w ust. 1.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: K. Marcinkiewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 64, poz. 565, Nr 94, poz. 788, Nr 164, poz. 1366 i Nr 175, poz. 1462."
+ }
+}

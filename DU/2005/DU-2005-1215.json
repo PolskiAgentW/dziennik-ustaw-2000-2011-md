@@ -1,0 +1,596 @@
+{
+ "eli": "DU/2005/1215",
+ "title": "Rozporządzenie Ministra Infrastruktury z dnia 14 lipca 2005 r. w sprawie planu numeracji krajowej dla publicznych sieci telefonicznych",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/1215/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 lipca 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie planu numeracji krajowej dla publicznych sieci telefonicznych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 126 ust. 12 pkt 1 ustawy z dnia 16 lipca 2004 r. — Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800 i Nr 273, poz. 2703) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Ustala się plan numeracji krajowej dla publicznych sieci telefonicznych składający się z:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_1/pkt_1",
+       "text": "zakresów numeracji i formatów numerów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "wskaźników obszarów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_1/pkt_3",
+       "text": "wskaźników sieci telekomunikacyjnych lub usług telekomunikacyjnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Plan, o którym mowa w ust. 1, stanowi załącznik do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.[^2]",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Infrastruktury: K. Opawski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Infrastruktury z dnia 14 lipca 2005 r. (poz. 1215)",
+   "body": [
+    {
+     "type": "text",
+     "text": "PLAN NUMERACJI KRAJOWEJ DLA PUBLICZNYCH SIECI TELEFONICZNYCH *"
+    },
+    {
+     "type": "text",
+     "text": "(PNK—TF) Część A"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "NUMERACJA W PUBLICZNYCH SIECIACH TELEFONICZNYCH",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. Określenia charakteryzujące numerację"
+      },
+      {
+       "type": "text",
+       "text": "1.1.1. Prefiks krajowy jest to cyfra lub kombinacja cyfr wybieranych przez abonenta w celu przejścia z poziomu numeracji strefowej na poziom numeracji krajowej (w stacjonarnej publicznej sieci telefonicznej — cyfra „0”)."
+      },
+      {
+       "type": "text",
+       "text": "1.1.2. Prefiks międzynarodowy są to cyfry „00”, wybierane przed numerem międzynarodowym."
+      },
+      {
+       "type": "text",
+       "text": "1.1.3. Strefa numeracyjna, zwana dalej „SN”, jest to część obszaru kraju będąca częścią stacjonarnej publicznej sieci telefonicznej, zwanej dalej „siecią stacjonarną”, charakteryzująca się następującymi cechami:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "każdemu obszarowi SN w numeracji krajowej przyporządkowany jest jeden wskaźnik strefy numeracyjnej (WSN), określony w pkt 1.1.4, identyfikujący daną SN; w przypadkach uzasadnionych potrzebami wynikającymi z wprowadzenia wybierania numeru krajowego dopuszcza się stosowanie jednego WSN dla kilku SN i wyróżnianie tych SN za pomocą pierwszych trzech cyfr numeru krajowego oznaczonych symbolicznie „ABS”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "na obszarze SN stosowana jest numeracja skryta abonentów; abonenci zlokalizowani w SN, realizując w sposób automatyczny połączenia strefowe, wybierają numer strefowy (NST), określony w pkt 1.1.9, z zastrzeżeniem pkt 1.2.3.2.",
+       "children": [
+        {
+         "type": "text",
+         "text": "1.1.4. Wskaźnik strefy numeracyjnej, zwany dalej „WSN”, jest to kombinacja dwóch cyfr (AB) przyporządkowana strefie numeracyjnej, wyróżniająca daną SN w sieci stacjonarnej."
+        },
+        {
+         "type": "text",
+         "text": "1.1.5. Wyróżnik sieci, zwany dalej „WST”, jest to kombinacja dwóch cyfr (AB) wyróżniająca sieć lub usługę."
+        },
+        {
+         "type": "text",
+         "text": "1.1.6. Numer dostępu dostawcy usług, zwany dalej „NDS”, jest to kombinacja cyfr umożliwiająca wybór dostawcy usług."
+        },
+        {
+         "type": "text",
+         "text": "1.1.7. Numer międzynarodowy, zwany dalej „MNA”, jest to numer identyfikujący kraj i zakończenie sieci w tym kraju, maksymalnie 15 cyfr."
+        },
+        {
+         "type": "text",
+         "text": "1.1.8. Numer krajowy, zwany dalej „KNA”, jest to kombinacja cyfr identyfikująca zakończenie sieci, zawierająca WSN lub WST oraz pozostałe cyfry numeru zakończenia sieci."
+        },
+        {
+         "type": "text",
+         "text": "1.1.9. Numer strefowy, zwany dalej „NST”, jest to numer identyfikujący zakończenie sieci w strefie numeracyjnej."
+        },
+        {
+         "type": "text",
+         "text": "1.1.10. Numer abonenckiej usługi specjalnej, zwany dalej numerem „AUS”, jest to numer przeznaczony dla usługi, świadczonej w sieci stacjonarnej, polegającej na udzielaniu różnych informacji, przyjmowaniu zleceń oraz przyjmowaniu wywołań alarmowych dotyczących wypadków i innych zagrożeń."
+        },
+        {
+         "type": "text",
+         "text": "1.1.11. Plan numeracji otwarty jest to plan, w którym, w publicznej sieci telefonicznej, występują dwa poziomy numeracji — numeracja strefowa i numeracja krajowa."
+        },
+        {
+         "type": "text",
+         "text": "1.1.12. Plan numeracji zamknięty jest to plan, w którym, w publicznej sieci telefonicznej, występuje jeden poziom numeracji — numeracja krajowa."
+        },
+        {
+         "type": "text",
+         "text": "1.2. Formaty numerów i schematy wybierania"
+        },
+        {
+         "type": "text",
+         "text": "1.2.1. Numer międzynarodowy"
+        },
+        {
+         "type": "text",
+         "text": "1.2.1.1. Ustala się format numeru międzynarodowego: MNA = CC + KNA, gdzie: CC — wskaźnik (kod) kraju (Country Code)."
+        },
+        {
+         "type": "text",
+         "text": "1.2.1.2. Określa się schemat wybierania numeru międzynarodowego:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "z sieci stacjonarnej: ~ 0 ≈ 0 + MNA, gdzie: ~ sygnał zgłoszenia, ≈ drugi sygnał zgłoszenia, ~ 0 ≈ NDS + 00 + MNA;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "z ruchomej publicznej sieci telefonicznej, zwanej dalej „siecią ruchomą”: 00 + MNA, NDS + 00 + MNA, w przypadku wydania przez Prezesa Urzędu Regulacji Telekomunikacji i Poczty decyzji na podstawie art. 72 ust. 3 ustawy z dnia 16 lipca 2004 r. — Prawo telekomunikacyjne.",
+       "children": [
+        {
+         "type": "text",
+         "text": "1.2.2. Numer krajowy"
+        },
+        {
+         "type": "text",
+         "text": "1.2.2.1. Ustala się formaty numeru krajowego: KNA = WSN + numer zakończenia sieci właściwy dla danej SN, KNA = WST + pozostałe cyfry numeru zakończenia sieci, gdzie: WSN = AB i WST = AB, a cyfra A przyjmuje wartości od 1 do 9."
+        },
+        {
+         "type": "text",
+         "text": "1.2.2.2. Określa się schematy wybierania numeru krajowego:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "z sieci stacjonarnej: ~ 0 ≈ KNA, ~ 0 ≈ NDS + KNA;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "z ruchomej sieci: KNA, NDS + KNA, w przypadku wydania przez Prezesa Urzędu Regulacji Telekomunikacji i Poczty decyzji na podstawie art. 72 ust. 3 ustawy z dnia 16 lipca 2004 r. — Prawo telekomunikacyjne.",
+       "children": [
+        {
+         "type": "text",
+         "text": "1.2.3. Numer strefowy"
+        },
+        {
+         "type": "text",
+         "text": "1.2.3.1. Ustala się formaty numeru strefowego: NST = SPQMCDU (7D), gdzie cyfra S przyjmuje wartości od 2 do 8, NST = SAUS, zgodny z pkt 1.3.1 ppkt 1."
+        },
+        {
+         "type": "text",
+         "text": "1.2.3.2. Określa się schematy wybierania numeru strefowego:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "w połączeniach wewnątrz strefy w sieci stacjonarnej ustala się: ~ NST;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "w połączeniach wewnątrz strefy w sieci stacjonarnej dopuszcza się: ~ 0 ≈ WSN + NST, gdzie NST ≠ SAUS, ~ 0 ≈ NDS + WSN + NST, gdzie NST≠ SAUS.",
+       "children": [
+        {
+         "type": "text",
+         "text": "1.3. Numery AUS"
+        },
+        {
+         "type": "text",
+         "text": "1.3.1. Ustala się formaty numerów AUS:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "strefowy (SAUS): SAUS = 9XY (3D), dla służb ustawowo powołanych do niesienia pomocy, gdzie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_1/lit_a",
+         "text": "984 — pogotowie rzeczne,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_1/lit_b",
+         "text": "985 — ratownictwo morskie i górskie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_1/pkt_1/lit_c",
+         "text": "986 — straż miejska,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_1/pkt_1/lit_d",
+         "text": "991 — pogotowie elektrowni,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_1/pkt_1/lit_e",
+         "text": "992 — pogotowie gazowni,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_1/pkt_1/lit_f",
+         "text": "993 — pogotowie ciepłowni,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_1/pkt_1/lit_g",
+         "text": "994 — pogotowie wodociągów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_1/pkt_1/lit_h",
+         "text": "997 — Policja,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "ust_1/pkt_1/lit_i",
+         "text": "998 — straż pożarna,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "ust_1/pkt_1/lit_j",
+         "text": "999 — pogotowie ratunkowe, SAUS = 9XYZ (4D), SAUS = 11X (3D), gdzie X ≠ 8, np.: 112, SAUS = 11XCDU (6D), gdzie X ≠ 2 i 8;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "krajowy (KAUS): KAUS = WSN + SAUS, z wyłączeniem numerów alarmowych 112, 98X i 99X;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "numer „118”: 118CDU;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "międzynarodowy (MAUS) — dla połączeń przychodzących: MAUS = 48 + KAUS, gdzie 48 oznacza wskaźnik międzynarodowy Rzeczypospolitej Polskiej.",
+       "children": [
+        {
+         "type": "text",
+         "text": "1.3.2. Ustala się schemat wybierania numeru „118”: ~ 118CDU."
+        },
+        {
+         "type": "text",
+         "text": "1.4. Numeracja w sieciach ruchomych"
+        },
+        {
+         "type": "text",
+         "text": "1.4.1. Ustala się format numeru krajowego w sieciach ruchomych: KNA = WST + SPQMCDU (9D), dla WST = 50, 51, 60, 66, 69, 78, 79 i 88."
+        },
+        {
+         "type": "text",
+         "text": "1.4.2. Określa się schemat wybierania wewnątrz sieci ruchomej: KNA."
+        },
+        {
+         "type": "text",
+         "text": "1.5. Numeracja dostępu do radiowych sieci przywoławczych, zwanych dalej „SP” Ustala się formaty numerów dostępu:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "NDSP = 64 + S + 000 (6D), gdzie: NDSP — numer dostępu do SP, S — cyfra wyróżniająca SP, 000 — cyfry określające dostęp do stanowisk operatorskich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "NASP = 64 + SPQMCDU (9D), gdzie: NASP — numer abonenta SP.",
+       "children": [
+        {
+         "type": "text",
+         "text": "1.6. Numeracja dostępu dostawcy usług, świadczącego usługi przez numer dostępu lub w drodze preselekcji Ustala się format numeru dostępu: NDS = 10 + KI, gdzie: KI — kod identyfikacji dostawcy usług (dwie lub trzy cyfry)."
+        },
+        {
+         "type": "text",
+         "text": "1.7. Numeracja dostępu do sieci teleinformatycznych Ustala się format numeru dostępu: NDSI = 20 + MCDU (6D), gdzie: NDSI — numer dostępu do sieci teleinformatycznych, MCDU — cyfry określające dostawcę usług teleinformatycznych i rodzaj usługi."
+        },
+        {
+         "type": "text",
+         "text": "1.8. Numeracja dostępu do usług sieci inteligentnych Ustala się format numeru dostępu: NDIN = WST + SPQMCDU (9D) dla WST = 30, 40, 70 i 80, gdzie: NDIN — krajowy numer w sieci inteligentnej."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "WPROWADZANIE ZMIAN NUMERACJI",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.1. W SN na obszarach powiatów podzielonych granicami stref numeracyjnych dopuszcza się przyznawanie zakresu numeracji ustalonego dla innej strefy numeracyjnej występującej w tym powiecie, ze szczególnym uwzględnieniem przebiegu granic województw."
+      },
+      {
+       "type": "text",
+       "text": "2.2. Ustala się program wprowadzania zmian:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "wprowadzenie zamkniętego planu numeracji w terminie do dnia 31 grudnia 2005 r.;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "likwidację drugiego sygnału zgłoszenia w terminie do dnia 31 marca 2006 r.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "ocr",
+         "text": "Część B"
+        },
+        {
+         "type": "ocr",
+         "text": "PNK-TF WYKAZ GMIN W STREFACH NUMERACYJNYCH (SN) TABLICA 2"
+        },
+        {
+         "type": "ocr",
+         "text": "(SN) BIAŁA Biała Podlaska, Czemierniki, Dębowa Kłoda, Drelów, Hanna, Huszlew, Jabłoń, Janów Podlaski, Kąkolewnica Wschodnia, Kodcń, Komarówka Podlaska, PODLASKA Konstantynów, Leśna Podlaska, Łomazy, Łosice, Międzyrzec Podlaski, Milanów, Olszanka, Parczew, Piszczac, Platerów, Podedwórze, Radzyń Podlaski, Rokitno, Rossosz, Sarnaki, Siemień, Sławatycze, Sosnówka, Stara Kornica, Terespol, Tuczna, Ulan- Majorat, Wisznice, Wohyń, Zalesie BIAŁYSTOK Białowieża, Białystok, Bielsk Podlaski, Boćki, Brańsk, Choroszcz, Czarna Białostocka, Czeremcha, Czyże, Dąbrowa Białostocka, Dobrzyniewo Duże, Drohiczyn, Dubicze Cerkiewne, Dziadkowice, Goniądz, Grodzisk, Gródek, Hajnówka, Janów, Jasionówka, Jaświły, Juchnowiec Kościelny, Kleszczele, Knyszyn, Korycin, Krynki, Krypno, Kuźnica, Łapy, Michałowo, Mielnik, Milejczyce, Mońki, Narew, Narewka, Nowy Dwór, Nurzec -Stacja, Orla, Perlejewo, Poświętne, Rudka, Sidra, Siemiatycze, Sokółka, Suchowola, Supraśl, Suraż, Szudziałowo, Trzcianne, Turośl Kościelna, Tykocin, Wasilków, Wyszki, Zabłudów, Zawad BIELSKO-BIAŁA Andrychów, Bielsko -Biała, Brenna, Brzeźnica, Buczkowice, Budzów, Chełmek, Chybie, Cieszyn, Czernichów, Dębowiec, Gilowice, Goleszów, Hażlach, Istebna, Jasienica, Jaworze, Jeleśnia, Kalwaria Zebrzydowska, Kęty, Koszarawa, Kozy, Lanckorona, Lipowa, Łękawica, Łodygowice, Maków Podhalański, Milówka, Mucharz, Osiek, Oświęcim, Polanka Wielka, Porąbka, Przeciszów, Radziechowy-Wieprz, Rajcza, Skoczów, Spytkowice, Strumień, Stryszawa, Stryszów, Sucha Beskidzka, Szczyrk, Ślemień, Świnna, Tomice, Ujsoły, Ustroń, Wadowice, Węgierska Górka, Wieprz, Wilamowice, Wilkowice, Wisła, Zator, Zawoja, Zembrzyce, Żywiec BYDGOSZCZ Barcin, Białe Błota, Brusy, Bukowiec, Bydgoszcz, Cekcyn, Chojnice, Czersk, Dąbrowa, Dąbrowa Biskupia, Dąbrowa Chełmińska, Dobrcz, Dragacz, Drzycim, Gąsawa, Gniewkowo, Gostycyn, Inowrocław, Janikowo, Janowiec Wielkopolski, Jeziora Wielkie, Jeżewo, Kamień Krajeński, Kcynia, Kęsowo, Konarzyny, Koronowo, Kruszwica, Lniano, Lubiewo, Łabiszyn, Mogilno, Mrocza, Nakło nad Notecią, Nowa Wieś Wielka, Nowe, Osie, Osielsko, Pakość, Pruszcz, Rogowo, Rojewo, Sadki, Sępólno Krajeńskie, Sicienko, Solec Kujawski, Sośno, Strzelno, Szubin, Śliwice, Świecie, Świekatowo, Tuchola, Warlubie, Więcbork, Złotniki Kujawskie, Żnin CHEŁM Białopole, Chełm, Cyców, Dorohusk, Dubienka, Hańsk, Kamień, Krasnystaw, Kraśniczyn, Leśniowice, Łopiennik Górny, Rejowiec, Rejowiec Fabryczny, Ruda-Huta, Sawin, Siedliszcze, Siennica Różana, Sosnownica, Stary Brus, Urszulin, Wierzbica, Włodawa, Wojsławice, Wola Uhruska, Wyryki, Żmudź CIECHANOW Baboszewo, Bieżuń, Ciechanów, Czernice Borowe, Działdowo, Dzierzążnia, Dzierzgowo, Glinojeck, Gołymin-Ośrodek, Grudusk, Gzy, Iłowo-Osada, Joniec, Krasne, Kuczbork-Osada, Lidzbark, Lipowiec Kościelny, Lubowidz, Lutocin, Mława, Naruszewo, Nasielsk, Nowe Miasto, Ojrzeń, Opinogóra Górna, Płońsk, Płośnica, Pokrzywnica, Pułtusk, Raciąż, Radzanów, Regimin, Rybno, Siemiątkowo, Sochocin, Sońsk, Strzegowo, Stupsk, Szreńsk, Szydłowo, Świercze, Wieczfhia Kościelna, Winnica, Wiśniewo, Załuski, Żuromin CZĘSTOCHOWA Blachownia, Boronów, Ciasna, Częstochowa, Dąbrowa Zielona, Dobrodzień, Gigle, Gorzów Śląski, Herby, Irządze, Janów, Kalety, Kamienica Polska, Kłobuck, Kłomnice, Kochanowice, Koniecpol, Konopiska, Koszęcin, Koziegłowy, Kroczyce, Kruszyna, Krzepice, Lelów, Lipie, Lubliniec, Miedźno, Moskorzew, Mstów, Mykanów, Myszków, Niegowa, Nowa Brzeźnica, Olesno, Olsztyn, Opatów, Pajęczno, Panki, Pawonków, Poczesna, Popów, Poraj, Praszka, Przyrów, Przystajń, Radków, Radłów, Rędziny, Rudniki, Secemin, Starcza, Strzelce Wielkie, Szczekociny, Włodowice, Woźniki, Wręczyca Wielka, Żarki, Żytno ELBLĄG Braniewo, Dzierzgoń, Elbląg, Frombork, Gardeja, Godkowo, Gronowo Flbląskie, Kisielice, Krynica Morska, Kwidzyn, I.elkowo, Lichnowy, Malbork, Markusy, Mikołajki Pomorskie, Milejewo, Miłoradz, Młynary, Nowy Dwór Gdański, Nowy Staw, Ometa, Ostaszewo, Pasłęk, Pieniężno, Płoskinia, Prabuty, Rychliki, Ryjewo, Sadlinki, Stare Pole, Stary Dzierzgoń, Stary Targ, Stegna, Susz, Sztum, Sztutowo, Tolkmicko, Wilczęta"
+        },
+        {
+         "type": "ocr",
+         "text": "z"
+        },
+        {
+         "type": "ocr",
+         "text": "GO"
+        },
+        {
+         "type": "ocr",
+         "text": "GO un"
+        },
+        {
+         "type": "ocr",
+         "text": "Go"
+        },
+        {
+         "type": "ocr",
+         "text": "9"
+        },
+        {
+         "type": "ocr",
+         "text": "GO"
+        },
+        {
+         "type": "ocr",
+         "text": "nN"
+        },
+        {
+         "type": "ocr",
+         "text": "rh"
+        },
+        {
+         "type": "ocr",
+         "text": "Cod"
+        },
+        {
+         "type": "ocr",
+         "text": "34"
+        },
+        {
+         "type": "ocr",
+         "text": "ee"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "ocr",
+         "text": "GDANSK Bobowo, Cedry Wielkie, Chmielno, Choczewo, Czarna Woda, Dziemiany, Gdańsk, Gdynia, Gniew, Gniewino, Hel, Jastarnia, Kaliska, Karsin, Kartuzy, Kolbudy, Kosakowo, Kościerzyna, Krokowa, Linia, Liniewo, Lipusz, Lubichowo, Luzino, Łęczyce, Morzeszczyn, Nowa Karczma, Osieczna, Osiek, Pelplin, Pruszcz Gdański, Przodkowo, Przywidz, Pszczółki, Puck, Reda, Rumia, Sierakowice, Skarszewy, Skórcz, Smętowo Graniczne, Somonino, Sopot, Stara Kiszewa, Starogard Gdański, Stężyca, Subkowy, Suchy Dąb, Sulęczyno, Szemud, Tczew, Trąbki Wielkie, Wejherowo, Władysławowo, Zblewo, Żukowo GORZÓW Barlinek, Bierzwnik, Bledzew, Bogdaniec, Boleszkowice, Choszczno, Deszczno, Dębno, Dobiegniew, Drawno, Drezdenko, Gorzów Wielkopolski, Górzyca, WIELKOPOLSKI Kłodawa, Kostrzyn, Krzeszyce, Krzęcin, Lubiszyn, Lubniewice, Międzychód, Międzyrzecz, Myślibórz, Nowogródek Pomorski, Ośno Lubuskie, Pełczyce, Przytoczna, Pszczew, Recz, Rzepin, Santok, Skwierzyna, Słońsk, Słubice, Stare Kurowo, Strzelce Krajeńskie, Sulęcin, Trzciel, Witnica, Zwierzyn JELENIA GORA Bogatynia, Bolesławice, Gromadka, Gryfów Śląski, Janowice Wiclkic, Jelenia Góra, Jeżów Sudecki, Kamienna Góra, Karpacz, Kowary, Leśna, Lubań, Lubawka, Lubomierz, Lwówek Śląski, Marciszów, Mirsk, Mysłakowice, Nowogrodziec, Olszyna, Osiecznica, Piechowice, Pieńsk, Platerówka, Podgórzyn, Siekierczyn, Stara Kamienica, Sulików, Szklarska Poręba, Świeradów-Zdrój, Warta Bolesławiecka, Węgliniec, Wleń, Zawidów, Zgorzelec KALISZ Baranów, Blizanów, Bolesławiec, Bralin, Brzeziny, Ceków-Kolonia, Chocz, Czajków, Czastary, Czermin, Dobrzyca, Doruchów, Dziadowa Kłoda, Galewice, Gizałki, Godziesze Wielkie, Gołuchów, Grabów nad Prosną, Jaraczewo, Jarocin, Kalisz, Kępno, Kobyla Góra, Kotlin, Koźminek, Koźmin Wielkopolski, Kraszewice, Krotoszyn, Lisków, Lututów, Łęka Opatowska, Łubnice, Międzybórz, Mikstat, Mycielin, Nowe Skalmierzyce, Odolanów, Opatówek, Ostrów Wielkopolski, Ostrzeszów, Perzów, Pleszew, Przygodzice, Raszków, Rozdrażew, Rychtał, Sieroszewice, Sokolniki, Sośnie, Stawiszyn, Sulmierzyce, Syców, Szczytniki, Trzcinica, Wieruszów, Zduny, Żelazków, Żerków"
+        },
+        {
+         "type": "ocr",
+         "text": "KIELCE Bałtów, Bejsce, Bieliny, Bliżyn, Bodzechów, Bodzentyn, Brody, Busko-Zdrój, Charsznica, Chęciny, Chmielnik, Czarnocin, Daleszyce, Działoszyce, Gnojno, Górno, Imielno, Jędrzejów, Kazimierza Wielka, Kielce, Kije, Końskie, Koszyce, Kozłów, Krasocin, Książ Wielki, Kunów, Łagów, Łączna, Łopuszno, Małogoszcz, Masłów, Michałów, Miechów, Miedziana Góra, Mirzec, Mniów, Morawica, Nagłowice, Nowa Słupia, Nowy Korczyn, Oksa, Oleśnica, Opatowiec, Ostrowiec Świętokrzyski, Pacanów, Pałecznica, Pawłów, Piekoszów, Pierzchnica, Pińczów, Racławice, Radoszyce, Raków, Ruda Maleniecka, Sędziszów, Sitkówka-Nowiny, Skalbmierz, Skarżysko-Kamienna, Skarżysko Kościelne, Słaboszów, Słupia /Jędrzejowska/, Słupia /Konecka/, Smyków, Sobków, Solec-Zdrój, Starachowice, Stąporków, Stopnica, Strawczyn, Suchedniów, Szydłów, Tuczępy, Waśniów, Wąchock, Wiślica, Włoszczowa, Wodzisław, Zagnańsk, Złota KONIN Babiak, Brudzew, Chodów, Dąbie, Dobra, Golina, Grabów, Grodziec, Grzegorzew, Kawęczyn, Kazimierz Biskupi, Kleczew, Kłodawa, Koło, Konin, Kościelec, Kramsk, Krzymów, Lądek, Malanów, Olszówka, Orchowo, Osiek Mały, Ostrowite, Powidz, Przedecz, Przykona, Pyzdry, Rychwał, Rzgów, Skulsk, Słupca, Sompolno, Stare Miasto, Strzałkowo, Ślesin, Świnice Warckie, Tuliszków, Turek, Uniejów, Wierzbinek, Wilczyn, Władysławów, Zagórów KOSZALIN Barwice, Będzino, Białogard, Biały Bór, Biesiekierz, Bobolice, Borne Sulinowo, Brzeźno, Czaplinek, Darłowo, Drawsko Pomorskie, Dygowo, Gościno, Grzmiąca, Kalisz Pomorski, Karlino, Kołobrzeg, Koszalin, Malechowo, Manowo, Mielno, Ostrowice, Polanów, Połczyn-Zdrój, Rąbino, Rymań, Sianów, Siemyśl, Sławoborze, Szczecinek, Świdwin, Świeszyno, Tychowo, Ustronie Morskie, Wierzchowo, Złocieniec"
+        },
+        {
+         "type": "ocr",
+         "text": "3 2 KATOWICE Babice, Bestwina, Będzin, Bieruń, Bobrowniki, Bojszowy, Bolesław, Brzeszcze, Bukowno, Bytom, Chełm Śląski, Chorzów, Chrzanów, Czechowice-Dziedzice, Czeladź, Czerwionka-Leszczyny, Dąbrowa Górnicza, Gaszowice, Gierałtowice, Gliwice, Goczałkowice-Zdrój, Godów, Gorzyce, Imielin, Jastrzębie-Zdrój, Jaworzno, Jejkowice, Katowice, Klucze, Knurów, Kobiór, Kornowac, Krupski Młyn, Krzanowice, Krzyżanowice, Kuźnia Raciborska, Lędziny, Libiąż, Lubomia, Lyski, Łaziska Górne, Łazy, Marklowice, Miasteczko Śląskie, Miedźna, Mierzęcice, Mikołów, Mszana, Mysłowice, Nędza, Ogrodzieniec, Olkusz, Ornontowice, Orzesze, Ożarowice, Pawłowice, Piekary Śląskie, Pietrowice Wielkie, Pilchowice, Pilica, Poręba, Psary, Pszczyna, Pszów, Pyskowice, Racibórz, Radlin, Radzionków, Ruda Śląska, Rudnik, Rudziniec, Rybnik, Rydułtowy, Siemianowice Śląskie, Siewierz, Sławków, Sosnowiec, Sośnicowice, Suszec, Świerklaniec, Świerklany, Świętochłowice, Tarnowskie Góry, Toszek, Trzebinia, Tworóg, Tychy, Wielowieś, Wodzisław Śląski, Wojkowice, Wolbrom, Wyry, Zabrze, Zawiercie, Zbrosławice, Zebrzydowice, Żarnowiec, Żo"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "ocr",
+         "text": "KRAKÓW Alwernia, Biskupice, Czernichów, Dobczyce, Drwinia, Gdów, Gołcza, Igolomia- -Wawrzeńczyce, Iwanowice, Jerzmanowice-Przeginia, Kłaj, Kocmyrzów- -Luborzyca, Koniusza, Kraków, Krzeszowice, Liszki, Michałowice, Mogilany, Myślenice, Niepołomice, Nowe Brzesko, Pcim, Proszowice, Raciechowice, Radziemice, Siepraw, Skała, Skawina, Słomniki, Sułkowice, Sułoszowa, Świątniki Górne, Tokarnia, Trzyciąż, Wieliczka, Wielka Wieś, Wiśniowa, Zabierzów, Zielonki KROSNO Baligród, Besko, Biecz, Brzozów, Brzyska, Bukowsko, Chorkówka, Cisna, Czarna, Dębowiec, Domaradz, Dukla, Dydnia, Haczów, Iwonicz-Zdrój, Jasienica Rosielna, Jasło, Jedlicze, Kołaczyce, Komańcza, Korczyna, Krempna, Krosno, Krościenko Wyżne, Lesko, Lipinki, Lutowiska, Miejsce Piastowe, Nowy Żmigród, Nozdrzec, Olszanica, Osiek Jasielski, Rymanów, Sanok, Skołyszyn, Solina, Tarnowiec, Tyrawa Wołoska, Ustrzyki Dolne, Wojaszówka, Zagórz, Zarszyn"
+        },
+        {
+         "type": "ocr",
+         "text": "LEGNICA Bolków, Chocianów, Chojnów, Gaworzyce, Głogów, Grębocice, Jawor, Jerzmanowa, Kotla, Krotoszyce, Kunice, Legnica, Legnickie Pole, Lubin, Męcinka, Miłkowice, Mściwojów, Paszowice, Pęcław, Pielgrzymka, Polkowice, Prochowice, Przemków, Radwanice, Rudna, Ruja, Ścinawa, Świerzawa, Wądroże Wielkie, Wojcieszów, Zagrodno, Złotoryja, Żukowice LESZNO Bojanowo, Borek Wielkopolski, Gostyń, Góra, Jemielno, Jutrosin, Kobylin, Kościan, Krobia, Krzemieniewo, Krzywiń, Leszno, Lipno, Miejska Górka, Niechlów, Osiecznica, Pakosław, Pępowo, Piaski, Pogorzela, Poniec, Przemęt, Rawicz, Rydzyna, Szlichtyngowa, Śmigiel, Święciechowa, Wąsosz, Wijewo, Włoszakowice, Wschowa LUBLIN Abramów, Baranów, Bełżyce, Borki, Borzechów, Bychawa, Chodel, Dęblin, Dzierzkowice, Fajsławice, Firlej, Garbów, Głusk, Jabłonna, Janowiec, Jastków, Jeziorzany, Józefów nad Wisłą, Kamionka, Karczmiska, Kazimierz Dolny, Kock, Konopnica, Końskowola, Kraśnik, Krzczonów, Kurów, Lubartów, Lublin, Ludwin, Łaziska, Łęczna, Markuszów, Mełgiew, Michów, Milejów, Nałęczów, Niedrzwica Duża, Niedźwiada, Niemce, Nowodwór, Opole Lubelskie, Ostrówek, Ostrów Lubelski, Piaski, Poniatowa, Puchaczów, Puławy, Rybczewice, Ryki, Serniki, Spiczyn, Stężyca, Strzyżewice, Świdnik, Trawniki, Ułęż, Urzędów, Uścimów, Wąwolnica, Wilkołaz, Wilków, Wojciechów, Wólka, Zakrzówek, Żyrz ŁOMŻ A Andrzejewo, Boguty-Pianki, Ciechanowiec, Czyżew-Osada, Grabowo, Grajewo, Jedwabne, Klukowo, Kobylin-Borzymy, Kolno, Kołaki Kościelne, Kulesze Kościelne, Łomża, Mały Płock, Miastkowo, Nowe Piekuty, Nowogród, Nur, Piątnica, Przytuły, Radziłów, Rajgród, Rutki, Sokoły, Stawiski, Szczuczyn, Szepietowo, Szulborze Wielkie, Szumowo, Śniadowo, Turośl, Wąsosz, Wizna, Wysokic Mazowicckic, Zambrów, Zaręby Kościclnc, Zbójna ŁODŹ Aleksandrów Łódzki, Andrespol, Brójce, Głowno, Konstantynów Łódzki, Ksawerów, Łódź, Nowosolna, Ozorków, Pabianice, Parzęczew, Rzgów, Stryków, Tuszyn, Zgierz NOWY S ĄCZ Biały Dunajec, Bobowa, Bukowina Tatrzańska, Bystra-Sidzina, Chełmiec, Czarny Dunajec, Czorsztyn, Dobra, Gorlice, Gródek nad Dunajcem, Grybów, Jabłonka, Jodłownik, Jordanów, Kamienica, Kamionka Wielka, Korzenna, Kościelisko, Krościenko nad Dunajcem, Krynica-Zdrój, Laskowa, Limanowa, Lipnica Wielka, Lubień, Łabowa, Łapsze Niżne, Łącko, Łososina Dolna, Łukowica, Łużna, Moszczenica, Mszana Dolna, Muszyna, Nawojowa, Niedźwiedź, Nowy Sącz, Nowy Targ, Ochotnica Dolna, Piwniczna-Zdrój, Podegrodzie, Poronin, Raba Wyżna, Rabka-Zdrój, Ropa, Rytro, Sękowa, Słopnice, Spytkowice, Stary Sącz, Szaflary, Szczawnica, Tymbark, Uście Gorlickie, Zakopane OLSZTYN Barciany, Barczewo, Bartoszyce, Biskupiec, Bisztynek, Dąbrówno, Dobre Miasto, Dywity, Dźwierzuty, Gietrzwałd, Górowo Iławeckie, Grunwald, Iława, Janowiec Kościelny, Janowo, Jedwabno, Jeziorany, Jonkowo, Kętrzyn, Kiwity, Kolno, Korsze, Kozłowo, Lidzbark Warmiński, Lubawa, Lubomino, Łukta, Małdyty, Miłakowo, Miłomłyn, Morąg, Mrągowo, Nidzica, Olsztyn, Olsztynek, Ostróda, Pasym, Piecki, Purda, Reszel, Rozogi, Sępopol, Sorkwity, Srokowo, Stawiguda, Szczytno, Świątki, Swiętajno, Wielbark, Zalewo OPOLE Baborów, Biała, Bierawa, Branice, Brzeg, Byczyna, Chrząstowice, Cisek, Dąbrowa, Dobrzeń Wielki, Domaszowice, Głogówek, Głubczyce, Głuchołazy, Gogolin, Grodków, Izbicko, Jemielnica, Kamiennik, Kędzierzyn-Koźle, Kietrz, Kluczbork, Kolonowskie, Komprachcice, Korfantów, Krapkowice, Lasowice Wielkie, Leśnica, Lewin Brzeski, Lubrza, Lubsza, Łambinowice, Łubniany, Murów, Namysłów, Niemodlin, Nysa, Olszanka, Opole, Otmuchów, Ozimek, Paczków, Pakosławice, Pawłowiczki, Pokój, Polska Cerekiew, Popielów, Prószków, Prudnik, Reńska Wieś, Skarbimierz, Skoroszyce, Strzelce Opolskie, Strzeleczki, Świerczów, Tarnów Opolski, Tułowice, Turawa, Ujazd, Walce, Wilków, Wołczyn, Zawadzkie, Zdzieszowice, Zębowice"
+        },
+        {
+         "type": "ocr",
+         "text": "|"
+        },
+        {
+         "type": "ocr",
+         "text": "76"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "ocr",
+         "text": "29 OSTROŁĘKA Baranowo, Brańszczyk, Brok, Chorzele, Czarnia, Czerwin, Czerwonka, Dąbrówka, Długosiodło, Goworowo, Jednorożec, Kadzidło, Karniewo, Klembów, Krasnosielc, Krzynowłoga Mała, Lelis, Łyse, Maków Mazowiecki, Małkinia Górna, Młynarze, Myszyniec, Obryte, Olszewo-Borki, Ostrołęka, Ostrów Mazowiecka, Płoniawy-Bramura, Przasnysz, Różan, Rząśnik, Rzekuń, Rzewnie, Somianka, Stary Lubotyń, Sypniewo, Szelków, Tłuszcz, Troszyn, Wąsewo, Wyszków, Zabrodzie, Zator PIŁA Białośliwie, Budzyń, Chodzież, Czarnków, Człopa, Damasławek, Drawsko, Gołańcz, Jastrowie, Kaczory, Krajenka, Krzyż Wielkopolski, Lipka, Lubasz, Łobżenica, Margonin, Miasteczko Krajeńskie, Mirosławiec, Okonek, Piła, Połajewo, Rogoźno, Ryczywół, Szamocin, Szydłowo, Tarnówka, Trzcianka, Tuczno, Ujście, Wałcz, Wapno, Wągrowiec, Wieleń, Wronki, Wyrzysk, Wysoka, Zakrzewo, Złotów PIOTRKÓW Aleksandrów, Bełchatów, Będków, Białaczów, Budziszewice, Czarnocin, Czerniewice, Dłutów, Dobryszyce, Drużbice, Falków, Gomunice, Gorzkowice, TRYBUNALSKI Grabica, Inowłódz, Kamieńsk, Kleszczów, Kluczewsko, Kluki, Kobiele Wielkie, Kodrąb, Koluszki, Lgota Wielka, Lubochnia, Ładzice, Łęki Szlacheckie, Masłowice, Mniszków, Moszczenica, Opoczno, Paradyż, Piotrków Trybunalski, Poświętne, Przedbórz, Radomsko, Ręczno, Rokiciny, Rozprza, Rząśnia, Rzeczyca, Sławno, Sulejów, Sulmierzyce, Szczerców, Tomaszów Mazowiecki, Ujazd, Wielgomłyny, Wola Krzysztoporska, Wolbórz, Zelów, Żarnów, Żelechlinek PŁOCK Bedlno, Bielsk, Bodzanów, Brudzeń Duży, Bulkowo, Czerwińsk nad Wisłą, Daszyna, Dąbrowice, Drobin, Gąbin, Gostynin, Gozdowo, Góra Świętej Małgorzaty, Iłów, Kiernozia, Krośniewice, Krzyżanów, Kutno, Łanięta, Łąck, Łęczyca, Mała Wieś, Mochowo, Nowe Ostrowy, Nowy Duninów, Oporów, Pacyna, Piątek, Płock, Radzanowo, Rościszewo, Sanniki, Sierpc, Słubice, Słupno, Stara Biała, Staroźleby, Strzelce, Szczawin Kościelny, Szczutowo, Witonia, Wyszogród, Zawidz, Żychlin POZNAN Brodnica, Buk, Chrzypsko Wielkie, Czempiń, Czerniejewo, Czerwonak, Dolsk, Dominowo, Dopiewo, Duszniki, Gniezno, Granowo, Grodzisk Wielkopolski, Kamieniec, Kaźmierz, Kiszkowo, Kleszczewo, Kłecko, Kołaczkowo, Komorniki, Kostrzyn, Kórnik, Krzykosy, Książ Wielkopolski, Kuślin, Kwilcz, Luboń, Lwówek, Łubowo, Miedzichowo, Mieleszyn, Mieścisko, Miłosław, Mosina, Murowana Goślina, Nekla, Niechanowo, Nowe Miasto nad Wartą, Nowy Tomyśl, Oborniki, Obrzycko, Opalenica, Ostroróg, Pnicwy, Pobicdziska, Poznań, Puszczykowo, Rakoniewice, Rokietnica, Sieraków, Skoki, Stęszew, Suchy Las, Swarzędz, Szamotuły, Śrem, Środa Wielkopolska, Tarnowo Podgórne, Trzemeszno, Wielichowo, Witkowo, Września, Zaniemyśl, Zbąsz PRZEMYSL Adamówka, Bircza, Chłopice, Cieszanów, Dubiecko, Dynów, Fredropol, Gać, Horyniec-Zdrój, Jarosław, Jawornik Polski, Kańczuga, Krasiczyn, Krzywcza, Laszki, Lubaczów, Medyka, Narol, Oleszyce, Orły, Pawłosiów, Pruchnik, Przemyśl, Przeworsk, Radymno, Rokietnica, Roźwienica, Sieniawa, Stary Dzików, Stubno, Tryńcza, Wiązownica, Wielkie Oczy, Zarzecze, Żurawica RADOM Belsk Duży, Białobrzegi, Błędów, Borkowice, Chlewiska, Chotcza, Chynów, Ciepielów, Drzewica, Garbatka-Letnisko, Gielniów, Głowaczów, Gniewoszów, Goszczyn, Gowarczów, Gózd, Grabów nad Pilicą, Grójec, Iłża, Jasieniec, Jastrząb, Jastrzębia, Jedlińsk, Jedlnia-Lctnisko, Kazanów, Klwów, Kowala, Kozienice, Lipsko, Magnuszew, Mirów, Mogielnica, Nowe Miasto nad Pilicą, Odrzywół, Orońsko, Pionki, Pniewy, Policzna, Potworów, Promna, Przyłęk, Przysucha, Przytyk, Radom, Radzanów, Rusinów, Rzeczniów, Sieciechów, Sienno, Skaryszew, Solec nad Wisłą, Stara Błotnica, Stromiec, Szydłowiec, Tczów, Warka, Wieniawa, Wierzbica, Wolanów, Wyśmierzyce, Zakrzew, Zwoleń RZESZOW Białobrzegi, Błażowa, Boguchwała, Borowa, Chmielnik, Cmolas, Czarna, Czermin, Czudec, Dzikowiec, Frysztak, Gawłuszowice, Głogów Małopolski, Grodzisko Dolne, Hyżne, Iwierzyce, Kamień, Kolbuszowa, Krasne, Kuryłówka, Leżajsk, Lubenia, Łańcut, Markowa, Mielec, Niebylec, Niwiska, Nowa Sarzyna, Ostrów, Przecław, Rakszawa, Raniżów, Ropczyce, Rzeszów, Sędziszów Małopolski, Sokołów Małopolski, Strzyżów, Świlcza, Trzebownisko, Tuszów Narodowy, Tyczyn, Wielopole Skrzyńskie, Wiśniowa, Żołynia SIEDLCE Adamów, Bielany, Borowie, Cegłów, Ceranów, Dębe Wielkie, Dobre, Domanice, Garwolin, Górzno, Grębków, Jabłonna Lacka, Jadów, Jakubów, Kałuszyn, Kłoczew, Kołbiel, Korczew, Korytnica, Kosów Lacki, Kotuń, Krzywda, Latowicz, Liw, Łaskarzew, Łochów, Łuków, Maciejowice, Miastków Kościelny, Miedzna, Mińsk Mazowiecki, Mokobody, Mordy, Mrozy, Osieck, Paprotnia, Parysów, Pilawa, Poświętne, Przesmyki, Repki, Sabnie, Sadowne, Serokomla, Siedlce, Siennica, Skórzec, Sobienie-Jeziory, Sobolew, Sokołów Podlaski, Stanin, Stanisławów, Sterdyń, Stoczek, Stoczek Łukowski, Strachówka, Suchożebry, Trojanów, Trzebieszów, Węgrów, Wierzbno, Wilga, Wiśniew, Wodynie, Wojcieszków, Wola Mysłowska, Zbuczyn, Żelechów"
+        },
+        {
+         "type": "ocr",
+         "text": "67"
+        },
+        {
+         "type": "ocr",
+         "text": "No"
+        },
+        {
+         "type": "ocr",
+         "text": "a"
+        },
+        {
+         "type": "ocr",
+         "text": "ami"
+        },
+        {
+         "type": "ocr",
+         "text": "SN"
+        },
+        {
+         "type": "ocr",
+         "text": "ja d"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "ocr",
+         "text": "4 3 SIERADZ Biała, Błaszki, Brąszewice, Brzeźnio, Buczek, Burzenin, Czamożyły, Dalików, Dobroń, Działoszyn, Goszczanów, Kiełczygłów, Klonowa, Konopnica, Lutomiersk, Łask, Mokrsko, Osjaków, Ostrówek, Pątnów, Pęczniew, Poddębice, Rusiec, Sędziejowice, Siemkowice, Sieradz, Skomlin, Szadek, Warta, Wartkowice, Widawa, Wieluń, Wierzchlas, Wodzierady, Wróblew, Zadzim, Zapolice, Zduńska Wola, Złoczew SKIERNIEWICE Baranów, Biała Rawska, Bielawy, Bolimów, Brzeziny, Chąśno, Cielądz, Dmosin, Domaniewice, Głuchów, Godzianów, Jaktorów, Jeżów, Kocierzew Południowy, Kowiesy, Lipce Reymontowskie, Łowicz, Łyszkowice, Maków, Młodzieszyn, Mszczonów, Nieborów, Nowa Sucha, Nowy Kawęczyn, Puszcza Mariańska, Radziejowice, Rawa Mazowiecka, Regnów, Rogów, Rybno, Sadkowice, Skierniewice, Słupia, Sochaczew, Teresin, Wiskitki, Zduny, Żabia Wola, Żyrardów SŁUPSK Borzytuchom, Bytów, Cewice, Czarna Dąbrówka, Czarne, Człuchów, Damnica, 59 Debrzno, Dębnica Kaszubska, Główczyce, Kepicc, Kobylnica, Koczała, Kołczygłowy, Lębork, Lipnica, Łeba, Miastko, Nowa Wieś Lęborska, Parchowo, Postomino, Potęgowo, Przechlewo, Rzeczenica, Sławno, Słupsk, Smołdzino, Studzienice, Trzebielino, Tuchomie, Ustka, Wicko SUWAŁKI Augustów, Bakałarzewo, Banie Mazurskie, Bargłów Kościelny, Biała Piska, 87 Budry, Dubeninki, Ełk, Filipów, Giby, Giżycko, Gołdap, Jeleniewo, Kalinowo, Kowale Oleckie, Krasnopol, Kruklanki, Lipsk, Mikołajki, Miłki, Nowinka, Olecko, Orzysz, Pisz, Płaska, Pozezdrze, Prostki, Przerośl, Puńsk, Raczki, Ruciane-Nida, Rutka-Tartak, Ryn, Sejny, Stare Juchy, Suwałki, Sztabin, Szypliszki, Świętajno, Węgorzewo, Wieliczki, Wiżajny, Wydmin 9 1 SZCZECIN Banie, Bielice, Brojce, Cedynia, Chociwel, Chojna, Dobra, Dobra /Szczecińska/, Dobrzany, Dolice, Dziwnów, Golczcwo, Goleniów, Gryfice, Gryfino, Ińsko, Kamień Pomorski, Karnice, Kobylanka, Kołbaskowo, Kozielice, Lipiany, Łobez, Marianowo, Maszewo, Mieszkowice, Międzyzdroje, Moryń, Nowe Warpno, Nowogard, Osina, Płoty, Police, Przelewice, Przybiernów, Pyrzyce, Radowo Małe, Resko, Rewal, Stara Dąbrowa, Stare Czarnowo, Stargard Szczeciński, Stepnica, Suchań, Szczecin, Świerzno, Świnoujście, Trzcińsko-Zdrój, Trzebiatów, Warnice, Węgorzyno, Widuchowa, Wolin 1 5 TARNOBRZEG Annopol, Baćkowice, Baranów Sandomierski, Batorz, Bogoria, Bojanów, Chrzanów, Cmielów, Dwikozy, Dzwola, Godziszów, Gorzyce, Gościeradów, Grębów, Harasiuki, Iwaniska, Janów Lubelski, Jarocin, Jeżowe, Klimontów, Koprzywnica, Krzeszów, Lipnik, Łoniów, Łubnice, Majdan Królewski, Modliborzyce, Nisko, Nowa Dęba, Obrazów, Opatów, Osiek, Ożarow, Padew Narodowa, Połaniec, Potok Wielki, Pysznica, Radomyśl nad Sanem, Rudnik nad Sanem, Rytwiany, Sadowie, Samborzec, Sandomierz, Stalowa Wola, Staszów, Szastarka, Tarłów, Tarnobrzeg, Trzydnik Duży, Ulanów, Wilczyce, Wojciechowice, Zaklinów, Zaleszany, Zawichost Bochnia, Bolesław, Borzęcin, Brzesko, Brzostek, Ciężkowice, Czarna, Czchów, Dąbrowa Tarnowska, Dębica, Dębno, Gnojnik, Gręboszów, Gromnik, Iwkowa, Jodłowa, Lipnica Murowana, Lisia Góra, Łapanów, Mędrzechów, Nowy Wiśnicz, Olesno, Pilzno, Pleśna, Radgoszcz, Radłów, Radomyśl Wielki, Ryglice, Rzepiennik Strzyżewski, Rzezawa, Skrzyszów, Szczucin, Szczurowa, Szerzyny, Tarnów, Trzciana, Tuchów, Wadowice Górne, Wierzchosławice, Wietrzychowice, Wojnicz, Zakliczyn, Żabno, Żegocina, Żyraków"
+        },
+        {
+         "type": "ocr",
+         "text": "WAŁBRZYCH Bardo, Bielawa, Boguszów-Gorce, Bystrzyca Kłodzka, Ciepłowody, Czarny Bór, Dobromierz, Duszniki-Zdrój, Dzierżoniów, Głuszyca, Jaworzyna Śląska, Jedlina-Zdrój, Kamieniec Ząbkowicki, Kłodzko, Kudowa-Zdrój, Lądek-Zdrój, Lewin Kłodzki, Łagiewniki, Marcinowice, Mieroszów, Międzylesie, Niemcza, Nowa Ruda, Pieszyce, Piława Górna, Polanica-Zdrój, Radków, Stare Bogaczowice, Stoszowice, Stronie Ślaskie, Strzegom, Szczawno-Zdrój, Szczytna, Świdnica, Świebodzice, Walim, Wałbrzych, Ząbkowice Ślaskie, Ziębice, Złoty Stok, Żarów WARSZAWA Błonie, Brochów, Brwinów, Celestynów, Czosnów, Góra Kalwaria, Grodzisk Mazowiecki, Halinów, Izabelin, Jabłonna, Józefów, Kampinos, Karczew, Kobyłka, Konstancin-Jeziorna, Legionowo, Leoncin, Leszno, Lesznowola, Łomianki, Marki, Michałowice, Milanówek, Nadarzyn, Nieporęt, Nowy Dwór Mazowiecki, Otwock, Ożarów Mazowiecki, Piaseczno, Piastów, Podkowa Leśna, Pomiechówek, Prażmów, Pruszków, Radzymin, Raszyn, Serock, Stare Babice, Sulejówek, Tarczyn, Warszawa, Wiązowna, Wieliszew, Wołomin, Zakroczym, Ząbki, Zielonka"
+        },
+        {
+         "type": "ocr",
+         "text": "TORUN Biskupiec, Bobrowo, Brodnica, Brzozie, Chełmno, Chełmża, Ciechocin, Dębowa 56 Łąka, Golub-Dobrzyń, Górzno, Grążawy, Grodziczno, Grudziądz, Gruta, Jabłonowo Pomorskie, Kijcwo Królewskie, Kowalcwo Pomorskie, Książki, Kurzętnik, Lisewo, Lubicz, Łasin, Łubianka, Łysomice, Nowe Miasto Lubawskie, Obrowo, Osiek, Papowo Biskupie, Płużnica, Radomin, Radzyń Chełmiński, Rogóźno, Stolno, Świecie nad Osą, Świedziebnia, Toruń, Unisław, Wąbrzeźno, Wąpielsk, Wielka Nieszawka, Zbiczno, Zławieś Wielka"
+        },
+        {
+         "type": "note",
+         "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Infrastruktury kieruje działem administracji rządowej — łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 czerwca 2004 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. Nr 134, poz. 1429).",
+  "2": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 15 kwietnia 2004 r. w sprawie planu numeracji krajowej dla publicznych sieci telefonicznych (Dz. U. Nr 78, poz. 735), które zgodnie z art. 223 ustawy z dnia 16 lipca 2004 r. — Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800 i Nr 273, poz. 2703) traci moc z dniem wejścia w życie niniejszego rozporządzenia. * PNK—TF uwzględnia zalecenia Międzynarodowego Związku Telekomunikacyjnego (International Telecommunication Union — ITU), a w szczególności zalecenie E.164"
+ }
+}

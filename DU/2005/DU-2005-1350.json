@@ -1,0 +1,959 @@
+{
+ "eli": "DU/2005/1350",
+ "title": "Rozporządzenie Ministra Infrastruktury z dnia 11 sierpnia 2005 r. w sprawie zakresu oferty ramowej o dostępie telekomunikacyjnym",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/1350/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 sierpnia 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zakresu oferty ramowej o dostępie telekomunikacyjnym"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 42 ust. 4 ustawy z dnia 16 lipca 2004 r. — Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800 i Nr 273, poz. 2703) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Rozporządzenie określa zakres oferty ramowej o dostępie telekomunikacyjnym w zakresie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_1/pkt_1",
+       "text": "połączeń sieci;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "łączy dzierżawionych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_1/pkt_3",
+       "text": "uwolnienia lokalnej pętli abonenckiej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Ilekroć w rozporządzeniu jest mowa o lokalnej pętli abonenckiej, rozumie się przez to również lokalną podpętlę abonencką.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w załącznikach do rozporządzenia określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "bitowa stopa błędów — stosunek liczby błędnych bitów odebranych do liczby wszystkich odebranych bitów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "blok — grupę następujących po sobie bitów, przy czym każdy bit może należeć tylko do jednego bloku;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "czas odtwarzania usługi — czas, w którym funkcje spełniane przez uszkodzone cyfrowe łącze telekomunikacyjne przejęte zostaną przez inny element sieci telekomunikacyjnej lub uszkodzone łącze zostanie naprawione;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "kolokacja fizyczna — formę kolokacji, w przypadku której przedsiębiorca telekomunikacyjny korzystający umieszcza urządzenia w miejscach kolokacyjnych, udostępnionych przez operatora udostępniającego, zlokalizowanych w budynkach lub bezpośrednim sąsiedztwie budynków, w których znajduje się punkt dostępu do sieci operatora udostępniającego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "kolokacja na odległość — formę kolokacji, w przypadku której przedsiębiorca telekomunikacyjny korzystający umieszcza urządzenia w, zapewnionych przez siebie lub udostępnionych przez operatora udostępniającego, miejscach kolokacyjnych zlokalizowanych w oddaleniu od budynków, w których znajduje się punkt dostępu do sieci operatora udostępniającego, i używa odpowiednich połączeń, w szczególności połączeń kablowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "kolokacja oddzielona — formę kolokacji fizycznej lub na odległość polegającą na fizycznym oddzieleniu urządzeń operatora udostępniającego i przedsiębiorców telekomunikacyjnych korzystających, umieszczonych w miejscach kolokacyjnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "kolokacja przemieszana — formę kolokacji fizycznej lub na odległość polegającą na braku fizycznego oddzielenia urządzeń operatora udostępniającego i przedsiębiorców telekomunikacyjnych korzystających, umieszczonych w miejscach kolokacyjnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "kolokacja wirtualna — formę kolokacji polegającą na braku fizycznego dostępu do miejsc kolokacyjnych przez przedsiębiorcę telekomunikacyjnego korzystającego i wykonywaniu przez operatora udostępniającego czynności związanych z instalacją, utrzymaniem, konserwacją i naprawami urządzeń umieszczonych w miejscach kolokacyjnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "okres niedostępności — okres następujących po sobie kolejno co najmniej dziesięciu sekund ze znaczącym błędem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "operator udostępniający — operatora obowiązanego do uwolnienia lokalnej pętli abonenckiej lub udostępnienia fizycznej przestrzeni lub urządzeń technicznych w celu umieszczenia i podłączenia niezbędnego sprzętu operatora podłączającego swoją sieć do sieci innego operatora;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "przedsiębiorca telekomunikacyjny korzystający — przedsiębiorcę telekomunikacyjnego korzystającego z uwolnienia lokalnej pętli abonenckiej albo udostępnienia fizycznej przestrzeni lub urządzeń technicznych w celu umieszczenia i podłączenia niezbędnego sprzętu do sieci innego operatora lub wnioskującego o zapewnienie takiego uwolnienia albo udostępnienia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "punkt styku sieci — fizyczny lub logiczny punkt połączenia sieci telekomunikacyjnych przedsiębiorców telekomunikacyjnych lub użytkowników, o których mowa w art. 4 pkt 1, 2, 4, 5, 7 i 8 ustawy z dnia 16 lipca 2004 r. — Prawo telekomunikacyjne, niebędący zakończeniem sieci;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "sekunda z błędem (ES) — sekundę, w której wystąpił co najmniej jeden błędny bit;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_2/pkt_14",
+     "text": "sekunda ze znaczącym błędem (SES) — sekundę, w której wartość bitowej stopy błędów przekroczyła 10 -3 lub uszkodzonych jest co najmniej 30 % bloków;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_2/pkt_15",
+     "text": "urządzenie dostępu szerokopasmowego — urządzenie przyłączone do lokalnej pętli abonenckiej po stronie operatora udostępniającego lub przedsiębiorcy telekomunikacyjnego korzystającego umożliwiające świadczenie usługi szerokopasmowej transmisji danych w pełnym lub niegłosowym paśmie częstotliwości lokalnej pętli abonenckiej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_2/pkt_16",
+     "text": "uwolnienie lokalnej pętli abonenckiej — zapewnienie dostępu do lokalnej pętli abonenckiej, dostępu do urządzeń dostępu szerokopasmowego oraz dostępu do węzłów sieci telekomunikacyjnej używanych na potrzeby szerokopasmowej transmisji danych kierowanej do lokalnej pętli abonenckiej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_2/pkt_17",
+     "text": "węzły sieci telekomunikacyjnej — urządzenia w sieci telekomunikacyjnej używanej do świadczenia usług szerokopasmowej transmisji danych umożliwiające dostęp do tej sieci.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Zakres oferty ramowej o dostępie telekomunikacyjnym w zakresie połączeń sieci określa załącznik nr 1 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Zakres oferty ramowej o dostępie telekomunikacyjnym w zakresie łączy dzierżawionych określa załącznik nr 2 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Zakres oferty ramowej o dostępie telekomunikacyjnym w zakresie uwolnienia lokalnej pętli abonenckiej określa załącznik nr 3 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Oferta ramowa powinna być skonstruowana w taki sposób, aby przedsiębiorcy telekomunikacyjni korzystający z oferty nie musieli nabywać udogodnień towarzyszących, które nie są niezbędne do świadczenia usług telekomunikacyjnych przez tych przedsiębiorców telekomunikacyjnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Traci moc rozporządzenie Ministra Infrastruktury z dnia 29 kwietnia 2004 r. w sprawie szczegółowych wymagań związanych z zapewnieniem dostępu do lokalnej pętli abonenckiej i związanych z nim udogodnień (Dz. U. Nr 118, poz. 1235).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rozporządzenie wchodzi w życie z dniem 3 września 2005 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Infrastruktury: K. Opawski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Infrastruktury z dnia 11 sierpnia 2005 r. (poz. 1350)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Załącznik nr 1"
+    },
+    {
+     "type": "text",
+     "text": "ZAKRES OFERTY RAMOWEJ O DOSTĘPIE TELEKOMUNIKACYJNYM W ZAKRESIE POŁĄCZEŃ SIECI"
+    },
+    {
+     "type": "text",
+     "text": "Oferta ramowa o dostępie telekomunikacyjnym w zakresie połączeń sieci powinna określać: I. Procedurę zgłaszania wniosków o połączenie sieci. II. Procedurę zawierania umów o połączeniu sieci. III. Oferowane usługi w ramach połączonych publicznych sieci telekomunikacyjnych, zapewniające użytkownikom korzystającym z usług lub sieci jednego przedsiębiorcy telekomunikacyjnego komunikowanie się z użytkownikami korzystającymi z usług lub sieci tego samego lub innego przedsiębiorcy telekomunikacyjnego albo dostęp do usług dostarczanych przez innego przedsiębiorcę telekomunikacyjnego lub użytkowników, o których mowa w art. 4 pkt 1, 2, 4, 5, 7 i 8 ustawy z dnia 16 lipca 2004 r. — Prawo telekomunikacyjne. IV. Terminy:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "czas realizacji od momentu złożenia zamówienia: 1.1. na początkowe połączenia sieci telekomunikacyjnych, 1.2. na przebudowę wykorzystywanych punktów styku sieci;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "minimalny czas trwania umowy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "V. Zasady rozliczeń z tytułu niewykonania lub nienależytego wykonania świadczonych wzajemnie usług telekomunikacyjnych."
+      },
+      {
+       "type": "text",
+       "text": "VI. Warunki płatności, w tym terminy wnoszenia należności za usługi."
+      },
+      {
+       "type": "text",
+       "text": "VII. Rodzaj, wysokość i sposób naliczania opłat za poszczególne usługi."
+      },
+      {
+       "type": "text",
+       "text": "VIII. Fizyczną lub logiczną lokalizację punktów styku sieci, w tym identyfikację punktów styku sieci."
+      },
+      {
+       "type": "text",
+       "text": "IX. Techniczne opcje dotyczące połączenia sieci telekomunikacyjnych:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "w budynkach:",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. w lokalizacji przyłączanego przedsiębiorcy telekomunikacyjnego,"
+      },
+      {
+       "type": "text",
+       "text": "1.2. w lokalizacji przedsiębiorcy telekomunikacyjnego przyłączającego sieci;"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "w punktach pośrednich.",
+     "children": [
+      {
+       "type": "text",
+       "text": "X. Zasady kierowania ruchu telekomunikacyjnego do i od przyłączanego przedsiębiorcy telekomunikacyjnego wraz z zasadami kierowania ruchu w przypadku braku możliwości realizacji połaczenia za pośrednictwem pierwszej drogi kierowania, w szczególności w przypadku awarii lub braku przepustowości w punkcie styku sieci."
+      },
+      {
+       "type": "text",
+       "text": "XI. Łącza służące do połączenia sieci:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "rodzaje łączy połączenia międzyoperatorskiego;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "poziom jakości usług dla łączy połączenia międzyoperatorskiego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "XII. Usługi pomocnicze, świadczenia dodatkowe oraz usługi zaawansowane związane ze świadczeniem usług telekomunikacyjnych."
+      },
+      {
+       "type": "text",
+       "text": "XIII. Specyfikacje techniczne dotyczące sposobu realizacji punktu styku, z powołaniem właściwych norm krajowych, norm Europejskiego Instytutu Norm Telekomunikacyjnych (ETSI) lub zaleceń Międzynarodowego Związku Telekomunikacyjnego (ITU), a w przypadku ich braku — innych standardów technicznych wykorzystywanych przez operatora udostępniającego."
+      },
+      {
+       "type": "text",
+       "text": "XIV. Parametry jakości oferowanych usług świadczonych pomiędzy połączonymi sieciami."
+      },
+      {
+       "type": "text",
+       "text": "XV. Sposób i warunki realizacji uprawnień abonentów realizowanych w łączonych sieciach telekomunikacyjnych."
+      },
+      {
+       "type": "text",
+       "text": "XVI. Ogólne warunki i procedury:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "postępowania w przypadku zmian standardowych warunków umów o połączeniu sieci;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "rozstrzygania sporów;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "przeprowadzania testów interoperacyjności usług i kompatybilności elektromagnetycznej;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "zachowania integralności sieci oraz zachowania tajemnicy telekomunikacyjnej lub ochrony danych w sieci;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "postępowania w przypadku awarii sieci telekomunikacyjnej lub w sytuacjach szczególnego zagrożenia w celu zachowania ciągłości świadczenia usług telekomunikacyjnych;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "postępowania w przypadku zaproponowania zmian w sieciach lub usługach oferowanych przez jedną ze stron, włączając w to sposób dostępu do nowych lub zmienionych usług przedsiębiorcy telekomunikacyjnego o znaczącej pozycji rynkowej;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "rozwiązania umowy o połączeniu sieci;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "kolokacji, w tym kolokacji fizycznej, kolokacji na odległość oraz kolokacji wirtualnej;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "wspólnego korzystania z budynków oraz infrastruktury telekomunikacyjnej;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "dotyczące rekonfiguracji urządzeń przekierowujących ruch telekomunikacyjny;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "dotyczące prognozowania rozbudowy lub modyfikacji punktów styku sieci.",
+     "children": [
+      {
+       "type": "text",
+       "text": "XVII. Wzór wniosku o połączenie sieci, wzór umowy o połączeniu sieci oraz wzór umowy kolokacyjnej."
+      },
+      {
+       "type": "text",
+       "text": "Załącznik nr 2"
+      },
+      {
+       "type": "text",
+       "text": "ZAKRES OFERTY RAMOWEJ O DOSTĘPIE TELEKOMUNIKACYJNYM W ZAKRESIE ŁĄCZY DZIERŻAWIONYCH"
+      },
+      {
+       "type": "text",
+       "text": "Oferta ramowa o dostępie telekomunikacyjnym w zakresie łączy dzierżawionych powinna określać:"
+      },
+      {
+       "type": "text",
+       "text": "I. Tryb zawierania, zmiany i rozwiązywania umowy, w tym zasady realizacji przez przedsiębiorcę telekomunikacyjnego wydzierżawiającego łącza telekomunikacyjne prawa do jednostronnego częściowego odstąpienia od umowy związanego ze zwrotem pojedynczych łączy."
+      },
+      {
+       "type": "text",
+       "text": "II. Przedmiot oferty, określający:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "rodzaje łączy telekomunikacyjnych wraz z przywołaniem numeru dokumentu normalizacyjnego określającego ich parametry fizyczne i elektryczne;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "zasady zmiany miejsca zakończenia łącza telekomunikacyjnego, przy zachowaniu jego standardów jakościowych;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "oferowane w trakcie eksploatacji wartości ES i SES dla cyfrowych łączy dzierżawionych;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "dostępność cyfrowych łączy dzierżawionych;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "typowy czas odtworzenia usługi, liczony od momentu, w którym przedsiębiorca telekomunikacyjny wydzierżawiający łącze telekomunikacyjne powziął wiadomość o usterce lub awarii, do chwili gdy 80 % wszystkich łączy dzierżawionych tego samego typu zostało naprawionych i ponownie przekazanych do eksploatacji.",
+     "children": [
+      {
+       "type": "text",
+       "text": "III. Terminy przekazywania łączy do eksploatacji, które powinny być krótsze niż terminy przekazywania łączy do eksploatacji określone w regulaminie świadczenia usług obejmujących zapewnienie części lub całości minimalnego zestawu łączy dzierżawionych przedsiębiorcy telekomunikacyjnego wyznaczonego jako posiadającego znaczącą pozycję rynkową na rynkach detalicznych i nie powinny być dłuższe niż 30 dni."
+      },
+      {
+       "type": "text",
+       "text": "IV. Warunki świadczenia oferowanych usług:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "zasady przekazywania łączy do eksploatacji;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "zasady eksploatacji łączy telekomunikacyjnych, a w szczególności procedury postępowania i współpracy związane z awariami, usterkami, przerwami w pracy oraz planowanymi pracami;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "zasady zwrotu łączy telekomunikacyjnych w okresie obowiązywania umowy i po jej rozwiązaniu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "V. Rodzaj, wysokość i sposób naliczania opłat z tytułu świadczenia usługi dzierżawy łączy telekomunikacyjnych."
+      },
+      {
+       "type": "text",
+       "text": "VI. Warunki płatności, w tym terminy wnoszenia należności za usługi."
+      },
+      {
+       "type": "text",
+       "text": "VII. Tryb zwrotu pobranych należności."
+      },
+      {
+       "type": "text",
+       "text": "VIII. Tryb reklamacji oraz zasady odpowiedzialności operatora wydzierżawiającego łącze, w tym:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "wysokość kar umownych i bonifikat związanych z niewywiązaniem się z warunków określonych w umowie;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "zdarzenia, z którymi wiążą się kary umowne i bonifikaty.",
+     "children": [
+      {
+       "type": "text",
+       "text": "IX. Zasady kolokacji i dostępu do pomieszczeń, jeśli zakończenie łącza telekomunikacyjnego znajduje się w obiekcie znajdującym się w posiadaniu przedsiębiorcy telekomunikacyjnego wydzierżawiającego łącze."
+      },
+      {
+       "type": "text",
+       "text": "X. Zasady rozstrzygania sporów."
+      },
+      {
+       "type": "text",
+       "text": "XI. Czas trwania umowy, w tym wymagany minimalny czas trwania umowy dotyczącej danego rodzaju łącza telekomunikacyjnego."
+      },
+      {
+       "type": "text",
+       "text": "XII. Wzory zamówienia i protokołu odbioru łącza telekomunikacyjnego, wzory umów dotyczących usługi dzierżawy łączy telekomunikacyjnych oraz wzór umowy kolokacyjnej."
+      },
+      {
+       "type": "text",
+       "text": "XIII. Planowany termin przekazania łącza do eksploatacji oraz planowany czas odtwarzania usługi, w przypadku oferowanych po raz pierwszy typów łączy telekomunikacyjnych."
+      },
+      {
+       "type": "text",
+       "text": "XIV. Specyfikacje techniczne zakończeń sieci zawierające odniesienia do określonych przepisów międzynarodowych w rozumieniu art. 3 ustawy z dnia 16 lipca 2004 r. — Prawo telekomunikacyjne."
+      },
+      {
+       "type": "text",
+       "text": "XV. Tryb postępowania w przypadku niespełniania przez urządzenia końcowe użytkownika zasadniczych wymagań, o których mowa w art. 153 ustawy z dnia 16 lipca 2004 r. — Prawo telekomunikacyjne, oraz zasady zawieszenia świadczenia usługi dzierżawy łącza telekomunikacyjnego do czasu odłączenia urządzeń końcowych od punktu zakończenia sieci, zasady powiadomienia przedsiębiorcy telekomunikacyjnego o zawieszeniu i jego przyczynach oraz ponownego udostępnienia łącza telekomunikacyjnego po ustąpieniu przyczyn zawieszenia."
+      },
+      {
+       "type": "text",
+       "text": "Załącznik nr 3"
+      },
+      {
+       "type": "text",
+       "text": "ZAKRES OFERTY RAMOWEJ O DOSTĘPIE TELEKOMUNIKACYJNYM W ZAKRESIE UWOLNIENIA LOKALNEJ PĘTLI ABONENCKIEJ"
+      },
+      {
+       "type": "text",
+       "text": "Oferta ramowa o dostępie telekomunikacyjnym w zakresie uwolnienia lokalnej pętli abonenckiej powinna określać:"
+      },
+      {
+       "type": "text",
+       "text": "I. Procedurę zgłaszania wniosków o uwolnienie lokalnej pętli abonenckiej."
+      },
+      {
+       "type": "text",
+       "text": "II. Procedurę zawierania, zmieniania i rozwiązywania umów o uwolnienie lokalnej pętli abonenckiej."
+      },
+      {
+       "type": "text",
+       "text": "III. Warunki uwolnienia lokalnej pętli abonenckiej:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "elementy sieci, do których oferowany jest dostęp, obejmujące w szczególności:",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. lokalną pętlę abonencką,"
+      },
+      {
+       "type": "text",
+       "text": "1.2. urządzenia dostępu szerokopasmowego zapewniajace możliwość świadczenia usług szerokopasmowej transmisji danych w lokalnej pętli abonenckiej,"
+      },
+      {
+       "type": "text",
+       "text": "1.3. węzły sieci telekomunikacyjnej używane na potrzeby transmisji kierowanej do oraz z lokalnej pętli abonenckiej, w celu świadczenia usług szerokopasmowej transmisji danych;"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "charakterystykę elementów sieci, określającą ich zdolności transmisyjne obejmujące w szczególności:",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.1. możliwość korzystania z pełnego pasma częstotliwości lokalnej pętli abonenckiej w przypadku pełnego dostępu,"
+      },
+      {
+       "type": "text",
+       "text": "2.2. możliwość korzystania z niegłosowego pasma częstotliwości lokalnej pętli abonenckiej w przypadku dostępu współdzielonego,"
+      },
+      {
+       "type": "text",
+       "text": "2.3. możliwość zapewnienia przepływności w sieci telekomunikacyjnej używanej do świadczenia usług szerokopasmowej transmisji danych, pozwalającej na transmisję pomiędzy węzłami sieci telekomunikacyjnej i urządzeniami dostępu szerokopasmowego oraz umożliwiającą świadczenie usług szerokopasmowej transmisji danych w lokalnej pętli abonenckiej w jej pełnym lub niegłosowym paśmie częstotliwości,"
+      },
+      {
+       "type": "text",
+       "text": "2.4. możliwość zapewnienia elastyczności przepływności pomiędzy urządzeniami dostępu szerokopasmowego a węzłami sieci telekomunikacyjnej — w przypadku świadczenia usług szerokopasmowej transmisji danych, 2.5. możliwość zapewnienia korzystania z różnych klas usług transmisji danych, w szczególności: stałej przepływności bitów, zmiennej przepływności bitów w czasie rzeczywistym, zmiennej przepływności bitów w czasie nierzeczywistym — w przypadku świadczenia usług szerokopasmowej transmisji danych, 2.6. możliwość wydzielenia kanałów transmisji o określonej charakterystyce — w przypadku świadczenia szerokopasmowej transmisji danych;"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "sposób udzielania informacji o dostępności elementów sieci obejmujących wszystkie informacje niezbędne do uwolnienia lokalnej pętli abonenckiej, w szczególności informacje dotyczące schematu architektury: 3.1. sieci dostępowej, ze wskazaniem dostępności lokalnej pętli abonenckiej w konkretnych częściach sieci dostępowej, 3.2. sieci telekomunikacyjnej używanej do świadczenia usług szerokopasmowej transmisji danych oraz ulokowania węzłów sieci telekomunikacyjnej, ze wskazaniem lokalnych pętli abonenckich dostępnych za pośrednictwem tych węzłów na potrzeby świadczenia usług szerokopasmowej transmisji danych;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "warunki techniczne obejmujące w szczególności: 4.1. techniczną charakterystykę lokalnej pętli abonenckiej, z odniesieniem do odpowiednich norm i zaleceń organizacji międzynarodowych, umożliwiające określenie jakości tej pętli z punktu widzenia możliwości oferowania różnych usług zarówno w paśmie pełnym, jak i niegłosowym, w tym: długości i średnice przewodów, występowanie odgałęzień, cewek pupinizacyjnych, linii testujących oraz innych urządzeń mających wpływ na jakość transmisji w danej pętli abonenckiej, 4.2. specyfikacje techniczne dla urządzeń operatora udostępniającego wykorzystywanych do uwolnienia lokalnej pętli abonenckiej, z odniesieniem do odpowiednich norm i zaleceń organizacji międzynarodowych, w szczególności dla urządzeń umożliwiających oddzielenie głosowego i niegłosowego pasma częstotliwości lokalnej pętli abonenckiej, urządzeń dostępu szerokopasmowego oraz węzłów sieci telekomunikacyjnej, 4.3. techniczną charakterystykę sieci telekomunikacyjnej używanej do świadczenia usług szerokopasmowej transmisji danych niezbędną do realizacji uwolnienia lokalnej pętli abonenckiej poprzez dostęp do węzłów sieci telekomunikacyjnej, 4.4. informacje o ograniczeniach w użytkowaniu pasma częstotliwości i o wymogach kompatybilności elektromagnetycznej, 4.5. procedury uwolnienia lokalnej pętli abonenckiej, w szczególności:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_4/lit_a",
+       "text": "procedury testowe poprzedzające uwolnienie niezbędne dla weryfikacji jakości świadczonych usług,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_4/lit_b",
+       "text": "procedury zamawiania, uwolnienia i informowania o ograniczeniach w użytkowaniu.",
+       "children": [
+        {
+         "type": "text",
+         "text": "IV. Usługi kolokacyjne, w szczególności:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "usługi obejmujące:",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. udostępnienie miejsc kolokacyjnych,"
+      },
+      {
+       "type": "text",
+       "text": "1.2. udostępnienie przełącznicy pośredniczącej,"
+      },
+      {
+       "type": "text",
+       "text": "1.3. udostępnienie zewnętrznych i wewnętrznych kabli łącznikowych oraz czynności związane z ich ułożeniem,"
+      },
+      {
+       "type": "text",
+       "text": "1.4. określenie sposobów realizacji dostępu do węzłów sieci telekomunikacyjnej, w tym:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_1/lit_a",
+       "text": "w lokalizacji operatora udostępniającego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "w lokalizacji przedsiębiorcy telekomunikacyjnego korzystającego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/lit_c",
+       "text": "w punkcie pośrednim,",
+       "children": [
+        {
+         "type": "text",
+         "text": "1.5. udostępnienie łączy dzierżawionych niezbędnych do dostępu do węzłów sieci telekomunikacyjnej,"
+        },
+        {
+         "type": "text",
+         "text": "1.6. udostępnienie elementów infrastruktury niezbędnych do dostępu do węzłów sieci telekomunikacyjnej, w szczególności: włókien światłowodowych, kanalizacji, masztów lub powierzchni dachowej,"
+        },
+        {
+         "type": "text",
+         "text": "1.7. określenie szczegółowych zasad budowy i rozbudowy węzłów sieci telekomunikacyjnej, w tym zwiększania jej pojemności,"
+        },
+        {
+         "type": "text",
+         "text": "1.8. określenie rodzajów interfejsów i innych specyfikacji technicznych urządzeń umieszczanych w punktach dostępu do węzłów sieci telekomunikacyjnej niezbędnych do prawidłowej realizacji dostępu,"
+        },
+        {
+         "type": "text",
+         "text": "1.9. udostępnienie zasilania,"
+        },
+        {
+         "type": "text",
+         "text": "1.10. udostępnienie klimatyzacji, wentylacji, chłodzenia i ogrzewania,"
+        },
+        {
+         "type": "text",
+         "text": "1.11. instalację urządzeń związanych z uwolnieniem lokalnej pętli abonenckiej;"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "udostępnienie informacji o miejscach i opcjach kolokacyjnych, w tym dokładne określenie lokalizacji odpowiednich miejsc kolokacyjnych operatora udostępniającego, włączając w to:",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.1. udostępnianie informacji o lokalizacji miejsc kolokacyjnych obejmujące centrale, przełącznice główne i inne podobne urządzenia — w przypadku lokalnej pętli abonenckiej,"
+      },
+      {
+       "type": "text",
+       "text": "2.2. udostępnianie informacji o lokalizacji miejsc kolokacyjnych obejmujące koncentratory oraz podobne urządzenia, łącznie z oddalonymi punktami rozdzielczymi, takimi jak szafki uliczne, skrzynki rozdzielcze i wydzielone pomieszczenia — w przypadku lokalnej podpętli abonenckiej,"
+      },
+      {
+       "type": "text",
+       "text": "2.3. udostępnianie informacji o lokalizacji miejsc kolokacyjnych obejmujące fizyczne punkty sieci telekomunikacyjnej, łącznie z budynkami i pomieszczeniami — w przypadku węzłów sieci telekomunikacyjnej,"
+      },
+      {
+       "type": "text",
+       "text": "2.4. informacje o dostępności rozwiązań alternatywnych — w przypadku braku dostępności kolokacji fizycznej,"
+      },
+      {
+       "type": "text",
+       "text": "2.5. rodzaje dostępnych kolokacji w poszczególnych miejscach kolokacyjnych określonych przy wzięciu pod uwagę wielkości danej przełącznicy lub koncentratora oraz przewidywanej liczby wnioskujących o dostęp przedsiębiorców telekomunikacyjnych korzystających, w szczególności: kolokację fizyczną (w tym kolokację oddzieloną lub kolokację przemieszaną), kolokację na odległość oraz kolokację wirtualną,"
+      },
+      {
+       "type": "text",
+       "text": "2.6. dostępność i parametry instalacji elektrycznej, zasilania, wentylacji i klimatyzacji w miejscach kolokacyjnych,"
+      },
+      {
+       "type": "text",
+       "text": "2.7. zasady poddzierżawiania miejsc kolokacyjnych;"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "przedstawienie zasad używania miejsc kolokacyjnych w przypadku, gdy zapotrzebowanie zgłaszane przez przedsiębiorców telekomunikacyjnych korzystających będzie przekraczać dostępne zasoby wraz ze sposobem usunięcia powstałych ograniczeń w przyszłości;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "przedstawienie charakterystyk urządzeń podłączanych, w tym ewentualne ograniczenia, jeśli istnieją, co do rodzaju urządzeń podłączanych;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "przedstawienie stosowanych środków bezpieczeństwa, w szczególności:",
+     "children": [
+      {
+       "type": "text",
+       "text": "5.1. podejmowanych przez operatora udostępniającego w celu zapewnienia bezpieczeństwa miejsc kolokacyjnych,"
+      },
+      {
+       "type": "text",
+       "text": "5.2. dotyczących warunków dostępu personelu przedsiębiorców telekomunikacyjnych korzystających w celu sprawdzania urządzeń, ich konserwacji i dokonywania potrzebnych napraw;"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "przedstawienie stosowanych standardów bezpieczeństwa;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "przedstawienie warunków przeprowadzenia przez przedsiębiorców telekomunikacyjnych korzystających wglądu do miejsc kolokacji oraz miejsc, w których kolokacji odmówiono.",
+     "children": [
+      {
+       "type": "text",
+       "text": "V. Warunki dostępu do systemów informacyjnych obejmujące w szczególności wskazanie odpowiednich wspierających systemów operacyjnych, systemów informatycznych i baz danych oraz sposobu korzystania z nich w zakresie niezbędnym dla:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "prawidłowego i efektywnego zamawiania i uwolnienia lokalnej pętli abonenckiej;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "realizacji wniosków w sprawie konserwacji i napraw sieci;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "naliczania opłat. VI. Warunki uwolnienia lokalnej pętli abonenckiej obejmujące w szczególności wskazanie:",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "terminów udzielenia odpowiedzi na wnioski o uwolnienie lokalnej pętli abonenckiej;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "terminów, w których operator udostępniający jest obowiązany do uwolnienia lokalnej pętli abonenckiej; terminy te powinny być ustalone jak dla realizacji 95 % zamówienia tego samego typu w okresie 6 miesięcy poprzedzających przygotowanie ramowej oferty, z uwzględnieniem zamówień złożonych przez jednostki organizacyjne operatora i jego podmioty zależne; w przypadku gdy jest to niemożliwe — na podstawie własnych danych; przy określeniu terminów nie uwzględnia się opóźnień w realizacji, wynikających z wniosków użytkowników;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "trybu zapewnienia jednoczesnej realizacji uprawnienia abonenta, o którym mowa w art. 71 ustawy z dnia 16 lipca 2004 r. — Prawo telekomunikacyjne (przenośność numeru), i realizacji pełnego dostępu do lokalnej pętli abonenckiej;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "warunków migracji z dostępu do węzłów sieci telekomunikacyjnej do dostępu do lokalnej pętli abonenckiej;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "zasad eksploatacji, w tym procedur postępowania i współpracy przedsiębiorców telekomunikacyjnych, związanych z awariami, usterkami, przerwami w pracy oraz z planowanymi pracami remontowymi i innymi;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "standardów dostępności, niezawodności i innych parametrów określających gwarantowaną jakość usług świadczonych przez operatora udostępniającego oraz obowiązków operatora udostępniającego dotyczących okresowego przesyłania przedsiębiorcom telekomunikacyjnym korzystającym informacji o faktycznej jakości usług, które zostały świadczone w danym okresie;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "trybu reklamacyjnego oraz zasad odpowiedzialności operatora udostępniającego, w tym rodzaju i wysokości kar umownych i bonifikat związanych z niewywiązaniem się z warunków określonych w umowie, w szczególności warunków wymienionych w pkt 1—6;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "rodzajów, wysokości i zasad naliczania opłat za wszelkie usługi świadczone w ramach uwolnienia lokalnej pętli abonenckiej; opłaty te powinny być określone w sposób szczegółowy i przejrzysty;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "warunków płatności;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "zasad rozstrzygania sporów;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "trybu zwrotu pobranych należności. VII. Wzory umów o zapewnienie dostępu, wzory zamówień, wzory umów kolokacyjnych, wzory protokołów zdawczo-odbiorczych oraz wzory innych dokumentów niezbędnych do realizacji postanowień umów.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Infrastruktury kieruje działem administracji rządowej — łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 czerwca 2004 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. Nr 134, poz. 1429)."
+ }
+}

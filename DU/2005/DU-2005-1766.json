@@ -1,0 +1,283 @@
+{
+ "eli": "DU/2005/1766",
+ "title": "Rozporządzenie Rady Ministrów z dnia 11 października 2005 r. w sprawie minimalnych wymagań dla systemów teleinformatycznych",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/1766/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 października 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie minimalnych wymagań dla systemów teleinformatycznych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 18 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa minimalne wymagania dla systemów teleinformatycznych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Systemy teleinformatyczne używane przez podmioty publiczne do realizacji zadań publicznych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "powinny spełniać właściwości i cechy w zakresie funkcjonalności, niezawodności, używalności, wydajności, przenoszalności i pielęgnowalności, określone w normach ISO zatwierdzonych przez krajową jednostkę normalizacyjną, na etapie projektowania, wdrażania i modyfikowania tych systemów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "powinny zostać wyposażone w składniki sprzętowe i oprogramowanie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_2/lit_a",
+       "text": "umożliwiające wymianę danych z innymi systemami teleinformatycznymi używanymi do realizacji zadań publicznych za pomocą protokołów komunikacyjnych i szyfrujących określonych w załączniku nr 1 do rozporządzenia, stosownie do zakresu działania tych systemów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_2/lit_b",
+       "text": "zapewniające dostęp do zasobów informacji udostępnianych przez systemy teleinformatyczne używane do realizacji zadań publicznych przy wykorzystaniu formatów danych określonych w załączniku nr 2 do rozporządzenia.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Podmiot publiczny opracowuje, modyfikuje w zależności od potrzeb oraz wdraża politykę bezpieczeństwa dla systemów teleinformatycznych używanych przez ten podmiot do realizacji zadań publicznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Przy opracowywaniu polityki bezpieczeństwa, o której mowa w ust. 1, podmiot publiczny powinien uwzględniać postanowienia Polskich Norm z zakresu bezpieczeństwa informacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: w z. I. Jaruga-Nowacka"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Rady Ministrów z dnia 11 października 2005 r. (poz. 1766) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "PROTOKOŁY KOMUNIKACYJNE I SZYFRUJĄCE UMOŻLIWIAJĄCE WYMIANĘ DANYCH Z INNYMI SYSTEMAMI TELEINFORMATYCZNYMI UŻYWANYMI DO REALIZACJI ZADAŃ PUBLICZNYCH"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa normy, standardu lub dokumentu normalizacyjnego albo standaryzacyjnego"
+    },
+    {
+     "type": "ocr",
+     "text": "Organizacja określająca normę lub standard"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa skrócona protokołu oraz jego wersja"
+    },
+    {
+     "type": "ocr",
+     "text": "Oryginalna pełna nazwa protokołu Opis protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Do szyfrowania wymiany danych z systemami teleinformatycznymi stosuje się co najmniej jeden z następujących protokołów:"
+    },
+    {
+     "type": "ocr",
+     "text": "Secure Sockets Protokół szyfrujący dla 3.1 | SSL wersja 3/TLS | Layer / Transport OF szyiTujacy IETF RFC 2246 J sieci WWW Layer Securit RFC 2631 3 S/MIME pe Protokół szyfrujacy dla RFC 2632 wersja 3 p poczty elektronicznej RFC 2633"
+    },
+    {
+     "type": "ocr",
+     "text": "4"
+    },
+    {
+     "type": "ocr",
+     "text": "4"
+    },
+    {
+     "type": "ocr",
+     "text": "Protokół komunikacyjny odpowiedzialny za odnajdywanie, RFC 1035 informacji o adresach IP 42 FTP File Transfer Protokół przesyłania IETF RFC 959 Protocol plików . . Protokół wywoływania SOAP Simple Object 3 wersja 1.2 Access Protocol zdalnego dostępu do W3C obiektów Web Services . 4.4 WSDL Description Jezyk OPISU usług W3C wersja 1.1 L sieciowych anguage"
+    },
+    {
+     "type": "ocr",
+     "text": "Domain Name"
+    },
+    {
+     "type": "ocr",
+     "text": "Mail Extensions RFC 3369"
+    },
+    {
+     "type": "ocr",
+     "text": "Do wymiany danych z systemami teleinformatycznymi w zakresie innych usług sieciowych stosuje się co najmniej jeden z następujących protokołów:"
+    },
+    {
+     "type": "ocr",
+     "text": "System"
+    },
+    {
+     "type": "ocr",
+     "text": "2"
+    },
+    {
+     "type": "ocr",
+     "text": "1"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "FORMATY DANYCH ZAPEWNIAJĄCE DOSTĘP DO ZASOBÓW INFORMACJI UDOSTĘPNIANYCH ZA POMOCĄ SYSTEMÓW TELEINFORMATYCZNYCH UŻYWANYCH DO REALIZACJI ZADAŃ PUBLICZNYCH"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa normy, Nazwa skrócona Organizacja standardu lub Oryginalna pełna . określająca dokumentu Lp. standardu Opis standardu - - : - nazwa standardu normę lub normalizacyjnego oraz jego wersja standard albo standaryzacyjnego 1 2 3 4 5 6"
+    },
+    {
+     "type": "ocr",
+     "text": "3. Do danych zawierających informację graficzną stosuje się co najmniej jeden z następujących formatów danych:"
+    },
+    {
+     "type": "ocr",
+     "text": "Digital compression and Pliki typu .jpg (Joint 3.1 jpg (jpeg) coding of Photographic Experts ISO ISO 10918 continuous-tone Group) still images . Graphics 3.2 gif Interchange Pliki typu „gif CompuServe wersja 98a Inc. Format 3.3 tf (tiff) Tagged Image File Pliki typu .tf Systeme i aa Format ypu . y Inc."
+    },
+    {
+     "type": "ocr",
+     "text": "Portable Network . i 3.4 .png Graphics Plik typu .png ISO ISO/IEC 15948:2003 3.5 .svg Scalable Vector Grafika wektorowa W3C Graphics"
+    },
+    {
+     "type": "ocr",
+     "text": "4 Do kompresji (zmniejszenia objętości) dokumentów elektronicznych o dużych rozmiarach stosuje ' się co najmniej jeden z następujących formatów danych:"
+    },
+    {
+     "type": "ocr",
+     "text": "4.1 Zip ZIP file format Format kompresji plików iwa Format archiwizacji plików 4.2 „tar Tape Archiver (używane zwykle wraz z FSF"
+    },
+    {
+     "type": "ocr",
+     "text": "GZIP file format RAR file format"
+    },
+    {
+     "type": "ocr",
+     "text": ".gz Format kompresji plików Format kompresji plików"
+    },
+    {
+     "type": "ocr",
+     "text": "RFC 1952 RarSoft"
+    },
+    {
+     "type": "ocr",
+     "text": "5 Do tworzenia i modyfikacji stron WWW stosuje się co najmniej jeden z następujących formatów . danych:"
+    },
+    {
+     "type": "ocr",
+     "text": "Standard jezyka 5.1 worse. 01 Hypertext Markup znaczników formatujących W3C Ja *- guag strony WWW XHTML Extensible Standard jezyka 5.2 wersia 1.0 Hypertext Markup | znaczników formatujących W3C Ja |. Language strony WWW Standard języka znaczników formatujących strony WWW 5.3 HTML Hypertext Markup wykorzystywany w W3C wersja 3.2 Language . „, zakresie prezentacji informacji w komputerach kieszonkowych (PDA) 5.4 css Cascading Style | kaskadowy Arkusz Stylu | W3C Sheets Standard dostarczania Wireless komunikatów internetowych oraz NR świadczenia zaawansowanych 5.5 WAP Application usług telefonicznych poprzez OMA Protocol telefony komórkowe, pagery oraz inne terminale cyfrowe"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa normy, z Organizacja standardu lub Nazwa skrócona Oryginalna pełna : okreSlajaca dokumentu Lp. standardu Opis standardu - - . . nazwa standardu normę lub normalizacyjnego oraz jego wersja standard albo standaryzacyjnego 1 2 3 4 5 6"
+    },
+    {
+     "type": "ocr",
+     "text": "B Do określenia układu informacji w dokumencie elektronicznym stosuje się następujące formaty , danych:"
+    },
+    {
+     "type": "ocr",
+     "text": "1 Do definiowania układu informacji polegającego na określeniu elementów informacyjnych oraz ' powiązań między nimi stosuje się następujące formaty danych: Standard uniwersalnego , formatu tekstowego 1.1 XML Patensipie Markup stuzacego do zapisu W3C guag danych w formie elektronicznej Standard opisu definicji 12 XSD struktury dokumentów W3C i (schemat XML) zapisanych w formacie XML 13 GML Geography Język Znaczników OGC Markup Language Geograficznych"
+    },
+    {
+     "type": "ocr",
+     "text": "2 Do przetwarzania dokumentów zapisanych w formacie XML stosuje się co najmniej jeden . z następujących formatów danych:"
+    },
+    {
+     "type": "ocr",
+     "text": "Extensible Jezyk formatowania 2.1 XSL Stylesheet czy W3C danych XML Language Extensible Stylesheet Język formatowania 2.2 XSLT Language danych XML W3C Transformation"
+    },
+    {
+     "type": "ocr",
+     "text": "Objaśnienia skrótów nazw organizacji z kol. 5:"
+    },
+    {
+     "type": "ocr",
+     "text": "FSF IETF ISO"
+    },
+    {
+     "type": "ocr",
+     "text": "— Free Software Foundation — Internet Engineering Task Force — International Standardization Organization OASIS — Organization for the Advancement of Structured Information Standards OGC OMA W3C"
+    },
+    {
+     "type": "ocr",
+     "text": "— Open Geospatial Consortium Inc. — Open Mobile Alliance — World Wide Web Consortium"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

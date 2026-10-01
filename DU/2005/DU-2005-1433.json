@@ -1,0 +1,620 @@
+{
+ "eli": "DU/2005/1433",
+ "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 25 sierpnia 2005 r. w sprawie podstawowych wymagań bezpieczeństwa teleinformatycznego",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/1433/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 sierpnia 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie podstawowych wymagań bezpieczeństwa teleinformatycznego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 62 ust. 1 ustawy z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz. U. Nr 11, poz. 95, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "podstawowe wymagania bezpieczeństwa teleinformatycznego, jakim powinny odpowiadać systemy i sieci teleinformatyczne służące do wytwarzania, przetwarzania, przechowywania lub przekazywania informacji niejawnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "sposób opracowywania dokumentów szczególnych wymagań bezpieczeństwa i procedur bezpiecznej eksploatacji systemów lub sieci teleinformatycznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "incydencie bezpieczeństwa teleinformatycznego — należy przez to rozumieć każde zdarzenie naruszające bezpieczeństwo teleinformatyczne spowodowane w szczególności awarią systemu lub sieci teleinformatycznej, działaniem osób uprawnionych lub nieuprawnionych do pracy w tym systemie lub sieci albo zaniechaniem osób uprawnionych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "przekazywaniu informacji niejawnych — należy przez to rozumieć zarówno transmisję informacji niejawnych, jak i przekazywanie elektronicznego nośnika danych, na którym zostały one utrwalone;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "przetwarzaniu informacji niejawnych — należy przez to rozumieć także wytwarzanie, przechowywanie lub przekazywanie informacji niejawnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Podstawowe wymagania bezpieczeństwa teleinformatycznego"
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Bezpieczeństwo teleinformatyczne zapewnia się, chroniąc informacje przetwarzane w systemach i sieciach teleinformatycznych przed utratą właściwości gwarantujących to bezpieczeństwo, w szczególności przed utratą poufności, dostępności i integralności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Bezpieczeństwo teleinformatyczne zapewnia się przed rozpoczęciem oraz w trakcie przetwarzania informacji niejawnych w systemie lub sieci teleinformatycznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Za właściwą organizację bezpieczeństwa teleinformatycznego odpowiada kierownik jednostki organizacyjnej, który w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "zapewnia opracowanie dokumentacji bezpieczeństwa teleinformatycznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "realizuje ochronę fizyczną, elektromagnetyczną i kryptograficzną systemu lub sieci teleinformatycznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "zapewnia niezawodność transmisji oraz kontrolę dostępu do urządzeń systemu lub sieci teleinformatycznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "dokonuje analizy stanu bezpieczeństwa teleinformatycznego oraz zapewnia usunięcie stwierdzonych nieprawidłowości;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_4/pkt_5",
+     "text": "zapewnia przeszkolenie z zakresu bezpieczeństwa teleinformatycznego dla osób uprawnionych do pracy w systemie lub sieci teleinformatycznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_4/pkt_6",
+     "text": "zawiadamia właściwą służbę ochrony państwa o zaistniałym incydencie bezpieczeństwa teleinformatycznego dotyczącym informacji niejawnych oznaczonych co najmniej klauzulą „poufne”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Ochrona fizyczna systemu lub sieci teleinformatycznej polega na:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "umieszczeniu urządzeń systemu lub sieci teleinformatycznej w strefie bezpieczeństwa, strefie administracyjnej lub specjalnej strefie bezpieczeństwa, zwanych dalej „strefą kontrolowanego dostępu” w zależności od:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_5/pkt_1/lit_a",
+       "text": "klauzuli tajności,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_5/pkt_1/lit_b",
+       "text": "ilości,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_5/pkt_1/lit_c",
+       "text": "zagrożeń dla poufności, integralności lub dostępności",
+       "children": [
+        {
+         "type": "text",
+         "text": "— informacji niejawnych;"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "zastosowaniu środków zapewniających ochronę fizyczną, w szczególności przed:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_5/pkt_2/lit_a",
+       "text": "nieuprawnionym dostępem,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_5/pkt_2/lit_b",
+       "text": "podglądem,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_5/pkt_2/lit_c",
+       "text": "podsłuchem.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Ochrona elektromagnetyczna systemu lub sieci teleinformatycznej polega na niedopuszczeniu do utraty poufności i dostępności informacji niejawnych przetwarzanych w urządzeniach teleinformatycznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Utrata poufności następuje w szczególności na skutek wykorzystania elektromagnetycznej emisji ujawniającej pochodzącej z tych urządzeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Utrata dostępności następuje w szczególności na skutek zakłócania pracy urządzeń teleinformatycznych za pomocą impulsów elektromagnetycznych o dużej mocy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Ochronę elektromagnetyczną systemu lub sieci teleinformatycznej zapewnia się w szczególności przez umieszczenie urządzeń teleinformatycznych, połączeń i linii w strefach kontrolowanego dostępu spełniających wymagania w zakresie tłumienności elektromagnetycznej odpowiednio do wyników szacowania ryzyka dla informacji niejawnych, o którym mowa w § 12, lub zastosowanie odpowiednich urządzeń teleinformatycznych, połączeń i linii o obniżonym poziomie emisji lub ich ekranowanie z jednoczesnym filtrowaniem zewnętrznych linii zasilających i sygnałowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Ochrona kryptograficzna informacji niejawnych przetwarzanych w systemie lub sieci teleinformatycznej polega na zastosowaniu mechanizmów gwarantujących ich poufność, integralność oraz uwierzytelnienie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Ochronę kryptograficzną stosuje się przy przekazywaniu informacji niejawnych w formie transmisji poza strefę kontrolowanego dostępu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Przekazywanie informacji niejawnych utrwalonych na elektronicznych nośnikach danych poza strefę kontrolowanego dostępu odbywa się z zapewnieniem, odpowiedniej do klauzuli tajności tych informacji, ochrony kryptograficznej lub po spełnieniu wymagań, o których mowa w przepisach w sprawie trybu i sposobu przyjmowania, przewożenia, wydawania i ochrony materiałów, w celu ich zabezpieczenia przed nieuprawnionym ujawnieniem, utratą, uszkodzeniem lub zniszczeniem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Niezawodność transmisji polega na zapewnieniu integralności i dostępności informacji niejawnych przekazywanych w systemach lub sieciach teleinformatycznych. Zapewnia się ją w szczególności przez wykorzystywanie zapasowych łączy telekomunikacyjnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "W celu zapewnienia kontroli dostępu do systemu lub sieci teleinformatycznej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_1/pkt_1",
+       "text": "kierownik jednostki organizacyjnej lub osoba przez niego upoważniona ustala warunki i sposób przydzielania uprawnień osobom uprawnionym do pracy w systemie lub sieci teleinformatycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_1/pkt_2",
+       "text": "administrator systemów określa warunki oraz sposób przydzielania tym osobom kont oraz mechanizmów kontroli dostępu, a także zapewnia ich właściwe wykorzystanie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "System lub sieć teleinformatyczną wyposaża się w mechanizmy kontroli dostępu odpowiednie do klauzuli tajności informacji niejawnych w nich przetwarzanych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Projektowanie, organizacja i eksploatacja systemu lub sieci teleinformatycznej służącej do przetwarzania informacji niejawnych stanowiących tajemnicę państwową odbywa się w sposób uniemożliwiający niekontrolowany dostęp jednej osoby do wszystkich zasobów systemu lub sieci, w szczególności danych, informacji, oprogramowania, narzędzi lub urządzeń teleinformatycznych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Służby ochrony państwa mogą dopuścić do stosowania w systemie lub sieci teleinformatycznej urządzenia lub narzędzia, które spełniają właściwe wymagania bezpieczeństwa, jeżeli otrzymały stosowny certyfikat krajowej władzy bezpieczeństwa w państwie będącym stroną Organizacji Traktatu Północnoatlantyckiego lub w państwie członkowskim Unii Europejskiej.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Sposób opracowywania dokumentacji bezpieczeństwa teleinformatycznego"
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Dokumenty szczególnych wymagań bezpieczeństwa opracowuje się po przeprowadzeniu szacowania ryzyka dla informacji niejawnych, które mają być przetwarzane w danym systemie lub sieci teleinformatycznej, z uwzględnieniem warunków charakterystycznych dla jednostki organizacyjnej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Przy opracowaniu szczególnych wymagań bezpieczeństwa systemu lub sieci teleinformatycznej uwzględnia się w szczególności dane o budowie oraz charakterystykę systemu lub sieci teleinformatycznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Dane o budowie systemu lub sieci teleinformatycznej obejmują dane dotyczące elementów wchodzących w skład tego systemu lub sieci w zakresie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_2/pkt_1",
+       "text": "lokalizacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_2/pkt_2",
+       "text": "typu wykorzystywanych urządzeń oraz oprogramowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_13/ust_2/pkt_3",
+       "text": "sposobu realizowania połączeń wewnętrznych oraz zewnętrznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_13/ust_2/pkt_4",
+       "text": "konfiguracji sprzętowej i ustawień mechanizmów zabezpieczających;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_13/ust_2/pkt_5",
+       "text": "środowiska eksploatacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Charakterystyka systemu lub sieci teleinformatycznej powinna określać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_3/pkt_1",
+       "text": "klauzulę tajności informacji niejawnych, które będą w nich przetwarzane;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_3/pkt_2",
+       "text": "kategorie uprawnień osób uprawnionych do pracy w systemie lub sieci teleinformatycznej w zakresie dostępu do przetwarzanych w nich informacji niejawnych, w zależności od klauzuli tajności tych informacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_13/ust_3/pkt_3",
+       "text": "tryb bezpieczeństwa pracy systemu lub sieci teleinformatycznej.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Szczególne wymagania bezpieczeństwa określają co najmniej:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_14/pkt_1",
+     "text": "osoby odpowiedzialne za wdrożenie środków zapewniających bezpieczeństwo teleinformatyczne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_14/pkt_2",
+     "text": "zadania osób odpowiedzialnych za bezpieczeństwo teleinformatyczne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_14/pkt_3",
+     "text": "granice i lokalizację stref kontrolowanego dostępu oraz środki ich ochrony;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_14/pkt_4",
+     "text": "środki ochrony kryptograficznej, elektromagnetycznej, technicznej lub organizacyjnej systemu lub sieci teleinformatycznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_14/pkt_5",
+     "text": "inne zastosowane środki ochrony zapewniające bezpieczeństwo teleinformatyczne informacji niejawnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_14/pkt_6",
+     "text": "zasady zarządzania ryzykiem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_14/pkt_7",
+     "text": "zasady szkolenia z zakresu bezpieczeństwa teleinformatycznego osób odpowiedzialnych za bezpieczeństwo teleinformatyczne oraz osób uprawnionych do pracy w systemie lub sieci teleinformatycznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Procedury bezpiecznej eksploatacji zawierają szczegółowy wykaz czynności wraz z dokładnym opisem sposobu ich wykonania, które powinny być realizowane przez osoby odpowiedzialne za bezpieczeństwo teleinformatyczne oraz osoby uprawnione do pracy w systemie lub sieci teleinformatycznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Szczegółowy wykaz czynności powinien być ujęty w tematycznie wyodrębnione procedury bezpieczeństwa dotyczące w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_2/pkt_1",
+       "text": "administrowania systemem lub siecią teleinformatyczną;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_2/pkt_2",
+       "text": "bezpieczeństwa osobowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_2/pkt_3",
+       "text": "bezpieczeństwa dokumentów i materiałów niejawnych, w tym procedur sporządzania kopii z tych dokumentów oraz niszczenia dokumentów i ich kopii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_15/ust_2/pkt_4",
+       "text": "ochrony kryptograficznej, elektromagnetycznej, fizycznej, niezawodności transmisji lub kontroli dostępu do urządzeń systemu lub sieci teleinformatycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_15/ust_2/pkt_5",
+       "text": "bezpieczeństwa urządzeń i oprogramowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_15/ust_2/pkt_6",
+       "text": "zapewnienia ciągłości działania systemu lub sieci teleinformatycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_15/ust_2/pkt_7",
+       "text": "zarządzania konfiguracją;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_15/ust_2/pkt_8",
+       "text": "audytu bezpieczeństwa.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "W procedurach, o których mowa w § 15, określa się tryb postępowania przez osoby odpowiedzialne za bezpieczeństwo teleinformatyczne oraz osoby uprawnione do pracy w systemie lub sieci teleinformatycznej w sytuacji wystąpienia incydentu bezpieczeństwa teleinformatycznego.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Przepisy końcowe"
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 25 lutego 1999 r. w sprawie podstawowych wymagań bezpieczeństwa systemów i sieci teleinformatycznych (Dz. U. Nr 18, poz. 162).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Belka"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 12, poz. 136 i Nr 39, poz. 462, z 2001 r. Nr 22, poz. 247, Nr 27, poz. 298, Nr 56, poz. 580, Nr 110, poz. 1189, Nr 123, poz. 1353 i Nr 154, poz. 1800, z 2002 r. Nr 74, poz. 676, Nr 89, poz. 804 i Nr 153, poz. 1271, z 2003 r. Nr 17, poz. 155, z 2004 r. Nr 29, poz. 257 oraz z 2005 r. Nr 85, poz. 727."
+ }
+}

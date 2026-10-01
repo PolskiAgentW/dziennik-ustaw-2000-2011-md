@@ -1,0 +1,1776 @@
+{
+ "eli": "DU/2005/500",
+ "title": "Rozporządzenie Ministra Zdrowia z dnia 11 marca 2005 r. w sprawie szczegółowych wymagań Dobrej Praktyki Klinicznej",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/500/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ZDROWIA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 marca 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczegółowych wymagań Dobrej Praktyki Klinicznej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 37g ustawy z dnia 6 września 2001 r. — Prawo farmaceutyczne (Dz. U. z 2004 r. Nr 53, poz. 533, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "audyt — niezależną kontrolę procedur i dokumentacji badania klinicznego prowadzoną przez sponsora, jako element systemu zapewnienia jakości, w celu ustalenia, czy badanie jest lub było prowadzone zgodnie z protokołem badania klinicznego, a dane uzyskane w związku z badaniem są lub były zbierane, analizowane i raportowane zgodnie z protokołem badania klinicznego i standardowymi procedurami postępowania (SOP);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "dokumenty źródłowe — oryginalne dokumenty, dane i zapisy, w szczególności historia choroby, wyciąg z dokumentacji zbiorczej wewnętrznej szpitala, dokumentacja wynikająca z protokołu badania klinicznego, wyniki badań laboratoryjnych, karty zleceń lekarskich, wydruki wyników badań z automatycznych urządzeń medycznych, lub ich kopie po sprawdzeniu i poświadczeniu ich zgodności z oryginałem, mające związek z prowadzonym badaniem klinicznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "karta obserwacji klinicznej (CRF) — dokument, w wersji papierowej lub elektronicznej, służący do zapisu wymaganych przez protokół badania klinicznego informacji dotyczących uczestnika badania celem ich raportowania sponsorowi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "monitorowanie — czynności prowadzone na zlecenie sponsora polegające na ocenie postępu badania klinicznego i zapewnieniu zgodności sposobu jego prowadzenia w szczególności z protokołem badania klinicznego, standardowymi procedurami postępowania (SOP) i wymaganiami Dobrej Praktyki Klinicznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "organizacja prowadząca badanie kliniczne na zlecenie (CRO) — osobę lub jednostkę organizacyjną, której sponsor zleca wykonanie określonych obowiązków lub zadań związanych z badaniem klinicznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "podstawowa dokumentacja badania klinicznego — dokumenty badania klinicznego, na których podstawie można odtworzyć sposób prowadzenia badania, a także ocenić jakość uzyskanych danych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "standardowe procedury postępowania (SOP) — szczegółowe, pisemne instrukcje, opracowane przez sponsora w celu ujednolicenia sposobu wykonywania określonych czynności związanych z badaniem klinicznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "wsteczna weryfikacja zmian danych — sposób prowadzenia dokumentacji badania klinicznego umożliwiający wsteczne odtworzenie przebiegu badania i wszelkich związanych z nim zdarzeń i decyzji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Badanie kliniczne musi być:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "uzasadnione wynikami badań przedklinicznych oraz, jeżeli dotyczy, danymi uzyskanymi z wcześniejszych badań klinicznych z badanym produktem leczniczym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "uzasadnione naukowo i opisane w protokole badania klinicznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "oparte na zasadach etycznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "prowadzone przez osoby posiadające odpowiednie kwalifikacje oraz w sposób gwarantujący jego właściwą jakość;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "przeprowadzane w ośrodku badawczym, w szczególności w zakładzie opieki zdrowotnej, w ramach indywidualnej praktyki lekarskiej, indywidualnej specjalistycznej praktyki lekarskiej lub grupowej praktyki lekarskiej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Obowiązki badacza"
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Za przeprowadzanie badania klinicznego w danym ośrodku badawczym odpowiada badacz.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Do obowiązków badacza należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "przygotowanie się do przeprowadzenia badania klinicznego, w tym zapoznanie się z działaniem i właściwym sposobem stosowania badanego produktu leczniczego, opisanymi w protokole badania klinicznego, broszurze badacza i innych dokumentach dostarczonych przez sponsora;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "dysponowanie warunkami lokalowymi i sprzętem, niezbędnymi dla właściwego przeprowadzenia badania klinicznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "włączenie do badania klinicznego odpowiedniej liczby uczestników badania klinicznego w czasie przewidzianym na rekrutację w protokole badania klinicznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "zaangażowanie do przeprowadzenia badania klinicznego osób posiadających odpowiednie kwalifikacje;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_4/pkt_5",
+     "text": "przygotowanie, przechowywanie, aktualizacja i udostępnianie przedstawicielom sponsora lub Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, zwanego dalej „Urzędem Rejestracji”, listy osób, którym badacz powierzył obowiązki związane z prowadzeniem badania klinicznego, oraz zapoznanie, przed rozpoczęciem badania, wszystkich tych osób z ich obowiązkami oraz z protokołem badania klinicznego i badanym produktem leczniczym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_4/pkt_6",
+     "text": "prowadzenie badania klinicznego zgodnie z protokołem badania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_4/pkt_7",
+     "text": "zapewnienie uczestnikom badania klinicznego odpowiedniej opieki medycznej, w szczególności w przypadku wystąpienia ciężkiego niepożądanego zdarzenia po użyciu badanego produktu leczniczego, w tym również istotnych odchyleń w wynikach badań laboratoryjnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_4/pkt_8",
+     "text": "przekazanie uczestnikom badania klinicznego informacji o każdej zmianie zadeklarowanego terminu zakończenia badania klinicznego oraz zapewnienie uczestnikom badania wynikającej z tej zmiany odpowiedniej opieki medycznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_4/pkt_9",
+     "text": "prowadzenie dokumentacji związanej z prowadzonym badaniem klinicznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_4/pkt_10",
+     "text": "zapewnienie ochrony danych stanowiących własność sponsora oraz danych uczestników badania klinicznego uzyskanych w związku z badaniem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_4/pkt_11",
+     "text": "umożliwienie monitorowania i audytu badania klinicznego przez przedstawicieli sponsora oraz kontroli badania klinicznego przeprowadzanej przez Inspekcję Badań Klinicznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_4/pkt_12",
+     "text": "ukończenie badania klinicznego w zadeklarowanym terminie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Badacz akceptuje protokół badania klinicznego przez jego podpisanie albo przez złożenie odrębnego dokumentu stanowiącego akceptację protokołu badania klinicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Badacz dokumentuje i wyjaśnia wszelkie odstępstwa od protokołu badania klinicznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Badacz używa badanego produktu leczniczego zgodnie z protokołem badania klinicznego, a w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "udziela uczestnikom badania klinicznego wyjaśnień i zaleceń co do prawidłowego stosowania badanego produktu leczniczego oraz sprawdza, czy udzielone zalecenia są właściwie wypełniane;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "przechowuje badany produkt leczniczy w warunkach określonych przez sponsora;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "dokumentuje na bieżąco ilość badanego produktu leczniczego w ośrodku badawczym, z uwzględnieniem ilości produktu dostarczonego przez sponsora, zużytego przez każdego uczestnika badania klinicznego oraz ilości produktu niewykorzystanego podczas badania klinicznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_6/pkt_4",
+     "text": "przestrzega zasad losowego doboru uczestników badania klinicznego do grupy badanej i kontrolnej, jeżeli dotyczy, oraz występuje o ujawnienie zasad losowego doboru uczestników w przypadkach określonych w protokole badania klinicznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Przed uzyskaniem świadomej zgody, badacz przekazuje uczestnikowi badania klinicznego lub jego przedstawicielowi ustawowemu, w sposób zrozumiały oraz bez wywierania jakiegokolwiek wpływu, w formie ustnej i pisemnej, następujące informacje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "o charakterze badania klinicznego i jego celu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "o leczeniu stosowanym w badaniu klinicznym i zasadach losowego doboru uczestników;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_1/pkt_3",
+       "text": "zawierające opis procedur i badań medycznych związanych z udziałem w badaniu klinicznym, zwłaszcza informacje o badaniach indywidualnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_1/pkt_4",
+       "text": "o obowiązkach uczestnika badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_7/ust_1/pkt_5",
+       "text": "o tych aspektach badania klinicznego, które noszą cechy eksperymentu medycznego oraz o możliwym do przewidzenia ryzyku i niedogodnościach dla uczestnika badania klinicznego lub dla embrionu, płodu lub karmionego piersią niemowlęcia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_7/ust_1/pkt_6",
+       "text": "o oczekiwanych korzyściach z badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_7/ust_1/pkt_7",
+       "text": "o dostępnych alternatywnych metodach leczenia i związanych z nimi procedurach oraz wynikających z ich zastosowania istotnych korzyściach i ryzyku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_7/ust_1/pkt_8",
+       "text": "o odszkodowaniu lub możliwości leczenia uczestnika badania klinicznego w przypadku szkody powstałej w związku z uczestnictwem w badaniu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_7/ust_1/pkt_9",
+       "text": "o sposobie przekazywania płatności (jeżeli były zakładane) dla uczestnika badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_7/ust_1/pkt_10",
+       "text": "o przewidywanych wydatkach (jeżeli były zakładane), jakie uczestnik badania klinicznego może ponieść w związku z uczestnictwem w badaniu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_7/ust_1/pkt_11",
+       "text": "o zasadach dobrowolności udziału i możliwości odmowy i wycofania się uczestnika z badania klinicznego w każdej chwili bez szkody dla siebie lub utraty korzyści, do jakich uczestnik jest z innych względów uprawniony;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_7/ust_1/pkt_12",
+       "text": "o konieczności udostępnienia dokumentów źródłowych dotyczących uczestnika badania klinicznego podmiotom uprawnionym do przeprowadzania monitorowania, audytu lub kontroli badań klinicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_7/ust_1/pkt_13",
+       "text": "o zachowaniu poufności tej części dokumentacji badania klinicznego, która pozwoliłaby na identyfikację uczestnika badania klinicznego, oraz o wyłączeniu danych osobowych z ewentualnej publikacji wyników badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_7/ust_1/pkt_14",
+       "text": "zawierającą zapewnienie, że wszelkie nowe dane na temat badania klinicznego mogące mieć wpływ na wolę dalszego uczestnictwa będą niezwłocznie przekazywane uczestnikowi badania klinicznego lub jego przedstawicielowi ustawowemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_7/ust_1/pkt_15",
+       "text": "dotyczące osoby, z którą można kontaktować się w celu uzyskania dodatkowych informacji na temat badania klinicznego, praw uczestników badania klinicznego i zgłaszania ewentualnych szkód powstałych w związku z uczestnictwem w badaniu klinicznym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_7/ust_1/pkt_16",
+       "text": "o możliwych do przewidzenia okolicznościach i powodach, dla których uczestnictwo w badaniu klinicznym mogłoby zostać przerwane;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_7/ust_1/pkt_17",
+       "text": "dotyczące czasu trwania badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "par_7/ust_1/pkt_18",
+       "text": "o przewidywanej liczbie uczestników badania klinicznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Informacje, o których mowa w ust. 1, nie mogą zawierać sugestii dotyczącej zrzeczenia się przez uczestnika badania klinicznego jakichkolwiek praw, czy też zwolnienia badacza lub sponsora od odpowiedzialności wynikającej z prowadzonego badania klinicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Badacz informuje Urząd Rejestracji o wszelkich zmianach w dokumencie potwierdzającym wyrażenie świadomej zgody lub w innych dokumentach zawierających informacje przeznaczone dla uczestników badania klinicznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Badacz zapewnia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_1/pkt_1",
+       "text": "prowadzenie dokumentacji badania klinicznego w sposób pozwalający na weryfikację danych zawartych w karcie obserwacji klinicznej (CRF) oraz wsteczną weryfikację zmian danych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_1/pkt_2",
+       "text": "odpowiednie warunki przechowywania podstawowej dokumentacji badania klinicznego, o której mowa w załączniku do rozporządzenia, w tym dokumentów źródłowych, do momentu powiadomienia przez sponsora o ustaniu konieczności przechowywania dokumentacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "W przypadku badania klinicznego trwającego dłużej niż rok, badacz sporządza raz w roku pisemne sprawozdanie o postępie badania klinicznego dla komisji bioetycznej. Na wniosek komisji bioetycznej sprawozdania są sporządzane częściej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Obowiązki sponsora"
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Sponsor odpowiada za właściwe zorganizowanie i kierowanie badaniem klinicznym, a w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_9/pkt_1",
+     "text": "dokonuje wyboru badacza i ośrodka badawczego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_9/pkt_2",
+     "text": "dostarcza badaczowi i ośrodkowi badawczemu protokół badania klinicznego i aktualną broszurę badacza przed zawarciem umów, o których mowa w § 19 ust. 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_9/pkt_3",
+     "text": "zapewnia, że ogłoszenie o badaniu klinicznym nie zawiera elementów zachęty i obietnicy poprawy stanu zdrowia, jeżeli dotyczy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Sponsor zapewnia monitorowanie we wszystkich ośrodkach badawczych, w trakcie i po zakończeniu badania klinicznego, uwzględniając w szczególności, czy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "chronione są prawa i dobro uczestników badania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_1/pkt_2",
+       "text": "zbierane dane są dokładne, kompletne i możliwe do weryfikacji na podstawie dokumentów źródłowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_1/pkt_3",
+       "text": "dokumentowanie, raportowanie i analizowanie danych odbywało się zgodnie z protokołem badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_10/ust_1/pkt_4",
+       "text": "badanie jest lub było prowadzone zgodnie z protokołem badania klinicznego, zaakceptowanymi zmianami protokołu, wprowadzonymi zgodnie z art. 37x ustawy z dnia 6 września 2001 r. — Prawo farmaceutyczne, ze standardowymi procedurami postępowania (SOP) oraz wymaganiami Dobrej Praktyki Klinicznej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Sponsor dokonuje wyboru osób monitorujących badanie kliniczne, uwzględniając ich kwalifikacje.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Po wykonaniu czynności prowadzonych w ramach monitorowania w czasie wizyty w ośrodku badawczym, osoba monitorująca badanie kliniczne sporządza pisemny raport, zawierający w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_3/pkt_1",
+       "text": "datę wizyty, oznaczenie ośrodka badawczego, imię i nazwisko osoby monitorującej, imię i nazwisko badacza lub innych osób, z którymi się kontaktowano;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_3/pkt_2",
+       "text": "opis wykonanych czynności, stwierdzone błędy, odchylenia i niedociągnięcia, wnioski i opis działań podjętych, planowanych lub zalecanych dla zapewnienia prowadzenia badania klinicznego zgodnie z protokołem badania klinicznego, ze standardowymi procedurami postępowania (SOP) oraz wymaganiami Dobrej Praktyki Klinicznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_3/pkt_3",
+       "text": "wnioski z przeprowadzonej wizyty.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_10/ust_4",
+     "text": "Raport, o którym mowa w ust. 3, osoba monitorująca przygotowuje i przedkłada sponsorowi po każdej związanej z badaniem klinicznym wizycie w ośrodku badawczym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Sponsor może przeprowadzić audyt.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Sponsor dokonuje wyboru audytorów, niezależnych i niezwiązanych bezpośrednio z prowadzeniem badań klinicznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "W uzasadnionych przypadkach, na wniosek Prezesa Urzędu Rejestracji, sponsor dostarcza świadectwo audytu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Sponsor odpowiada za zapewnienie udziału w organizacji i przeprowadzeniu badania klinicznego osób posiadających odpowiednie kwalifikacje, a w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_1/pkt_1",
+       "text": "konsultantów medycznych kompetentnych we wszystkich medycznych zagadnieniach związanych z badaniem klinicznym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_1/pkt_2",
+       "text": "osób nadzorujących planowanie i przebieg badania klinicznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Sponsor, na żądanie osoby przeprowadzającej kontrolę zgodności badania klinicznego z wymaganiami Dobrej Praktyki Klinicznej, ma obowiązek umożliwić przeprowadzenie kontroli badania klinicznego, w szczególności przedstawić dokumentację związaną z prowadzonym badaniem klinicznym i udzielać wyjaśnień dotyczących prowadzonego badania i przedstawionej dokumentacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Sponsor powiadamia komisję bioetyczną i Urząd Rejestracji o przerwaniu współpracy z badaczem z powodu poważnych lub powtarzających się uchybień ze strony badacza.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Dla właściwego prowadzenia dokumentacji badania klinicznego sponsor jest obowiązany do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_1/pkt_1",
+       "text": "uzyskania pisemnej zgody badacza na dostęp do dokumentów źródłowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_1/pkt_2",
+       "text": "sprawdzenia uzyskania świadomej zgody uczestnika badania klinicznego na dostęp do dokumentów źródłowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_13/ust_1/pkt_3",
+       "text": "przechowywania podstawowej dokumentacji badania klinicznego, o której mowa w załączniku do rozporządzenia, w czasie kiedy zgłoszony wniosek o dopuszczenie do obrotu produktu leczniczego jest w trakcie rozpatrywania w jakimkolwiek państwie i przez okres co najmniej 2 lat od uzyskania ostatniego pozwolenia na dopuszczenie do obrotu produktu leczniczego w którymkolwiek państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) — strony umowy o Europejskim Obszarze Gospodarczym lub przez okres co najmniej 2 lat od wstrzymania przez sponsora wszelkich badań klinicznych z badanym produktem leczniczym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_13/ust_1/pkt_4",
+       "text": "poinformowania badacza o ustaniu konieczności przechowywania przez niego dokumentacji badania klinicznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Jeżeli do przetwarzania danych uzyskanych w związku z badaniem klinicznym wykorzystywane są metody oparte o systemy informatyczne, sponsor zapewnia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_2/pkt_1",
+       "text": "pisemną instrukcję stosowania informatycznego systemu przechowywania danych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_2/pkt_2",
+       "text": "udokumentowanie, że informatyczny system przechowywania danych został wprowadzony po dokonaniu oceny jego bezpieczeństwa i funkcjonalności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_13/ust_2/pkt_3",
+       "text": "dostęp do informatycznego systemu przechowywania danych i zmiany danych w taki sposób, aby możliwa była wsteczna weryfikacja zmian danych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_13/ust_2/pkt_4",
+       "text": "listę osób upoważnionych do wprowadzania zmian w bazie danych oraz uniemożliwia dostęp do danych osobom nieupoważnionym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_13/ust_2/pkt_5",
+       "text": "system tworzenia zapasowych kopii zgromadzonych danych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_13/ust_2/pkt_6",
+       "text": "kodowanie danych w czasie ich wprowadzania i przetwarzania w badaniach klinicznych prowadzonych metodą ślepej próby.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "W przypadku gdy zgromadzone dane ulegną przetworzeniu, sponsor zapewnia możliwość porównania danych przetworzonych z danymi oryginalnymi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Sponsor sporządza raport po przerwaniu badania klinicznego i przekazuje go ośrodkowi badawczemu, komisji bioetycznej i Prezesowi Urzędu Rejestracji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Sponsor jest obowiązany do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_1/pkt_1",
+       "text": "określenia warunków przechowywania badanego produktu leczniczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_1/pkt_2",
+       "text": "opakowania badanego produktu leczniczego w sposób zapobiegający jego zanieczyszczeniu lub pogorszeniu jego właściwości w czasie transportu i przechowywania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_1/pkt_3",
+       "text": "dostarczenia badaczowi standardowych procedur postępowania (SOP);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_15/ust_1/pkt_4",
+       "text": "prowadzenia szczegółowej dokumentacji dotyczącej transportu, odbioru, przekazania, zwrotu i zniszczenia badanego produktu leczniczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_15/ust_1/pkt_5",
+       "text": "zapewnienia systemu usuwania i niszczenia niewykorzystanych partii badanego produktu leczniczego w sposób udokumentowany;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_15/ust_1/pkt_6",
+       "text": "zapewnienia kontroli warunków przechowywania badanego produktu leczniczego koniecznych dla zachowania jego właściwości przez okres ważności.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Sponsor zapewnia prowadzenie badania klinicznego w oparciu o dane dotyczące bezpieczeństwa i skuteczności badanego produktu leczniczego, uzasadniające stosowanie go u danych uczestników badania klinicznego, z zachowaniem planowanej drogi podawania, określonego dawkowania i okresu leczenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_15/ust_3",
+     "text": "Sponsor dokonuje bieżącej oceny bezpieczeństwa badanego produktu leczniczego, a w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_3/pkt_1",
+       "text": "niezwłocznie powiadamia badacza, komisję bioetyczną i Prezesa Urzędu Rejestracji o nowych informacjach, które mogą mieć wpływ na bezpieczeństwo uczestników badania klinicznego, przebieg badania klinicznego lub zmianę opinii komisji bioetycznej lub pozwolenia ministra właściwego do spraw zdrowia na prowadzenie badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_3/pkt_2",
+       "text": "uaktualnia broszurę badacza co najmniej raz w roku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_3/pkt_3",
+       "text": "sporządza i przekazuje komisji bioetycznej oraz Prezesowi Urzędu Rejestracji:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_15/ust_3/pkt_3/lit_a",
+         "text": "sprawozdanie o postępie badania klinicznego — raz w roku w przypadku badań klinicznych trwających dłużej niż rok,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_15/ust_3/pkt_3/lit_b",
+         "text": "raport końcowy — po zakończeniu badania klinicznego.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Badanie kliniczne może być zainicjowane i prowadzone również przez sponsora będącego jednocześnie badaczem, indywidualnie lub z udziałem innych osób.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Obowiązki sponsora będącego jednocześnie badaczem nie obejmują obowiązków określonych w § 10, § 11 oraz § 13 ust. 1 pkt 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Protokół badania klinicznego"
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Protokół badania klinicznego zawiera w szczególności następujące dane:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_17/ust_1/pkt_1",
+       "text": "tytuł badania klinicznego, datę sporządzenia protokołu badania klinicznego oraz jego numer; zmiany protokołu muszą być opatrzone kolejnym numerem i datą ich wprowadzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_17/ust_1/pkt_2",
+       "text": "imię, nazwisko i miejsce zamieszkania albo nazwę i siedzibę sponsora;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_17/ust_1/pkt_3",
+       "text": "imię i nazwisko badacza lub imiona i nazwiska badaczy, oraz adres i numer telefonu ośrodka badawczego, z zastrzeżeniem ust. 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_17/ust_1/pkt_4",
+       "text": "imiona i nazwiska oraz tytuły lub stopnie naukowe osób, które opracowały protokół badania klinicznego oraz osób upoważnionych do dokonywania zmian w protokole;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_17/ust_1/pkt_5",
+       "text": "imię i nazwisko, adres i numer telefonu konsultanta medycznego, uczestniczącego w przygotowaniu protokołu badania klinicznego oraz w prowadzeniu badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_17/ust_1/pkt_6",
+       "text": "nazwę i adres laboratorium analitycznego oraz innych medycznych i technicznych instytucji zaangażowanych w prowadzenie badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_17/ust_1/pkt_7",
+       "text": "nazwę i opis badanego produktu leczniczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_17/ust_1/pkt_8",
+       "text": "szczegółowy opis założeń badania klinicznego i postawionych celów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_17/ust_1/pkt_9",
+       "text": "dane na temat potencjalnych korzyści oraz ryzyka dla uczestników badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_17/ust_1/pkt_10",
+       "text": "opis i uzasadnienie drogi podania badanego produktu leczniczego, określonego dawkowania, sposobu dawkowania oraz okres leczenia i przewidywany czas udziału uczestników badania klinicznego w badaniu, z uwzględnieniem kolejności i czasu trwania wszystkich okresów badania klinicznego oraz okresu obserwacji po zakończeniu badania klinicznego, jeżeli dotyczy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_17/ust_1/pkt_11",
+       "text": "opis postaci badanego produktu leczniczego i dane dotyczące jego pakowania i etykietowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_17/ust_1/pkt_12",
+       "text": "opis i liczbę uczestników badania klinicznego, z uwzględnieniem szczegółowych kryteriów doboru uczestników badania oraz kryteriów wyłączenia uczestnika z badania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_17/ust_1/pkt_13",
+       "text": "plan badania klinicznego, z uwzględnieniem szczegółowego opisu mierników pierwszorzędowych i drugorzędowych, służących do oceny wyników badania klinicznego po jego zakończeniu, oraz określenie metod statystycznych, które będą zastosowane do oceny wyników wraz z planowanym poziomem istotności statystycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_17/ust_1/pkt_14",
+       "text": "kryteria zakończenia badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_17/ust_1/pkt_15",
+       "text": "opis metody prowadzenia badania klinicznego oraz działań, które należy podjąć dla wyeliminowania możliwości nieobiektywnej oceny wyników;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_17/ust_1/pkt_16",
+       "text": "rodzaj leczenia, które ma być prowadzone, z uwzględnieniem wszystkich badanych produktów leczniczych oraz okresu obserwacji po zakończeniu badania klinicznego dla każdej badanej grupy uczestników;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_17/ust_1/pkt_17",
+       "text": "rodzaj dozwolonego leczenia, z uwzględnieniem produktów leczniczych do stosowania w sytuacjach nagłych, oraz niedozwolonego leczenia, przed i w trakcie badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "par_17/ust_1/pkt_18",
+       "text": "parametry określające skuteczność badanego produktu leczniczego oraz metody, czas oceny, rejestracji i analizy tych parametrów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "par_17/ust_1/pkt_19",
+       "text": "parametry określające bezpieczeństwo badanego produktu leczniczego oraz metody, czas oceny, rejestracji i analizy tych parametrów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "par_17/ust_1/pkt_20",
+       "text": "opis sposobu zgłaszania ciężkich niepożądanych zdarzeń i chorób towarzyszących i sporządzania pisemnych sprawozdań oraz rodzaj i czas trwania obserwacji uczestników badania klinicznego po wystąpieniu ciężkiego niepożądanego zdarzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "21",
+       "path": "par_17/ust_1/pkt_21",
+       "text": "opis zasad wstrzymywania lub przerywania części badania klinicznego, całego badania klinicznego lub udziału w nim konkretnej osoby;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "22",
+       "path": "par_17/ust_1/pkt_22",
+       "text": "opis procedur kontroli ilości badanego produktu leczniczego, w tym także placebo i produktu referencyjnego, jeżeli dotyczy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "23",
+       "path": "par_17/ust_1/pkt_23",
+       "text": "opis sposobu przechowywania numerów kodowych przydzielonych uczestnikom badania klinicznego zgodnie z zasadą losowego doboru uczestnika badania do grupy kontrolnej lub badanej i procedur ujawniania tych zasad;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "24",
+       "path": "par_17/ust_1/pkt_24",
+       "text": "informacje, które będą zapisywane w karcie obserwacji klinicznej (CRF), stanowiące dokument źródłowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "25",
+       "path": "par_17/ust_1/pkt_25",
+       "text": "opis zagadnień etycznych dotyczących badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "26",
+       "path": "par_17/ust_1/pkt_26",
+       "text": "opis sposobu zapewnienia jakości prowadzenia badania klinicznego i jej kontroli;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "27",
+       "path": "par_17/ust_1/pkt_27",
+       "text": "opis zasad finansowania i ubezpieczenia badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "28",
+       "path": "par_17/ust_1/pkt_28",
+       "text": "opis zasad publikowania danych, jeżeli nie zostały one określone w odrębnym dokumencie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "29",
+       "path": "par_17/ust_1/pkt_29",
+       "text": "wykaz piśmiennictwa zawierającego dane istotne dla badania klinicznego, które stanowią podstawę przygotowania protokołu badania klinicznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "W przypadku wieloośrodkowych badań klinicznych informacje dotyczące badaczy lub ośrodków badawczych mogą być zawarte w odrębnym dokumencie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Broszura badacza"
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Broszura badacza zawiera dane dotyczące badań klinicznych i przedklinicznych badanego produktu leczniczego, istotne z punktu widzenia prowadzonego badania klinicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Broszura badacza zawiera w szczególności następujące informacje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_2/pkt_1",
+       "text": "imię, nazwisko i miejsce zamieszkania albo nazwę i siedzibę sponsora, nazwę i opis badanego produktu leczniczego oraz datę wydania broszury;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_2/pkt_2",
+       "text": "o fizycznych, farmaceutycznych, farmakologicznych, toksykologicznych, farmakokinetycznych, metabolicznych i klinicznych właściwościach badanego produktu leczniczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_2/pkt_3",
+       "text": "nazwę chemiczną badanego produktu leczniczego, wszystkie jego aktywne składniki, grupę farmakologiczną, przesłanki do prowadzenia badań klinicznych i ogólne zasady oceny badanego produktu leczniczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_18/ust_2/pkt_4",
+       "text": "dotyczące postaci i składu badanego produktu leczniczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_18/ust_2/pkt_5",
+       "text": "dotyczące badania przedklinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_18/ust_2/pkt_6",
+       "text": "dotyczące farmakologii nieklinicznej, w tym o farmakokinetyce i metabolizmie badanego produktu leczniczego u zwierząt doświadczalnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_18/ust_2/pkt_7",
+       "text": "pochodzące z wcześniejszych badań klinicznych, w tym o farmakokinetyce i metabolizmie badanego produktu leczniczego u ludzi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_18/ust_2/pkt_8",
+       "text": "dotyczące bezpieczeństwa i skuteczności badanego produktu leczniczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_18/ust_2/pkt_9",
+       "text": "istotne dla prowadzonego badania klinicznego, zebrane po uzyskaniu pozwolenia na dopuszczenie do obrotu badanego produktu leczniczego, w szczególności dotyczące dawkowania, drogi podania, działań niepożądanych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_18/ust_2/pkt_10",
+       "text": "dotyczące podsumowania danych oraz wskazówki dla badacza;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_18/ust_2/pkt_11",
+       "text": "dotyczące piśmiennictwa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_18/ust_3",
+     "text": "Informacje zawarte w broszurze badacza powinny być przedstawione w sposób zwięzły, zrozumiały i obiektywny, niemający na celu promocji badanego produktu leczniczego, pozwalający na oszacowanie stosunku korzyści do ryzyka oraz słuszności założeń badania klinicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_18/ust_4",
+     "text": "Treść broszury badacza wymaga uzyskania akceptacji konsultanta medycznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_18/ust_5",
+     "text": "Po dopuszczeniu badanego produktu leczniczego do obrotu, broszura badacza może być zastąpiona podstawową informacją o produkcie leczniczym, zawierającą aktualną i szczegółową informację o wszystkich istotnych dla badacza cechach badanego produktu leczniczego zgodnie z informacją zawartą w Charakterystyce Produktu Leczniczego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Umowy dotyczące prowadzenia badań klinicznych"
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Sponsor zawiera z badaczem i z ośrodkiem badawczym, w formie pisemnej, umowy dotyczące prowadzenia badania klinicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Umowa dotycząca prowadzenia badania klinicznego, zawarta między sponsorem a badaczem, zobowiązuje strony w szczególności do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_2/pkt_1",
+       "text": "przestrzegania protokołu badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_2/pkt_2",
+       "text": "przestrzegania zasad zbierania i raportowania danych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_19/ust_2/pkt_3",
+       "text": "umożliwienia dostępu do dokumentów źródłowych przedstawicielom sponsora oraz osobom prowadzącym audyt;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_19/ust_2/pkt_4",
+       "text": "przechowywania przez badacza dokumentacji badania klinicznego do momentu powiadomienia przez sponsora o ustaniu takiej konieczności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_19/ust_2/pkt_5",
+       "text": "ochrony danych osobowych uczestników badania klinicznego uzyskanych w związku z prowadzeniem tego badania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Umowy, o których mowa w ust. 1, określają także zobowiązania finansowe dotyczące badania klinicznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Sponsor, na podstawie umowy zawartej w formie pisemnej, może przekazać niektóre lub wszystkie swoje obowiązki lub zadania, określone w wymaganiach Dobrej Praktyki Klinicznej, organizacji prowadzącej badania kliniczne na zlecenie (CRO). Zawarcie takiej umowy nie zwalnia sponsora z odpowiedzialności związanej z prowadzeniem badania klinicznego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.[^3]",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Zdrowia: M. Balicki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Zdrowia z dnia 11 marca 2005 r. (poz. 500)",
+   "body": [
+    {
+     "type": "text",
+     "text": "PODSTAWOWA DOKUMENTACJA BADANIA KLINICZNEGO"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Podstawową dokumentację badania klinicznego stanowią dokumenty, które łącznie lub osobno pozwalają ocenić prawidłowe prowadzenie badania klinicznego oraz jakość otrzymywanych danych. Dokumenty te służą potwierdzeniu zgodności działania badacza, sponsora i osoby monitorującej badanie kliniczne z wymaganiami Dobrej Praktyki Klinicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Podstawową dokumentację badania klinicznego dzieli się, w zależności od czasu, w jakim dokumenty są tworzone, na dokumentację:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "przed rozpoczęciem badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "w czasie prowadzenia badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "po zakończeniu lub przerwaniu badania klinicznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wykaz dokumentów, o których mowa w ust. 2, zawierają tabele nr 1—3.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Tabela nr 1 — dokumentacja przed rozpoczęciem badania klinicznego"
+      },
+      {
+       "type": "text",
+       "text": "Umieszczone w aktach Lp. Rodzaj dokumentu badacza sponsora"
+      },
+      {
+       "type": "text",
+       "text": "1 2 3 4"
+      },
+      {
+       "type": "text",
+       "text": "1 Broszura badacza X X"
+      },
+      {
+       "type": "text",
+       "text": "2 Podpisany protokół badania klinicznego ze X X zmianami oraz przykładowa karta obserwacji klinicznej (CRF)"
+      },
+      {
+       "type": "text",
+       "text": "3 Formularz świadomej zgody uczestnika badania X X klinicznego, inne informacje przeznaczone dla uczestników badania, inne pisemne informacje, ogłoszenia dotyczące rekrutacji uczestników badania klinicznego"
+      },
+      {
+       "type": "text",
+       "text": "4 Dokument potwierdzający wyrażenie świadomej X zgody uczestnika badania klinicznego"
+      },
+      {
+       "type": "text",
+       "text": "5 Umowa określająca zobowiązania finansowe X X dotyczące badania klinicznego pomiędzy badaczem, ośrodkiem badawczym, sponsorem"
+      },
+      {
+       "type": "text",
+       "text": "6 Umowa obowiązkowego ubezpieczenia X X odpowiedzialności cywilnej za szkody wyrządzone w związku z prowadzeniem badania klinicznego"
+      },
+      {
+       "type": "text",
+       "text": "7 Umowy dotyczące prowadzenia badania klinicznego pomiędzy stronami w szczególności pomiędzy:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "sponsorem, badaczem lub ośrodkiem X X badawczym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "sponsorem i organizacją prowadzącą badanie X kliniczne na zlecenie (CRO);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "badaczem lub ośrodkiem badawczym i innymi X X podmiotami",
+       "children": [
+        {
+         "type": "text",
+         "text": "8 Opinia komisji bioetycznej X X"
+        },
+        {
+         "type": "text",
+         "text": "9 Skład komisji bioetycznej X X 1 2 3 4"
+        },
+        {
+         "type": "text",
+         "text": "10 Pozwolenie ministra właściwego do spraw zdrowia X X na prowadzenie badania klinicznego oraz zgoda tego ministra na dokonanie zmian w protokole badania klinicznego"
+        },
+        {
+         "type": "text",
+         "text": "11 Dokumenty potwierdzające działalność naukową X X i zawodową badacza i dokumenty potwierdzające kwalifikacje osób zaangażowanych do prowadzenia badania klinicznego"
+        },
+        {
+         "type": "text",
+         "text": "12 Normy lub zakresy prawidłowych wartości X X dotyczące badań laboratoryjnych i innych badań przewidzianych w protokole badania klinicznego"
+        },
+        {
+         "type": "text",
+         "text": "13 Procedury medyczne, techniczne i laboratoryjne X X"
+        },
+        {
+         "type": "text",
+         "text": "14 Przykłady etykiet dołączanych do opakowań X badanego produktu leczniczego"
+        },
+        {
+         "type": "text",
+         "text": "15 Instrukcje dotyczące postępowania z badanym X X produktem leczniczym i innymi materiałami (jeżeli nie zawarto ich w broszurze badacza)"
+        },
+        {
+         "type": "text",
+         "text": "16 Udokumentowanie dat wysyłki, numerów serii X X i sposobów przesyłania badanego produktu leczniczego i innych materiałów"
+        },
+        {
+         "type": "text",
+         "text": "17 Zaświadczenie dotyczące kontroli serii przesyłanego X badanego produktu leczniczego"
+        },
+        {
+         "type": "text",
+         "text": "18 Procedury ujawniania przynależności uczestnika X X do grupy wybranej w sposób losowy"
+        },
+        {
+         "type": "text",
+         "text": "19 Lista przynależności uczestników do grupy wybranej X w sposób losowy"
+        },
+        {
+         "type": "text",
+         "text": "20 Raport osoby monitorującej poprzedzający X rozpoczęcie badania klinicznego w ośrodku badawczym"
+        },
+        {
+         "type": "text",
+         "text": "21 Raport osoby monitorującej z rozpoczęcia badania X X klinicznego w ośrodku badawczym"
+        },
+        {
+         "type": "text",
+         "text": "Tabela nr 2 — dokumentacja w czasie prowadzenia badania klinicznego"
+        },
+        {
+         "type": "text",
+         "text": "Do dokumentów wymienionych w tabeli nr 1 należy dołączyć dokumenty wymienione poniżej."
+        },
+        {
+         "type": "text",
+         "text": "Umieszczone w aktach Lp. Rodzaj dokumentu badacza sponsora"
+        },
+        {
+         "type": "text",
+         "text": "1 2 3 4"
+        },
+        {
+         "type": "text",
+         "text": "1 Uaktualnienia broszury badacza X X"
+        },
+        {
+         "type": "text",
+         "text": "2 Wszelkie zmiany dotyczące: X X"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "protokołu badania klinicznego oraz karty obserwacji klinicznej (CRF);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "formularza świadomej zgody uczestnika badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "innych informacji przeznaczonych dla uczestników badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "ogłoszeń dotyczących rekrutacji uczestników badania klinicznego 1 2 3 4",
+       "children": [
+        {
+         "type": "text",
+         "text": "3 Opinia komisji bioetycznej dotycząca: X X"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "zmian w protokole badania klinicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "zmian:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_3/pkt_2/lit_a",
+         "text": "formularza świadomej zgody uczestnika badania klinicznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_2/lit_b",
+         "text": "innych informacji przeznaczonych dla uczestników badania klinicznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_3/pkt_2/lit_c",
+         "text": "ogłoszeń dotyczących rekrutacji uczestników badania klinicznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_3/pkt_2/lit_d",
+         "text": "wszystkich pozostałych dokumentów, dla których komisja bioetyczna wyraża opinię",
+         "children": [
+          {
+           "type": "text",
+           "text": "4 Zgoda ministra właściwego do spraw zdrowia na X X dokonanie zmian w protokole badania klinicznego"
+          },
+          {
+           "type": "text",
+           "text": "5 Dokumenty potwierdzające działalność naukową X X i zawodową każdego nowego badacza i dokumenty potwierdzające kwalifikacje każdej nowej osoby zaangażowanej do prowadzenia badania klinicznego"
+          },
+          {
+           "type": "text",
+           "text": "6 Uaktualnienie prawidłowych wartości, norm lub X X zakresów badań laboratoryjnych i innych badań przewidzianych w protokole badania klinicznego"
+          },
+          {
+           "type": "text",
+           "text": "7 Uaktualnienie procedur medycznych, technicznych X X i laboratoryjnych"
+          },
+          {
+           "type": "text",
+           "text": "8 Udokumentowanie dat wysyłki, numerów serii X X i sposobów przesyłania badanego produktu leczniczego i innych materiałów"
+          },
+          {
+           "type": "text",
+           "text": "9 Zaświadczenie dotyczące kontroli nowych serii X badanego produktu leczniczego"
+          },
+          {
+           "type": "text",
+           "text": "10 Raport osoby monitorującej badanie kliniczne X z wizyty w ośrodku badawczym"
+          },
+          {
+           "type": "text",
+           "text": "11 Dokumenty potwierdzające kontakty osoby X X monitorującej z ośrodkiem badawczym, inne niż wizyty, w szczególności: listy, faksy, notatki ze spotkań, notatki z rozmów telefonicznych"
+          },
+          {
+           "type": "text",
+           "text": "12 Dokument potwierdzający wyrażenie świadomej X zgody uczestnika badania klinicznego oraz zgody na przetwarzanie danych osobowych i dostęp do dokumentów źródłowych"
+          },
+          {
+           "type": "text",
+           "text": "13 Dokumenty źródłowe X"
+          },
+          {
+           "type": "text",
+           "text": "14 Wypełnione, podpisane, opatrzone datą karty X (kopia) X (oryginał) obserwacji klinicznej (CRF)"
+          },
+          {
+           "type": "text",
+           "text": "15 Udokumentowanie poprawek danych w karcie X (kopia) X (oryginał) obserwacji klinicznej (CRF)"
+          },
+          {
+           "type": "text",
+           "text": "16 Zawiadomienie sponsora o ciężkim niepożądanym X X zdarzeniu po użyciu badanego produktu leczniczego oraz odpowiednie sprawozdanie 1 2 3 4"
+          },
+          {
+           "type": "text",
+           "text": "17 Zawiadomienie przez sponsora komisji bioetycznej X X i Prezesa Urzędu o niespodziewanym ciężkim niepożądanym działaniu produktu leczniczego oraz innych informacjach dotyczących bezpieczeństwa farmakoterapii"
+          },
+          {
+           "type": "text",
+           "text": "18 Sprawozdanie o postępie badania klinicznego X X"
+          },
+          {
+           "type": "text",
+           "text": "19 Lista osób podlegających badaniom przesiewowym X X"
+          },
+          {
+           "type": "text",
+           "text": "20 Lista uczestników badania klinicznego X"
+          },
+          {
+           "type": "text",
+           "text": "21 Lista numerów kodowych identyfikujących X uczestników badania klinicznego"
+          },
+          {
+           "type": "text",
+           "text": "22 Dane dotyczące ilości badanego produktu X X leczniczego w ośrodku badawczym"
+          },
+          {
+           "type": "text",
+           "text": "23 Wzory podpisów osób uprawnionych do X X wypełniania i poprawiania kart obserwacji klinicznej (CRF)"
+          },
+          {
+           "type": "text",
+           "text": "24 Informacja o ewentualnym przechowywaniu próbek X X płynów ustrojowych lub tkanek na wypadek potrzeby powtórzenia oznaczeń"
+          },
+          {
+           "type": "text",
+           "text": "Tabela nr 3 — dokumentacja po zakończeniu lub przerwaniu badania klinicznego"
+          },
+          {
+           "type": "text",
+           "text": "Po zakończeniu lub przerwaniu badania klinicznego w aktach powinny znajdować się wszystkie dokumenty wymienione w tabelach nr 1 i 2 oraz dokumenty wymienione poniżej."
+          },
+          {
+           "type": "text",
+           "text": "Umieszczone w aktach Lp. Rodzaj dokumentu badacza sponsora"
+          },
+          {
+           "type": "text",
+           "text": "1 2 3 4"
+          },
+          {
+           "type": "text",
+           "text": "1 Dane dotyczące ilości badanego produktu X X leczniczego w ośrodku badawczym"
+          },
+          {
+           "type": "text",
+           "text": "2 Dokumentacja zniszczenia badanego produktu X X leczniczego (jeżeli badany produkt leczniczy został zniszczony w ośrodku badawczym)"
+          },
+          {
+           "type": "text",
+           "text": "3 Lista uczestników badania klinicznego i numerów X kodowych identyfikujących uczestników badania klinicznego"
+          },
+          {
+           "type": "text",
+           "text": "4 Świadectwo audytu X"
+          },
+          {
+           "type": "text",
+           "text": "5 Raport osoby monitorującej z wizyty zamykającej X badanie kliniczne"
+          },
+          {
+           "type": "text",
+           "text": "6 Dokumentacja potwierdzająca przekazanie X sponsorowi informacji dotyczących ujawnienia przynależności uczestnika badania klinicznego do grupy wybranej w sposób losowy"
+          },
+          {
+           "type": "text",
+           "text": "7 Raport końcowy X Udokumentowanie wyników badania klinicznego i ich interpretacja"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Zdrowia kieruje działem administracji rządowej — zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 11 czerwca 2004 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. Nr 134, poz. 1439).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 625, Nr 91, poz. 877, Nr 92, poz. 882, Nr 93, poz. 896, Nr 173, poz. 1808, Nr 210, poz. 2135 i Nr 273, poz. 2703.",
+  "3": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 10 grudnia 2002 r. w sprawie określenia szczegółowych wymagań Dobrej Praktyki Klinicznej (Dz. U. Nr 221, poz. 1864)."
+ }
+}
