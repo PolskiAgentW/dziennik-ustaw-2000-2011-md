@@ -1,7 +1,7 @@
 {
  "eli": "DU/2008/1543",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 grudnia 2008 r. w sprawie stawek opłat za przeprowadzenie kontroli jakości handlowej artykułów rolno-spożywczych",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2008/1543/text.pdf",
  "body": [
   {
@@ -204,7 +204,15 @@
     },
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "1 2 3 34 |Zawartość cukru (glukoza, fruktoza, sacharoza) metodą 168,00 enzymatyczną 35 |Zawartość cukru ogółem (klasycznie) 94,00 36 |Zawartość cukrów redukujących (klasycznie) 55,00 37 (Czas scukrzania 19,00 38 _ |Zawartość części nierozpuszczalnych 39,00 39 (zawartość dwutlenku siarki metodą destylacyjną 111,00 40 |Zawartość dwutlenku siarki metodą miareczkową 55,00 41 |Zawartość dwutlenku węgla 19,00 42 (Zawartość ekstraktu bezcukrowego z wyliczenia 19,00 43 |Zawartość ekstraktu brzeczki podstawowej f2,00 44 |Zawartość ekstraktu ogólnego w wódkach gatunkowych 55,00 45 (Zawartość ekstraktu ogólnego 19,00 46 |Zawartość ekstraktu refraktometrycznego 19,00 47 |Zawartość ekstraktu resztkowego 19,00 48 [Energia i zdolność kiełkowania 52,00 49 (Zawartość estrów hydroksykwasów, kwasu benzoesowego, 168,00 sorbowego metodą HPLC 50 |Zawartość fosforanów 168,00 51 (Zawartość ftalanu di-n-butylu 216,00 52 |Zawartość fuzli metodą GC 88,00 53 [Gęstość nasypowa 24,00 54 |Ciezar nasypowy 24,00 55 zawartość glukozynolanów metodą wskaźnikową 37,00 56 |Zawartość glukozynolanów metodą HPLC 165,00"
+    },
+    {
+     "type": "ocr",
+     "text": "57. Ilość glutenu 37,00 58 _ |lość i rozptywalność glutenu 42,00 59 |Zawartość goryczki w piwie metodą spektrofotometryczną 37,00 60 [Granulacja 37,00 61 (Zawartość trans-2-heksen-1-al metodą GC 37,00 62 |Zawartość hespedryny i narynginy metodą HPLC 168,00 63 _ |Zawartość 5-hydroksymetylofurfurolu (HMF) metodą HPLC 111,00 64 (Zawartość 5-hydroksymetylofurfurolu (HMF) metodą 72,00 spektrofotometryczną 65 |Zawartość inuliny 111,00 66 |Zawartość jodanu potasu 146,00 67 |Zawartosc jodku potasu 146,00 68 |Zawartość B-karotenu 146,00 69 [Zawartość karotenoidów i B-karotenu 187,00 70 |Klarowność 22,00 71 (Zawartość kofeiny metodą HPLC 111,00 f2 (Zawartość koleiny metodą spektrofotometryczną 298,00 73 |Zawartość kumaryny metodą GC 111,00 74 (Zawartość kwasu cytrynowego metodą enzymatyczną 102,00 75 |Zawartość kwasu erukowego metodą GC 175,00 76 |Zawartość kwasu fumarowego metodą GC lub HPLC 218,00 7? (Zawartość kwasu D-izocytrynowyego metodą enzymatyczną 184,00"
     },
     {
      "type": "note",

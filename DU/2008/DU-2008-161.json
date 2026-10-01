@@ -1,7 +1,7 @@
 {
  "eli": "DU/2008/161",
  "title": "Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 29 stycznia 2008 r. zmieniające rozporządzenie w sprawie zawartości wniosku o udzielenie koncesji oraz szczegółowego trybu postępowania w sprawach udzielania i cofania koncesji na rozpowszechnianie i rozprowadzanie programów radiofonicznych i telewizyjnych",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2008/161/text.pdf",
  "body": [
   {
@@ -817,7 +817,23 @@
     },
     {
      "type": "note",
-     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "CS C.6 C7 C8 Cg C10"
+    },
+    {
+     "type": "ocr",
+     "text": "— Data wypełnienia wniosku Pieczęć"
+    },
+    {
+     "type": "ocr",
+     "text": "— Podpis"
+    },
+    {
+     "type": "ocr",
+     "text": "str.5z5"
     }
    ]
   },

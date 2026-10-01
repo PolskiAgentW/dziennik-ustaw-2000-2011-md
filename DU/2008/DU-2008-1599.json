@@ -1,7 +1,7 @@
 {
  "eli": "DU/2008/1599",
  "title": "Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 15 grudnia 2008 r. zmieniające rozporządzenie w sprawie określenia kategorii urządzeń i nośników służących do utrwalania utworów oraz opłat od tych urządzeń i nośników z tytułu ich sprzedaży przez producentów i importerów",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2008/1599/text.pdf",
  "body": [
   {
@@ -54,7 +54,11 @@
     },
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "24 | Nagrywarka komputerowa płyt CD 1,54 25 | Nagrywarka komputerowa płyt DVD 2,28 26 | Magnetofon 2,03 27 | Multimedialny wielofunkcyjny odtwarzacz formatu mp3 1.14 28 | Zestaw samochodowy z odtwarzaczem płyt CD z funkcją nagrywania 1.08 29 | Zestaw samochodowy z odtwarzaczem płyt CD z funkcją nagrywania na 0,30 inne nośniki"
     }
    ]
   },
