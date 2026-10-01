@@ -47,7 +47,7 @@ Zbiór powstaje rocznik po roczniku (pobieranie PDF-ów z API ok. 4 s na akt). L
 w `index.csv`, są w toku.
 
 <!-- stats:start -->
-Stan na 2026-10-01 15:17 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-01 15:54 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -64,7 +64,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 2527, razem 39877 z 107
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 3783.
 
 Rodzaje aktów: Rozporządzenie 12965, Oświadczenie rządowe 476, Umowa międzynarodowa 222, Konwencja 86, Protokół 67, Obwieszczenie 39, Porozumienie 32, Uchwała 19, Postanowienie 18, Dokument wypowiedzenia 12, Traktat 10, Decyzja 2, Ustawa 1, Deklaracja 1, Statut 1, Akt 1.
-Wersje konwertera: eli2md 0.6.17 (6712), eli2md 0.6.18 (6696), eli2md 0.6.16 (544).
+Wersje konwertera: eli2md 0.6.17 (6704), eli2md 0.6.18 (6696), eli2md 0.6.16 (537), eli2md 0.6.19 (15).
 <!-- stats:end -->
 
 ## Zawartość
@@ -128,7 +128,9 @@ wylosowanych z lat 2000–2003, ziarno 5301):
   komórki), DU/2002/947 (przypis „*” jako akapit między akapitami treści);
 - poważny błąd, 1: DU/2003/2317. Ostatnia strona zeszytu (informacja wydawcy: gdzie kupić egzemplarze, reklamacje)
   była w tekście ostatniego aktu zeszytu. Dotyczyło to 276 aktów z lat 2000–2003; poprawione w eli2md 0.6.18
-  (2026-10-01, opis w README eli2md). Zostaje 1 akt, w którym ten tekst pochodzi z OCR skanu (DU/2000/175).
+  (2026-10-01, opis w README eli2md). Gdy ostatnią stronę zeszytu czytał OCR, 0.6.18 usuwał ją całą razem z tą
+  informacją: 15 aktów z 2000 r. straciło ostatnią stronę, 5 z nich było pustych (DU/2000/48, 681, 682, 786, 886);
+  przeliczone w eli2md 0.6.19 (2026-10-01; razem +3064 słów; DU/2000/175 bez informacji wydawcy).
 
 **Kontrola wzrokowa 3** (2026-10-01, eli2md 0.6.18, pierwsza i ostatnia strona PDF obok wyniku, 6 aktów wylosowanych
 z opublikowanych lat 2004–2005, ziarno 5302):
