@@ -1,0 +1,228 @@
+{
+ "eli": "DU/2008/84",
+ "title": "Rozporządzenie Ministra Infrastruktury z dnia 9 stycznia 2008 r. w sprawie szczegółowych wymagań dotyczących zasad adresowania dla właściwego kierowania połączeń",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2008/84/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 9 stycznia 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczegółowych wymagań dotyczących zasad adresowania dla właściwego kierowania połączeń"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 126 ust. 13 ustawy z dnia 16 lipca 2004 r. — Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Określa się szczegółowe wymagania dotyczące zasad adresowania dla właściwego kierowania połączeń, stanowiące załącznik do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Infrastruktury: C. Grabarczyk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Infrastruktury z dnia 9 stycznia 2008 r. (poz. 84)",
+   "body": [
+    {
+     "type": "text",
+     "text": "SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE ZASAD ADRESOWANIA DLA WŁAŚCIWEGO KIEROWANIA POŁĄCZEŃ"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Informacja adresowa o numerze abonenta i użytkownika wywołującego powinna być niezmienna na całej drodze połączeniowej, z zastrzeżeniem § 2.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Numer zastępujący numer abonenta i użytkownika (numer techniczny) powinien być wykorzystywany przy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/pkt_1",
+       "text": "realizowaniu połączenia na numery alarmowe z urządzenia końcowego (terminala) bez użycia przez abonenta wielofunkcyjnej, inteligentnej karty identyfikacyjnej (Subscriber Identity Module), zwanej dalej „kartą SIM”, lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/pkt_2",
+       "text": "używaniu przez abonenta, w przypadku braku zasięgu, w połączeniu na numery alarmowe, karty SIM zalogowanej w sieci operatora innego niż operator, z którym abonent wywołujący zawarł umowę o świadczenie usług telekomunikacyjnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Dla numeracji służącej realizacji uprawnień abonentów i użytkowników do przenoszenia przydzielonego numeru pomiędzy operatorami ustala się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/pkt_1",
+       "text": "następujące zasady adresowania dla właściwego kierowania połączeń w zakresie numeracji służącej realizacji uprawnień abonenta i użytkownika do przenoszenia przydzielonego numeru pomiędzy operatorami:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/pkt_1/lit_a",
+         "text": "numer rutingowy (NR NP) zamieszcza się w parametrze Called Party Number[^1_2] wiadomości IAM (Initial Address Message)[^2_2] przed numerem abonenta B (tryb połączony „concatenated”),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/pkt_1/lit_b",
+         "text": "parametr NoA (Nature of Address)[^3] przyjmuje wartość 3,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/pkt_1/lit_c",
+         "text": "adresowanie metodą „en-bloc”[^4],",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/pkt_1/lit_d",
+         "text": "numer rutingowy (NR NP) dołącza się po odpytaniu bazy dla numerów przeniesionych; dopuszcza się dołączenie numeru rutingowego (NR NP) po odpytaniu bazy dla numerów nieprzeniesionych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/pkt_2",
+       "text": "następujący format numeru rutingowego (NR NP) dla numerów geograficznych i niegeograficznych:",
+       "children": [
+        {
+         "type": "text",
+         "text": "NR NP (5 cyfr) = „C hex”[^5] + XYZT, gdzie: XY = AB = wskaźnik strefy numeracyjnej (X=1–9), ZT[^6] = numer HOST (HOST – ID)[^7] w danej SN (dla danego AB) lub XYZT — numer operatora (X=0)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "Dla numeracji służącej realizacji wywołań do numerów alarmowych służb ustawowo powołanych do niesienia pomocy i numeru alarmowego 112 ustala się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/pkt_1",
+       "text": "następujące zasady kierowania ruchu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_4/pkt_1/lit_a",
+         "text": "połączenia do numerów alarmowych służb ustawowo powołanych do niesienia pomocy oraz numeru alarmowego 112 mogą być realizowane po odebraniu numeru tylko w formatach: — XYZ (3 cyfry) — z łącza abonenckiego, — WSNd (2 cyfry) +„C hex”[^5] + IDL (3 cyfry) + XYZ (3 cyfry) — z łącza międzycentralowego, w tym łącza międzyoperatorskiego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_4/pkt_1/lit_b",
+         "text": "numer kierowania alarmowego (NKA), związany z położeniem abonenta w obszarze gminy, jest wprowadzany w centrali obsługującej zakończenie sieci, z którego nastąpiło wywołanie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_4/pkt_1/lit_c",
+         "text": "w centrali obsługującej zakończenie sieci, z którego nastąpiło wywołanie, następuje konwersja z numeru alarmowego służby ustawowo powołanej do niesienia pomocy i numeru alarmowego 112 odebranego od abonenta na numer w formacie WSNd + „C hex”[^5] + IDL + XYZ,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_4/pkt_1/lit_d",
+         "text": "NKA powinien być niezmienny na całej drodze połączeniowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_4/pkt_1/lit_e",
+         "text": "zamiana NKA na numer podkładowy (KNA) następuje w centrali bezpośrednio obsługującej służbę ustawowo powołaną do niesienia pomocy;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/pkt_2",
+       "text": "następujący format NKA:",
+       "children": [
+        {
+         "type": "text",
+         "text": "NKA = WSNd (2 cyfry) + „C hex”[^5] + IDL (3 cyfry) + XYZ (3 cyfry),"
+        },
+        {
+         "type": "text",
+         "text": "gdzie:"
+        },
+        {
+         "type": "text",
+         "text": "WSNd (Wskaźnik Strefy Numeracyjnej docelowej) — oznacza strefę numeracyjną, w jakiej znajduje się służba ustawowo powołana do niesienia pomocy, do której kierowane jest wywołanie,"
+        },
+        {
+         "type": "text",
+         "text": "IDL (Identyfikator Docelowej Lokalizacji) — wskazuje służbę ustawowo powołaną do niesienia pomocy występującą w danej lokalizacji w danej strefie numeracyjnej,"
+        },
+        {
+         "type": "text",
+         "text": "XYZ — oznacza numer AUS (3 cyfry) służby ustawowo powołanej do niesienia pomocy i numer alarmowy 112."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Infrastruktury kieruje działem administracji rządowej — łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. Nr 216, poz. 1594).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834 oraz z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556. Objaśnienia:",
+  "1_2": "Parametr Called Party Number — parametr stosowany w Systemie Sygnalizacji ITU-T nr 7 (SS7), zawarty w wiadomości IAM, zawierający w szczególności zakodowany numer abonenta wywoływanego.",
+  "2_2": "Wiadomość IAM (Initial Address Message) — wiadomość zawarta w protokole ISUP (ISDN User Part), przesyłana w procesie zestawiania połączenia.",
+  "3": "Parametr NoA (Nature of Address) — wskaźnik określający typ adresu.",
+  "4": "Adresowanie metodą „en-bloc” — sposób adresowania polegający na równoczesnym przekazywaniu wszystkich cyfr numeru abonenta, przez umieszczenie ich w jednym bloku wiadomości przesyłanych w procesie zestawiania połączenia.",
+  "5": "„C hex” — zapis liczby za pomocą systemu szesnastkowego.",
+  "6": "ZT — po dojściu ZT do wartości 99 ustala się inny wolny AB dla danej SN.",
+  "7": "HOST (HOST – ID) — numer centrali telefonicznej obsługującej nową lokalizację abonenta z przeniesionym numerem."
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "eli": "DU/2008/996",
+ "title": "Rozporządzenie Ministra Zdrowia z dnia 25 sierpnia 2008 r. zmieniające rozporządzenie w sprawie zakresu niezbędnych informacji gromadzonych i przekazywanych przez apteki podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2008/996/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ZDROWIA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 sierpnia 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające rozporządzenie w sprawie zakresu niezbędnych informacji gromadzonych i przekazywanych przez apteki podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 190 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Ministra Zdrowia z dnia 28 września 2004 r. w sprawie zakresu niezbędnych informacji gromadzonych i przekazywanych przez apteki podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych (Dz. U. Nr 213, poz. 2167 oraz z 2007 r. Nr 97, poz. 647) załącznik otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Narodowy Fundusz Zdrowia i apteki gromadzą i przekazują dane wynikające z recept zrealizowanych przed dniem wejścia w życie niniejszego rozporządzenia zgodnie z dotychczasowymi przepisami.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Zdrowia: E. Kopacz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Zdrowia z dnia 25 sierpnia 2008 r. (poz. 996)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR BUDOWY KOMUNIKATU ELEKTRONICZNEGO"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "=\""
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:attribute name=\"e-adres\" use=\"optional\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"40\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> </xsd:complexType> </xsd:element> <xsd:element name=\"dokument\"> <xsd:complexType> <xsd:sequence> <xsd:element ref=\"mz:nadawca\"/> <xsd:element ref=\"mz:odbiorca\"/> <xsd:element ref=\"mz:sprawozdanie\"/> <xsd:element ref \"mz:pozycja\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> <jxsd:sequence> <xsd:attribute name=\"id\" use=\"required\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:length value=\"11\"/> <xsd:pattern value=\"D\\d{10}\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> <xsd:attribute name”\"nr\" type=\"xsd:nonNegativelnteger” use=\"required\"/> <xsd:attribute name=\"zakres\" use=\"optional\" default=\"C\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:length value=\"1\"/> <xsd:enumeration value=\"C\"/> <xsd:enumeration value=\"F\"/> </xsd:restriction> </xsd:simpleT ype> </xsd:attribute> <xsd:attribute name=\"tryb\" use=\"optional\" default=\"Z\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:length value=\"1\"/> <xsd:enumeration value=\"Z\"/> <xsd:enumeration value=\"N\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> <xsd:attribute name=\"data\" use=\"required\"> <xsd:simpleType> <xsd:restriction base=\"xsd:date\"/> </xsd:simpleType> </xsd:attribute> </xsd:complexType> </xsd:element> <xsd:element name=\"nadawea\"> <xsd:complex Type> <xsd:sequence> <xsd:element ref=\"mz:podmiot\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"podmiot\"> <xsd:complexType> <xsd:attribute name=\"typ\" use=\"optional\" default=\"0\"> <xsd:simpleType> <xsd:restriction base=\"xsd:int\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:totalDigits value=\" l\"/> <xsd:enumeration value=\"0\"/> <xsd:enumeration value=\" F\"/> <xsd:enumeration value=\"9\"/> </xsd:restriction> </xsd:simpleType> <fxsd:attribute> <xsd:attribute name=\"symbol\" use=\"required\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:minLength value=\"1\"/> <xsd:maxLength value=\"20\"/> </xsd:restriction> </xsd:simpleT ype> </xsd:attribute> </xsd:complexType> </xsd:element> <xsd:element name=\"odbiorca\"> <xsd:complexType> <xsd:sequence> <xsd:element ref=\"mz:podmiot\"/> </xsdisequence> </xsd:complexType> </xsd:element> <xsd:element name=\"sprawozdanie\"> <xsd:complexType> <xsdisequence> <xsd:element ref=\"mz:okres\"/> <xsd:element ref=\"mz:komorka-org\"/> </xsdisequence> <xsd:attribute name=\"symbol\" use=\"required\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"12\"/> <xsd:minLength value=\" I\"/> </xsd:restriction> </xsdisimpleType> </xsd:attribute> <xsd:attribute name=\"korekta\" use=\"optional\" default=\"S\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:length value=\"1\"/> <xsd:enumeration value=\"$\"/> <xsd:enumeration value=\"K\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> <xsd:attribute name=\"data\" type=\"xsd:date\" use=\"required\"/> </xsd:complexType> </xsd:element> <xsd:element name=\"okres\"> <xsd:complexType> <xsd:attribute name=\"typ\" use=\"optional\" default=\"P\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:length value=\"1\"/> <xsd:enumeration value=\"R\"/> <xsd:enumeration value=\"K\"/> <xsd:enumeration value=\"M\"/> <xsd:enumeration value=\"P\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:attribute name=\"rok\" type=\"xsd:gY ear\" use=\"required\"/> <xsd:attribute name=\"nr\" use=\"required\"> <xsd:simpleType> <xsd:restriction base=\"xsd:positivelnteger\"> <xsd:totalDigits value=\"2\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> <xsd:attribute name=\"data-od\" type” \"xsd:date\" use=\"required\"/> <xsd:attribute name=\"data-do\" type=\"xsd:date\" use=\"required\"/> </xsd:complexType> </xsd:element> <xsd:element name=\"komorka-org\"> <xsd:complexType> <xsd:attribute name=\"regon\" use=\"required\"> <xsd:simple Type> <xsd:restriction base=\"xsd:string \"> <xsd:length value=\"9\"/> <xsd:pattern value=\"d;[9)\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> <xsd:attribute name=\"nr\" use=\"optional\" default=\"000\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:length value=\"3\"/> <xsd:pattern value=\"\\d{3}\"/> </xsd:restriction> </xsd:simpleType> <fxsd:attribute> </xsd:complexType> </xsd:element> <xsd:element name=\"pozycja\"> <xsd:complexType> <xsd:sęquence> <xsd:element ref=\"mz:swiadczenie\"/> </xsd:isequence> <xsd:attribute name=\"id\" use=\"required\"> <xsd:simpleType> <xsd:restriction base='\"xsd:string\"> <xsd:length value=\"11\"/> <xsd:pattern value=\"P\\d{10}'/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> <xsd:attribute name=\"tryb\" use=\"optlonal\" default=\"D\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:length value=\"1\"/> <xsd:enumeration value=\"D\"/> <xsd:enumeration value=\"U\"/> <xsd:enumeration value=\"P\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> </xsd:complexType> </xsd:element> <xsd:element name=\"swiadczenie\"> <xsd:complexType> <xsd:sequence> <xsd:element ref=\"mz:zlecenie\" minOccurs=\"0\"/> <xsd:element ref=\"mz:pacjent\"/> <xsd:element ref=\"mz:usluga\"/>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsdisequence> </xsd:complexType> </xsd:element> <xsd:element name=\"zlecenie\"> <xsd:complexType> <xsd:sequence> <xsd:element ref=\"mz:dokument-zlec\"/> <xsd:element ref=\"mz:komorka-org\" minOccurs=\"0\"/> <xsd:element ref=\"mz:lekarz\" minOccurs=\"0\"/> </xsdisequence> <xsd:attribute name=\"data\" type=\"xsd:date\" use=\"required\"/> <xsd:attribute name=\"data-od\" type=\"xsd:date\" use=\"optional\"/> </xsd:complexType> </xsd:element> <xsd:element name=\"dokument-zlec\"> <xsd:complexType> <xsd:attribute name=\"typ\" use=\"required\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:length value=\"1\"/> <xsd:enumeration value=\"7\"/> <xsd:enumeration value=\"8\"/> <xsd:enumeration value=\"9\"/> <xsd:enumeration value=\"2\"/> </xsd:restriction> </xsd:simpleType> <fxsd:attribute> <xsd:attribute name=\"nr\" use=\"optional\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:length value=\"20\"/> <xsd:pattern value=\"\\d {20} \"/> </xsd:restriction> </xsd:simpleType> <fxsd:attribute> <xsd:attribute name=\"pro” use=\"optional\" default=\"0\"> <xsd:simpleType> <xsd:restriction base=\"xsd:nonNegativelnteger\"> <xsd:totalDigits value=\"1\"/> <xsd:enumeration value=\"0\"/> <xsd:enumeration value=\" 1\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> </xsd:complexT ype> </xsd:element> <xsd:element name=\"lekarz\"> _<xsd:complexType> <xsd:attribute name=\"nr\" use=\"required\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"7\"/> <xsd:minLength value=\"1\"/> <xsd:pattern value=\"\"/> </xsd:restriction> </xsd:simpleT ype> </xsd:attribute> </xsd:complexType> </xsd:element> <xsd:element name=\"pacjent\"> <xsd:complexType> <xsd:sequence> <xsd:element ref=\"mz:ubezpieczenie\"/>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:element ref=\"mz:nr-pacjenta\" minOccurs=\"0\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"ubezpieczenie\"> <xsd:complexType> <xsd:attribute name=\"kod-oddzialu\" use=\"required\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:length value=\"2\"/> </xsd:restriction> </xsd:simpleType> <fxsd:attribute> </xsd:complexType> </xsd:element> <xsd:element name=\"nr-pacjenta\"> <xsd:complexType> <xsd: attribute name=\"typ\" use=\"optional\" default=\"5\"> <xsd:simpleType> <xsd:restriction base=\"xsd:nonNegativelnteger\"> <xsd:totalDigits value=\"1\"/> <xsd:enumeration value=\"2\"/> <xsd:enumeration value=\"3\"/> <xsd:enumeration value=\"4\"/> <xsd:enumeration value=\"5\"/> <xsd:enumeration value=\"6\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> <xsd:attribute name=\"nr\" use=\"required\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"20\"/> <xsd:minLength value=\"1\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> </xsd:complexType> </xsd:element> <xsd:element name=\"usluga\"> <xsd:complexType> <xsd:sequence> <xsd:element ref=\"mz:autoryzacja\" minOccurs=\"0\"/> <xsd:element ref=\"mz:lek\" maxOccurs=\"unbounded\"/> </xsd:sequence> <xsd:attribute name=\"data\" type=\"xsd:date\" use=\"required\"/> <xsd:attribute name=\"data-do\" type=\"xsd:date\" use=\"optional\"/> <xsd:attribute name=\"data-pierw\" type=\"xsd:date\" use=\"optional\"/> <xsd:attribute name=\"nr\" use=\"required\"> <xsd:simpleType> <xsd:restriction base=\"xsd:nonNegativelnteger\"> <xsd:totalDigits vałue=\"4\"/> </xsd:restriction> </xsd:simpleType> <fxsd:attribute> </xsd:complexType> </xsd:element> <xsd:element name=\"autoryzacja\"> <xsd:complexType> <xsd:attribute name=\"typ\" use=\"optional\" defauit=\"0\"> <xsd:simpleType> <xsd:restriction base=\"xsd:nonNegativelnteger\"> <xsd:totalDigits value=\"1\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "—\""
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:restriction> </xsd:simpleT ype> </xsd:attribute> <xsd:attribute name=\"nr\" use=\"required\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:length value=\"20\"/> <xsd:pattern value=\"ldf782/0-4Nd\"/> </xsd:restriction> </xsd:simpleT ype> </xsd:attribute> </xsd:complexType> </xsd:element> <xsd:element name=\"lek\"> <xsd:complexType> <xsd:sequence> <xsd:element ref=\"mz:lek-ean\" maxOccurs=\"unbounded\"/> </xsd:sequence> i <xsd:attribute name=\"nz\" use=\"optional\" default=\"0\"> <xsd:simpleType> <xsd:restriction base=\"xsd:nonNegativelnteger\"> <xsd:totalDigits value=\"1\"/> <xsd:enumeration value=\"0\"/> <xsd:enumeration value=\"1\"/> </xsd:restriction> </xsd:simpleT ype> </xsdzattribute> <xsd:attribute name=\"uprawnienie\" use=\"required\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:minLength value=\"1\"/> <xsd:maxLength value=\"6\"/> </xsd:restriction> | <fxsd:simpleType> </xsd:attribute> <xsd:attribute name=\"odplatnosc\" use=\"required\"> <xsd:simpleType> <xsd:restriction base=\"xsd:nonNegativelnteger\"> <xsd:totalDigits value=\"1\"/> <xsd:enumeration value=\"0\"/> <xsd:enumeration value=\"1\"/> <xsd:enumeration value=\"3\"/> <xsd:enumeration value=\"5\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> <xsd:attribute name=\"refundacja\" use=\"required\"> <xsd:simpleType> <xsd:restriction base=\"xsd:decimal\"> <xsd:fractionDigits value=\"2\"/> <xsd:totalDigits value=\"8\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> </xsd:complexType> </xsd:element> <xsd:element narne=\"lek-ean\"> <xsd:complexType> <xsd:attribute name=\"katalog\" use=\"required\"> <xsd:simpleType> <xsd:restriction base=\"xsd:nonNegativelnteger\"> <xsd:totalDigits value=\"1\"/> <xsd:enumeration value=\"0\"/>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"1\"/> <xsd:enumeration value=\"2\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> <xsd:attribute name=\"kod\" use=\"optional\"> <xsd:simpleType> <xsd:restriction base=\"xsd:nonNegativelnteger\"> - <xsd:totalDigits value=\"13\"/> <xsd:pattern value=\"\\d {13} \"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> <xsd:attribute name=\"ilosc\" use=\"required\"> <xsd:simpleType> <xsd:restriction base=\"xsd:decimal\"> <xsd:fractionDigits value=\"5\"/> <xsd:totalDigits value=\"8\"/> </xsd:restriction> . </xsd:simpleType> </xsd:attribute> <xsd:attribute name=\"wartosc\" use=\"required\"> <xsd:simpleType> <xsd:restriction base=\"xsd:decimal\"> <xsd:fractionDigits value=\"2\"/> <xsd:totalDigits value=\"8\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> </xsd:complexType> </xsd:element> </xsd:schema>"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR BUDOWY KOMUNIKATU ELEKTRONICZNEGO (tabela)"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "2 |mz:pozycja 0-n Zestaw danych opisujących pozycję dokumentu | id l Unikalny nr pozycji w ramach określonego sprawozdania ! okresowego re i tryb 0-1 [D] Określenie, czy pozycja ma być dopisana (D), usunięta (U) czy i poprawiona (P) 3 mz:swiadczenie 1 Zestaw danych charakteryzujących świadczenie mz:zlecenie 0-1 Zestaw danych charakteryzujących fazę wystawiania recepty data 1 Data wystawienia recepty (§ 2 ust. 1 pkt 17 rozporządzenia) data-od 0-1 Data, od której można realizować receptę"
+    },
+    {
+     "type": "ocr",
+     "text": "5 mz:dokument-zlęc 1 Dane precyzujące rodzaj i nr recepty typ 1 Kod typu recepty (§ 2 ust. 1 pkt 5 rozporządzenia) tir 0-1 Nr recepty ($ 2 ust. 1 pkt 6 rozporządzenia) pro 0-1 [0] Wskaźnik „pro auctore” lub „pro familia” (§ 2 ust. 1 pkt9 rozporządzenia) 5 mz:komorka-org 0-1 Dane identyfikujące podmiot upoważniony do wystawienia |. recepty iregon 1 Identyfikator świadczeniodawcy - 9 cyfr numeru REGON lub numeru nadanego przez NFZ ($ 2 ust. 1 pkt 18 rozporządzenia - (człon r 0-1 [000] 'Nr komórki organizacyjnej ($ 2 ust. 1 pkt 18 rozporządzenia - człon II) 5 mz:lekarz | 0-1 Dane dotyczące lekarza wystawiającego receptę Nr prawa wykonywania zawodu osoby wystawiającej receptę (§ 2 ust. 1 pkt 19 rozporządzenia) mz:pacjent il Zestaw danych związanych z pacjentem, któremu wystawiono receptę mz:ubezpieczenie kod-oddzialu |1 Identyfikator oddziału wojewódzkiepo Funduszu lub symbol państwa instytucji właściwej dla osoby korzystającej ze świadczeń na podstawie przepisów o koordynacji (§ 2 ust. 1 pkt 8 i | rozporządzenia) 5 „mz:nr-pacjenta 0-1 Dane identyfikujace pacjenta typ 0-1 [0] Rodzaj numeru stuzacego do identyfikacji pacjenta: 2 - w przypadku osoby objętej przepisami o koordynacji, posiadającej poświadczenie wydane przez NFZ; 3 - w przypadku osoby objętej przepisami o koordynacji, posiadającej jeden z formularzy serii E-100; 4 - w przypadku osoby objętej przepisami o koordynacji, posiadającej Europejską Kartę Ubezpieczenia Zdrowotnego; 5 + numer PESEL; 6 - w przypadku osoby spoza UE ubezpieczonej w Polsce, nieposiadającej numeru PESEL Numer potwierdzający identyfikację pacjenta (§ 2 ust. 1 pkt 7 rozporządzenia). W przypadku gdy atrybut „typ” przyjmuje wartość „6” podawany jest numer paszportu lub innego dokumentu potwierdzającego tożsamość zgodniez rozporządzeniem Ministra Zdrowia z dnia 17 maja 2007 r. w sprawie recept lekarskich (Dz. U. Nr 97, poz. 646), $ 3 ust. 1 pkt 2 lit. g"
+    },
+    {
+     "type": "ocr",
+     "text": "Zestaw danych związanych z usługą realizacji recepty Data przyjęcia recepty do realizacji (§ 2 ust. 1 pkt 2 rozporządzenia) lub data dokonania korekty recepty, jeżeli jest to sprawozdanie korygujące Dla leków recepturowych data wydania leku ($ 2 ust. 1 pkt 4 rozporządzenia), dla leków pozostałych - taka sama jak data przyjęcia do realizacji"
+    },
+    {
+     "type": "ocr",
+     "text": "|"
+    },
+    {
+     "type": "ocr",
+     "text": "| data-piery [0-1 Data pierwotnego przyjęcia recepty do realizacji — przekazywana | w przypadku korekty nr 1 Numer recepty nadany w aptece w trakcie realizacji recepty (§ 2 | | ust. 1 pkt 3 rozporządzenia) 3 pazzawioryzacja 0-1 Zestaw danych służących do potwierdzenia wykonania usługi na rzecz pacjenta"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "typ 0-1 [0] Rodzaj numeru autoryzacji nr 1 Numer potwierdzający identyfikację pacjenta (§ 2 ust. 1 pkt 7 rozporządzenia) 5 mz:lek 1-n Zestaw danych charakteryzujących wydany lek nz 0-1 [0] Określa, czy lekarz umieścił adnotację „nie zamieniać” przy leku: 0 — można zamieniać, 1 — nie można zamieniać uprawnienie |1 Kod uprawnień pacjenta przyjęty przy wydaniu danego leku ($ 2 ust. i pkt 10 rozporządzenia) odplatnosc =; 1 Kod odpłatności za lek ($ 2 ust. I pkt 15 rozporządzenia) refundacja |1 Kwota podlegająca refundacji ($ 2 ust. 1 pkt 16 rozporządzenia) 6 mz:lek-ean 1-n Zestaw danych opisujących wydane opakowania leku katalog {1 | Typ kodu leku (§ 2 ust. 1 pkt 11 rozporządzenia) kod | 0-1 (Kod leku-EAN13 (§ 2 ust. 1 pkt 12 rozporządzenia) ilosc 1 Liczba wydanych opakowań leku o określonym kodzie EAN13 (3 2 ust. 1 pkt 13 rozporządzenia) wartosc 1 Wartość leku o tym kodzie EAN13 ($ 2 ust. 1 pkt 14 rozporządzenia)"
+    },
+    {
+     "type": "ocr",
+     "text": "Wyjaśnienie: [X] w kolumnie „Krotność” oznacza wartość domyślną."
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Zdrowia kieruje działem administracji rządowej — zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. Nr 216, poz. 1607).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 94, poz. 788, Nr 132, poz. 1110, Nr 138, poz. 1154, Nr 157, poz. 1314, Nr 164, poz. 1366, Nr 169, poz. 1411 i Nr 179, poz. 1485, z 2006 r. Nr 75, poz. 519, Nr 104, poz. 708 i 711, Nr 143, poz. 1030, Nr 170, poz. 1217, Nr 191, poz. 1410, Nr 227, poz. 1658 i Nr 249, poz. 1824, z 2007 r. Nr 64, poz. 427 i 433, Nr 82, poz. 559, Nr 115, poz. 793, Nr 133, poz. 922, Nr 166, poz. 1172, Nr 171, poz. 1208 i Nr 176, poz. 1243 oraz z 2008 r. Nr 52, poz. 305, Nr 70, poz. 416 i Nr 141, poz. 888."
+ }
+}

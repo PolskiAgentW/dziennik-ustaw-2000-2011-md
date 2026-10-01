@@ -1,0 +1,1315 @@
+{
+ "eli": "DU/2008/2",
+ "title": "Rozporządzenie Ministra Gospodarki z dnia 21 grudnia 2007 r. w sprawie wymagań, którym powinny odpowiadać ciepłomierze i ich podzespoły, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2008/2/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 grudnia 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wymagań, którym powinny odpowiadać ciepłomierze i ich podzespoły, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych[^2]"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9a pkt 1 i 2 ustawy z dnia 11 maja 2001 r. — Prawo o miarach (Dz. U. z 2004 r. Nr 243, poz. 2441, z późn. zm.[^3]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "wymagania w zakresie wykonania i charakterystyk metrologicznych ciepłomierzy i ich podzespołów:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "przeliczników,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "par czujników temperatury,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "przetworników przepływu",
+       "children": [
+        {
+         "type": "text",
+         "text": "— wprowadzonych do obrotu lub użytkowania w wyniku dokonania oceny zgodności;"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "szczegółowy zakres sprawdzeń wykonywanych podczas legalizacji pierwotnej i legalizacji ponownej ciepłomierzy, przeliczników, par czujników temperatury i przetworników przepływu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "sposoby i metody przeprowadzania sprawdzeń, o których mowa w pkt 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Przepisy rozporządzenia stosuje się do ciepłomierzy, przeliczników, par czujników temperatury i przetworników przepływu wprowadzonych do obrotu lub użytkowania:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "na podstawie decyzji zatwierdzenia typu wydanych przed dniem 7 stycznia 2007 r.;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "w wyniku dokonania oceny zgodności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "ciepłomierz — przyrząd pomiarowy przeznaczony do pomiaru ciepła oddawanego przez ciecz będącą ciekłym nośnikiem ciepła w obiegu wymiany ciepła, wykonany jako przyrząd zespolony albo składany, złożony z przetwornika przepływu, pary czujników temperatury i przelicznika, albo jako kombinacja tych dwóch rodzajów konstrukcji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "przelicznik — podzespół odbierający sygnały pary czujników temperatury i przetwornika przepływu, przetwarzający je oraz obliczający i wskazujący wartość liczbową ciepła przekazanego w obiegu wymiany ciepła;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "para czujników temperatury — podzespół wytwarzający sygnały wyjściowe, będące funkcją temperatury nośnika ciepła na wejściu i na wyjściu obiegu wymiany ciepła;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "przetwornik przepływu — podzespół wytwarzający sygnał wyjściowy, będący funkcją objętości, masy, strumienia objętości lub strumienia masy nośnika ciepła, mierzonych na wejściu albo na wyjściu obiegu wymiany ciepła;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "dolna granica zakresu temperatury (θ , t ) — najmniejszą wartość temperatury nośnika min min ciepła, przy której ciepłomierz lub jego podzespół działa poprawnie, bez przekroczenia błędów granicznych dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "górna granica zakresu temperatury (θ , t ) — największą wartość temperatury nośnika max max ciepła, przy której ciepłomierz lub jego podzespół działa poprawnie, bez przekroczenia błędów granicznych dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_3/pkt_7",
+     "text": "różnica temperatury (Δ θ, Δ t) — różnicę temperatury nośnika ciepła na wejściu obiegu wymiany ciepła i temperatury nośnika ciepła na wyjściu obiegu wymiany ciepła;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_3/pkt_8",
+     "text": "minimalna różnica temperatury (Δ θ , Δ t ) — najmniejszą wartość różnicy temperatury, min min przy której ciepłomierz lub jego podzespół działa poprawnie, bez przekroczenia błędów granicznych dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_3/pkt_9",
+     "text": "maksymalna różnica temperatury (Δ θ , Δ t ) — największą wartość różnicy temperatury, max przy max której ciepłomierz lub jego podzespół działa poprawnie, bez przekroczenia błędów granicznych dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_3/pkt_10",
+     "text": "przepływ (q) — strumień objętości lub strumień masy nośnika ciepła;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_3/pkt_11",
+     "text": "przepływ minimalny (q , q ) — najmniejszą wartość przepływu, przy której i min ciepłomierz lub jego podzespół działa poprawnie, bez przekroczenia błędów granicznych dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_3/pkt_12",
+     "text": "przepływ nominalny (q , q ) — największą wartość przepływu, dopuszczalną p n podczas działania ciągłego, przy której ciepłomierz lub jego podzespół działa poprawnie, bez przekroczenia błędów granicznych dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_3/pkt_13",
+     "text": "przepływ maksymalny (q , q ) — największą wartość przepływu, dopuszczalną s max w krótkich okresach czasu, przy której ciepłomierz lub jego podzespół działa poprawnie, bez przekroczenia błędów granicznych dopuszczalnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Na ciepłomierzu, o którym mowa w § 2 pkt 2, powinny być zamieszczone w sposób trwały i czytelny, w szczególności następujące oznaczenia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "nazwa lub znak producenta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "oznakowanie zgodności w rozumieniu art. 5 pkt 3 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.[^4]), dodatkowe oznakowanie metrologiczne i numer jednostki notyfikowanej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "identyfikacyjne:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_4/ust_1/pkt_3/lit_a",
+         "text": "znak fabryczny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_4/ust_1/pkt_3/lit_b",
+         "text": "numer fabryczny;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_1/pkt_4",
+       "text": "numer certyfikatu badania typu WE albo certyfikatu badania projektu WE;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_1/pkt_5",
+       "text": "klasa dokładności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_4/ust_1/pkt_6",
+       "text": "granice strumienia objętości lub strumienia masy: q , q , q ; i p s",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_4/ust_1/pkt_7",
+       "text": "granice temperatury: θ , θ ;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_4/ust_1/pkt_8",
+       "text": "granice różnicy temperatury: min max Δ θ min , Δ θ max ;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_4/ust_1/pkt_9",
+       "text": "miejsce montażu przetwornika przepływu: zasilanie albo powrót;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_4/ust_1/pkt_10",
+       "text": "oznaczenie kierunku przepływu nośnika ciepła w postaci strzałki.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Na przeliczniku, o którym mowa w § 2 pkt 2, powinny być zamieszczone w sposób trwały i czytelny, w szczególności oznaczenia, o których mowa w ust. 1 pkt 1—4 i 7—9, oraz:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "rodzaj czujników temperatury;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "wymagana stała przetwarzania przetwornika przepływu lub odpowiedni sygnał wejściowy pochodzący z przetwornika przepływu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Na parze czujników temperatury, o której mowa w § 2 pkt 2, powinny być zamieszczone w sposób trwały i czytelny, w szczególności oznaczenia, o których mowa w ust. 1 pkt 1—4, 7 i 8 oraz w ust. 2 pkt 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Na przetworniku przepływu, o którym mowa w § 2 pkt 2, powinny być zamieszczone w sposób trwały i czytelny, w szczególności oznaczenia, o których mowa w ust. 1 pkt 1—7 i 10, oraz stała przetwarzania lub odpowiedni sygnał wyjściowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Błędy względne procentowe oraz błędy graniczne dopuszczalne przy legalizacji ponownej ciepłomierza, przelicznika, pary czujników temperatury i przetwornika przepływu, o których mowa w § 2 pkt 2, oraz wzory, według których oblicza się te błędy, określa załącznik do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Podczas legalizacji pierwotnej ciepłomierza, przelicznika, pary czujników temperatury i przetwornika przepływu, o których mowa w § 2 pkt 1, należy dokonać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "oględzin, podczas których sprawdza się ich zgodność z zatwierdzonym typem w zakresie konstrukcji, wykonania i materiałów oraz wymaganych oznaczeń;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "sprawdzenia zgodności charakterystyk metrologicznych z wymaganiami poprzez wyznaczenie wartości ich błędów i porównanie tych wartości z odpowiednimi wartościami błędów granicznych dopuszczalnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Podczas legalizacji ponownej ciepłomierza, przelicznika, pary czujników temperatury i przetwornika przepływu należy dokonać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "oględzin, podczas których sprawdza się:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_7/pkt_1/lit_a",
+       "text": "wymagane oznaczenia oraz cechy legalizacji lub cechy zabezpieczające, naniesione podczas poprzedniej legalizacji albo w wyniku oceny zgodności, oraz",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_7/pkt_1/lit_b",
+       "text": "czy przyrządy te nie są uszkodzone;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "sprawdzenia zgodności charakterystyk metrologicznych z wymaganiami poprzez wyznaczenie wartości ich błędów i porównanie tych wartości z odpowiednimi wartościami błędów granicznych dopuszczalnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Podczas legalizacji pierwotnej i legalizacji ponownej przelicznika sprawdzenie należy przeprowadzić:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_1/pkt_1",
+       "text": "co najmniej przy następujących symulowanych wartościach różnicy temperatury Δ t :",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_8/ust_1/pkt_1/lit_a",
+         "text": "Δ t ≤ Δ t ≤ 1,2 Δ t ,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_8/ust_1/pkt_1/lit_b",
+         "text": "10 min °C ≤ Δ t ≤ 20 °C, min",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_8/ust_1/pkt_1/lit_c",
+         "text": "Δ t – 5 °C ≤ Δ t ≤ Δ t — ustalonych max na podstawie max certyfikatu badania typu WE, certyfikatu badania projektu WE albo decyzji zatwierdzenia typu ciepłomierza lub przelicznika;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_1/pkt_2",
+       "text": "przy symulowanym przepływie, który nie powinien przekraczać maksymalnej wartości dopuszczalnej przy sprawdzaniu przelicznika, ustalonej w certyfikacie albo decyzji, o których mowa w pkt 1, albo w instrukcji sprawdzania przelicznika, przy czym w przypadku sygnału impulsowego maksymalnej wartości przepływu odpowiada maksymalna częstotliwość impulsów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_1/pkt_3",
+       "text": "w warunkach, o których mowa w pkt 1 lit. a i b, wartości temperatury niższej powinny zawierać się w przedziale od 40 °C do 70 °C, o ile certyfikat albo decyzja, o których mowa w pkt 1, nie stanowią inaczej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Sprawdzenie przelicznika obejmuje dodatkowo skontrolowanie, czy liczydło ciepła działa poprawnie — w przypadku sprawdzania przelicznika przy wykorzystaniu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_2/pkt_1",
+       "text": "wskazania ciepła o podwyższonej rozdzielczości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_2/pkt_2",
+       "text": "wskazania testowego przelicznika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_2/pkt_3",
+       "text": "sygnału elektrycznego lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_8/ust_2/pkt_4",
+       "text": "sygnału cyfrowego przelicznika.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Podczas sprawdzania przelicznika:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_3/pkt_1",
+       "text": "wartości temperatury otoczenia powinny zawierać się w przedziale od 15 °C do 35 °C, przy czym zmiany wartości chwilowej temperatury podczas pojedynczego pomiaru nie powinny przekraczać ±2,5 °C;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_3/pkt_2",
+       "text": "wartości wilgotności względnej powinny zawierać się w przedziale od 25 % do 75 %, przy czym zmiany wartości chwilowej wilgotności względnej podczas pojedynczego pomiaru nie powinny przekraczać ±5 %.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Podczas legalizacji pierwotnej i legalizacji ponownej pary czujników temperatury sprawdzenie należy przeprowadzić w każdym z trzech następujących zakresów temperatury t :",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_1/pkt_1",
+       "text": "t ≤t≤t + 10 °C — jeżeli wartość t < 20 °C albo 35 °C ≤t≤45 °C — jeżeli wartość t min ≥20 °C,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_1/pkt_2",
+       "text": "75 °C ≤ t ≤ 85 °C,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_1/pkt_3",
+       "text": "t max – 30 °C ≤ t ≤ t max",
+       "children": [
+        {
+         "type": "text",
+         "text": "— ustalonych na podstawie certyfikatu badania typu WE, certyfikatu badania projektu WE albo decyzji zatwierdzenia typu ciepłomierza lub pary czujników temperatury."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Sprawdzenie pary czujników temperatury obejmuje dodatkowo skontrolowanie rezystancji izolacji, które powinno być dokonane w temperaturze otoczenia, dla każdego z czujników tworzących parę czujników temperatury, między obudową suchego czujnika (bez osłony) i każdym z jego przyłączy (zacisków w czujniku głowicowym albo przewodów zewnętrznych w czujniku bezgłowicowym), przy napięciu stałym o wartości zawartej w przedziale od 10 V do 100 V, przy obu polaryzacjach napięcia, przy czym w żadnym z punktów rezystancja izolacji nie powinna być mniejsza od 100 MΩ .",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Podczas sprawdzania pary czujników temperatury:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_3/pkt_1",
+       "text": "temperatura otoczenia powinna osiągać wartości, o których mowa w § 8 ust. 3 pkt 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_3/pkt_2",
+       "text": "wilgotność względna powinna osiągać wartości, o których mowa w § 8 ust. 3 pkt 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Liczba jednocześnie sprawdzanych par czujników temperatury może być dowolna, pod warunkiem że nie pogarsza to stabilizacji temperatury w termostacie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_9/ust_5",
+     "text": "Pary czujników temperatury mogą być sprawdzane przy innej wartości temperatury t niż określona w ust. 1 pkt 2, o ile jest ona ustalona w certyfikacie albo decyzji, o których mowa w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Podczas legalizacji pierwotnej i legalizacji ponownej przetwornika przepływu sprawdzenie należy przeprowadzić co najmniej przy następujących wartościach przepływu q:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "q ≤ q ≤ 1,1 q ,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_1/pkt_2",
+       "text": "0,1 i q ≤ q ≤ 0,11 i q ,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_1/pkt_3",
+       "text": "0,9 q p p ≤ q ≤ q p p",
+       "children": [
+        {
+         "type": "text",
+         "text": "— ustalonych na podstawie certyfikatu badania typu WE, certyfikatu badania projektu WE albo decyzji zatwierdzenia typu ciepłomierza lub przetwornika przepływu."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Sprawdzenie przetwornika przepływu obejmuje dodatkowo skontrolowanie, czy sygnał wyjściowy przetwornika przepływu, służący do komunikacji z przelicznikiem, jest wytwarzany poprawnie — w przypadku sprawdzania przetwornika przepływu przy wykorzystaniu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_2/pkt_1",
+       "text": "wskazania objętości o podwyższonej rozdzielczości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_2/pkt_2",
+       "text": "wskazania masy o podwyższonej rozdzielczości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_2/pkt_3",
+       "text": "sygnału elektrycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_10/ust_2/pkt_4",
+       "text": "sygnału optycznego lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_10/ust_2/pkt_5",
+       "text": "sygnału cyfrowego przetwornika przepływu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Podczas sprawdzenia przetwornika przepływu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_3/pkt_1",
+       "text": "temperatura otoczenia powinna osiągać wartości, o których mowa w § 8 ust. 3 pkt 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_3/pkt_2",
+       "text": "wilgotność względna powinna osiągać wartości, o których mowa w § 8 ust. 3 pkt 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_3/pkt_3",
+       "text": "wartość ciśnienia atmosferycznego powinna zawierać się w przedziale od 86 kPa do 106 kPa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_10/ust_3/pkt_4",
+       "text": "wartość średnia temperatury wody t podczas pojedynczego pomiaru powinna wynosić:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_10/ust_3/pkt_4/lit_a",
+         "text": "t = (50 ± 5) °C przy sprawdzaniu wodą ciepłą,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_10/ust_3/pkt_4/lit_b",
+         "text": "t = (20 ± 5) °C przy sprawdzaniu wodą zimną;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_10/ust_3/pkt_5",
+       "text": "zmiany wartości chwilowej temperatury wody w przetworniku przepływu podczas pojedynczego pomiaru nie powinny przekraczać ±2 °C w odniesieniu do wartości średniej temperatury;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_10/ust_3/pkt_6",
+       "text": "woda powinna mieć czystość wody pitnej wodociągowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_10/ust_3/pkt_7",
+       "text": "przewodność elektryczna właściwa wody, przy sprawdzaniu elektromagnetycznego przetwornika przepływu, powinna przekraczać 0,02 S/m;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_10/ust_3/pkt_8",
+       "text": "zmiany wartości chwilowej przepływu q podczas pojedynczego pomiaru nie powinny przekraczać ±2,5 % wartości średniej przepływu dla q ≤q < 0,2 q i ±5 % dla 0,2 q ≤ q ≤ q ; i p 9) liczba jednocześnie p sprawdzanych p przetworników przepływu połączonych szeregowo może być dowolna, jeżeli:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_10/ust_3/pkt_8/lit_a",
+         "text": "certyfikat albo decyzja, o których mowa w ust. 1, nie stanowią inaczej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_10/ust_3/pkt_8/lit_b",
+         "text": "różnica wartości średnich temperatury wody na początku i na końcu szeregu podczas pojedynczego pomiaru nie przekracza 2 °C,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_10/ust_3/pkt_8/lit_c",
+         "text": "ciśnienie w każdym miejscu szeregu jest wystarczające, aby zapobiec kawitacji;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_10/ust_3/pkt_10",
+       "text": "przetwornik przepływu o średnicy nominalnej większej od 40 mm może być sprawdzany wodą zimną, o ile w certyfikacie albo decyzji, o których mowa w ust. 1, dopuszcza się taką procedurę;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_10/ust_3/pkt_11",
+       "text": "powinny być zachowane warunki montażu określone przez producenta przetwornika przepływu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_10/ust_4",
+     "text": "Podczas sprawdzenia przetwornika przepływu dopuszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_4/pkt_1",
+       "text": "stosowanie metody sprawdzenia „z zatrzymanym startem i stopem” — dla przetwornika przepływu o konstrukcji mechanicznej; w pozostałych przypadkach należy stosować metodę sprawdzenia „z ruchomym startem i stopem”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_4/pkt_2",
+       "text": "sprawdzenie przetwornika przepływu przy innej wartości przepływu q niż określona w ust. 1 pkt 3, o ile jest ona ustalona w certyfikacie albo decyzji, o których mowa w ust. 1.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Podczas legalizacji ponownej przetwornika przepływu, wprowadzonego do obrotu lub użytkowania na podstawie decyzji zatwierdzenia typu wydanej od dnia 1 stycznia 1994 r. do dnia 15 maja 1999 r., sprawdzanie należy przeprowadzić zgodnie z § 10 ust. 2—4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Sprawdzenie przetwornika przepływu powinno być przeprowadzone przy następujących wartościach przepływu q:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_2/pkt_1",
+       "text": "q ≤ q ≤ 1,1 q ,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_2/pkt_2",
+       "text": "q min ≤ q ≤ 1,1 q , min",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "q — przepływ pośredni, rozumiany jako najmniejt sza wartość przepływu, przy której wartość błędu granicznego dopuszczalnego przetwornika przepływu nie przekracza ±3 %,"
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_2/pkt_3",
+       "text": "0,9 q n ≤ q ≤ q n",
+       "children": [
+        {
+         "type": "text",
+         "text": "— ustalonych na podstawie decyzji zatwierdzenia typu ciepłomierza lub przetwornika przepływu."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Podczas legalizacji ponownej ciepłomierza zespolonego sprawdzenie należy przeprowadzić:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_1/pkt_1",
+       "text": "co najmniej przy następujących wartościach różnicy temperatury Δ t i przepływu q:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_12/ust_1/pkt_1/lit_a",
+         "text": "Δ t ≤ Δ t ≤ 1,2 Δ t i 0,9 q ≤ q ≤ q , min min p p b) 10 °C ≤ Δ t ≤ 20 °C i 0,1 q ≤ q ≤ 0,11 q lub 0,2 q ≤ q ≤ 0,22 q , p p c) Δ t p – 5 °C ≤ Δ t ≤ p Δ t i q ≤ q ≤ 1,1 q max max i i",
+         "children": [
+          {
+           "type": "text",
+           "text": "— ustalonych na podstawie certyfikatu badania typu WE albo certyfikatu badania projektu WE ciepłomierza;"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_1/pkt_2",
+       "text": "w warunkach, o których mowa w pkt 1 lit. a i b, wartości temperatury niższej powinny zawierać się w przedziale od 40 °C do 70 °C, o ile certyfikat, o którym mowa w pkt 1, nie stanowi inaczej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Sprawdzenie ciepłomierza zespolonego obejmuje dodatkowo skontrolowanie, czy liczydło ciepła działa poprawnie — w przypadku sprawdzania ciepłomierza przy wykorzystaniu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_2/pkt_1",
+       "text": "wskazania ciepła o podwyższonej rozdzielczości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_2/pkt_2",
+       "text": "wskazania testowego ciepłomierza;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_2/pkt_3",
+       "text": "sygnału elektrycznego lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_12/ust_2/pkt_4",
+       "text": "sygnału cyfrowego ciepłomierza.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Ciepłomierz zespolony powinien być sprawdzany zgodnie z § 10 ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_12/ust_4",
+     "text": "Podczas sprawdzenia ciepłomierza zespolonego dopuszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_4/pkt_1",
+       "text": "stosowanie metody sprawdzenia „z zatrzymanym startem i stopem” — dla ciepłomierza z przetwornikiem przepływu o konstrukcji mechanicznej; w pozostałych przypadkach należy stosować metodę sprawdzenia „z ruchomym startem i stopem”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_4/pkt_2",
+       "text": "sprawdzenie ciepłomierza przy innej wartości przepływu q niż określona w ust. 1 pkt 1 lit. a, o ile jest ona ustalona w certyfikacie, o którym mowa w ust. 1.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Podczas legalizacji pierwotnej i legalizacji ponownej ciepłomierza hybrydowego, będącego kombinacją ciepłomierza zespolonego i ciepłomierza składanego:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_13/pkt_1",
+     "text": "przelicznik, para czujników temperatury i przetwornik przepływu powinny być sprawdzane zgodnie ze sposobami przeprowadzania sprawdzeń określonymi w § 8—11;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_13/pkt_2",
+     "text": "przelicznik z parą czujników temperatury powinien być sprawdzany zgodnie ze sposobami przeprowadzania sprawdzeń określonymi w § 8, przy czym różnica temperatury powinna być zadawana;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_13/pkt_3",
+     "text": "przelicznik z przetwornikiem przepływu powinien być sprawdzany zgodnie ze sposobami przeprowadzania sprawdzeń określonymi w § 12, przy czym różnica temperatury powinna być symulowana.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Sprawdzenie ciepłomierza, przelicznika, pary czujników temperatury i przetwornika przepływu powinno być przeprowadzane na stanowiskach pomiarowych i z zastosowaniem metod umożliwiających wyznaczenie błędów sprawdzanego przyrządu pomiarowego z niepewnością rozszerzoną:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_1/pkt_1",
+       "text": "przy poziomie ufności 95 % i współczynniku rozszerzenia k = 2 oraz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_1/pkt_2",
+       "text": "nieprzekraczającą 1/5 wartości odpowiednich błędów granicznych dopuszczalnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Podczas legalizacji pierwotnej i legalizacji ponownej ciepłomierza, przelicznika, pary czujników temperatury i przetwornika przepływu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_2/pkt_1",
+       "text": "ciepłomierz zespolony powinien być sprawdzany w całości, zgodnie ze sposobami przeprowadzania sprawdzeń określonymi w § 12;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_2/pkt_2",
+       "text": "podzespoły ciepłomierza składanego powinny być sprawdzane oddzielnie, zgodnie ze sposobami przeprowadzania sprawdzeń określonymi w § 8—11.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_14/ust_3",
+     "text": "Ciepłomierz hybrydowy powinien być sprawdzany w sposób, który wynika z certyfikatu badania typu WE, certyfikatu badania projektu WE albo z decyzji zatwierdzenia typu ciepłomierza:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_3/pkt_1",
+       "text": "w całości, zgodnie ze sposobami przeprowadzania sprawdzeń określonymi w § 12, albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_3/pkt_2",
+       "text": "poprzez oddzielne sprawdzenie jego podzespołów, bez konieczności ich mechanicznego rozłączania, zgodnie ze sposobami przeprowadzania sprawdzeń określonymi w § 13.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_14/ust_4",
+     "text": "W przypadku gdy wyznaczona podczas legalizacji pierwotnej albo legalizacji ponownej wartość błędu ciepłomierza, przelicznika, pary czujników temperatury i przetwornika przepływu przekracza wartości odpowiednich błędów granicznych dopuszczalnych, należy powtórzyć pomiar dwa razy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_14/ust_5",
+     "text": "Wynik pomiaru, o którym mowa w ust. 4, uznaje się za pozytywny, jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_5/pkt_1",
+       "text": "średnia arytmetyczna wartości błędu wyznaczonego w trzech pomiarach nie przekracza wartości błędów granicznych dopuszczalnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_5/pkt_2",
+       "text": "co najmniej dwie wartości błędu wyznaczonego w trzech pomiarach nie przekraczają wartości błędów granicznych dopuszczalnych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Traci moc rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 13 lutego 2004 r. w sprawie wymagań metrologicznych, którym powinny odpowiadać ciepłomierze do wody i ich elementy (Dz. U. Nr 37, poz. 332).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki: W. Pawlak"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Gospodarki z dnia 21 grudnia 2007 r. (poz. 2)",
+   "body": [
+    {
+     "type": "text",
+     "text": "BŁĘDY WZGLĘDNE PROCENTOWE ORAZ BŁĘDY GRANICZNE DOPUSZCZALNE CIEPŁOMIERZA I JEGO PODZESPOŁÓW, WPROWADZONYCH DO OBROTU LUB UŻYTKOWANIA W WYNIKU DOKONANIA OCENY ZGODNOŚCI, ORAZ WZORY, WEDŁUG KTÓRYCH OBLICZA SIĘ TE BŁĘDY"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Błąd względny procentowy ciepłomierza E określa się według wzoru: Q",
+     "children": [
+      {
+       "type": "text",
+       "text": "Q – Q E = ——— i c 100 % Q Q c"
+      },
+      {
+       "type": "text",
+       "text": "gdzie: Q — wartość wskazana ciepła, Q i c — wartość poprawna ciepła."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Przy sprawdzaniu ciepłomierza wartość poprawną ciepła Q c oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Q = m Δ h lub Q = k V Δ t c c gdzie: m — masa nośnika ciepła, Δ h — wartość różnicy entalpii właściwej nośnika ciepła w temperaturze na wejściu i w temperaturze na wyjściu obiegu wymiany ciepła, pod odpowiadającym im ciśnieniem, k — współczynnik cieplny, będący funkcją właściwości fizycznych nośnika ciepła, zależną od temperatury na wejściu i temperatury na wyjściu obiegu wymiany ciepła, ciśnienia nośnika ciepła oraz miejsca pomiaru objętości, masy lub przepływu nośnika ciepła; wartości współczynnika cieplnego dla wody powinny być wyznaczane według wzorów podanych w załączniku A do normy PN-EN 1434-1:2001/A1:2004, przy ciśnieniu wynoszącym 16 barów; wartości współczynnika cieplnego dla nośnika ciepła innego niż woda, w funkcji temperatury i ciśnienia, powinny być podane przez producenta ciepłomierza; V — objętość nośnika ciepła, Δ t — różnica temperatury."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wartości błędu względnego procentowego ciepłomierza, o którym mowa w ust. 1, wyznaczone podczas legalizacji ponownej, nie powinny przekraczać wartości błędów granicznych dopuszczalnych względnych ciepłomierza, o których mowa w ust. 6 i 7.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Błędy względne procentowe podzespołów ciepłomierza E N oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "X – X E = ———— i c 100 %"
+      },
+      {
+       "type": "text",
+       "text": "gdzie: c X — wartość wskazana lub zmierzona wielkości i wyjściowej (sygnału będącego funkcją objętości, masy, przepływu, różnicy temperatury lub ciepła), X — wartość poprawna wskazania lub wyniku c pomiaru wielkości wyjściowej, N — symbol podzespołu ciepłomierza, przyjmujący oznaczenia: L — przelicznik, T — para czujników temperatury, P — przetwornik przepływu."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Wartości błędów względnych procentowych, o których mowa w ust. 4, wyznaczone podczas legalizacji ponownej, nie powinny przekraczać wartości odpowiednich błędów granicznych dopuszczalnych względnych, o których mowa w ust. 8—11.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Błędy graniczne dopuszczalne względne ciepłomierza zespolonego E , wyrażone w procentach, Qd w zależności od różnicy temperatury Δ t i przepływu q oraz klasy dokładności, oblicza się według wzorów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "dla klasy 1: E = ±(2 + 4 Δ t /Δ t + 0,01 q /q) Qd min p 2) dla klasy 2: E = ±(3 + 4 Δ t /Δ t + 0,02 q /q) Qd min p 3) dla klasy 3: E = ±(4 + 4 Δ t /Δ t + 0,05 q /q) Qd min p",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Wartość E Qd nie powinna przekraczać ±10 %.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Błędy graniczne dopuszczalne względne przelicznika E , wyrażone w procentach, w zależności od różnicy Ld temperatury Δ t, oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "E Ld = ±(0,5 + Δ t min /Δ t)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Błędy graniczne dopuszczalne względne pary czujników temperatury E , wyrażone w procentach, w zależności od różnicy Td temperatury Δ t, oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "E Td = ±(0,5 + 3 Δ t min /Δ t)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Błędy graniczne dopuszczalne względne przetwornika przepływu E , wyrażone w procentach, w zależności od przepływu Pd q oraz klasy dokładności, oblicza się według wzorów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_10/pkt_1",
+       "text": "dla klasy 1: E Pd = ±(1 + 0,01 q p /q)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_10/pkt_2",
+       "text": "dla klasy 2: E Pd = ±(2 + 0,02 q p /q)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_10/pkt_3",
+       "text": "dla klasy 3: E Pd = ±(3 + 0,05 q p /q)",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Wartość E Pd nie powinna przekraczać ±5 %.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Błędy graniczne dopuszczalne względne ciepłomierza składanego i hybrydowego oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "E = E + E + E"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "Błąd graniczny dopuszczalny bezwzględny pojedynczego czujnika temperatury, wchodzącego w skład pary czujników temperatury, wynosi ±2 °C.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Gospodarki kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki (Dz. U. Nr 216, poz. 1593).",
+  "2": "Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 9 maja 2007 r., pod numerem 2007/0260/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych (Dz. Urz. WE L 204 z 21.07.1998, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).",
+  "3": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 163, poz. 1362 i Nr 180, poz. 1494, z 2006 r. Nr 170, poz. 1217 i Nr 249, poz. 1834 oraz z 2007 r. Nr 176, poz. 1238.",
+  "4": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258, z 2006 r. Nr 170, poz. 1217, Nr 235, poz. 1700 i Nr 249, poz. 1832 i 1834 oraz z 2007 r. Nr 21, poz. 124 i Nr 192, poz. 1381. min min min gdzie: t t N X Qd Ld Td Pd"
+ }
+}

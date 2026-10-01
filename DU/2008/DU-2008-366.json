@@ -1,0 +1,1394 @@
+{
+ "eli": "DU/2008/366",
+ "title": "Rozporządzenie Ministra Zdrowia z dnia 27 marca 2008 r. w sprawie bazy danych urządzeń radiologicznych",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2008/366/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ZDROWIA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 marca 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie bazy danych urządzeń radiologicznych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33k ust. 3 ustawy z dnia 29 listopada 2000 r. — Prawo atomowe (Dz. U. z 2007 r. Nr 42, poz. 276) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa organizację bazy danych urządzeń radiologicznych oraz zakres informacji przekazywanych Głównemu Inspektorowi Sanitarnemu przez organy, o których mowa w art. 33k ust. 2 ustawy z dnia 29 listopada 2000 r. — Prawo atomowe, zwanej dalej „ustawą”, i sposób ich przekazywania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Bazę danych urządzeń radiologicznych, zwaną dalej „bazą”, tworzy się na podstawie informacji przekazanych w sposób określony w art. 33k ust. 2 ustawy z podziałem na rejestry:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "jednostek ochrony zdrowia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "urządzeń radiologicznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Baza jest prowadzona:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "w formie elektronicznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "w sposób, który umożliwia:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_2/pkt_2/lit_a",
+         "text": "ustalenie jednostki ochrony zdrowia, w której znajduje się dane urządzenie radiologiczne, i jakie urządzenia radiologiczne znajdują się w danej jednostce ochrony zdrowia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_2/pkt_2/lit_b",
+         "text": "przygotowanie zestawień jednostek ochrony zdrowia, urządzeń radiologicznych i ich parametrów w różnych konfiguracjach.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Oprogramowanie bazy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_3/pkt_1",
+       "text": "zapewnia dostęp do danych wyłącznie osobom upoważnionym przez Głównego Inspektora Sanitarnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_3/pkt_2",
+       "text": "umożliwia wprowadzanie danych, ich modyfikację, archiwizację oraz odczyt w różnych konfiguracjach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Każda zmiana danych w bazie jest automatycznie rejestrowana przez oprogramowanie bazy, z podaniem daty dokonania zmiany i w sposób zapewniający identyfikację osoby, która dokonała tej zmiany.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Kopię danych zawartych w bazie sporządza się na informatycznych nośnikach danych co najmniej raz w miesiącu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rejestr jednostek ochrony zdrowia, o którym mowa w § 2 ust. 1 pkt 1, obejmuje następujące informacje:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "nazwę jednostki ochrony zdrowia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "identyfikator jednostki ochrony zdrowia (REGON);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "adres jednostki ochrony zdrowia, numer telefonu, faksu oraz adres poczty elektronicznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "imię i nazwisko, numer telefonu oraz adres poczty elektronicznej kierownika jednostki ochrony zdrowia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Rejestr urządzeń radiologicznych, o którym mowa w § 2 ust. 1 pkt 2, obejmuje następujące kategorie urządzeń radiologicznych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "diagnostyczne aparaty rentgenowskie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "urządzenia radiologiczne stosowane w medycynie nuklearnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "urządzenia radiologiczne stosowane w radioterapii.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Rejestr urządzeń radiologicznych, o którym mowa w § 2 ust. 1 pkt 2, obejmuje następujące informacje dotyczące poszczególnych urządzeń radiologicznych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "numer i datę wydania zezwolenia na uruchomienie i stosowanie urządzenia oraz nazwę organu wydającego to zezwolenie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "określone w § 5—7.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Informacje dotyczące diagnostycznego zestawu rentgenowskiego obejmują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "charakterystykę zestawu uwzględniającą następujące dane:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_1/lit_a",
+         "text": "przeznaczenie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_1/lit_b",
+         "text": "model lub typ,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_1/pkt_1/lit_c",
+         "text": "kod identyfikacyjny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_1/pkt_1/lit_d",
+         "text": "nazwę wytwórcy i instalatora,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_5/ust_1/pkt_1/lit_e",
+         "text": "rok produkcji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_5/ust_1/pkt_1/lit_f",
+         "text": "rok uruchomienia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_5/ust_1/pkt_1/lit_g",
+         "text": "wykaz wyposażenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_5/ust_1/pkt_1/lit_h",
+         "text": "datę wykonania aktualnych testów specjalistycznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_5/ust_1/pkt_1/lit_i",
+         "text": "uwagi;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "charakterystykę lampy rentgenowskiej uwzględniającą następujące dane:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_2/lit_a",
+         "text": "model lub typ,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_2/lit_b",
+         "text": "filtrację własną lampy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_1/pkt_2/lit_c",
+         "text": "kod identyfikacyjny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_1/pkt_2/lit_d",
+         "text": "wielkość ogniska lub ognisk,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_5/ust_1/pkt_2/lit_e",
+         "text": "zakres napięć nominalnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_5/ust_1/pkt_2/lit_f",
+         "text": "rok produkcji;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "typ generatora wysokiego napięcia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Jeżeli zestaw rentgenowski jest wyposażony w dodatkową lampę rentgenowską, informacje wymienione w ust. 1 pkt 2 podaje się także dla tej lampy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Jeżeli zestaw jest tomografem komputerowym, poza informacjami wymienionymi w ust. 1 podaje się także:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_3/pkt_1",
+       "text": "minimalny czas akwizycji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_3/pkt_2",
+       "text": "minimalną grubość warstw;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_3/pkt_3",
+       "text": "liczbę rzędów lub warstw;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_3/pkt_4",
+       "text": "typ strzykawki automatycznej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Informacje dotyczące przeznaczenia, wyposażenia i generatora diagnostycznego zestawu rentgenowskiego wpisuje się zgodnie z listą kodów, których wykaz jest określony w załączniku do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Informacje dotyczące urządzenia radiologicznego stosowanego w medycynie nuklearnej w przypadku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "kamery scyntylacyjnej obejmują:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_6/ust_1/pkt_1/lit_a",
+         "text": "rodzaj kamery zgodnie z listą kodów zawartych w załączniku do rozporządzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_6/ust_1/pkt_1/lit_b",
+         "text": "model lub typ,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_6/ust_1/pkt_1/lit_c",
+         "text": "kod identyfikacyjny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_6/ust_1/pkt_1/lit_d",
+         "text": "nazwę wytwórcy i instalatora,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_6/ust_1/pkt_1/lit_e",
+         "text": "rok produkcji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_6/ust_1/pkt_1/lit_f",
+         "text": "rok uruchomienia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_6/ust_1/pkt_1/lit_g",
+         "text": "rodzaje kolimatorów zgodnie z listą kodów zawartych w załączniku do rozporządzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_6/ust_1/pkt_1/lit_h",
+         "text": "nazwę, wersję i producenta stosowanego oprogramowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_6/ust_1/pkt_1/lit_i",
+         "text": "liczbę stacji przetwarzania danych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_6/ust_1/pkt_1/lit_j",
+         "text": "sposób rejestracji obrazów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "par_6/ust_1/pkt_1/lit_k",
+         "text": "wykaz fantomów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "par_6/ust_1/pkt_1/lit_l",
+         "text": "wykaz źródeł kontrolnych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "emisyjnego tomografu pozytonowego (PET) obejmują:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_6/ust_1/pkt_2/lit_a",
+         "text": "rodzaj PET zgodnie z listą kodów zawartych w załączniku do rozporządzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_6/ust_1/pkt_2/lit_b",
+         "text": "nazwę wytwórcy i instalatora,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_6/ust_1/pkt_2/lit_c",
+         "text": "model lub typ,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_6/ust_1/pkt_2/lit_d",
+         "text": "kod identyfikacyjny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_6/ust_1/pkt_2/lit_e",
+         "text": "rodzaj detektorów zgodnie z listą kodów zawartych w załączniku do rozporządzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_6/ust_1/pkt_2/lit_f",
+         "text": "rok produkcji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_6/ust_1/pkt_2/lit_g",
+         "text": "rok uruchomienia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_6/ust_1/pkt_2/lit_h",
+         "text": "wyposażenie zgodnie z listą kodów zawartych w załączniku do rozporządzenia.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Jeżeli PET:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_2/pkt_1",
+       "text": "jest wyposażony w:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_6/ust_2/pkt_1/lit_a",
+         "text": "cyklotron, informacje dotyczące tego urządzenia obejmują:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— model lub typ,"
+          },
+          {
+           "type": "text",
+           "text": "— nazwę wytwórcy i instalatora,"
+          },
+          {
+           "type": "text",
+           "text": "— kod identyfikacyjny,"
+          },
+          {
+           "type": "text",
+           "text": "— rok produkcji,"
+          },
+          {
+           "type": "text",
+           "text": "— maksymalną energię cząstek,"
+          },
+          {
+           "type": "text",
+           "text": "— wykaz produkowanych izotopów i ich aktywności,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_6/ust_2/pkt_1/lit_b",
+         "text": "syntetyzer produktów radiofarmaceutycznych, informacje dotyczące tego urządzenia obejmują:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— model lub typ,"
+          },
+          {
+           "type": "text",
+           "text": "— nazwę wytwórcy i instalatora,"
+          },
+          {
+           "type": "text",
+           "text": "— rok produkcji,"
+          },
+          {
+           "type": "text",
+           "text": "— kod identyfikacyjny,"
+          },
+          {
+           "type": "text",
+           "text": "— rodzaje i aktywności wytwarzanych produktów radiofarmaceutycznych;"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_2/pkt_2",
+       "text": "nie jest wyposażony w:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_6/ust_2/pkt_2/lit_a",
+         "text": "cyklotron, informacje dotyczące tego urządzenia obejmują nazwy i adresy dostawców izotopów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_6/ust_2/pkt_2/lit_b",
+         "text": "syntetyzer produktów radiofarmaceutycznych, informacje dotyczące tego urządzenia obejmują nazwy i adresy dostawców produktów radiofarmaceutycznych.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Informacje dotyczące urządzenia radiologicznego stosowanego w radioterapii obejmują w przypadku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "aparatu ze źródłem promieniotwórczym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_7/ust_1/pkt_1/lit_a",
+         "text": "model lub typ,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_7/ust_1/pkt_1/lit_b",
+         "text": "kod identyfikacyjny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_7/ust_1/pkt_1/lit_c",
+         "text": "nazwę wytwórcy i instalatora,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_7/ust_1/pkt_1/lit_d",
+         "text": "rok produkcji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_7/ust_1/pkt_1/lit_e",
+         "text": "rok uruchomienia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_7/ust_1/pkt_1/lit_f",
+         "text": "aktywność początkową źródła na dzień zainstalowania;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "akceleratora:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_7/ust_1/pkt_2/lit_a",
+         "text": "rodzaj akceleratora zgodnie z listą kodów zawartych w załączniku do rozporządzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_7/ust_1/pkt_2/lit_b",
+         "text": "model lub typ,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_7/ust_1/pkt_2/lit_c",
+         "text": "kod identyfikacyjny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_7/ust_1/pkt_2/lit_d",
+         "text": "nazwę wytwórcy i instalatora,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_7/ust_1/pkt_2/lit_e",
+         "text": "rok produkcji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_7/ust_1/pkt_2/lit_f",
+         "text": "rok uruchomienia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_7/ust_1/pkt_2/lit_g",
+         "text": "nominalne energie fotonów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_7/ust_1/pkt_2/lit_h",
+         "text": "rodzaje cząstek,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_7/ust_1/pkt_2/lit_i",
+         "text": "nominalne energie cząstek,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_7/ust_1/pkt_2/lit_j",
+         "text": "rodzaj kolimatorów zgodnie z listą kodów zawartych w załączniku do rozporządzenia.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Informacje dotyczące urządzenia radiologicznego stosowanego w brachyterapii obejmują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "model lub typ urządzenia zgodnie z listą kodów zawartych w załączniku do rozporządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "kod identyfikacyjny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_2/pkt_3",
+       "text": "nazwę wytwórcy i instalatora;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_2/pkt_4",
+       "text": "rok produkcji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_7/ust_2/pkt_5",
+       "text": "rok uruchomienia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_7/ust_2/pkt_6",
+       "text": "sposób ładowania źródła do aparatu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_7/ust_2/pkt_7",
+       "text": "stosowany izotop promieniotwórczy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_7/ust_2/pkt_8",
+       "text": "nominalną aktywność źródła;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_7/ust_2/pkt_9",
+       "text": "rodzaj aplikatora zgodnie z listą kodów zawartych w załączniku do rozporządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_7/ust_2/pkt_10",
+       "text": "sposób transportu źródła w aplikatorze;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_7/ust_2/pkt_11",
+       "text": "sposób implantowania.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Informacje określone w § 3 i § 4 ust. 2 są przekazywane przez organy, o których mowa w art. 33k ust. 2 ustawy, w terminie 30 dni od dnia, w którym decyzja o wydaniu przez nie zezwolenia stała się ostateczna, na piśmie, przesyłką pocztową nadaną w placówce operatora publicznego lub na adres poczty elektronicznej wskazany na stronie biuletynu informacji publicznej Głównego Inspektoratu Sanitarnego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Organy, o których mowa w art. 33k ust. 2 ustawy, przekażą informacje określone w § 3 i § 4 ust. 2, dotyczące urządzeń radiologicznych, na których stosowanie wydały ostateczną decyzję w sprawie zezwolenia przed dniem wejścia w życie rozporządzenia, w terminie 12 miesięcy od dnia wejścia w życie rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Zdrowia: E. Kopacz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Zdrowia z dnia 27 marca 2008 r. (poz. 366)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ KODÓW DOTYCZĄCYCH URZĄDZEŃ RADIOLOGICZNYCH W RADIOLOGII I DIAGNOSTYCE OBRAZOWEJ, MEDYCYNIE NUKLEARNEJ I RADIOTERAPII"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Ogólne zasady kodowania i określenie pól dla radiologii, medycyny nuklearnej i radioterapii"
+    },
+    {
+     "type": "text",
+     "text": "Kod zawiera 28 pól; każde wypełniane jedną cyfrą według poniższych zasad i klucza."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Numer pola:"
+    },
+    {
+     "type": "text",
+     "text": "0 Kod grupy: 1 — radiologia"
+    },
+    {
+     "type": "text",
+     "text": "2 — medycyna nuklearna"
+    },
+    {
+     "type": "text",
+     "text": "3 — radioterapia"
+    },
+    {
+     "type": "text",
+     "text": "1 do 15 Urządzenie podstawowe"
+    },
+    {
+     "type": "text",
+     "text": "16 do 22 Wyposażenie"
+    },
+    {
+     "type": "text",
+     "text": "23 do 27 Oprogramowanie"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Radiologia i diagnostyka obrazowa",
+     "children": [
+      {
+       "type": "text",
+       "text": "Numer pola:"
+      },
+      {
+       "type": "text",
+       "text": "A. Urządzenie podstawowe"
+      },
+      {
+       "type": "text",
+       "text": "1, 2 Kod aparatu"
+      },
+      {
+       "type": "text",
+       "text": "3, 4, 5 Kod i częstotliwość zasilacza — generatora"
+      },
+      {
+       "type": "text",
+       "text": "6, 7 Automatyka"
+      },
+      {
+       "type": "text",
+       "text": "8 Planigrafia, tomografia"
+      },
+      {
+       "type": "text",
+       "text": "9 Samodzielne / hybrydowe"
+      },
+      {
+       "type": "text",
+       "text": "10 Liczba lamp rtg"
+      },
+      {
+       "type": "text",
+       "text": "11 Rezerwa"
+      },
+      {
+       "type": "text",
+       "text": "12 Metoda rejestracji obrazu"
+      },
+      {
+       "type": "text",
+       "text": "13, 14, 15 Wielkość wzmacniacza"
+      },
+      {
+       "type": "text",
+       "text": "B. Wyposażenie"
+      },
+      {
+       "type": "text",
+       "text": "16, 18, 20 Kod wyposażenia"
+      },
+      {
+       "type": "text",
+       "text": "17, 19, 21 Tryb podłączenia"
+      },
+      {
+       "type": "text",
+       "text": "22 Rezerwa"
+      },
+      {
+       "type": "text",
+       "text": "C. Oprogramowanie"
+      },
+      {
+       "type": "text",
+       "text": "23 Kod procedury"
+      },
+      {
+       "type": "text",
+       "text": "24, 25, 26, 27 Kod programu A. Urządzenia podstawowe (pola nr od 1 do 15)"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 5 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Kod urządzeń do planigrafii / tomografii:"
+      },
+      {
+       "type": "ocr",
+       "text": "Brak Planigratia (dla 2, 3, 5, 6, 7, 8 lub 16 w polach 1 i 2) TK skan helikalny (dla 20 w polach 1 i 2) Angiografia — dwie płaszczyzny (dla 8, 14 lub 18 w polach 1 i 2) Angiografia — 3D (dla 8, 14 lub 18 w polach 1 i 2) Inne"
+      },
+      {
+       "type": "ocr",
+       "text": "Samodzielne / hybrydowe:"
+      },
+      {
+       "type": "ocr",
+       "text": "Samodzielne (dla 14 w polach 1 i 2) z litotrypterem (dla 14 w polach 1 i 2) ze stołem chirurgicznym"
+      },
+      {
+       "type": "ocr",
+       "text": "(dla 20 w polach 1 i 2) z gamma kamerą SPECT (dla 20 w polach 1 i 2) z gamma kamerą PET (dla 20 w polach 1 i 2) z systemem do planowania terapii"
+      },
+      {
+       "type": "ocr",
+       "text": "(dla 21 w polach 1 i 2) z systemem do planowania terapii"
+      },
+      {
+       "type": "ocr",
+       "text": "(dla 23 w polach 1 i 2) z unitem stomatologicznym"
+      },
+      {
+       "type": "ocr",
+       "text": "Inne"
+      },
+      {
+       "type": "ocr",
+       "text": "Liczba lamp rentgenowskich: Opis 10"
+      },
+      {
+       "type": "ocr",
+       "text": "Liczba lamp rentgenowskich stosowanych w zestawie Rejestracja obrazu:"
+      },
+      {
+       "type": "ocr",
+       "text": "Analogowa Radiografia cyfrowa pośrednia — płyty CR Radiografia cyfrowa bezpośrednia — panele DR Fluoroskopia cyfrowa (dla 4, 5, 6, 7, 8, 14 lub 18 w polach 1i2) Radiografia CR + fluoroskopia cyfrowa (dla 4, 5, 6, 7, 8, 14 lub 18 w polach 1 i 2) Radiografia DR + fluoroskopia cyfrowa (dla 4, 5, 6, 7, 8, 14 lub 18 w polach 1 i 2) Akwizycja TK jednowarstwowa (dla 20 w polach 1 i 2) Akwizycja TK wielowarstwowa (dla 20 w polach 1 i 2) Akwizycja TK matrycowa (dla 20 w polach 1 i 2) Inna"
+      },
+      {
+       "type": "ocr",
+       "text": "Wielkość wzmacniacza:"
+      },
+      {
+       "type": "ocr",
+       "text": "panelu DR [cm] lub liczba warstw TK, gdy w połach1 i 2 wybrano 20, a w polu 12 wybrano wartość 7"
+      },
+      {
+       "type": "ocr",
+       "text": "KAR Średnica wzmacniacza obrazu lub długość mniejszego boku"
+      },
+      {
+       "type": "text",
+       "text": "B. Wyposażenie (pola nr od 16 do 22)"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 7 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "C. Oprogramowanie (pola nr od 23 do 27)"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 8 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Medycyna nuklearna",
+     "children": [
+      {
+       "type": "text",
+       "text": "Numer pola:"
+      },
+      {
+       "type": "text",
+       "text": "A. Urządzenie podstawowe"
+      },
+      {
+       "type": "text",
+       "text": "1 Kod gamma kamery"
+      },
+      {
+       "type": "text",
+       "text": "2 Rodzaj akwizycji"
+      },
+      {
+       "type": "text",
+       "text": "3, 4, 5 Kolimatory równoległe"
+      },
+      {
+       "type": "text",
+       "text": "6, 7, 8 Kolimatory nierównoległe"
+      },
+      {
+       "type": "text",
+       "text": "9 Samodzielne / hybrydowe"
+      },
+      {
+       "type": "text",
+       "text": "10 Liczba głowic"
+      },
+      {
+       "type": "text",
+       "text": "11 Rezerwa"
+      },
+      {
+       "type": "text",
+       "text": "12, 13 Wielkość kryształu w osi pacjenta"
+      },
+      {
+       "type": "text",
+       "text": "14, 15 Wielkość kryształu w poprzek osi pacjenta"
+      },
+      {
+       "type": "text",
+       "text": "B. Wyposażenie"
+      },
+      {
+       "type": "text",
+       "text": "16, 18, 20 Kod wyposażenia"
+      },
+      {
+       "type": "text",
+       "text": "17, 19, 21 Tryb podłączenia"
+      },
+      {
+       "type": "text",
+       "text": "22 Rezerwa"
+      },
+      {
+       "type": "text",
+       "text": "C. Oprogramowanie"
+      },
+      {
+       "type": "text",
+       "text": "23 Kod procedury"
+      },
+      {
+       "type": "text",
+       "text": "24, 25, 26, 27 Kod programu A. Urządzenia podstawowe (pola nr od 1 do 15)"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "B. Wyposażenie (pola nr od 16 do 22)"
+      },
+      {
+       "type": "text",
+       "text": "C. Oprogramowanie (pola nr od 23 do 27)"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 11 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Radioterapia",
+     "children": [
+      {
+       "type": "text",
+       "text": "Numer pola:"
+      },
+      {
+       "type": "text",
+       "text": "A. Urządzenie podstawowe"
+      },
+      {
+       "type": "text",
+       "text": "1 Rodzaj radioterapii"
+      },
+      {
+       "type": "text",
+       "text": "2 Rodzaj urządzenia"
+      },
+      {
+       "type": "text",
+       "text": "3 Izotop / rodzaj emitowanego promieniowania"
+      },
+      {
+       "type": "text",
+       "text": "4, 5, 6 Maksymalna aktywność izotopów/energia przyspieszanych cząstek"
+      },
+      {
+       "type": "text",
+       "text": "7, 8, 9 Aktywność / Kolimacja"
+      },
+      {
+       "type": "text",
+       "text": "10 Liczba kanałów / Kliny"
+      },
+      {
+       "type": "text",
+       "text": "11, 12, 13 Możliwości kontroli położenia / pozycjonowania"
+      },
+      {
+       "type": "text",
+       "text": "14, 15 Rejestracja i nadzór nad przebiegiem procedury"
+      },
+      {
+       "type": "text",
+       "text": "B. Wyposażenie"
+      },
+      {
+       "type": "text",
+       "text": "16, 18, 20 Kod wyposażenia"
+      },
+      {
+       "type": "text",
+       "text": "17, 19, 21 Tryb podłączenia"
+      },
+      {
+       "type": "text",
+       "text": "22 Rezerwa"
+      },
+      {
+       "type": "text",
+       "text": "C. Oprogramowanie"
+      },
+      {
+       "type": "text",
+       "text": "23 Kod procedury"
+      },
+      {
+       "type": "text",
+       "text": "24, 25, 26, 27 Kod programu A. Urządzenia podstawowe (pola nr od 1 do 15)"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 13 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Kod aplikatorów (dla wartości 7 w polu 1) / kolimacji (dla wartości 2 w polu 1):"
+      },
+      {
+       "type": "ocr",
+       "text": "Dla wartości 1 w polu 1 Aplikatory do brachyterapii ginekologicznej Aplikatory do brachyterapii śródjamowej Aplikatory do brachyterapii śródtkankowej Mikroaplikatory do brachyterapii Aplikatory do brachyterapii kontaktowej Aplikatory indywidualne Inne Dla wartości 2 w polu 1 Tylko kolimator prostokątny symetryczny Kolimator prostokątny asymetryczny Kolimator wielolistkowy statyczny Kolimator wielolistkowy dynamiczny Mikrokolimator wielolistkowy do stereotaksji Aplikatory elektronowe Tubusy elektronowe"
+      },
+      {
+       "type": "ocr",
+       "text": "CO] Oy OY AP Go} Rap | CO] SO] AN] Go) Ry] 1 Inne"
+      },
+      {
+       "type": "ocr",
+       "text": "Liczba dostępnych kanałów (dla wartości 1 w polu 1) I Kliny (dla wartości 2 w polu 1):"
+      },
+      {
+       "type": "ocr",
+       "text": "Dla wartości 1 w polu 1 Liczba możliwych do wykorzystania jednocześnie prowadnic źródeł Dla wartości 2 w polu 1 Brak Kliny fizyczne Kliny dynamiczne Inne"
+      },
+      {
+       "type": "ocr",
+       "text": "Możliwości kontroli położenia / pozycjonowania Pole 11, 12 lub 13"
+      },
+      {
+       "type": "ocr",
+       "text": "Dla wartości 1 w polu 1 Aplikatory do brachyterapii przystosowane do obrazowania rtg Aplikatory do brachyterapii przystosowane do obrazowania tomograficznego Inne Dla wartości 2 w polu 1 System portalowy Pozycjonowanie systemem kamer podczerwonych Pozycjonowanie systemem rentgenowskim Pozycjonowanie systemem ultrasonograficznym Pozycjonowanie systemem tomograficznym"
+      },
+      {
+       "type": "ocr",
+       "text": "Pole 14 lub 15"
+      },
+      {
+       "type": "ocr",
+       "text": "Inne"
+      },
+      {
+       "type": "ocr",
+       "text": "System dozymetrii portalowej System Record & Verify Dozymetria in vivo Inn"
+      },
+      {
+       "type": "text",
+       "text": "B. Wyposażenie (pola nr od 16 do 22)"
+      },
+      {
+       "type": "text",
+       "text": "C. Oprogramowanie (pola nr od 23 do 27)"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 15 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Zdrowia kieruje działem administracji rządowej — zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. Nr 216, poz. 1607)."
+ }
+}
