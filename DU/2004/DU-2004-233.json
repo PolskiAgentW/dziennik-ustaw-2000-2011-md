@@ -1,0 +1,895 @@
+{
+ "eli": "DU/2004/233",
+ "title": "Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 3 lutego 2004 r. w sprawie wymagań metrologicznych, którym powinny odpowiadać kalibratory akustyczne",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/233/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI, PRACY I POLITYKI SPOŁECZNEJ[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 lutego 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wymagań metrologicznych, którym powinny odpowiadać kalibratory akustyczne"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 pkt 3 ustawy z dnia 11 maja 2001 r. — Prawo o miarach (Dz. U. Nr 63, poz. 636, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "kalibrator — kalibrator akustyczny, będący przyrządem pomiarowym wytwarzającym, w połączeniu z mikrofonem pomiarowym, sinusoidalny sygnał akustyczny o co najmniej jednym poziomie ciśnienia akustycznego i co najmniej jednej częstotliwości, przeznaczony do wzorcowania przyrządów do pomiaru poziomu dźwięku lub poziomu ciśnienia akustycznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "poziom ciśnienia akustycznego — wielkość wyrażoną w decybelach, wyznaczaną według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": " p ² L = 10 log  —   p "
+      },
+      {
+       "type": "text",
+       "text": "gdzie:⁰ p — wartość skuteczna ciśnienia akustycznego wyrażona w paskalach, p — wartość odniesienia ciśnienia akustycznego ⁰ równa 20 mPa;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "deklarowany poziom ciśnienia akustycznego — poziom ciśnienia akustycznego wytwarzany w warunkach odniesienia przez kalibrator połączony z mikrofonem pomiarowym danego typu i o danej konfiguracji mechanicznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "nominalny poziom ciśnienia akustycznego — deklarowany poziom ciśnienia akustycznego zaokrąglony do najbliższej liczby całkowitej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "deklarowana częstotliwość sygnału akustycznego — częstotliwość sygnału akustycznego wytwarzanego przez kalibrator w warunkach odniesienia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "nominalna częstotliwość sygnału akustycznego — deklarowaną częstotliwość sygnału akustycznego zaokrągloną do najbliższej liczby całkowitej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "podstawowy poziom ciśnienia akustycznego — w przypadku kalibratora wytwarzającego sygnał akustyczny o więcej niż jednej wartości poziomu ciśnienia akustycznego, nominalny poziom ciśnienia akustycznego; w przypadku kalibratora wytwarzającego sygnał akustyczny o jednej wartości poziomu ciśnienia akustycznego wartość tę uznaje się jako poziom podstawowy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "podstawowa częstotliwość sygnału akustycznego — w przypadku kalibratora wytwarzającego sygnał akustyczny o więcej niż jednej wartości częstotliwości, nominalną częstotliwość sygnału akustycznego; w przypadku kalibratora wytwarzającego sygnał akustyczny o jednej wartości częstotliwości wartość tę uznaje się jako częstotliwość podstawową;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "współczynnik zniekształceń nieliniowych sygnału akustycznego — stosunek wartości skutecznej składowych sygnału będących efektem zniekształceń do wartości skutecznej sygnału całkowitego, wyrażony w procentach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "W skład kalibratora wchodzą w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "komora, w której wytwarzane jest ciśnienie akustyczne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "pobudnik akustyczny tłokowy albo membranowy, połączony z komorą;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "układ zasilania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "wskaźnik sygnalizujący stan zasilania kalibratora albo urządzenie zapewniające samoczynne wyłączenie się kalibratora w chwili, gdy napięcie zasilania kalibratora zmniejszy się poniżej wartości minimalnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Jeżeli kalibrator współpracuje z mikrofonami pomiarowymi o różnych średnicach zewnętrznych, w jego skład powinny wchodzić adaptery dopasowujące.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Części składowe kalibratora, do których użytkownik nie powinien mieć dostępu, powinny być odpowiednio zabezpieczone.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Na kalibratorze powinny być umieszczone w sposób trwały i czytelny w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "nazwa lub znak producenta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "oznaczenie typu i numer fabryczny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "znak zatwierdzenia typu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_1/pkt_4",
+       "text": "klasa dokładności kalibratora;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_1/pkt_5",
+       "text": "wskazanie wszystkich dostępnych kombinacji poziomu ciśnienia akustycznego i częstotliwości sygnału akustycznego, dla których kalibrator spełnia wymagania metrologiczne określone dla danej klasy dokładności, z jednoznacznym wyróżnieniem aktualnie wybranej kombinacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_4/ust_1/pkt_6",
+       "text": "wartość nominalnego poziomu ciśnienia akustycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_4/ust_1/pkt_7",
+       "text": "wartość nominalnej częstotliwości sygnału akustycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_4/ust_1/pkt_8",
+       "text": "wskazanie orientacji przestrzennej kalibratora wymaganej przy połączeniu z mikrofonem pomiarowym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Na adapterze dopasowującym powinno być umieszczone w sposób trwały i czytelny oznaczenie typu danego adaptera.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Rozróżnia się trzy klasy dokładności kalibratorów: LS, 1 i 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Klasa dokładności LS odpowiada kalibratorom, dla których błędy graniczne dopuszczalne poszczególnych charakterystyk metrologicznych są najmniejsze, natomiast klasa dokładności 2 — kalibratorom, dla których błędy te są największe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Jeżeli spełnianie wymagań przez kalibrator, określonych dla danej klasy, jest uzależnione od uwzględnienia poprawek określających wpływ warunków środowiskowych, to oznaczenie klasy takiego kalibratora powinno zawierać dodatkowo literę C poprzedzoną kreską ukośną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "W przypadku kalibratorów klasy LS wartości deklarowanego poziomu ciśnienia akustycznego i deklarowanej częstotliwości sygnału akustycznego powinny być określone dla każdego egzemplarza kalibratora, natomiast w przypadku kalibratorów klas 1 i 2 wartość każdej z tych wielkości powinna być jednakowa dla wszystkich kalibratorów danego typu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "W przypadku kalibratora klasy LS co najmniej jeden ze stosowanych mikrofonów pomiarowych powinien być laboratoryjnym mikrofonem wzorcowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "W przypadku kalibratorów klasy 1 i klasy 2 co najmniej jeden ze stosowanych mikrofonów pomiarowych powinien być roboczym mikrofonem wzorcowym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Kalibratory klasy 1/C i klasy 2/C, których charakterystyki metrologiczne wymagają stosowania poprawek uwzględniających wpływ ciśnienia statycznego, powinny być wyposażone w barometr.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Jeżeli poprawki, o których mowa w ust. 1, są na tyle małe, że przy zmianie ciśnienia statycznego, nieprzekraczającej ± 6 kPa, poziom ciśnienia akustycznego kalibratorów klasy 2/C spełnia wymagania bez stosowania tych poprawek, to wpływ ciśnienia statycznego może być uwzględniany w inny sposób.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Jeżeli charakterystyki metrologiczne z kalibratorów klasy 2/C wymagają stosowania poprawek uwzględniających wpływ temperatury lub wilgotności względnej, przyrządy używane do pomiaru tych wielkości nie powinny mieć wpływu na charakterystyki metrologiczne kalibratora.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Konstrukcja kalibratorów klas LS/C i 1/C powinna być taka, by ich charakterystyki metrologiczne nie wymagały stosowania poprawek uwzględniających wpływ temperatury i wilgotności względnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "Przyrządy pomiarowe współpracujące z kalibratorem nie powinny wpływać na jego charakterystyki metrologiczne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Charakterystyki metrologiczne kalibratora powinny być spełnione po ustabilizowaniu się warunków pracy kalibratora i połączonego z nim mikrofonu oraz po upływie czasu potrzebnego na stabilizację poziomu i częstotliwości wytwarzanego sygnału akustycznego, nie dłuższego niż 30 s licząc od chwili włączenia zasilania kalibratora w warunkach użytkowania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Podstawowy poziom ciśnienia akustycznego wytwarzanego przez kalibrator powinien wynosić co najmniej 90 dB.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Wartości deklarowanego poziomu ciśnienia akustycznego powinny mieć rozdzielczość nie gorszą niż 0,1 dB.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Wartość zmierzonego poziomu ciśnienia akustycznego powinna być równa odpowiedniej wartości deklarowanego poziomu ciśnienia akustycznego, przy czym wartość bezwzględna różnicy między zmierzonym poziomem ciśnienia akustycznego a odpowiednią wartością deklarowanego poziomu ciśnienia akustycznego, powiększona o rozszerzoną niepewność pomiaru, nie powinna przekraczać następujących wartości dopuszczalnych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_1/pkt_1",
+       "text": "0,20 dB — dla kalibratorów klasy LS w zakresie nominalnej częstotliwości sygnału akustycznego od 160 Hz do 1 250 Hz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_1/pkt_2",
+       "text": "0,50 dB — dla kalibratorów klasy 1 w zakresie nominalnej częstotliwości sygnału akustycznego od 31,5 Hz do mniej niż 160 Hz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_1/pkt_3",
+       "text": "0,40 dB — dla kalibratorów klasy 1 w zakresie nominalnej częstotliwości sygnału akustycznego od 160 Hz do 1 250 Hz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_11/ust_1/pkt_4",
+       "text": "0,60 dB — dla kalibratorów klasy 1 w zakresie nominalnej częstotliwości sygnału akustycznego od ponad 1 250 Hz do 4 000 Hz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_11/ust_1/pkt_5",
+       "text": "0,80 dB — dla kalibratorów klasy 1 w zakresie nominalnej częstotliwości sygnału akustycznego od ponad 4 000 Hz do 8 000 Hz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_11/ust_1/pkt_6",
+       "text": "1,00 dB — dla kalibratorów klasy 1 w zakresie nominalnej częstotliwości sygnału akustycznego od ponad 8 000 Hz do 16 000 Hz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_11/ust_1/pkt_7",
+       "text": "0,75 dB — dla kalibratorów klasy 2 w zakresie nominalnej częstotliwości sygnału akustycznego od 160 Hz do 1 250 Hz.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "W przypadku kalibratorów klasy 1/C i 2/C poziom ciśnienia akustycznego powinien być przeliczony dla warunków odniesienia przy zastosowaniu poprawek.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Krótkotrwałe zmiany poziomu ciśnienia akustycznego odpowiadające powiększonej o niepewność pomiaru połowie średniej różnicy między największym i najmniejszym poziomem ciśnienia akustycznego, spośród co najmniej dziesięciu wartości zmierzonych w jednakowych odstępach czasu w ciągu 20 s działania kalibratora, nie powinny przekraczać następujących wartości:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_12/pkt_1",
+     "text": "0,05 dB — w kalibratorach klasy LS, w zakresie nominalnej częstotliwości sygnału akustycznego od 160 Hz do 1 250 Hz;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_12/pkt_2",
+     "text": "0,20 dB — w kalibratorach klasy 1, w zakresie nominalnej częstotliwości sygnału akustycznego od 31,5 Hz do mniej niż 160 Hz;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_12/pkt_3",
+     "text": "0,10 dB — w kalibratorach klasy 1, w zakresie nominalnej częstotliwości sygnału akustycznego od 160 Hz do 16 000 Hz;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_12/pkt_4",
+     "text": "0,20 dB — w kalibratorach klasy 2, w zakresie nominalnej częstotliwości sygnału akustycznego od 160 Hz do 1 250 Hz.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Wartość bezwzględna różnicy między poziomem ciśnienia akustycznego zmierzonym przy wartości napięcia zasilania z zakresu od wartości minimalnej do wartości maksymalnej a poziomem ciśnienia akustycznego zmierzonym przy wartości nominalnej napięcia zasilania, w warunkach odniesienia, powiększona o rozszerzoną niepewność pomiaru, nie powinna przekraczać następujących wartości:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_1/pkt_1",
+       "text": "0,05 dB — w przypadku kalibratorów klasy LS;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_1/pkt_2",
+       "text": "0,10 dB — w przypadku kalibratorów klasy 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_13/ust_1/pkt_3",
+       "text": "0,20 dB — w przypadku kalibratorów klasy 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Przy wartości napięcia zasilania z zakresu od wartości minimalnej do wartości maksymalnej wartość bezwzględna różnicy między zmierzonym poziomem ciśnienia akustycznego a odpowiednią wartością deklarowanego poziomu ciśnienia akustycznego nie powinna przekraczać wartości dopuszczalnych, o których mowa w § 11 ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Podstawowa częstotliwość sygnału akustycznego wytwarzanego przez kalibrator powinna się mieścić w zakresie od 160 Hz do 1 250 Hz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Podstawowy poziom ciśnienia akustycznego powinien być dostępny przy podstawowej częstotliwości sygnału akustycznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Wartość bezwzględna różnicy między zmierzoną częstotliwością sygnału akustycznego wytwarzanego przez kalibrator a odpowiednią wartością deklarowanej częstotliwości sygnału akustycznego, powiększona o rozszerzoną niepewność pomiaru, wyrażona w procentach, nie powinna przekraczać następujących wartości:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_1/pkt_1",
+       "text": "1,0 % — w przypadku kalibratorów klas LS i 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_1/pkt_2",
+       "text": "2,0 % — w przypadku kalibratorów klasy 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "W przypadku kalibratorów klasy 1/C i 2/C zmierzona częstotliwość sygnału akustycznego powinna być przeliczona dla warunków odniesienia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Wymagania, o których mowa w § 11, 12 i 15, powinny być spełnione w następujących warunkach środowiskowych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_16/pkt_1",
+     "text": "ciśnienie statyczne — od 97 kPa do 105 kPa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_16/pkt_2",
+     "text": "temperatura powietrza — od 20 °C do 26 °C;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_16/pkt_3",
+     "text": "wilgotność względna — od 40 % do 65 %.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Kalibratory powinny zapewniać prawidłowe pomiary w następujących warunkach użytkowania:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_17/pkt_1",
+     "text": "ciśnienie statyczne — od 65 kPa do 108 kPa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_17/pkt_2",
+     "text": "temperatura powietrza:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_17/pkt_2/lit_a",
+       "text": "od +16 °C do +30 °C — w przypadku kalibratorów klasy LS,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_17/pkt_2/lit_b",
+       "text": "od –10 °C do +50 °C — w przypadku kalibratorów klasy 1,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_17/pkt_2/lit_c",
+       "text": "od 0 °C do +40 °C — w przypadku kalibratorów klasy 2;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_17/pkt_3",
+     "text": "wilgotność względna — od 25 % do 90 %.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Wartość bezwzględna różnicy między poziomem ciśnienia akustycznego zmierzonym w warunkach użytkowania z wyłączeniem zakresów warunków środowiskowych, o których mowa w § 16, a poziomem ciśnienia akustycznego określonym dla warunków odniesienia, powiększona o rozszerzoną niepewność pomiaru, nie powinna przekraczać następujących wartości:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_1/pkt_1",
+       "text": "0,20 dB — dla kalibratorów klasy LS, w zakresie częstotliwości nominalnej sygnału akustycznego od 160 Hz do 1 250 Hz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_1/pkt_2",
+       "text": "0,50 dB — dla kalibratorów klasy 1, w zakresie częstotliwości nominalnej sygnału akustycznego od 31,5 Hz do mniej niż 160 Hz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_1/pkt_3",
+       "text": "0,40 dB — dla kalibratorów klasy 1, w zakresie częstotliwości nominalnej sygnału akustycznego od 160 Hz do 1 250 Hz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_18/ust_1/pkt_4",
+       "text": "0,60 dB — dla kalibratorów klasy 1, w zakresie częstotliwości nominalnej sygnału akustycznego od ponad 1 250 Hz do 4 000 Hz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_18/ust_1/pkt_5",
+       "text": "0,80 dB — dla kalibratorów klasy 1, w zakresie częstotliwości nominalnej sygnału akustycznego od ponad 4 000 Hz do 8 000 Hz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_18/ust_1/pkt_6",
+       "text": "1,00 dB — dla kalibratorów klasy 1, w zakresie częstotliwości nominalnej sygnału akustycznego od ponad 8 000 Hz do 16 000 Hz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_18/ust_1/pkt_7",
+       "text": "0,60 dB — dla kalibratorów klasy 2, w zakresie częstotliwości nominalnej sygnału akustycznego od 160 Hz do 1 250 Hz.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "W przypadku kalibratorów klasy 1/C i 2/C poziom ciśnienia akustycznego powinien być przeliczony dla warunków odniesienia przy zastosowaniu poprawek.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Wartość bezwzględna różnicy między częstotliwością sygnału akustycznego zmierzoną w warunkach użytkowania, z wyłączeniem zakresów warunków środowiskowych, o których mowa w § 16, a częstotliwością sygnału akustycznego określoną dla warunków odniesienia, powiększona o rozszerzoną niepewność pomiaru, wyrażona w procentach, nie powinna przekraczać następujących wartości:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_1/pkt_1",
+       "text": "1,0 % — w przypadku kalibratorów klas LS i 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_1/pkt_2",
+       "text": "2,0 % — w przypadku kalibratorów klasy 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "W przypadku kalibratorów klasy 1 i 2 częstotliwość sygnału akustycznego zmierzona w warunkach użytkowania, z wyłączeniem zakresów warunków środowiskowych, o których mowa w § 16, powinna być przeliczona dla warunków odniesienia przy zastosowaniu poprawek.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Współczynnik zniekształceń nieliniowych sygnału akustycznego wytwarzanego przez kalibrator, zmierzony w zakresie częstotliwości od 22,5 Hz do 20 kHz oraz w warunkach użytkowania z wyłączeniem zakresów warunków środowiskowych, o których mowa w § 16, powiększony o rozszerzoną niepewność pomiaru, nie powinien przekraczać następujących wartości:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_20/pkt_1",
+     "text": "2,5 % — dla kalibratorów klasy LS, w zakresie częstotliwości nominalnej sygnału akustycznego od 160 Hz do 1 250 Hz;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_20/pkt_2",
+     "text": "4,0 % — dla kalibratorów klasy 1, w zakresie częstotliwości nominalnej sygnału akustycznego od 31,5 Hz do mniej niż 160 Hz oraz od ponad 1 250 Hz do 16 000 Hz;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_20/pkt_3",
+     "text": "3,0 % — dla kalibratorów klasy 1, w zakresie częstotliwości nominalnej sygnału akustycznego od 160 Hz do 1 250 Hz;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_20/pkt_4",
+     "text": "4,0 % — dla kalibratorów klasy 2, w zakresie częstotliwości nominalnej sygnału akustycznego od 160 Hz do 1 250 Hz.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Poziom natężenia pola elektromagnetycznego o częstotliwości radiowej emitowanego przez kalibrator, wyznaczony względem wartości 1 µV/m, mierzony w odległości 10 m od kalibratora, nie powinien przekraczać 30 dB w zakresie częstotliwości od 30 MHz do 230 MHz oraz 37 dB w zakresie częstotliwości od 230 MHz do 1 GHz.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Wartość bezwzględna różnicy między poziomem ciśnienia akustycznego kalibratora zmierzonym przy włączonym jednorodnym przemiennym polu magnetycznym o częstotliwości sieci zasilającej i wartości skutecznej natężenia 80 A/m a poziomem ciśnienia akustycznego kalibratora zmierzonym przy wyłączonym polu magnetycznym nie powinna przekraczać następujących wartości:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_22/pkt_1",
+     "text": "0,15 dB — w przypadku kalibratorów klasy LS;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_22/pkt_2",
+     "text": "0,30 dB — w przypadku kalibratorów klasy 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_22/pkt_3",
+     "text": "0,50 dB — w przypadku kalibratorów klasy 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Wartość bezwzględna różnicy między poziomem ciśnienia akustycznego kalibratora zmierzonym przy włączonym polu elektromagnetycznym o częstotliwości z zakresu od 26 MHz do 1 GHz i wartości skutecznej natężenia 10 V/m, modulowanym amplitudowo sygnałem sinusoidalnym o częstotliwości 900 Hz przy głębokości modulacji 80 %, a poziomem ciśnienia akustycznego kalibratora zmierzonym przy wyłączonym polu elektromagnetycznym nie powinna przekraczać wartości, o których mowa w § 22.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Charakterystyki metrologiczne kalibratora poddanego wyładowaniom elektrostatycznym stykowym przy różnicy potencjałów nieprzekraczającej ±4 kV względem potencjału ziemi oraz elektrostatycznym wyładowaniom powietrznym przy różnicy potencjałów nieprzekraczającej ±8 kV względem potencjału ziemi nie powinny ulec zmianie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Ustala się następujące warunki odniesienia dla kalibratorów:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_25/pkt_1",
+     "text": "temperatura powietrza 23 °C;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_25/pkt_2",
+     "text": "ciśnienie statyczne 101,325 kPa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_25/pkt_3",
+     "text": "wilgotność względna 50 %.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Gospodarki, Pracy i Polityki Społecznej: J. Hausner"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Gospodarki, Pracy i Polityki Społecznej kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 7 stycznia 2003 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki, Pracy i Polityki Społecznej (Dz. U. Nr 1, poz. 5).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 155, poz. 1286 i Nr 166, poz. 1360 oraz z 2003 r. Nr 170, poz. 1652."
+ }
+}

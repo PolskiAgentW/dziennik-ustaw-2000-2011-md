@@ -1,0 +1,570 @@
+{
+ "eli": "DU/2004/1138",
+ "title": "Rozporządzenie Ministra Finansów z dnia 22 kwietnia 2004 r. w sprawie ewidencji podatkowej nieruchomości",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/1138/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 kwietnia 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ewidencji podatkowej nieruchomości"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 7a ust. 3 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2002 r. Nr 9, poz. 84, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa zasady prowadzenia ewidencji podatkowej nieruchomości, zwanej dalej „ewidencją”, w systemie informatycznym przez organy podatkowe, w tym zakres informacji objętych tą ewidencją.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "System informatyczny powinien spełniać warunki określone w przepisach o warunkach technicznych i organizacyjnych, jakim powinny odpowiadać urządzenia i systemy informatyczne służące do przetwarzania danych osobowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "System informatyczny powinien umożliwiać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "tworzenie raportów i zbiorczych zestawień według kryteriów definiowanych przez użytkownika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "eksport danych zawartych w ewidencji do pliku w formacie rozszerzalnego języka znaczników (XML), w celu ich porównywania z danymi zawartymi w ewidencji gruntów i budynków prowadzonej na podstawie przepisów prawa geodezyjnego i kartograficznego, zwanej dalej „ewidencją gruntów i budynków”.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Strukturę i zasady budowy pliku w formacie XML określa załącznik do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Ewidencja obejmuje dane niezbędne do wymiaru i poboru podatku od nieruchomości, podatku rolnego lub podatku leśnego, w tym:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "dane dotyczące podatników podatku od nieruchomości, podatku rolnego lub podatku leśnego, zwanych dalej „podatnikami”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "dane dotyczące gruntów, budynków lub ich części, a także budowli lub ich części związanych z prowadzeniem działalności gospodarczej, podlegających opodatkowaniu podatkiem od nieruchomości, oraz gruntów podlegających opodatkowaniu podatkiem rolnym lub podatkiem leśnym, zwanych dalej „przedmiotami opodatkowania”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "W ewidencji wykazuje się dane dotyczące podatników, w tym:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "w odniesieniu do osób fizycznych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_4/ust_1/pkt_1/lit_a",
+         "text": "nazwisko,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_4/ust_1/pkt_1/lit_b",
+         "text": "pierwsze imię,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_4/ust_1/pkt_1/lit_c",
+         "text": "drugie imię,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_4/ust_1/pkt_1/lit_d",
+         "text": "adres zamieszkania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_4/ust_1/pkt_1/lit_e",
+         "text": "numer identyfikacji podatkowej (NIP),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_4/ust_1/pkt_1/lit_f",
+         "text": "numer ewidencyjny PESEL,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_4/ust_1/pkt_1/lit_g",
+         "text": "numer identyfikacyjny REGON, o ile został nadany;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "w odniesieniu do osób prawnych i jednostek organizacyjnych nieposiadających osobowości prawnej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_4/ust_1/pkt_2/lit_a",
+         "text": "nazwę pełną lub nazwę skróconą (firma),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_4/ust_1/pkt_2/lit_b",
+         "text": "adres siedziby,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_4/ust_1/pkt_2/lit_c",
+         "text": "numer identyfikacji podatkowej (NIP),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_4/ust_1/pkt_2/lit_d",
+         "text": "numer identyfikacyjny REGON.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W przypadku gdy osobie fizycznej nie nadano numeru ewidencyjnego PESEL, w ewidencji wykazuje się datę urodzenia oraz imiona rodziców podatnika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "W ewidencji wykazuje się także, czy podatnik jest właścicielem, posiadaczem samoistnym, użytkownikiem wieczystym lub posiadaczem zależnym przedmiotów opodatkowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "W ewidencji wykazuje się dane dotyczące przedmiotów opodatkowania, w tym:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "w odniesieniu do gruntów:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_1/lit_a",
+         "text": "powierzchnię, określoną z dokładnością do 1 m²,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_1/lit_b",
+         "text": "identyfikatory działek ewidencyjnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_1/pkt_1/lit_c",
+         "text": "numer księgi wieczystej lub zbioru dokumentów oraz nazwę sądu, w którym jest prowadzona księga wieczysta lub zbiór dokumentów;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "w odniesieniu do budynków lub ich części:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_2/lit_a",
+         "text": "powierzchnię użytkową, określoną zgodnie z przepisami ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_2/lit_b",
+         "text": "identyfikatory budynków,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_1/pkt_2/lit_c",
+         "text": "numer księgi wieczystej lub zbioru dokumentów oraz nazwę sądu, w którym jest prowadzona księga wieczysta lub zbiór dokumentów, jeżeli budynek stanowi odrębny od gruntu przedmiot własności;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "w odniesieniu do budowli lub ich części związanych z prowadzeniem działalności gospodarczej — wartość stanowiącą podstawę opodatkowania budowli, określoną zgodnie z przepisami ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Jeżeli grunty są sklasyfikowane w ewidencji gruntów i budynków jako:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "użytki rolne albo jako grunty zadrzewione i zakrzewione na użytkach rolnych i podlegają opodatkowaniu podatkiem rolnym — w ewidencji wykazuje się oznaczenie użytków gruntowych, a także klas gleboznawczych, jeżeli grunty stanowią gospodarstwo rolne lub podlegają zwolnieniu albo uldze od podatku rolnego ze względu na oznaczenie klasy gleboznawczej gruntu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "lasy i podlegają opodatkowaniu podatkiem leśnym — w ewidencji wykazuje się powierzchnię odrębnie dla: lasów, lasów ochronnych, lasów wchodzących w skład rezerwatów przyrody i lasów wchodzących w skład parków narodowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Jeżeli w budynku znajdują się wydzielone samodzielne lokale mieszkalne lub lokale o innym przeznaczeniu, w rozumieniu przepisów o własności lokali — w ewidencji wykazuje się identyfikator lokalu oraz numer księgi wieczystej i nazwę sądu, w którym jest prowadzona księga wieczysta dla lokalu będącego przedmiotem odrębnej własności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Dane, o których mowa w ust. 1 pkt 1 lit. b i c, pkt 2 lit. b i c oraz ust. 3, wykazuje się w ewidencji odrębnie dla każdej nieruchomości. Dla każdej nieruchomości wykazuje się również informacje o położeniu nieruchomości, w tym adres nieruchomości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "Jeżeli grunty, budynki lub ich części albo budowle lub ich części związane z prowadzeniem działalności gospodarczej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_5/pkt_1",
+       "text": "podlegają zwolnieniu albo uldze od podatku od nieruchomości, podatku rolnego lub podatku leśnego — w ewidencji, oprócz danych, o których mowa w ust. 1—4, wykazuje się również podstawę prawną zastosowania zwolnienia albo ulgi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_5/pkt_2",
+       "text": "znajdują się na terenach zamkniętych w rozumieniu przepisów prawa geodezyjnego i kartograficznego — w ewidencji wykazuje się jedynie dane, o których mowa w ust. 1 pkt 1 lit. a, pkt 2 lit. a i pkt 3;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_5/pkt_3",
+       "text": "są przedmiotem współwłasności lub znajdują się w posiadaniu dwóch lub więcej podmiotów — w ewidencji wykazuje się tego rodzaju informację.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "W ewidencji mogą być wykazywane, oprócz danych wymienionych w § 4 i 5, inne dane niezbędne do wymiaru i poboru podatku od nieruchomości, podatku rolnego lub podatku leśnego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Eksport danych, o którym mowa w § 2 ust. 2 pkt 2, powinien zostać zapewniony do dnia 31 grudnia roku następującego po roku, w którym dane zawarte w ewidencji gruntów i budynków mogą być udostępniane w formacie wymiany danych ewidencyjnych określonym w przepisach prawa geodezyjnego i kartograficznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Dane, o których mowa w § 5 ust. 1 pkt 1 lit. b i c, pkt 2 lit. b i c oraz ust. 3, wykazuje się w ewidencji nie później niż w terminie określonym w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2005 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Finansów: w z. E. Mucha"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Finansów z dnia 22 kwietnia 2004 r. (poz. 1138)",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:attribute name=\"typExportu\" use=\"required\"> <xsd:annotation> <xsd:documentation>Typ eksportu: R - plik zawiera eksport różnicowy C - plik zawiera eksport całościowy</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"xsd:NMTOKEN\" > <xsd:enumeration value=\"R\"/> <xsd:enumeration value=\"C\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> <xsd:attribute name=\"system\" type=\"Nazwa\" use=\"required\"> <xsd:annotation> <xsd:documentation>Nazwa systemu źródłowego lub nazwa rodzaju podatku przez ten system obsługiwany.</xsd:documentation> </xsd:annotation> </xsd:attribute> </xsd:complexType> </xsd:element> <xsd:element name=\"DanePodatkowe\"> <xsd:annotation> <xsd:documentation>Opis bieżącego stanu przedmiotów zgłoszonych do opodatkowania.</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element ref=\"Powierzchnia\"/> <xsd:element ref=\"Podatnicy\"/> <xsd:element ref=\"Nieruchomosc\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> </xsd:sequence> <xsd:attribute name=\"rejon\" type=\"Nazwa\" use=\"required\"> <xsd:annotation> <xsd:documentation>Nazwa części systemu według podziału stosowanego przez gminę.</xsd:documentation> </xsd:annotation> </xsd:attribute> <xsd:attribute name=\"numer\" use=\"required\"> <xsd:annotation> <xsd:documentation>Numer w ewidencji pod którym zostały zarejestrowane dane podatkowe z deklaracji (informacji) .</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"defString\"> <xsd:maxLength value=\"30\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> <xsd:attribute name=\"rodzajZmiany\" use=\"optional\"> <xsd:annotation> <xsd:documentation>W przypadku gdy system źródłowy wspiera identyfikowanie każdej zmiany danych podatkowych i jest w stanie określić jakiego rodzaju zmiana miała miejsce to pole to może przyjmować wartości: N - dodano nowe dane podatkowe U - zaktualizowano dane podatkowe (przynajmniej jeden z opisujących ją składników) R - usunięto dane podatkowe</xsd:documentation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"xsd:NMTOKEN\" > <xsd:enumeration value=\"N\"/> <xsd:enumeration value=\"U\"/> <xsd:enumeration value=\"R\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> <xsd:attribute name=\"dataUtworzenia\" type=\"xsd:date\" use=\"optional\"> <xsd:annotation> <xsd:documentation>Data utworzenia zestawu danych zawartych w danych podatkowych. (RRRR-MM-DD) </xsd:documentation> </xsd:annotation> </xsd:attribute> <xsd:attribute name=\"dataObowiazywania\" type=\"xsd:date\" use=\"optional\"> <xsd:annotation> <xsd:documentation>Data obowiązywania zeznania. (RRRR-MM-DD) </xsd:documentation> </xsd:annotation> </xsd:attribute> <xsd:attribute name=\"dataCzasExportu\" type=\"xsd:dateTime\" use=\"required\"> <xsd:annotation> <xsd:documentation>Data i czas eksportu danych podatkowych. (RRRR-MM-DD) </xsd:documentation> </xsd:annotation>"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:attribute> </xsd:complexType> </xsd:element> <xsd:element name=\"Powierzchnia\"> <xsd:annotation> <xsd:documentation>Powierzchnia zgtoszona przez podatnika w deklaracji (w m*2).</xsd:documentation> </xsd:annotation> <XSd:complexType> <xsd:sequence maxOccurs=\"unbounded\"> <xsd:choice> <xsd:element ref=\"PWGrunt\"/> <xsd:element ref=\"PWBudynek\"/> </xsd:choice> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"Podatnicy\"> <xsd:annotation> <xsd:documentation>Podatnicy podatku od nieruchomości, podatku rolnego lub podatku leśnego.</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element ref=\"Podatnik\" maxOccurs=\"unbounded\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"Podatnik\"> <xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Element opisujący dane podatnika.</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:choice> <xsd:element ref=\"OsobaFizyczna\"/> <xsd:element ref=\"OsobaPrawna\"/> </xsd:choice> <xsd:choice> <xsd:element name=\"AdresPol\" type=\"AdresPolski\"/> <xsd:element name=\"AdresZagr\" type=\"AdresZagraniczny\"/> </xsd:choice> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"Nieruchomosc\"> <xsd:annotation> <xsd:documentation>Dane dotyczące jednej nieruchomości w rozumieniu kodeksu cywilnego, posiadającej jeden adres.</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element ref=\"Dzialka\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> <xsd:element ref=\"Budynek\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> <xsd:element ref=\"Lokal\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> <xsd:element name=\"AdresNier\" type=\"AdresPolski\" minOccurs=\"0\"/> <xsd:element ref=\"OznaczenieKW\" minOccurs=\"0\" maxOccurs=\"unbounded\" /> <xsd:element ref=\"ZbiorDokum\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> </xsd:sequence> <xsd:attribute name=\"wspolwlasnosc\" use=\"optional\"> <xsd:annotation> <xsd:documentation>Atrybut przyjmuje wartość 'TAK' gdy Nieruchomość jest przedmiotem współwłasności (współposiadania). W przeciwnym przypadku atrybut jest opuszczany.</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"xsd:NMTOKEN\" > <xsd:enumeration value=\"TAK\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> <xsd:attribute name=\"miejscowosc\" use=\"optional\"> <xsd:annotation> <xsd:documentation>W przypadku, gdy nieruchomosé nie ma adresu należy podać nazwę miejscowości, w której jest ona położona.</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"defString\">"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:maxLength value=\"35\"/> </xsd:restriction> </xsd:simpleType>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:attribute> </xsd:complexType> </xsd:element> <xsd:element name=\"PWGrunt\"> <xsd:annotation> <xsd:documentation>Powierzchnia gruntów.</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:attribute name=\"typPow\" type=\"typPowGrunt\" use=\"required\" > <xsd:annotation> <xsd:documentation>Typ powierzchni dla gruntów zgodny z tabelą typów powierzchni.</xsd:documentation> </xsd:annotation> </xsd:attribute> <xsd:attribute name=\"wielkosc\" type=\"xsd:decimal\" use=\"required\"> <xsd:annotation> <xsd:documentation>Łączna powierzchnia gruntów danego typu wyrażona w m*2.</xsd:documentation> </xsd:annotation> </xsd:attribute> <xsd:attribute name=\"klasa\" type=\"klasaGleby\" use=\"optional\"> <xsd:annotation> <xsd:documentation>Klasa gleby.</xsd:documentation> </xsd:annotation> </xsd:attribute> </xsd:complexType> </xsd:element> <xsd:element name=\"PWBudynek\" > <xsd:annotation> <xsd:documentation>Powierzchnia budynków.</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:attribute name=\"typPow\" type=\"typPowBud\" use=\"required\"> <xsd:annotation> <xsd:documentation>Typ powierzchni dla budynków i ich części zgodny z tabelą typów powierzchni.</xsd:documentation> </xsd:annotation> </xsd:attribute> <xsd:attribute name=\"wielkosc\" type=\"xsd:decimal\" use=\"required\"> <xsd:annotation> <xsd:documentation>Laczna powierzchnia budynków danego typu wyrażona w m*2.</xsd:documentation> </xsd:annotation> </xsd:attribute> </xsd:complexType> </xsd:element> <xsd:element name=\"OsobaFizyczna\"> <xsd:annotation> <xsd:documentation>Dane osoby fizycznej.</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element ref=\"Nazwisko\"/> <xsd:element name=\"Imie\" type=\"Imie\"/> <xsd:element name=\"DrugieImie\" type=\"Imie\" minOccurs=\"0\"/> <xsd:choice>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:sequence> <xsd:element name=\"ImieOjca\" type=\"Imie\" minOccurs=\"0\"/> <xsd:element name=\"ImieMatki\" type=\"Imie\" minOccurs=\"0\"/> <xsd:element ref=\"DataUrodzenia\" minOccurs=\"0\"/> <xsd:element name=\"Pesel\" type=\"identPESEL\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:sequence> <xsd:sequence> <xsd:element name=\"ImieOjca\" type=\"Imie\"/> <xsd:element name=\"ImieMatki\" type=\"Imie\"/> <xsd:element ref=\"DataUrodzenia\"/> <xsd:element name=\"Pesel\" type=\"identPESEL\" minOccurs=\"0\"/> </xsd:sequence> </xsd:choice> <xsd:element name=\"Nip\" type=\"identNIP\" minOccurs=\"0\"/> <xsd:element name=\"Regon\" type=\"identREGON9\" minOccurs=\"0\"/> <xsd:element ref=\"RodzajWladania\" maxOccurs=\"unbounded\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"Nazwisko\"> <xsd:simpleType> <xsd:restriction base=\"defString\"> <xsd:maxLength value=\"30\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"DataUrodzenia\"> <xsd:annotation> <xsd:documentation>Data urodzenia w formacie RRRR-MM- DD.</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"\\d{4}-\\d{2}-\\d{2}\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"OsobaPrawna\"> <xsd:annotation> <xsd:documentation>Dane osoby prawnej, lub jednostki organizacyjnej nie posiadającej osobowości prawnej.</xsd:documentation> </xsd:annotation> <xsd:complexType>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:sequence> <xsd:element name=\"Nazwa\" type=\"Nazwa\"/> <xsd:element name=\"NazwaSkroc\" type=\"Nazwa\"/> <xsd:element name=\"Nip\" type=\"identNIP\"/> <xsd:element name=\"Regon\"> <xsd:simpleType> <xsd:union memberTypes=\"identREGON9 identREGON14\"/> </xsd:simpleType>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:element> <xsd:element ref=\"RodzajWladania\" maxOccurs=\"unbounded\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"Dzialka\"> <xsd:annotation> <xsd:documentation>Element opisujący identyfikator działki z EGiB.</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:attribute name=\"identDzialki\" use=\"optional\"> <xsd:simpleType> <xsd:restriction base=\"defString\"> <xsd:maxLength value=\"30\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> </xsd:complexType> </xsd:element> <xsd:element name=\"Budynek\"> <xsd:annotation> <xsd:documentation>Element opisujący identyfikator budynku z EGiB. </xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:attribute name=\"identBudynku\" use=\"optional\"> <xsd:simpleType> <xsd:restriction base=\"defString\"> <xsd:maxLength value=\"30\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> </xsd:complexType> </xsd:element> <xsd:element name=\"Lokal\"> <xsd:annotation> <xsd:documentation>Element opisujacy identyfikator lokalu z EGiB.</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:attribute name=\"identLokalu\" use=\"optional\"> <xsd:simpleType> <xsd:restriction base=\"defString\"> <xsd:maxLength value=\"30\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> </xsd:complexType> </xsd:element> <xsd:element name=\"OznaczenieKW\" > <xsd:annotation> <xsd:documentation>Oznaczenie Księgi Wieczystej związanej z nieruchomością.</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:complexContent> <xsd:extension base=\"Dokument\"> <xsd:attribute name=\"numer\" use=\"required\"> <xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Oznaczenie Księgi Wieczystej KW.</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"defString\"> <xsd:maxLength value=\"30\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> <xsd:element name=\"ZbiorDokum\" > <xsd:annotation> <xsd:documentation>Oznaczenie zbioru dokumentów określającego własność nieruchomości. Tylko w przypadku braku KW.</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:complexContent> <xsd:extension base=\"Dokument\" > <xsd:attribute name=\"numer\" use=\"required\"> <xsd:annotation> <xsd:documentation>Oznaczenie Zbioru Dokumentów.</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd: restriction base=\"defString\"> <xsd:maxLength value=\"30\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> <xsd:complexType name=\"Adres\"> <xsd:annotation> <xsd:documentation>Typ definiujacy adres.</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"Miejscowosc\"> <xsd:simpleType> <xsd:restriction base=\"defString\"> <xsd:maxLength value=\"35\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"Ulica\" minOccurs=\"0\"> <xsd:complexType> <xsd:simpleContent> <xsd:restriction base=\"Ulica\"> <xsd:maxLength value=\"60\"/> </xsd:restriction> </xsd:simpleContent> </xsd:complexType> </xsd:element> <xsd:element name=\"NrDomu\" > <xsd:simpleType> <xsd:restriction base=\"defString\"> <xsd:maxLength value=\"9\"/>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"NrLokalu\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"defString\"> <xsd:maxLength value=\"5\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"Poczta\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"defString\"> <xsd:maxLength value=\"35\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"KodPocztowy\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"defString\"> <xsd:maxLength value=\"8\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:complexType name=\"AdresPolski\"> <xsd:annotation> <xsd:documentation>Typ definiujący adres polski.</xsd:documentation> </xsd:annotation> <xsd:complexContent> <xsd:extension base=\"Adres\"> <xsd:sequence> <xsd:element name=\"Wojewodztwo\"> <xsd:simpleType> <xsd:restriction base=\"defString\"> <xsd:maxLength value=\"60\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"Powiat\"> <xsd:simpleType> <xsd:restriction base=\"defString\"> <xsd:maxLength value=\"60\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"Gmina\"> <xsd:simpleType> <xsd:restriction base=\"defString\"> <xsd:maxLength value=\"60\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> </xsd:sequence> </xsd:extension> </xsd:complexContent> </xsd:complexType> <xsd:complexType name=\"AdresZagraniczny\"> <xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Typ definiujący adres zagraniczny.</xsd:documentation> </xsd:annotation> <xsd:complexContent> <xsd:extension base=\"Adres\"> <xsd:sequence> <xsd:element name=\"Kraj\"> <xsd:simpleType> <xsd:restriction base=\"defString\"> <xsd:maxLength value=\"60\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> </xsd:sequence> </xsd:extension> </xsd:complexContent> </xsd:complexType> <xsd:complexType name=\"Ulica\"> <xsd:annotation> <xsd:documentation>Typ definiujacy ulice.</xsd:documentation> </xsd:annotation> <xsd:simpleContent> <xsd:extension base=\"defString\"> <xsd:attribute name=\"typUlicy\" type=\"typUlicy\" use=\"optional\"/> </xsd:extension> </xsd:simpleContent> </xsd:complexType> <xsd:simpleType name=\"Imie\"> <xsd:annotation> <xsd:documentation>Typ definiujacy imie.</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:string\"> <xsd:minLength value=\"1\"/> <xsd:maxLength value=\"20\"/> <xsd:whiteSpace value=\"collapse\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"Nazwa\"> <xsd:annotation> <xsd:documentation>Typ definiujący nazwę organizacji.</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"defString\"> <xsd:maxLength value=\"240\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"identNIP\"> <xsd:annotation> <xsd:documentation>Typ definiujacy identyfikator NIP (bez separatorów) .</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"\\d{10}\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"identPESEL\"> <xsd:annotation> <xsd:documentation>Typ definiujacy identyfikator PESEL.</xsd:documentation> </xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"\\d{11}\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"identREGON9\" > <xsd:annotation> <xsd:documentation>Typ definiujacy identyfikator REGON 9 znakowy.</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"\\d{9}\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"identREGON14\"> <xsd:annotation> <xsd:documentation>Typ definiujacy identyfikator REGON 14 znakowy.</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"\\d{14}\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"typPowBud\" > <xsd:annotation> <xsd:documentation>Typ definiujący \"Typ powierzchni budynków i ich części\". Zgodnie z tabelą typów powierzchni budynków i ich części.</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:NMTOKEN\" > <xsd:enumeration value=\"BM\"/> <xsd:enumeration value=\"BN\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"typPowGrunt\"> <xsd:annotation> <xsd:documentation>Typ definiujący \"Typ powierzchni gruntów”. Zgodnie z tabelą typów powierzchni gruntów.</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:NMTOKEN\"> <xsd:enumeration value=\"R\"/> <xsd:enumeration value=\"ŁPs\"/> <xsd:enumeration value=\"S\"/> <xsd:enumeration value=\"B\"/> <xsd:enumeration value=\"Wsr\"/> <xsd:enumeration value=\"W\"/> <xsd:enumeration value=\"Ls\"/> <xsd:enumeration value=\"N\"/> <xsd:enumeration value=\"E\"/> <xsd:enumeration value=\"Lz\"/> <xsd:enumeration value=\"IG\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"typUlicy\"> <xsd:annotation> <xsd:documentation>Typ definiujący \"Typ ulicy\".</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:NMTOKEN\" > <xsd:enumeration value='ul.\"/> <xsd:enumeration value=\"al.\"/> <xsd:enumeration value=\"skw.\"/>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"pl.\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"klasaGleby\"> <xsd:annotation> <xsd:documentation>Klasa gleboznawcza gruntu. </xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:NMTOKEN\" > <xsd:enumeration value=\"I\"/> <xsd:enumeration value=\"II\"/> <xsd:enumeration value=\"III\"/> <xsd:enumeration value=\"IIIa\"/> <xsd:enumeration value=\"IIIb\"/> <xsd:enumeration value=\"IV\"/> <xsd:enumeration value=\"IVa\"/> <xsd:enumeration value=\"IVb\"/> <xsd:enumeration value=\"V\"/> <xsd:enumeration value=\"VI\"/> <xsd:enumeration value=\"Viz\"/> </xsd:restriction> </xsd:simpleType> <xsd:element name=\"RodzajWladania\"> <xsd:simpleType> <xsd:annotation> <xsd:documentation>Typ umożliwiający określenie rodzaju władania: WŁ - właściciel PS - posiadacz samoistny UW - użytkownik wieczysty PZ - posiadacz zależny</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:NMTOKEN\" > <xsd:enumeration value=\"WŁ\"/> <xsd:enumeration value=\"PS\"/> <xsd:enumeration value=\"UW\"/> <xsd:enumeration value=\"PZ\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:complexType name=\"Dokument \"> <xsd:annotation> <xsd:documentation>Typ umozliwiajacy opisanie wydawcy dokumentu określającego własność. </xsd:documentation> </xsd:annotation>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:attribute name=\"sad\" use=\"required\"> <xsd:annotation> <xsd:documentation>Nazwa sadu.</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"defString\"> <xsd:maxLength value=\"200\"/> </xsd:restriction> </xsd:simpleType> </xsd:attribute> </xsd:complexType> <xsd:simpleType name=\"defString\"> <xsd:annotation> <xsd:documentation>Typ pomocniczy zastepujacy xsd:string.</xsd:documentation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> <xsd:restriction base=\"xsd:string\"> <xsd:minLength value=\"1\"/> <xsd:whiteSpace value=\"collapse\"/> </xsd:restriction> </xsd:simpleType> </xsd:schema>"
+    },
+    {
+     "type": "ocr",
+     "text": "B. Tabela typów powierzchni gruntów Rodzaj nieruchomości w ewidencji podatkowej NE GE Łąki i pastwiska Łąki i pastwiska"
+    },
+    {
+     "type": "ocr",
+     "text": "S"
+    },
+    {
+     "type": "ocr",
+     "text": "W ZEE O IB ___ | Użytki rolne zabudowane Użytki rolne zabudowane B-R, B-L itp"
+    },
+    {
+     "type": "ocr",
+     "text": "Użytki ekologiczne Użytki ekologiczne"
+    },
+    {
+     "type": "ocr",
+     "text": "Lz Grunty zadrzewione i Grunty zadrzewione i zakrzewione zakrzewione 1G Inne grunty Związane z prowadzeniem działalności gospodarczej Pod jeziorami, zajęte na zbiorniki wodne retencyjne lub elektrowni wodnych Pozostałe Grunty podlegające zwolnieniu (uldze) podatkowemu niewykazane w wymienionych powyżej kategoriach"
+    },
+    {
+     "type": "ocr",
+     "text": "C. Tabeła typów powierzchni budynków i ich części Symbol Rodzaj nieruchomości w ewidencji podatkowej Budynki mieszkalne i ich części 1 Budynki mieszkalne i ich części Budynki mieszkalne i ich części zajęte na prowadzenie działalności gospodarczej Budynki mieszkalne i ich części podlegające zwolnieniu (uldze) podatkowemu"
+    },
+    {
+     "type": "ocr",
+     "text": "Budynki niemieszkalne i ich części"
+    },
+    {
+     "type": "ocr",
+     "text": "Budynki i ich części związane z prowadzeniem działalności gospodarczej Budynki i ich części zajęte na prowadzenie działalności gospodarczej w zakresie obrotu kwalifikowanym materiałem siewnym Budynki i ich części zajęte na prowadzenie działalności gospodarczej w zakresie udzielania świadczeń zdrowotnych Pozostałe budynki i ich części Budynki niemieszkalne lub ich części podlegające zwolnieniu (uldze) podatkowemu"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Finansów kieruje działem administracji rządowej — finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 marca 2002 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 32, poz. 301, Nr 43, poz. 378 i Nr 93, poz. 834).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 200, poz. 1683, z 2003 r. Nr 96, poz. 874, Nr 110, poz. 1039, Nr 188, poz. 1840, Nr 200, poz. 1953 i Nr 203, poz. 1966 oraz z 2004 r. Nr 92, poz. 880 i 884 i Nr 96, poz. 959."
+ }
+}

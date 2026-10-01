@@ -1,0 +1,1549 @@
+{
+ "eli": "DU/2004/915",
+ "title": "Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 20 kwietnia 2004 r. w sprawie wymagań metrologicznych, którym powinny odpowiadać mierniki poziomu dźwięku",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/915/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI, PRACY I POLITYKI SPOŁECZNEJ[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 kwietnia 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wymagań metrologicznych, którym powinny odpowiadać mierniki poziomu dźwięku"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 pkt 3 ustawy z dnia 11 maja 2001 r. — Prawo o miarach (Dz. U. Nr 63, poz. 636, 2) z późn. zm. ) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "miernik — przyrząd pomiarowy przeznaczony do pomiaru poziomu dźwięku i poziomu ciśnienia akustycznego dźwięków wywołujących u człowieka wrażenie słuchowe;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "miernik konwencjonalny — miernik, w którym wielkością mierzoną jest poziom dźwięku wyznaczany metodą uśredniania wykładniczego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "miernik całkująco-uśredniający — miernik, w którym wielkością mierzoną jest równoważny poziom dźwięku;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "miernik całkujący — miernik, w którym wielkością mierzoną jest poziom ekspozycji na dźwięk;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "poziom ciśnienia akustycznego — wielkość wyrażoną w decybelach, wyznaczaną według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "gdzie:"
+      },
+      {
+       "type": "text",
+       "text": "p — wartość skuteczna ciśnienia akustycznego wyrażona w paskalach,"
+      },
+      {
+       "type": "text",
+       "text": "p — wartość odniesienia ciśnienia akustycznego ⁰ równa 2 x 10 –5 Pa;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "poziom dźwięku — poziom ciśnienia akustycznego skorygowany według jednej z trzech częstotliwościowych charakterystyk korekcyjnych: A, C lub Z oraz uśredniony według jednej z dwóch wykładniczych charakterystyk czasowych: F lub S, oznaczany odpowiednio symbolami: L , L , L , AF CF ZF L , L , L ; AS CS ZS",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "maksymalny poziom dźwięku — największą wartość poziomu dźwięku występującą podczas obserwacji, oznaczaną odpowiednio symbolami: L , L , L , L , L , L ; AFmax CFmax ZFmax ASmax CSmax ZSmax",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "szczytowy poziom dźwięku C — wielkość wyrażoną w decybelach, wyznaczaną według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "gdzie p (t) — chwilowe ciśnienie akustyczne sko- C rygowane według charakterystyki częstotliwościowej C, wyrażone w paskalach;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "równoważny poziom dźwięku A — wielkość wyrażoną w decybelach, wyznaczaną według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "gdzie: T — czas pomiaru wyrażony w sekundach, t — zmienna całkowania reprezentująca czas, p (t) — chwilowe ciśnienie akustyczne skorygo- A wane według charakterystyki częstotliwościowej A, wyrażone w paskalach;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "ekspozycja na dźwięk skorygowana według charakterystyki częstotliwościowej A — wielkość wyrażoną w paskalach do kwadratu razy sekunda, wyznaczaną według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": ";"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "poziom A ekspozycji na dźwięk — wielkość wyrażoną w decybelach, wyznaczaną według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "gdzie T₀ — czas odniesienia równy 1 s;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_1/pkt_12",
+     "text": "płaska charakterystyka częstotliwościowa (FLAT) — charakterystykę częstotliwościową, której wartości względne są równe 0 dB co najmniej w zakresie częstotliwości od 31,5 Hz do 8 kHz, która może być dostępna w mierniku;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_1/pkt_13",
+     "text": "punkt odniesienia mikrofonu — punkt wybrany na mikrofonie lub w jego pobliżu, który określa położenie mikrofonu w przestrzeni;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_1/pkt_14",
+     "text": "kierunek odniesienia — kierunek określony do wyznaczania charakterystyk metrologicznych miernika w polu akustycznym, w szczególności częstotliwościowych charakterystyk korekcyjnych oraz charakterystyk kierunkowości;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_1/pkt_15",
+     "text": "kąt padania fali akustycznej — kąt zawarty między kierunkiem odniesienia a prostą łączącą środek akustyczny źródła dźwięku z punktem odniesienia mikrofonu miernika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_1/pkt_16",
+     "text": "zakres pomiarowy — zakres wartości poziomu dźwięku A sygnału sinusoidalnego, wyrażonych w decybelach, które mogą być zmierzone za pomocą miernika w granicach błędów dopuszczalnych liniowości bez uaktywniania sygnalizacji przesterowania lub sygnalizacji zbyt małego wysterowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_1/pkt_17",
+     "text": "zakres poziomu — zakres nominalnych wartości poziomu dźwięku, wyrażonych w decybelach, które mogą być zmierzone przy określonym ustawieniu przełączników miernika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_1/pkt_18",
+     "text": "poziom ciśnienia akustycznego odniesienia — wartość poziomu ciśnienia akustycznego wskazana w celu sprawdzania charakterystyk metrologicznych miernika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "par_1/pkt_19",
+     "text": "zakres odniesienia — zakres poziomu obejmujący poziom ciśnienia akustycznego odniesienia, wskazany w celu sprawdzania charakterystyk metrologicznych miernika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "par_1/pkt_20",
+     "text": "częstotliwość wzorcowania — wartość nominalną częstotliwości z zakresu od 160 Hz do 1250 Hz sinusoidalnego sygnału akustycznego wytwarzanego przez kalibrator akustyczny stosowany do sprawdzania i regulacji miernika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "par_1/pkt_21",
+     "text": "błąd liniowości — różnicę między wskazywanym poziomem sygnału a oczekiwanym poziomem sygnału, określoną przy danej częstotliwości;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "par_1/pkt_22",
+     "text": "zakres liniowości — zakres wartości poziomu dźwięku, określony dla danego zakresu poziomu i przy danej częstotliwości, dla których błąd liniowości mieści się w dopuszczalnych granicach;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "23",
+     "path": "par_1/pkt_23",
+     "text": "impuls tonowy — sygnał składający się z jednego lub większej całkowitej liczby okresów przebiegu sinusoidalnego o określonej częstotliwości, który rozpoczyna się i kończy w momencie przejścia tego przebiegu przez wartość zerową;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "24",
+     "path": "par_1/pkt_24",
+     "text": "odpowiedź na impuls tonowy — różnicę między:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_24/lit_a",
+       "text": "maksymalnym poziomem dźwięku wskazywanym przez miernik konwencjonalny,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_24/lit_b",
+       "text": "równoważnym poziomem dźwięku wskazywanym przez miernik całkująco-uśredniający albo",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_24/lit_c",
+       "text": "poziomem ekspozycji na dźwięk wskazywanym przez miernik całkujący",
+       "children": [
+        {
+         "type": "text",
+         "text": "— dla elektrycznego sygnału wejściowego w postaci impulsu tonowego, a poziomem wskazywanym przez miernik dla ustalonego elektrycznego sinusoidalnego sygnału wejściowego, z którego wydzielono impuls tonowy;"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "25",
+     "path": "par_1/pkt_25",
+     "text": "akustyczne pole swobodne — pole akustyczne w ośrodku jednorodnym i izotropowym, w którym wpływ ograniczających go powierzchni na fale akustyczne jest pomijalny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "26",
+     "path": "par_1/pkt_26",
+     "text": "klasa dokładności — klasę mierników spełniających określone wymagania metrologiczne, których błędy charakterystyk metrologicznych są zawarte w wyznaczonych granicach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Wymagania metrologiczne w zakresie konstrukcji i wykonania mierników"
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozróżnia się dwie klasy dokładności mierników: klasę dokładności 1 i klasę dokładności 2.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Miernik powinien mierzyć co najmniej jedną z następujących wielkości:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "poziom dźwięku A uśredniony wykładniczo według charakterystyki czasowej F;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "równoważny poziom dźwięku A;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "poziom A ekspozycji na dźwięk.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Miernik klasy dokładności 1 powinien być wyposażony w układ częstotliwościowej charakterystyki korekcyjnej C.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Miernik umożliwiający pomiar szczytowego poziomu dźwięku C sygnałów nieustalonych powinien również mierzyć poziom dźwięku C sygnałów ustalonych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "W skład miernika wchodzą w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "mikrofon pomiarowy elektrostatyczny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "przedwzmacniacz mikrofonowy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "analogowy, cyfrowy lub analogowo-cyfrowy procesor sygnałowy realizujący funkcje wzmacniania sygnału, kształtowania charakterystyki częstotliwościowej układu pomiarowego, wyznaczania kwadratu chwilowego ciśnienia akustycznego oraz uśredniania lub całkowania sygnału względem czasu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "urządzenie wskazujące;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_4/pkt_5",
+     "text": "układ sygnalizacji przesterowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_4/pkt_6",
+     "text": "układ zasilania z układem sygnalizacji stanu zasilania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Konstrukcja miernika powinna umożliwiać doprowadzenie elektrycznego sygnału pomiarowego do wejścia części elektrycznej miernika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Układ elektryczny przeznaczony do doprowadzenia elektrycznego sygnału pomiarowego powinien być dołączany do miernika w miejscu dołączenia mikrofonu, po odłączeniu mikrofonu od części elektrycznej miernika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Miernik konwencjonalny powinien być wyposażony w układ zapewniający wykładnicze uśrednianie sygnału według charakterystyki czasowej F.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Miernik może mieć więcej niż jeden zakres poziomu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Jeżeli miernik ma więcej niż jeden zakres poziomu, powinien być wyposażony w przełącznik zakresów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Urządzenie wskazujące miernika powinno wskazywać wyniki pomiaru z rozdzielczością co najmniej 0,1 dB, w zakresie co najmniej 60 dB przy dowolnym wybranym zakresie poziomu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Miernik może wskazywać wartość co najmniej jednej z następujących wielkości mierzonych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_1/pkt_1",
+       "text": "poziomu dźwięku wyznaczanego metodą uśredniania wykładniczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_1/pkt_2",
+       "text": "równoważnego poziomu dźwięku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_1/pkt_3",
+       "text": "poziomu ekspozycji na dźwięk.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "W mierniku mogącym wskazywać wartości więcej niż jednej wielkości należy zapewnić możliwość identyfikowania wskazywanych wielkości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Mierzona wielkość akustyczna powinna być jednoznacznie wskazywana przez odpowiednią informację prezentowaną przez urządzenie wskazujące lub przez ustawienie przełączników miernika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Miernik całkująco-uśredniający klasy dokładności 1 oraz miernik całkujący klasy dokładności 1 powinien być wyposażony w urządzenie do wskazywania:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_10/pkt_1",
+     "text": "czasu, który upłynął od rozpoczęcia pomiaru do końca okresu całkowania, albo",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_10/pkt_2",
+     "text": "przedziału czasu, w którym jest wykonywane całkowanie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Miernik umożliwiający pomiar maksymalnego poziomu dźwięku przy określonej charakterystyce czasowej oraz szczytowego poziomu dźwięku C powinien być wyposażony w układ podtrzymywania wskazania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Miernik przeznaczony do pomiaru równoważnego poziomu dźwięku A, poziomu ekspozycji na dźwięk, maksymalnego poziomu dźwięku i szczytowego poziomu dźwięku C powinien być wyposażony w urządzenie do kasowania zawartości układu pamięciowego i inicjowania nowego pomiaru, przy czym używanie tego urządzenia nie powinno powodować niepożądanych zmian wskazań miernika oraz zniekształcania danych zapamiętanych wcześniej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Miernik z urządzeniem wskazującym cyfrowym powinien być wyposażony w układ sygnalizacji zbyt małego wysterowania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Jeżeli konstrukcja miernika umożliwia dołączanie do niego urządzeń zewnętrznych, takich jak filtry pasmowe lub rejestrator, to zmiany charakterystyk metrologicznych miernika spowodowane dołączeniem tych urządzeń nie powinny przekraczać wartości granicznych określonych przez producenta.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "W mierniku, który jest wyposażony w analogowe elektryczne wyjście sygnałowe, dołączenie do tego wyjścia dowolnego biernego układu elektrycznego bez zmagazynowanej energii elektrycznej, łącznie z układem zwierającym to wyjście, nie powinno zmieniać wyniku wykonywanego pomiaru o więcej niż 0,2 dB.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Zmiany poziomu sygnału wskazywane przez urządzenie wskazujące miernika i odpowiadające im zmiany poziomu sygnału na wyjściu analogowym lub cyfrowym miernika powinny być równe, przy czym wartość bezwzględna różnicy między tymi zmianami nie powinna przekraczać 0,1 dB.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Na obudowie miernika powinny być zamieszczone w sposób trwały i czytelny:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_16/pkt_1",
+     "text": "nazwa lub znak producenta;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_16/pkt_2",
+     "text": "oznaczenie typu i numer fabryczny miernika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_16/pkt_3",
+     "text": "klasa dokładności miernika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Charakterystyki metrologiczne mierników"
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Wymagania dotyczące charakterystyk metrologicznych miernika powinny być spełnione po upływie określonego czasu, licząc od chwili włączenia zasilania miernika, przy czym czas ten nie powinien być dłuższy niż 120 s.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Przed włączeniem zasilania miernika należy umożliwić osiągnięcie przez miernik stanu równowagi klimatycznej w istniejących warunkach użytkowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Wartość bezwzględna maksymalnej różnicy między wartościami poziomu dźwięku zmierzonymi dla dowolnych dwóch kątów padania fali akustycznej zawartych w danym przedziale kątów określonym względem kierunku odniesienia nie powinna przekraczać wartości określonych w załączniku nr 1 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Wymagania, określone w załączniku nr 1 do rozporządzenia, odnoszą się do warunków pola swobodnie biegnących fal akustycznych dochodzących do miernika pod dowolnym kątem z podanych przedziałów, łącznie z kątem odpowiadającym kierunkowi odniesienia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Wartości względne częstotliwościowych charakterystyk korekcyjnych A, C i Z miernika oraz ich błędy dopuszczalne, uwzględniające rozszerzoną niepewność pomiaru, określa załącznik nr 2 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Wartości, określone w załączniku nr 2 do rozporządzenia, odnoszą się do wszystkich zakresów poziomu miernika i dotyczą sygnału w postaci płaskich, swobodnie biegnących fal akustycznych dochodzących do mikrofonu miernika z kierunku odniesienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Jeżeli w mierniku jest dostępna płaska charakterystyka częstotliwościowa (FLAT), to jej błędy dopuszczalne nie powinny być większe niż wartości określone w załączniku nr 2 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_19/ust_4",
+     "text": "Jeżeli do wejścia części elektrycznej miernika doprowadza się ustalony elektryczny sygnał sinusoidalny o częstotliwości 1 kHz i takiej wartości, by wskazanie miernika przy wybranym zakresie odniesienia i włączonej charakterystyce korekcyjnej A było równe poziomowi ciśnienia akustycznego odniesienia, to zmiana wskazania miernika po włączeniu charakterystyki korekcyjnej C lub Z albo płaskiej charakterystyki częstotliwościowej (FLAT), powiększona o rozszerzoną niepewność pomiaru, nie powinna przekraczać ±0,4 dB.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_19/ust_5",
+     "text": "Wymaganie, o którym mowa w ust. 4, nie dotyczy wskazań szczytowego poziomu dźwięku C.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Różnice między zmierzonymi wartościami poprawek uwzględniających wpływy charakterystyki częstotliwościowej mikrofonu oraz odbicia i ugięcia fal akustycznych a wartościami nominalnymi poprawek określonymi przez producenta, powiększone o rozszerzoną niepewność pomiaru, nie powinny przekraczać dwóch trzecich wartości błędów dopuszczalnych określonych w załączniku nr 2 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Miernik, w którym do wejścia części elektrycznej jest doprowadzony sygnał elektryczny za pomocą układu, o którym mowa w § 5 ust. 2, powinien spełniać następujące wymagania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_21/ust_1/pkt_1",
+       "text": "dla zakresu odniesienia miernika przy częstotliwości 1 kHz zakres liniowości powinien być równy co najmniej 60 dB;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_21/ust_1/pkt_2",
+       "text": "błąd liniowości miernika, powiększony o rozszerzoną niepewność pomiaru, nie powinien przekraczać:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_21/ust_1/pkt_2/lit_a",
+         "text": "±1,1 dB — dla mierników klasy dokładności 1,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_21/ust_1/pkt_2/lit_b",
+         "text": "±1,4 dB — dla mierników klasy dokładności 2;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_21/ust_1/pkt_3",
+       "text": "dowolna zmiana poziomu sygnału wejściowego z zakresu od 1 dB do 10 dB powinna wywoływać taką samą zmianę wskazania miernika, przy czym błąd zmiany wskazania, powiększony o rozszerzoną niepewność pomiaru, nie powinien przekraczać:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_21/ust_1/pkt_3/lit_a",
+         "text": "±0,6 dB — dla mierników klasy dokładności 1,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_21/ust_1/pkt_3/lit_b",
+         "text": "±0,8 dB — dla mierników klasy dokładności 2.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Wymagania, o których mowa w ust. 1 pkt 2 i 3, powinny być spełnione w całym zakresie pomiarowym przy dowolnej częstotliwości z pasma przenoszenia miernika, dla każdej charakterystyki częstotliwościowej miernika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_21/ust_3",
+     "text": "W przypadku miernika konwencjonalnego zakresy liniowości odpowiadające sąsiadującym zakresom poziomu przy częstotliwości 1 kHz powinny zachodzić na siebie w przedziale nie mniejszym niż 30 dB.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_21/ust_4",
+     "text": "Przedział, o którym mowa w ust. 3, w przypadku miernika całkująco-uśredniającego i miernika całkującego nie powinien być mniejszy niż 40 dB.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Poziom szumów własnych miernika, określony jako wskazanie miernika po zastąpieniu mikrofonu układem, o którym mowa w § 5 ust. 2, i zamknięciu jego wejścia nie powinien być większy niż odpowiadająca tym warunkom wartość określona przez producenta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Jeżeli miernik z jednym z mikrofonów, określonym przez producenta, jest umieszczony w miejscu, w którym poziom ciśnienia akustycznego dźwięków dochodzących do mikrofonu jest co najmniej o 6 dB mniejszy niż wskazanie, o którym mowa w ust. 1, to wskazanie przyrządu nie powinno być większe niż odpowiadająca tym warunkom wartość określona przez producenta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_22/ust_3",
+     "text": "Wymagania, o których mowa w ust. 1 i 2, dotyczą warunków odniesienia określonych w § 38 oraz wszystkich charakterystyk częstotliwościowych miernika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "W mierniku konwencjonalnym charakterystyce czasowej F odpowiada stała czasowa układu uśredniającego o wartości 125 ms, natomiast charakterystyce czasowej S — stała czasowa o wartości 1 s.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "Szybkość zmniejszania się wskazania miernika po natychmiastowym wyłączeniu ustalonego sinusoidalnego sygnału elektrycznego o częstotliwości 4 kHz powinna mieć wartość:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_23/ust_2/pkt_1",
+       "text": "nie mniejszą niż 25 dB/s — dla charakterystyki czasowej F;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_23/ust_2/pkt_2",
+       "text": "z zakresu od 3,4 dB/s do 5,3 dB/s — dla charakterystyki czasowej S.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_23/ust_3",
+     "text": "Zmiana wskazania miernika spowodowana zmianą charakterystyki czasowej z F na S podczas pomiaru ustalonego sinusoidalnego sygnału elektrycznego o częstotliwości 1 kHz, powiększona o rozszerzoną niepewność pomiaru, nie powinna przekraczać ±0,3 dB.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Wartości odniesienia odpowiedzi miernika na impuls tonowy o częstotliwości 4 kHz i błędy graniczne dopuszczalne dla charakterystyk częstotliwościowych A, C i Z dotyczące:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_1/pkt_1",
+       "text": "miernika konwencjonalnego oraz:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_24/ust_1/pkt_1/lit_a",
+         "text": "charakterystyki czasowej F — określa załącznik nr 3 do rozporządzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_24/ust_1/pkt_1/lit_b",
+         "text": "charakterystyki czasowej S — określa załącznik nr 4 do rozporządzenia;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_1/pkt_2",
+       "text": "miernika całkującego i miernika całkująco-uśredniającego niewskazującego poziomu ekspozycji na dźwięk — określa załącznik nr 5 do rozporządzenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "Poziom ekspozycji na dźwięk dla impulsu tonowego dla miernika całkująco-uśredniającego, o którym mowa w ust. 1 pkt 2, oblicza się na podstawie wyniku pomiaru równoważnego poziomu dźwięku L eq,T według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "L = L + 10 log (T/T ) E eq,T 0"
+      },
+      {
+       "type": "text",
+       "text": "gdzie: T — czas pomiaru wyrażony w sekundach, T₀ — czas odniesienia równy 1 s."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_24/ust_3",
+     "text": "Wymagania, określone w załącznikach nr 3—5 do rozporządzenia, powinny być spełnione dla zakresu odniesienia miernika oraz dla ustalonego elektrycznego sinusoidalnego sygnału wejściowego, z którego wydzielono impuls tonowy, mającego poziom zawarty w przedziale od powiększonej o 10 dB wartości odpowiadającej dolnej granicy zakresu liniowości do pomniejszonej o 3 dB wartości odpowiadającej górnej granicy zakresu liniowości.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "Jeżeli do wejścia części elektrycznej miernika całkująco-uśredniającego doprowadza się sygnał w postaci dowolnego ciągu impulsów tonowych o częstotliwości 4 kHz mających:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_25/ust_1/pkt_1",
+       "text": "jednakową amplitudę,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_25/ust_1/pkt_2",
+       "text": "jednakowy czas trwania z zakresu od 0,25 ms do 1 s",
+       "children": [
+        {
+         "type": "text",
+         "text": "— to różnica między wartością równoważnego poziomu dźwięku zmierzoną dla sygnału impulsowego a wartością tej samej wielkości zmierzoną dla sygnału ustalonego o tej samej amplitudzie powinna być równa różnicy δ ref obliczonej według wzoru:"
+        },
+        {
+         "type": "text",
+         "text": "δ = 10 log (NT /T)"
+        },
+        {
+         "type": "text",
+         "text": "N — liczba impulsów tonowych zawartych w danym ciągu, T — czas trwania każdego impulsu tonowego, imp wyrażony w sekundach, T — całkowity czas pomiaru, wyrażony w sekundach."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Dopuszczalne błędy różnicy wartości zmierzonych w zależności od czasu trwania impulsu tonowego powinny być równe błędom granicznym dopuszczalnym określonym w załączniku nr 5 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_25/ust_3",
+     "text": "Wymagania określone w ust. 1 i 2 powinny być spełnione dla zakresu odniesienia miernika, dla dostępnych częstotliwościowych charakterystyk korekcyjnych oraz dla sygnału ustalonego mającego poziom zawarty w przedziale, o którym mowa w § 24 ust. 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_26/ust_1",
+     "text": "Układ sygnalizacji przesterowania miernika powinien działać, gdy poziom sygnału doprowadzonego do wejścia części elektrycznej miernika przekracza górną granicę zakresu liniowości, zanim błąd liniowości przekroczy wartość dopuszczalną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "Wymaganie, o którym mowa w ust. 1, powinno być spełnione dla wszystkich zakresów poziomu miernika oraz dla każdej częstotliwości z zakresu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_26/ust_2/pkt_1",
+       "text": "od 31,5 Hz do 12,5 kHz — dla miernika klasy dokładności 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_26/ust_2/pkt_2",
+       "text": "od 31,5 Hz do 8 kHz — dla miernika klasy dokładności 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_26/ust_3",
+     "text": "Jeżeli do wejścia części elektrycznej miernika doprowadza się kolejno sygnały w postaci dodatnich, a następnie ujemnych półokresów przebiegu sinusoidalnego, które rozpoczynają się i kończą w chwili przejścia tego przebiegu przez wartość zerową i mają amplitudy o wartości najmniejszej spośród tych, które powodują zadziałanie układu sygnalizacji przesterowania, to wartość bezwzględna różnicy między poziomem sygnału zmierzonym dla półokresów dodatnich a poziomem sygnału zmierzonym dla półokresów ujemnych, powiększona o rozszerzoną niepewność pomiaru, nie powinna być większa niż 1,8 dB.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_26/ust_4",
+     "text": "W mierniku konwencjonalnym podczas pomiarów przy charakterystyce czasowej F lub S układ sygnalizacji przesterowania powinien działać przez cały czas trwania warunków przesterowania, jednak nie krócej niż 1 s.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_26/ust_5",
+     "text": "W mierniku całkująco-uśredniającym lub całkującym sygnalizacja przesterowania powinna:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_26/ust_5/pkt_1",
+       "text": "działać przez cały czas trwania warunków przesterowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_26/ust_5/pkt_2",
+       "text": "być podtrzymywana do chwili skasowania wyniku pomiaru.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_26/ust_6",
+     "text": "Wymagania, o których mowa w ust. 5, powinny być spełnione również w przypadku pomiaru maksymalnego poziomu dźwięku, szczytowego poziomu dźwięku C oraz innych wielkości obliczanych podczas trwania pomiaru lub wskazywanych po zakończeniu pomiaru.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_27/ust_1",
+     "text": "Układ sygnalizacji zbyt małego wysterowania powinien działać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_27/ust_1/pkt_1",
+       "text": "gdy wskazanie miernika jest mniejsze niż odpowiednia dolna granica określona przez producenta, zanim błąd liniowości w tych warunkach przekroczy wartość dopuszczalną;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_27/ust_1/pkt_2",
+       "text": "co najmniej przez czas trwania warunków zbyt małego wysterowania, jednak nie krócej niż 1 s.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_27/ust_2",
+     "text": "Działanie układu sygnalizacji zbyt małego wysterowania nie jest wymagane, jeżeli dla zakresów poziomu obejmujących najmniejsze mierzone wartości poziomu sygnału błąd liniowości jest powodowany przez szumy własne miernika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_28/ust_1",
+     "text": "Jeżeli miernik może wskazywać wartości szczytowego poziomu dźwięku C, to zakres wskazań tej wielkości, przynajmniej na zakresie odniesienia, nie powinien być mniejszy niż 40 dB.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_28/ust_2",
+     "text": "Wartości różnicy między wskazaniem szczytowego poziomu dźwięku C (L ) dla sygnału nieustalonego a wskazaniem poziomu Cpeak dźwięku C (L ) dla sygnału ustalonego o tej samej amplitudzie, powiększo- C ne o rozszerzoną niepewność pomiaru, oraz błędy dopuszczalne tej różnicy, w przypadku, gdy do wejścia części elektrycznej miernika wskazującego szczytowy poziom dźwięku C doprowadza się sygnały nieustalone w postaci pojedynczych okresów, a także kolejno pojedynczych dodatnich i ujemnych półokresów przebiegu sinusoidalnego wydzielonych z sygnału ustalonego, zaczynających się i kończących w momencie przejścia tego przebiegu przez wartość zerową, określa załącznik nr 6 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "Poziom natężenia pola elektromagnetycznego o częstotliwości radiowej emitowanego z któregokolwiek miejsca na obudowie miernika, określony względem wartości 1 µ /m, mierzony w odległości 10 m za pomocą odbiornika pomiarowego spełniającego wymagania określone w normie PN-CISPR 16-1:1997 rozdział 2, nie powinien przekraczać 30 dB dla częstotliwości z zakresu od 30 MHz do 230 MHz oraz 37 dB dla częstotliwości z zakresu od 230 MHz do 1 GHz.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "Jeżeli do wejścia elektrycznego jednego z kanałów miernika wielokanałowego doprowadza się sygnał elektryczny, któremu odpowiada wskazanie miernika w tym kanale równe górnej granicy zakresu liniowości, to w każdym z pozostałych kanałów, po odłączeniu od nich mikrofonów i zamknięciu wejść elektrycznych w sposób określony przez producenta, zmierzony poziom sygnału powinien być mniejszy od tego wskazania o co najmniej 70 dB.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_31/ust_1",
+     "text": "W zakresie ciśnienia statycznego od 85 kPa do 108 kPa odchylenie wskazania miernika od wartości wskazywanej przy ciśnieniu statycznym odniesienia, powiększone o rozszerzoną niepewność pomiaru, nie powinno przekraczać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_31/ust_1/pkt_1",
+       "text": "±0,7 dB — dla mierników klasy dokładności 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_31/ust_1/pkt_2",
+       "text": "±1,0 dB — dla mierników klasy dokładności 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_31/ust_2",
+     "text": "W zakresie ciśnienia statycznego od 65 kPa do mniej niż 85 kPa odchylenie wskazania miernika od wartości wskazywanej przy ciśnieniu statycznym odniesienia, powiększone o rozszerzoną niepewność pomiaru, nie powinno przekraczać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_31/ust_2/pkt_1",
+       "text": "±1,2 dB — dla mierników klasy dokładności 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_31/ust_2/pkt_2",
+       "text": "±1,9 dB — dla mierników klasy dokładności 2.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_34/ust_1",
+     "text": "W zakresie temperatury powietrza od –10 °C do +50 °C odchylenie wskazania miernika klasy dokładności 1 od wartości wskazywanej przy temperaturze odniesienia, powiększone o rozszerzoną niepewność pomiaru, nie powinno przekraczać ±0,8 dB.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_34/ust_2",
+     "text": "W zakresie temperatury powietrza od 0 °C do +40 °C odchylenie wskazania miernika klasy dokładności 2 od wartości wskazywanej przy temperaturze odniesienia, powiększone o rozszerzoną niepewność pomiaru, nie powinno przekraczać ±1,3 dB.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_34/ust_3",
+     "text": "Jeżeli w skład miernika wchodzą urządzenia przeznaczone do pracy w otoczeniu o kontrolowanych warunkach środowiskowych, zakres temperatury powietrza, o którym mowa w ust. 1 i 2, może być ograniczony do przedziału od +5 °C do +35 °C.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_34/ust_4",
+     "text": "W zakresach temperatury powietrza, o których mowa w ust. 1—3, przy wilgotności względnej z zakresu od 30 % do 70 %, błąd liniowości na zakresie odniesienia przy częstotliwości 1 kHz w zakresie liniowości ustalonym przez producenta powinien mieścić się w granicach określonych w § 21 ust. 1 pkt 2 i 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_35/ust_1",
+     "text": "W zakresie wilgotności względnej od 25 % do 90 % odchylenie wskazania miernika od wartości wskazywanej przy wilgotności względnej odniesienia, powiększone o rozszerzoną niepewność pomiaru, nie powinno przekraczać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_35/ust_1/pkt_1",
+       "text": "±0,8 dB — dla mierników klasy dokładności 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_35/ust_1/pkt_2",
+       "text": "±1,3 dB — dla mierników klasy dokładności 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_35/ust_2",
+     "text": "Wymaganie, o którym mowa w ust. 1, powinno być spełnione przy dowolnej wartości temperatury powietrza z zakresów, o których mowa w § 34 ust. 1—3, odpowiednio do klasy miernika, jednak z wyłączeniem tych kombinacji temperatury powietrza i wilgotności względnej, z których wynika temperatura punktu rosy większa niż +39 °C lub mniejsza niż –15 °C.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_36/ust_1",
+     "text": "Oddziałujące na miernik elektrostatyczne wyładowania stykowe przy różnicy potencjałów z zakresu do ±4 kV względem potencjału ziemi oraz elektrostatyczne wyładowania powietrzne przy różnicy potencjałów z zakresu do ±8 kV względem potencjału ziemi nie powinny powodować trwałego pogorszenia charakterystyki metrologicznej lub utraty funkcji miernika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_36/ust_2",
+     "text": "Pogorszenie charakterystyki metrologicznej lub utrata funkcji miernika wskutek oddziaływania wyładowań, o których mowa w ust. 1, może mieć jedynie charakter czasowy, jednak nie powinno ono powodować zmian:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_36/ust_2/pkt_1",
+       "text": "stanu pracy miernika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_36/ust_2/pkt_2",
+       "text": "konfiguracji miernika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_36/ust_2/pkt_3",
+       "text": "informacji zarejestrowanych w pamięci miernika.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_37/ust_1",
+     "text": "Ze względu na wymagania dotyczące emisji pól elektromagnetycznych o częstotliwościach radiowych oraz wrażliwości na oddziaływanie takich pól, rozróżnia się następujące rodzaje mierników:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_37/ust_1/pkt_1",
+       "text": "mierniki grupy X, będące przyrządami samodzielnymi o zasilaniu bateryjnym, które nie wymagają zewnętrznych połączeń z innymi przyrządami w celu pomiaru poziomu dźwięku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_37/ust_1/pkt_2",
+       "text": "mierniki grupy Y, będące przyrządami samodzielnymi o zasilaniu sieciowym, które nie wymagają zewnętrznych połączeń z innymi przyrządami w celu pomiaru poziomu dźwięku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_37/ust_1/pkt_3",
+       "text": "mierniki grupy Z, będące przyrządami składającymi się z dwóch lub większej liczby urządzeń wymagających połączenia w celu zapewnienia normalnego funkcjonowania miernika, przy czym poszczególne urządzenia składowe traktowane oddzielnie mogą być o zasilaniu bateryjnym lub sieciowym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_37/ust_2",
+     "text": "Oddziałujące na miernik:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_37/ust_2/pkt_1",
+       "text": "jednorodne pole magnetyczne o częstotliwości sieci zasilającej i wartości skutecznej natężenia 80 A/m,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_37/ust_2/pkt_2",
+       "text": "pole elektromagnetyczne o częstotliwościach z zakresu od 26 MHz do 1 GHz i wartości skutecznej natężenia 10 V/m modulowane amplitudowo sygnałem sinusoidalnym o częstotliwości 1 kHz przy głębokości modulacji 80 %",
+       "children": [
+        {
+         "type": "text",
+         "text": "— nie powinny powodować w mierniku zmian, o których mowa w § 36 ust. 2."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_37/ust_3",
+     "text": "Jeżeli do mikrofonu miernika doprowadza się sinusoidalny sygnał akustyczny o częstotliwości 925 Hz wywołujący wskazanie poziomu dźwięku A lub równoważnego poziomu dźwięku A równe 74 dB ±1 dB, to odchylenie od tej wartości spowodowane włączeniem pola magnetycznego, o którym mowa w ust. 1 pkt 1, lub pola elektromagnetycznego, o którym mowa w ust. 1 pkt 2, powiększone o rozszerzoną niepewność pomiaru, nie powinno przekraczać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_37/ust_3/pkt_1",
+       "text": "±1,3 dB — dla mierników klasy dokładności 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_37/ust_3/pkt_2",
+       "text": "±2,3 dB — dla mierników klasy dokładności 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_37/ust_4",
+     "text": "Mierniki należące do grupy Y lub grupy Z, mające przyłącze wejściowe lub przyłącze wyjściowe zasilania prądem przemiennym, powinny być odporne na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_37/ust_4/pkt_1",
+       "text": "zakłócenia niesymetryczne o częstotliwościach radiowych z zakresu od 0,15 MHz do 80 MHz, mające postać napięcia o wartości skutecznej określonej bez modulacji jako równej 10 V, zmodulowanego amplitudowo sygnałem sinusoidalnym o częstotliwości 1 kHz przy głębokości modulacji 80 %, wytwarzanego przez źródło o impedancji wyjściowej 150 Ω;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_37/ust_4/pkt_2",
+       "text": "szybkie elektryczne stany przejściowe w systemie publicznej sieci zasilającej, mające postać napięcia o wartości szczytowej 2 kV i częstotliwości powtarzania 5 kHz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_37/ust_4/pkt_3",
+       "text": "zapady napięcia zasilania, przerwy napięcia zasilania i udary napięciowe, zgodnie z tablicą nr 4 normy PN-EN 61000-6-2:2003.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_37/ust_5",
+     "text": "Mierniki należące do grupy Z, mające przyłącza sygnałowe lub przyłącza sterowania, powinny być odporne na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_37/ust_5/pkt_1",
+       "text": "zakłócenia niesymetryczne o częstotliwościach radiowych z zakresu od 0,15 MHz do 80 MHz mające postać napięcia o wartości skutecznej określonej bez modulacji jako równej 10 V, zmodulowanego amplitudowo sygnałem sinusoidalnym o częstotliwości 1 kHz przy głębokości modulacji 80 %;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_37/ust_5/pkt_2",
+       "text": "szybkie elektryczne stany przejściowe w systemie publicznej sieci zasilającej mające postać napięcia o wartości szczytowej 2 kV i częstotliwości powtarzania 5 kHz, zgodnie z tablicą nr 2 normy PN-EN 61000-6-2:2003.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_37/ust_6",
+     "text": "Wymaganie, o którym mowa w ust. 4 pkt 1, powinno być spełnione, gdy długość każdego kabla łączącego poszczególne części miernika przekracza 3 m.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "Ustala się następujące warunki odniesienia dla mierników:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_38/pkt_1",
+     "text": "temperaturę powietrza: 23 °C;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_38/pkt_2",
+     "text": "ciśnienie statyczne: 101,325 kPa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_38/pkt_3",
+     "text": "wilgotność względną: 50 %.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Przepis końcowy"
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Gospodarki, Pracy i Polityki Społecznej: J. Hausner"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 20 kwietnia 2004 r. (poz. 915) Załącznik nr 1",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 8 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 9 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 4"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 11 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 6"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Gospodarki, Pracy i Polityki Społecznej kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 7 stycznia 2003 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki, Pracy i Polityki Społecznej (Dz. U. Nr 1, poz. 5).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 155, poz. 1286 i Nr 166, poz. 1360, z 2003 r. Nr 170, poz. 1652 oraz z 2004 r. Nr 49, poz. 465. gdzie: ref imp"
+ }
+}

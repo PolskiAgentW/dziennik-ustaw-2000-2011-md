@@ -1,0 +1,2566 @@
+{
+ "eli": "DU/2004/1114",
+ "title": "Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 23 kwietnia 2004 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń w obrocie energią elektryczną",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/1114/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI, PRACY I POLITYKI SPOŁECZNEJ[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 kwietnia 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń w obrocie energią elektryczną"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 46 ustawy z dnia 10 kwietnia 1997 r. — Prawo energetyczne (Dz. U. z 2003 r., Nr 153, poz. 1504 i Nr 203, poz. 1966 oraz z 2004 r. Nr 29, poz. 257, Nr 34, poz. 293, Nr 91, poz. 875 i Nr 96, poz. 959) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa szczegółowe zasady:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "kształtowania taryf przez przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie wytwarzania, przesyłania i dystrybucji lub obrotu energią elektryczną;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "kalkulacji cen i stawek opłat;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "rozliczeń w obrocie energią elektryczną.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "ustawie — należy przez to rozumieć ustawę z dnia 10 kwietnia 1997 r. — Prawo energetyczne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "operatorze — należy przez to rozumieć operatora systemu przesyłowego elektroenergetycznego lub operatora systemu dystrybucyjnego elektroenergetycznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "grupie przyłączeniowej — należy przez to rozumieć grupę podmiotów przyłączanych do sieci, sklasyfikowaną w następujący sposób:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_3/lit_a",
+       "text": "grupa I — podmioty przyłączane bezpośrednio do sieci przesyłowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_3/lit_b",
+       "text": "grupa II — podmioty przyłączane bezpośrednio do sieci rozdzielczej, o napięciu znamionowym 110 kV,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_3/lit_c",
+       "text": "grupa III — podmioty przyłączane bezpośrednio do sieci rozdzielczej, o napięciu znamionowym wyższym niż 1 kV, lecz niższym niż 110 kV,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_3/lit_d",
+       "text": "grupa IV — podmioty przyłączane bezpośrednio do sieci rozdzielczej, o napięciu znamionowym nie wyższym niż 1 kV oraz o mocy przyłączeniowej większej niż 40 kW lub prądzie znamionowym zabezpieczenia przedlicznikowego w torze prądowym większym niż 63 A,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_2/pkt_3/lit_e",
+       "text": "grupa V — podmioty przyłączane bezpośrednio do sieci rozdzielczej, o napięciu znamionowym nie wyższym niż 1 kV oraz mocy przyłączeniowej nie większej niż 40 kW i prądzie znamionowym zabezpieczenia przedlicznikowego nie większym niż 63 A,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_2/pkt_3/lit_f",
+       "text": "grupa VI — podmioty przyłączane do sieci poprzez tymczasowe przyłączenie, które będzie, na zasadach określonych w umowie, zastąpione przyłączeniem docelowym, lub podmioty przyłączone do sieci na czas określony, lecz nie dłuższy niż rok;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "miejscu dostarczania — należy przez to rozumieć punkt w sieci, do którego przedsiębiorstwo energetyczne dostarcza energię elektryczną, określony w umowie o przyłączenie, w umowie przesyłowej albo w umowie sprzedaży energii elektrycznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "układzie pomiarowo-rozliczeniowym — należy przez to rozumieć liczniki i inne urządzenia pomiarowe lub rozliczeniowo-pomiarowe, a także układy połączeń między nimi, służące bezpośrednio lub pośrednio do pomiarów energii elektrycznej i rozliczeń za tę energię;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "jednostce wytwórczej — należy przez to rozumieć opisany poprzez dane techniczne i handlowe wyodrębniony zespół urządzeń należących do przedsiębiorstwa energetycznego, służący do wytwarzania energii elektrycznej i wprowadzania mocy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "mocy przyłączeniowej — należy przez to rozumieć moc czynną planowaną do pobierania lub wprowadzania do sieci, określoną w umowie o przyłączenie jako wartość maksymalną ze średnich wartości tej mocy w okresie 15 minut, służącą do zaprojektowania przyłącza;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "mocy umownej — należy przez to rozumieć moc czynną, pobieraną lub wprowadzaną do sieci, określoną w:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_8/lit_a",
+       "text": "umowie przesyłowej oraz umowie zawierającej postanowienia umowy sprzedaży i umowy przesyłowej, jako wartość maksymalną ze średnich wartości tej mocy, w okresie 15 minut,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_8/lit_b",
+       "text": "umowie przesyłowej, zawieranej pomiędzy operatorami, jako wartość maksymalną ze średnich wartości tej mocy, w okresie godziny, lub",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_8/lit_c",
+       "text": "umowie sprzedaży, zawieranej pomiędzy przedsiębiorstwem energetycznym zajmującym się wytwarzaniem energii elektrycznej, zwanym dalej „wytwórcą”, a przedsiębiorstwem energetycznym niebędącym wytwórcą lub odbiorcą korzystającym z prawa dostępu do sieci, w okresie godziny;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "rezerwie mocy — należy przez to rozumieć niewykorzystaną w danym okresie zdolność jednostek wytwórczych do wytwarzania i dostarczania energii elektrycznej do sieci;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "usługach systemowych — należy przez to rozumieć usługi świadczone na rzecz operatorów, niezbędne do prawidłowego funkcjonowania systemu elektroenergetycznego, zapewniające zachowanie określonych parametrów niezawodnościowych dostarczania energii elektrycznej i jakości tej energii;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "subsydiowaniu skrośnym — należy przez to rozumieć pokrywanie kosztów dotyczących jednego rodzaju prowadzonej działalności gospodarczej lub jednej grupy odbiorców przychodami pochodzącymi z innego rodzaju prowadzonej działalności gospodarczej lub od innej grupy odbiorców;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "grupie taryfowej — należy przez to rozumieć grupę odbiorców pobierających energię elektryczną lub korzystających z usług związanych z zaopatrzeniem w tę energię, dla których stosuje się jeden zestaw cen lub stawek opłat i warunków ich stosowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "rynku bilansującym — należy przez to rozumieć działający na zasadach rynkowych mechanizm bieżącego bilansowania zapotrzebowania na energię elektryczną i wytwarzania tej energii w Krajowym Systemie Elektroenergetycznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_2/pkt_14",
+     "text": "grafiku obciążeń — należy przez to rozumieć zbiór danych określających planowane wielkości, wprowadzenia do sieci energii elektrycznej lub jej poboru przez jednostkę grafikową, oddzielnie dla poszczególnych okresów rozliczeniowych rynku bilansującego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_2/pkt_15",
+     "text": "okresie regulacji — należy przez to rozumieć okres obowiązywania współczynników korekcyjnych, o których mowa w § 15 ust. 1 lub w § 26 ust. 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Szczegółowe zasady kształtowania taryf"
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Przedsiębiorstwo energetyczne opracowuje taryfę w sposób zapewniający:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "pokrycie kosztów uzasadnionych, w zakresie określonym w art. 45 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "ochronę interesów odbiorców przed nieuzasadnionym poziomem cen;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "eliminowanie subsydiowania skrośnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Przedsiębiorstwo energetyczne kształtuje taryfę odpowiednio do zakresu prowadzanej działalności gospodarczej związanej z zaopatrzeniem w energię elektryczną, rodzaju odbiorców i charakteru ich zapotrzebowania na energię elektryczną.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Taryfa powinna, odpowiednio do prowadzonej przez przedsiębiorstwo energetyczne działalności gospodarczej, określać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "grupy taryfowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "rodzaje oraz wysokość cen i stawek opłat, a także warunki ich stosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "bonifikaty i upusty z tytułu niedotrzymania standardów jakościowych obsługi odbiorców, w tym dostaw energii elektrycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "opłaty za nielegalny pobór energii elektrycznej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Określone w taryfie ceny i stawki opłat różnicuje się dla poszczególnych grup taryfowych, odpowiednio do kosztów uzasadnionych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Taryfę kształtuje się w taki sposób, aby odbiorca mógł na jej podstawie obliczyć należność odpowiadającą zakresowi usług, związanych z zaopatrzeniem w energię elektryczną, określonemu w umowie sprzedaży energii elektrycznej lub umowie przesyłowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Taryfę ustala się na okres 12 miesięcy kalendarzowych, zwany dalej „rokiem obowiązywania taryfy”. Dla operatorów rok obowiązywania taryfy rozpoczyna się od dnia 1 stycznia każdego roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "W przypadku nieprzewidzianej, istotnej zmiany warunków prowadzenia przez przedsiębiorstwo energetyczne działalności gospodarczej lub podjęcia przez przedsiębiorstwo nowego rodzaju działalności gospodarczej, taryfa może być ustalona na inny okres niż określony w ust. 1, nie dłuższy niż 24 miesiące.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Wytwórca ustala w taryfie w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "ceny energii elektrycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "stawki opłat za rezerwy mocy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_1/pkt_3",
+       "text": "stawki opłat za usługi systemowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_1/pkt_4",
+       "text": "bonifikaty i upusty za niedotrzymanie standardów jakościowych obsługi odbiorców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_7/ust_1/pkt_5",
+       "text": "opłaty za nielegalny pobór energii elektrycznej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Przedsiębiorstwo energetyczne zajmujące się przesyłaniem i dystrybucją energii elektrycznej ustala w taryfie w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "stawki opłat za przyłączenie do sieci;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "stawki opłat za usługi przesyłowe, zwane dalej „stawkami opłat przesyłowych”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_2/pkt_3",
+       "text": "stawki opłat abonamentowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_2/pkt_4",
+       "text": "bonifikaty i upusty za niedotrzymanie standardów jakościowych obsługi odbiorców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_7/ust_2/pkt_5",
+       "text": "opłaty za nielegalny pobór energii elektrycznej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Przedsiębiorstwo energetyczne zajmujące się obrotem energią elektryczną ustala w taryfie w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_3/pkt_1",
+       "text": "ceny energii elektrycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_3/pkt_2",
+       "text": "stawki opłat abonamentowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_3/pkt_3",
+       "text": "bonifikaty i upusty za niedotrzymanie standardów jakościowych obsługi odbiorców.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Podział odbiorców na grupy taryfowe jest dokonywany w zależności od poziomu kosztów uzasadnionych, ponoszonych przez przedsiębiorstwo energetyczne za dostarczaną energię elektryczną do tych odbiorców, według następujących kryteriów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_1/pkt_1",
+       "text": "poziomu napięcia sieci, z której jest dostarczana energia elektryczna do odbiorców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_1/pkt_2",
+       "text": "wartości mocy umownej lub zużycia energii elektrycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_1/pkt_3",
+       "text": "parametrów dostarczanej energii elektrycznej innych niż standardowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_8/ust_1/pkt_4",
+       "text": "charakterystyk poboru energii elektrycznej przyłączonych urządzeń, instalacji lub sieci należących do odbiorcy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_8/ust_1/pkt_5",
+       "text": "systemu rozliczeń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_8/ust_1/pkt_6",
+       "text": "miejsca dostarczania energii elektrycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_8/ust_1/pkt_7",
+       "text": "poziomu niezawodności i ciągłości dostaw;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_8/ust_1/pkt_8",
+       "text": "wytwarzania energii elektrycznej we własnych źródłach odbiorcy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Ceny i stawki opłat, o których mowa w § 7, mogą być różnicowane dla poszczególnych grup taryfowych z uwzględnieniem podziału doby i roku na strefy i okresy czasowe. Taryfa może przewidywać więcej niż jeden sposób podziału doby na strefy czasowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Ceny energii elektrycznej dla odbiorców, którzy nie nabyli prawa do korzystania z usług przesyłowych lub nie korzystają z tego prawa, zwanych dalej „odbiorcami taryfowymi”, kupujących rocznie więcej niż 10 MWh energii elektrycznej, mogą być kalkulowane co najmniej dla dwóch okresów doby, a dla kupujących rocznie więcej niż 10 GWh energii elektrycznej — kalkuluje się co najmniej dla trzech okresów doby i dwóch okresów roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_8/ust_4",
+     "text": "Podział odbiorców, o którym mowa w ust. 1, może uwzględniać wyodrębnioną grupę odbiorców taryfowych zużywających rocznie mniej niż 1 000 kWh energii elektrycznej, dla których mogą być kalkulowane jednoskładnikowe stawki opłat za dostarczaną energię elektryczną.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Odbiorca, który:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_1/pkt_1",
+       "text": "pobiera energię elektryczną z kilku miejsc dostarczania, położonych w sieci o różnych poziomach napięć, jest zaliczany do grup taryfowych oddzielnie w każdym z tych miejsc;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_1/pkt_2",
+       "text": "do zasilania jednego zespołu urządzeń pobiera energię elektryczną z więcej niż jednego miejsca dostarczania na tym samym poziomie napięcia, wybiera grupę taryfową jednakową dla wszystkich miejsc dostarczania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_1/pkt_3",
+       "text": "ze względu na przyjęty, w przedsiębiorstwie energetycznym, podział odbiorców na grupy taryfowe dokonany na podstawie kryteriów wymienionych w § 8 ust. 1, może być, dla danego miejsca dostarczania energii elektrycznej, zaliczony do więcej niż jednej grupy taryfowej, ma prawo wyboru jednej spośród tych grup.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Odbiorca, o którym mowa w ust. 1 pkt 3, może wystąpić do przedsiębiorstwa energetycznego o zmianę grupy taryfowej, nie częściej niż raz na 12 miesięcy. Warunki zmiany grupy taryfowej określa umowa sprzedaży energii elektrycznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Szczegółowe zasady kalkulacji cen i stawek opłat"
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Koszty uzasadnione prowadzenia przez przedsiębiorstwo energetyczne działalności gospodarczej w zakresie wytwarzania, przesyłania i dystrybucji energii elektrycznej oraz obrotu tą energią określa się na podstawie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "planowanych rocznych kosztów prowadzenia działalności gospodarczej w zakresie zaopatrzenia w energię elektryczną, w tym kosztów finansowych związanych z obsługą kredytów bankowych, z wyłączeniem odsetek i opłat za nieterminowe realizowanie zobowiązań;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_1/pkt_2",
+       "text": "planowanych rocznych kosztów modernizacji i rozwoju oraz kosztów realizacji inwestycji z zakresu ochrony środowiska i związanych z tym kosztów finansowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Sposób zaliczania kosztów, o których mowa w ust. 1, do poszczególnych grup taryfowych nie może ulegać zmianie w okresie regulacji. Dokonanie takich zmian może nastąpić wyłącznie w celu eliminowania subsydiowania skrośnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Koszty, o których mowa w § 10 ust. 1 pkt 1, ustala się zgodnie z art. 44 i 45 ustawy w sposób umożliwiający ustalenie kosztów stałych i kosztów zmiennych planowanych przez przedsiębiorstwo energetyczne dla poszczególnych rodzajów działalności gospodarczej, z uwzględnieniem źródeł tych kosztów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Podstawą oceny kosztów, o których mowa w ust. 1, są planowane wielkości, o których mowa w ust. 3, i koszty poniesione w roku kalendarzowym poprzedzającym pierwszy rok okresu regulacji, określane na podstawie sprawozdania finansowego, zbadanego zgodnie z przepisami o rachunkowości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Koszty, o których mowa w ust. 1, określa się, przyjmując ustalone dla pierwszego roku okresu regulacji planowane wielkości, w tym ilość sprzedanej energii elektrycznej i wielkość mocy umownej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Koszty wynikające z inwestycji modernizacyjnych, rozwojowych i z zakresu ochrony środowiska, o których mowa w § 10 ust. 1 pkt 2, ustala się jako roczne koszty związane z eksploatacją urządzeń i instalacji, przekazywanych do eksploatacji po zakończeniu tych inwestycji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Koszty, o których mowa w ust. 1, przedsiębiorstwo energetyczne ustala na podstawie obowiązującego dla przedsiębiorstwa planu inwestycji oraz określonego w tym planie sposobu finansowania i harmonogramu realizacji poszczególnych przedsięwzięć inwestycyjnych w zakresie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_2/pkt_1",
+       "text": "wytwarzania energii elektrycznej — planu inwestycji rozwojowych, modernizacyjnych i związanych z ochroną środowiska, dla źródeł energii elektrycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_2/pkt_2",
+       "text": "przesyłania i dystrybucji energii elektrycznej — planu rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na energię elektryczną, o którym mowa w art. 16 ust. 1 ustawy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Koszty związane z eksploatacją urządzeń i instalacji przekazywanych do eksploatacji w wyniku inwestycji rozwojowych, modernizacyjnych i z zakresu ochrony środowiska, o których mowa w ust. 1 i 2, obejmują w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_3/pkt_1",
+       "text": "odpisy amortyzacyjne, obliczone zgodnie z obowiązującymi przepisami dla środków trwałych przekazywanych do eksploatacji w wyniku inwestycji rozwojowych, modernizacyjnych i z zakresu ochrony środowiska;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_3/pkt_2",
+       "text": "odsetki od kredytów zaciągniętych na realizację tych inwestycji oraz koszty finansowe związane z obsługą tych kredytów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_3/pkt_3",
+       "text": "koszty kalkulacyjne, związane z eksploatacją nowych urządzeń i instalacji w zakresie kosztów robocizny, zużycia materiałów, paliw, energii, wody, usuwania odpadów, transportu, remontów i innych kosztów, wynikających z rodzaju urządzeń i instalacji oraz warunków ich pracy.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Koszty wspólne dla wszystkich lub kilku grup taryfowych oraz koszty wspólne dla wszystkich lub kilku rodzajów prowadzonej przez przedsiębiorstwo energetyczne działalności gospodarczej, w tym koszty modernizacji i rozwoju oraz ochrony środowiska, dzieli się na poszczególne grupy taryfowe i na poszczególne rodzaje prowadzonej działalności gospodarczej, zgodnie z przyjętą w przedsiębiorstwie metodą podziału kosztów i zachowaniem należytej staranności w sposobie zaliczania tych kosztów do poszczególnych grup taryfowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Przedsiębiorstwo energetyczne, w okresie regulacji, nie może dokonać zmiany metody podziału kosztów wspólnych i zmiany podziału odbiorców na grupy taryfowe. Dokonanie zmiany metody podziału kosztów wspólnych może nastąpić wyłącznie w celu eliminowania subsydiowania skrośnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Koszty stanowiące podstawę kalkulacji cen i stawek opłat ustalonych w taryfie mogą obejmować koszty współfinansowania przez przedsiębiorstwo energetyczne przedsięwzięć i usług, o których mowa w art. 45 ust. 2 i 3 ustawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Wytwórca kalkuluje, z zastrzeżeniem § 15, ustalone w taryfie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_1/pkt_1",
+       "text": "ceny energii elektrycznej — na podstawie sumy jednostkowych kosztów stałych i jednostkowych kosztów zmiennych, ustalonych w sposób określony w ust. 3 i 4, wyrażone w złotych za MWh;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_1/pkt_2",
+       "text": "stawki opłat za rezerwy mocy — na podstawie jednostkowych kosztów stałych, ustalonych w sposób określony w ust. 3, wyrażone w złotych za MW za godzinę;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_14/ust_1/pkt_3",
+       "text": "stawki opłat za usługi systemowe — na podstawie kosztów uzasadnionych stałych i zmiennych świadczenia tych usług, wynikających ze zwiększenia kosztów ponad koszty produkcji energii elektrycznej, o których mowa w pkt 1 i 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Stawki opłat, o których mowa w ust. 1 pkt 3, mogą być kalkulowane z podziałem na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_2/pkt_1",
+       "text": "składnik stały — za utrzymanie gotowości do świadczenia poszczególnych rodzajów usług systemowych, wyrażony w złotych za godzinę, lub miesiąc lub w złotych za MW za godzinę, lub złotych za MW za miesiąc;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_2/pkt_2",
+       "text": "składnik zmienny — za świadczenie usług systemowych, wyrażony w złotych za MWh.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_14/ust_3",
+     "text": "Jednostkowe koszty stałe oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "K k = —————— sp js n n ΣP + ΣP"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "k — jednostkowe koszty stałe [w zł/MWh]; K js — koszty stałe planowane na rok obowiązywasp nia taryfy, ustalone dla jednostki wytwórczej lub grup takich jednostek, dla których są kalkulowane ceny i stawki opłat, ustalone na podstawie kosztów uzasadnionych eksploatacji tych jednostek oraz kosztów uzasadnionych wynikających z nakładów na rozwój i modernizację tych jednostek, z wyłączeniem kosztów wymienionych w ust. 4 [w zł];"
+      },
+      {
+       "type": "text",
+       "text": "P — moc dyspozycyjną planowaną na każdą godwi dzinę dla danej jednostki wytwórczej lub grup takich jednostek, wykorzystaną do produkcji energii elektrycznej sprzedawanej w danym roku obowiązywania taryfy [w MWh];"
+      },
+      {
+       "type": "text",
+       "text": "P — moc dyspozycyjną jednostki wytwórczej lub dri grup takich jednostek, planowaną do sprzedaży jako rezerwa mocy w poszczególnych godzinach, w danym roku obowiązywania taryfy [w MWh];"
+      },
+      {
+       "type": "text",
+       "text": "n — liczbę godzin, planowaną odpowiednio do mocy dyspozycyjnej oznaczonej symbolem „P ” albo mocy dyspozycyjnej, oznaczonej symbolem dwi „P dri ”, w danym roku obowiązywania taryfy."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_14/ust_4",
+     "text": "Jednostkowe koszty zmienne oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "K + K + K zp ze zw k = ——————— jz E jw"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "k — jednostkowe koszty zmienne [w zł/MWh]; K jz — koszty paliwa łącznie z kosztami jego transzp portu i składowania, planowanego do zużycia w danym roku obowiązywania taryfy dla jednostki wytwórczej lub grup takich jednostek [w zł];"
+      },
+      {
+       "type": "text",
+       "text": "K — koszty opłat za gospodarcze korzystanie ze ze środowiska przyrodniczego oraz składowanie odpadów paleniskowych, planowane dla jednostki wytwórczej lub grup takich jednostek w danym roku obowiązywania taryfy [w zł];"
+      },
+      {
+       "type": "text",
+       "text": "K — pozostałe koszty zmienne planowane dla jedzw nostki wytwórczej lub grup takich jednostek w danym roku obowiązywania taryfy [w zł];"
+      },
+      {
+       "type": "text",
+       "text": "E — ilość energii elektrycznej planowaną do jw sprzedaży, a wytworzoną przez jednostkę wytwórczą lub grupę takich jednostek, w danym roku obowiązywania taryfy [w MWh]."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Cenę energii elektrycznej wytworzonej przez skojarzone źródło energii oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "C = C x [1 + (RPI – X )/100] s k n–1 n"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "C — cenę energii elektrycznej wytworzonej w skos jarzeniu z wytwarzaniem ciepła, ustaloną na dany rok obowiązywania taryfy [w zł/MWh];"
+      },
+      {
+       "type": "text",
+       "text": "C — średnią cenę energii elektrycznej wytwok rzonej w krajowym systemie elektroenergetycznym w jednostkach wytwórczych kondensacyjnych, w roku kalendarzowym poprzedzającym rok obowiązywania taryfy [w zł/MWh];"
+      },
+      {
+       "type": "text",
+       "text": "RPI — średnioroczny wskaźnik cen towarów i usług n–1 konsumpcyjnych ogółem w roku kalendarzowym poprzedzającym rok obowiązywania taryfy, określony w komunikacie Prezesa Głównego Urzędu Statystycznego, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” [w %];"
+      },
+      {
+       "type": "text",
+       "text": "X — współczynnik korekcyjny, określający pron jektowaną poprawę efektywności funkcjonowania przedsiębiorstwa energetycznego oraz zmianę warunków prowadzenia przez to przedsiębiorstwo danego rodzaju działalności gospodarczej w danym roku obowiązywania taryfy [w %]. Współczynnik korekcyjny na pierwszy rok okresu regulacji uwzględnia się w cenie energii elektrycznej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Przez skojarzone źródło energii, o którym mowa w ust. 1, rozumie się jednostkę wytwórczą wytwarzającą energię elektryczną i ciepło ze sprawnością przemiany energii chemicznej paliwa w energię elektryczną i ciepło łącznie co najmniej 70 %, obliczoną jako średnioroczna w roku kalendarzowym poprzedzającym rok wprowadzenia do stosowania taryfy dla energii elektrycznej wytwarzanej w tej jednostce. W przypadku nowo budowanych jednostek wytwórczych sprawność przemiany, dla pierwszego roku obowiązywania taryfy dla tych jednostek, oblicza się na podstawie wielkości planowanych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_15/ust_3",
+     "text": "Średnią cenę energii elektrycznej wytworzonej w krajowym systemie elektroenergetycznym w jednostkach wytwórczych kondensacyjnych C , o której mowa w ust. 1, oblicza się jako iloraz przychodów k ze sprzedaży tej energii oraz ilości sprzedanej energii elektrycznej; do obliczeń tych stosuje się dane statystyczne publikowane przez Główny Urząd Statystyczny lub inną upoważnioną jednostkę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_15/ust_4",
+     "text": "Cenę energii elektrycznej wytworzonej przez jednostkę wytwórczą lub grupę takich jednostek w skojarzeniu z wytwarzaniem ciepła, ze sprawnością przemiany energii chemicznej paliwa w energię elektryczną i ciepło mniejszą niż 70 %, obliczoną jako średnioroczną w danym roku obowiązywania taryfy, ustala się w taryfie w sposób określony w § 14.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_15/ust_5",
+     "text": "Taryfy dla energii elektrycznej i ciepła dla źródeł, w których występuje skojarzone wytwarzanie ciepła i energii elektrycznej, ustala się dla tego samego okresu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Stawki opłat za przyłączenie do sieci, o których mowa w § 7 ust. 2 pkt 1, kalkuluje się na podstawie jednej czwartej średniorocznych nakładów inwestycyjnych na budowę odcinków sieci służących do przyłączenia podmiotów określonych w obowiązującym dla przedsiębiorstwa energetycznego planie rozwoju, o którym mowa w art. 16 ust. 1 ustawy, dla okresu regulacji, oddzielnie dla każdej grupy przyłączeniowej w przeliczeniu na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_1/pkt_1",
+       "text": "jednostkę mocy przyłączeniowej lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_1/pkt_2",
+       "text": "jednostkę długości odcinka sieci od miejsca przyłączenia do miejsca rozgraniczenia własności instalacji, urządzeń lub sieci, określonych w umowie o przyłączenie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "W nakładach inwestycyjnych, o których mowa w ust. 1, uwzględnia się wydatki ponoszone na wykonanie prac projektowych i geodezyjnych, uzgodnienia dokumentacji, uzyskania pozwoleń na budowę, zakup lub budowę elementów odcinków sieci służących do przyłączenia podmiotów z uwzględnieniem długości tych odcinków, wykonanie robót budowlano-montażowych wraz z nadzorem oraz wykonanie niezbędnych prób, a także uwzględnia się opłaty za zajęcie terenu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Stawki opłat za przyłączenie do sieci, o których mowa w ust. 1, różnicuje się w zależności od rodzaju elementów stosowanych do budowy odcinków sieci służących do przyłączenia podmiotów oraz standardów jakościowych dostarczanej energii elektrycznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Stawki opłat przesyłowych, o których mowa w § 7 ust. 2 pkt 2, kalkuluje się z uwzględnieniem podziału na stawki:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_17/ust_1/pkt_1",
+       "text": "sieciowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_17/ust_1/pkt_2",
+       "text": "systemowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_17/ust_1/pkt_3",
+       "text": "rozliczeniowe.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Stawkę systemową, o której mowa w ust. 1 pkt 2, kalkuluje się z uwzględnieniem podziału na składniki:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_17/ust_2/pkt_1",
+       "text": "jakościowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_17/ust_2/pkt_2",
+       "text": "rekompensujący;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_17/ust_2/pkt_3",
+       "text": "wyrównawczy.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Stawki sieciowe, o których mowa w § 17 ust. 1 pkt 1, kalkuluje się z uwzględnieniem podziału sieci na następujące poziomy napięć znamionowych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_1/pkt_1",
+       "text": "niskie — obejmujące napięcia znamionowe nie wyższe niż 1 kV;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_1/pkt_2",
+       "text": "średnie — obejmujące napięcia znamionowe wyższe niż 1 kV i niższe niż 110 kV;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_1/pkt_3",
+       "text": "wysokie — obejmujące napięcie znamionowe 110 kV;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_18/ust_1/pkt_4",
+       "text": "najwyższe — obejmujące napięcia znamionowe wyższe niż 110 kV.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Stawki sieciowe kalkuluje się dla sieci poszczególnych poziomów napięć znamionowych, wymienionych w ust. 1, jako stawki dwuskładnikowe z podziałem na składnik:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_2/pkt_1",
+       "text": "stały stawki sieciowej — obliczany na jednostkę mocy umownej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_2/pkt_2",
+       "text": "zmienny stawki sieciowej — obliczany na jednostkę energii elektrycznej pobieranej z sieci w miejscu jej dostarczania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_18/ust_3",
+     "text": "Stawki sieciowe kalkuluje się na podstawie kosztów uzasadnionych świadczenia usług przesyłowych oraz kosztów zakupionych usług przesyłowych od innych operatorów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Składnik stały stawki sieciowej, o którym mowa w § 18 ust. 2 pkt 1, kalkuluje się, dla odbiorców przyłączonych do sieci danego poziomu napięć znamionowych, na podstawie kosztów uzasadnionych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_1/pkt_1",
+       "text": "eksploatacji sieci danego poziomu napięć znamionowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_1/pkt_2",
+       "text": "wynikających z nakładów na odtworzenie, modernizację i rozwój sieci, służących do realizacji usługi przesyłowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_19/ust_1/pkt_3",
+       "text": "stałych przesyłania energii elektrycznej sieciami innych poziomów napięć znamionowych i sieciami należącymi do innych operatorów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_19/ust_1/pkt_4",
+       "text": "zakupu rezerw w zdolnościach przesyłowych w sieciach należących do innych operatorów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_19/ust_1/pkt_5",
+       "text": "wynikających z nakładów na budowę odcinków sieci służących do przyłączenia podmiotów do sieci danego poziomu napięć znamionowych, z wyłączeniem kosztów, o których mowa w art. 7 ust. 6 ustawy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Składnik zmienny stawki sieciowej, o którym mowa w § 18 ust. 2 pkt 2, kalkuluje się, dla odbiorców przyłączonych do sieci danego poziomu napięć znamionowych, na podstawie kosztów uzasadnionych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_2/pkt_1",
+       "text": "zakupu energii elektrycznej w ilości niezbędnej do pokrycia różnicy między ilością energii elektrycznej wprowadzanej do sieci danego poziomu napięć znamionowych a ilością energii pobranej z tej sieci przez odbiorców i przesłanej do sieci innych poziomów napięć znamionowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_2/pkt_2",
+       "text": "zmiennych za przesyłanie energii elektrycznej sieciami innych poziomów napięć znamionowych i sieciami należącymi do innych operatorów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_19/ust_2/pkt_3",
+       "text": "stałych za przesyłanie energii elektrycznej, w części nieuwzględnionej w składniku stałym, o którym mowa w ust. 1, zgodnie z art. 45 ust. 5 ustawy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Składnik stały stawki sieciowej, o którym mowa w § 18 ust. 2 pkt 1, dla odbiorców przyłączonych do sieci danego poziomu napięć znamionowych kalkuluje się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "K S = ——— SVn SVn P Vn"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "S — składnik stały stawki sieciowej [w zł za MW]; K SVn — sumę kosztów stałych, o których mowa SVn w ust. 1;"
+      },
+      {
+       "type": "text",
+       "text": "P — sumę mocy umownych pobieranych przez Vn odbiorców, w tym innych operatorów z sieci o poziomie napięcia znamionowego V n ."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_19/ust_4",
+     "text": "Składnik zmienny stawki sieciowej, o którym mowa w § 18 ust. 2 pkt 2, dla odbiorców przyłączonych do sieci danego poziomu napięć znamionowych kalkuluje się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "K S = ——— ZVn"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "S — składnik zmienny stawki sieciowej [w zł za"
+      },
+      {
+       "type": "text",
+       "text": "K — sumę kosztów zmiennych, o których mowa ZVn w ust. 2;"
+      },
+      {
+       "type": "text",
+       "text": "E — sumę energii elektrycznej pobranej z sieci Vn o poziomie napięcia znamionowego V przez odbiorców przyłączonych na tym poziomie n napięć znamionowych, w tym operatorów, oraz przesłanej do sieci innych poziomów napięć znamionowych."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Składnik jakościowy stawki systemowej, o którym mowa w § 17 ust. 2 pkt 1, kalkuluje się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "K S = —— SJ oSJ E S"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "S — składnik jakościowy stawki systemowej [w zł oSJ za MWh];"
+      },
+      {
+       "type": "text",
+       "text": "K — koszty utrzymania systemowych standardów SJ jakości i niezawodności bieżących dostaw energii elektrycznej;"
+      },
+      {
+       "type": "text",
+       "text": "E — ilość energii elektrycznej pobieraną przez od- S biorców z sieci krajowego systemu elektroenergetycznego [w MWh]."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Koszty utrzymania systemowych standardów jakości i niezawodności bieżących dostaw energii elektrycznej, o których mowa w ust. 1, obejmują koszty:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_20/ust_2/pkt_1",
+       "text": "zakupionych, przez operatora systemu przesyłowego, niezbędnych rezerw mocy i usług systemowych, na podstawie cen ustalonych w taryfach lub w warunkach konkurencji, o których mowa w art. 49 ustawy, albo cen negocjowanych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_20/ust_2/pkt_2",
+       "text": "zakupionej, przez operatora systemu przesyłowego, niezbędnej ilości energii elektrycznej wytwarzanej w celu zapewnienia odpowiedniej jakości dostaw tej energii, określonych jako różnica między płatnościami za energię elektryczną a przychodami ze sprzedaży tej energii na rynku bilansującym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_20/ust_3",
+     "text": "Składnik rekompensujący stawki systemowej, o którym mowa w § 17 ust. 2 pkt 2, kalkuluje się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "K S = —— SS"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "S — składnik rekompensujący stawki systemowej oSS [w zł za MWh];"
+      },
+      {
+       "type": "text",
+       "text": "K — koszty wynikające z rozliczeń za energię elek- SS tryczną wytworzoną w skojarzeniu z wytwarzaniem ciepła, planowaną do zakupu w ilości wynikającej z obowiązku określonego w przepisach wydanych na podstawie art. 9a ust. 4 ustawy, kalkulowane w sposób określony w ust. 4 [w zł];"
+      },
+      {
+       "type": "text",
+       "text": "E — ilość energii elektrycznej pobieraną przez od- S biorców z sieci krajowego systemu elektroenergetycznego [w MWh]."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_20/ust_4",
+     "text": "Koszty oznaczone symbolem „K ”, o których mowa w ust. 3, kalkuluje się według wzoru: SS K = Σ n O SS i=1 Rei",
+     "children": [
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "K — koszty wynikające z rozliczeń za energię elek- SS tryczną wytworzoną w skojarzeniu z wytwarzaniem ciepła [w zł];"
+      },
+      {
+       "type": "text",
+       "text": "O — roczną, planowaną kwotę opłat rekompensują- Rei cych, o których mowa w § 31 ust. 1, płaconych, przez operatora systemu przesyłowego, danemu operatorowi systemu dystrybucyjnego za zakupioną energię elektryczną wytwarzaną w skojarzeniu z wytwarzaniem ciepła, ustaloną w sposób określony w § 31 ust. 1 [w zł];"
+      },
+      {
+       "type": "text",
+       "text": "n — ilość operatorów systemów dystrybucyjnych kupujących energię wytwarzaną w skojarzeniu."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_20/ust_5",
+     "text": "Składnik wyrównawczy stawki systemowej, o którym mowa w § 17 ust. 2 pkt 3, kalkuluje się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "K S = ——— SW oSW E S"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "S — składnik wyrównawczy stawki systemowej oSW [w zł za MWh];"
+      },
+      {
+       "type": "text",
+       "text": "K — koszty usług dodatkowych polegających na SW utrzymywaniu wymaganego stanu krajowego systemu elektroenergetycznego, świadczonych przez zarządcę kontraktów, o którym mowa w § 29, na rzecz operatora systemu przesyłowego poprzez wykonanie postanowień umów sprzedaży mocy i energii elektrycznej umożliwiających realizację przedsięwzięć inwestycyjnych, o których mowa w art. 45 ust. 1a ustawy, zwanych dalej „umowami długoterminowymi”, kalkulowane w sposób określony w ust. 6;"
+      },
+      {
+       "type": "text",
+       "text": "E — ilość energii elektrycznej pobieraną z sieci S krajowego systemu elektroenergetycznego przez odbiorców [w MWh]."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_20/ust_6",
+     "text": "Koszty usług dodatkowych, o których mowa w ust. 5, kalkuluje się jako roczne koszty wynikające z nakładów inwestycyjnych ponoszonych na przedsięwzięcia inwestycyjne, o których mowa w art. 45 ust. 1a ustawy, określone jako suma różnic między zweryfikowanymi planowanymi płatnościami wynikającymi z umów długoterminowych a planowanymi przychodami ze sprzedaży mocy i energii elektrycznej, obliczane według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "K = (C – C ) x E"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "K — koszty usług dodatkowych, o których mowa SW w ust. 5;"
+      },
+      {
+       "type": "text",
+       "text": "C — planowaną średnią cenę zakupu energii elek- KD trycznej, na podstawie umów długoterminowych, przeznaczonej do sprzedaży odbiorcom, dla których stosuje się jeden zestaw cen lub stawek opłat i warunków ich stosowania, przez zarządcę kontraktów, o którym mowa w § 29, podwyższoną o jednostkowe koszty własne obrotu tą energią i koszty ryzyka handlowego zarządcy kontraktów [w zł za MWh]; w kalkulacji ceny zakupu energii elektrycznej nie uwzględnia się planowanych przychodów ze sprzedaży rezerw mocy i usług, uzyskanych od jednostek wytwórczych objętych umowami długoterminowymi;"
+      },
+      {
+       "type": "text",
+       "text": "C — planowaną średnią cenę sprzedaży energii TH elektrycznej określoną na podstawie cen ustalonych w taryfie zarządcy kontraktów, o którym mowa w § 29 [w zł za MWh];"
+      },
+      {
+       "type": "text",
+       "text": "E — ilość energii elektrycznej planowaną do KD sprzedaży odbiorcom, dla których stosuje się jeden zestaw cen lub stawek opłat i warunków ich stosowania, przez zarządcę kontraktów, o którym mowa w § 29 [w MWh]."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Operator systemu przesyłowego kalkuluje stawkę rozliczeniową, o której mowa w § 17 ust. 1 pkt 3, dla podmiotów zgłaszających grafiki obciążeń, na podstawie kosztów uzasadnionych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Stawkę rozliczeniową kalkuluje się jako iloraz kosztów uzasadnionych budowy i rozwoju systemów bilansowo-rozliczeniowych oraz ich eksploatacji, niezbędnych do realizacji umów sprzedaży energii elektrycznej zgłoszonych w formie grafików obciążeń, do ilości energii elektrycznej określonej w tych grafikach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_21/ust_3",
+     "text": "Operator systemu dystrybucyjnego elektroenergetycznego może kalkulować stawkę rozliczeniową na podstawie kosztów zakupu usług przesyłowych, w części przypadającej na opłatę rozliczeniową oraz własnych kosztów, o których mowa w ust. 2, nieuwzględnionych do kalkulacji składnika stałego stawki sieciowej, wymienionego w § 18 ust. 2 pkt 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Przedsiębiorstwo energetyczne zajmujące się przesyłaniem i dystrybucją energii elektrycznej może ustalić w taryfie stawki opłat i sposób obliczania opłat pobieranych za usługi lub czynności wykonywane na dodatkowe zlecenie przyłączonego podmiotu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Stawki opłat, o których mowa w ust. 1, kalkuluje się na podstawie kosztów uzasadnionych realizacji usług lub czynności, w sposób eliminujący subsydiowanie skrośne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_22/ust_3",
+     "text": "Opłaty, o których mowa w ust. 1, ustala się za:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_22/ust_3/pkt_1",
+       "text": "przerwanie i wznowienie dostarczania energii elektrycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_22/ust_3/pkt_2",
+       "text": "sprawdzenie prawidłowości wskazań układu pomiarowo-rozliczeniowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_22/ust_3/pkt_3",
+       "text": "usługi pogotowia technicznego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Przedsiębiorstwo energetyczne zajmujące się obrotem energią elektryczną kalkuluje ceny energii elektrycznej na podstawie kosztów uzasadnionych zakupu tej energii oraz własnych kosztów uzasadnionych prowadzonej działalności w zakresie obrotu energią elektryczną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "Koszty uzasadnione zakupu energii elektrycznej obejmują koszty zakupionej energii z zachowaniem zasad konkurencji i minimalizacji kosztów jej zakupu oraz kosztów zakupionych usług przesyłowych, jeżeli tak stanowi umowa sprzedaży energii elektrycznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_23/ust_3",
+     "text": "Własne koszty uzasadnione ustala się na podstawie kosztów prowadzenia działalności gospodarczej w zakresie obrotu energią elektryczną, w tym kosztów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_23/ust_3/pkt_1",
+       "text": "obsługi handlowej związanej z obrotem energią elektryczną, z wyłączeniem kosztów przyjętych do kalkulacji stawki opłaty abonamentowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_23/ust_3/pkt_2",
+       "text": "finansowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_23/ust_4",
+     "text": "Jednoskładnikową stawkę opłaty za dostarczaną odbiorcy energię elektryczną, o której mowa w § 8 ust. 4, kalkuluje się na podstawie łącznych kosztów zakupu tej energii i świadczenia usługi przesyłowej, w przeliczeniu na jednostkę dostarczonej odbiorcy energii elektrycznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Stawkę opłaty abonamentowej, o której mowa w § 7 ust. 2 pkt 3 i ust. 3 pkt 2, kalkuluje się na podstawie kosztów uzasadnionych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_24/pkt_1",
+     "text": "ponoszonych w związku z odczytywaniem wskazań układów pomiarowo-rozliczeniowych i ich kontrolą;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_24/pkt_2",
+     "text": "handlowej obsługi odbiorców, polegającej na wystawianiu faktur i ich dostarczaniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Przy ustalaniu wysokości cen i stawek opłat, o których mowa w § 7, obliczonych w sposób określony w § 14 i 15 oraz § 19—24, dopuszcza się uwzględnienie zysku, którego wysokość wynika z analizy nakładów na przedsięwzięcia inwestycyjne ujęte w planach, o których mowa w § 12 ust. 2, przy zapewnieniu ochrony interesów odbiorców przed nieuzasadnionym poziomem cen.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_26/ust_1",
+     "text": "W celu określenia dopuszczalnych zmian cen i stawek opłat na dany rok okresu regulacji przedsiębiorstwo energetyczne ustala ceny wskaźnikowe dla poszczególnych rodzajów prowadzonej działalności gospodarczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "Ceny wskaźnikowe, o których mowa w ust. 1, muszą spełniać warunek określony wzorem:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Cw ≤ Cw x [1 + (RPI 1 – X )/100]"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "Cw — cenę wskaźnikową dla danego rodzaju n działalności gospodarczej w danym roku okresu regulacji;"
+      },
+      {
+       "type": "text",
+       "text": "Cw — cenę wskaźnikową dla danego rodzaju n–1 działalności gospodarczej w roku poprzedzającym dany rok okresu regulacji;"
+      },
+      {
+       "type": "text",
+       "text": "RPI — średnioroczny wskaźnik cen towarów n–1 i usług konsumpcyjnych ogółem, w poprzednim roku kalendarzowym, określony w komunikacie Prezesa Głównego Urzędu Statystycznego, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” [w %];"
+      },
+      {
+       "type": "text",
+       "text": "X — współczynnik korekcyjny, określający pron jektowaną poprawę efektywności funkcjonowania przedsiębiorstwa energetycznego oraz zmianę warunków prowadzenia przez nie danego rodzaju działalności gospodarczej [w %]. Współczynnik korekcyjny na pierwszy rok okresu regulacji uwzględnia się w cenach i stawkach opłat zawartych w taryfach."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_26/ust_3",
+     "text": "Ceny wskaźnikowe, o których mowa w ust. 1, ustala się w zakresie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_26/ust_3/pkt_1",
+       "text": "wytwarzania energii elektrycznej oraz obrotu tą energią, jako średnią cenę sprzedanej energii elektrycznej, stanowiącą iloraz kalkulacyjnych przychodów z jej sprzedaży oraz stawek opłat abonamentowych, wyliczanych według cen i stawek opłat planowanych na dany rok okresu regulacji, przy uwzględnieniu wielkości i struktury sprzedaży przyjętych do kalkulacji taryfy na pierwszy rok okresu regulacji, zwany dalej „okresem bazowym”, do ilości sprzedaży tej energii przyjętej do kalkulacji taryfy na okres bazowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_26/ust_3/pkt_2",
+       "text": "przesyłania i dystrybucji energii elektrycznej, jako średnią cenę dostarczania energii elektrycznej, stanowiącą iloraz kalkulacyjnych przychodów ze sprzedaży usług przesyłowych oraz stawek opłat abonamentowych, wyliczanych na podstawie stawek opłat planowanych w taryfie na dany rok okresu regulacji, przy uwzględnieniu wielkości i struktury sprzedaży tych usług w okresie bazowym, do ilości dostaw energii elektrycznej przyjętej do kalkulacji taryfy na okres bazowy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_26/ust_4",
+     "text": "W przychodach, określonych w ust. 3 pkt 1, nie uwzględnia się bonifikat i upustów oraz przychodów uzyskanych z opłat:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_26/ust_4/pkt_1",
+       "text": "za nielegalny pobór energii elektrycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_26/ust_4/pkt_2",
+       "text": "za niedotrzymanie warunków umów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_26/ust_5",
+     "text": "W przychodach, określonych w ust. 3 pkt 2, nie uwzględnia się bonifikat i upustów oraz przychodów uzyskanych z opłat:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_26/ust_5/pkt_1",
+       "text": "za przyłączenie do sieci;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_26/ust_5/pkt_2",
+       "text": "za usługi lub czynności wymienione w § 22 ust. 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_26/ust_5/pkt_3",
+       "text": "za nielegalny pobór energii elektrycznej.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_27/ust_1",
+     "text": "Jeżeli ochrona interesów odbiorców wymaga subsydiowania niektórych grup taryfowych, przedsiębiorstwo energetyczne może ustalić ceny i stawki opłat dla subsydiowanych grup taryfowych, których poziom nie może być wyższy, w stosunku do ostatnio stosowanych cen i stawek opłat, o więcej niż 3 punkty procentowe ponad średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem w poprzednim roku kalendarzowym, określony w komunikacie Prezesa Głównego Urzędu Statystycznego, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, z zastrzeżeniem ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_27/ust_2",
+     "text": "Jeżeli wzrost cen i stawek opłat, dla subsydiowanych grup taryfowych, jest skutkiem eliminowania subsydiowania skrośnego pomiędzy poszczególnymi rodzajami działalności gospodarczej w zakresie zaopatrzenia w energię elektryczną w sposób, który powoduje, że dla określonej grupy taryfowej wraz ze wzrostem składnika zmiennego poszczególnych cen i stawek opłat następuje spadek składnika zmiennego innych cen i stawek opłat, wzrost sumy tych składników w taryfie, która będzie stosowana, w stosunku do sumy odpowiednich składników w poprzedniej taryfie nie może być wyższy o więcej niż 3 punkty procentowe ponad średnioroczny wskaźnik cen towarów i usług konsumpcyjnych określony w komunikacie, o którym mowa w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_28/ust_1",
+     "text": "W przypadku nowo tworzonego przedsiębiorstwa energetycznego lub podejmowania przez istniejące przedsiębiorstwo nowego rodzaju działalności gospodarczej w zakresie zaopatrzenia w energię elektryczną, taryfę oraz cenę wskaźnikową ustala się na podstawie planowanych wielkości kosztów, przychodów i sprzedaży, a także na podstawie analiz porównawczych z innymi przedsiębiorstwami energetycznymi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_28/ust_2",
+     "text": "Przedsiębiorstwo energetyczne powstałe w wyniku łączenia z innymi podmiotami lub podziału przedsiębiorstwa energetycznego prowadzącego działalność w zakresie zaopatrzenia w energię elektryczną zachowuje prawo do prowadzenia rozliczeń z odbiorcami na podstawie cen i stawek opłat ustalonych w taryfie przedsiębiorstwa, które uległo podziałowi albo zostało połączone z innymi podmiotami, do dnia wejścia w życie taryfy ustalonej przez to przedsiębiorstwo i zatwierdzonej przez Prezesa Urzędu Regulacji Energetyki, jednak nie dłużej niż przez okres 9 miesięcy od dnia rozpoczęcia działalności, na którą uzyskało koncesję.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_28/ust_3",
+     "text": "Przedsiębiorstwo, o którym mowa w ust. 2, oblicza ceny wskaźnikowe w sposób określony w § 26.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Szczegółowe zasady rozliczeń w obrocie energią elektryczną"
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "Wytwórca będący stroną umowy długoterminowej dokonuje rozliczenia kosztów, o których mowa w art. 45 ust. 1a ustawy, z przedsiębiorstwem energetycznym będącym stroną tej umowy, zwanym dalej „zarządcą kontraktów”, zgodnie z postanowieniami umowy długoterminowej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "Zarządca kontraktów dokonuje rozliczenia kosztów, o których mowa w § 20 ust. 5, z operatorem systemu przesyłowego, obliczając opłatę według wzoru:",
+   "children": [
+    {
+     "type": "text",
+     "text": "O = S x E SW oSW s"
+    },
+    {
+     "type": "text",
+     "text": "gdzie poszczególne symbole oznaczają:"
+    },
+    {
+     "type": "text",
+     "text": "O — opłatę za usługi dodatkowe, o których mowa SW w § 20 ust. 5 [w zł za okres rozliczeniowy];"
+    },
+    {
+     "type": "text",
+     "text": "S — składnik wyrównawczy stawki systemowej oSW [w zł za MWh];"
+    },
+    {
+     "type": "text",
+     "text": "E — ilość energii elektrycznej pobieraną przez s odbiorców z sieci krajowego systemu elektroenergetycznego [w MWh za okres rozliczeniowy]."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_31/ust_1",
+     "text": "Przedsiębiorstwo energetyczne będące jednocześnie operatorem systemu dystrybucyjnego kupując energię elektryczną wytwarzaną w skojarzeniu z wytwarzaniem ciepła po cenach ustalonych w sposób określony w § 15 ust. 1, rozlicza się z operatorem systemu przesyłowego, obliczając opłatę rekompensującą według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "O = (C – C ) x E Re s or ws"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "O — opłatę rekompensującą [w zł za miesiąc]; C Re — cenę zakupu energii elektrycznej wytwarzanej s w skojarzeniu z wytwarzaniem ciepła, obliczoną w sposób określony w § 15 ust. 1 [w zł za MWh];"
+      },
+      {
+       "type": "text",
+       "text": "C — roczną cenę energii elektrycznej, ustaloną jaor ko iloraz sumy przychodów uzyskanych ze sprzedaży energii elektrycznej wytwarzanej w jednostkach wytwórczych nieobjętych umowami długoterminowymi do ilości energii sprzedanej, a wytworzonej w tych jednostkach, w poprzednim roku kalendarzowym;"
+      },
+      {
+       "type": "text",
+       "text": "E — ilość energii elektrycznej wytwarzanej w skows jarzeniu z wytwarzaniem ciepła, zakupionej w danym okresie rozliczeniowym po cenie oznaczonej symbolem „Cs” [w MWh]."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_31/ust_2",
+     "text": "Jeżeli energia elektryczna wytwarzana w skojarzeniu z wytwarzaniem ciepła jest sprzedawana na rynku bilansującym, roczną cenę, o której mowa w ust. 1, przyjmuje się w wysokości ceny uzyskanej ze sprzedaży tej energii w danym okresie rozliczeniowym na tym rynku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "Rozliczenia, między przedsiębiorstwami energetycznymi za dostarczoną energię elektryczną lub świadczone usługi przesyłowe, są prowadzone na podstawie danych rozliczeniowych dotyczących okresu rozliczeniowego ustalonego w taryfie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Podstawą do rozliczeń, o których mowa w ust. 1, są wskazania liczników, układów pomiarowo-rozliczeniowych, rejestrowane wielkości niemierzalne oraz algorytmy ich przetwarzania na dane rozliczeniowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_32/ust_3",
+     "text": "Dopuszcza się stosowanie w rozliczeniach wstępnych danych rozliczeniowych lub wielkości zastępczych, obliczonych w sposób określony w taryfie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_33/ust_1",
+     "text": "Opłatę przesyłową dla danego poziomu napięć znamionowych oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "O = S x P + S x E + k x S x E + S x E poi SVn i ZVn pi oi oS oi pr zi"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "O — opłatę przesyłową obliczoną dla danego odpoi biorcy [w zł za okres rozliczeniowy];"
+      },
+      {
+       "type": "text",
+       "text": "S — składnik stały stawki sieciowej za okres roz- SVn liczeniowy [w zł/MW mocy umownej];"
+      },
+      {
+       "type": "text",
+       "text": "P — moc umowną określoną dla danego odbiori cy [w MW];"
+      },
+      {
+       "type": "text",
+       "text": "S — składnik zmienny stawki sieciowej ZVn [w zł/MWh];"
+      },
+      {
+       "type": "text",
+       "text": "E — ilość energii elektrycznej pobranej z sieci pi przez danego odbiorcę [w MWh za okres rozliczeniowy];"
+      },
+      {
+       "type": "text",
+       "text": "k — współczynnik udziału odbiorcy w pokrywaoi niu kosztów systemowych ustalonych dla danego odbiorcy w sposób określony w ust. 2;"
+      },
+      {
+       "type": "text",
+       "text": "S — stawkę systemową, określoną jako suma oS składników wymienionych w § 17 ust. 2 [w zł/MWh];"
+      },
+      {
+       "type": "text",
+       "text": "E — ilość energii elektrycznej pobraną z sieci przez oi odbiorców, o których mowa w ust. 2 pkt 1 i 2, lub ustaloną dla operatorów systemów dystrybucyjnych jako ilość energii oznaczoną symbolem „E ”, o której mowa w ust. 2 pkt 3 [w MWh or za okres rozliczeniowy];"
+      },
+      {
+       "type": "text",
+       "text": "S — stawkę rozliczeniową [w zł/MWh]; E pr — ilość energii elektrycznej określoną w zgłozi szonych do operatora grafikach obciążeń [w MWh za okres rozliczeniowy]; dla odbiorców niezgłaszających umów sprzedaży energii elektrycznej E zi = 0."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_33/ust_2",
+     "text": "Współczynnik udziału odbiorcy w pokrywaniu kosztów systemowych ustala się dla:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_33/ust_2/pkt_1",
+       "text": "odbiorców, którzy w poprzednim roku kalendarzowym zużyli na własne potrzeby nie mniej niż 500 GWh energii elektrycznej, z wykorzystaniem nie mniej niż 50 % mocy przyłączeniowej, dla których koszt energii elektrycznej stanowi nie mniej niż 20 % kosztów produkcji jako k oi = k os = 0,1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_33/ust_2/pkt_2",
+       "text": "odbiorców w krajowym systemie elektroenergetycznym, innych niż odbiorcy, o których mowa w pkt 1, którzy całość kupowanej energii zużywają na własne potrzeby jako k = k ; współczynnik ten oblicza się według wzoru: oi ok",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "k = k = [(E + E ) – k x E ] / E"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "E , E — ilość energii elektrycznej pobraną os ok w poprzednim roku kalendarzowym z sieci krajowego systemu elektroenergetycznego, odpowiednio przez tych odbiorców oraz odbiorców, o których mowa w pkt 1 [w MWh];"
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_33/ust_2/pkt_3",
+       "text": "odbiorców będących operatorami systemów dystrybucyjnych, prowadzących rozliczenia za świadczone usługi przesyłowe z operatorem systemu przesyłowego jako k = k ; współczynnik ten oboi or licza się według wzoru:",
+       "children": [
+        {
+         "type": "text",
+         "text": "k = k = (k x E + k x E )/E oi or os osr ok okr or"
+        },
+        {
+         "type": "text",
+         "text": "gdzie poszczególne symbole oznaczają:"
+        },
+        {
+         "type": "text",
+         "text": "k , k , k — współczynniki udziału odbiorcy or os ok w pokrywaniu kosztów systemowych ustalane w sposób określony w pkt 1 i 2;"
+        },
+        {
+         "type": "text",
+         "text": "E , E — ilość energii elektrycznej pobranej osr okr z sieci należących do operatora systemu dystrybucyjnego w poprzednim roku kalendarzowym przez odbiorców, o których mowa w pkt 1 i 2, przyłączanych do sieci tego operatora [w MWh];"
+        },
+        {
+         "type": "text",
+         "text": "E — ilość energii elektrycznej równą sumie or E , E [w MWh]. osr okr"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_33/ust_3",
+     "text": "Opłatę przesyłową dla wytwórców energii elektrycznej lub dostawców tej energii przesyłanej z zagranicy oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "O = S x E pw pr Z"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "O — opłatę przesyłową [w zł za okres rozliczeniowy]; S pw — stawkę rozliczeniową [w zł/MWh]; E pr — ilość energii elektrycznej określoną w zgło- Z szonych do operatora grafikach obciążeń [w MWh za okres rozliczeniowy]."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_33/ust_4",
+     "text": "Opłatę przesyłową dla przedsiębiorstw energetycznych zajmujących się obrotem energią elektryczną nieprzyłączonych do sieci należących do operatora, do którego zgłaszają grafiki obciążeń, oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "O = 0,5 x S x (E + E )"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "O — opłatę przesyłową [w zł za okres rozliczeniowy]; S pn — stawkę rozliczeniową [w zł/MWh]; E pr — ilość energii elektrycznej odbieranej, określosn ną w zgłoszonych do operatora grafikach obciążeń [w MWh za okres rozliczeniowy];"
+      },
+      {
+       "type": "text",
+       "text": "E — ilość energii elektrycznej dostarczanej, okrezn śloną w zgłoszonych do operatora grafikach obciążeń [w MWh za okres rozliczeniowy]."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_33/ust_5",
+     "text": "Opłatę za usługi przesyłowe świadczone między operatorami systemu dystrybucyjnego, na tym samym poziomie napięć znamionowych, oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "O = m Σ (S x P + S x E + S x E ) gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "O — opłatę przesyłową [w zł za okres rozliczeniopovi wy];"
+      },
+      {
+       "type": "text",
+       "text": "S — składnik stały stawki sieciowej [w zł/MW]; P svn — moc umowną, określoną dla każdego połąvi czenia sieci na tym samym poziomie napięć znamionowych [w MW];"
+      },
+      {
+       "type": "text",
+       "text": "S — składnik zmienny stawki sieciowej zvn [w zł/MWh];"
+      },
+      {
+       "type": "text",
+       "text": "E — ilość energii elektrycznej pobraną przez dapi ne połączenie, określoną jako różnica między energią pobraną i oddaną [w MWh za okres rozliczeniowy];"
+      },
+      {
+       "type": "text",
+       "text": "S — stawkę rozliczeniową [w zł/MWh]; E pr — ilość energii elektrycznej określoną w zgłozi szonych grafikach obciążeń [w MWh za okres rozliczeniowy]."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "Operator systemu dystrybucyjnego w odrębnej umowie zawartej z innym operatorem może ustalić inny niż określony w § 33 sposób rozliczenia opłaty za świadczone usługi przesyłowe na połączeniach sieci, pod warunkiem równego traktowania podmiotów korzystających z tych sieci.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_35/ust_1",
+     "text": "Rozliczeń z odbiorcami za dostarczaną energię elektryczną i świadczone usługi przesyłowe dokonuje się w okresach rozliczeniowych, ustalonych w taryfie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_35/ust_2",
+     "text": "Okres rozliczeniowy nie powinien być dłuższy niż dwa miesiące, a dla odbiorców zaliczanych do V grupy przyłączeniowej nie może być dłuższy niż rok.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_35/ust_3",
+     "text": "Jeżeli okres rozliczeniowy jest dłuższy niż miesiąc, w okresie tym mogą być pobierane opłaty za energię elektryczną w wysokości określonej na podstawie prognozowanego zużycia energii elektrycznej w tym okresie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_35/ust_4",
+     "text": "Jeżeli w wyniku wnoszenia opłat na podstawie prognozowanego zużycia tej energii, o którym mowa w ust. 3, powstanie nadpłata za pobraną energię elektryczną lub niedopłata:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_35/ust_4/pkt_1",
+       "text": "nadpłata podlega zaliczeniu na poczet płatności ustalonych na najbliższy okres rozliczeniowy, o ile odbiorca nie zażąda jej zwrotu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_35/ust_4/pkt_2",
+       "text": "niedopłata jest doliczana do pierwszego rachunku, ustalonego dla najbliższego okresu rozliczeniowego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "Rozliczenia za dostarczaną energię elektryczną są dokonywane na podstawie wskazań układu pomiarowo-rozliczeniowego dla miejsc dostarczania tej energii, określonych w umowie sprzedaży i umowie przesyłowej. Dopuszcza się możliwość prowadzenia łącznych rozliczeń dla więcej niż jednego miejsca dostarczania energii elektrycznej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_37/ust_1",
+     "text": "W przypadku stwierdzenia błędów, w pomiarze lub odczycie wskazań układu pomiarowo-rozliczeniowego, które spowodowały zawyżenie należności za pobraną energię elektryczną, przedsiębiorstwo energetyczne dokonuje korekty uprzednio wystawionych rachunków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_37/ust_2",
+     "text": "Korekta, o której mowa w ust. 1, obejmuje cały okres rozliczeniowy lub okres, w którym występowały stwierdzone nieprawidłowości lub błędy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_38/ust_1",
+     "text": "Podstawą do wyliczenia wielkości korekty rachunków, o których mowa w § 37 ust. 1, jest wielkość błędu wskazań układu pomiarowo-rozliczeniowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_38/ust_2",
+     "text": "Jeżeli określenie błędu, o którym mowa w ust. 1, nie jest możliwe, podstawę do wyliczenia wielkości korekty stanowi średnia liczba jednostek energii elektrycznej za okres doby, obliczana na podstawie sumy jednostek energii elektrycznej prawidłowo wykazanych przez układ pomiarowo-rozliczeniowy w poprzednim okresie rozliczeniowym, pomnożona przez liczbę dni okresu, którego dotyczy korekta rachunku; w wyliczaniu wielkości korekty należy uwzględnić sezonowość poboru energii elektrycznej oraz inne udokumentowane okoliczności mające wpływ na wielkość poboru tej energii.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_38/ust_3",
+     "text": "Jeżeli nie można ustalić średniego dobowego zużycia energii elektrycznej, podstawą wyliczenia wielkości korekty jest wskazanie układu pomiarowo-rozliczeniowego z następnego okresu rozliczeniowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "Nadpłatę wynikającą z wyliczonej korekty, o której mowa w § 37 ust. 1, zalicza się na poczet płatności ustalonych na najbliższy okres rozliczeniowy, o ile odbiorca nie zażąda jej zwrotu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_40/ust_1",
+     "text": "Za niedotrzymanie standardów jakościowych obsługi odbiorców, określonych w odrębnych przepisach, odbiorcom, na ich wniosek, przysługują bonifikaty i upusty, w wysokości określonej w taryfie lub umowie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_40/ust_2",
+     "text": "Przedsiębiorstwo energetyczne rozpatruje wniosek, o którym mowa w ust. 1, w terminie 30 dni od dnia jego złożenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_41/ust_1",
+     "text": "Wysokość bonifikaty i upustu za niedotrzymanie poziomu napięcia znamionowego w danym okresie doby, zależnie od wartości odchylenia napięcia od dopuszczalnych wartości granicznych, oblicza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_41/ust_1/pkt_1",
+       "text": "jeżeli wartość odchylenia napięcia od dopuszczalnych wartości granicznych nie przekracza 10 %, odbiorcy przysługuje upust w wysokości obliczonej według wzoru:",
+       "children": [
+        {
+         "type": "text",
+         "text": "W U = (———)² x A x C 10 %"
+        },
+        {
+         "type": "text",
+         "text": "gdzie poszczególne symbole oznaczają:"
+        },
+        {
+         "type": "text",
+         "text": "W — wysokość upustu dla odbiorcy w da- UT nym okresie doby [w zł];"
+        },
+        {
+         "type": "text",
+         "text": "U — wartość odchylenia napięcia znamionowego od dopuszczalnych, określonych w odrębnych przepisach, wartości granicznych [w %];"
+        },
+        {
+         "type": "text",
+         "text": "A — ilość energii elektrycznej dostarczoną T odbiorcy w danym okresie doby [w jednostkach energii];"
+        },
+        {
+         "type": "text",
+         "text": "C — cenę energii elektrycznej określoną w tary- T fie dla danego okresu doby, w którym nastąpiło odchylenie napięcia znamionowego [w zł za jednostkę energii];"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_41/ust_1/pkt_2",
+       "text": "jeżeli wartość odchylenia napięcia znamionowego od dopuszczalnych wartości granicznych przekracza 10 %, odbiorcy przysługuje upust uwzględniający bonifikatę, w łącznej wysokości obliczonej według wzoru:",
+       "children": [
+        {
+         "type": "text",
+         "text": "W = A x C + b x t UT T T rT T"
+        },
+        {
+         "type": "text",
+         "text": "gdzie poszczególne symbole oznaczają:"
+        },
+        {
+         "type": "text",
+         "text": "W — wysokość upustu dla odbiorcy w danym UT okresie doby [w zł];"
+        },
+        {
+         "type": "text",
+         "text": "A — ilość energii elektrycznej dostarczoną od- T biorcy w danym okresie doby [w jednostkach energii];"
+        },
+        {
+         "type": "text",
+         "text": "C — cenę energii elektrycznej określoną w ta- T ryfie dla danego okresu doby, w którym nastąpiło odchylenie napięcia znamionowego [w zł za jednostkę energii];"
+        },
+        {
+         "type": "text",
+         "text": "b — ustaloną w taryfie bonifikatę za niedotrzyrT manie poziomu napięcia znamionowego w danym okresie doby [w zł za godzinę];"
+        },
+        {
+         "type": "text",
+         "text": "t — łączny czas niedotrzymania poziomu na- T pięcia znamionowego w danym okresie doby [w godzinach]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_41/ust_2",
+     "text": "Za każdą niedostarczoną jednostkę energii elektrycznej odbiorcy przysługuje bonifikata w wysokości pięciokrotności ceny energii elektrycznej za okres, w którym wystąpiła przerwa w dostarczaniu tej energii; ilość niedostarczonej energii elektrycznej w dniu, w którym miała miejsce przerwa w jej dostarczaniu, ustala się na podstawie poboru tej energii w odpowiednim dniu poprzedniego tygodnia, z uwzględnieniem czasu dopuszczalnych przerw określonych w umowie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_41/ust_3",
+     "text": "W okresie, w którym nie były dotrzymane standardy jakościowe obsługi odbiorców, a układ pomiarowo-rozliczeniowy uniemożliwia określenie ilości energii elektrycznej dostarczonej odbiorcy, ilość tej energii ustala się na podstawie poboru energii elektrycznej w analogicznym okresie rozliczeniowym tego samego dnia tygodnia w poprzednim tygodniu oraz proporcji liczby godzin, w których standardy jakościowe obsługi odbiorców nie zostały dotrzymane, do całkowitej liczby godzin w okresie rozliczeniowym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "W przypadku niedotrzymania przez przedsiębiorstwo energetyczne standardów jakościowych obsługi odbiorców, o ile umowa sprzedaży energii elektrycznej lub umowa o świadczenie usług przesyłowych nie stanowi inaczej, odbiorcom przysługują opłaty w następującej wysokości:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_42/pkt_1",
+     "text": "za nieprzyjęcie zgłoszeń lub reklamacji od odbiorcy — opłata w wysokości 15,81 zł;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_42/pkt_2",
+     "text": "za nieuzasadnioną zwłokę w usuwaniu zakłóceń w dostarczaniu energii elektrycznej, spowodowanych nieprawidłową pracą sieci — opłata w wysokości 75,91 zł;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_42/pkt_3",
+     "text": "za odmowę udzielenia odbiorcom, na ich żądanie, informacji o przewidywanym terminie wznowienia dostarczania energii elektrycznej, przerwanego z powodu awarii sieci — opłata w wysokości 7,59 zł;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_42/pkt_4",
+     "text": "za niepowiadomienie, co najmniej z pięciodniowym wyprzedzeniem, o terminach i czasie planowanych przerw w dostarczaniu energii elektrycznej, w formie ogłoszeń prasowych, komunikatów radiowych lub telewizyjnych, albo w inny sposób przyjęty na danym terenie, odbiorców zasilanych z sieci o napięciu znamionowym nie wyższym niż 1 kV — opłata w wysokości 15,18 zł;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_42/pkt_5",
+     "text": "za niepowiadomienie w formie indywidualnych zawiadomień pisemnych, telefonicznych lub za pomocą innego środka telekomunikacji, co najmniej z pięciodniowym wyprzedzeniem, o terminach i czasie planowanych przerw w dostarczaniu energii elektrycznej, odbiorców zasilanych z sieci o napięciu znamionowym wyższym niż 1 kV — opłata w wysokości 151,83 zł;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_42/pkt_6",
+     "text": "za niepoinformowanie na piśmie, co najmniej z tygodniowym wyprzedzeniem, odbiorców zasilanych z sieci o napięciu znamionowym wyższym niż 1 kV o zamierzonej zmianie nastawień w automatyce zabezpieczeniowej i innych parametrach mających wpływ na współpracę ruchową z siecią — opłata w wysokości 75,91 zł;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_42/pkt_7",
+     "text": "za niepoinformowanie na piśmie, co najmniej z rocznym wyprzedzeniem, odbiorców zasilanych z sieci o napięciu znamionowym nie wyższym niż 1 kV, o konieczności dostosowania instalacji do zmienionych warunków zasilania — opłata w wysokości 75,91 zł;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_42/pkt_8",
+     "text": "za niepoinformowanie na piśmie, co najmniej z trzyletnim wyprzedzeniem, odbiorców zasilanych z sieci o napięciu znamionowym wyższym niż 1 kV o konieczności dostosowania instalacji do zmienionego napięcia znamionowego, podwyższonego poziomu mocy zwarcia i innych warunków funkcjonowania sieci — opłata w wysokości 151,83 zł;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_42/pkt_9",
+     "text": "za nieuzasadnioną odmowę odpłatnego podjęcia stosownych czynności w sieci, w celu umożliwienia bezpiecznego wykonania przez odbiorcę lub inny podmiot prac w obszarze oddziaływania tej sieci — opłata w wysokości 75,91 zł;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_42/pkt_10",
+     "text": "za nieudzielenie, na żądanie odbiorcy, informacji w sprawie zasad rozliczeń oraz aktualnych taryf — opłata w wysokości 7,59 zł;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_42/pkt_11",
+     "text": "za przedłużenie czternastodniowego terminu rozpatrzenia wniosku lub reklamacji odbiorcy w sprawie zasad rozliczeń i udzielenia odpowiedzi, za każdy dzień zwłoki — opłata w wysokości 2,28 zł.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_43/ust_1",
+     "text": "Jeżeli energia elektryczna jest pobierana bez zawarcia umowy sprzedaży energii elektrycznej lub umowy o świadczeniu usług przesyłowych, przedsiębiorstwo energetyczne może obciążyć podmiot nielegalnie pobierający energię opłatami w wysokości pięciokrotności cen i stawek opłat, określonych w taryfie dla grupy taryfowej, do której podmiot byłby zakwalifikowany, przyjmując ryczałtowe ilości zużycia energii określone w taryfie i wielkość mocy wynikającą z sumy zainstalowanych odbiorników.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_43/ust_2",
+     "text": "Jeżeli energia elektryczna jest pobierana niezgodnie z warunkami określonymi w umowie, przedsiębiorstwo energetyczne może obciążyć odbiorcę opłatami:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_43/ust_2/pkt_1",
+       "text": "w przypadku udowodnionego okresu nielegalnego pobierania energii elektrycznej, w wysokości dwukrotności cen i stawek opłat określonych w taryfie dla grupy taryfowej, do której jest zakwalifikowany odbiorca, przyjmując wielkości pobieranej mocy i zużycia tej energii, jakie wystąpiły w analogicznym okresie przed powstaniem nielegalnego pobierania energii elektrycznej lub po jego ustaniu; opłaty oblicza się dla każdego miesiąca, w którym nastąpiło pobranie energii elektrycznej niezgodnie z umową;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_43/ust_2/pkt_2",
+       "text": "w przypadku, gdy nie można ustalić ilości nielegalnie pobranej energii elektrycznej, w wysokości dwukrotności cen i stawek opłat określonych w taryfie dla grupy taryfowej, do której jest zakwalifikowany odbiorca, przyjmując ryczałtowe wielkości zużycia tej energii, określone w taryfie i wielkość mocy określoną w zawartej z odbiorcą umowie sprzedaży energii elektrycznej lub umowie o świadczenie usług przesyłowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_43/ust_3",
+     "text": "Opłaty, o których mowa w ust. 2 pkt 1, oblicza się dla całego nieobjętego przedawnieniem okresu udowodnionego nielegalnego pobierania energii elektrycznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_43/ust_4",
+     "text": "Ryczałtowe ilości energii, o których mowa w ust. 1 i ust. 2 pkt 2, są określane w taryfach jako ilości maksymalne i przedsiębiorstwo przy ustalaniu opłat może zastosować ilości mniejsze, uwzględniając rzeczywiste możliwości pobierania energii elektrycznej przez danego odbiorcę wynikające z mocy i rodzaju zainstalowanych odbiorników.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_43/ust_5",
+     "text": "Przedsiębiorstwo energetyczne może ustalić w taryfie opłaty za wykonywanie następujących czynności związanych ze stwierdzeniem nielegalnego pobierania energii elektrycznej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_43/ust_5/pkt_1",
+       "text": "wymianę uszkodzonego przez odbiorcę licznika lub innego urządzenia pomiarowego albo zniszczenie tego licznika lub urządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_43/ust_5/pkt_2",
+       "text": "sprawdzenie stanu technicznego układu pomiarowo-rozliczeniowego i założenie nowych plomb na zabezpieczeniu głównym, w układzie pomiarowo-rozliczeniowym lub na innym elemencie podlegającym oplombowaniu, w miejsce zerwanych przez odbiorcę plomb lub przez niego uszkodzonych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_43/ust_5/pkt_3",
+       "text": "poddanie urządzenia pomiarowo-rozliczeniowego ponownej legalizacji z powodu zerwania przez odbiorcę plomb legalizacyjnych lub ich naruszenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_43/ust_5/pkt_4",
+       "text": "założenie, w miejsce zerwanej przez odbiorcę plomby na wskaźniku mocy 15-minutowej lub innym urządzeniu związanym z pomiarem tej mocy, lub naruszenie tej plomby.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Przepisy przejściowe i końcowe"
+  },
+  {
+   "type": "par",
+   "num": "44",
+   "path": "par_44",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_44/ust_1",
+     "text": "Taryfy przedsiębiorstw energetycznych obowiązujące przed dniem wejścia w życie niniejszego rozporządzenia obowiązują do dnia określonego w decyzjach Prezesa Urzędu Regulacji Energetyki zatwierdzających taryfy, z zastrzeżeniem ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_44/ust_2",
+     "text": "Taryfy operatorów obowiązujące przed dniem wejścia w życie niniejszego rozporządzenia obowiązują do dnia 31 grudnia 2004 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_44/ust_3",
+     "text": "Do spraw wszczętych, a niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, dotyczących taryf, stosuje się przepisy niniejszego rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "45",
+   "path": "par_45",
+   "text": "Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.[^2]",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Gospodarki, Pracy i Polityki Społecznej: J. Hausner"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Gospodarki, Pracy i Polityki Społecznej kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 7 stycznia 2003 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki, Pracy i Polityki Społecznej (Dz. U. Nr 1, poz. 5). i=1 dwi i=1 dri ZVn E Vn ZVn MWh]; oSS E S SW KD TH KD n n–1 n– n oi ok ok os os os ok pn pr sn zn povi i=1 svn vi zvn pi pr zi UT T T",
+  "2": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 14 grudnia 2000 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz zasad rozliczeń w obrocie energią elektryczną (Dz. U. z 2001 r. Nr 1, poz. 7), które na podstawie art. 5 ustawy z dnia 24 lipca 2002 r. o zmianie ustawy — Prawo energetyczne (Dz. U. Nr 135, poz. 1144) utraciło moc z dniem 1 stycznia 2004 r. Dziennik Ustaw i Monitor Polski (spis treści) dostępne są w Internecie pod adresem www.cokprm.gov.pl"
+ }
+}

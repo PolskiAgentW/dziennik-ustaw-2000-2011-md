@@ -1,0 +1,1837 @@
+{
+ "eli": "DU/2004/360",
+ "title": "Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 20 lutego 2004 r. w sprawie wymagań metrologicznych, którym powinny odpowiadać wodomierze",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/360/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI, PRACY I POLITYKI SPOŁECZNEJ[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 lutego 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wymagań metrologicznych, którym powinny odpowiadać wodomierze[^2]"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 pkt 3 ustawy z dnia 11 maja 2001 r. — Prawo o miarach (Dz. U. Nr 63, poz. 636, z późn. zm.[^3]) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepis ogólny"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "wodomierz — przyrząd pomiarowy służący do ciągłego pomiaru objętości wody przepływającej w całkowicie wypełnionym przewodzie zamkniętym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "wodomierz sprzężony — układ pomiarowy złożony z dwóch wodomierzy o różnych nominalnych strumieniach objętości oraz z urządzenia przełączającego, regulującego samoczynnie strumień objętości w obu wodomierzach;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "współpracujące przyrządy pomiarowe — przyrządy podłączone do liczydła lub urządzenia korekcyjnego w celu pomiaru określonych parametrów przepływu, na podstawie których można dokonywać korekcji lub przeliczeń;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "strumień objętości (Q) — objętość wody przepływającej przez wodomierz w przyjętej jednostce czasu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "maksymalny (Q ) albo przeciążeniowy (Q ) strumień objętości max — największy strumień objętości,⁴ przy którym wodomierz może pracować w krótkim czasie bez uszkodzenia i przekroczenia błędów granicznych dopuszczalnych oraz wartości maksymalnej straty ciśnienia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "nominalny strumień objętości (Q ) — strumień objętości równy połowie maksymalnego n strumienia objętości, przy którym wodomierz może pracować przy przepływie ciągłym lub przerywanym i jego wskazania mieszczą się w granicach błędów granicznych dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "ciągły strumień objętości (Q ) — największy strumień objętości w warunkach³znamionowych użytkowania, przy którym wodomierz może pracować przy przepływie ciągłym lub przerywanym i jego wskazania mieszczą się w granicach błędów granicznych dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "pośredni strumień objętości (Q , Q ) — strumień objętości dzielący zakres obciążeń t²pomiarowych na przedział górny i dolny, przy którym błąd graniczny dopuszczalny zmienia wartość;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "minimalny strumień objętości (Q , Q ) — strumień objętości, powyżej którego wskazania min¹ wodomierza nie powinny przekraczać błędów granicznych dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "zakres obciążeń pomiarowych wodomierza — zakres strumienia objętości wodomierza zawarty między maksymalnym albo przeciążeniowym strumieniem objętości a minimalnym strumieniem objętości;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "górne graniczne ciśnienie — maksymalne ciśnienie panujące w rurociągu, przy którym wodomierz może pracować w sposób ciągły, w warunkach znamionowych użytkowania, bez pogorszenia charakterystyki metrologicznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_1/pkt_12",
+     "text": "maksymalna dopuszczalna temperatura — maksymalną temperaturę wody, przy której może pracować wodomierz w sposób ciągły, w warunkach znamionowych użytkowania, bez pogorszenia charakterystyki metrologicznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_1/pkt_13",
+     "text": "klasa metrologiczna wodomierza — zakres obciążeń pomiarowych wodomierza, dla którego wskazania wodomierza mieszczą się w granicach błędów granicznych dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_1/pkt_14",
+     "text": "klasa dokładności wodomierza — klasę wodomierza spełniającego określone wymagania metrologiczne, którego błędy zawarte są w określonych granicach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Wymagania metrologiczne w zakresie konstrukcji, materiału i wykonania wodomierzy"
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Wodomierz konstruowany jest jako:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "wodomierz działający na zasadach mechanicznych, przeznaczony do wody:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_1/lit_a",
+       "text": "zimnej, o temperaturze od 0 °C do 30 °C,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_1/lit_b",
+       "text": "ciepłej, o temperaturze od 30 °C do 90 °C,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_1/lit_c",
+       "text": "gorącej, o temperaturze od 30 °C do 130 °C albo od 30 °C do 180 °C;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "wodomierz działający na zasadach elektronicznych lub mechanicznych z urządzeniami elektronicznymi albo bez, przeznaczony do wody zimnej, o temperaturze od 0 °C do 30 °C;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "wodomierz sprzężony przeznaczony do wody zimnej, o temperaturze od 0 °C do 30 °C.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład wodomierza wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "przetwornik pomiarowy — służący do przetwarzania strumienia objętości lub objętości wody na sygnały przekazywane do liczydła;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "liczydło — otrzymujące z przetwornika pomiarowego lub ze współpracujących przyrządów pomiarowych sygnał oraz przekształcające i przechowujące go w pamięci;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "urządzenie wskazujące — przedstawiające wynik pomiaru w sposób ciągły albo na żądanie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Jeżeli konstrukcja wodomierza nie zapewnia właściwego położenia krzywej błędów, wodomierz powinien być wyposażony w urządzenie adiustacyjne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Wodomierze, o których mowa w § 2 pkt 1, mogą być wyposażone w nadajniki impulsów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Wodomierz, o którym mowa w § 2 pkt 2, może być wyposażony w:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_4/pkt_1",
+       "text": "urządzenie korekcyjne, służące do automatycznej korekcji wpływu temperatury, ciśnienia i strumienia objętości wody na wskazania wodomierza;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_4/pkt_2",
+       "text": "współpracujące przyrządy pomiarowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_4/pkt_3",
+       "text": "następujące urządzenia pomocnicze:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_4/pkt_3/lit_a",
+         "text": "urządzenie zerujące, kasujące wskazania urządzenia wskazującego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_4/pkt_3/lit_b",
+         "text": "urządzenie wskazujące opłatę,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_4/pkt_3/lit_c",
+         "text": "urządzenie drukujące,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_4/pkt_3/lit_d",
+         "text": "urządzenie zapamiętujące wyniki pomiarów objętości wody,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/ust_4/pkt_3/lit_e",
+         "text": "urządzenie nastawiające, pozwalające na wybór mierzonej objętości, automatycznie zatrzymujące przepływ wody w momencie uzyskania wybranej objętości,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/ust_4/pkt_3/lit_f",
+         "text": "urządzenie samoobsługujące pozwalające użytkownikowi na zużycie określonej objętości wody.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Urządzenia elektroniczne wodomierza mogą posiadać konstrukcję i oprogramowanie umożliwiające autokontrolę realizowanych przez te urządzenia funkcji, prowadzoną w sposób ciągły lub okresowo.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "W wodomierzu nie mogą być stosowane urządzenia przyspieszające prędkość obrotową jego zespołu pomiarowego poniżej minimalnego strumienia objętości.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Konstrukcja wodomierza powinna:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "zapewniać trwałość podczas użytkowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "umożliwiać zabezpieczenie przed ingerencją w jego działanie przez osoby nieuprawnione;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_1/pkt_3",
+       "text": "zapewniać wytrzymałość i szczelność podczas ciągłego przepływu wody o górnym granicznym ciśnieniu wody nie mniejszym niż 10 barów przy maksymalnej dopuszczalnej temperaturze.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Konstrukcja wodomierzy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_2/pkt_1",
+       "text": "o których mowa w § 2 pkt 1 lit. a i b oraz w § 2 pkt 2, przeznaczonych do pomiaru przepływu wstecznego, powinna zapewniać przejęcie tego przepływu bez uszkodzenia wodomierza lub zmian jego charakterystyk metrologicznych oraz zmniejszenie wskazania wodomierza o wartość objętości tego przepływu lub oddzielną rejestrację tej wartości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_2/pkt_2",
+       "text": "nieprzeznaczonych do pomiaru przepływu wstecznego, powinna zawierać elementy uniemożliwiające ten przepływ albo umożliwić jego przejęcie bez spowodowania uszkodzeń oraz zmian charakterystyk metrologicznych wodomierza.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Urządzenie przełączające wodomierzy, o których mowa w § 2 pkt 3, powinno być skonstruowane tak, aby:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "wodomierz główny nie mierzył przy strumieniu objętości mniejszym od jego minimalnego strumienia objętości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "wodomierz boczny nie był poddawany działaniu strumienia objętości przekraczającego 1,2 jego nominalnego strumienia objętości, jeżeli zastosowano wodomierz, o którym mowa w § 2 pkt 1 lit. a, albo 1,2 wartości ciągłego strumienia objętości, jeżeli zastosowano wodomierz, o którym mowa w § 2 pkt 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_1/pkt_3",
+       "text": "wodomierz główny nie został poddany działaniu strumienia objętości mniejszego od pośredniego strumienia objętości wodomierza głównego, jeżeli pośredni strumień objętości wodomierza sprzężonego jest równy pośredniemu strumieniowi objętości wodomierza bocznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Jeżeli urządzenie przełączające może działać poprawnie tylko w położeniu poziomym albo w pionowym, wodomierz sprzężony powinien być wyposażony w element pozwalający na korektę jego zamontowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Obszar nieciągłości zakresu obciążeń pomiarowych powinien znajdować się pomiędzy minimalnym i nominalnym lub ciągłym strumieniem objętości wodomierza sprzężonego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Wodomierze powinny być wykonane z materiałów:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "o odpowiedniej wytrzymałości i trwałości;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "odpornych na wewnętrzną i zewnętrzną korozję albo zabezpieczonych przed korozją poprzez odpowiednią obróbkę powierzchniową;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_8/pkt_3",
+     "text": "odpornych na zmiany temperatury wody:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_8/pkt_3/lit_a",
+       "text": "w zakresie od 0 °C do 30 °C — dla wodomierzy do wody zimnej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_8/pkt_3/lit_b",
+       "text": "w zakresie od 0 °C do 110 °C — dla wodomierzy do wody ciepłej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_8/pkt_3/lit_c",
+       "text": "w zakresach od 30 °C do 150 °C albo od 30 °C do 200 °C — dla wodomierzy do wody gorącej;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_8/pkt_4",
+     "text": "nietoksycznych, niezanieczyszczających wody, biologicznie obojętnych — dla wodomierzy do wody zimnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Urządzenia wskazujące wodomierzy powinny zapewniać jednoznaczny odczyt objętości przepływu wody, wyrażony w metrach sześciennych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Urządzenia wskazujące mogą być skonstruowane jako urządzenia, w których objętość przepływu jest wskazywana za pomocą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_10/pkt_1",
+     "text": "położenia jednej lub wielu wskazówek obracających się względem jednej lub wielu podziałek kołowych rozmieszczonych na podzielni albo jednej lub wielu tarcz z podziałkami kołowymi obracających się względem nieruchomej wskazówki;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_10/pkt_2",
+     "text": "szeregu cyfr umieszczonych na powierzchniach obrotowych cylindrycznych bębenków, które są widoczne w jednym lub wielu otworach lub szeregu cyfr na wyświetlaczu albo",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_10/pkt_3",
+     "text": "połączonych sposobów, o których mowa w pkt 1 i 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "W urządzeniach wskazujących, o których mowa w § 10 pkt 1 i 3, wskazówki powinny poruszać się ruchem ciągłym, zgodnie z kierunkiem obrotu wskazówek zegara.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "W urządzeniach wskazujących, o których mowa w § 10 pkt 2 i 3:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_2/pkt_1",
+       "text": "przyrost wskazań cyfrowych powinien odbywać się poprzez ruch ocyfrowanych bębenków z dołu do góry;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_2/pkt_2",
+       "text": "przyrost o jedną cyfrę powinien być zakończony w chwili, gdy cyfra w dekadzie wartości o rząd mniejszych zmienia się z 9 na 0;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_2/pkt_3",
+       "text": "wskazanie cyfrowe w dekadzie najmniejszych wartości może zmieniać się w sposób ciągły, jeżeli odczyt wartości wskazywanej będzie jednoznaczny.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Oznaczenie jednostki miary „m³” powinno być umieszczone na podzielni lub wyświetlaczu obok wskazań cyfrowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Elementy wskazujące część całkowitą wartości wskazywanej powinny być oznaczone kolorem czarnym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Elementy wskazujące część ułamkową wartości wskazywanej powinny być oznaczone kolorem czerwonym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_12/ust_4",
+     "text": "W urządzeniach wskazujących wodomierzy, o których mowa w § 2 pkt 2, mogą być zastosowane inne niż wymienione w ust. 2 i 3 sposoby oznaczania metra sześciennego, jego części całkowitych i ułamkowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Podziałki urządzeń wskazujących, o których mowa w § 10 pkt 1 i 3, powinny być podzielone na działki o wartości 10 n metrów sześciennych, gdzie n jest liczbą całkowitą dodatnią lub ujemną, lub zerem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Podziałka powinna być ocyfrowana liczbami odpowiadającymi wartościom objętości w metrach sześciennych lub związanym z nią mnożnikiem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Podziałka urządzenia wskazującego odnosząca się do najmniejszych wartości objętości powinna być podzielona na działki, zwane dalej „działkami elementarnymi wodomierza”, których wartość wyrażona w metrach sześciennych powinna wynosić: 1x10 lub 2x10 , lub 5x10 , gdzie n jest liczbą całkowitą dodatnią, ujemną lub zerem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Ocyfrowana działka podziałki powinna być podzielona na 2, 5 lub 10 równych działek elementarnych wodomierza.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Wartość działki elementarnej wodomierza powinna być taka, aby względna niepewność odczytu objętości odmierzanej przez wodomierz realizowana z maksymalną niepewnością nie przekraczała:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_1/pkt_1",
+       "text": "0,5 % — dla wodomierzy, o których mowa w § 2 pkt 1 lit. a i b;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_1/pkt_2",
+       "text": "1,25 % — dla wodomierzy, o których mowa w § 2 pkt 1 lit. c;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_1/pkt_3",
+       "text": "0,25 % — dla wodomierzy klasy dokładności 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_15/ust_1/pkt_4",
+       "text": "0,5 % — dla wodomierzy klasy dokładności 2, o których mowa w § 2 pkt 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Objętość odmierzana przez wodomierz powinna odpowiadać minimalnemu strumieniowi objętości wodomierza przepływającemu w czasie nie dłuższym niż 1 h 30 min.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_15/ust_3",
+     "text": "Maksymalna niepewność pojedynczego odczytu objętości nie powinna przekraczać połowy działki elementarnej wodomierza lub jednej cyfry.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Długość działki elementarnej wodomierza powinna wynosić:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_1/pkt_1",
+       "text": "od 1 mm do 5 mm — dla wodomierzy, o których mowa w § 2 pkt 1 lit. a i b i § 2 pkt 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_1/pkt_2",
+       "text": "w zależności od ilości działek elementarnych podziałki:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_16/ust_1/pkt_2/lit_a",
+         "text": "od 4 mm do 5 mm — przy 10 działkach elementarnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_16/ust_1/pkt_2/lit_b",
+         "text": "od 2 mm do 5 mm — przy 20 działkach elementarnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_16/ust_1/pkt_2/lit_c",
+         "text": "od 1 mm do 4 mm — przy 50 działkach elementarnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_16/ust_1/pkt_2/lit_d",
+         "text": "od 0,8 mm do 2 mm — przy 100 lub 200 działkach elementarnych",
+         "children": [
+          {
+           "type": "text",
+           "text": "— dla wodomierzy, o których mowa w § 2 pkt 1 lit. c."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "W urządzeniu wskazującym cyfrowym wysokość cyfr nie powinna być mniejsza niż 4 mm.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Wskazy podziałki urządzenia wskazującego, o której mowa w § 14 ust. 1, powinny mieć postać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_3/pkt_1",
+       "text": "kresek o równej szerokości nieprzekraczającej jednej czwartej długości działki elementarnej wodomierza albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_3/pkt_2",
+       "text": "kontrastowych pasm o szerokości działki elementarnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_16/ust_4",
+     "text": "Szerokość końca wskazówki nie powinna przekraczać 0,5 mm lub jednej czwartej długości działki elementarnej dla wodomierzy, o których mowa w § 2 pkt 1 lit. c i pkt 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_16/ust_5",
+     "text": "Odległość ruchomej wskazówki od podzielni z naniesioną podziałką oraz ruchomego bębenka od nieruchomej wskazówki nie powinna przekraczać 1 mm dla wodomierzy, o których mowa w § 2 pkt 1 lit. c.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Zakres wskazań wodomierza powinien być taki, aby urządzenie wskazujące wodomierza wskazywało bez możliwości powrotu do zera wartość objętości odpowiadającej co najmniej:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_17/pkt_1",
+     "text": "1 999 godzinom pracy wodomierza, o którym mowa w § 2 pkt 1, przy nominalnym strumieniu objętości;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_17/pkt_2",
+     "text": "1 600 godzinom pracy wodomierza, o którym mowa w § 2 pkt 2, przy ciągłym strumieniu objętości.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Urządzenia wskazujące wodomierzy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_1/pkt_1",
+       "text": "powinny być zabezpieczone przeźroczystym oknem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_1/pkt_2",
+       "text": "mogą być dodatkowo zabezpieczone odpowiednio skonstruowaną pokrywą.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Urządzenia wskazujące wodomierzy, o których mowa w § 2 pkt 1 lit. c, powinny być:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_2/pkt_1",
+       "text": "zabezpieczone przed tworzeniem się skroplin na wewnętrznej stronie przeźroczystego okna;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_2/pkt_2",
+       "text": "skonstruowane w sposób zapewniający:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_18/ust_2/pkt_2/lit_a",
+         "text": "poprawność działania bez pogorszenia czytelności wskazań przy temperaturze otoczenia 50 °C,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_18/ust_2/pkt_2/lit_b",
+         "text": "temperaturę części odkrytych nieprzekraczającą 80 °C, przy maksymalnej dopuszczalnej temperaturze wody.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Urządzenia wskazujące wodomierzy głównego i bocznego w wodomierzu, o którym mowa w § 2 pkt 3, powinny być tego samego typu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Urządzenie wskazujące wodomierza może być wyposażone w zamontowane na stałe lub dołączane doraźnie urządzenie dodatkowe z elementem umożliwiającym wizualizację obrotów zespołu ruchomego wodomierza.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Wodomierze, o których mowa w § 2 pkt 2, z urządzeniami elektronicznymi mogą być zasilane elektrycznie co najmniej z jednego z następujących źródeł:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_21/ust_1/pkt_1",
+       "text": "zewnętrznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_21/ust_1/pkt_2",
+       "text": "niewymienialnych baterii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_21/ust_1/pkt_3",
+       "text": "wymienialnych baterii.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "W przypadku zasilania ze źródła zewnętrznego wodomierze powinny być skonstruowane tak, aby w razie przerwy w dostawie energii wskazania liczydła wodomierza występujące przed przerwą nie zostały utracone i pozostały w pamięci przez minimum jeden rok.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_21/ust_3",
+     "text": "Zapisywanie wskazań w pamięci powinno następować co najmniej jeden raz dziennie lub po przepływie objętości równoważnej 10-minutowemu ciągłemu strumieniowi objętości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_21/ust_4",
+     "text": "Bateria niewymienialna powinna zapewniać funkcjonowanie wodomierza co najmniej przez jeden rok dłużej niż okres ważności dowodu legalizacji wodomierza.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_21/ust_5",
+     "text": "Sposób wymiany baterii powinien być taki, aby nie powodowało to uszkodzenia cech zabezpieczających.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_21/ust_6",
+     "text": "Zewnętrzne źródło zasilania powinno być zabezpieczone przed dostępem osób nieuprawnionych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Wodomierze powinny być wyposażone w elementy umożliwiające nałożenie cech legalizacyjnych i cech zabezpieczających w sposób uniemożliwiający dokonanie demontażu lub zmian w wodomierzu i jego urządzeniu adiustacyjnym oraz urządzeniu korekcyjnym bez uszkodzenia tych cech.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "W wodomierzu, o którym mowa w § 2 pkt 2, z urządzeniami elektronicznymi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_22/ust_2/pkt_1",
+       "text": "dostęp do parametrów wpływających na wyniki pomiarów powinien być w szczególności zabezpieczony mechanicznie, kodem lub kluczem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_22/ust_2/pkt_2",
+       "text": "data oraz dane identyfikujące osobę dokonującą ingerencji w celu zmian parametrów powinny zostać zapisane w pamięci co najmniej przez dwa lata, chyba że wcześniej zostaną zastąpione nowym zapisem; jeżeli w pamięci może znajdować się więcej niż jeden zapis, przepełnienie pamięci powinno powodować usunięcie najstarszego zapisu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_22/ust_2/pkt_3",
+       "text": "którego części składowe mogą być rozłączane i są zamienne, części te powinny posiadać zabezpieczenia elektroniczne, programowane albo mechaniczne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_22/ust_2/pkt_4",
+       "text": "którego części składowe mogą być rozłączane, lecz nie są zamienne, powinny być stosowane zabezpieczenia, o których mowa w pkt 3, uniemożliwiające jego uruchomienie w przypadku połączenia niezgodnego z konfiguracją podaną w dokumentacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_22/ust_2/pkt_5",
+       "text": "których części składowe nie mogą być rozłączane, części te powinny być zabezpieczone w szczególności przez urządzenia uniemożliwiające pomiar po rozłączeniu i ponownym połączeniu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Na korpusie lub podzielni wodomierza powinny być umieszczone w sposób trwały i czytelny, oddzielnie albo w jednym miejscu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_23/ust_1/pkt_1",
+       "text": "nazwa lub znak producenta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_23/ust_1/pkt_2",
+       "text": "znak zatwierdzenia typu, jeżeli został nadany;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_23/ust_1/pkt_3",
+       "text": "rok produkcji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_23/ust_1/pkt_4",
+       "text": "numer fabryczny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_23/ust_1/pkt_5",
+       "text": "jedna albo dwie strzałki wskazujące kierunek przepływu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_23/ust_1/pkt_6",
+       "text": "jednostka miary;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_23/ust_1/pkt_7",
+       "text": "górne graniczne ciśnienie wody w barach, w przypadku gdy przekracza 10 barów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_23/ust_1/pkt_8",
+       "text": "w przypadku gdy wodomierz może pracować tylko w położeniu pionowym — litera „V”, a gdy w poziomym — litera „H”.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "Na wodomierzach, o których mowa w § 2 pkt 1, oprócz oznaczeń, o których mowa w ust. 1, powinny być dodatkowo umieszczone:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_23/ust_2/pkt_1",
+       "text": "nominalny strumień objętości, w metrach sześciennych na godzinę;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_23/ust_2/pkt_2",
+       "text": "klasa metrologiczna.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_23/ust_3",
+     "text": "Na wodomierzach, o których mowa w § 2 pkt 1 lit. b i c, oprócz oznaczeń, o których mowa w ust. 1, powinna być dodatkowo umieszczona maksymalna dopuszczalna temperatura wody.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_23/ust_4",
+     "text": "Na wodomierzach, o których mowa w § 2 pkt 2, oprócz oznaczeń, o których mowa w ust. 1, powinny być dodatkowo umieszczone:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_23/ust_4/pkt_1",
+       "text": "klasa dokładności, jeśli jest różna od klasy dokładności 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_23/ust_4/pkt_2",
+       "text": "liczbowa wartość ciągłego strumienia objętości Q₃;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_23/ust_4/pkt_3",
+       "text": "stosunek Q₃/Q₁;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_23/ust_4/pkt_4",
+       "text": "stosunek Q₂/Q₁, jeśli jest różny od 1,6;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_23/ust_4/pkt_5",
+       "text": "maksymalna dopuszczalna temperatura wody;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_23/ust_4/pkt_6",
+       "text": "maksymalna strata ciśnienia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_23/ust_5",
+     "text": "Na wodomierzach, o których mowa w § 2 pkt 2, z urządzeniami elektronicznymi oprócz oznaczeń, o których mowa w ust. 3, powinny być dodatkowo umieszczone:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_23/ust_5/pkt_1",
+       "text": "napięcie i częstotliwość, dla zewnętrznego źródła zasilania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_23/ust_5/pkt_2",
+       "text": "data wymiany baterii, dla wymienialnej baterii.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_23/ust_6",
+     "text": "Na wodomierzach, o których mowa w § 2 pkt 3, oprócz oznaczeń, o których mowa w ust. 1, powinny być dodatkowo umieszczone:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_23/ust_6/pkt_1",
+       "text": "wartość pośredniego strumienia objętości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_23/ust_6/pkt_2",
+       "text": "maksymalna strata ciśnienia.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Charakterystyki metrologiczne wodomierzy"
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Wodomierze, o których mowa w § 2 pkt 1, charakteryzują następujące strumienie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_1/pkt_1",
+       "text": "maksymalny strumień objętości (Q max );",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_1/pkt_2",
+       "text": "nominalny strumień objętości (Q n );",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_24/ust_1/pkt_3",
+       "text": "pośredni strumień objętości (Q t );",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_24/ust_1/pkt_4",
+       "text": "minimalny strumień objętości (Q min ).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "Stosunek Q max /Q n powinien wynosić 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_24/ust_3",
+     "text": "Rozróżnia się cztery klasy metrologiczne wodomierzy, o których mowa w § 2 pkt 1: klasa A, klasa B, klasa C, klasa D.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_24/ust_4",
+     "text": "Klasy metrologiczne wodomierzy, o których mowa w § 2 pkt 1, w zależności od wartości stosunku Q /Q i Q /Q określa załącznik do rozporządzenia. min n t n",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "Wodomierze, o których mowa w § 2 pkt 2, charakteryzują następujące strumienie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_25/ust_1/pkt_1",
+       "text": "przeciążeniowy strumień objętości (Q₄);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_25/ust_1/pkt_2",
+       "text": "ciągły strumień objętości (Q₃);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_25/ust_1/pkt_3",
+       "text": "pośredni strumień objętości (Q ); 2",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_25/ust_1/pkt_4",
+       "text": "minimalny strumień objętości (Q₁).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Stosunek Q₄/Q₃ powinien wynosić 1,25 albo 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_25/ust_3",
+     "text": "Stosunek Q /Q powinien wynosić 1,6 albo 1,5; 2,5; 4; 6,3, pod warunkiem²¹ że Q₃/Q₂ ≥ 5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_25/ust_4",
+     "text": "Stosunek Q /Q powinien być wybrany z następującego szeregu³liczb:¹ 10; 12,5; 16; 20; 25; 31,5; 40; 50; 63; 80; 100; 125; 160; 200; 250; 315; 400; 500; 630; 800, przy czym szereg może być rozszerzony w górę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_25/ust_5",
+     "text": "Wartość ciągłego strumienia objętości Q , wyrażona w m³/h, powinna być wybrana z następujących³ szeregów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_25/ust_5/pkt_1",
+       "text": "1; 1,6; 2,5; 4; 6,3,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_25/ust_5/pkt_2",
+       "text": "10; 16; 25; 40; 63,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_25/ust_5/pkt_3",
+       "text": "100; 160; 250; 400; 630,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_25/ust_5/pkt_4",
+       "text": "1000; 1600; 2500; 4000; 6300,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "przy czym szeregi mogą być rozszerzane w górę i w dół albo z szeregu: 0,6; 1; 1,5; 2,5; 3,5; 6; 10; 15; 25; 40; 60; 100; 150; 250; 400; 600; 1000; 1500; 2500; 4000."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Wodomierze, o których mowa w § 2 pkt 3, charakteryzują następujące strumienie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_26/pkt_1",
+     "text": "jeżeli zastosowano jako wodomierze składowe wodomierze, o których mowa w § 2 pkt 1 lit. a:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_26/pkt_1/lit_a",
+       "text": "maksymalny strumień objętości (Q max ),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_26/pkt_1/lit_b",
+       "text": "nominalny strumień objętości (Q n ),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_26/pkt_1/lit_c",
+       "text": "pośredni strumień objętości (Q t ),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_26/pkt_1/lit_d",
+       "text": "minimalny strumień objętości (Q min );",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_26/pkt_2",
+     "text": "jeżeli zastosowano jako wodomierze składowe wodomierze, o których mowa w § 2 pkt 2:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_26/pkt_2/lit_a",
+       "text": "przeciążeniowy strumień objętości (Q₄),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_26/pkt_2/lit_b",
+       "text": "ciągły strumień objętości (Q ),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_26/pkt_2/lit_c",
+       "text": "pośredni strumień objętości (Q₂),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_26/pkt_2/lit_d",
+       "text": "minimalny strumień objętości (Q₁).",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_27/ust_1",
+     "text": "Błędy graniczne dopuszczalne wodomierzy, o których mowa w § 2 pkt 1 lit. a, przy zatwierdzeniu typu i legalizacji wynoszą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_27/ust_1/pkt_1",
+       "text": "± 2 % — w przedziale górnym zakresu obciążeń (Q t ≤ Q ≤ Q max );",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_27/ust_1/pkt_2",
+       "text": "± 5 % — w przedziale dolnym zakresu obciążeń (Q min ≤ Q < Q t ).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_27/ust_2",
+     "text": "Błędy graniczne dopuszczalne wodomierzy, o których mowa w § 2 pkt 1 lit. b i c, przy zatwierdzeniu typu i legalizacji wynoszą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_27/ust_2/pkt_1",
+       "text": "± 3 % — w przedziale górnym zakresu obciążeń (Q ≤ Q ≤ Q ); t max",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_27/ust_2/pkt_2",
+       "text": "± 5 % — w przedziale dolnym zakresu obciążeń (Q min ≤ Q < Q t ).",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_28/ust_1",
+     "text": "Rozróżnia się dwie klasy dokładności wodomierzy, o których mowa w § 2 pkt 2: klasa1 i klasa 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_28/ust_2",
+     "text": "Wodomierze o ciągłym strumieniu objętości:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_28/ust_2/pkt_1",
+       "text": "Q ≥100 m³/h zalicza się do klasy dokładności 1 albo³ 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_28/ust_2/pkt_2",
+       "text": "Q₃ < 100 m³/h zalicza się do klasy dokładności 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_28/ust_3",
+     "text": "Błędy graniczne dopuszczalne wodomierzy, o których mowa w § 2 pkt 2, przy zatwierdzeniu typu i legalizacji wynoszą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_28/ust_3/pkt_1",
+       "text": "dla wodomierzy klasy dokładności 1:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_28/ust_3/pkt_1/lit_a",
+         "text": "± 1 % w przedziale górnym zakresu obciążeń (Q ≤ Q ≤ Q ),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_28/ust_3/pkt_1/lit_b",
+         "text": "±²3 % w przedziale⁴ dolnym zakresu obciążeń (Q₁ ≤ Q < Q₂);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_28/ust_3/pkt_2",
+       "text": "dla wodomierzy klasy dokładności 2:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_28/ust_3/pkt_2/lit_a",
+         "text": "± 2 % w przedziale górnym zakresu obciążeń (Q ≤ Q ≤ Q ),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_28/ust_3/pkt_2/lit_b",
+         "text": "±²5 % w przedziale⁴ dolnym zakresu obciążeń (Q₁ ≤ Q < Q₂).",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_28/ust_4",
+     "text": "Dla wodomierzy, o których mowa w § 2 pkt 2, wyposażonych w urządzenie korekcyjne błędy graniczne dopuszczalne, o których mowa w ust. 3, dotyczą wskazań po korekcji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "Błędy graniczne dopuszczalne wodomierzy, o których mowa w § 2 pkt 3, przy zatwierdzeniu typu i legalizacji:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_29/pkt_1",
+     "text": "przy zastosowaniu wodomierzy, o których mowa w § 2 pkt 1 lit. a, wynoszą:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_29/pkt_1/lit_a",
+       "text": "± 2 % — w przedziale górnym zakresu obciążeń (Q ≤ Q ≤ Q ),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_29/pkt_1/lit_b",
+       "text": "± 5 t % — w max przedziale dolnym zakresu obciążeń (Q ≤ Q < Q );",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_29/pkt_2",
+     "text": "przy zastosowaniu wodomierzy, o których mowa w § 2 pkt 2, wynoszą:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_29/pkt_2/lit_a",
+       "text": "dla wodomierzy klasy dokładności 1:",
+       "children": [
+        {
+         "type": "text",
+         "text": "— ± 1 % — w przedziale górnym zakresu obciążeń (Q₂ ≤ Q ≤ Q₄), — ± 3 % — w przedziale dolnym zakresu obciążeń (Q₁ ≤ Q < Q₂),"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_29/pkt_2/lit_b",
+       "text": "dla wodomierzy klasy dokładności 2:",
+       "children": [
+        {
+         "type": "text",
+         "text": "— ± 2 % — w przedziale górnym zakresu obciążeń (Q ≤ Q ≤ Q ),"
+        },
+        {
+         "type": "text",
+         "text": "— ± 5 %²— w przedziale⁴ dolnym zakresu obciążeń (Q₁ ≤ Q < Q₂)."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_30/ust_1",
+     "text": "Strata ciśnienia na wodomierzu, łącznie z elementami stanowiącymi integralną część jego wyposażenia, nie powinna przekraczać 1,0 bar przy maksymalnym strumieniu objętości dla wodomierzy, o których mowa w § 2 pkt 1, lub przeciążeniowym strumieniu objętości dla wodomierzy, o których mowa w § 2 pkt 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_30/ust_2",
+     "text": "W zależności od wartości straty ciśnienia przy maksymalnym strumieniu objętości, wodomierze, o których mowa w § 2 pkt 1, kwalifikuje się do jednej z czterech grup: 1,0 bar; 0,6 bar; 0,3 bar; 0,1 bar.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_31/ust_1",
+     "text": "Wodomierz nie może zmieniać wskazań przy przepływie równym 0.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_31/ust_2",
+     "text": "Błędy wskazań wodomierzy przeznaczonych do pomiaru przepływu wstecznego wody, przy tym przepływie, powinny być zawarte w granicach błędów granicznych dopuszczalnych przy zatwierdzeniu typu i legalizacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Przepis końcowy"
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Gospodarki, Pracy i Polityki Społecznej: J. Hausner"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do rozporządzenia Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 20 lutego 2004 r. (poz. 360)"
+    },
+    {
+     "type": "text",
+     "text": "KLASY METROLOGICZNE WODOMIERZY, O KTÓRYCH MOWA W § 2 PKT 1 ROZPORZĄDZENIA"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 1. Klasy metrologiczne wodomierzy do wody zimnej"
+    },
+    {
+     "type": "text",
+     "text": "Klasy Q n < 15 m³/h Q n ≥ 15 m³/h"
+    },
+    {
+     "type": "text",
+     "text": "Klasa A Wartość Q min /Q n 0,04 0,08 Wartość Q t /Q n 0,10 0,30"
+    },
+    {
+     "type": "text",
+     "text": "Klasa B Wartość Q min /Q n 0,02 0,03 Wartość Q t /Q n 0,08 0,20"
+    },
+    {
+     "type": "text",
+     "text": "Klasa C Wartość Q min /Q n 0,01 0,006 Wartość Q t /Q n 0,015 0,015"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 2. Klasy metrologiczne wodomierzy do wody ciepłej i gorącej"
+    },
+    {
+     "type": "text",
+     "text": "Klasy Qn < 15 m³/h Qn ≥ 15 m³/h"
+    },
+    {
+     "type": "text",
+     "text": "Klasa A Wartość Q min /Q n 0,04 0,08 Wartość Q t /Q n 0,10 0,20"
+    },
+    {
+     "type": "text",
+     "text": "Klasa B Wartość Q min /Q n 0,02 0,04 Wartość Q t /Q n 0,08 0,15"
+    },
+    {
+     "type": "text",
+     "text": "Klasa C Wartość Q min /Q n 0,01 0,02 Wartość Q t /Q n 0,06 0,10"
+    },
+    {
+     "type": "text",
+     "text": "Klasa D Wartość Q min /Q n 0,01 — Wartość Q t /Q n 0,015"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Gospodarki, Pracy i Polityki Społecznej kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 7 stycznia 2003 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki, Pracy i Polityki Społecznej (Dz. U. Nr 1, poz. 5).",
+  "2": "Rozporządzenie wdraża postanowienia następujących dyrektyw Rady:\n\n1) dyrektywy 75/33/EWG z dnia 17 grudnia 1974 r. w sprawie dostosowania ustawodawstwa państw członkowskich dotyczącego wodomierzy do wody zimnej, opublikowanej w Dz. Urz. WE nr L 014 z dnia 20 stycznia 1975 r.;\n\n2) dyrektywy 79/830/EWG z dnia 11 września 1979 r. w sprawie dostosowania ustawodawstwa państw członkowskich dotyczącego wodomierzy do wody ciepłej, opublikowanej w Dz. Urz. WE nr L 259 z dnia 15 października 1979 r.",
+  "3": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 155, poz. 1286 i Nr 166, poz. 1360 oraz z 2003 r. Nr 170, poz. 1652. n n n 3 min t"
+ }
+}

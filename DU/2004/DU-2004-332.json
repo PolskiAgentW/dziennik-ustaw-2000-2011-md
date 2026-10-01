@@ -1,0 +1,1540 @@
+{
+ "eli": "DU/2004/332",
+ "title": "Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 13 lutego 2004 r. w sprawie wymagań metrologicznych, którym powinny odpowiadać ciepłomierze do wody i ich elementy,",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/332/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI, PRACY I POLITYKI SPOŁECZNEJ[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 lutego 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wymagań metrologicznych, którym powinny odpowiadać ciepłomierze do wody i ich elementy"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 pkt 3 ustawy z dnia 11 maja 2001 r. — Prawo o miarach (Dz. U. Nr 63, poz. 636, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa wymagania metrologiczne, którym powinny odpowiadać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "ciepłomierze do wody, zwane dalej „ciepłomierzami”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "następujące elementy ciepłomierzy do wody:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "przeliczniki wskazujące,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "pary czujników temperatury,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "przetworniki przepływu",
+       "children": [
+        {
+         "type": "text",
+         "text": "— zwane dalej „elementami”."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "ciepłomierz — przyrząd pomiarowy służący do pomiaru ciepła oddanego przez przepływającą wodę, będącą ciekłym nośnikiem ciepła w obiegu wymiany ciepła;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "przelicznik wskazujący — przyrząd pomiarowy odbierający sygnały pary czujników temperatury i przetwornika przepływu, przetwarzający je oraz obliczający i wskazujący wartość liczbową ciepła przekazanego w obiegu wymiany ciepła;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "para czujników temperatury — przyrząd pomiarowy wytwarzający sygnały wyjściowe, będące funkcją temperatury nośnika ciepła na wejściu i na wyjściu obiegu wymiany ciepła;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "przetwornik przepływu — przyrząd pomiarowy wytwarzający sygnał wyjściowy, będący funkcją objętości, masy, strumienia objętości lub strumienia masy nośnika ciepła, mierzonych na wejściu lub na wyjściu obiegu wymiany ciepła;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "górna granica zakresu temperatury t — największą wartość temperatury nośnika max ciepła, przy której ciepłomierz i jego element może działać bez przekroczenia błędów granicznych dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "dolna granica zakresu temperatury t — najmniejszą wartość temperatury nośnika min ciepła, przy której ciepłomierz i jego element może działać bez przekroczenia błędów granicznych dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "różnica temperatury ∆t — różnicę temperatury nośnika ciepła na wejściu obiegu wymiany ciepła i temperatury nośnika ciepła na wyjściu obiegu wymiany ciepła;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "minimalna różnica temperatury ∆t — najmniejszą wartość różnicy temperatury, przy min której błędy ciepłomierza i jego elementu nie mogą przekraczać błędów granicznych dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "maksymalna różnica temperatury ∆t — największą wartość różnicy temperatury występującą max przy maksymalnej mocy cieplnej, przy której błędy ciepłomierza i jego elementu nie mogą przekraczać błędów granicznych dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "przepływ q — strumień objętości lub strumień masy nośnika ciepła;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "przepływ minimalny q — najmniejszą wartość przepływu, przy której i błędy ciepłomierza i jego elementu nie mogą przekraczać błędów granicznych dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "przepływ nominalny q — największą wartość przepływu, dopuszczalną p podczas działania ciągłego, przy której błędy ciepłomierza i jego elementu nie mogą przekraczać błędów granicznych dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "przepływ maksymalny q — największą wartość przepływu, dopuszczalną s w krótkich okresach czasu, nieprzekraczających w sumie 1 godziny na dobę i 200 godzin rocznie, przy której błędy ciepłomierza i jego elementu nie mogą przekraczać błędów granicznych dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_2/pkt_14",
+     "text": "maksymalna moc cieplna P — największą wartość mocy cieplnej, przy której s błędy ciepłomierza nie mogą przekraczać błędów granicznych dopuszczalnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Wymagania metrologiczne w zakresie konstrukcji, materiałów i wykonania ciepłomierzy oraz ich elementów"
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "W zależności od konstrukcji rozróżnia się następujące rodzaje ciepłomierzy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "zespolone, niemające oddzielnych elementów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "składane, będące rozdzielnymi zestawami elementów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "hybrydowe, będące zespołami elementów, rozdzielnymi w sposób określony przez producenta.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Ciepłomierz i przelicznik wskazujący powinien zawierać liczydło ciepła wskazujące wartość ciepła w dżulach albo watogodzinach, albo ich wielokrotnościach dziesiętnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Nazwa lub oznaczenie jednostki miary ciepła powinny być umieszczone w taki sposób, aby wartość liczbowa wskazywana na liczydle ciepła i jednostka mogły być odczytywane jednocześnie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Cyfry wskazujące części całkowite wartości liczbowej ciepła powinny mieć te same wymiary.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Cyfry wskazujące części dziesiętne wartości liczbowej ciepła powinny być:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_4/pkt_1",
+       "text": "oddzielone od innych przecinkiem lub kropką;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_4/pkt_2",
+       "text": "wyraźnie wyróżnione, w szczególności: ramką, wymiarami lub kolorem.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Wysokość cyfr liczydła ciepła nie powinna być mniejsza niż 4 mm.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Liczydło ciepła powinno być tak skonstruowane, aby ciągła praca ciepłomierza i przelicznika wskazującego, w czasie 3 000 godzin przy maksymalnej mocy cieplnej P , nie powodowała powtórzenia się wskazania tego liczydła. s",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Ciepło zmierzone przez ciepłomierz przy maksymalnej mocy cieplnej P , w czasie 1 godziny, powinno powodować zmianę wskazania s liczydła ciepła co najmniej o wartość 1 działki elementarnej, rozumianej jako najmniejszy przyrost wskazania tego liczydła, który można odczytać bez interpolacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Liczydło ciepła powinno być:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "elektroniczne — wyświetlacz albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "elektromechaniczne o konstrukcji bębenkowej, z podziałką cyfrową lub cyfrowo-kreskową, o zakresie od 0 do 9.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "W liczydłach ciepła elektronicznych wskazanie wartości ciepła powinno być widoczne w sposób ciągły albo powracać samoczynnie po przełączeniu wyświetlacza na inne wskazanie lub pojawiać się jako pierwsze po wywołaniu wskazania na samoczynnie wygaszonym wyświetlaczu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "W liczydłach ciepła elektromechanicznych o konstrukcji bębenkowej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_3/pkt_1",
+       "text": "ostatni bębenek powinien się poruszać w sposób ciągły, w kierunku od dołu ku górze, natomiast pozostałe bębenki powinny się poruszać skokowo;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_3/pkt_2",
+       "text": "zmiana wskazania bębenka powinna się dokonać całkowicie, podczas gdy następny bębenek zmienia wskazanie z „9” na „0”.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Konstrukcja ciepłomierza i przelicznika wskazującego powinna uniemożliwiać zmianę wskazania liczydła ciepła przez osoby nieuprawnione.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "W przypadku przerwy w zasilaniu elektrycznym ostatnie wskazanie liczydła ciepła i czas jego zapisu powinny być przechowywane w pamięci ciepłomierza i przelicznika wskazującego w czasie nie krótszym niż 1 rok i dostępne po ponownym podłączeniu zasilania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Ciepłomierz i jego elementy powinny być tak skonstruowane i wykonane, aby możliwe było nałożenie cech zabezpieczających uniemożliwiających:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "dostęp do zespołów pomiarowych i elementów adiustacji — przed zamontowaniem ciepłomierza;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "dostęp do zasilania elektrycznego i połączeń elektrycznych między elementami ciepłomierza składanego i hybrydowego — po zamontowaniu ciepłomierza;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_8/pkt_3",
+     "text": "demontaż ciepłomierza z rurociągu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Ciepłomierze i przeliczniki wskazujące, których parametry mające wpływ na wynik pomiaru są programowane po zamontowaniu, powinny spełniać następujące warunki:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_9/pkt_1",
+     "text": "możliwość zmiany parametrów powinna być zabezpieczona kodem cyfrowym lub kluczem do zamka mechanicznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_9/pkt_2",
+     "text": "co najmniej ostatnia operacja zmiany parametrów powinna być przechowywana w pamięci ciepłomierza lub przelicznika wskazującego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_9/pkt_3",
+     "text": "zapis w pamięci powinien zawierać wartości wprowadzonych parametrów, datę i znak identyfikujący osobę dokonującą zmiany;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_9/pkt_4",
+     "text": "czas przechowywania w pamięci ostatniego zapisu nie powinien być krótszy niż 5 lat.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "W przelicznikach wskazujących, które mogą być stosowane do jednoczesnego pomiaru ciepła w kilku obiegach wymiany ciepła, przy współdziałaniu z przetwornikami przepływu i parami czujników temperatury, zamontowanymi w każdym z tych obiegów, wskazania ciepła oddanego w każdym z obiegów powinny być wyraźnie wyróżnione.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "W miejscu zamontowania ciepłomierza ruch cieplny cieczy w rurociągu za zamkniętym zaworem lub przepływ przez sprawny, zamknięty zawór, nie powinny powodować zmiany wskazania ciepłomierza.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Ciepłomierz, przelicznik wskazujący i przetwornik przepływu powinny mieć sygnał testowy, wykorzystywany podczas sprawdzania tego przyrządu pomiarowego, będący:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_12/pkt_1",
+     "text": "wskazaniem cyfrowym ciepła, objętości lub masy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_12/pkt_2",
+     "text": "wskazaniem cyfrowym, którego wartość poprawną oblicza się według wzoru podanego przez producenta;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_12/pkt_3",
+     "text": "wyjściem elektrycznych impulsów o określonej wartości, wyrażonej w liczbie impulsów na jednostkę ciepła, objętości lub masy, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_12/pkt_4",
+     "text": "wyjściem sygnału cyfrowego do dalszego przetwarzania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "W ciepłomierzu składanym para czujników temperatury powinna:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_13/pkt_1",
+     "text": "mieć charakterystykę termometryczną platynowych czujników termometrów rezystancyjnych Pt 100, Pt 500 lub Pt 1000; czujniki temperatury o innej charakterystyce termometrycznej mogą być zastosowane jedynie w ciepłomierzach zespolonych i w ciepłomierzach hybrydowych, w których czujniki są trwale połączone z przelicznikiem wskazującym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_13/pkt_2",
+     "text": "być typu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_13/pkt_2/lit_a",
+       "text": "głowicowego, z zaciskami do podłączenia elektrycznych przewodów zewnętrznych, albo",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_13/pkt_2/lit_b",
+       "text": "bezgłowicowego, z trwale podłączonymi elektrycznymi kablami zewnętrznymi, o jednakowej dla obu czujników długości i powierzchni przekroju przewodów, które powinny być zakończone zaciskanymi, nielutowanymi końcówkami;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_13/pkt_3",
+     "text": "być przeznaczona do montażu w osłonach lub bez osłon — w zależności od konstrukcji czujnika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_13/pkt_4",
+     "text": "mieć określoną przez producenta minimalną głębokość zanurzenia, rozumianą jako taka głębokość zanurzenia w cieczy termostatycznej o temperaturze (80 ± 5) °C, przy temperaturze otoczenia (25 ± 5) °C, że dalsze zanurzanie czujnika w cieczy nie powoduje wzrostu jego rezystancji o wartość większą od odpowiadającej 0,1 °C;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_13/pkt_5",
+     "text": "mieć określony przez producenta czas odpowiedzi τ , rozumiany jako czas potrzebny do osiągnięcia przez 0,5 czujnik 50 % wartości całkowitej zmiany rezystancji, spowodowanej skokową zmianą temperatury;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_13/pkt_6",
+     "text": "mieć rezystancję izolacji między obudową każdego z czujników, bez osłony, i każdym z jego przyłączy, zacisków w czujniku głowicowym lub przewodów zewnętrznych w czujniku bezgłowicowym, przy obu polaryzacjach napięcia probierczego, nie mniejszą niż:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_13/pkt_6/lit_a",
+       "text": "100 MΩw temperaturze od 15 °C do 35 °C, przy wilgotności względnej od 25 % do 75 % i przy napięciu probierczym stałym 100 V,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_13/pkt_6/lit_b",
+       "text": "10 MΩprzy górnej granicy zakresu temperatury t max i przy napięciu probierczym stałym 10 V.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "W parze czujników temperatury typu bezgłowicowego dla czujników:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_14/pkt_1",
+     "text": "Pt 100, podłączonych dwuprzewodowo — wartość długości kabli zewnętrznych nie powinna przekraczać dla kabli o powierzchni przekroju przewodów zewnętrznych wynoszącej:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_14/pkt_1/lit_a",
+       "text": "0,22 mm² — 2,5 m,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_14/pkt_1/lit_b",
+       "text": "0,25 mm² — 3,0 m,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_14/pkt_1/lit_c",
+       "text": "0,50 mm² — 5,0 m,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_14/pkt_1/lit_d",
+       "text": "0,75 mm² — 7,5 m,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_14/pkt_1/lit_e",
+       "text": "1,50 mm² — 15,0 m;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_14/pkt_2",
+     "text": "Pt 500, podłączonych dwuprzewodowo — wartość długości kabli zewnętrznych, w zależności od powierzchni przekroju przewodów zewnętrznych, powinna być 5 razy większa od odpowiednich wartości, o których mowa w pkt 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_14/pkt_3",
+     "text": "Pt 1000, podłączonych dwuprzewodowo — wartość długości kabli zewnętrznych, w zależności od powierzchni przekroju przewodów zewnętrznych, powinna być odpowiednio 10 razy większa od wartości, o których mowa w pkt 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_14/pkt_4",
+     "text": "podłączonych czteroprzewodowo — wartość powierzchni przekroju przewodów zewnętrznych nie powinna być mniejsza niż 0,14 mm².",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Dla ciepłomierzy i przetworników przepływu o średnicach nominalnych DN nie większych niż 250 mm wartości przepływu nominalnego q , w zależności od średnicy nominalnej DN ciepłomierza p i przetwornika przepływu, nie powinny przekraczać następujących wartości:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_15/pkt_1",
+     "text": "0,6 m³/h, 1,0 m³/h lub 1,5 m³/h dla DN 15;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_15/pkt_2",
+     "text": "2,5 m³/h dla DN 20;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_15/pkt_3",
+     "text": "3,5 m /h dla DN 25;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_15/pkt_4",
+     "text": "6,0 m³/h dla DN 32;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_15/pkt_5",
+     "text": "10 m³/h dla DN 40;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_15/pkt_6",
+     "text": "15 m³/h dla DN 50;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_15/pkt_7",
+     "text": "25 m³/h dla DN 65;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_15/pkt_8",
+     "text": "40 m /h dla DN 80;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_15/pkt_9",
+     "text": "60 m³/h dla DN 100;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_15/pkt_10",
+     "text": "100 m³/h dla DN 125;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_15/pkt_11",
+     "text": "150 m³/h dla DN 150;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_15/pkt_12",
+     "text": "250 m³/h dla DN 200;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_15/pkt_13",
+     "text": "400 m³/h dla DN 250.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Dla ciepłomierzy i przetworników przepływu o średnicach nominalnych DN większych niż 250 mm wartości przepływu nominalnego q powinny być tak dobrane, aby prędkość przepływu wody p nie przekraczała 3 m/s.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Wartość maksymalnej mocy cieplnej P powinna być podana przez producenta, jeżeli nie odpo- s wiada ona różnicy temperatury ∆t i przepływowi q s . max",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Ciśnienie nominalne, będące największym nadciśnieniem nośnika ciepła w miejscu zainstalowania ciepłomierza, przy którym może on działać w sposób ciągły, nie powinno być mniejsze od 10 barów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Maksymalna strata ciśnienia ∆p będąca wartością straty ciśnienia nośnika ciepła występującą max, przy przepływie nominalnym q tego nośnika przez ciepłomierz i przetwornik przepływu, p nie powinna być większa od 0,25 bara.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Zespoły ciepłomierza i jego elementu powinny być wykonane z materiałów odpornych na korozję w warunkach właściwego użytkowania i transportu, z uwzględnieniem zarówno wpływu czynników zewnętrznych, jak i wpływu nośnika ciepła.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Obudowa ciepłomierza i jego elementu powinna zabezpieczać układy elektroniczne przed przedostaniem się nośnika ciepła oraz wody i pyłu z otoczenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Na ciepłomierzu zespolonym i hybrydowym powinny być zamieszczone w sposób trwały i czytelny w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_22/ust_1/pkt_1",
+       "text": "nazwa lub znak producenta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_22/ust_1/pkt_2",
+       "text": "znak fabryczny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_22/ust_1/pkt_3",
+       "text": "rok produkcji i numer fabryczny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_22/ust_1/pkt_4",
+       "text": "wartości graniczne zakresu temperatury, oznaczonej symbolem t lub Θi wyrażonej w °C:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_22/ust_1/pkt_4/lit_a",
+         "text": "t i t dla ciepłomierza i przelicznika wskazującego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_22/ust_1/pkt_4/lit_b",
+         "text": "t i t lub t dla przetwornika przepływu;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_22/ust_1/pkt_5",
+       "text": "wartości graniczne zakresu różnicy temperatury, oznaczonej symbolem ∆t lub ∆Θ i wyrażonej w K lub °C: ∆t min i ∆ t max ;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_22/ust_1/pkt_6",
+       "text": "wartości graniczne przepływu: q , q i q ; jeżeli q = q , to wartości q nie podaje się;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_22/ust_1/pkt_7",
+       "text": "miejsce pomiaru objętości, masy lub przepływu nośnika ciepła; wejście obiegu wymiany ciepła powinno się oznaczać wyrazem „zasilanie”, a wyjście obiegu wymiany ciepła — wyrazem „powrót”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_22/ust_1/pkt_8",
+       "text": "wartość ciśnienia nominalnego, jeżeli jest ona większa niż 10 barów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_22/ust_1/pkt_9",
+       "text": "oznaczenie kierunku przepływu nośnika ciepła w postaci strzałki.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Na przeliczniku wskazującym powinny być zamieszczone w sposób trwały i czytelny w szczególności oznaczenia, o których mowa w ust. 1 pkt 1—3, 5 i 7, oraz:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_22/ust_2/pkt_1",
+       "text": "wartości graniczne zakresu temperatury, oznaczonej symbolem t lub Θi wyrażonej w °C: t i t ; min max",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_22/ust_2/pkt_2",
+       "text": "rodzaj czujników temperatury: Pt 100, Pt 500 lub Pt 1000;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_22/ust_2/pkt_3",
+       "text": "charakterystyka wyjścia przetwornika przepływu, rozumiana jako zależność sygnału wyjściowego przetwornika przepływu od objętości, masy, strumienia objętości lub strumienia masy nośnika ciepła.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_22/ust_3",
+     "text": "Na obu czujnikach wchodzących w skład pary czujników temperatury powinny być zamieszczone w sposób trwały i czytelny oznaczenia, o których mowa w ust. 1 pkt 1—3, 5 i w ust. 2 pkt 1, oraz oznaczenia rodzaju czujników temperatury: Pt 100, Pt 500 lub Pt 1000, jeżeli znak fabryczny nie zawiera oznaczenia rodzaju czujnika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_22/ust_4",
+     "text": "Na przetworniku przepływu powinny być zamieszczone w sposób trwały i czytelny oznaczenia, o których mowa w ust. 1 pkt 1—3, 6, 8, 9 i w ust. 2 pkt 3, oraz wartości graniczne zakresu temperatury dopuszczalnej dla przetwornika przepływu, oznaczonej symbolem t lub Θi wyrażonej w °C: t i t lub t . min max max",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Charakterystyki metrologiczne ciepłomierzy i ich elementów"
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Zakres obciążeń pomiarowych ciepłomierza określają wartości graniczne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_23/ust_1/pkt_1",
+       "text": "temperatury: t min i t max ;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_23/ust_1/pkt_2",
+       "text": "różnicy temperatury: ∆t min i ∆t max ;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_23/ust_1/pkt_3",
+       "text": "przepływu: q , q i q ;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_23/ust_1/pkt_4",
+       "text": "mocy cieplnej: P s .",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "Zakresy obciążeń pomiarowych elementów ciepłomierza są określone następująco:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_23/ust_2/pkt_1",
+       "text": "dla przelicznika wskazującego — przez wartości graniczne, o których mowa w ust. 1 pkt 1, 2 i 4;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_23/ust_2/pkt_2",
+       "text": "dla pary czujników temperatury — przez wartości graniczne, o których mowa w ust. 1 pkt 1 i 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_23/ust_2/pkt_3",
+       "text": "dla przetwornika przepływu — przez wartości graniczne, o których mowa w ust. 1 pkt 1 i 3.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_23/ust_3",
+     "text": "Zakresy obciążeń pomiarowych ciepłomierza zespolonego i hybrydowego oraz przetwornika przepływu powinny być tak dobrane, aby były spełnione wymagania, o których mowa w ust. 13 i 17 załącznika do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_23/ust_4",
+     "text": "Zakres obciążeń pomiarowych ciepłomierza składanego i hybrydowego określa się jako część wspólną zakresów obciążeń pomiarowych jego elementów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_23/ust_5",
+     "text": "Dolna granica zakresu temperatury t nie powinna być większa niż 30 °C. min",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_23/ust_6",
+     "text": "Górna granica zakresu temperatury t nie pomax winna być mniejsza niż 90 °C.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_23/ust_7",
+     "text": "Minimalna różnica temperatury ∆t powinna przyjmować wartości: 3 K, 5 K lub 10 K. min",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_23/ust_8",
+     "text": "Stosunek maksymalnej różnicy temperatury ∆t do minimalnej różnicy temperatury ∆t nie powinien max być mniejszy od 10. min",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_23/ust_9",
+     "text": "Stosunek przepływu nominalnego q do przepływu minimalnego q nie powinien być p mniejszy od 10. i",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Błędy względne procentowe oraz błędy graniczne dopuszczalne względne ciepłomierza i jego elementów oraz wzory, według których oblicza się te błędy, określa załącznik do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "Dla ciepłomierzy i ich elementów, których typy zostały zatwierdzone od dnia 1 stycznia 1994 r. do dnia 15 maja 1999 r., podczas legalizacji:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_25/ust_1/pkt_1",
+       "text": "błędy graniczne dopuszczalne względne przelicznika wskazującego E , wyrażone w procentach, w zależności od różnicy Ld temperatury ∆t, wynoszą:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_25/ust_1/pkt_1/lit_a",
+         "text": "E = ± 1,5 % dla ∆t ≤ ∆t < 20 °C,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_25/ust_1/pkt_1/lit_b",
+         "text": "E Ld Ld = ± 0,75 % dla 20 min °C ≤ ∆t ≤ ∆t max ;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_25/ust_1/pkt_2",
+       "text": "błędy graniczne dopuszczalne względne pary czujników temperatury E , wyrażone w procentach, w zależności od różnicy Td temperatury ∆t, wynoszą:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_25/ust_1/pkt_2/lit_a",
+         "text": "E = ± 3,5 % dla ∆t ≤ ∆t < 10 °C,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_25/ust_1/pkt_2/lit_b",
+         "text": "E Td = ± 2,5 % dla 10 min °C ≤ ∆t < 20 °C,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_25/ust_1/pkt_2/lit_c",
+         "text": "E Td = ± 1,25 % dla 20 °C ≤ ∆t ≤ ∆t ;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_25/ust_1/pkt_3",
+       "text": "błędy graniczne dopuszczalne względne przetwornika przepływu E , wyrażone w procentach, w zależności od przepływu Pd q, wynoszą:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_25/ust_1/pkt_3/lit_a",
+         "text": "E = ± 5 % dla q ≤q < q , gdzie q — przepływ minimalny, rozumiany jako najmniejsza wartość przepływu, przy której błędy ciepłomierza i jego elementu nie powinny przekraczać błędów granicznych dopuszczalnych, q — przepływ pośredni, rozumiany jako najmniejsza t wartość przepływu, przy której wartość błędu E Pd nie przekracza ± 3 %,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_25/ust_1/pkt_3/lit_b",
+         "text": "E = ± 3 % dla q ≤q≤q , gdzie q — prze- Pd t max max pływ maksymalny, rozumiany jako największa wartość przepływu, dopuszczalna w krótkich okresach czasu (nieprzekraczających w sumie 1 godziny na dobę i 200 godzin rocznie), przy której błędy ciepłomierza i jego elementu nie powinny przekraczać błędów granicznych dopuszczalnych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_25/ust_1/pkt_4",
+       "text": "błąd graniczny dopuszczalny bezwzględny pojedynczego czujnika temperatury, wchodzącego w skład pary czujników temperatury, wynosi ± 2 °C.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Błędy graniczne dopuszczalne względne ciepłomierza składanego i hybrydowego, w którym typ przynajmniej jednego z elementów został zatwierdzony od dnia 1 stycznia 1994 r. do dnia 15 maja 1999 r., ustala się zgodnie z ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_25/ust_3",
+     "text": "Wartości błędów względnych procentowych ciepłomierzy i ich elementów, których typy zostały zatwierdzone od dnia 1 stycznia 1994 r. do dnia 15 maja 1999 r., wyznaczone podczas legalizacji, nie powinny przekraczać wartości odpowiednich błędów granicznych dopuszczalnych, o których mowa w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Przepis końcowy"
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Gospodarki, Pracy i Polityki Społecznej: J. Hausner"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do rozporządzenia Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 13 lutego 2004 r. (poz. 332)"
+    },
+    {
+     "type": "text",
+     "text": "BŁĘDY WZGLĘDNE PROCENTOWE ORAZ BŁĘDY GRANICZNE DOPUSZCZALNE WZGLĘDNE CIEPŁOMIERZA I JEGO ELEMENTÓW ORAZ WZORY, WEDŁUG KTÓRYCH OBLICZA SIĘ TE BŁĘDY"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_26/ust_1",
+     "text": "Błąd względny procentowy ciepłomierza E określa się według wzoru: Q",
+     "children": [
+      {
+       "type": "text",
+       "text": "Q – Q E = ———— i c 100 % Q Q c"
+      },
+      {
+       "type": "text",
+       "text": "gdzie: Q — wartość wskazana ciepła, Q i c — wartość poprawna ciepła."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "Wartość poprawna ciepła Q c wynosi:",
+     "children": [
+      {
+       "type": "text",
+       "text": "τ Q = ∫¹q ∆h dτ"
+      },
+      {
+       "type": "text",
+       "text": "gdzie: q — strumień masy nośnika ciepła, ∆h m — wartość różnicy entalpii właściwej nośnika ciepła w temperaturze na wejściu i w temperaturze na wyjściu obiegu wymiany ciepła, pod odpowiadającym im ciśnieniem, τ — czas, τ — czas początku pomiaru, τ⁰₁ — czas końca pomiaru."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_26/ust_3",
+     "text": "W warunkach ustalonych, w szczególności przy sprawdzaniu ciepłomierza, wartość poprawną ciepła oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Q c = m ∆h lub Q c = k V ∆t"
+      },
+      {
+       "type": "text",
+       "text": "gdzie: m — masa nośnika ciepła, V — objętość nośnika ciepła, ∆t — różnica temperatury, k — współczynnik cieplny, będący funkcją właściwości fizycznych nośnika ciepła, zależną od temperatury na wejściu i temperatury na wyjściu obiegu wymiany ciepła, ciśnienia nośnika ciepła oraz miejsca pomiaru objętości, masy lub przepływu nośnika ciepła; współczynnik cieplny powinien być wyznaczany według wzorów podanych w ust. 15—18."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_26/ust_4",
+     "text": "Wartości błędu względnego procentowego ciepłomierza, o którym mowa w ust. 1, wyznaczone podczas zatwierdzenia typu i legalizacji, nie powinny przekraczać wartości błędów granicznych dopuszczalnych względnych ciepłomierza, o których mowa w ust. 7—8.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_26/ust_5",
+     "text": "Błędy względne procentowe elementów ciepłomierza E N oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "X – X E = ———— i c 100 %"
+      },
+      {
+       "type": "text",
+       "text": "gdzie: X — wartość wskazana lub zmierzona wielkoi ści wyjściowej (sygnału będącego funkcją objętości, masy, przepływu, różnicy temperatury lub ciepła), X — wartość poprawna wskazania lub wyniku c pomiaru wielkości wyjściowej, N — symbol elementu ciepłomierza, przyjmujący oznaczenia: L — przelicznik wskazujący, T — para czujników temperatury, P — przetwornik przepływu."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_26/ust_6",
+     "text": "Wartości błędów względnych procentowych, o których mowa w ust. 5, wyznaczone podczas zatwierdzenia typu i legalizacji, nie powinny przekraczać wartości odpowiednich błędów granicznych dopuszczalnych względnych, o których mowa w ust. 9—12.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_26/ust_7",
+     "text": "Błędy graniczne dopuszczalne względne ciepłomierza E , wyrażone w procentach, w zależności od różnicy temperatury Qd ∆t i przepływu q, oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "E = ± (4 + 4 ∆t /∆t + 0,05 q /q) Qd min p"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_26/ust_8",
+     "text": "Wartość E Qd nie powinna przekraczać ± 10 %.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_26/ust_9",
+     "text": "Błędy graniczne dopuszczalne względne przelicznika wskazującego E , wyrażone w procentach, w zależności od różnicy Ld temperatury ∆t, oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "E Ld = ± (0,5 + ∆t min /∆t)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_26/ust_10",
+     "text": "Błędy graniczne dopuszczalne względne pary czujników temperatury E , wyrażone w procentach, w zależności od różnicy Td temperatury ∆t, oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "E Td = ± (0,5 + 3 ∆t min /∆t)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "par_26/ust_11",
+     "text": "Błędy graniczne dopuszczalne względne przetwornika przepływu E , wyrażone w procen- Pd tach, w zależności od przepływu q, oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "E Pd = ± (3 + 0,05 q p /q)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "par_26/ust_12",
+     "text": "Wartość E nie powinna przekraczać ± 5 %. Pd",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "par_26/ust_13",
+     "text": "Błędy graniczne dopuszczalne względne ciepłomierza składanego i hybrydowego oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "E = E + E + E"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "par_26/ust_14",
+     "text": "Błąd graniczny dopuszczalny bezwzględny pojedynczego czujnika temperatury, wchodzącego w skład pary czujników temperatury, wynosi ± 2 °C.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "par_26/ust_15",
+     "text": "Wartości współczynnika cieplnego k dla wody, wyrażone w MJ/(m³ • K), dla ciśnienia p = 16 bar, w zależności od wartości temperatury na wejściu obiegu wymiany ciepła t , wyrażonej w °C, i temperatury na i =1 wyjściu obiegu wymiany¹ ciepła t , wyrażonej w °C, oraz miejsca montażu przetwornika² przepływu, oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "h – h k (p, t , t ) = ———————¹² ¹² 1 000 v (t₁ – t₂)"
+      },
+      {
+       "type": "text",
+       "text": "gdzie: v — objętość właściwa wody, wyrażona w m³/kg, w temperaturze t lub t , w zależności od miejsca montażu przetwornika przepływu, h — entalpia właściwa wody, wyrażona w kJ/kg, ¹ w temperaturze t , h — entalpia właściwa¹ wody, wyrażona ² w kJ/kg, w temperaturze t₂."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "par_26/ust_16",
+     "text": "Wartość v oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "RT v (π, τ) = —— π γ p π"
+      },
+      {
+       "type": "text",
+       "text": "gdzie: R — stała równa 461,526 J/(kg • K), T — temperatura bezwzględna, wyrażona w K i obliczona według wzoru: T = t + 273,15, gdzie: t = t w przypadku zamontowania przetwornika prze-¹ pływu na wejściu obiegu wymiany ciepła (w temperaturze t ) lub t = t w przypadku zamontowania przetwornika¹ przepływu² na wyjściu obiegu wymiany ciepła (w temperaturze t ), p — ciśnienie² przyjęte jako stałe i równe 1,6 • 10⁶ Pa (16 barów), π — ciśnienie zredukowane, obliczone według wzoru: π= p/p , gdzie p = 16,53 • 10 Pa, * * 6"
+      },
+      {
+       "type": "text",
+       "text": "τ — temperatura zredukowana, obliczona według wzoru: τ= T * /T, gdzie T * = 1 386 K, γ π — współczynnik obliczony według wzoru:"
+      },
+      {
+       "type": "text",
+       "text": "γ = ∑³⁴ – n I (7,1 – π) (τ – 1,222) π i i li – 1 Ji i =1"
+      },
+      {
+       "type": "text",
+       "text": "gdzie: n , I i J — współczynniki, których wartości określa tai i i bela nr 1."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "par_26/ust_17",
+     "text": "Wartości h i h w temperaturach, odpowied- 1 2 nio, t₁ i t₂, oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "h (π,τ) = 0,001 RT τ γ τ"
+      },
+      {
+       "type": "text",
+       "text": "gdzie: R, T, πi τ — parametry zdefiniowane w ust. 16, z tym że do obliczenia wartości h przyjmuje się, iż T = t + 273,15, a do¹ obliczenia wartości h —¹ iż T = t + 273,15, γ τ — współczynnik² obliczony² według wzoru:"
+      },
+      {
+       "type": "text",
+       "text": "γ = ∑ n i (7,1 – π) J i (τ – 1,222)"
+      },
+      {
+       "type": "text",
+       "text": "gdzie: n , I i J — współczynniki, których wartości określa tabela nr 1."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "par_26/ust_18",
+     "text": "Wartości temperatury T i ciśnienia p powinny spełniać następujące warunki: 273,15 K ≤ T ≤ 623,15 K, p (T) ≤ p ≤ 100 MPa, gdzie p (T) — ciśnienie nasycenia pary wodnej w temperaturze T.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "par_26/ust_19",
+     "text": "Wartości odniesienia k, h , h i v dla p = 16 bar, t = 70 °C i t = 30 °C, w zależności¹² od temperatury w¹ miejscu montażu² przetwornika przepływu, określa tabela nr 2.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Tabela nr 1. Współczynniki i wykładniki równań definiujących współczynniki γ π i γ τ"
+      },
+      {
+       "type": "text",
+       "text": "i I J n i I J n i i i i i i"
+      },
+      {
+       "type": "text",
+       "text": "1 0 –2 0,146 329 712 131 67 18 2 3 –0,441 418 453 308 46 • 10 –5"
+      },
+      {
+       "type": "text",
+       "text": "2 0 –1 –0,845 481 871 691 14 19 2 17 –0,726 949 962 975 94 • 10 –15"
+      },
+      {
+       "type": "text",
+       "text": "3 0 0 –0,375 636 036 720 40 • 10¹ 20 3 –4 –0,316 796 448 450 54 • 10 –4"
+      },
+      {
+       "type": "text",
+       "text": "4 0 1 0,338 551 691 683 85 • 10¹ 21 3 0 –0,282 707 979 853 12 • 10 –5"
+      },
+      {
+       "type": "text",
+       "text": "5 0 2 –0,957 919 633 878 72 22 3 6 –0,852 051 281 201 03 • 10 –9"
+      },
+      {
+       "type": "text",
+       "text": "6 0 3 0,157 720 385 132 28 23 4 –5 –0,224 252 819 080 00 • 10 –5"
+      },
+      {
+       "type": "text",
+       "text": "7 0 4 –0,166 164 171 995 01 • 10 –1 24 4 –2 –0,651 712 228 956 01 • 10 –6"
+      },
+      {
+       "type": "text",
+       "text": "8 0 5 0,812 146 299 835 68 • 10 –3 25 4 10 –0,143 417 299 379 24 • 10 –12"
+      },
+      {
+       "type": "text",
+       "text": "9 1 –9 0,283 190 801 238 04 • 10 –3 26 5 –8 –0,405 169 968 601 17 • 10 –6"
+      },
+      {
+       "type": "text",
+       "text": "10 1 –7 –0,607 063 015 658 74 • 10 –3 27 8 –11 –0,127 343 017 416 41 • 10 –8"
+      },
+      {
+       "type": "text",
+       "text": "11 1 –1 –0,189 900 682 184 19 • 10 –1 28 8 –6 –0,174 248 712 306 34 • 10 –9"
+      },
+      {
+       "type": "text",
+       "text": "12 1 0 –0,325 297 487 705 05 • 10 –1 29 21 –29 –0,687 621 312 955 31 • 10 –18"
+      },
+      {
+       "type": "text",
+       "text": "13 1 1 –0,218 417 171 754 14 • 10 –1 30 23 –31 0,144 783 078 285 21 • 10 –19"
+      },
+      {
+       "type": "text",
+       "text": "14 1 3 –0,528 383 579 699 30 • 10 –4 31 29 –38 0,263 357 816 627 95 • 10 –22"
+      },
+      {
+       "type": "text",
+       "text": "15 2 –3 –0,471 843 210 732 67 • 10 –3 32 30 –39 –0,119 476 226 400 71 • 10 –22"
+      },
+      {
+       "type": "text",
+       "text": "16 2 0 –0,300 017 807 930 26 • 10 –3 33 31 –40 0,182 280 945 814 04 • 10 –23"
+      },
+      {
+       "type": "text",
+       "text": "17 2 1 0,476 613 939 069 87 • 10 –4 34 32 –41 –0,935 370 872 924 58 • 10 –25"
+      },
+      {
+       "type": "text",
+       "text": "Tabela nr 2. Wartości odniesienia k, h i v dla p = 16 bar, t = 70 °C i t = 30 °C, w zależności od miejsca montażu przetwornika¹przepływu²"
+      },
+      {
+       "type": "text",
+       "text": "Symbol Przetwornik przepływu Przetwornik przepływu wielkości Jednostka zamontowany w temperaturze t₁ zamontowany w temperaturze t₂"
+      },
+      {
+       "type": "text",
+       "text": "k MJ/(m³ • K) 4,0874 4,1621"
+      },
+      {
+       "type": "text",
+       "text": "h₁ kJ/kg 0,294301 • 10³ 0,294301 • 10³"
+      },
+      {
+       "type": "text",
+       "text": "h₂ kJ/kg 0,127200 • 10³ 0,127200 • 10³"
+      },
+      {
+       "type": "text",
+       "text": "v m /kg 0,102204 • 10 0,100370 • 10"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Gospodarki, Pracy i Polityki Społecznej kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 7 stycznia 2003 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki, Pracy i Polityki Społecznej (Dz. U. Nr 1, poz. 5).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 155, poz. 1286 i Nr 166, poz. 1360 oraz z 2003 r. Nr 170, poz. 1652. 3 3 min max min max max i p s s p s i p s Td max Pd min t min c τ₀ m N X c Qd Ld Td Pd 1 2 τ³⁴ Ii Ji –1 i i i s s 3 –2 –2"
+ }
+}

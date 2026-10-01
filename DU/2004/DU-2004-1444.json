@@ -1,0 +1,4636 @@
+{
+ "eli": "DU/2004/1444",
+ "title": "Rozporządzenie Ministra Infrastruktury z dnia 17 maja 2004 r. w sprawie lotniczych urządzeń naziemnych",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/1444/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 maja 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie lotniczych urządzeń naziemnych[^2]"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 92 pkt 1 i 2 ustawy z dnia 3 lipca 2002 r. — Prawo lotnicze (Dz. U. Nr 130, poz. 1112, z późn. zm.[^3]) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "zasady klasyfikacji lotniczych urządzeń naziemnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "warunki techniczne, jakie powinny spełniać lotnicze urządzenia naziemne, oraz warunki ich eksploatacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "W stosunku do urządzeń naziemnych wykorzystywanych przez lotnictwo wojskowe oraz lotnictwo wojskowe państw obcych nie stosuje się przepisów § 5, § 10, 11 ust. 1, § 12, ust. 1 i 3, § 14, 16, 17, 18, 19, ust. 1 pkt 3, § 21, 33 ust. 1, 2 i 4, § 34, 46, 50, ust. 5, § 56 ust. 9 i 12, § 57 ust. 1 i 2, § 58, 59 ust. 6, § 60, 61, 62 ust. 1 pkt 6 i ust. 4 pkt 2, § 63 ust. 1, 2, 5—7, § 64, 66 ust. 5 i 7, § 67 ust. 1, § 68 ust. 4, § 69 ust. 3—5, § 70 ust. 1 pkt 3 oraz ust. 4 pkt 2, § 73, 74 ust. 2 pkt 3 oraz ust. 3, § 75 ust. 3, § 76 ust. 4, § 77 ust. 1 pkt 3 i 5 oraz ust. 2, 4 i 5, § 79 ust. 4, § 80 ust. 2, § 81 ust. 1, § 83 ust. 1, § 87 ust. 1, § 88, 89 ust. 2—4, § 91 ust. 1 i ust. 4—6, § 94 ust. 1, § 95 ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "W odniesieniu do urządzeń, o których mowa w ust. 1, kompetencje Prezesa Urzędu Lotnictwa Cywilnego wykonują właściwe organy wojskowe.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Użyte w rozporządzeniu określenia i skróty oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "ACARS — (Aircraft Communications Addressing and Reporting System) — lotniczy system adresowania i przekazywania wiadomości;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "ACP — (Azimuth Count Pulse) — impuls informacji azymutalnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "AFTN — (Aeronautical Fixed Telecommunication Network) — stałą telekomunikacyjną sieć lotnicza;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "AIP — (Aeronautical Information Publication) — zbiór informacji lotniczych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "AIRAC — (Aeronautical Information Regulation And Control) — regulację i kontrolę rozpowszechniania informacji lotniczej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "APW — (Area Proximity Warning) — ostrzeżenie o zbliżaniu się statku powietrznego do strefy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_3/pkt_7",
+     "text": "ASR — (Approach Surveillance Radar) — radar pierwotny kontroli zbliżania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_3/pkt_8",
+     "text": "ATC — (Air Traffic Control) — kontrolę ruchu lotniczego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_3/pkt_9",
+     "text": "ATIS — (Automatic Terminal Information Service) — służbę automatycznej informacji lotniczej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_3/pkt_10",
+     "text": "ATM System — (Air Traffic Management System) — system zarządzania ruchem lotniczym — określenie używane również dla systemu przetwarzania i zobrazowania danych o sytuacji powietrznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_3/pkt_11",
+     "text": "BITE — (Build-In Test Equipment) — wbudowane systemy testujące;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_3/pkt_12",
+     "text": "CAVOK — widzialność, chmury i pogoda w chwili obserwacji są lepsze niż zalecane wartości lub warunki;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_3/pkt_13",
+     "text": "CVOR — (Conventional Very High Frequency Omnidirectional Radio Range) — konwencjonalną radiolatarnię ogólnokierunkową VHF;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_3/pkt_14",
+     "text": "D8PSK (Differentional Eight Phase Shift Keying) — różnicowe kluczowanie fazy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_3/pkt_15",
+     "text": "DME — (Distance Measuring Equipment) — urządzenie do pomiaru odległości (radioodległościomierz);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_3/pkt_16",
+     "text": "DME/N — radioodległościomierz wykorzystywany w nawigacji trasowej lub nawigacji w TMA;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_3/pkt_17",
+     "text": "DSB-AM — Double Sideband Amplitude Modulation) — emisję dwuwstęgową z modulacją amplitudy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_3/pkt_18",
+     "text": "DVOR — (Doppler Very High Frequency Omnidirectional Radio Range) — dopplerowską radiolatarnię ogólnokierunkową VHF;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "par_3/pkt_19",
+     "text": "ECAC — (European Civil Aviation Conference) — Europejską Konferencję Lotnictwa Cywilnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "par_3/pkt_20",
+     "text": "EUROCONTROL — europejską organizację do spraw bezpieczeństwa żeglugi powietrznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "par_3/pkt_21",
+     "text": "FAA — (Federal Aviation Administration) — federalne władze lotnictwa USA;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "par_3/pkt_22",
+     "text": "FMG — (Frequency Managment Group) — zespół zarządzania częstotliwościami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "23",
+     "path": "par_3/pkt_23",
+     "text": "GFSK — (Gaussian Frequency Shift Keying) — rodzaj modulacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "24",
+     "path": "par_3/pkt_24",
+     "text": "ICAO — (International Civil Aviation Organization) — Międzynarodową Organizację Lotnictwa Cywilnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "25",
+     "path": "par_3/pkt_25",
+     "text": "ILS — (Instrument Landing System) — system lądowania według wskazań przyrządów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "26",
+     "path": "par_3/pkt_26",
+     "text": "ISLS — (Interrogator Side Lobe Suppression) — tłumienie zapytań listkami bocznymi w części nadawczej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "27",
+     "path": "par_3/pkt_27",
+     "text": "ITU — (International Telecommunication Union) — Międzynarodowy Związek Telekomunikacyjny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "28",
+     "path": "par_3/pkt_28",
+     "text": "MOC — minimalne przewyższenia nad przeszkodami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "29",
+     "path": "par_3/pkt_29",
+     "text": "MOR — (Meteorological Optical Range) — meteorologiczny zasięg optyczny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "30",
+     "path": "par_3/pkt_30",
+     "text": "MSAW — (Minimum Safe Altitude Warning) — ostrzeżenie o osiągnięciu minimalnej bezpiecznej wysokości;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "31",
+     "path": "par_3/pkt_31",
+     "text": "MSK (Minimum Shift Keying) — kluczowanie minimalne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "32",
+     "path": "par_3/pkt_32",
+     "text": "MTBF — (Mean Time Between Failures) — średni czas pomiędzy usterkami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "33",
+     "path": "par_3/pkt_33",
+     "text": "MTBO — (Mean Time Between Outages) — średni czas pomiędzy wyłączeniami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "34",
+     "path": "par_3/pkt_34",
+     "text": "MTCA — (Medium-Term Conflict Alert) — średnioterminowy alert o możliwości konfliktu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "35",
+     "path": "par_3/pkt_35",
+     "text": "NDB — (Non Directional Beacon) — radiolatarnię bezkierunkową;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "36",
+     "path": "par_3/pkt_36",
+     "text": "NOTAM — (Notice To Airmen) — wiadomość rozpowszechnianą za pomocą środków telekomunikacyjnych, zawierającą informacje o ustanowieniu, stanie lub zmianach urządzeń lotniczych, służbach, procedurach, a także o niebezpieczeństwie, których znajomość we właściwym czasie jest istotna dla personelu związanego z operacjami lotniczymi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "37",
+     "path": "par_3/pkt_37",
+     "text": "OLDI — (On-line Data Interchange) — wymianę danych w czasie rzeczywistym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "38",
+     "path": "par_3/pkt_38",
+     "text": "plot — symboliczne zobrazowanie pojedynczej pozycji obiektu, wykrytego przez pojedynczy radar (pierwotny lub wtórny);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "39",
+     "path": "par_3/pkt_39",
+     "text": "PSR — (Position Serach Radar) — radar pierwotny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "40",
+     "path": "par_3/pkt_40",
+     "text": "QFE — (Atmospheric pressure at aerodrome elevation) — wartość ciśnienia, w stosunku do której wysokościomierz statku powietrznego jest ustawiony tak, że będzie wskazywał wysokość zero, kiedy statek powietrzny znajdzie się na ziemi w punkcie, gdzie jest mierzona oficjalna wysokość lotniska;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "41",
+     "path": "par_3/pkt_41",
+     "text": "QNH — wartość ciśnienia, w stosunku do której wysokościomierz statku powietrznego jest ustawiony tak, że będzie wskazywać bezwzględną wysokość lotniska nad poziomem morza, kiedy statek powietrzny znajdzie się na ziemi na tym lotnisku;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "42",
+     "path": "par_3/pkt_42",
+     "text": "RH — (relative humidity) — wilgotność względną;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "43",
+     "path": "par_3/pkt_43",
+     "text": "RSLS — (Receiver Side Lobe Suppression) — tłumienie zapytań listkami bocznymi w części odbiorczej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "44",
+     "path": "par_3/pkt_44",
+     "text": "RVR — (Runway Visual Range) — widzialność wzdłuż drogi startowej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "45",
+     "path": "par_3/pkt_45",
+     "text": "Site Acceptance Test — dokumentację uzyskania świadectwa sprawności systemu oraz dokładności poszczególnych elementów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "46",
+     "path": "par_3/pkt_46",
+     "text": "SPI — (Special Position Identifier) — impuls specjalnego identyfikatora pozycji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "47",
+     "path": "par_3/pkt_47",
+     "text": "SSR — (Secondary Surveilance Radar) — radar wtórny dozorowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "48",
+     "path": "par_3/pkt_48",
+     "text": "STC — (Sensitivity Time Control) — kontrolę czułości w funkcji czasu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "49",
+     "path": "par_3/pkt_49",
+     "text": "STCA — (Short-Term Conflict Alert) — krótkoterminowy alert o możliwości konfliktu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "50",
+     "path": "par_3/pkt_50",
+     "text": "TMA — (Terminal Control Area) — rejon kontrolowany lotniska lub węzła lotnisk;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "51",
+     "path": "par_3/pkt_51",
+     "text": "trak — symboliczne zobrazowanie pojedynczej pozycji obiektu, uzyskane w wyniku systemowej obróbki informacji o pozycji tego obiektu, dostarczonych przez wszystkie radary danego systemu w czasie jednego odświeżenia zobrazowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "52",
+     "path": "par_3/pkt_52",
+     "text": "ULC — Urząd Lotnictwa Cywilnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "53",
+     "path": "par_3/pkt_53",
+     "text": "UPS — (Uninterruptible Power Supply) — bezprzerwowe źródło zasilania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "54",
+     "path": "par_3/pkt_54",
+     "text": "URTiP — Urząd Regulacji Telekomunikacji i Poczty;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "55",
+     "path": "par_3/pkt_55",
+     "text": "VDL — VHF Digital Link — łącze cyfrowe VHF;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "56",
+     "path": "par_3/pkt_56",
+     "text": "VHF — (Very High Frequency) — bardzo wielką częstotliwość;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "57",
+     "path": "par_3/pkt_57",
+     "text": "VOLMET — (Meteorological information for aircraft in flight) — informacje meteorologiczne dla statków powietrznych w locie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "58",
+     "path": "par_3/pkt_58",
+     "text": "WFS — współczynnik fali stojącej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "59",
+     "path": "par_3/pkt_59",
+     "text": "integralność systemu — cechę odnoszącą się do zaufania rzetelności informacji dostarczanej przez urządzenie; poziom integralności ILS — wyraża się jako prawdopodobieństwo niewypromieniowania fałszywego sygnału;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "60",
+     "path": "par_3/pkt_60",
+     "text": "monitor wykonawczy — monitor, który po wykryciu alarmu podejmuje stosowne działanie, polegające w szczególności na:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— przejściu na zestaw rezerwowy,"
+      },
+      {
+       "type": "text",
+       "text": "— wyłączeniu urządzenia z pracy;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "61",
+     "path": "par_3/pkt_61",
+     "text": "strefa krytyczna — strefę o określonych wymiarach wokół systemu antenowego radiolatarni kierunku i ścieżki schodzenia, w której zabroniony jest ruch pojazdom, w tym również powietrznym, w trakcie wykonywania operacji podejścia na ILS-a;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "62",
+     "path": "par_3/pkt_62",
+     "text": "strefa wrażliwa — strefę rozciągającą się poza strefę krytyczną, w której parkowanie lub ruch pojazdów, w tym powietrznych, jest kontrolowany w celu zabezpieczenia sygnału ILS przed jego zakłóceniem w trakcie wykonywania operacji podejścia według ILS;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "63",
+     "path": "par_3/pkt_63",
+     "text": "załącznik ICAO — odpowiedni przyjęty przez Międzynarodową Organizację Lotnictwa Cywilnego (ICAO) załącznik do Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. Nr 35, poz. 212 i 214, z późn. zm.[^4]).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Podmiot dokonujący zakupu systemu łączności, nawigacji i kontroli określa specyfikację techniczną tego sprzętu, korzystając z przepisów określonych przez organizację Eurocontrol.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Zasady klasyfikacji urządzeń"
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Do urządzeń radiokomunikacyjnych zalicza się urządzenia przeznaczone do łączności organów kontroli ruchu lotniczego z załogami statków powietrznych, nadajniki służb informacji lotniczej i komunikatu operacyjnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Ze względu na rodzaj i charakterystykę urządzenia radiokomunikacyjne dzieli się na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "urządzenia głosowej radiokomunikacji lotniczej (radiostacje) — zaprojektowane do pracy w przedziale częstotliwości 117.975 MHz—137.000 MHz. Najniższą przydzieloną częstotliwością jest 118.000 MHz, zaś najwyższą 136.975 MHz. Do celu głosowej radiokomunikacji lotniczej wykorzystuje się emisję dwuwstęgową z modulacją amplitudy DSB-AM, oznaczone jako 6K80A3EJN dla odstępu międzykanałowego 25 kHz oraz 6K00A3EJN dla odstępu międzykanałowego 8.33 kHz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "urządzenia transmisji danych w radiokomunikacji lotniczej (radiostacje) — zaprojektowane do pracy w przedziale częstotliwości 117.975 MHz— 137.000 MHz. Najniższą przydzieloną częstotliwością jest 118.000 MHz, zaś najwyższą 136.975 MHz. W celu transmisji danych w radiokomunikacji lotniczej wykorzystuje się następujące rodzaje emisji, oznaczone odpowiednio jako:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_2/pkt_2/lit_a",
+         "text": "13K0A2DAN dla systemu ACARS wykorzystującego modulację MSK,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_2/pkt_2/lit_b",
+         "text": "14K0G1D dla VDL Mode 2 wykorzystującego modulację D8PSK,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_2/pkt_2/lit_c",
+         "text": "13K0F7D dla VDL Mode 4 wykorzystującego modulację GFSK.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Do urządzeń radionawigacyjnych zalicza się urządzenia przeznaczone do prowadzenia statku powietrznego określoną trasą do punktu przeznaczenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Do urządzeń radiolokacyjnych zalicza się urządzenia przeznaczone do określania pozycji statku powietrznego w przestrzeni powietrznej przy pomocy współrzędnych płaskich (odległości i azymutu).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Do wzrokowych pomocy nawigacyjnych zalicza się urządzenia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_1/pkt_1",
+       "text": "systemów oświetlenia podejść do lądowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_1/pkt_2",
+       "text": "systemów oświetlenia dróg startowych i kołowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_1/pkt_3",
+       "text": "precyzyjne wskaźniki ścieżki schodzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_8/ust_1/pkt_4",
+       "text": "sterowania systemami oświetlenia nawigacyjnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Warunki techniczne dla wzrokowych pomocy nawigacyjnych określa załącznik nr 14 ICAO.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Warunki eksploatacyjne dla wzrokowych pomocy nawigacyjnych określają przepisy o warunkach eksploatacji lotnisk.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Do automatycznych systemów pomiarowych parametrów meteorologicznych zalicza się urządzenia przeznaczone do pomiarów stanu atmosfery w celu określania danych i informacji meteorologicznych z lotniska dla użytkowników, a w szczególności służb ruchu lotniczego i załóg statków powietrznych.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Warunki techniczne i eksploatacyjne dla urządzeń radiokomunikacyjnych"
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Sprzęt i systemy naziemnych urządzeń radiokomunikacji głosowej w paśmie VHF oraz transmisji danych powinny być zgodne z wymaganiami opisanymi w załączniku nr 10 i załączniku nr 11 ICAO.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Parametry urządzeń nadawczych i odbiorczych określa Prezes Urzędu Regulacji Telekomunikacji i Poczty, zwany dalej „Prezesem URTiP” poprzez wydanie świadectwa homologacji potwierdzającego dopuszczenie urządzenia do użytkowania, umożliwiającego otrzymanie pozwolenia na użytkowanie naziemnych stacji radiokomunikacyjnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Radiostacje powinny być eksploatowane zgodnie z ich przeznaczeniem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Anteny odbiorcze stosowane w lotniczych radiostacjach naziemnych powinny zapewniać polaryzację pionową, posiadać dookolną charakterystykę promieniowania lub kierunkową w zastosowaniach specjalnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "WFS w zakresie pracy 118.000—137.000 MHz nie może być gorszy niż 2:1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Anteny powinny charakteryzować się możliwością wypromieniowania mocy nie mniejszej niż wpisana w pozwoleniu wydanym przez Prezesa URTiP.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_12/ust_4",
+     "text": "Antena lub system antenowy powinien być zaprojektowany z uwzględnieniem ekstremalnych warunków pogodowych oraz być odporny na obciążenia wiatrem, o prędkości do 160 km/h.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_12/ust_5",
+     "text": "Antena lub system antenowy powinien być zaprojektowany z uwzględnieniem obowiązujących przepisów odporności na wyładowania atmosferyczne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_12/ust_6",
+     "text": "Dopuszcza się wykorzystywanie jednej anteny przez kilka urządzeń radiokomunikacyjnych jednocześnie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_12/ust_7",
+     "text": "Warunki instalacji powinny być zgodne z zaleceniami producenta.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Operator urządzeń radiokomunikacyjnych określa, na podstawie zaleceń producenta, częstotliwość i rodzaj wykonywanych pomiarów naziemnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Warunkiem eksploatacji urządzenia radiokomunikacyjnego jest uzyskanie zezwolenia Prezesa ULC na oddanie tego urządzenia do użytku operacyjnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Zezwolenie, o którym mowa w ust. 1, wydaje się na wniosek złożony do Prezesa ULC, do którego załącza się następujące dokumenty:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_2/pkt_1",
+       "text": "protokół w sprawie przekazania urządzenia do użytku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_2/pkt_2",
+       "text": "pozwolenie radiowe na używanie naziemnej radiostacji lotniczej wydane przez Prezesa URTiP.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Częstotliwości dla lotniczych urządzeń naziemnych powinny być planowane i wyznaczane oraz kryteria ich separacji przyjmowane zgodnie z załącznikiem nr 10 ICAO.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Warunki techniczne i eksploatacyjne dla urządzeń radionawigacyjnych"
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "W celu stwierdzenia właściwej eksploatacji urządzeń radionawigacyjnych przeprowadza się kontrole z powietrza.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Wyróżnia się następujące rodzaje kontroli z powietrza:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_2/pkt_1",
+       "text": "kontrola komisyjna — szczegółowa kontrola z powietrza mająca na celu potwierdzenie spełnienia przez sygnał w przestrzeni powietrznej norm przewidzianych dla danego urządzenia. Wyniki tej kontroli skorelowane z wynikami kontroli na ziemi stanowią podstawę do certyfikacji urządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_2/pkt_2",
+       "text": "kontrola kategoryzująca — ma za zadanie potwierdzić, że sygnał w przestrzeni powietrznej spełnia normy przewidziane dla wyższej kategorii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_16/ust_2/pkt_3",
+       "text": "kontrola okresowa — kontrola z powietrza, wykonywana w regularnych odstępach czasu, mająca na celu potwierdzenie, że sygnał w przestrzeni powietrznej spełnia normy przewidziane dla danej kategorii urządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_16/ust_2/pkt_4",
+       "text": "kontrola doraźna — kontrola z powietrza, wykonywana po zaistniałym wypadku lotniczym lub na żądanie operatora z powodu niesprawności urządzenia oraz po wymianie podstawowych elementów systemu, w szczególności anteny i nadajnika. Sprawdzeniu podlegają parametry, które mają lub mogły mieć wpływ na pracę urządzenia. Jeżeli uzasadniają to względy ekonomiczne, zamiast kontroli doraźnej można wykonać kontrolę okresową.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "W przypadku gdy poszczególne rodzaje kontroli mają być wykonywane w jednym czasie, w pierwszej kolejności wykonuje się kontrole doraźne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "W wyniku przeprowadzonej kontroli inspektor pokładowy przydziela kontrolowanemu urządzeniu radionawigacyjnemu jedną z następujących klas:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_17/pkt_1",
+     "text": "BEZ OGRANICZEŃ — sygnał w przestrzeni powietrznej spełnia wszystkie normy zawarte w niniejszym rozporządzeniu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_17/pkt_2",
+     "text": "Z OGRANICZENIAMI — sygnał w przestrzeni powietrznej nie spełnia ustalonych w niniejszym rozporządzeniu norm w sektorach pokrycia, ale w określonej strefie jest bezpieczny dla użytkownika. Obszary niespełniające norm powinny zostać opublikowane w AIP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_17/pkt_3",
+     "text": "NIEUŻYTECZNE — sygnał w przestrzeni powietrznej nie spełnia żadnych norm zawartych w niniejszym rozporządzeniu lub jest niestabilny. Urządzenie nie nadaje się do wykorzystania operacyjnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Warunkiem eksploatacji urządzenia radionawigacyjnego jest uzyskanie zezwolenia Prezesa ULC na oddanie tego urządzenia do użytku operacyjnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Zezwolenie, o którym mowa w ust. 1, wydaje się na wniosek złożony do Prezesa ULC, do którego załącza się następujące dokumenty:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_2/pkt_1",
+       "text": "protokół w sprawie przekazania do użytku nowo oddawanego urządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_2/pkt_2",
+       "text": "protokoły z kontroli urządzenia z powietrza;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_2/pkt_3",
+       "text": "protokoły z kontroli nowo opracowanych procedur podejścia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_18/ust_2/pkt_4",
+       "text": "pozwolenie radiowe na używanie nowo oddanej naziemnej stacji lotniczej, wydane przez Prezesa URTiP.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "System ILS zaliczany do urządzeń radionawigacyjnych składa się z następujących elementów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_1/pkt_1",
+       "text": "radiolatarni kierunku pracującej w paśmie częstotliwości od 108 MHz do 112 MHz, o minimalnym zasięgu 46,3 km (25 NM), mierzonym od środka systemu antenowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_1/pkt_2",
+       "text": "radiolatarni ścieżki schodzenia pracującej w paśmie częstotliwości od 328 MHz do 336 MHz o minimalnym zasięgu 18,5 km (10 NM), mierzonym od miejsca posadowienia systemu antenowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_19/ust_1/pkt_3",
+       "text": "radiolatarni znakujących pracujących na częstotliwości 75 MHz, dostarczających informacji o pozycji statku powietrznego znajdującego się w określonej odległości od progu drogi startowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Zamiast radiolatarni znakujących dopuszcza się stosowanie radioodległościomierza (DME), dostarczającego informacji o odległości w sposób ciągły.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Pod względem dokładności, integralności i niezawodności ILS dzieli się na następujące kategorie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_20/pkt_1",
+     "text": "kategoria I (najniższa),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_20/pkt_2",
+     "text": "kategoria II,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_20/pkt_3",
+     "text": "kategoria III (najwyższa)",
+     "children": [
+      {
+       "type": "text",
+       "text": "— o których mowa w załączniku nr 10 ICAO."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Na czas obsługi technicznej systemu ILS, w szczególności w trakcie przeglądów okresowych oraz na czas napraw i pomiarów tych urządzeń z powietrza, system powinien zostać wyłączony z pracy operacyjnej przez operatora systemu, a informacja o tym powinna być publikowana za pomocą NOTAM, odpowiednio w cyklu AIRAC lub cyklu zwykłym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "W okresie wyłączenia z pracy operacyjnej urządzenie radionawigacyjne pracuje w trybie „ON TEST”, przy czym znak identyfikacyjny TST powinien być ustawiany przez operatora sprzętu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "W zależności od kategorii system ILS powinien spełniać następujące poziomy integralności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_22/ust_1/pkt_1",
+       "text": "poziom 2 — w przypadku kategorii I,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_22/ust_1/pkt_2",
+       "text": "poziom 3 — w przypadku kategorii II,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_22/ust_1/pkt_3",
+       "text": "poziom 4 — w przypadku kategorii III",
+       "children": [
+        {
+         "type": "text",
+         "text": "— o których mowa w załączniku nr 10 ICAO."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Operator systemu ILS oblicza jego integralność w celu określenia jej poziomu dla danej kategorii.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Ciągłość pracy systemu ILS określa się na podstawie obliczonych współczynników MTBO i MTBF.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Konstrukcja i sposób działania systemu monitorów systemu ILS powinny pozwolić na wyłączenie urządzenia systemu ILS nawet w przypadku awarii samego systemu monitorów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "W celu uniknięcia wyłączenia urządzenia systemu ILS spowodowanego awarią monitora systemy kategorii II i III powinny posiadać co najmniej dwa monitory kontrolujące pracę jednego nadajnika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_24/ust_3",
+     "text": "Dla radiolatarni kierunku całkowity czas nadawania sygnału będącego poza tolerancją, o której mowa w § 33 ust. 1 i § 34, w tym również brak sygnału nadawanego, nie może przekroczyć:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_3/pkt_1",
+       "text": "dla kat. I — 10 s;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_3/pkt_2",
+       "text": "dla kat. II — 5 s;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_24/ust_3/pkt_3",
+       "text": "dla kat. III — 2 s.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_24/ust_4",
+     "text": "Dla radiolatarni ścieżki schodzenia całkowity czas nadawania sygnału będącego poza tolerancją, o której mowa w § 33 ust. 2 i § 34, w tym również brak sygnału nadawanego, nie może przekroczyć:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_4/pkt_1",
+       "text": "dla kat. I — 6 s;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_4/pkt_2",
+       "text": "dla kat. II i III — 2 s.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_24/ust_5",
+     "text": "Radiolatarnia kierunku kategorii I powinna być wyposażona w co najmniej jeden monitor pola bliskiego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_24/ust_6",
+     "text": "Radiolatarnia ścieżki schodzenia kategorii I powinna być wyposażona w co najmniej jeden monitor pola bliskiego kontrolującego kąt ścieżki schodzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_24/ust_7",
+     "text": "Radiolatarnia kierunku kategorii III powinna być wyposażona w monitor pola dalekiego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_24/ust_8",
+     "text": "Monitor pola dalekiego nie może być monitorem wykonawczym. W celu zabezpieczenia przed fałszywymi alarmami spowodowanymi przez poruszające się statki powietrzne, należy wprowadzić do monitora odpowiednie opóźnienie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "W miejscu wyznaczonym przez zarządzającego lub zakładającego system ILS należy zainstalować wskaźnik zdalnej kontroli i stanu pracy urządzeń tego systemu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Utrata łączności z urządzeniami systemu ILS musi spowodować natychmiastowy alarm na sygnalizatorze, nie powodując jednocześnie wyłączenia urządzenia tego systemu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_25/ust_3",
+     "text": "W przypadku utraty łączności z systemem ILS, statek powietrzny znajdujący się w końcowej fazie podejścia powinien dokończyć manewr, a po jego zakończeniu system ILS musi zostać wyłączony z pracy operacyjnej, o czym powiadamia się załogi innych statków powietrznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_25/ust_4",
+     "text": "W celu zapewnienia ciągłości pracy urządzenia systemu ILS w przypadku utraty łączności ze zdalnym wskaźnikiem, należy natychmiast wysłać do urządzenia przeszkoloną osobę z obsługi wyposażoną w środki łączności z ATC, z tym że nie można wyłączać monitorów systemu, a o wszelkich zmianach w pracy sprzętu należy powiadomić kierownika ATC.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_26/ust_1",
+     "text": "Urządzenia systemu kategorii III oprócz wskaźnika zdalnej kontroli i stanu wyposaża się we wskaźnik kategorii, który powinien posiadać ten sam wskaźnik integralności co ILS.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "Wszelkie zmiany w kategorii systemu ILS urządzenia powinny powodować alarm dźwiękowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_26/ust_3",
+     "text": "W przypadku obniżenia kategorii spowodowanej usterką urządzenia systemu ILS, przywrócenia kategorii wyższej, po usunięciu usterki, dokonuje ręcznie upoważniona osoba.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_26/ust_4",
+     "text": "Urządzenia systemu ILS kategorii III wyposaża się w dwa zestawy nadajników. Nadajnik niepracujący operacyjnie powinien być podłączony do sztucznego obciążenia, a jego parametry powinny być monitorowane.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_27/ust_1",
+     "text": "Jeżeli na tej samej drodze startowej zainstalowano na przeciwnych jej końcach systemy ILS, to powinny one być przełączane w taki sposób, aby w danej chwili pracował tylko jeden z systemów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_27/ust_2",
+     "text": "System przełączający powinien być tak skonstruowany, aby uniemożliwiał on włączenie urządzenia systemu ILS niepracującego operacyjnie za pomocą urządzenia zdalnego sterowania lub lokalnego sterowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Kod identyfikacji powinien być włączony tylko wtedy, gdy urządzenie systemu ILS pracuje operacyjnie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_29/ust_1",
+     "text": "Systemy ILS kategorii I powinny posiadać bateryjne zasilanie awaryjne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_29/ust_2",
+     "text": "Systemy ILS kategorii II i III powinny posiadać bateryjne zasilanie awaryjne umożliwiające podtrzymanie pracy urządzeń systemu, przez co najmniej 20 minut, w przypadku awarii zasilania głównego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_29/ust_3",
+     "text": "Urządzenie zasilane awaryjnie musi być wyłączone z pracy operacyjnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_30/ust_1",
+     "text": "Dla systemów ILS kategorii I, II i III operator określa strefę krytyczną, o której mowa w załączniku nr 10 ICAO.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_30/ust_2",
+     "text": "Dla systemów ILS kategorii II i III operator określa, poza strefą krytyczną, również strefę wrażliwą, o której mowa w załączniku nr 10 ICAO.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_31/ust_1",
+     "text": "Strefy krytyczne radiolatarni kierunku i ścieżki schodzenia powinny być oznaczone w sposób przejrzysty. Oznaczenie powinno być widziane w dzień oraz w nocy, tak aby zapobiegać naruszeniu tej strefy przez ludzi i pojazdy bez stosownego zezwolenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_31/ust_2",
+     "text": "Jeżeli do oznaczenia strefy krytycznej użyto ogrodzenia, to nie może ono powodować zakłóceń promieniowanych sygnałów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "Dla urządzeń systemu ILS odstęp czasu pomiędzy kolejnymi kontrolami z powietrza wynosi 180 dni, o ile dla danego urządzenia nie zostanie przyznany inny odstęp czasu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Kontrola z powietrza, która odbędzie się najwyżej na 7 dni przed końcem wyliczonego przedziału czasu, nie wpływa na datę kolejnej inspekcji. Jeżeli kontrola z powietrza zostanie dokonana wcześniej niż na 7 dni przed upływem końca wyliczonego przedziału czasu, to termin kolejnej kontroli liczy się od dnia zakończenia poprzedniej kontroli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_32/ust_3",
+     "text": "W wyjątkowych okolicznościach, polegających w szczególności na awarii samolotu lub aparatury pomiarowej, Prezes ULC może zezwolić na zwiększenie odstępu czasu, o którym mowa w ust. 1, o 20 dni, pod warunkiem spełnienia wymagań określonych w ust. 4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_32/ust_4",
+     "text": "Zezwolenie na zwiększenie przedziału odstępu czasu, o którym mowa w ust. 3, może być wydane pod warunkiem:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_32/ust_4/pkt_1",
+       "text": "odnotowania w protokołach z poprzednich kontroli wyników niewskazujących na niestabilność parametrów i niezbliżonych do limitów alarmowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_32/ust_4/pkt_2",
+       "text": "stabilnych odczytów z monitorów od czasu ostatniej kontroli;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_32/ust_4/pkt_3",
+       "text": "stabilnych pomiarów w punktach naziemnych od czasu ostatniej kontroli oraz niewpłynięcia raportów wskazujących na złą pracę urządzenia od ostatniej przeprowadzonej kontroli.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_32/ust_5",
+     "text": "Jeżeli warunki atmosferyczne uniemożliwiają dokończenie już rozpoczętej kontroli, to system ILS może pracować przez kolejne 20 dni pod warunkiem, że w ramach rozpoczętej kontroli zdołano przeprowadzić kontrolę, która obejmuje kontrolę:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_32/ust_5/pkt_1",
+       "text": "wyrazistości poza kursem ±35° w odległości około 6 NM oraz lot po osi dla obu nadajników — w przypadku radiolatarni kierunku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_32/ust_5/pkt_2",
+       "text": "lotu na stałej wysokości w odległości początkowej 10 NM oraz lot po wyznaczonym kącie ścieżki schodzenia dla obu nadajników — w przypadku radiolatarni ścieżki schodzenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_32/ust_6",
+     "text": "Jeżeli rozpoczęta kontrola, o której mowa w ust. 5, nie zostanie zakończona w terminie 20 dni, to system ILS zostanie uznany za niezdolny do użytku operacyjnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_32/ust_7",
+     "text": "Protokół z przeprowadzonej kontroli z powietrza, niezwłocznie po jej zakończeniu, przekazuje się do Prezesa ULC.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_33/ust_1",
+     "text": "Parametry i tolerancje mierzone dla radiolatarni kierunku podczas kontroli z powietrza określa załącznik nr 1 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_33/ust_2",
+     "text": "Parametry i tolerancje mierzone dla radiolatarni ścieżki schodzenia podczas kontroli z powietrza określa załącznik nr 2 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_33/ust_3",
+     "text": "Przedział czasu pomiędzy kolejnymi kontrolami z powietrza radiolatarni znakujących i radioodległościomierzy (DME) wchodzących w skład systemu ILS jest taki sam jak dla całego systemu ILS.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_33/ust_4",
+     "text": "W trakcie kontroli radiolatarni znakującej powinien być zmierzony czas, dla którego poziom sygnału utrzymuje się powyżej punktu odniesienia (korygowany do prędkości naziemnej równej 96 węzłom). Zmierzony czas powinien wynosić:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_33/ust_4/pkt_1",
+       "text": "od 2 do 4 s — dla radiolatarni wewnętrznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_33/ust_4/pkt_2",
+       "text": "od 4 do 8 s — dla radiolatarni środkowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_33/ust_4/pkt_3",
+       "text": "od 8 do 16 s — dla radiolatarni zewnętrznej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_33/ust_5",
+     "text": "W trakcie kontroli radioodległościomierza powinny być zmierzone następujące parametry:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_33/ust_5/pkt_1",
+       "text": "identyfikacja (kontrola komisyjna i okresowa);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_33/ust_5/pkt_2",
+       "text": "dokładność nie więcej niż 75 m (kontrola komisyjna i okresowa);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_33/ust_5/pkt_3",
+       "text": "pokrycie (poziom sygnału na wejściu odbiornika pokładowego nie może być niższy niż –89 dBW/m² w całym obszarze pokrycia urządzenia ILS; dotyczy kontroli komisyjnej i okresowej).",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_34/ust_1",
+     "text": "Ustawienia limitów alarmowych monitorów dla radiolatarni kierunku ILS oraz dla radiolatarni ścieżki schodzenia ILS nie mogą przekroczyć wartości określonych w załączniku nr 3 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_34/ust_2",
+     "text": "W trakcie kontroli komisyjnej i kategoryzującej limity alarmowe monitorów powinny być sprawdzane dla nadajnika głównego i rezerwowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_34/ust_3",
+     "text": "W trakcie kontroli okresowych limity alarmowe powinny być sprawdzane przemiennie dla nadajnika głównego i rezerwowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "Operator systemu ILS określa na podstawie zaleceń producenta częstotliwość i rodzaj wykonywanych pomiarów naziemnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "Naziemne punkty pomiarowe powinny być oznaczone w sposób wyraźny i trwały. Nie mogą one stanowić zagrożenia dla statków powietrznych i muszą być odporne na ewentualne uszkodzenia powstałe w wyniku czynności związanych z prowadzeniem prac naziemnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "W celu wykonywania naziemnych pomiarów kontrolnych operator systemu ILS powinien być wyposażony w zestaw urządzeń posiadających ważny certyfikat kalibracji. Zestaw powinien składać się co najmniej z:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_37/pkt_1",
+     "text": "przenośnego urządzenia mierzącego sygnał radiolatarni kierunku — w przypadku systemów kategorii I i II;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_37/pkt_2",
+     "text": "przenośnego urządzenia mierzącego sygnał radiolatarni kierunku oraz sprzętu umożliwiającego pomiar ugięć wzdłuż osi drogi startowej — w przypadku systemów ILS kategorii III.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_38/ust_1",
+     "text": "Punkty pomiarowe powinny być wyznaczone na progu pasa w odległości 105 m, z każdej strony linii centralnej drogi startowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_38/ust_2",
+     "text": "Jeżeli nie można uzyskać odległości, o której mowa w ust. 1, z powodu przeszkód naziemnych, to odległość tę zmniejsza się do 60 m.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_38/ust_3",
+     "text": "Jeżeli wymagania dla punktów pomiarowych, o których mowa w ust. 1 i 2, nie mogą zostać spełnione, to pomiarów można dokonać w punktach położonych bliżej. Punkty te nie powinny jednak znajdować się w odległości mniejszej niż połowa długości drogi startowej mierzonej od systemu antenowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_38/ust_4",
+     "text": "Pomiar kursu powinien być wykonywany na progu drogi startowej lub w odległości zapewniającej stabilny odczyt.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_38/ust_5",
+     "text": "Urządzenia systemu ILS w kategorii III powinny mieć mierzoną strukturę kursu wzdłuż osi drogi startowej, od progu drogi startowej do punktu E, ustalonego w zależności od długości drogi startowej zgodnie z załącznikiem nr 10 ICAO.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_38/ust_6",
+     "text": "W przypadku wykonania regulacji parametrów urządzenia, pomiary powinny być również wykonywane w możliwie najkrótszym czasie po kontroli z powietrza.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "Parametry ścieżki schodzenia: kąt ścieżki schodzenia, czułość przemieszczania oraz wyrazistość poniżej ścieżki schodzenia (dla systemów dwuczęstotliwościowych) można zmierzyć w punkcie monitorowania radiolatarni lub w odległości co najmniej 300 m od ścieżki schodzenia, przy czym w drugim przypadku należy zastosować maszt antenowy o wysokości co najmniej 22 m oraz zapewnić dokładność pomiaru ±5 cm.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_40/ust_1",
+     "text": "Radiolatarnia ogólnokierunkowa typu DVOR powinna być wyposażona w dwa niezależne systemy monitorujące.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_40/ust_2",
+     "text": "Każdy monitor powinien kontrolować wybrany azymut za pomocą zewnętrznej anteny kontrolnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_40/ust_3",
+     "text": "Radiolatarnia, o której mowa w ust. 1, powinna być tak zaprojektowana, aby awaria jednej promieniującej anteny lub towarzyszącego jej obwodu powodowała uruchomienie alarmu, a konfiguracja systemu monitorującego nie może umożliwiać pracy urządzenia z jednym monitorem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_41/ust_1",
+     "text": "Radiolatarnia typu VOR wyposażona w dwa systemy monitorujące powinna być skonfigurowana w trybie „OR” podczas pracy nadajnika przyłączonego do anteny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_41/ust_2",
+     "text": "Jeżeli radiolatarnia typu VOR pracuje na nadajniku rezerwowym, system monitorowania powinien pracować w trybie „OR” lub „AND”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_41/ust_3",
+     "text": "System monitorujący powinien wyłączyć radiolatarnię lub przełączyć na zestaw zapasowy w ciągu 5 sekund, jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_41/ust_3/pkt_1",
+       "text": "nie jest nadawany prawidłowy kod identyfikacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_41/ust_3/pkt_2",
+       "text": "monitorowany azymut zmienił się o wartość większą niż 1°;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_41/ust_3/pkt_3",
+       "text": "nastąpiła zmiana w 30 Hz sygnale modulowanym amplitudowo lub podnośnej 9 960 Hz o więcej niż 15 %;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_41/ust_3/pkt_4",
+       "text": "pojawiło się wycięcie (brak sygnału) w charakterystyce DVOR spowodowane awarią anten pracujących w parze;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_41/ust_3/pkt_5",
+       "text": "pojawiła się usterka w systemie samokontrolującym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_41/ust_4",
+     "text": "Jeżeli usterki, o których mowa w ust. 3, pojawiły się podczas pracy nadajnika rezerwowego, system monitorujący powinien wyłączyć urządzenie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_41/ust_5",
+     "text": "Jeżeli radiolatarnia VOR będzie wykorzystywana w procedurach podejścia lub odlotu, powinna zostać wyposażona w odpowiedni wskaźnik stanu pracy urządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_41/ust_6",
+     "text": "Radiolatarnia ogólnokierunkowa powinna być wyposażona w alternatywne źródło zasilania umożliwiające pracę urządzenia przez co najmniej 4 godziny w przypadku awarii zasilania głównego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_42/ust_1",
+     "text": "Radiolatarnia ogólnokierunkowa powinna nadawać na przyznanej częstotliwości w paśmie od 108 MHz do 117.975 MHz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_42/ust_2",
+     "text": "Stabilność częstotliwości powinna być utrzymywana z dokładnością ± 0.002 % od nominalnej wartości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_42/ust_3",
+     "text": "W rejonie operacyjnym radiolatarni należy utrzymywać natężenie pola co najmniej 90 µV/m.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_42/ust_4",
+     "text": "Nadawany z radiolatarni ogólnokierunkowej sygnał powinien być spolaryzowany poziomo, natomiast składniki polaryzacji pionowej powinny zostać wytłumione do możliwie najniższego poziomu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_42/ust_5",
+     "text": "Dokładność horyzontalnie spolaryzowanego sygnału nadawanego z radiolatarni ogólnokierunkowej w odległości około:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_42/ust_5/pkt_1",
+       "text": "czterech długości fali od CVOR,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_42/ust_5/pkt_2",
+       "text": "300 m od DVOR",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "dla wszystkich kątów w płaszczyźnie pionowej pomiędzy 0° a 40°, mierzona od środka radiolatarni, powinna wynosić ±2°."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_42/ust_6",
+     "text": "Odchylenia od kursu spowodowane ugięciami nie mogą przekroczyć 3,5° od obliczonego średniego ustawienia kursu i muszą pozostawać w przedziale 3,5° od prawidłowego azymutu magnetycznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_42/ust_7",
+     "text": "Nierówności i cykliczne odchylenia od linii kursu, zwane falowaniem, oraz ich kombinacje nie mogą przekroczyć 3° od średniego kursu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_42/ust_8",
+     "text": "Ustawienie radiali musi zawierać się w ±2,5° od prawidłowego kursu magnetycznego, z wyjątkiem radialu odniesienia (jeśli został wybrany), którego ustawienie nie może przekroczyć ±1° od prawidłowego azymutu magnetycznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_43/ust_1",
+     "text": "Sygnał częstotliwości podnośnej radiolatarni ogólnokierunkowej 9 960 Hz powinien mieć wartość nominalną z tolerancją ±1 % oraz:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_43/ust_1/pkt_1",
+       "text": "stałą amplitudę;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_43/ust_1/pkt_2",
+       "text": "być modulowany sygnałem 30 Hz ±1 % z głębokością 30 % ±2 %;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_43/ust_1/pkt_3",
+       "text": "posiadać współczynnik dewiacji 16 ±1.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_43/ust_2",
+     "text": "Poziomy, o których mowa w ust. 1, powinny być utrzymywane w kącie do 5° powyżej poziomu przeciwwagi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_43/ust_3",
+     "text": "Modulacja amplitudy podnośnej 9 960 Hz dla CVOR nie może przekraczać 5 %.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_43/ust_4",
+     "text": "Modulacja amplitudy podnośnej 9 960 Hz dla DVOR nie może przekraczać 40 %, mierząc w punkcie oddalonym co najmniej 300 m od radiolatarni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_43/ust_5",
+     "text": "Częstotliwości modulacyjne sygnału zmiennego i odniesienia powinny wynosić 30 Hz ± 1 %, mierzone:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_43/ust_5/pkt_1",
+       "text": "w odległości nie mniejszej niż cztery długości fali od CVOR;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_43/ust_5/pkt_2",
+       "text": "za pomocą anteny monitorującej umieszczonej na krawędzi przeciwwagi lub w polu dalekim dla DVOR.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_43/ust_6",
+     "text": "Z zastrzeżeniem ust. 7, każda radiolatarnia ogólnokierunkowa powinna posiadać indywidualny znak rozpoznawczy składający się z dwóch lub trzech liter alfabetu Morse’a, nadawanych z prędkością odpowiadającą około siedmiu słowom na minutę. Znak rozpoznawczy powinien być nadawany przynajmniej raz na 30 s.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_43/ust_7",
+     "text": "Jeżeli radiolatarnia pracuje z radioodległościomierzem DME, sygnał rozpoznawczy powinien być nadawany w sposób następujący: trzy sygnały z VOR, jeden sygnał z DME.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_43/ust_8",
+     "text": "Jeżeli radiolatarnia nie pracuje operacyjnie, znak rozpoznawczy powinien być usunięty lub ustawiony na nadawanie sygnału testowego, zwanego dalej „TST”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_43/ust_9",
+     "text": "Częstotliwością modulacyjną znaku rozpoznawczego jest 1 020 Hz ±50 Hz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_43/ust_10",
+     "text": "Głębokość modulacji znaku rozpoznawczego nie może przekroczyć 20 %.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "44",
+   "path": "par_44",
+   "text": "Parametry, które powinny być zmierzone podczas różnych rodzajów kontroli z powietrza, określa załącznik nr 4 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "45",
+   "path": "par_45",
+   "text": "Operator radiolatarni ogólnokierunkowych określa na podstawie zaleceń producenta częstotliwość i rodzaj wykonywanych pomiarów naziemnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "46",
+   "path": "par_46",
+   "text": "Pokrycie użyteczne powinno zostać określone podczas sprawdzenia komisyjnego radiolatarni i opublikowane w AIP.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "47",
+   "path": "par_47",
+   "text": "Dla radiolatarni VOR przedział czasu pomiędzy kolejnymi kontrolami z powietrza wynosi 12 miesięcy, o ile dla danego urządzenia nie został przyznany inny przedział czasu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "48",
+   "path": "par_48",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_48/ust_1",
+     "text": "Jeżeli z radiolatarnią VOR współpracuje radioodległościomierz DME, to przedział czasu pomiędzy kolejnymi kontrolami z powietrza jest taki sam jak dla urządzenia VOR.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_48/ust_2",
+     "text": "W trakcie kontroli radioodległościomierza muszą być zmierzone następujące parametry:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_48/ust_2/pkt_1",
+       "text": "identyfikacja — dotyczy kontroli komisyjnej i okresowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_48/ust_2/pkt_2",
+       "text": "dokładność (błąd nie większy niż 150 m) — dotyczy kontroli komisyjnej i okresowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_48/ust_2/pkt_3",
+       "text": "pokrycie (poziom sygnału na wejściu odbiornika pokładowego nie może być niższy niż –89 dBW/m² w całym obszarze pokrycia VOR) — dotyczy kontroli komisyjnej i okresowej.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "49",
+   "path": "par_49",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_49/ust_1",
+     "text": "W celu zapewnienia ciągłości pracy radiolatarnia bezkierunkowa NDB może być wyposażona w dwa zestawy nadajników.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_49/ust_2",
+     "text": "Radiolatarnia bezkierunkowa NDB wykorzystywana w procedurach podejścia powinna być wyposażona w zdalny wskaźnik stanu umożliwiający ciągłe monitorowanie pracy urządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_49/ust_3",
+     "text": "Radiolatarnia bezkierunkowa NDB wykorzystywana w procedurach podejścia powinna być wyposażona w alternatywne źródło zasilania, zapewniające pracę urządzenia przez co najmniej 30 minut od wystąpienia awarii zasilania głównego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "50",
+   "path": "par_50",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_50/ust_1",
+     "text": "Radiolatarnia bezkierunkowa powinna nadawać na przyznanej częstotliwości w paśmie od 200 kHz do 600 kHz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_50/ust_2",
+     "text": "Moc wyjściowa radiolatarni bezkierunkowej powinna zapewnić minimalne natężenie pola wynoszące 70 µV/m na granicy nominalnego pokrycia i być utrzymywana w przedziale od plus 2 dB do minus 3 dB.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_50/ust_3",
+     "text": "Radiolatarnia, o której mowa w ust. 1, powinna emitować nośną modulowaną znakiem rozpoznawczym o częstotliwości 1 020 Hz ±50 Hz lub 400 Hz ±25 Hz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_50/ust_4",
+     "text": "Radiolatarnia bezkierunkowa NDB musi posiadać indywidualny znak rozpoznawczy składający się z dwóch lub trzech liter alfabetu Morse’a, nadawanych z prędkością odpowiadającą około siedmiu słowom na minutę. Znak rozpoznawczy powinien być nadawany przynajmniej raz na 30 s.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_50/ust_5",
+     "text": "Jeżeli radiolatarnia nie pracuje operacyjnie, to znak rozpoznawczy powinien być usunięty lub ustawiony na TST.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_50/ust_6",
+     "text": "Głębokość modulacji sygnału nadawanego przez radiolatarnię powinna być utrzymywana możliwie najbliżej wartości 95 %, ale nie może spaść poniżej wartości 85 %.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_50/ust_7",
+     "text": "Moc nośnej radiolatarni nie może obniżyć się więcej niż o 1,5 dB w czasie nadawania znaku rozpoznawczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_50/ust_8",
+     "text": "Niepożądane modulacje sygnału nośnej, o której mowa w ust. 7, częstotliwościami akustycznymi nie mogą przekroczyć 5 % amplitudy sygnału nośnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "51",
+   "path": "par_51",
+   "text": "Operator radiolatarni bezkierunkowej określa, na podstawie zaleceń producenta, częstotliwość i rodzaj wykonywanych pomiarów naziemnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "52",
+   "path": "par_52",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_52/ust_1",
+     "text": "Radiolatarnie bezkierunkowe NDB rozmieszczone na drogach lotniczych sprawdza się z powietrza w następujących przypadkach:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_52/ust_1/pkt_1",
+       "text": "po instalacji nowego urządzenia (sprawdzenie komisyjne);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_52/ust_1/pkt_2",
+       "text": "po zmianach konstrukcyjnych anteny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_52/ust_1/pkt_3",
+       "text": "po wymianie nadajnika lub innego kluczowego elementu systemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_52/ust_1/pkt_4",
+       "text": "po otrzymaniu raportu od użytkownika o nieprawidłowej pracy urządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_52/ust_1/pkt_5",
+       "text": "na żądanie operatora.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_52/ust_2",
+     "text": "Radiolatarnie bezkierunkowe NDB wykorzystywane w procedurach podejścia (lokatory) sprawdza się raz na 12 miesięcy, o ile dla danego urządzenia nie został przyznany inny przedział czasu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "53",
+   "path": "par_53",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_53/ust_1",
+     "text": "Radioodległościomierz DME powinien nadawać na przyznanej częstotliwości w paśmie 960— 1215 MHz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_53/ust_2",
+     "text": "Kształt wszystkich impulsów nadawanych przez radioodległościomierz DME/N musi spełnić następujące warunki:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_53/ust_2/pkt_1",
+       "text": "czas narastania impulsu nie może przekroczyć 3 µs;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_53/ust_2/pkt_2",
+       "text": "czas trwania impulsu powinien wynosić 3,5 µs ±0,5 µs;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_53/ust_2/pkt_3",
+       "text": "czas opadania impulsu powinien wynosić nominalnie 2,5 µs, ale nie może przekroczyć 3,5 µs;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_53/ust_2/pkt_4",
+       "text": "odstęp pomiędzy impulsami w parze impulsów powinien być zgodny z wybranym kanałem z tabeli A w rozdziale 3 załącznika nr 10 ICAO, z tolerancją ±0,25 µs.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_53/ust_3",
+     "text": "Częstotliwość powtarzania nadajnika radioodległościomierza DME nie może być niższa niż 700 par impulsów na sekundę (wliczając w to przypadkowe impulsy i impulsy par odpowiedzi), z wyjątkiem okresów, kiedy nadawany jest kod rozpoznawczy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_53/ust_4",
+     "text": "Tolerancja częstotliwości dla nadajnika i odbiornika nie może przekraczać ±0,002 % od wyznaczonej częstotliwości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_53/ust_5",
+     "text": "Czułość transpondera DME/N powinna wynosić co najmniej –103 dBW/m².",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_53/ust_6",
+     "text": "Czułość, o której mowa w ust. 5, powinna zapewnić skuteczność odpowiedzi przynajmniej 70 % dla DME/N.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_53/ust_7",
+     "text": "Opóźnienie systemowe dla radioodległościomierza DME/N wynosi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_53/ust_7/pkt_1",
+       "text": "dla trybu X — 50 µs ±1 µs dla urządzeń trasowych i ±0,5 µs dla urządzeń współpracujących z pomocami do lądowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_53/ust_7/pkt_2",
+       "text": "dla trybu Y — 56 µs ±1µs dla urządzeń trasowych i ±0,5 µs dla urządzeń współpracujących z pomocami do lądowania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_53/ust_8",
+     "text": "Radioodległościomierz powinien być wyposażony w urządzenie monitorujące pracę nadajnika będącego w użyciu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_53/ust_9",
+     "text": "W przypadku gdy parametr, o którym mowa w ust. 7, nie spełnia wymogów tolerancji, monitor radioodległościomierza powinien być tak zaprojektowany, aby:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_53/ust_9/pkt_1",
+       "text": "przesłać odpowiednią informację do punktu kontrolnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_53/ust_9/pkt_2",
+       "text": "wyłączyć nadajnik operacyjny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_53/ust_9/pkt_3",
+       "text": "przełączyć na nadajnik rezerwowy, jeżeli taki istnieje.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "54",
+   "path": "par_54",
+   "text": "Operator radioodległościomierza określa na podstawie zaleceń producenta częstotliwość i rodzaj wykonywanych pomiarów naziemnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "55",
+   "path": "par_55",
+   "text": "Przy określaniu częstotliwości oraz zakresu pomiarów stosuje się przepisy § 33 ust. 3 i 5 oraz § 48.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Warunki techniczne i eksploatacyjne dla urządzeń radiolokacyjnych"
+  },
+  {
+   "type": "par",
+   "num": "56",
+   "path": "par_56",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_56/ust_1",
+     "text": "Urządzenia radiolokacyjne powinny być tak zaprojektowane, aby zapewniały kompletną, dokładną i wiarygodną informację o sytuacji powietrznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_56/ust_2",
+     "text": "Parametry działania systemu radarowego powinny umożliwiać służbom kontroli ruchu lotniczego zapewnienie separacji horyzontalnej wynoszącej minimum 5 NM dla kontroli rejonu TMA i minimum 10 NM dla kontroli obszaru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_56/ust_3",
+     "text": "Dostęp do systemów radarowych i powiązanych z nimi urządzeń powinien być ograniczony do osób upoważnionych, w sposób uniemożliwiający przypadkowe lub celowe ograniczenie dostępności informacji radarowej dla służb zarządzania ruchem lotniczym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_56/ust_4",
+     "text": "W przypadku powstania interferencji elektromagnetycznych, pracujące operacyjnie urządzenia radarowe wykorzystywane dla celów kontroli ruchu lotniczego mają priorytet przed jakimikolwiek innymi urządzeniami operującymi w tym samym zakresie częstotliwości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_56/ust_5",
+     "text": "Zakładający urządzenie, o którym mowa w ust. 4, stosuje środki eliminujące interferencję elektromagnetyczną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_56/ust_6",
+     "text": "Urządzenia radarowe powinny być zainstalowane w pomieszczeniach spełniających wymagane warunki, określone przez producenta urządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_56/ust_7",
+     "text": "Obiekty, w których zainstalowano urządzenia radiolokacyjne, powinny być wyposażone w dodatkowe urządzenia (UPS).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_56/ust_8",
+     "text": "Wszystkie urządzenia powinny być zasilane z sieci elektrycznej 230V/400V (–20/+15 %), 50 Hz ±10 %. Wszystkie parametry przetwarzania powinny być utrzymywane bez dodatkowego strojenia, gdy napięcie zasilające zmienia się w założonej tolerancji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_56/ust_9",
+     "text": "Poszczególne elementy systemu radiolokacyjnego w szafach montażowych powinny być zainstalowane w sposób zapewniający łatwy dostęp. Maksymalny czas niezbędny do demontażu takiego zespołu lub podzespołu nie może przekraczać 20 minut.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_56/ust_10",
+     "text": "W celu maksymalnego skrócenia czasu niesprawności urządzeń do pracy operacyjnej powinien być zapewniony zestaw części zapasowych obejmujący minimum podzespołów, zespołów i modułów występujących pojedynczo w urządzeniu z wyłączeniem części antenowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "par_56/ust_11",
+     "text": "System napędowy anteny powinien być wyposażony w automatyczny wyłącznik bezpieczeństwa umożliwiający automatyczne wyłączenie napędu anteny i wysokiego napięcia nadajnika w przypadku wejścia obsługi na platformę antenową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "par_56/ust_12",
+     "text": "W celu zachowania ciągłości pracy systemy radiolokacyjne powinny być zbudowane ze zdublowaną częścią elektroniczną zawierającą układy automatycznego wykrywania błędów, z czasem przełączania nie dłuższym niż 2 sekundy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "57",
+   "path": "par_57",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_57/ust_1",
+     "text": "Radar pierwotny kontroli zbliżania ASR powinien pracować w paśmie S w zakresie częstotliwości od 2 700 MHz do 2 900 MHz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_57/ust_2",
+     "text": "Prędkość obrotowa anteny radaru ASR powinna być nie mniejsza niż 12 obrotów na minutę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_57/ust_3",
+     "text": "Poziom tłumienia listków bocznych powinien być powyżej 25 dB.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_57/ust_4",
+     "text": "Radar ASR powinien być tak zaprojektowany, aby:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_57/ust_4/pkt_1",
+       "text": "zapewniał informację o obiektach w czasie pełnego obrotu anteny — 360° w azymucie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_57/ust_4/pkt_2",
+       "text": "zapewniał informację o obiektach w zakresie od 0.5 NM do 60 NM dla obiektów o skutecznej powierzchni odbicia równej 1 m²;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_57/ust_4/pkt_3",
+       "text": "zawierał co najmniej jeden kanał pogodowy wydzielony lub zintegrowany z kanałem odbiorczym obiektów, umożliwiający odbiór i przetwarzanie informacji pogodowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_57/ust_5",
+     "text": "Parametry przetwarzania informacji przez radar ASR powinny być takie, aby statek powietrzny poruszający się z prędkością kątową pomiędzy 25 i 800 węzłów został wykryty z ogólnym prawdopodobieństwem wykrycia, co najmniej 80 %.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_57/ust_6",
+     "text": "Dokładność pozycyjna informacji radarowej ASR będąca wynikiem błędów losowych powinna wynosić co najmniej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_57/ust_6/pkt_1",
+       "text": "100 m dla błędu w odległości bezpośredniej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_57/ust_6/pkt_2",
+       "text": "0.15° dla błędu w azymucie.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "58",
+   "path": "par_58",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_58/ust_1",
+     "text": "Średnia ilość fałszywych depesz o obiektach w ciągu jednego obrotu anteny nie może przekraczać 20.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_58/ust_2",
+     "text": "Jednorazowo czas wyłączenia radaru pierwotnego z pracy operacyjnej z powodu awarii nie powinien przekraczać 5 godzin.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_58/ust_3",
+     "text": "Dane wyjściowe radaru pierwotnego ASR powinny zawierać potwierdzoną, zmierzoną (niewygładzoną) informację pozycyjną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_58/ust_4",
+     "text": "Skumulowany czas wyłączenia radaru pierwotnego z pracy operacyjnej z powodu awarii nie powinien przekraczać 10 godzin rocznie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_58/ust_5",
+     "text": "Do czasów wyłączenia, o których mowa w ust. 2 i 4, nie wliczają się czasy planowanych wyłączeń związanych z konserwacją urządzeń.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "59",
+   "path": "par_59",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_59/ust_1",
+     "text": "Nowo instalowane radary wtórne SSR powinny być typu monoimpulsowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_59/ust_2",
+     "text": "Nowo instalowane systemy radiolokacji wtórnej powinny zapewniać możliwość ich rozbudowy w celu wykorzystania modu S, opisanego w załączniku nr 11 ICAO.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_59/ust_3",
+     "text": "Częstotliwość robocza nadajnika radaru wtórnego powinna wynosić 1 090 MHz ±0,2 MHz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_59/ust_4",
+     "text": "Częstotliwość robocza odbiornika radaru wtórnego powinna wynosić 1 030 MHz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_59/ust_5",
+     "text": "Radar wtórny SSR powinien umożliwiać wysyłanie zapytań, co najmniej w modach 3/A i C, opisanych w załączniku nr 4 ICAO oraz zapewniać przeplot modów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_59/ust_6",
+     "text": "Parametry modów zapytania powinny odpowiadać charakterystyce przedstawionej w załączniku nr 10 ICAO tom 4.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "60",
+   "path": "par_60",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_60/ust_1",
+     "text": "Systemy radiolokacji wtórnej powinny posiadać następujące parametry:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_60/ust_1/pkt_1",
+       "text": "prawdopodobieństwo wykrycia większe niż 97 %;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_60/ust_1/pkt_2",
+       "text": "współczynnik występowania obiektów fałszywych mniejszy niż 0,1 %;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_60/ust_1/pkt_3",
+       "text": "współczynnik wielokrotnych depesz o obiekcie mniejszy niż 0,3 %, w tym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_60/ust_1/pkt_3/lit_a",
+         "text": "z depesz pochodzących od odbić mniejszy niż 0,2 %,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_60/ust_1/pkt_3/lit_b",
+         "text": "z depesz pochodzących od listków bocznych mniejszy niż 0,1 %,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_60/ust_1/pkt_3/lit_c",
+         "text": "z depesz w wyniku rozszczepienia mniejszy niż 0,1 %;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_60/ust_1/pkt_4",
+       "text": "prawdopodobieństwo wykrycia kodu modu 3/A większe niż 98 %;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_60/ust_1/pkt_5",
+       "text": "prawdopodobieństwo wykrycia kodu modu C większe niż 96 %;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_60/ust_1/pkt_6",
+       "text": "współczynnik występowania fałszywych kodów mniejszy niż 0,2 %.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_60/ust_2",
+     "text": "Dokładność pozycyjna informacji radarowej SSR będąca wynikiem błędów losowych powinna wynosić co najmniej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_60/ust_2/pkt_1",
+       "text": "100 m dla błędu w odległości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_60/ust_2/pkt_2",
+       "text": "0,1° dla błędu w azymucie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_60/ust_3",
+     "text": "Maksymalny czas przetrzymywania depesz radarowych w pamięci nie powinien przekraczać czasu potrzebnego do wykonywania 25 % obrotu anteny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_60/ust_4",
+     "text": "Jednorazowo czas wyłączenia radaru wtórnego z pracy operacyjnej z powodu awarii nie powinien przekraczać 4 godzin.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_60/ust_5",
+     "text": "Skumulowany czas wyłączenia radaru wtórnego z pracy operacyjnej z powodu awarii nie powinien przekraczać 10 godzin rocznie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_60/ust_6",
+     "text": "Do czasów wyłączenia systemów, o których mowa w ust. 4 i 5, nie wliczają się czasy planowych wyłączeń związanych z konserwacją urządzeń.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "61",
+   "path": "par_61",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_61/ust_1",
+     "text": "Wszystkie podstawowe podsystemy systemu radiolokacyjnego powinny być wyposażone w układy BITE.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_61/ust_2",
+     "text": "Układy BITE powinny zapewniać ciągłą weryfikację w trakcie pracy statusu i poprawności funkcjonowania urządzeń. Informacja wyjściowa z układów monitorowania powinna być dostępna na stanowisku monitorowania i kontroli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_61/ust_3",
+     "text": "Funkcja monitorowania i kontroli powinna być dostępna lokalnie w miejscu instalacji radaru i w miejscu do tego wyznaczonym na szczeblu centralnym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_61/ust_4",
+     "text": "W przypadku gdy funkcja, o której mowa w ust. 3, jest dostępna, powinna mieć ona ten sam priorytet i dzielić dostęp do systemu, jednak w tym samym czasie tylko jedno stanowisko powinno mieć dostęp do funkcji kontroli. Funkcje monitorowania powinny być dostępne równolegle.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_61/ust_5",
+     "text": "System monitorowania i kontroli powinien dostarczać następujących informacji:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_61/ust_5/pkt_1",
+       "text": "wskazanie, że wszystkie główne parametry systemu radiolokacyjnego są w zakresie zdefiniowanych limitów wartości nominalnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_61/ust_5/pkt_2",
+       "text": "w przypadku awarii — bezpośrednie wskazanie uszkodzonego zespołu (przynajmniej do poziomu wymienialnego modułu);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_61/ust_5/pkt_3",
+       "text": "w przypadku systemów ze zdublowanymi elementami — wskazanie, że możliwa jest rekonfiguracja systemu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_61/ust_6",
+     "text": "System monitorowania i kontroli dostępny lokalnie powinien umożliwiać tworzenie wydruków parametrów i statusu systemu radiolokacyjnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "62",
+   "path": "par_62",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_62/ust_1",
+     "text": "Warunkiem rozpoczęcia eksploatacji urządzeń radiolokacyjnych jest:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_62/ust_1/pkt_1",
+       "text": "dokonanie odbioru technicznego urządzeń w miejscu instalacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_62/ust_1/pkt_2",
+       "text": "dokonanie analizy jakości danych przy wykorzystaniu komputerowych systemów analizy danych radarowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_62/ust_1/pkt_3",
+       "text": "dokonanie analizy jakości danych radarowych w oparciu o wyniki kontroli z powietrza;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_62/ust_1/pkt_4",
+       "text": "dokonanie pomiarów promieniowania elektromagnetycznego dla celów BHP i ochrony środowiska;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_62/ust_1/pkt_5",
+       "text": "dokonanie analizy poprawnej pracy systemów transmisji danych radarowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_62/ust_1/pkt_6",
+       "text": "uzyskanie zezwolenia Prezesa ULC na wykorzystanie operacyjne urządzenia w oparciu o czynności, o których mowa w pkt 1—5.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_62/ust_2",
+     "text": "Odbiór techniczny w miejscu instalacji powinien być dokonywany na podstawie dokumentu opisującego procedurę odbioru technicznego. Procedura ta powinna być uzgodniona pomiędzy dostawcą urządzeń i ich użytkownikiem przed rozpoczęciem testów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_62/ust_3",
+     "text": "Procedura odbioru technicznego powinna umożliwić weryfikację parametrów technicznych urządzenia i wymogów funkcjonalnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_62/ust_4",
+     "text": "Przeprowadzenie procedury odbioru technicznego powinno być udokumentowane w postaci:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_62/ust_4/pkt_1",
+       "text": "dokumentacji procedury testów odbiorczych z wpisanymi wynikami testów urządzeń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_62/ust_4/pkt_2",
+       "text": "dokumentacji odbioru technicznego potwierdzającego spełnienie wszystkich wymagań technicznych i funkcjonalnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_62/ust_5",
+     "text": "Dokumenty, o których mowa w ust. 4, powinny być parafowane i podpisane przez użytkownika lub upoważnione przez niego osoby.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "63",
+   "path": "par_63",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_63/ust_1",
+     "text": "Analiza jakości danych radarowych przy wykorzystaniu komputerowych systemów analizy danych radarowych powinna być wykonywana na podstawie minimum trzech 6-godzinnych nagrań sytuacji powietrznej przy średnim natężeniu ruchu lotniczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_63/ust_2",
+     "text": "Do analizy jakości danych radarowych powinny być stosowane systemy będące w powszechnym zastosowaniu dla takich celów i rekomendowane przez ICAO, EUROCONTROL lub FAA.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_63/ust_3",
+     "text": "Kontrola z powietrza oznacza oblot sprawdzający radaru z wykorzystaniem specjalnego samolotu realizującego lot według wcześniej ustalonej procedury oblotu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_63/ust_4",
+     "text": "Wykonanie kontroli z powietrza i analiza danych z takiej kontroli powinny stanowić potwierdzenie wyników analizy jakości danych radarowych wykonanych przy wykorzystaniu komputerowych systemów analizy danych radarowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_63/ust_5",
+     "text": "Analiza łączy transmisyjnych powinna obejmować nie mniej niż trzy jednogodzinne okresy testów. Wynik analizy powinien dostarczyć informacji o stabilności pracy łącza i stopie błędu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_63/ust_6",
+     "text": "Wyniki analiz, o których mowa w ust. 1, 2, 4 i 5, powinny być wykonane w formie wydruku z ilustracją graficzną lub tabelaryczną i potwierdzone podpisem osoby upoważnionej przez użytkownika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_63/ust_7",
+     "text": "Odbiór techniczny i kontrola z powietrza powinny obejmować co najmniej testy i pomiary określone w załączniku nr 5 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "64",
+   "path": "par_64",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_64/ust_1",
+     "text": "Dopuszcza się wykorzystywanie przez państwowy organ kontroli ruchu lotniczego danych pochodzących z urządzeń radarowych eksploatowanych przez organizacje zapewniające zarządzanie ruchem lotniczym w państwach należących do ECAC lub EUROCONTROL.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_64/ust_2",
+     "text": "Warunkiem dopuszczenia do wykorzystywania danych radarowych z urządzeń, o których mowa w ust. 1, jest:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_64/ust_2/pkt_1",
+       "text": "uzyskanie przez państwowy organ kontroli ruchu lotniczego kopii dokumentu odbioru technicznego urządzenia od jego użytkownika oraz kopii dokumentu dopuszczającego urządzenie do pracy operacyjnej wydanego przez właściwy organ innego państwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_64/ust_2/pkt_2",
+       "text": "przeprowadzenie analizy jakości danych przy wykorzystaniu komputerowych systemów analizy danych radarowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_64/ust_2/pkt_3",
+       "text": "przeprowadzenie analizy poprawnej pracy systemów transmisji danych radarowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_64/ust_2/pkt_4",
+       "text": "uzyskanie zezwolenia Prezesa ULC na wykorzystanie operacyjne urządzenia w oparciu o dokumenty i czynności, o których mowa w pkt 1—3.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_64/ust_3",
+     "text": "Do czynności, o których mowa w ust. 2 pkt 2 i 3, stosuje się odpowiednio przepisy § 62.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "65",
+   "path": "par_65",
+   "text": "Operator urządzenia radiolokacyjnego określa na podstawie zaleceń producenta częstotliwości i rodzaj wykonywanych pomiarów naziemnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "66",
+   "path": "par_66",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_66/ust_1",
+     "text": "System przetwarzania i zobrazowania danych radarowych powinien być tak zaprojektowany, aby zapewniać dokładność, dostępność i integralność danych wejściowych oraz ich prezentację w niezakłócony i czytelny sposób.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_66/ust_2",
+     "text": "Urządzenia systemu powinny być zainstalowane w pomieszczeniach spełniających wymagane warunki określone przez producenta urządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_66/ust_3",
+     "text": "Obiekty, w których zainstalowano urządzenia systemu, powinny być wyposażone w dodatkowe urządzenia UPS. Wszystkie urządzenia powinny być zasilane z sieci elektrycznej 230V/400V (–20/+15 %), 50 Hz ±10 %.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_66/ust_4",
+     "text": "Wszystkie parametry przetwarzania powinny być utrzymane bez dodatkowych regulacji, gdy napięcie zasilające zmienia się w dopuszczalnej tolerancji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_66/ust_5",
+     "text": "Poszczególne elementy systemu przetwarzania zobrazowania danych w szafach montażowych powinny być zainstalowane w sposób zapewniający łatwy dostęp. Maksymalny czas niezbędny do demontażu takiego zespołu lub podzespołu nie powinien przekraczać 15 minut.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_66/ust_6",
+     "text": "W celu maksymalnego skrócenia czasu niesprawności urządzeń do pracy operacyjnej powinien być zapewniony zestaw części zapasowych zawierający minimalną ilość podzespołów, zespołów i modułów występujących pojedynczo w urządzeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_66/ust_7",
+     "text": "W celu zachowania ciągłości pracy systemy ATM powinny posiadać zdublowaną część elektroniczną (z wyłączeniem indywidualnych stanowisk zobrazowania sytuacji powietrznej), z układem automatycznego wykrywania błędów i z czasem przełączania nie dłuższym niż 2 sekundy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "67",
+   "path": "par_67",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_67/ust_1",
+     "text": "System przetwarzania i zobrazowania danych radarowych powinien zapewniać prezentację danych radarowych w formie plotów lub traków w jednym stale otwartym oknie na ekranie monitora. Sposób zobrazowania powinien umożliwiać identyfikację następujących kategorii danych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_67/ust_1/pkt_1",
+       "text": "plot PSR;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_67/ust_1/pkt_2",
+       "text": "plot SSR;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_67/ust_1/pkt_3",
+       "text": "plot łączny PSR i SSR;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_67/ust_1/pkt_4",
+       "text": "trak PSR;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_67/ust_1/pkt_5",
+       "text": "trak SSR;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_67/ust_1/pkt_6",
+       "text": "trak łączny PSR i SSR;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_67/ust_1/pkt_7",
+       "text": "impuls specjalny identyfikatora pozycji (SPI);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_67/ust_1/pkt_8",
+       "text": "kody specjalnie alokowane.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_67/ust_2",
+     "text": "Prezentacja plotów i traków powinna zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_67/ust_2/pkt_1",
+       "text": "symbol pozycyjny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_67/ust_2/pkt_2",
+       "text": "historię plotu/traku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_67/ust_2/pkt_3",
+       "text": "wektor prędkości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_67/ust_2/pkt_4",
+       "text": "linię łączącą symbol pozycyjny z etykietą;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_67/ust_2/pkt_5",
+       "text": "etykietę identyfikacyjną statku powietrznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_67/ust_3",
+     "text": "System powinien przetwarzać i umożliwiać zobrazowanie danych w trybie śledzenia wieloradarowego i jednoradarowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_67/ust_4",
+     "text": "Jeżeli system umożliwia filtrowanie danych, powinien on również zapewnić możliwość wyświetlenia parametrów takiego filtru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_67/ust_5",
+     "text": "System powinien zapewniać przyciągnięcie uwagi operatora (przez zmianę koloru opisu lub jego miganie, lub sygnał dźwiękowy), jeżeli wykryty zostanie jeden z niżej wymienionych kodów niebezpieczeństwa:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_67/ust_5/pkt_1",
+       "text": "7700: POMOC;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_67/ust_5/pkt_2",
+       "text": "7600: AWARIA RADIOSTACJI;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_67/ust_5/pkt_3",
+       "text": "7500: PORWANIE.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_67/ust_6",
+     "text": "System powinien posiadać następujące funkcje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_67/ust_6/pkt_1",
+       "text": "wybór zasięgu zobrazowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_67/ust_6/pkt_2",
+       "text": "wybór map;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_67/ust_6/pkt_3",
+       "text": "przesunięcie zobrazowania względem środka jego układu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_67/ust_6/pkt_4",
+       "text": "możliwość określenia odległości obiektu w szczególności poprzez okręgi zasięgowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_67/ust_6/pkt_5",
+       "text": "wybór długości linii łączącej symbol pozycyjny z etykietą;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_67/ust_6/pkt_6",
+       "text": "możliwość zmiany położenia etykiety.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "68",
+   "path": "par_68",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_68/ust_1",
+     "text": "Na stanowisku zobrazowania sytuacji powietrznej powinna być zapewniona informacja techniczna o pracy źródeł informacji radarowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_68/ust_2",
+     "text": "Dopuszcza się zastosowanie w systemach przetwarzania i zobrazowania danych radarowych narzędzi pozwalających na alarmowanie operatora w niebezpiecznych sytuacjach w ruchu lotniczym, w szczególności STCA, MTCA, APW, MSAW.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_68/ust_3",
+     "text": "Dopuszcza się zastosowanie w systemach ATM podsystemu umożliwiającego przetwarzanie planów lotu i ich korelację z danymi radarowymi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_68/ust_4",
+     "text": "Źródłem informacji wejściowej do takiego podsystemu powinny być dane z sieci AFTN, wymiany depesz OLDI i dane wprowadzane manualnie przez operatora.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "69",
+   "path": "par_69",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_69/ust_1",
+     "text": "Systemy ATM powinny być wyposażone w podsystem umożliwiający rejestrację i odtwarzanie zarejestrowanej sytuacji powietrznej. Zarejestrowane dane powinny być zabezpieczone przed dostępem osób nieupoważnionych i archiwizowane przez okres co najmniej 30 dni od dnia ich wytworzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_69/ust_2",
+     "text": "Jeżeli system ATM posiada podsystem rejestracji i odtwarzania sytuacji powietrznej, to działanie tego podsystemu nie może pogarszać parametrów przetwarzania danych całego systemu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_69/ust_3",
+     "text": "Maksymalny jednorazowy czas wyłączenia systemu z pracy operacyjnej z powodu awarii nie powinien przekraczać 1 godziny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_69/ust_4",
+     "text": "Skumulowany czas wyłączenia systemu z pracy operacyjnej z powodu awarii nie powinien przekraczać 5 godzin w ciągu roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_69/ust_5",
+     "text": "Do czasów wyłączenia, o których mowa w ust. 3 i 4, nie wlicza się czasu planowych wyłączeń technicznych związanych z konserwacją urządzeń.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "70",
+   "path": "par_70",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_70/ust_1",
+     "text": "Warunkiem rozpoczęcia eksploatacji urządzeń radiolokacyjnych jest:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_70/ust_1/pkt_1",
+       "text": "dokonanie odbioru technicznego urządzeń w miejscu instalacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_70/ust_1/pkt_2",
+       "text": "dokonanie analizy jakości zobrazowania w oparciu o wyniki kontroli z powietrza;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_70/ust_1/pkt_3",
+       "text": "uzyskanie zezwolenia Prezesa ULC na wykorzystanie operacyjne urządzenia w oparciu o wyniki etapów, o których mowa w pkt 1 i 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_70/ust_2",
+     "text": "Odbiór techniczny w miejscu instalacji powinien być dokonywany na podstawie dokumentu opisującego procedurę odbioru technicznego. Procedura ta powinna być uzgodniona pomiędzy dostawcą urządzeń i ich użytkownikiem przed rozpoczęciem testów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_70/ust_3",
+     "text": "Procedura, o której mowa w ust. 2, powinna umożliwić weryfikację parametrów technicznych urządzenia i wymogów funkcjonalnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_70/ust_4",
+     "text": "Procedura odbioru technicznego powinna być udokumentowana w postaci:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_70/ust_4/pkt_1",
+       "text": "dokumentu procedury testów odbiorczych z wpisanymi wynikami testów urządzeń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_70/ust_4/pkt_2",
+       "text": "dokumentacji odbioru technicznego potwierdzającego spełnienie wszystkich wymagań technicznych i funkcjonalnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_70/ust_5",
+     "text": "Dokumenty, o których mowa w ust. 4, powinny być parafowane i podpisane przez użytkownika lub upoważnione przez niego osoby.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "71",
+   "path": "par_71",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_71/ust_1",
+     "text": "W celu potwierdzenia zachowania przez system przetwarzania i zobrazowania danych radarowych oraz poprawnego funkcjonowania mapy elektronicznej przeprowadza się kontrolę z powietrza według ustalonej wcześniej procedury oblotu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_71/ust_2",
+     "text": "Analiza danych z kontroli, o której mowa w ust. 1, jest podstawą oceny prawidłowości pracy systemu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "72",
+   "path": "par_72",
+   "text": "Operator systemów przetwarzania i zobrazowania danych radarowych określa na podstawie zaleceń producenta częstotliwość i rodzaj wykonywanych pomiarów naziemnych.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Warunki techniczne i eksploatacyjne, jakim powinny odpowiadać automatyczne systemy pomiarowe parametrów meteorologicznych"
+  },
+  {
+   "type": "par",
+   "num": "73",
+   "path": "par_73",
+   "text": "Automatyczne systemy pomiarowe parametrów meteorologicznych, zwane dalej „automatycznymi systemami”, powinny umożliwiać określenie poszczególnych mierzonych parametrów meteorologicznych w zakresie odpowiadającym warunkom ekstremalnym występującym w strefie klimatycznej właściwej dla położenia geograficznego Rzeczypospolitej Polskiej oraz z dokładnością określoną w załączniku nr 6 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "74",
+   "path": "par_74",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_74/ust_1",
+     "text": "Automatyczne systemy pomiarowe powinny być tak zaprojektowane, aby informacje meteorologiczne dostarczane użytkownikom lotnisk były aktualne oraz podane w postaci wymagającej minimalnej interpretacji, zgodnej z załącznikiem nr 3 ICAO.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_74/ust_2",
+     "text": "Automatyczne systemy należy tak zaprojektować, zlokalizować oraz użytkować, aby:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_74/ust_2/pkt_1",
+       "text": "najbardziej wiarygodnie odzwierciedlały mierzone parametry meteorologiczne w określonych zakresach i z odpowiednią dokładnością;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_74/ust_2/pkt_2",
+       "text": "umożliwiały wykrywanie błędów i generowały komunikaty o niesprawności poszczególnych elementów systemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_74/ust_2/pkt_3",
+       "text": "spełniały warunki bezpieczeństwa w szczególności w odniesieniu do urządzeń emitujących promieniowanie elektromagnetyczne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_74/ust_2/pkt_4",
+       "text": "umożliwiały ręczne wprowadzanie i potwierdzanie niemierzalnych wielkości meteorologicznych do systemu lub korekcję i potwierdzanie wskazań generowanych przez system w przypadku, kiedy operator uzna to za konieczne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_74/ust_3",
+     "text": "Automatyczne systemy należy tak zaprojektować, aby posiadały możliwość archiwizacji danych i informacji meteorologicznych przez okres co najmniej 90 dni oraz umożliwiały ich podgląd oraz wydruk.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "75",
+   "path": "par_75",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_75/ust_1",
+     "text": "Automatyczne systemy należy poddawać, określonym przez producenta w instrukcji użytkowania, okresowym przeglądom, kalibracji i sprawdzeniu poprawności wskazań. W przypadku kiedy stwierdzono usterkę lub błędne wskazanie, a brak jest możliwości naprawy lub kalibracji, należy dokonać wymiany danego elementu systemu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_75/ust_2",
+     "text": "Jeśli na lotnisku wykorzystywany jest automatyczny system, to należy stosować odpowiednio zorganizowany sposób przekazywania informacji meteorologicznych do służb ruchu lotniczego, lotniskowej służby meteorologicznej oraz innych użytkowników.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_75/ust_3",
+     "text": "Na lotniskach dopuszcza się wykorzystywanie automatycznych mierników pogody bieżącej określających widzialność, wielkość i rodzaj opadów oraz aktualną pogodę według norm Światowej Organizacji Meteorologicznej (WMO).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_75/ust_4",
+     "text": "Informacje dotyczące pogody bieżącej powinny być reprezentatywne dla drogi startowej lub kompleksu dróg startowych, przy czym w przypadku rozbieżności pomiędzy wartościami wskazywanymi przez automatyczny miernik pogody bieżącej a oceną obserwatora ta ostatnia jest nadrzędna.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "76",
+   "path": "par_76",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_76/ust_1",
+     "text": "Dopuszcza się wykorzystywanie na lotniskach i lądowiskach jako systemy uzupełniające zintegrowanych automatycznych systemów oraz czujników mierzących wybrane parametry meteorologiczne, uwzględniając fakt, że powyższe systemy określają parametry meteorologiczne w miejscu ich lokalizacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_76/ust_2",
+     "text": "Obsługę oraz konserwację systemu powinny wykonywać osoby posiadające stosowne uprawnienia, a urządzenia powinny być eksploatowane i konserwowane zgodnie z zaleceniami producenta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_76/ust_3",
+     "text": "Autoryzacja wyników pomiarów z automatycznych systemów, podawanych użytkownikowi, powinna być dokonywana przez upoważnioną osobę, będącą obserwatorem lotniskowej stacji meteorologicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_76/ust_4",
+     "text": "W przypadku kiedy na lotnisku lub lądowisku brak jest lotniskowej stacji meteorologicznej, autoryzacja wyników pomiaru powinna być dokonywana przez osobę posiadającą odpowiednie uprawnienia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "77",
+   "path": "par_77",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_77/ust_1",
+     "text": "Warunkiem dopuszczenia do operacyjnego użytkowania automatycznego systemu jest przedłożenie Prezesowi ULC następujących dokumentów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_77/ust_1/pkt_1",
+       "text": "krótkiej charakterystyki technicznej użytkowanego systemu, w tym wykazu elementów wraz z ich parametrami technicznymi, wykorzystywanych i dostępnych funkcji systemu, sposobu dystrybucji danych, archiwizacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_77/ust_1/pkt_2",
+       "text": "mapy powykonawczej z lokalizacją poszczególnych elementów systemu wraz z podaniem odległości od drogi startowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_77/ust_1/pkt_3",
+       "text": "dokumentacji Site Acceptance Test;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_77/ust_1/pkt_4",
+       "text": "wymogów producenta i użytkownika dotyczących przeglądów technicznych oraz kontroli wskazań (z uwzględnieniem zakresu i okresu);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_77/ust_1/pkt_5",
+       "text": "wyciągu z dziennika eksploatacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_77/ust_1/pkt_6",
+       "text": "świadectwa okresowego sprawdzenia elementów systemu oraz użytkowanych zestawów do okresowej kalibracji według przyrządów wzorcowych z wyjątkiem przyrządów do pomiaru wysokości podstawy chmur i określania widzialności wzdłuż drogi startowej oraz miernika pogody bieżącej, dla których za wystarczające uznaje się dokonywanie okresowych przeglądów zgodnie z zaleceniami producenta.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_77/ust_2",
+     "text": "Zezwolenie na wykorzystanie operacyjne systemu wydawane jest na okres dwóch lat, o ile dla danego czujnika nie został przyznany inny przedział czasu. W celu przedłużenia ważności zezwolenia konieczne jest przedstawienie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_77/ust_2/pkt_1",
+       "text": "wyciągu z dziennika eksploatacji systemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_77/ust_2/pkt_2",
+       "text": "ważnego świadectwa okresowego sprawdzenia elementów systemu oraz użytkowanych zestawów do okresowej kalibracji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_77/ust_3",
+     "text": "Procedurę przedłużenia ważności zezwolenia rozpoczyna się nie później niż na miesiąc przed upływem ważności poprzedniego zezwolenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_77/ust_4",
+     "text": "Na etapie projektowania systemu należy uwzględniać warunki lokalne oraz kategorię lotniska, dla którego projektuje się system. Przy lokalizacji elementów pomiarowych systemu należy uwzględniać obowiązujące w tym zakresie przepisy zawarte w załączniku nr 3 ICAO.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_77/ust_5",
+     "text": "Wymogi, o których mowa w ust. 1—4, stosuje się także w przypadku użytkowania zintegrowanych automatycznych systemów oraz czujników mierzących wybrane parametry meteorologiczne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "78",
+   "path": "par_78",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_78/ust_1",
+     "text": "Czujniki wchodzące w skład automatycznych systemów służące do wykonywania pomiarów wiatru dolnego powinny dokonywać pomiarów w zakresie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_78/ust_1/pkt_1",
+       "text": "od 0.5 do 50 m/s (1—100 węzłów), przy progu zadziałania poniżej 0.5 m/s (poniżej 1 węzła), dokładności pomiaru 0.5 m/s (1 węzeł) dla prędkości 0—5 m/s (0—10 węzłów) oraz 10 % dla prędkości powyżej 5 m/s (10 węzłów) liniowości ±0.5 m/s (±1 węzeł), stałej dystansowej 2—5 m, rozdzielczości pomiaru 0.1 m/s — dla czujnika prędkości wiatru;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_78/ust_1/pkt_2",
+       "text": "od 0 do 360° dla prędkości wiatru 0.5—5° m/s (1—100 węzłów), przy progu zadziałania poniżej 0.5 m/s, dokładności pomiaru 2—5°, liniowości 2—5°, współczynniku tłumienia 0.3—0.7, rozdzielczości 3°— dla wskaźnika kierunku wiatru.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_78/ust_2",
+     "text": "Składowa poprzeczna i podłużna wektora prędkości wiatru określana w stosunku do osi drogi startowej powinna być podawana w zaokrągleniu do pełnych jednostek (±1 m/s lub ±2 węzłów).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "79",
+   "path": "par_79",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_79/ust_1",
+     "text": "Przy cyfrowym przetwarzaniu danych o wietrze w automatycznych systemach powinno stosować się procedurę próbkowania kierunku i prędkości wiatru z odstępem czasowym 1—5 s.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_79/ust_2",
+     "text": "Okres uśredniania dla pomiarów wiatru dolnego w automatycznych systemach wykorzystywanych do osłony startów i lądowań powinien wynosić 2 minuty. Dla komunikatów meteorologicznych wysyłanych poza lotnisko okres uśrednienia powinien wynosić 10 minut.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_79/ust_3",
+     "text": "Średnie 2-minutowe i 10-minutowe wartości prędkości i kierunku wiatru w automatycznych systemach powinny być obliczane metodą średniej kroczącej z czasem aktualizacji 10—60 s. Wartości ekstremalne prędkości i kierunku określa się w okresie uśredniania jako maksymalne z wartości uzyskanych w wyniku próbkowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_79/ust_4",
+     "text": "Próbkowane wartości w automatycznych systemach powinny być zapamiętywane i dalej używane do określenia wartości ekstremalnych prędkości i kierunku wiatru w ciągu 2 lub 10 minut poprzedzających wprowadzenie nowej wartości średniej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "80",
+   "path": "par_80",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_80/ust_1",
+     "text": "W automatycznych systemach kierunek wiatru podaje się w stosunku do północy geograficznej, a nie magnetycznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_80/ust_2",
+     "text": "Pomiary parametrów wiatru dokonuje się w miejscach reprezentatywnych dla całej drogi startowej, a zwłaszcza w strefach przyziemienia i oderwania przy wykorzystaniu czujników umieszczonych na wysokości 6—10 metrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "81",
+   "path": "par_81",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_81/ust_1",
+     "text": "Pomiary wiatru dolnego wykonywane w automatycznych systemach, a przeznaczone do rozpowszechniania w komunikatach meteorologicznych poza lotnisko powinny być reprezentatywne dla warunków na tej samej wysokości na całej długości drogi startowej lub kompleksu dróg startowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_81/ust_2",
+     "text": "Jeżeli jest to istotne dla ruchu lotniczego, oprócz pomiarów średnich parametrów wiatru dolnego wykonuje się i przekazuje odchylenia od wartości średnich.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_81/ust_3",
+     "text": "Wartości kierunku wiatru w automatycznych systemach przekazuje się w zaokrągleniu do pełnych 10 stopni, a prędkość do jedności, jednocześnie podając stosowane jednostki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "82",
+   "path": "par_82",
+   "text": "W przypadku określania parametrów wiatru dla więcej niż jednej drogi startowej stosuje się odrębne wskaźniki, przy czym poszczególne wskaźniki dokładnie opisuje się dla identyfikacji określonej drogi startowej i progu, przy którym wykonywany jest pomiar przez automatyczne systemy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "83",
+   "path": "par_83",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_83/ust_1",
+     "text": "Dla potrzeb osłony meteorologicznej lotnictwa do wykonywania pomiarów ciśnienia na lotnisku należy wykorzystywać zintegrowane, wchodzące w skład automatycznych systemów, co najmniej dwa czujniki o dokładności ±0.5 hPa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_83/ust_2",
+     "text": "Pomiary ciśnienia wykonuje się w zakresie 850—1 100 hPa z dokładnością określoną w ust. 1 i rozdzielczością 0.1 hPa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_83/ust_3",
+     "text": "W przypadku systemów automatycznych pomiary ciśnienia należy wykonywać co najmniej jeden raz na minutę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_83/ust_4",
+     "text": "W automatycznej obróbce danych należy stosować okres uśrednienia rzędu jednej minuty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_83/ust_5",
+     "text": "Wartości pochodne ciśnienia należy wyliczać z dokładnością do dziesiętnych części hektopaskala z mierzonej wartości ciśnienia atmosferycznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_83/ust_6",
+     "text": "Dla potrzeb służb ruchu lotniczego i komunikatów meteorologicznych wartości ciśnienia zaokrągla się w dół do najbliższego pełnego hektopaskala.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "84",
+   "path": "par_84",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_84/ust_1",
+     "text": "Wartości QNH i QFE oblicza się na podstawie ciśnienia zmierzonego na poziomie barometru zgodnie z ich definicjami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_84/ust_2",
+     "text": "Poziomem odniesienia dla wyliczeń QFE jest wzniesienie lotniska. Dla dróg startowych nieprecyzyjnego podejścia, których progi są co najmniej 2 m poniżej wzniesienia lotniska, oraz dla dróg precyzyjnego podejścia wartość QFE, jeśli jest to wymagane, należy odnosić do wzniesienia odpowiedniego progu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_84/ust_3",
+     "text": "Wartość QNH należy obliczać, wykorzystując wartość QFE i zależność zmiany ciśnienia od wysokości w atmosferze standardowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_84/ust_4",
+     "text": "W przypadku określania wartości ciśnienia dla więcej niż jednej drogi startowej poszczególne wskaźniki przedstawiające wartości ciśnienia należy dokładnie opisać dla identyfikacji określonej drogi startowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_84/ust_5",
+     "text": "Wysokość czujników do pomiaru ciśnienia wchodzących w skład automatycznych systemów należy określić metodami geodezyjnymi w metrach, w odniesieniu do średniego poziomu morza, przy czym wartość ta powinna być podana i zapisana w dokumentacji systemu z dokładnością do dwóch miejsc po przecinku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "85",
+   "path": "par_85",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_85/ust_1",
+     "text": "Pomiary temperatury powietrza dokonywane przez automatyczne systemy powinny być reprezentatywne dla dróg startowych i w związku z tym powinny być realizowane przy pomocy czujników stosowanych w telemetrycznych systemach pomiarowych. Ze względu na właściwości pomiarowe takie jak stabilność długookresowa, powtarzalność, osiągalna dokładność i rozdzielczość, w systemach lotniskowych powinny być stosowane czujniki rezystancyjne typu PT100.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_85/ust_2",
+     "text": "Czujniki wchodzące w skład automatycznych systemów służących do wykonywania pomiarów temperatury powietrza powinny dokonywać pomiaru w zakresie od 40 do 60 °C przy dokładności ±0.3 °C, rozdzielczości 0.1 °C, stałej czasowej (przy prędkości wiatru 5m/s) 30—60s, czasie uśredniania 60s.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_85/ust_3",
+     "text": "Temperaturę powietrza dla celów lotnictwa podaje się w pełnych stopniach Celsjusza, zaokrąglając wartość zmierzoną do pełnych stopni, przy czym wartości 0.5 i wyższe zaokrągla się w górę. Wartość temperatury powinna być rejestrowana z rozdzielczością 0.1°C i okresem rejestracji równym jednej minucie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "86",
+   "path": "par_86",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_86/ust_1",
+     "text": "Pomiary wilgotności względnej dokonywane przez automatyczne systemy powinny być reprezentatywne dla dróg startowych i w związku z tym powinny być realizowane przy pomocy czujników stosowanych w telemetrycznych systemach pomiarowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_86/ust_2",
+     "text": "Czujniki wchodzące w skład automatycznych systemów pomiarowych parametrów meteorologicznych służące do pomiaru wilgotności względnej powinny dokonywać pomiaru w zakresie od 5 % do 100 % RH, przy dokładności ±3—5 % RH, rozdzielczości 1 % RH, stałej czasowej 40—60 s, czasie uśredniania 60 s.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_86/ust_3",
+     "text": "Wilgotność względna powinna być rejestrowana z rozdzielczością 1 % RH i okresem rejestracji równym jednej minucie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "87",
+   "path": "par_87",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_87/ust_1",
+     "text": "W automatycznych systemach temperatura punktu rosy określana jest jako wartość obliczana w oparciu o pomiary temperatury powietrza i innej charakterystyki wilgotności powietrza — najczęściej wilgotności względnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_87/ust_2",
+     "text": "Obliczoną temperaturę punktu rosy dla celów lotnictwa podaje się w pełnych stopniach Celsjusza, zaokrąglając do pełnych stopni, przy czym wartości 0.5 i wyższe zaokrągla się w górę. Obliczona wartość temperatury punktu rosy powinna być rejestrowana z rozdzielczością 0.1°C i okresem rejestracji równym jednej minucie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_87/ust_3",
+     "text": "Pomiary temperatury powietrza oraz wilgotności względnej powinny być reprezentatywne dla drogi startowej lub kompleksu dróg startowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_87/ust_4",
+     "text": "Czujniki temperatury powietrza i wilgotności względnej należy umieszczać na wysokości 2.0 m nad poziomem gruntu w specjalnej osłonie — klatce termometrycznej o konstrukcji żaluzjowej — mającej chronić czujnik przed wpływem promieniowania słonecznego, a jednocześnie zapewnić odpowiednią jego wentylację.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_87/ust_5",
+     "text": "Czujniki temperatury i wilgotności względnej powinny być zainstalowane w tej samej osłonie z uwagi na to, że wartości temperatury i wilgotności względnej powietrza powinny być reprezentatywne dla tej samej objętości powietrza.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "88",
+   "path": "par_88",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_88/ust_1",
+     "text": "Do określania widzialności wzdłuż drogi startowej RVR w automatycznych systemach, należy stosować systemy instrumentalne oparte o metody pomiarowe umożliwiające osiągnięcie dokładności wskazań najbardziej zbliżonych do operacyjnie pożądanych, przy uwzględnieniu intensywności świateł używanych na drogach startowych oraz określonej jasności tła.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_88/ust_2",
+     "text": "Widzialność wzdłuż drogi startowej RVR należy określać dla wszystkich dróg startowych, przeznaczonych do użycia w czasie ograniczonej widzialności, to jest widzialności poziomej lub zasięgu widzialności wzdłuż drogi startowej poniżej 1 500 m.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_88/ust_3",
+     "text": "Dla dróg startowych precyzyjnego podejścia należy wykorzystywać zautomatyzowane systemy pomiarowe RVR, w szczególności na wszystkich drogach startowych przeznaczonych dla wykonywania operacji podejścia do lądowania i lądowania według przyrządów zgodnie z kategorią II i III, o których mowa w § 20.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "89",
+   "path": "par_89",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_89/ust_1",
+     "text": "Określenie RVR powinno być reprezentatywne dla strefy przyziemienia i w zależności od kategorii operacji lotniczych, dla których przeznaczana jest droga startowa, dla środkowej i końcowej części drogi startowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_89/ust_2",
+     "text": "W celu uzyskania reprezentatywności pomiary powinny być wykonywane z boku drogi startowej, w odległości nie większej niż 120 m od jej osi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_89/ust_3",
+     "text": "Pomiary reprezentatywne dla strefy przyziemienia powinny być wykonywane z miejsca oddalonego o około 300 m od progu drogi startowej wzdłuż jej osi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_89/ust_4",
+     "text": "Pomiary reprezentatywne dla środkowej i końcowej części drogi startowej powinny być wykonywane w odległości od 1 000 do 1 500 m wzdłuż drogi od progu oraz w odległości około 300 m od przeciwnego końca drogi. Dokładne miejsce położenia, w którym dokonuje się pomiarów, oraz położenie dodatkowych wskaźników RVR powinno uwzględniać czynniki lotnicze, meteorologiczne i klimatyczne, takie jak długość drogi startowej, obszary tworzenia lub utrzymywania się mgły.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "90",
+   "path": "par_90",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_90/ust_1",
+     "text": "Dla określenia RVR stosowane systemy instrumentalne wchodzące w skład automatycznych systemów powinny wykorzystywać mierniki transmisji mierzące współczynnik przepuszczalności lub osłabienia powietrza pomiędzy dwoma punktami przestrzeni lub mierniki współczynnika rozproszenia światła. Dla zastosowań lotniczych za odpowiednie uważa się użycie mierników transmisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_90/ust_2",
+     "text": "Jeżeli wartość RVR jest określana za pomocą przyrządów wchodzących w skład automatycznych systemów, muszą być spełnione łącznie następujące wymogi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_90/ust_2/pkt_1",
+       "text": "przy obliczaniu RVR intensywność świateł używanych do tych obliczeń powinna być równa intensywności świateł aktualnie używanych na drodze, o ile światła na danej drodze są włączone, lub optymalnej intensywności świateł, która byłaby odpowiednia dla użycia operacyjnego w normalnych warunkach, o ile światła na danej drodze są włączone (lub ustawione na najniższym poziomie w trakcie oczekiwania na ponowne podjęcie operacji). RVR nie powinna być określana dla intensywności światła wynoszącej 3 % lub mniej maksymalnej dostępnej intensywności na danej drodze startowej. W komunikatach przekazywanych poza lotnisko RVR należy określać przy intensywności świateł, które wykorzystuje się przy starcie i lądowaniu w momencie opracowywania informacji, nie uwzględniając różnych czasowych zmian intensywności drogi startowej. Dla obliczeń należy przyjąć, że kontrastowa czułość oka obserwatora wynosi 0.05;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_90/ust_2/pkt_2",
+       "text": "pomiary powinny być wykonywane z częstotliwością co 15—60 s;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_90/ust_2/pkt_3",
+       "text": "uaktualnianie danych wyjściowych powinno następować co najmniej co 60 s dla zapewnienia ciągłych, rzeczywistych i reprezentatywnych wartości. Okres uśredniania wartości RVR powinien wynosić 10 minut dla komunikatów przekazywanych poza lotnisko oraz 60 s dla lokalnych komunikatów regularnych i specjalnych oraz dla wskaźników RVR w organach służb ruchu lotniczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_90/ust_2/pkt_4",
+       "text": "obliczenia powinny być przeprowadzane oddzielnie dla każdej drogi startowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_90/ust_2/pkt_5",
+       "text": "elementy przyrządu powinny być instalowane w ten sposób, aby Słońce o dowolnej porze dnia nie znalazło się w optycznym polu detektora;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_90/ust_2/pkt_6",
+       "text": "system oszacowania RVR powinien posiadać możliwość dokonywania ręcznej kalibracji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_90/ust_3",
+     "text": "W przypadku stosowania mierników transmisji pozioma wiązka światła powinna przebiegać na wysokości 2—3 m nad poziomem gruntu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_90/ust_4",
+     "text": "W zależności od długości linii bazowej czy zróżnicowania poziomu terenu i drogi startowej wysokość wiązki światła może wykraczać poza wysokość, o której mowa w ust. 3, jednak nie powinna być mniejsza niż 1,5 m nad poziom gruntu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "91",
+   "path": "par_91",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_91/ust_1",
+     "text": "Dla celów lotniczych w miernikach transmisji stosowanych w automatycznych systemach wykorzystuje się linie bazowe w przedziałach od 10 do 200 m.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_91/ust_2",
+     "text": "Wartości RVR powinny być podawane według skali w krotnościach wielkości pomiędzy 25 m dla RVR mniejszej niż 400 m, 50 m przy RVR od 400 do 800 m i 100 m przy RVR powyżej 800 m. Wartości obserwowane nieodpowiadające przyjętej skali notowania powinny być zaokrąglane w dół do pełnego stopnia skali.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_91/ust_3",
+     "text": "Dolną granicą dla oszacowań RVR jest 50 m, a górną 1 500 m. Przy widzialności poniżej lub powyżej tych granic informacje powinny wskazywać, że RVR wynosi poniżej 50 m lub powyżej 1 500 m.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_91/ust_4",
+     "text": "W przypadku określania wartości RVR dla więcej niż jednej drogi startowej poszczególne wskaźniki należy dokładnie opisać dla identyfikacji określonej drogi startowej lub jej części.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_91/ust_5",
+     "text": "W przypadku instrumentalnego określania RVR, w zależności od kategorii podejścia do lądowania stosuje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_91/ust_5/pkt_1",
+       "text": "jeden miernik w pobliżu punktu przyziemienia dla kategorii I;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_91/ust_5/pkt_2",
+       "text": "dwa mierniki w przypadku długości drogi startowej poniżej 2 000 m albo co najmniej trzy mierniki w przypadku długości drogi startowej powyżej 2 000 m dla kategorii II;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_91/ust_5/pkt_2",
+       "text": "trzy mierniki dla kategorii III;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_91/ust_5/pkt_4",
+       "text": "cztery mierniki dla długości drogi startowej powyżej 3 500 m niezależnie od kategorii.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_91/ust_6",
+     "text": "W przypadku występowania korzystnych warunków lokalnych dopuszcza się, aby na lotnisku posiadającym drogę startową o długości powyżej 3 500 m stosować trzy mierniki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "92",
+   "path": "par_92",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_92/ust_1",
+     "text": "Instrumentalne oszacowanie widzialności poziomej mierzonej za pomocą automatycznych systemów opiera się na określeniu parametru pochodnego, jakim jest MOR, umożliwiającego osiągnięcie dokładności najbardziej zbliżonych do operacyjnie pożądanych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_92/ust_2",
+     "text": "Instrumentalne określenie widzialności poziomej powinno być traktowane jako uzupełniające, w stosunku do oceny widzialności przez upoważnionego pracownika lotniskowej służby meteorologicznej. Wyjątek stanowi sytuacja, w której brak jest możliwości wizualnego określenia widzialności poziomej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_92/ust_3",
+     "text": "Widzialność poziomą należy określać w miejscu reprezentatywnym dla drogi startowej lub kompleksu dróg startowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_92/ust_4",
+     "text": "Dla określenia parametru MOR stosowane automatyczne systemy powinny wykorzystywać pomiar współczynnika osłabienia lub transmisji w długim cylindrze powietrza oraz pomiar światła rozproszonego w małej objętości powietrza, z uwzględnieniem relacji między współczynnikiem osłabienia i mierzonym współczynnikiem rozproszenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_92/ust_5",
+     "text": "Dla potrzeb lotnictwa stosuje się przyrządy oparte na pomiarze współczynnika rozproszenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_92/ust_6",
+     "text": "Elementy przyrządu powinny być instalowane w ten sposób, aby Słońce o dowolnej porze dnia nie znalazło się w optycznym polu detektora.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_92/ust_7",
+     "text": "Automatyczny system powinien przewidywać możliwość wprowadzania ręcznej korekcji danych widzialności poziomej do odpowiednich wskaźników obrazujących te dane.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "93",
+   "path": "par_93",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_93/ust_1",
+     "text": "Wartości widzialności poziomej w automatycznych systemach należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_93/ust_1/pkt_1",
+       "text": "podawać w wartościach podzielnych przez 50 przy widzialności poniżej 800 m;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_93/ust_1/pkt_2",
+       "text": "podawać w wielkościach podzielnych przez 100 przy widzialności 800 m i większej, ale nie mniejszej niż 5 km;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_93/ust_1/pkt_3",
+       "text": "podawać w kilometrach przy widzialności większej od 5 km, lecz nie mniejszej od 10 km;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_93/ust_1/pkt_4",
+       "text": "podawać jako 10 km, z wyjątkiem sytuacji, w których stosuje się CAVOK.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_93/ust_2",
+     "text": "Wartości obserwowane nieodpowiadające przyjętej skali notowania powinny być zaokrąglane w dół do pełnego stopnia skali.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "94",
+   "path": "par_94",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_94/ust_1",
+     "text": "Dla potrzeb lotnictwa do pomiaru podstawy chmur należy stosować automatyczne systemy oparte na metodach pomiarowych zapewniających osiągnięcie operacyjnie pożądanych dokładności wskazań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_94/ust_2",
+     "text": "W przypadku stosowania mierników laserowych pomiary podstawy chmur wykonuje się co 15—60 s dla chmur niskich i co 1 lub 2 minuty dla pozostałych chmur.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_94/ust_3",
+     "text": "Dla celów lotniczych dolny zakres pomiarów powinien wynosić 10—30 m przy maksymalnej mierzonej wysokości 1 500—3 600 m.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_94/ust_4",
+     "text": "Układ pomiarowy powinien być osłonięty od bezpośredniego oświetlenia światłem słonecznym, jak również chroniony przed wilgocią, opadami i niską temperaturą.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "95",
+   "path": "par_95",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_95/ust_1",
+     "text": "Wysokość podstawy chmur powinna być odniesiona do poziomu lotniska.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_95/ust_2",
+     "text": "Gdy wykorzystywana jest droga startowa precyzyjnego podejścia, której próg znajduje się co najmniej 15 m poniżej poziomu lotniska, należy dokonać lokalnych ustaleń, by wysokość podstawy chmur przekazywana przybywającemu statkowi powietrznemu odnosiła się do poziomu progu drogi startowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_95/ust_3",
+     "text": "Pomiary podstawy chmur powinny być reprezentatywne dla strefy podejścia lub, w przypadku lotnisk z drogami startowymi precyzyjnego podejścia, dla strefy środkowego markera systemu lądowania według wskazań przyrządów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_95/ust_4",
+     "text": "W przypadku określania wysokości podstawy chmur dla więcej niż jednej drogi startowej poszczególne wskaźniki dokładnie opisuje się w celu identyfikacji określonej drogi startowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_95/ust_5",
+     "text": "Wartości obserwowane nieodpowiadające przyjętej skali notowania powinny być zaokrąglane w dół do pełnego stopnia skali.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "96",
+   "path": "par_96",
+   "text": "Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Infrastruktury: K. Opawski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Infrastruktury z dnia 17 maja 2004 r. (poz. 1444) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "PARAMETRY I TOLERANCJE MIERZONE DLA RADIOLATARNI KIERUNKU PODCZAS KONTROLI Z POWIETRZA"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 20 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "PARAMETRY I TOLERANCJE MIERZONE DLA RADIOLATARNI ŚCIEŻKI SCHODZENIA PODCZAS KONTROLI Z POWIETRZA"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 21 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "WARTOŚCI USTAWIENIA LIMITÓW ALARMOWYCH MONITORÓW DLA RADIOLATARNI KIERUNKU ILS ORAZ RADIOLATARNI ŚCIEŻKI SCHODZENIA ILS"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 22 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "PARAMETRY MIERZONE PODCZAS RÓŻNYCH RODZAJÓW KONTROLI Z POWIETRZA"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 23 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5",
+   "body": [
+    {
+     "type": "text",
+     "text": "TESTY I POMIARY, KTÓRE POWINNY BYĆ OBJĘTE ODBIOREM TECHNICZNYM I KONTROLĄ Z POWIETRZA"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 24 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "1 2 3 4 Prawidłowość funkcjonowania ISLS X SSR Prawidłowość funkcjonowania RSLS X SSR Przełączanie wiązki dolnej i górnej dla wszystkich kanałów ASR odbiorczych Przeplot modów X X SSR Reakcja na przekroczenie maksymalnej przetwarzanej X ASR/SSR ilości depesz radarowych Test stabilnej, bezprzerwowej pracy X ASR/SSR Weryfikacja poprawnego pomiaru mocy wyjściowej X ASR/SSR BITE Współczynnik korelacji danych radaru pierwotnego i wtórnego X ASR/SSR (w zakresie zasiegu radaru pierwotnego) Wykrycie kodów niebezpieczenstwa x SSR"
+    },
+    {
+     "type": "ocr",
+     "text": "* X oznacza obowiązek wykonania testu lub pomiaru,"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 6",
+   "body": [
+    {
+     "type": "text",
+     "text": "DOKŁADNOŚCI POMIARÓW I OBSERWACJI PARAMETRÓW METEOROLOGICZNYCH"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 26 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Infrastruktury kieruje działem administracji rządowej — transport, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 4 maja 2004 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. Nr 106, poz. 1121).",
+  "2": "Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy 1993/65/EWG z dnia 19 lipca 1993 r. w sprawie definicji i korzystania ze zgodnych specyfikacji technicznych dla zamówień na sprzęt i systemy zarządzania ruchem powietrznym (Dz. Urz. WE L 187, z 29.07.1993, z późn. zm.) oraz dyrektywy 97/15/WE z dnia 25 marca 1997 r. w sprawie przyjęcia norm Eurocontrol oraz zmieniającej dyrektywę Rady 93/65/EWG w sprawie definicji i korzystania ze zgodnych specyfikacji technicznych dla zamówień na sprzęt i systemy zarządzania ruchem powietrznym (Dz. Urz. WE L 95, z 10.04.1997). Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszym rozporządzeniu, dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej — wydanie specjalne.",
+  "3": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 210, poz. 2036 oraz z 2004 r. Nr 54, poz. 535, Nr 96, poz. 959 i Nr 99, poz. 1002.",
+  "4": "Zmiany wymienionej umowy zostały ogłoszone w Dz. U. z 1963 r. Nr 24, poz. 137 i 138, z 1969 r. Nr 27, poz. 210 i 211, z 1976 r. Nr 21, poz. 130 i 131, Nr 32, poz. 188 i 189 i Nr 39, poz. 227 i 228, z 1984 r. Nr 39, poz. 199 i 200, z 2000 r. Nr 39, poz. 446 i 447, z 2002 r. Nr 58, poz. 527 i 528 oraz z 2003 r. Nr 78, poz. 700 i 701."
+ }
+}

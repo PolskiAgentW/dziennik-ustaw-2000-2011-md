@@ -1,0 +1,3791 @@
+{
+ "eli": "DU/2004/414",
+ "title": "Rozporządzenie Ministra Infrastruktury z dnia 11 marca 2004 r. w sprawie szczegółowych technicznych przepisów ruchu lotniczego",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/414/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 marca 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczegółowych technicznych przepisów ruchu lotniczego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 121 ust. 5 pkt 1 ustawy z dnia 3 lipca 2002 r. — Prawo lotnicze (Dz. U. Nr 130, poz. 1112 oraz z 2003 r. Nr 210, poz. 2036) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się szczegółowe techniczne przepisy ruchu lotniczego określone w załączniku do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc rozporządzenie Ministrów Transportu i Gospodarki Morskiej oraz Obrony Narodowej z dnia 3 grudnia 1996 r. zmieniające rozporządzenie w sprawie ruchu lotniczego cywilnych statków powietrznych (Dz. U. Nr 154, poz. 754).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie z dniem 18 marca 2004 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Infrastruktury: M. Pol"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Infrastruktury z dnia 11 marca 2004 r. (poz. 414)",
+   "body": [
+    {
+     "type": "text",
+     "text": "SZCZEGÓŁOWE TECHNICZNE PRZEPISY RUCHU LOTNICZEGO"
+    },
+    {
+     "type": "text",
+     "text": "Spis treści"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "ROZDZIAŁ 1."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— W treści niniejszego dokumentu wyraz „służba” („service”) jest użyty jako rzeczownik abstrakcyjny dla oznaczenia czynności lub spełnianych usług, a wyraz „organ ”' („unit”) jest użyty dla oznaczenia zespołu sprawującego daną służbę."
+    },
+    {
+     "type": "ocr",
+     "text": "Wyrażenia użyte w niniejszym dokumencie mają następujące znaczenie:"
+    },
+    {
+     "type": "ocr",
+     "text": "Automatyczne zależne dozorowanie (ADS) (Automatic dependent surveillance). Technika dozorowania, w której statki powietrzne wykorzystując linię przesyłania danych automatycznie, przekazują informacje uzyskiwane z pokładowych systemów nawigacyjnych i określania pozycji, włącznie ze znakiem rozpoznawczym statku powietrznego, a także dane o jego pozycji w czterech wymiarach i odpowiednio dane dodatkowe."
+    },
+    {
+     "type": "ocr",
+     "text": "Balon wolny bezzałogowy (Unmanned free balloon). Statek powietrzny lżejszy od powietrza, bez napędu i załogi, w locie swobodnym."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Balony wolne bezzałogowe są klasyfikowane jako ciężkie, Średnie lub lekkie zgodnie ze specyfikacjami zawartymi dodatku 4."
+    },
+    {
+     "type": "ocr",
+     "text": "Barometryczna wysokość bezwzględna (Pressure- -altitude). Ciśnienie atmosferyczne wyrażone jako wysokość bezwzględna, która odpowiada temu ciśnieniu w międzynarodowej atmosferze wzorcowej.\""
+    },
+    {
+     "type": "ocr",
+     "text": "Bieżący plan lotu (CPL) (Current flight plan). Plan lotu z ewentualnymi zmianami wynikającymi z kolejnych zezwoleń."
+    },
+    {
+     "type": "ocr",
+     "text": "Biuro odpraw załóg (Air traffic services reporting office). Organ ustanowiony w celu przyjmowania meldunków dotyczących służb ruchu lotniczego oraz planów lotu składanych przed odlotem."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Biuro odpraw załóg może być ustanowione jako organ samodzielny lub może być połączone z istniejącym organem, np. innym organem służb ruchu lotniczego lub organem służby informacji lotniczej."
+    },
+    {
+     "type": "ocr",
+     "text": "Całkowity przewidywany czas przelotu (Total estimated elapsed time). Dla lotów IFR — przewidywany czas,"
+    },
+    {
+     "type": "ocr",
+     "text": "* Jak określono w Aneksie 8."
+    },
+    {
+     "type": "ocr",
+     "text": "OKREŚLENIA"
+    },
+    {
+     "type": "ocr",
+     "text": "określony w odniesieniu do pomocy nawigacyjnych, potrzebny od startu do przybycia nad wyznaczony punkt, od którego jest zamierzone rozpoczęcie procedury podejścia według wskazań przyrządów lub, gdy nie ma pomocy nawigacyjnej związanej z lotniskiem docelowym, to do przybycia nad lotnisko docelowe; dla lotów VFR — przewidywany czas niezbędny od startu do przybycia nad lotnisko docelowe."
+    },
+    {
+     "type": "ocr",
+     "text": "Centrum informacji powietrznej (Flight information centre). Organ ustanowiony do zapewnienia służby informacji powietrznej i służby alarmowej."
+    },
+    {
+     "type": "ocr",
+     "text": "Centrum kontroli obszaru (ACC) (Area control centre). Organ ustanowiony do zapewnienia służby kontroli ruchu lotniczego w odniesieniu do lotów kontrolowanych w podległych mu obszarach kontrolowanych."
+    },
+    {
+     "type": "ocr",
+     "text": "Członek załogi lotniczej (Flight crew member). Członek załogi posiadający licencję, któremu powierzono pełnienie obowiązków istotnych dla prowadzenia statku powietrznego w czasie trwania lotu."
+    },
+    {
+     "type": "ocr",
+     "text": "Doc. Skrót od angielskiego słowa „Document” wraz z odpowiednim numerem oznacza określoną publikację ICAO."
+    },
+    {
+     "type": "ocr",
+     "text": "Dowódca statku powietrznego (Pilot in-command). Pilot wyznaczony przez użytkownika lub przez właścicieła statku powietrznego w przypadku lotnictwa ogólnego przeznaczenia do pełnienia obowiązków dowódcy i ponoszenia odpowiedzialności za bezpieczne wykonanie lotu."
+    },
+    {
+     "type": "ocr",
+     "text": "Droga kołowania (Taxiway). Określona droga na lotnisku lądowym wyznaczona do kołowania statków powietrznych i zapewniająca połączenie między określonymi częściami lotniska, włączając:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) Linię kołowania do stanowiska postojowego (Aircraft stand taxiline). Część płyty wyznaczona jako droga kołowania i przeznaczona do zapewnienia dostępu tylko do stanowisk postojowych statków powietrznych;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) Drogę kołowania po płycie (Apron taxiway). Część systemu dróg kołowania zlokalizowana na płycie i mająca na celu zapewnienie kołowania bezpośrednio przez tę płytę;"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "c) Drogę szybkiego skołowania (Rapid exit taxiway). Droga kołowania połączona pod kątem ostrym z drogą startową i przeznaczona do ułatwienia lądującym statkom powietrznym opuszczenia drogi startowej przy prędkościach większych niż osiągane na innych drogach kołowania i przez to zmniejszające do minimum czas zajmowania drogi startowej."
+    },
+    {
+     "type": "ocr",
+     "text": "Droga lotnicza (Airway). Obszar kontrolowany lub jego część, ustanowiony(a) w postaci korytarza."
+    },
+    {
+     "type": "ocr",
+     "text": "Droga startowa (Runway). Prostokątna powierzchnia wyznaczona na lotnisku lądowym, przygotowana do startów i lądowań statków powietrznych."
+    },
+    {
+     "type": "ocr",
+     "text": "Granica zezwolenia (Clearance limit). Punkt, do którego zostało udzielone statkowi powietrznemu zezwolenie kontroli ruchu lotniczego."
+    },
+    {
+     "type": "ocr",
+     "text": "IFR. Skrót oznaczający przepisy wykonywania lotów według wskazań przyrządów."
+    },
+    {
+     "type": "ocr",
+     "text": "IMC. Skrót oznaczający warunki meteorologiczne dla lotów według wskazań przyrządów."
+    },
+    {
+     "type": "ocr",
+     "text": "Informacja o ruchu (Traffic information). Informacja podana przez organ służb ruchu lotniczego dla ostrzeżenia piłota o innym znanym lub zaobserwowanym ruchu lotniczym, który może się znajdować w pobliżu jego pozycji lub zamierzonej trasy łotu, i udzielenia mu pomocy dla zapobieżenia kolizji."
+    },
+    {
+     "type": "ocr",
+     "text": "Kołowanie (Taxiing). Ruch statku powietrznego po powierzchni lotniska przy użyciu mocy własnej, wyłączając start i lądowanie."
+    },
+    {
+     "type": "ocr",
+     "text": "Kontrakt ADS (ADS contract). Środek, za pomocą którego będzie dokonywana wymiana informacji o warunkach porozumienia ADS między systemem naziemnym a statkiem powietrznym, z określeniem sytuacji, w których mełdunki ADS powinny być nadawane oraz jakie dane powinny być zawarte w tych meldunkach."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Wyrażenie „kontrakt ADS” jest wyrazeniem ogólnym oznaczającym w różnych przypadkach: kontrakt ADS doraźny, kontrakt ADS na żądanie, kontrakt ADS okresowy lub w trybie zagrożenia. Wysyłanie meldunków ADS między systemami naziemnymi może być realizowane za pomocą Środków naziemnych."
+    },
+    {
+     "type": "ocr",
+     "text": "Kurs (Heading). Kierunek osi podłużnej statku powietrznego, wyrażany zwykle w stopniach, w odniesieniu do północnego kierunku południka (geograficznego, magnetycznego, busoli lub siatki)."
+    },
+    {
+     "type": "ocr",
+     "text": "Linia drogi (Track). Rzut toru lotu statku powietrznego na powierzchnię ziemi, którego kierunek w każdym jego punkcie jest wyrażony zwykle w stopniach w odniesieniu do północnego kierunku południka (geograficznego, magnetycznego lub siatki)."
+    },
+    {
+     "type": "ocr",
+     "text": "Lot akrobacyjny (Acrobatic flight). Lot, w którym statek powietrzny wykonuje celowo manewry, powodujące nagłą zmianę jego położenia, nienormalne położenie lub nienormalną zmianę prędkości."
+    },
+    {
+     "type": "ocr",
+     "text": "Lot IFR (IFR flight). Lot wykonywany zgodnie z przepisami dla lotów według wskazań przyrządów."
+    },
+    {
+     "type": "ocr",
+     "text": "Lot kontrolowany (Controlled flight). Każdy lot, na który wymaga się zezwolenia kontroli ruchu lotniczego."
+    },
+    {
+     "type": "ocr",
+     "text": "Lotnisko (Aerodrome). Wydzielony obszar na lądzie, wodzie lub innej powierzchni w całości lub w części przeznaczony do wykonywania startów, lądowań i naziemnego lub nawodnego ruchu statków powietrznych, wraz ze znajdującymi się w jego granicach obiektami i urządzeniami budowłanymi o charakterze trwałym, wpisany do rejestru lotnisk."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Gdy w przepisach dotyczących planów lotu i depesz ATS użyto terminu „lotnisko”, to obejmuje on również miejsca inne niż lotnisko, które mogą być wykorzystywane przez niektóre typy statków powietrznych, np. śmigłowce lub balony."
+    },
+    {
+     "type": "ocr",
+     "text": "Lotnisko kontrolowane (Controlled aerodrome). Lotnisko, na którym zapewniana jest służba kontroli ruchu lotniczego w odniesieniu do ruchu lotniskowego."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Wyrażenie „lotnisko kontrolowane” wskazuje, że stuzba kontroli ruchu lotniczego jest zapewniana w odniesieniu do ruchu lotniskowego, co niekoniecznie oznacza istnienie strefy kontrolowanej lotniska."
+    },
+    {
+     "type": "ocr",
+     "text": "Lotnisko zapasowe (Alternate aerodrome). Lotnisko, na które statek powietrzny może lecieć, jeżeli nie jest możliwe lub niecelowe wykonanie lotu do lotniska zamierzonego lądowania lub wykonanie na nim lądowania. Lotniska zapasowe dzielą się na:"
+    },
+    {
+     "type": "ocr",
+     "text": "Zapasowe po starcie (Take-off-alternate). Lotnisko zapasowe, na którym statek powietrzny może lądować, jeżeli będzie to konieczne wkrótce po starcie, a nie jest możliwe wykorzystanie lotniska startu;"
+    },
+    {
+     "type": "ocr",
+     "text": "Zapasowe na trasie (En-route alternate). Lotnisko, na którym statek powietrzny znajdując się na trasie w warunkach nienormalnych lub zagrożenia, mógłby lądować;"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Zapasowe po trasie ETOPS (ETOPS en-route alternate). Dogodne i odpowiednie lotnisko zapasowe, na którym samolot lecąc po trasie w operacji ETOPS, może lądować w przypadku wyłączenia silnika lub w innych nienormalnych warunkach bądź w niebezpieczeństwie."
+    },
+    {
+     "type": "ocr",
+     "text": "Zapasowe docełowe (Destination alternate). Lotnisko zapasowe, na które statek powietrzny może lecieć, jeżeli lądowanie na lotnisku zamierzonego lądowania stanie się niemożliwe lub niecelowe."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Lotnisko, z którego nastąpi odlot, może być również lotniskiem zapasowym na trasie lub zapasowym docelowym w danym locie."
+    },
+    {
+     "type": "ocr",
+     "text": "Lot specjalny VFR (Special VFR flight). Lot VFR, wykonywany na podstawie zezwolenia kontroli ruchu lotniczego w strefie kontrolowanej lotniska w warunkach meteorologicznych gorszych niż VMC."
+    },
+    {
+     "type": "ocr",
+     "text": "Lot VFR (VFR flight). Lot wykonywany zgodnie z przepisami dla lotów z widocznością."
+    },
+    {
+     "type": "ocr",
+     "text": "Łączność kontroler-pilot przy wykorzystaniu linii przesyłania danych (CPDLC) (Controller-pilot data link communications). Środek łączności między kontrolerem i pilotem przy wykorzystaniu linii przesyłania danych na potrzeby ATC."
+    },
+    {
+     "type": "ocr",
+     "text": "Łączność z wykorzystaniem linii przesyłania danych (Data link communications). Rodzaj łączności przeznaczonej do wymiany depesz przy wykorzystaniu linii przesyłania danych."
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce oczekiwania przy drodze startowej (Runwayholding position). Określone miejsce przeznaczone do zabezpieczenia drogi startowej, powierzchni ograniczenia przeszkód lub strefy krytycznej/czułości ILS/MLS, gdzie kołujące statki powietrzne i pojazdy powinny się zatrzymać i oczekiwać, o ile nie zostanie podane przez organ kontroli lotniska inne polecenie."
+    },
+    {
+     "type": "ocr",
+     "text": "Obszar kontrolowany (Control area). Przestrzeń powietrzna kontrolowana rozciągająca się w górę od określonej granicy nad ziemią."
+    },
+    {
+     "type": "ocr",
+     "text": "Organ (wieża) kontroli lotniska (Aerodrome control tower). Organ ustanowiony do zapewnienia służby kontroli ruchu lotniczego dla ruchu lotniskowego."
+    },
+    {
+     "type": "ocr",
+     "text": "Organ kontroli ruchu lotniczego (Air traffic control unit). Wyrażenie ogólne oznaczające zarówno centrum kontroli obszaru, organ kontroli zbliżania lub organ kontroli lotniska."
+    },
+    {
+     "type": "ocr",
+     "text": "Organ kontroli zbliżania (Approach control unit). Organ ustanowiony do zapewnienia służby kontroli ruchu lotniczego w odniesieniu do lotów kontrolowanych statków powietrznych przylatujących na jedno lotnisko lub więcej lotnisk albo odlatujących z nich."
+    },
+    {
+     "type": "ocr",
+     "text": "Organ służb ruchu lotniczego (Air traffic services unit). Wyrażenie ogólne oznaczające zarówno organ kontroli ruchu lotniczego, organ informacji powietrznej lub biuro odpraw załóg."
+    },
+    {
+     "type": "ocr",
+     "text": "Personel, od którego zależy bezpieczeństwo (Safety- „sensitive personnel). Osoby mogące zagrozić bezpieczeństwu lotniczemu, jeżeli niewłaściwie wykonują swe obowiązki i funkcje, nie wyłączając członków załogi, personelu obsługi statków powietrznych i kontrołerów ruchu lotniczego."
+    },
+    {
+     "type": "ocr",
+     "text": "Plan lotu (Flight plan). Określone informacje dotyczące zamierzonego lotu lub części lotu statku powietrznego dostarczone organom służb ruchu lotniczego."
+    },
+    {
+     "type": "ocr",
+     "text": "Płyta (Apron). Wydzielona dla postoju statków powietrznych część powierzchni lotniska lądowego, na której odbywa się wsiadanie lub wysiadanie pasażerów, załadowanie lub wyładowanie poczty lub towaru, zaopatrywanie w paliwo, parkowanie lub obsługa tych statków."
+    },
+    {
+     "type": "ocr",
+     "text": "Podlot (Air-taxiing). Poruszanie się śmigłowca/statku powietrznego VTOL nad powierzchnią lotniska zwykle z wykorzystaniem wpływu ziemi, z prędkością podróżną zwykle mniejszą niż 37 km/h (20 kt)."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Aktualna wysokość względna może się zmieniać i niektóre śmigłowce mogą wymagać podlotu powyżej 8 m (25 fit) AGL, aby zmniejszyć turbulencję powodowaną wpływem ziemi lub zapewnić niezbędny zapas wysokości dla ładunków podwieszonych na zewnątrz."
+    },
+    {
+     "type": "ocr",
+     "text": "Pokładowy system zapobiegania kolizjom (ACAS) (Airborne collision avoidance system). System poktadowy statku powietrznego oparty na wykorzystaniu sygnałów transpondera radaru wtórnego (SSR), który działa niezależnie od wyposażenia naziemnego i zapewnia pilotowi informacje o potencjalnym zagrożeniu kolizją ze statkami powietrznymi wyposażonymi w transpondery SSR."
+    },
+    {
+     "type": "ocr",
+     "text": "Pole manewrowe (Manoeuvring area). Część lotniska, wyłączając płyty, przeznaczona do startów, lądowań i kołowania statków powietrznych."
+    },
+    {
+     "type": "ocr",
+     "text": "Pole ruchu naziemnego (Movement area). Część lotniska przeznaczona do startów, lądowań i kołowania statków powietrznych, składająca się z pola manewrowego i płyt(y)."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Pole sygnałowe (Signal area). Powierzchnia na lotnisku wykorzystana do umieszczania na niej sygnałów naziemnych."
+    },
+    {
+     "type": "ocr",
+     "text": "Pole wzlotów (Landing area). Część pola ruchu naziemnego przeznaczona do startów i lądowań statków powietrznych."
+    },
+    {
+     "type": "ocr",
+     "text": "Porozumienie ADS (ADS agreement). Plan przekazywania meldunków ADS ustalający warunki przekazywania danych ADS (tj. danych wymaganych przez organ służb ruchu lotniczego i częstotliwość meldunków ADS, które muszą być uzgodnione przed rozpoczęciem funkcjonowania służb ADS)."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Wymiana informacji o warunkach porozumienia między systemem naziemnym i statkiem powietrznym będzie zapewniana poprzez kontrakt lub serię kontraktów."
+    },
+    {
+     "type": "ocr",
+     "text": "Powtarzalny plan lotu (RPL) (Repetitive flight plan). Plan lotu dotyczący serii często powtarzających się, regularnie wykonywanych pojedynczych lotów o identycznych danych podstawowych, przedstawiony przez użytkownika statku powietrznego do przechowywania i powtarzalnego wykorzystania przez organy ATS."
+    },
+    {
+     "type": "ocr",
+     "text": "Poziom (Level). Wyrażenie ogólne odnoszące się do pozycji statku powietrznego w locie w płaszczyźnie pionowej i oznaczające zarówno wysokość względną, wysokość bezwzględną lub poziom lotu."
+    },
+    {
+     "type": "ocr",
+     "text": "Poziom lotu (Flight level). Powierzchnia o stałym ciśnieniu atmosferycznym odniesiona do szczególnej wartości ciśnienia atmosferycznego 1013,2 hektopaskala (hPa) i oddzielona od innych takich powierzchni określonymi różnicami ciśnienia."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga I.— Wysokościomierz barometryczny wyskalowany według atmosfery wzorcowej:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) będzie wskazywał wysokość bezwzględną — jeżeli został nastawiony na ciśnienie QNH;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) będzie wskazywał wysokość względną nad podstawą odniesienia QFE — jeżeli został nastawiony na ciśnienie OFE;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) może być wykorzystany do określenia poziomów lotów — jeżeli został nastawiony na ciśnienie 1013,2 hPa."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 2.— Wyrażenia „wysokość względna” i „wysokość bezwzględna” użyte w Uwadze I powyżej oznaczają wysokości uzyskane przez pomiar ciśnienia, a nie wysokości geometryczne względne i bezwzględne."
+    },
+    {
+     "type": "ocr",
+     "text": "Poziom przelotu (Cruising level). Poziom utrzymywany podczas znacznej części lotu."
+    },
+    {
+     "type": "ocr",
+     "text": "Procedura podejścia według wskazań przyrządów (Instrument approach procedure). Szereg uprzednio ustalonych manewrów wykonywanych według wskazań przyrządów pokładowych z określonym zabezpieczeniem przed zderzeniem z przeszkodami, od pozycji (fix) rozpoczęcia podejścia początkowego lub gdzie jest to stosowane — od początku określonej trasy dolotu do punktu, od którego może być wykonane lądowanie, a gdy lądowanie nie zostało wykonane, do pozycji (fix), w której odpowiednie kryteria przewyższenia nad przeszkodami dla oczekiwania lub dla lotu po trasie są zastosowane."
+    },
+    {
+     "type": "ocr",
+     "text": "Przelot ze wznoszeniem (Cruise climb). Technika przelotu samolotu polegająca na zwiększaniu wysokości bezwzględnej w wyniku zmniejszania się masy samolotu."
+    },
+    {
+     "type": "ocr",
+     "text": "Przestrzenie powietrzne służb ruchu lotniczego (Air traffic services airspaces). Przestrzenie powietrzne o określonych wymiarach, oznaczone alfabetycznie, wewnątrz których mogą być wykonywane określone rodzaje lotów i dla których są ustalone służby ruchu lotniczego i przepisy o operacjach."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Przestrzenie powietrzne ATS są sklasyfikowane jako klasy od A do G, jak podano w rozporządzeniu Ministra Infrastruktury z dnia 11 marca 2004r. w prawie zasad działania służb ruchu lotniczego (Dz. U. Nr 44, poz.415)."
+    },
+    {
+     "type": "ocr",
+     "text": "Przestrzeń powietrzna kontrolowana (Controlled airspace). Przestrzeń powietrzna o określonych wymiarach, w której służba kontroli ruchu lotniczego jest zapewniana zgodnie z klasyfikacją przestrzeni powietrznej."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Wyrażenie „przestrzeń powietrzna kontrolowana” jest określeniem ogólnym, które obejmuje przestrzeń powietrzną ATS klasy A, B, C, DiE, jak podano w rozporządzeniu Ministra Infrastruktury z dnia 11 marca 2004 r. w sprawie zasad działania służb ruchu lotniczego (Dz. U. Nr44, poz. 415)."
+    },
+    {
+     "type": "ocr",
+     "text": "Przewidywany czas odblokowania (Estimated-off-block time). Przewidywany czas, w którym statek powietrzny rozpocznie ruch związany z odlotem."
+    },
+    {
+     "type": "ocr",
+     "text": "Przewidywany czas przylotu (Estimated time of arrival). Dla lotów IFR — przewidywany czas przybycia statku powietrznego nad wyznaczony punkt, określony w odniesieniu do pomocy nawigacyjnych, od którego jest zamierzone rozpoczęcie procedury podejścia według wskazań przyrządów lub gdy nie ma pomocy nawigacyjnej związanej z lotniskiem, czas, w którym statek powietrzny przybędzie nad łotnisko. Dla lotów"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "VFR jest to przewidywany czas przybycia statku powietrznego nad lotnisko."
+    },
+    {
+     "type": "ocr",
+     "text": "Pułap chmur (Ceiling). Wysokość nad ziemią lub wodą podstawy najniższej warstwy chmur, znajdujących się poniżej 6 000 m (20 000 ft) i pokrywających więcej niż połowę nieba."
+    },
+    {
+     "type": "ocr",
+     "text": "Punkt meldowania (Reporting point). Określone miejsce geograficzne, w odniesieniu do którego jest podawana pozycja statku powietrznego."
+    },
+    {
+     "type": "ocr",
+     "text": "Punkt zmiany namiaru (Change-over point). Punkt, w którym statek powietrzny wykonujący lot na odcinku trasy ATS, określonym za pomocą ogółnokierunkowych radiolatarń bardzo wielkiej częstotliwości, przejdzie — według przewidywań — z wykorzystywania, jako podstawowej pomocy prowadzącej, urządzenia znajdującego się za statkiem powietrznym na wykorzystywanie następnego urządzenia, które znajduje się przed statkiem powietrznym."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Punkty zmiany namiaru są ustalane w celu zapewnienia optymalnego zrównoważenia pod względem natężenia i jakości sygnału między urządzeniami na wszystkich wykorzystywanych poziomach i w celu zapewnienia tego samego źródła informacji azymutalnej dla wszystkich statków powietrznych wykonujących loty wzdłuż tej samej części odcinka trasy."
+    },
+    {
+     "type": "ocr",
+     "text": "Rada dla zapobieżenia kolizji (Traffic avoidance advice). Rada udzielana przez organ służb ruchu lotniczego, określająca manewry pomagające pilotowi uniknąć kolizji."
+    },
+    {
+     "type": "ocr",
+     "text": "Radiostacja kontroli powietrze-ziemia (Air-ground control radio station). Radiokomunikacyjna stacja lotnicza, która przede wszystkim jest odpowiedziałna za obsługę łączności dotyczącej operacji i kontroli statków powietrznych w danym obszarze."
+    },
+    {
+     "type": "ocr",
+     "text": "Radiotelefonia (Radiotelephony). Rodzaj łączności radiowej przeznaczonej przede wszystkim do wymiany informacji w postaci fonicznej."
+    },
+    {
+     "type": "ocr",
+     "text": "Rejon informacji powietrznej (FIR) (Flight information region). Przestrzeń powietrzna o określonych wymiarach, w której zapewniona jest służba informacji powietrznej i służba alarmowa."
+    },
+    {
+     "type": "ocr",
+     "text": "Rejon kontrolowany lotnisk(a) (TMA) (Terminal control area). Część obszaru kontrolowanego, ustanawiana zwykle u zbiegu tras ATS w pobliżu jednego lotniska lub kilku ważniejszych lotnisk."
+    },
+    {
+     "type": "ocr",
+     "text": "Ruch lotniczy (Air traffic). Ruch wszystkich statków powietrznych podczas lotu oraz na połu manewrowym lotniska."
+    },
+    {
+     "type": "ocr",
+     "text": "Ruch lotniskowy (Aerodrome traffic). Wszelki ruch na polu manewrowym lotniska i ruch wszystkich statków powietrznych wykonujących loty w pobliżu lotniska."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Statek powietrzny jest w pobliżu lotniska, gdy znajduje się w kręgu nadlotniskowym, względnie wchodzi w ten krąg lub wychodzi z niego."
+    },
+    {
+     "type": "ocr",
+     "text": "Ryzyko użycia środków (Problematic use of substances). Użycie przez personel lotniczy jednego lub kilku środków psychotropowych w sposób, który:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) powoduje bezpośrednie ryzyko dla używającego lub zagraża życiu, zdrowiu lub dobru innych; i/lub"
+    },
+    {
+     "type": "ocr",
+     "text": "b) pogarsza zdolność zawodową, socjalną, umysłową lub psychiczną albo powoduje fizyczne dolegliwości lub niesprawność."
+    },
+    {
+     "type": "ocr",
+     "text": "Samolot (Aeroplane). Statek powietrzny cięższy od powietrza o własnym napędzie silnikowym, uzyskujący swoją siłę nośną w locie głównie na skutek reakcji aerodynamicznych na powierzchnie, które pozostają nieruchome w danych warunkach lotu."
+    },
+    {
+     "type": "ocr",
+     "text": "Służba alarmowa (Alerting service). Służba ustanowiona w celu zawiadamiania właściwych organizacji o statkach powietrznych potrzebujących pomocy w zakresie poszukiwania i ratownictwa oraz w celu współdziałania z tymi organizacjami w razie potrzeby."
+    },
+    {
+     "type": "ocr",
+     "text": "Służba informacji powietrznej (Flight information service). Służba ustanowiona w celu udzielania wskazówek i informacji użytecznych dla bezpiecznego i sprawnego wykonywania lotów."
+    },
+    {
+     "type": "ocr",
+     "text": "Służba kontroli lotniska (Aerodrome control service). Służba kontroli ruchu lotniczego dla ruchu lotnisko-"
+    },
+    {
+     "type": "ocr",
+     "text": "wego."
+    },
+    {
+     "type": "ocr",
+     "text": "Służba kontroli obszaru (Area control service). Służba kontroli ruchu łotniczego dla lotów kontrolowanych, wykonywanych w obszarach kontrolowanych."
+    },
+    {
+     "type": "ocr",
+     "text": "Służba kontroli ruchu lotniczego (Air traffic control service). Służba ustanowiona w celu:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) zapobiegania kolizjom:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) miedzy statkami powietrznymi w locie i"
+    },
+    {
+     "type": "ocr",
+     "text": "2) statków powietrznych na polu manewrowym: z przeszkodami i innymi statkami powietrznymi; i"
+    },
+    {
+     "type": "ocr",
+     "text": "b) usprawniania i utrzymywania uporządkowanego przepływu ruchu lotniczego."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Służba kontroli zbliżania (Approach control service). Służba kontroli ruchu lotniczego dla lotów kontrolowanych przylatujących lub odlatujących statków powietrznych."
+    },
+    {
+     "type": "ocr",
+     "text": "Służba ruchu lotniczego (ATS) (Air traffic service). Wyrażenie ogólne oznaczające odpowiednio: służbę informacji powietrznej, służbę alarmową, służbę kontroli ruchu lotniczego (służba kontroli obszaru, służba kontroli zbliżania lub służba kontroli lotniska)."
+    },
+    {
+     "type": "ocr",
+     "text": "Spodziewany czas podejścia (Expected approach time). Czas przewidywany przez ATC, o którym przybywający statek powietrzny w wyniku opóźnienia opuści punkt oczekiwania w celu wykonania podejścia do lądowania."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Aktualny czas opuszczenia punktu oczekiwania będzie zależny od zezwolenia na podejście."
+    },
+    {
+     "type": "ocr",
+     "text": "Stacja lotnicza (Aeronautical station). Stacja naziemna ruchomej służby lotniczej. W pewnych przypadkach stacja lotnicza może być umieszczona np. na pokładzie statku wodnego lub platformie morskiej."
+    },
+    {
+     "type": "ocr",
+     "text": "Statek powietrzny (Aircraft). Urządzenie zdolne do unoszenia się w atmosferze na skutek oddziaływania powietrza innego niż oddziaływanie powietrza odbitego od podłoża."
+    },
+    {
+     "type": "ocr",
+     "text": "Status lotu (Flight status). Wskazówka informująca, czy dany statek powietrzny wymaga specjalnego traktowania, czy nie przez organy służb ruchu lotniczego."
+    },
+    {
+     "type": "ocr",
+     "text": "Strefa kontrolowana lotniska (Control zone). Przestrzeń powietrzna kontrolowana rozciągająca się od powierzchni ziemi do określonej górnej granicy."
+    },
+    {
+     "type": "ocr",
+     "text": "Strefa niebezpieczna (Danger area). Przestrzeń powietrzna o określonych wymiarach, w której mogą się odbywać, w opublikowanych przedziałach czasu, działania niebezpieczne dla lotów statków powietrznych."
+    },
+    {
+     "type": "ocr",
+     "text": "Strefa ograniczona (Restricted area). Przestrzeń powietrzna o określonych wymiarach nad obszarami lądowymi, wodami wewnętrznymi i wodami terytorialnymi Państwa, w której loty statków powietrznych są ograniczone pewnymi określonymi warunkami."
+    },
+    {
+     "type": "ocr",
+     "text": "Strefa ruchu lotniskowego (Aerodrome traffic zone). Przestrzeń powietrzna o określonych wymiarach, ustanowiona wokół lotniska dla ochrony ruchu lotniskowego."
+    },
+    {
+     "type": "ocr",
+     "text": "Strefa zakazana (Prohibited area). Przestrzeń powietrzna o określonych wymiarach nad obszarami lądowy-"
+    },
+    {
+     "type": "ocr",
+     "text": "mi, wodami wewnętrznymi i wodami terytorialnymi Państwa, w której loty statków powietrznych są zabronione."
+    },
+    {
+     "type": "ocr",
+     "text": "Środki psychotropowe (Psychoactive substances). Alkohol, opioidy, pochodne konopi indyjskich, środki uspokajające i preparaty hipnotyzujące, kokaina, inne stymulatory psychiczne, halucynogenne i lotne rozpuszczalniki, wyłączając kawę i tytoń."
+    },
+    {
+     "type": "ocr",
+     "text": "Trasa ATS (ATS route). Określona trasa przeznaczona do kanalizowania przepływu ruchu według potrzeby, w celu zapewnienia służb ruchu lotniczego."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 1.— Wyrażenie , trasa ATS” jest używane do określenia odpowiednio: drogi lotniczej, trasy kontrolowanej lub niekontrolowanej, trasy dolotu lub odlotu itp."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 2.— Trasa ATS jest określana przez charakterystyki, które zawierają: oznacznik trasy ATS, kąt drogi do lub od znaczących punktów nawigacyjnych (punktów drogi RNAV), odległość między znaczącymi punktami nawigacyjnymi, wymagania dotyczące meldunków i najmniejszą bezpieczną wysokość bezwzględną."
+    },
+    {
+     "type": "ocr",
+     "text": "VFR. Skrót oznaczający przepisy wykonywania lotów z widocznością."
+    },
+    {
+     "type": "ocr",
+     "text": "VMC. Skrót oznaczający warunki meteorologiczne dla łotów z widocznością."
+    },
+    {
+     "type": "ocr",
+     "text": "Warunki meteorologiczne dla lotów według wskazań przyrządów (Instrument meteorological conditions). Warunki meteorologiczne wyrażone widzialnością, odłegłością od chmur i pułapem chmur, mniejsze niż minima warunków meteorologicznych ustalonych dla lotów z widocznością."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Minima warunków meteorologicznych dla lotów z widocznością podane są w rozdziale 4."
+    },
+    {
+     "type": "ocr",
+     "text": "Warunki meteorologiczne dla lotów z widocznością (Visual meteorological conditions). Warunki meteorologiczne wyrażone widzialnością, odległością od chmur i pułapem chmur, równe lub większe od ustalonych minimów."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Minima warunków meteorologicznych dla lotów z widocznością podane są w rozdziale 4."
+    },
+    {
+     "type": "ocr",
+     "text": "Widzialność (Visibility). Widzialność, przyjęta dla celów lotniczych, jest większa niż:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) największa odległość, z której czarny obiekt odpowiednich rozmiarów, umieszczony w pobliżu"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "ziemi, obserwowany na jasnym tle, może być widziany i rozpoznany;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) największa odległość, z której światła o wartości około 1000 kandeli mogą być widziane i zidentyfikowane na nieoświetlonym tle."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Wyżej wymienione odległości mają różne wartości w powietrzu o określonym współczynniku tłumienia, przy czym wartość ujęta pod literą b) zmienia się wraz z oświetleniem, a wartość ujęta pod literą a) jest przedstawiana jako meteorologiczny zasięg optyczny (MOR)."
+    },
+    {
+     "type": "ocr",
+     "text": "Widzialność przy ziemi (Ground visibility). Widzialnosé na lotnisku, podawana przez upowaznionego obserwatora."
+    },
+    {
+     "type": "ocr",
+     "text": "Widzialność w locie (Flight visibility). Widzialność do przodu z kabiny pilota podczas lotu statku powietrznego."
+    },
+    {
+     "type": "ocr",
+     "text": "Wysokość bezwzględna (Altitude). Odległość pionowa. poziomu, punktu lub przedmiotu rozpatrywanego jako punkt, mierzona od średniego poziomu morza (MSL)."
+    },
+    {
+     "type": "ocr",
+     "text": "Wysokość bezwzględna przejściowa (Transition altitude). Wysokość bezwzględna, na lub poniżej której pozycja statku powietrznego w płaszczyźnie pionowej jest określana w odniesieniu do wysokości bezwzględnych."
+    },
+    {
+     "type": "ocr",
+     "text": "Wysokość względna (Height). Odległość pionowa poziomu, punktu lub przedmiotu rozpatrywanego jako punkt, mierzona od określonego poziomu odniesienia."
+    },
+    {
+     "type": "ocr",
+     "text": "Zbiór Informacji Lotniczych - Polska (AIP Polska) (Aeronautical Information Publication - Poland (AIP Poland)). Publikacja wydawana przez państwowy organ zarzadzania ruchem lotniczym, zawierajaca informacje lotnicze o charakterze trwatym, istotne dla żeglugi powietrznej, a dotyczące Rejonu Informacji Powietrznej Warszawa."
+    },
+    {
+     "type": "ocr",
+     "text": "Zezwolenie kontroli ruchu lotniczego (Air traffic control clearance). Upoważnienie dowódcy statku powietrznego do postępowania zgodnie z warunkami określonymi przez organ kontroli ruchu lotniczego."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 1.— Zamiast wyrażenia „zezwolenie kontroli ruchu lotniczego” w tekście jest stosowana często dla wygody skrócona forma „zezwolenie ”."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 2.— Do skróconej formy wyrażenia „zezwolenie” mogą być dodane słowa „na kołowanie”, „na start”, „na odlot”, „na lot po trasie”, „na podejście” lub „na lądowanie\" w celu wskazania tej części fazy lotu, do której odnosi się zezwolenie kontroli ruchu lotniczego."
+    },
+    {
+     "type": "ocr",
+     "text": "Złożony plan lotu (Filed flight plan). Plan lotu bez ewentualnych zmian przedstawiony organowi ATS przez piłota lub jego upoważnionego przedstawiciela."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "ROZDZIAŁ 2."
+    },
+    {
+     "type": "ocr",
+     "text": "2.1. _ Zakres stosowania przepisów ruchu lotniczego"
+    },
+    {
+     "type": "ocr",
+     "text": "2.1.1. Niniejsze przepisy ruchu lotniczego obowiązują załogi statków powietrznych wykonujących loty w Rejonie Informacji Powietrznej Warszawa (FIR Warszawa)."
+    },
+    {
+     "type": "ocr",
+     "text": "2.1.2. Niniejsze przepisy ruchu lotniczego nie są sprzeczne z ustaleniami Załącznika 2 do Konwencji o międzynarodowym lotnictwie cywilnym pt. Przepisy ruchu lotniczego i z regionalnymi porozumieniami żeglugi powietrznej, a różnice występujące między tymi przepisami publikuje państwowy organ zarządzania ruchem lotniczym w Zbiorze Informacji Lotniczych - Polska, na wniosek Prezesa Urzędu Lotnictwa Cywilne-"
+    },
+    {
+     "type": "ocr",
+     "text": "go."
+    },
+    {
+     "type": "ocr",
+     "text": "2.2. Stosowanie się do przepisów ruchu lotniczego"
+    },
+    {
+     "type": "ocr",
+     "text": "Użytkowanie statku powietrznego zarówno podczas lotu, jak i na polu ruchu naziemnego, powinno być zgodne z przepisami ogólnymi wykonywania lotów, a ponadto zgodne z:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) przepisami wykonywania lotów z widocznością (rozdział 4); lub"
+    },
+    {
+     "type": "ocr",
+     "text": "b) przepisami wykonywania lotów według wskazań przyrządów (rozdział 5)."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 1.— Informacja o służbach zapewnianych statkowi powietrznemu wykonującemu lot zgodnie z przepisami wykonywania lotów z widocznością i przepisami wykonywania lotów według wskazań przyrządów w siedmiu klasach przestrzeni powietrznej ATS jest zawarta w rozporządzeniu Ministra Infrastruktury z dnia 11 marca 2004 r. w sprawie zasad działania służb ruchu lotniczego (Dz. U. Nr44, poz. 415), ust. 2.6.1. i 2.6.3."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 2.— Dowódca statku powietrznego może według własnego uznania wykonywać lot zgodnie z przepisami wykonywania lotu według wskazań przyrządów w warunkach meteorologicznych dla lotów z widoczno- Ścią lub też może być zobowiązany do tego przez państwowy organ zarządzania ruchem lotniczym."
+    },
+    {
+     "type": "ocr",
+     "text": "STOSOWANIE PRZEPISÓW RUCHU LOTNICZEGO"
+    },
+    {
+     "type": "ocr",
+     "text": "2.3. Odpowiedzialność za stosowanie się do przepisów ruchu lotniczego"
+    },
+    {
+     "type": "ocr",
+     "text": "2.3.1. _ Odpowiedzialność dowódcy statku powietrznego"
+    },
+    {
+     "type": "ocr",
+     "text": "Dowódca statku powietrznego, niezależnie od tego, czy osobiście pilotuje statek powietrzny, czy nie, jest odpowiedzialny za użytkowanie statku powietrznego zgodnie z przepisami obowiązującymi w ruchu lotniczym, od których wolno mu odstąpić w okolicznościach czyniących takie odstępstwo bezwzględnie koniecznym ze względów bezpieczeństwa."
+    },
+    {
+     "type": "ocr",
+     "text": "2.3.2. _ Czynności przed lotem"
+    },
+    {
+     "type": "ocr",
+     "text": "Przed rozpoczęciem lotu dowódca statku powietrznego powinien zapoznać się ze wszystkimi dostępnymi informacjami dotyczącymi zamierzonego lotu. Czynności przed lotami poza sąsiedztwo lotniska i przed wszystkimi lotami IFR powinny obejmować dokładne zapoznanie się z dostępnymi aktualnymi komunikatami pogody i prognozami, uwzględniając wymagania dotyczące paliwa oraz sposób postępowania w przypadku, gdyby lot nie mógł się odbyć zgodnie z planem."
+    },
+    {
+     "type": "ocr",
+     "text": "2.4. Uprawnienia dowódcy statku powietrznego"
+    },
+    {
+     "type": "ocr",
+     "text": "Ostateczną decyzję w sprawach dotyczących statku powietrznego podejmuje, w ramach wykonywania powierzonych mu zadań, dowódca statku powietrznego."
+    },
+    {
+     "type": "ocr",
+     "text": "2.5. _ Ryzyko użycia środków psychotropowych"
+    },
+    {
+     "type": "ocr",
+     "text": "Żadna osoba, której funkcja jest związana z bezpieczeństwem lotniczym, nie może wykonywać tej funkcji, będąc pod wpływem jakichkolwiek środków psychotropowych ograniczających zdolności postrzegania. Żadna taka osoba nie może się angażować w jakiekolwiek ryzyko związane z użyciem środków psychotropowych."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "ROZDZIAŁ 3. PRZEPISY OGÓLNE"
+    },
+    {
+     "type": "ocr",
+     "text": "3.1. _ Zabezpieczenie osób i mienia"
+    },
+    {
+     "type": "ocr",
+     "text": "3.1.1. — Prowadzenie statku powietrznego"
+    },
+    {
+     "type": "ocr",
+     "text": "Statku powietrznego nie należy prowadzić w sposób niedbały lub nierozważny zagrażający życiu lub mieniu innych osób."
+    },
+    {
+     "type": "ocr",
+     "text": "3.1.2. Minimałne wysokości lotu"
+    },
+    {
+     "type": "ocr",
+     "text": "Statek powietrzny nie powinien wykonywać lotu nad obszarami zabudowanymi dużych miast i osiedli lub nad zgromadzeniem osób na wolnym powietrzu, chyba że lot odbywa się na takiej wysokości, która pozwoli w przypadku zagrożenia na wykonanie lądowania bez niepotrzebnego narażania osób lub mienia na ziemi. Wymaganie to nie obowiązuje w przypadku, gdy jest to konieczne przy starcie lub lądowaniu albo gdy państwowy organ zarządzania ruchem lotniczym zezwolił na niezastosowanie się do tego wymagania."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Patrz ust. 4.6. odnośnie do minimalnych wysokości dla lotów VFR i ust. 5.1.2. odnośnie do minimalnych poziomów dla lotów IFR."
+    },
+    {
+     "type": "ocr",
+     "text": "3.1.3. _« Poziomy przelotu"
+    },
+    {
+     "type": "ocr",
+     "text": "Poziomy przelotu, na jakich ma się odbyć przelot ałbo jego część, należy wyrażać jako:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) poziomy lotu — podczas lotu na najniższym dostępnym poziomie lotu lub powyżej tego poziomu albo odpowiednio powyżej wysokości bezwzględnej przejściowej;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) wysokości bezwzględne — podczas lotu poniżej najniższego dostępnego poziomu lotu albo odpowiednio na lub poniżej wysokości bezwzględnej przejściowej."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga I.— Wysokości przejściowe, poziomy przej- Sciowe i najniższe dostępne poziomy lotu w drogach"
+    },
+    {
+     "type": "ocr",
+     "text": "lotniczych są publikowane w Zbiorze Informacji Lotniczych - Polska."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 2.— Poziomy przejściowe są zawarte w informacjach przekazywanych załogom statków powietrznych przez organy służb ruchu lotniczego."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 3.— Poziomy przelotów są podane w tabeli zawartej w dodatku 3 do niniejszych przepisów."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 4.— Zasady nastawiania wysokościomierzy są zawarte w PL-8168, tom I i PL-4444."
+    },
+    {
+     "type": "ocr",
+     "text": "3.1.4. Zrzuty ze statków powietrznych"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga. Zrzuty ze statków powietrznych można wykonywać wyłącznie zgodnie z ustaleniami określonymi w art. 123 ust. 2 i 3 ustawy z dnia 3 lipca 2002 r. — Prawo lotnicze (Dz. U. Nr 130, poz. 1112 oraz z 2003r. Nr 210, poz. 2036), zwanej dalej ustawą, oraz w rozporządzeniu Ministra Infrastruktury z dnia 18 grudnia 2003 r. w sprawie zrzutów ze statku powietrznego (Dz. U. Nr 230, poz. 2299)."
+    },
+    {
+     "type": "ocr",
+     "text": "3.1.5. _ Holowanie statków powietrznych lub przedmiotów"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Holowanie przez statek powietrzny innych statków powietrznych lub przedmiotów ujęte jest w odrębnych przepisach."
+    },
+    {
+     "type": "ocr",
+     "text": "3.1.6. Skoki spadochronowe"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Skoki spadochronowe inne niż w niebezpieczeństwie powinny się odbywać zgodnie z odrębnymi przepisami."
+    },
+    {
+     "type": "ocr",
+     "text": "3.1.7. Loty akrobacyjne i próbne"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Loty akrobacyjne mogą być wykonywane zgodnie z rozporządzeniem Ministra Infrastruktury z dnia 22 grudnia 2003 r. w sprawie wyjątków od zakazu wykonywania lotów próbnych i akrobacyjnych nad osiedlami i innymi skupiskami ludności (Dz. U. Nr 230, poz. 2304)."
+    },
+    {
+     "type": "ocr",
+     "text": "3.1.8. Loty grupowe"
+    },
+    {
+     "type": "ocr",
+     "text": "Statki powietrzne nie powinny wykonywać lotów w grupie, chyba że dowódcy statków powietrznych uczestniczący w locie grupowym uzgodnili to wcześniej, a loty grupowe w przestrzeni powietrznej kontrolowanej spełniają ponadto poniższe warunki:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) pod względem nawigacji, jak i składania meldunku pozycyjnego grupa wykonuje łot jako pojedynczy statek powietrzny;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) za zapewnienie separacji między statkami powietrznymi w łocie odpowiadają: dowódca statku powietrznego prowadzącego oraz dowódcy statków powietrznych prowadzonych, a odpowiedzialność ta obejmuje okresy, gdy statki powietrzne manewrują, ustalając własną separację w grupie, a także podczas formowania i rozformowywania grupy;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) wszystkie prowadzone statki powietrzne powinny utrzymywać od statku prowadzącego odległości nieprzekraczające I km (0,5 NM) — w poziomie oraz 30 m (100 ft) — w pionie, nie dotyczy statków powietrznych lotnictwa państwowego."
+    },
+    {
+     "type": "ocr",
+     "text": "3.1.9. Loty balonu wolnego bezzałogowego"
+    },
+    {
+     "type": "ocr",
+     "text": "Loty bałonu wolnego bezzałogowego powinny być wykonywane w taki sposób, aby nie stwarzać zagrożenia dla osób, mienia i innych statków powietrznych oraz zgodnie z warunkami określonymi w dodatku 4 do niniejszych przepisów."
+    },
+    {
+     "type": "ocr",
+     "text": "3.1.10. Strefy zakazane i ograniczone"
+    },
+    {
+     "type": "ocr",
+     "text": "Statki powietrzne nie mogą wykonywać lotów w strefach zakazanych i ograniczonych, chyba że loty te odbywają się za zezwoleniem właściwego organu i zgodnie z warunkami ograniczeń."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Rodzaj, rozmiary, położenie i inne dane dotyczące tych stref są publikowane w Zbiorze Informacji Lotniczych - Polska."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2. Zapobieganie kolizjom"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Istotne jest, aby na pokładzie statku powietrznego w czasie lotu nie zmniejszać czujności w wykrywaniu potencjalnych kolizji, niezależnie od rodzaju lotu lub klasy przestrzeni powietrznej, w której statek powietrzny wykonuje lot, i podczas poruszania się po polu ruchu naziemnego."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.1. Zbliżenie"
+    },
+    {
+     "type": "ocr",
+     "text": "Statek powietrzny nie powinien zbliżać się do innego statku powietrznego na taką odległość, w której mogłoby grozić niebezpieczeństwo kolizji."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.2. — Pierwszeństwo drogi"
+    },
+    {
+     "type": "ocr",
+     "text": "Dowódca statku powietrznego mający pierwszeństwo drogi powinien utrzymywać kurs i prędkość lotu, lecz żaden z niniejszych przepisów nie zwalnia go od odpowiedzialności za podjęcie działań, które najskuteczniej zapobiegną ewentualnej kolizji, włącznie z manewrami wynikającymi z informacji uzyskiwanych z urządzenia ACAS."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Patrz PL-8168, tom I, część VIII, rozdział 3."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.2.1. Dowódca statku powietrznego, który na podstawie niżej podanych przepisów jest obowiązany do utrzymywania się z dala od drogi innego statku powietrznego, powinien unikać przelatywania nad nim, pod nim lub przed nim, chyba że jest całkowicie pewny, iż minie go bezpiecznie i uwzględni skutki turbulencji w śladzie aerodynamicznym statku powietrznego."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.2.2. Zbliżanie się na kierunkach przeciwnych. Gdy dwa statki powietrzne zbliżają się do siebie na kierunkach przeciwnych lub prawie przeciwnych i grozi to niebezpieczeństwem zderzenia, dowódca każdego z nich powinien zmienić swój kurs w prawo."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.2.3. Zbliżanie się na kierunkach zbieżnych. Gdy dwa statki powietrzne lecą na kierunkach zbieżnych i w przybliżeniu na tym samym poziomie, dowódca statku powietrznego, który ma inny statek powietrzny po swojej prawej stronie, powinien mu dać pierwszeństwo drogi, jednakże:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) statki powietrzne z napędem silnikowym cięższe od powietrza powinny dać pierwszeństwo drogi sterowcom, szybowcom i balonom;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) sterowce powinny dać pierwszeństwo drogi szybowcom i balonom;"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "c) szybowce powinny dać pierwszeństwo drogi balonom;"
+    },
+    {
+     "type": "ocr",
+     "text": "d) statki powietrzne z napędem powinny dać pierwszeństwo drogi statkom powietrznym hołującym inne statki powietrzne lub przedmioty."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.2.4. Wyprzedzanie. Statkiem powietrznym wyprzedzającym jest statek powietrzny, który zbliża się do innego statku powietrznego od tyłu, z kierunku tworzącego kąt mniejszy niż 70° z płaszczyzną symetrii statku wyprzedzanego, tj. znajduje się on w takiej pozycji względem statku wyprzedzanego, z której w nocy nie byłoby widoczne albo lewe, albo prawe światło pozycyjne statku wyprzedzanego. Statek powietrzny wyprzedzany ma pierwszeństwo drogi, a dowódca statku powietrznego wyprzedzającego, niezależnie od tego, czy się wznosi lub zniża, czy też wykonuje lot poziomy, powinien utrzymywać się z dala od statku wyprzedzanego, zmieniając swój kurs w prawo; żadna następna zmiana we wzajemnym położeniu obu statków nie zwalnia dowódcy statku powietrznego wyprzedzającego od wymienionego obowiązku, dopóki nie minie statku wyprzedzanego i nie oddali się od niego."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.2.5. Lądowanie"
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.2.5.1. Dowódca statku powietrznego w locie lub poruszającego się na ziemi albo na wodzie powinien dać pierwszeństwo drogi innym statkom powietrznym lądującym lub będącym w końcowej fazie podejścia do lądowania."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.2.5.2. Gdy dwa statki powietrzne lub więcej cięższych od powietrza zbliżają się do lotniska z zamiarem lądowania, dowódca statku powietrznego znajdujący się na wyższym poziomie powinien dać pierwszeństwo drogi statkowi powietrznemu na niższym poziomie, lecz przepis ten nie powinien być wykorzystywany w celu uzyskania pierwszeństwa drogi w odniesieniu do statku powietrznego wykonującego końcowe podejście do lądowania lub wyprzedzenia tego statku. Niemniej jednak statki powietrzne cięższe od powietrza i z napędem silnikowym powinny dać pierwszeństwo drogi szybowcom."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.2.5.3. Lądowanie przymusowe. Dowódca statku powietrznego wiedząc, że inny statek powietrzny jest zmuszony do lądowania, powinien dać temu statkowi pierwszeństwo drogi."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.2.6. Start. Dowódca statku powietrznego kołujący na polu manewrowym lotniska powinien dać pierwszeństwo drogi statkom powietrznym startującym lub przygotowującym się do startu."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.2.7. Ruch naziemny statków powietrznych"
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.2.7.1. W razie niebezpieczeństwa kolizji dwóch statków powietrznych kołujących na polu ruchu naziemnego należy stosować następujące zasady:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) gdy dwa statki powietrzne zbliżają się do siebie na kierunkach przeciwnych lub zbliżonych do przeciwnych, każdy z nich powinien się zatrzymać lub, gdy to jest możliwe, zmienić kierunek ruchu w prawo tak, aby wyminięcie mogło być wykonane w bezpiecznej odległości;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) gdy dwa statki powietrzne znajdują się na kierunkach zbieżnych, to statek powietrzny, który ma drugi statek po swej prawej stronie, powinien dać mu pierwszeństwo drogi;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) statek powietrzny, który jest wyprzedzany przez inny statek powietrzny, posiada pierwszeństwo drogi, a statek wyprzedzający powinien utrzymywać się w bezpiecznej odległości od statku wyprzedzanego."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Patrz ust. 3.2.2.4. — określenie statku powietrznego wyprzedzającego."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.2.7.2. _ Dowódca statku powietrznego kołując na polu manewrowym, powinien się zatrzymać i oczekiwać na wszystkich miejscach oczekiwania przy drodze startowej, chyba że ma inne polecenia od organu kontroli lotniska."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.2.7.3. Dowódca statku powietrznego kołujący na polu manewrowym powinien się zatrzymać i oczekiwać przy wszystkich zapalonych poprzeczkach zatrzymania i może rozpocząć dalsze kołowanie dopiero wtedy, gdy ich światła zgasną."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.2.8. Loty w przestrzeni powietrznej, w której odbywają się skoki spadochronowe lub zrzuty"
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.2.8.1. Statek powietrzny nie powinien przelatywać przez przestrzeń powietrzną, w której odbywają się skoki spadochronowe lub zrzuty, chyba że bierze udział w ich wykonywaniu lub obsłudze."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.2.8.2. Dowódca statku powietrznego nie może wykorzystywać do startu i lądowania terenu, na którym w danym czasie lądują skoczkowie lub na który dokonuje się zrzutów."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.3. _ Światła, jakie powinny być zapalone na statkach powietrznych"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 1.— Za poruszający się statek powietrzny na polu ruchu naziemnego uważa się również statek, który został zatrzymany chwilowo podczas kołowania lub holowania."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 2.— Patrz ust. 3.2.6.2. co do statków powietrznych na wodzie."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.3.1. Z wyjątkiem przypadków wymienionych w ust. 3.2.3.5., w okresie między zachodem a wschodem słońca na statkach powietrznych w locie powinny być zapalone:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) światła antykolizyjne przeznaczone do zwracania uwagi na statki powietrzne i"
+    },
+    {
+     "type": "ocr",
+     "text": "b) światła pozycyjne przeznaczone do wskazywania obserwatorowi względnego toru lotu statku powietrznego; inne światła nie powinny być zapalone, jeżeli istnieje prawdopodobieństwo pomylenia ich ze światłami pozycyjnymi."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Światła przeznaczone do innych celów, takie jak reflektory do lądowania i światła kierunkowego oświetlenia płatowca, mogą być użyte dodatkowo ze światłami antykolizyjnymi, aby statek był bardziej widoczny."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.3.2. Z wyjątkiem przypadków wymienionych w ust. 3.2.3.5., w okresie między zachodem a wschodem słońca na wszystkich statkach powietrznych:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) poruszających się na polu ruchu naziemnego powinny być zapalone światła pozycyjne przeznaczone do wskazywania obserwatorowi względnego toru poruszania się statku powietrznego; inne światła nie powinny być zapalone, jeżeli istnieje prawdopodobieństwo pomylenia ich ze światłami pozycyjnymi;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) znajdujących się na polu ruchu naziemnego, z wyjątkiem tych, którym zapewniono oświetlenie stałe lub inne odpowiednie oświetlenie, powinny być zapalone światła przeznaczone do oznaczania krańcowych punktów konstrukcji;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) poruszających się na polu ruchu naziemnego powinny być zapałone światła mające na celu zwrócenie uwagi na statek powietrzny i"
+    },
+    {
+     "type": "ocr",
+     "text": "d) znajdujących się na polu ruchu naziemnego, z pracującymi silnikami, powinny być zapalone światła sygnalizujące ich pracę;"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga. — Jeżeli światła pozycyjne wymienione w ust. 3.2.3.1. lit. b) są odpowiednio umieszczone, mogą one również spełniać wymagania ust. 3.2.3.2. lit. b). Czerwone światła antykolizyjne dostosowane do wymagań ust. 3.2.3.1. lit a) mogą również spełniać wymagania"
+    },
+    {
+     "type": "ocr",
+     "text": "ust. 3.2.3.2. lit. c) i ust. 3.2.3.2. lit. d) pod warunkiem że nie spowoduje szkodliwego oślepienia obserwatorów."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.3.3. Z wyjątkiem przypadków wymienionych w ust. 3.2.3.5., na wszystkich statkach powietrznych w locie wyposażonych w światła antykolizyjne dla spełnienia wymagań ust. 3.2.3.1. lit. a) powinny być zapalone takie światła również poza okresem określonym w ust. 3.2.3.1."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.3.4. Z wyjątkiem przypadków wymienionych w ust. 3.2.3.5, na wszystkich statkach powietrznych:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) poruszających się na polu ruchu naziemnego i wyposażonych w światła przeciwkolizyjne, spełniające wymagania ust. 3.2.3.2 lit. c); lub"
+    },
+    {
+     "type": "ocr",
+     "text": "b) na polu ruchu naziemnego i wyposażonych w światła spełniające wymagania ust. 3.2.3.2. lit. d);"
+    },
+    {
+     "type": "ocr",
+     "text": "powinny być zapalone takie światła również poza okresem podanym w ust. 3.2.3.2."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.3.5. Pilot może wyłączyć lub zmniejszyć intensywność którychkolwiek palących się świateł błyskowych zgodnie z wymaganiami ust. 3.2.3.1., 3.2.3.2., 3.2.3.3. 1 3.2.3.4., jeżeli powodują one lub mogą powodować:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) poważne utrudnienie w należytym wykonywaniu jego obowiązków lub"
+    },
+    {
+     "type": "ocr",
+     "text": "b) szkodliwe oślepienie obserwatorów znajdujących się na zewnątrz."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.4. Loty w symulowanych warunkach lotu według wskazań przyrządów"
+    },
+    {
+     "type": "ocr",
+     "text": "Lot w symulowanych warunkach lotu według wskazań przyrządów może być wykonywany tylko wtedy, gdy:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) statek posiada w pełni sprawne podwójne urządzenia sterownicze i"
+    },
+    {
+     "type": "ocr",
+     "text": "b) jedno z miejsc przy urządzeniach sterowniczych zajmuje pilot wykwalifikowany jako pilot bezpieczeństwa dla osoby wykonującej lot w symulowanych warunkach lotu według wskazań przyrządów. Pilot bezpieczeństwa powinien mieć zapewnioną widoczność do przodu i na obie strony statku powietrznego lub powinien posiadać łączność z kompetentnym obserwatorem znajdującym się w takim miejscu na statku powietrznym, z którego pole widzenia tego obserwatora odpowiednio uzupełnia pole widzenia pilota bezpieczeństwa."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.5. — Poruszanie się statku powietrznego na lotnisku (lądowisku) i w pobliżu lotniska (lądowiska)"
+    },
+    {
+     "type": "ocr",
+     "text": "Dowódca statku powietrznego poruszającego się na lotnisku (lądowisku) łub wykonującego lot nad lotniskiem (lądowiskiem) lub w jego pobliżu powinien:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) obserwować inny ruch lotniskowy w celu uniknięcia kolizji;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) dostosować się do ruchu innych statków powietrznych lub trzymać się od nich z dała;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) w czasie podejścia do lądowania i po starcie wykonywać wszystkie zakręty w lewo, chyba że otrzyma inne instrukcje;"
+    },
+    {
+     "type": "ocr",
+     "text": "d) startować i lądować pod wiatr, chyba że bezpieczeństwo, konfiguracja drogi startowej lub względy ruchu lotniczego uzasadniają przyjęcie korzystniejszego kierunku;"
+    },
+    {
+     "type": "ocr",
+     "text": "e) rozpoczynać rozbieg oraz przyziemienie z uwzględnieniem rozporządzalnej długości drogi startowej."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— W strefach ruchu lotniskowego mogą obowiązywać dodatkowe przepisy."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.6. — Poruszanie się statku powietrznego na wodzie"
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.6.1. Gdy dwa statki powietrzne lub statek powietrzny i statek wodny zbliżają się do siebie tak, że grozi to kolizją, to dowódca statku powietrznego powinien prowadzić swój statek ze szczególnym uwzględnieniem istniejących okoliczności i warunków oraz włączając w to ograniczenia w możliwości manewrowania drugiego statku."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.6.1.1. Zbłiżanie na kierunkach zbieżnych. Dowódca statku powietrznego mający inny statek powietrzny lub statek wodny po swej prawej stronie powinien dać mu pierwszeństwo drogi, utrzymując się z dala od"
+    },
+    {
+     "type": "ocr",
+     "text": "niego."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.6.1.2. Zblizanie na kierunkach przeciwnych. Dowódca statku powietrznego zbliżającego się do innego statku powietrznego lub statku wodnego na kierunku przeciwnym lub zbliżonym do przeciwnego powinien zmienić swój kurs w prawo tak, aby utrzymywać się z dala od niego."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.6.1.3. Wyprzedzanie. Statek powietrzny lub statek wodny wyprzedzany ma pierwszeństwo drogi, a dowódca statku wyprzedzającego powinien zmienić"
+    },
+    {
+     "type": "ocr",
+     "text": "swój kurs tak, aby utrzymywać się z dala od wyprzedzanego."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.6.1.4. Lądowanie i start. Dowódca statku powietrznego lądującego na wodzie lub startującego z powierzchni wody powinien w miarę możliwości trzymać się z dala od wszystkich statków wodnych i unikać przeszkadzania im w poruszaniu się."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2.6.2. Światła, jakie mają być zapalone na statkach powietrznych znajdujących się na wodzie."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Światła, jakie mają być zapalone na statkach powietrznych znajdujących się na wodzie, określają odrębne przepisy."
+    },
+    {
+     "type": "ocr",
+     "text": "3.3. Plany lotów"
+    },
+    {
+     "type": "ocr",
+     "text": "3.3.1. _ Składanie planu lotu"
+    },
+    {
+     "type": "ocr",
+     "text": "3.3.1.1. Informacje dotyczące zamierzonego lotu lub części lotu, które powinny być dostarczone organom służb ruchu lotniczego, należy przedstawiać w postaci planu lotu."
+    },
+    {
+     "type": "ocr",
+     "text": "3.3.1.2. Plan lotu musi być złożony przed rozpoczęciem każdego lotu:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) dla którego w całości lub w części ma być zapewniona służba kontroli ruchu lotniczego;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) IFR w przestrzeni powietrznej niekontrolowanej;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) VFR w przestrzeni powietrznej niekontrolowanej, jeżeli ma być zapewniona służba informacji powietrznej i służba alarmowa;"
+    },
+    {
+     "type": "ocr",
+     "text": "d) którego trasa lub jej część przebiega w opublikowanej strefie identyfikacji obrony powietrznej w celu ułatwienia koordynacji z właściwymi organami wojskowymi oraz uniknięcia ewentualnej potrzeby przechwytywania i dokonania identyfikacji lub w innej części przestrzeni, dla której taki wymóg opublikowano;"
+    },
+    {
+     "type": "ocr",
+     "text": "e) z przekraczaniem granicy państwowej."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Wyrażenie „płan lotu\" odnosi się zarówno do pełnej informacji dotyczącej wszystkich punktów zawartych w formularzu planu lotu, obejmujących całą trasę, lub do ograniczonej informacji, gdy chodzi o uzyskanie zezwolenia dla małej części lotu, jak np. dla przecięcia drogi lotniczej, startu z lotniska kontrolowanego lub lądowania na takim lotnisku."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "3.3.1.3. Plan lotu powinien być złożony przed odlotem w biurze odpraw załóg lub przekazany podczas lotu właściwemu organowi służb ruchu lotniczego, chyba że zostało zawarte porozumienie dotyczące przedstawiania powtarzalnych planów lotu."
+    },
+    {
+     "type": "ocr",
+     "text": "3.3.1.4. Plan dla lotu, któremu ma być zapewniona służba kontroli ruchu lotniczego, należy przedstawić co najmniej 3 godziny przed odlotem. Plan dla lotu niepodlegającego procedurze wstępnego przetwarzania planów lotu Centralnego Organu Zarządzania Przepływem Ruchu Lotniczego (CFMU) należy przedstawić co najmniej 1 godzinę przed odlotem. Jeżeli jest przedstawiony podczas lotu, to w takim czasie, który umożliwi jego odbiór przez zainteresowany organ służb ruchu lotniczego co najmniej dziesięć minut przed przewidywanym przybyciem statku powietrznego do:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) _ zamierzonego punktu wejścia do obszaru kontrolowanego;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) punktu przecięcia drogi lotniczej."
+    },
+    {
+     "type": "ocr",
+     "text": "3.3.2. Tresé planu lotu"
+    },
+    {
+     "type": "ocr",
+     "text": "Plan lotu powinien zawierać informacje dotyczące niżej wymienionych danych:"
+    },
+    {
+     "type": "ocr",
+     "text": "— Znak rozpoznawczy statku powietrznego"
+    },
+    {
+     "type": "ocr",
+     "text": "— Przepisy wykonywania lotu i rodzaj lotu"
+    },
+    {
+     "type": "ocr",
+     "text": "— Liczba i typ(y) statku(ów) powietrznego(nych) i kategoria turbulencji w śladzie aerodynamicznym"
+    },
+    {
+     "type": "ocr",
+     "text": "— Wyposażenie (dotyczy lotów kontrolowanych oraz lotów IFR)"
+    },
+    {
+     "type": "ocr",
+     "text": "— Lotnisko odlotu (patrz Uwaga 1)"
+    },
+    {
+     "type": "ocr",
+     "text": "— Przewidywany czas odblokowania (patrz Uwaga 2);"
+    },
+    {
+     "type": "ocr",
+     "text": "— Prędkość(i) przelotowa(e)"
+    },
+    {
+     "type": "ocr",
+     "text": "— Poziom(y) przelotu"
+    },
+    {
+     "type": "ocr",
+     "text": "— Trasa zamierzonego lotu"
+    },
+    {
+     "type": "ocr",
+     "text": "— Lotnisko docelowe i całkowity przewidywany czas przelotu"
+    },
+    {
+     "type": "ocr",
+     "text": "— Lotnisko(a) zapasowe (dotyczy lotów kontrolowanych oraz lotów IFR)"
+    },
+    {
+     "type": "ocr",
+     "text": "— Zapas paliwa"
+    },
+    {
+     "type": "ocr",
+     "text": "— Liczba wszystkich osób na pokładzie"
+    },
+    {
+     "type": "ocr",
+     "text": "— Wyposażenie na wypadek zagrożenia i dla przetrwania"
+    },
+    {
+     "type": "ocr",
+     "text": "— Inne informacje."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga I.— W planach lotu przekazywanych podczas lotu informacja podana w tym punkcie będzie wskazaniem miejsca, z którego w razie potrzeby może być uzyskana dodatkowa informacja dotycząca lotu."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 2.— W planach lotu przekazywanych podczas lotu, informacja podana w tym punkcie będzie wskazaniem czasu nad pierwszym punktem trasy, którego plan lotu dotyczy."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 3.— Wyrażenie „lotnisko”, gdy jest użyte w odniesieniu do planu lotu, dotyczy również miejsc innych niż lotniska, które mogą być wykorzystane przez określone rodzaje statków powietrznych, np. śmigłowce lub balony."
+    },
+    {
+     "type": "ocr",
+     "text": "3.3.3. Wypełnianie planu lotu"
+    },
+    {
+     "type": "ocr",
+     "text": "3.3.3.1. Przedstawiony plan lotu powinien zawierać wszystkie informacje zgodnie z zestawieniem ujętym w ust. 3.3.2.aż / punktu „lotnisko(a) zapasowe” włącznie, odnośnie do całej trasy lotu lub jej części, na którą plan lotu został złożony."
+    },
+    {
+     "type": "ocr",
+     "text": "3.3.3.2. Plan lotu powinien zawierać dodatkowo wszystkie informacje zgodnie z zestawieniem ujętym w ust. 3.3.2., dotyczące pozostałych punktów, jeśli mają zastosowanie."
+    },
+    {
+     "type": "ocr",
+     "text": "3.3.4. Zmiany do płanu lotu"
+    },
+    {
+     "type": "ocr",
+     "text": "Zgodnie z postanowieniami ust. 3.6.2.2. wszystkie zmiany w stosunku do planu lotu przedstawionego na lot IFR łub lot VFR wykonywany jako lot kontrolowany powinny być zgłaszane tak szybko, jak tylko to będzie możliwe, właściwemu organowi służb ruchu lotniczego. Na inne loty VFR znaczące zmiany w planie lotu powinny być zgłaszane, jak tylko to będzie możliwe, właściwemu organowi służb ruchu lotniczego."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga I.— Jeżeli przedstawione przed odlotem informacje dotyczące zapasu paliwa lub liczby wszystkich osób na pokładzie nie będą Ścisłe w chwili odlotu, stanowią one istotne zmiany do planu lotu i jako takie muszą być zgłoszone."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 2.— Zasady przedstawiania zmian do powtarzalnych planów lotu są zawarte w PL-4444."
+    },
+    {
+     "type": "ocr",
+     "text": "3.3.5. Zakończenie planu lotu"
+    },
+    {
+     "type": "ocr",
+     "text": "3.3.5.1. Meldunek o przylocie powinien być złożony osobiście, za pomocą radiotelefonu łub linii przesyłania danych, możliwie niezwłocznie po wyłądowaniu, właściwemu organowi służb ruchu lotniczego na lotnisku przylotu odnośnie do każdego lotu, na który został przedstawiony plan lotu obejmujący cały lot lub pozostałą część lotu do lotniska docelowego."
+    },
+    {
+     "type": "ocr",
+     "text": "3.3.5.2. Gdy plan lotu został przedstawiony tylko dla pewnej części lotu, innej niż pozostała część lotu do miejsca docelowego, należy podać odpowiedni meldunek o zakończeniu tej części lotu zainteresowanemu organowi służb ruchu lotniczego."
+    },
+    {
+     "type": "ocr",
+     "text": "3.3.5.3. Jeżeli na lotnisku przylotu nie ma organu służb ruchu lotniczego, meldunek o przylocie należy złożyć — niezwłocznie po wylądowaniu —- najbliższemu organowi służb ruchu lotniczego za pomocą najszybszego środka przekazu informacji."
+    },
+    {
+     "type": "ocr",
+     "text": "3.3.5.4. Jeżeli wiadomo, że urządzenia łączności na lotnisku przylotu są niewystarczające i jeżeli nie ma innego sposobu przesłania z ziemi meldunków o przylocie, należy podjąć następujące działanie. Tuż przed lądowaniem dowódca statku powietrznego powinien, jeżeli jest to praktycznie możliwe, nadać do właściwego organu służb ruchu lotniczego depeszę odpowiadającą meldunkowi o przylocie."
+    },
+    {
+     "type": "ocr",
+     "text": "3.3.5.5. Meldunki o przylocie nadane przez dowódcę statku powietrznego powinny zawierać następujące elementy informacji:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) znak rozpoznawczy statku powietrznego;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) lotnisko odłotu;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) lotnisko docelowe (tylko w przypadku zmiany miejsca lądowania);"
+    },
+    {
+     "type": "ocr",
+     "text": "d) lotnisko przylotu;"
+    },
+    {
+     "type": "ocr",
+     "text": "e) czas przylotu."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Gdy meldunek o przylocie jest wymagany, niezastosowanie się do tego wymagania może spowodować poważne zakłócenia w działaniu służb ruchu lotniczego i znaczne wydatki związane z koniecznością dokonania niepotrzebnych akcji poszukiwania i ratownictwa."
+    },
+    {
+     "type": "ocr",
+     "text": "3.4. Sygnały"
+    },
+    {
+     "type": "ocr",
+     "text": "3.4.1. _ Dowódca statku powietrznego po zauważeniu lub odebraniu jakiegokolwiek sygnału podanego w dodatku 1 powinien podjąć takie działania, jakie mogą być konieczne w związku ze znaczeniem danego sygnału."
+    },
+    {
+     "type": "ocr",
+     "text": "3.4.2. Sygnałów zawartych w dodatku 1 należy używać wyłącznie do celów określonych ściśle według znaczenia podanego w tym dodatku. Nie należy używać żadnych innych sygnałów, które mogłyby być z nimi mylone."
+    },
+    {
+     "type": "ocr",
+     "text": "3.5. Czas"
+    },
+    {
+     "type": "ocr",
+     "text": "3.5.1. Należy stosować Uniwersalny Czas Skoordynowany (UTC) wyrażany w godzinach, minutach i w miarę potrzeby w sekundach 24-godzinnej doby, rozpoczynającej się od północy."
+    },
+    {
+     "type": "ocr",
+     "text": "3.5.2. Weryfikacja czasu na pokładzie statku powietrznego powinna być dokonana przed rozpoczęciem każdego lotu kontrołowanego."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— W razie potrzeby informację o dokładnym czasie można uzyskać od organu służb ruchu lotniczego."
+    },
+    {
+     "type": "ocr",
+     "text": "3.5.3. Gdy czas jest wykorzystywany przy zastosowaniu linii przesyłania danych, to powinien być podawany z dokładnością do jednej sekundy UTC."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6. Służba kontroli ruchu lotniczego"
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.1. _ Zezwolenia kontroli ruchu lotniczego"
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.1.1. Przed rozpoczęciem lotu kontrolowanego lub części lotu jako lotu kontrolowanego należy uzyskać zezwolenie kontroli ruchu lotniczego. O takie zezwolenie należy zwrócić się do organu kontroli ruchu lotniczego, przedstawiając plan lotu."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 1.— Plan lotu może obejmować tylko część lotu, zależnie od potrzeby, opisując tę cześć lotu lub te manewry, które podlegają kontroli ruchu lotniczego. Zezwolenie może obejmować tylko część bieżącego planu lotu, jaka została określona przez granice ważności zezwolenia lub przez określenie manewrów takich, jak kołowanie, lądowanie lub start."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 2.— Jeżeli zezwolenie kontroli ruchu lotniczego nie zadowoli dowódcy statku powietrznego, może"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "on prosić o zmianę i w miarę możliwości zostanie mu udzielone zmienione zezwolenie."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.1.2. Gdy statek powietrzny poprosił o zezwolenie wymagające pierwszeństwa, to na żądanie właściwego organu kontroli ruchu łotniczego powinien przedstawić uzasadnienie tej prośby."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.1.3. Możliwa zmiana zezwolenia podczas lotu. Jezeli przed odlotem przewiduje się, że w zależności od zapasu paliwa i otrzymania zmiany zezwolenia podczas lotu może być podjęta decyzja na lot do innego lotniska docelowego, to należy o tym zawiadomić właściwe organy kontroli ruchu lotniczego, umieszczając w planie lotu informację dotyczącą zmiany trasy (jeżeli jest zna-"
+    },
+    {
+     "type": "ocr",
+     "text": "na) i zmiany lotniska docelowego."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Intencją tego ustalenia jest ułatwienie zmiany zezwolenia na lot do lotniska docelowego, innego niż wskazane normalnie w planie lotu."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.1.4. Statek powietrzny na lotnisku kontrolowanym nie powinien kołować na polu manewrowym bez zezwolenia organu kontroli lotniska i powinien stosować się do wszełkich poleceń wydanych przez ten organ."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.2. _ Stosowanie się do planu lotu"
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.2.1. Z wyjątkiem przypadków omówionych w ust. 3.6.2.2. i 3.6.2.4., dowódca statku powietrznego musi stosować się do bieżącego planu lotu lub do odpowiedniej części planu lotu przedstawionego dla lotu kontrolowanego, chyba że poprosił o zmianę i właściwy organ kontroli ruchu lotniczego zezwolił na nią lub też zaistnieje sytuacja nagląca, wymagająca natychmiastowego podjęcia przez dowódcę statku powietrznego odpowiedniego działania. W tym ostatnim przypadku, gdy tylko będzie to możliwe, po zakończeniu akcji w sytuacji naglącej, należy zawiadomić właściwy organ służb ruchu lotniczego o podjętym działaniu i o tym, że podjęcie tego działania nastąpiło w sytuacji nagłącej."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.2.1.1. Jeżeli dowódca statku powietrznego wykonując lot kontrolowany, nie otrzymał innego połecenia lub wskazówek od właściwego organu kontroli ruchu lotniczego, to powinien w miarę możliwości:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) gdy znajduje się na ustanowionej trasie ATS — wykonywać lot wzdłuż okreśłonej osi tej trasy lub"
+    },
+    {
+     "type": "ocr",
+     "text": "b) gdy znajduje się na jakiejkolwiek innej trasie — wykonywać lot bezpośrednio między urządzeniami nawigacyjnymi i/lub punktami określającymi tę trasę."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.2.1.2. Dowódca statku powietrznego wykonując lot wzdłuż odcinka trasy ATS, określonego za pomocą ogólnokierunkowych radiolatarń bardzo wielkiej częstotliwości, powinien przejść na wykorzystanie jako swej zasadniczej pomocy nawigacyjnej z urządzenia znajdującego się za statkiem powietrznym na urządzenie znajdujące się przed nim — w punkcie zmiany namiaru, jeżeli został taki wyznaczony, albo możliwie jak najbliżej tego punktu."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.2.1.3. O odchyleniach od wymagań podanych w ust. 3.6.2.1.1. należy natychmiast zawiadomić właściwy organ służb ruchu lotniczego."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.2.2. Niezamierzone zmiany. Gdy dowódca statku powietrznego wykonując lot kontrolowany, odstąpi nieumyślnie od bieżącego planu lotu, to powinien:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) W przypadku odchylenia od linii drogi: natychmiast zmienić kurs, aby możliwie jak najprędzej wejść ponownie na tę linię drogi;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) W przypadku odchylenia od rzeczywistej prędko- Ści powietrznej: jeżeli przeciętna rzeczywista prędkość powietrzna na poziomie przelotu między punktami meldowania różni się lub przewiduje się, że będzie różnić się w granicach plus lub minus 5% od rzeczywistej prędkości powietrznej podanej w planie lotu — zawiadomić o tym właściwy organ służb ruchu lotniczego;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) W przypadku zmiany przewidywanego czasu: jeżeli przewiduje się, że czas przelotu nad następnym obowiązkowym punktem meidowania lub nad granicą rejonu informacji powietrznej albo nad lotniskiem docelowym, w zależności od tego, który z powyższych punktów będzie pierwszy, różni się więcej niż trzy minuty od czasu, który został podany służbom ruchu lotniczego lub różni się o odstęp czasu ustalony przez państwowy organ zarządzania ruchem lotniczym — podać niezwłocznie zainteresowanemu organowi służb ruchu lotniczego poprawiony przewidywany czas."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.2.2.1. Ponadto, gdy ma miejsce porozumienie ADS, organ służb ruchu łotniczego powinien być każdorazowo zawiadamiany automatycznie za pomocą linii przesyłania danych, gdy tylko zmiany wychodzą poza granice zawarte w kontrakcie na przesyłanie nieregularnych meldunków ADS."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.2.3. Zamierzone zmiany. Prośby o zmiany w planie lotu powinny zawierać informacje podane niżej:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) Zmiana poziomu przelotu: znak rozpoznawczy stątku powietrznego, żądany nowy poziom przelotu i, jeśli ma to zastosowanie, prędkość przelotowa na tym poziomie, poprawiony przewidywa-"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 19 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "ny czas nad granicami następnych rejonów informacji powietrznej;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) Zmiana trasy:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) miejsce docelowe niezmienione: znak rozpoznawczy statku powietrznego, przepisy wykonywania lotu, opis nowej trasy lotu wraz z odpowiednimi danymi planu lotu, zaczynając od podania pozycji, znad której zmiana trasy ma nastąpić, poprawiony przewidywany czas i inne odpowiednie informacje;"
+    },
+    {
+     "type": "ocr",
+     "text": "2) miejsce docelowe zmienione: znak rozpoznawczy statku powietrznego, przepisy wykonywania lotu, opis zmienionej trasy lotu do zmienionego lotniska docelowego wraz z odpowiednimi danymi planu lotu, zaczynając od pozycji, od której zmiana trasy ma nastąpić, poprawiony przewidywany czas, lotnisko(a) zapasowe i inne odpowiednie informacje."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.2.4. Pogorszenie się warunków meteorologicznych poniżej VMC. Gdy okaże się, że wykonanie lotu w VMC zgodnie z bieżącym planem łotu nie będzie możliwe, to gdy lot VFR wykonywany jest jako lot kontrolowany, należy:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) poprosić o zmianę zezwolenia umożliwiającą statkowi powietrznemu kontynuowanie lotu w VMC do lotniska docelowego lub zapasowego albo opuszczenie przestrzeni powietrznej, w które} wymagane jest zezwolenie ATC; lub"
+    },
+    {
+     "type": "ocr",
+     "text": "b) jeżeli nie można uzyskać zezwolenia zgodnie z lit. a) — utrzymać się w VMC i zawiadomić właściwy organ ATC o podejmowanych działaniach bądź to w celu opuszczenia danej przestrzeni powietrznej lub lądowania na najbliższym dogodnym lotnisku; lub"
+    },
+    {
+     "type": "ocr",
+     "text": "c) gdy lot odbywa się w strefie kontrolowanej lotniska, prosić o zezwolenie na wykonanie lotu, jako lotu specjalnego VFR; lub"
+    },
+    {
+     "type": "ocr",
+     "text": "d) prosić o zezwolenie na wykonanie lotu zgodnie z przepisami wykonywania lotów według wskazań przyrządów."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.3. _ Meldunki pozycyjne"
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.3.1. Dowódca statku powietrznego wykonując lot kontrolowany, powinien podać właściwemu organowi służb ruchu lotniczego, możliwie jak najwcześniej, czas i"
+    },
+    {
+     "type": "ocr",
+     "text": "poziom minięcia każdego kolejnego wyznaczonego obowiązkowego punktu meldowania wraz z innymi wymaganymi informacjami, chyba że został zwolniony przez ten organ z tego obowiązku. Podobnie meidunki pozycyjne należy podawać w odniesieniu do dodatkowych punktów, jeżeli wymaga tego właściwy organ służb ruchu lotniczego."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.3.1.1. Statki powietrzne wykonujące loty kontrolowane i przekazujące informacje o pozycji do właściwego organu służb ruchu lotniczego za pomocą linii przesyłania danych powinny składać foniczne meldunki pozycyjne — tylko na żądanie."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— W PL-4444 podane są warunki i okoliczności, w których przekazywanie barometrycznej wysoko- Sci bezwzględnej za pomocą modu C radaru wtórnego spełnia wymagania odnośnie do informacji o poziomie lotu w meldunkach pozycyjnych."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.4. Zakończenie kontroli"
+    },
+    {
+     "type": "ocr",
+     "text": "Dowódca statku powietrznego wykonującego lot kontrolowany w przypadku ustania konieczności zapewniania mu służby kontroli ruchu lotniczego powinien niezwłocznie zawiadomić o tym właściwy organ ATC, z wyjątkiem gdy statek powietrzny ląduje na łotnisku kontrolowanym."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.5. Łączność"
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.5.1. Statek powietrzny wykonujący lot kontrolowany ma obowiązek utrzymywać ciągły nasłuch na właściwym kanale łączności fonicznej powietrze-ziemia oraz powinien utrzymywać łączność dwukierunkową z właściwym organem kontroli ruchu lotniczego tak, jak to jest wymagane."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 1.— Dla spełnienia wymagania ciągłego nasłuchu na kanale łączności fonicznej powietrze-ziemia mogą być wykorzystane: system SELCAL lub analogiczne automatyczne urządzenia."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 2.— Wymaganie utrzymywania przez statek powietrzny nasłuchu na częstotliwości łączności fonicznej powietrze-ziemia pozostaje w mocy również po ustanowieniu łączności po linii przesyłania danych (CPDLC)."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.5.2. Utrata łączności. Jeżeli utrata łączności uniemożliwia stosowanie się do ust. 3.6.5.1., dowódca statku powietrznego ma obowiązek stosować się do zasad łączności ustalonych dla takich przypadków podanych w odrębnych przepisach dotyczących telekomunikacji lotniczej oraz do poniższych ustaleń, które są do"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 20 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "zastosowania w takich okolicznościach. Ponadto dowódca statku powietrznego biorący udział w ruchu lotniskowym na lotnisku kontrolowanym ma obowiązek zwracać uwagę na informacje i polecenia, jakie mogą być wydawane za pomocą sygnałów wzrokowych."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.5.2.1. Jeżeli lot po utracie łączności odbywa się w warunkach meteorologicznych dla lotów z widocznością, dowódca statku powietrznego powinien:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) ustawić transponder na kod 7600;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) kontynuować lot w warunkach meteorologicznych dla lotów z widocznością;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) lądować na najbliższym dogodnym lotnisku"
+    },
+    {
+     "type": "ocr",
+     "text": "oraz"
+    },
+    {
+     "type": "ocr",
+     "text": "d) zawiadomić o swoim przylocie właściwy organ kontroli ruchu lotniczego za pomocą środków umożliwiających niezwłoczne przekazanie informacji."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6.5.2.2. Jeżeli lot po utracie łączności odbywa się w warunkach meteorologicznych dla lotów według wskazań przyrządów lub gdy warunki są takie, że nie wydaje się prawdopodobne, aby lot mógł być zakończony zgodnie z ust. 3.6.5.2.1. (patrz Uwaga 1 poniżej), dowódca statku powietrznego powinien się stosować do procedur ustalonych w dokumencie PL-7030."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 1.— Jak wskazują na to warunki meteorologiczne, ustalenia podane w ust. 3.6.5.2.1. dotyczą wszystkich lotów kontrolowanych, natomiast ustalenia ust. 3.6.5.2.2. dotyczą tylko lotów IFR."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 2.— Zapewnienie służby kontroli ruchu lotniczego innym lotom w danej przestrzeni powietrznej będzie oparte na założeniu, że statek powietrzny, który utracił łączność, będzie się stosował do przepisów zawartych w ust. 3.6.5.2.2."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 3.— Patrz także ust. 5.1.2."
+    },
+    {
+     "type": "ocr",
+     "text": "3.7. Bezprawna ingerencja"
+    },
+    {
+     "type": "ocr",
+     "text": "Statek powietrzny, który jest obiektem bezprawnej ingerencji, powinien się starać zawiadomić właściwy organ ATS o tym fakcie, o wszystkich istotnych okolicznościach z tym związanych i o każdych odchyleniach od bieżącego planu łotu, spowodowanych tymi okolicznościami, w cełu umożliwienia organowi ATS udzielenia pierwszeństwa działań w stosunku do statku powietrznego i zminimalizowania konfliktu z innymi statkami powietrznymi."
+    },
+    {
+     "type": "ocr",
+     "text": "3.7.1. Gdy nie jest możliwe zawiadomienie organu ATS o fakcie bezprawnej ingerencji z powodu występującej na statku powietrznym sytuacji, dowódca statku powietrznego powinien się starać kontynuować lot po nakazanej linii drogi i na przydzielonym poziomie przelotu co najmniej do czasu, aż zaistnieje możliwość zawiadomienia organu ATS lub dopóki statek powietrzny nie znajdzie się w zasięgu pokrycia radaru."
+    },
+    {
+     "type": "ocr",
+     "text": "3.7.2. Gdy statek powietrzny jest poddany bezprawnej ingerencji i musi się odchylić od nakazanej linii drogi lub wyznaczonego poziomu przelotu, nie posiadając możliwości nawiązania łączności radiotelefonicznej z ATS, dowódca statku powietrznego powinien, gdy to możliwe:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) starać się przekazać ostrzeżenia na częstotliwości zagrożenia VHF i na innych odpowiednich częstotliwościach, z wyjątkiem przypadków gdy to jest niemożliwe z powodu występującej na pokładzie statku powietrznego sytuacji. Należy także wykorzystać inne wyposażenie, takie jak pokładowe transpondery, linie przesyłania danych itp., kiedy jest to korzystne i okoliczności na to pozwalają; i"
+    },
+    {
+     "type": "ocr",
+     "text": "b) postępować zgodnie z odpowiednimi procedurami, jeżeli są one ustalone i opublikowane w dokumencie Doc 7030 EUR;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) kontynuować lot na poziomie, który różni się od poziomów przelotu zwykle wykorzystywanych podczas lotów IFR o:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) 150 m (500 ft) w obszarze, w którym stosuje się minima separacji pionowej wynoszące 300 m (1000 ft); lub"
+    },
+    {
+     "type": "ocr",
+     "text": "2) 300 m (1000 ft) w obszarze, w którym stosuje się minima separacji pionowej wynoszące 600 m (2000 ft)."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 1.— Odpowiedzialność organów ATS w sytuacjach bezprawnej ingerencji jest określona w rozporządzeniu Ministra Infrastruktury z dnia 1! marca 2004r. w sprawie zasad działania służb ruchu lotniczego (Dz. U. Nr 44, poz. 415)."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 2.— Zasady postępowania, jakie powinny być podjęte przez statki powietrzne wyposażone w SSR, gdy są poddane bezprawnej ingerencji, są zawarte w rozporządzeniu Ministra Infrastruktury z dnia 11 marca 2004 r. w sprawie zasad działania służb ruchu lotniczego (Dz.U. Nr 44, poz. 415). PL-4444 i PL-8168."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 3.— Postępowanie, jakie powinny podjąć statki powietrzne wyposażone CPDLC, gdy są poddane bezprawnej ingerencji, jest określone w w rozporządzeniu Ministra Infrastruktury z dnia 11 marca 2004r. w sprawie zasad działania służb ruchu lotniczego i PL-4444, a material przewodni dotyczący tego zagad-"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 21 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "nienia zawiera Podręcznik Służb Ruchu Lotniczego Dotyczący Zastosowania Linii Przesyłania Danych (ICAO — Doc 9694)."
+    },
+    {
+     "type": "ocr",
+     "text": "3.8. _ Przechwytywanie statków powietrznych"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 1.— Pod pojęciem „przechwytywanie statku powietrznego” użytym w niniejszych przepisach rozumie się interweniowanie upoważnionego wojskowego statku powietrznego polegające na wykonywaniu ustalonych manewrów i podawaniu ustalonych sygnałów (wzrokowych, radiowych), mających na celu zidentyfikowanie statku powietrznego i naprowadzenie go na właściwy tor lotu lub nakazanie lądowania na określonym lotnisku."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 2.— Wyrażenie „przechwytywanie statku powietrznego \" użyte w niniejszych przepisach nie obejmuje spotkania i eskortowania statku powietrznego znajdującego się w niebezpieczeństwie — na żądanie dowódcy tego statku lub organu służb ruchu lotniczego. Zaleca się jednak użycie w takim przypadku niektórych odpowiednich sygnałów stosowanych przy przechwytywaniu statku powietrznego, jeżeli dowódca statku eskortującego lub będącego w niebezpieczeństwie — uzna takie postępowanie za wskazane."
+    },
+    {
+     "type": "ocr",
+     "text": "3.8.1. _ Cywilny statek powietrzny, który nie wykonuje poleceń organów służb ruchu lotniczego i istnieje uzasadnione podejrzenie, że statek ten może stanowić zagrożenie dla bezpieczeństwa Państwa lub bezpieczeństwa publicznego, może zostać przechwycony przez upoważniony wojskowy statek powietrzny."
+    },
+    {
+     "type": "ocr",
+     "text": "3.8.2. Dla zapewnienia bezpieczeństwa lotów cywilnych statków powietrznych powinny być przestrzegane następujące postanowienia:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) przechwytywanie cywilnego statku powietrznego powinno być podejmowane jako ostateczność;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) jeżeli zostało podjęte przechwytywanie, to powinno się ograniczyć do ustalenia tożsamości"
+    },
+    {
+     "type": "ocr",
+     "text": "statku powietrznego, chyba że okaże się konieczne skierowanie statku powietrznego na jego zaplanowana trasę, odprowadzenie go od strefy zakazanej, ograniczonej lub niebezpiecznej albo nakazanie mu wykonania lądowania na wyznaczonym lotnisku;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) ćwiczebne przechwytywania cywilnych statków powietrznych nie mogą być dokonywane;"
+    },
+    {
+     "type": "ocr",
+     "text": "d) prowadzenie nawigacyjne i związane z tym informacje powinny być udzielane przechwytywanemu statkowi powietrznemu drogą radiotelefoniczną, gdy tylko łączność z nim zostanie nawiązana; i"
+    },
+    {
+     "type": "ocr",
+     "text": "e) gdy od przechwytywanego cywilnego statku powietrznego będzie wymagane wykonanie lądowania, wyznaczone mu lotnisko do lądowania powinno być przydatne do bezpiecznego wylądowania danego typu statku powietrznego."
+    },
+    {
+     "type": "ocr",
+     "text": "3.8.3. Dowódca cywilnego statku powietrznego, który jest przechwytywany, powinien przestrzegać norm zawartych w dodatku 2, interpretując i odpowiadając na sygnały wzrokowe, jak podano w dodatku 1, dział 2."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Patrz także ust. 2.1.1. i 3.4,"
+    },
+    {
+     "type": "ocr",
+     "text": "3.8.4. Dowódca przechwytującego statku powietrznego powinien przestrzegać norm zawartych w dodatku 2 i używać sygnałów wzrokowych, jak podano w dodatku 1, dział 2."
+    },
+    {
+     "type": "ocr",
+     "text": "3.9. Minima widzialności i odległości od chmur dla lotów z widocznością"
+    },
+    {
+     "type": "ocr",
+     "text": "Minima widzialności i odległości od chmur dla lotów z widocznością podane są w tabeli 3-1."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Tabela 3-1. Minima widzialności i odległości od chmur dla lotów z widocznością (patrz ust. 4.1.)"
+    },
+    {
+     "type": "ocr",
+     "text": "Klasa przestrzeni A***BCDE powietrznej Powyżej 900 m (3000 ft) AMSL | Nai poniżej 900 m (3000 ft) lub powyżej 300 m (1000 ft) nad | AMSL lub 300 m (1000 ft) nad terenem — w zależności co jest terenem — w zależności co jest ż ższe Odległość od chmur Pozioma — 1500 m Z dala od chmur i z widocznością Pionowa — 300 m (1000 ft) powierzchni ziemi Widzialność w locie | 8 km nai powyżej 3050 m (10 000 ft) AMSL* 5 km** 5 km poniżej 3050 m (10 000 ft) AMSL*"
+    },
+    {
+     "type": "ocr",
+     "text": "Gdy względna wysokość przejściowa jest mniejsza niż 3050 m (10 000 ft) AMSL, to zamiast tych wartości należy używać FL 100."
+    },
+    {
+     "type": "ocr",
+     "text": "Można wykonywać loty:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) przy zmniejszeniu widzialności w locie do 1500 m:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) z prędkościami, przy których będzie wystarczająco zapewniona możliwość zauważenia we właściwym czasie innego ruchu lub jakichkolwiek przeszkód, aby uniknąć kolizji, lub"
+    },
+    {
+     "type": "ocr",
+     "text": "2) w warunkach, w których prawdopodobieństwo spotkania innego ruchu w zasadzie będzie małe, np. w obszarach o małej intensywności ruchu oraz w czasie wykonywania prac agrolotniczych na małych wysokościach,"
+    },
+    {
+     "type": "ocr",
+     "text": "b) na ŚMIGŁOWCACH przy widzialności w locie mniejszej niż 1500 m, jeżeli wykonują manewry z prędkością, przy której będzie wystarczająco zapewniona możliwość zauważenia we właściwym czasie innego ruchu lub jakichkolwiek przeszkód, aby uniknąć kolizji."
+    },
+    {
+     "type": "ocr",
+     "text": "*** Minima VMC w przestrzeni powietrznej klasy A są wskazówką dla pilotów, lecz nie oznacza to, że loty VFR w przestrzeni klasy A są dozwolone."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga. -— Patrz ust. 4.3. dotyczący lotów VFR wykonywanych między zachodem a wschodem słońca."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "ROZDZIAŁ 4."
+    },
+    {
+     "type": "ocr",
+     "text": "4.1. Z wyjątkiem lotów specjalnych VFR, loty VFR powinny być wykonywane tak, aby statek powietrzny leciał przy widzialności i w odległości od chmur równych lub większych niż określone w tabeli 3-1."
+    },
+    {
+     "type": "ocr",
+     "text": "4.2. Z wyjątkiem gdy organ kontroli ruchu lotniczego udzieli na to zezwolenie, w lotach VFR nie należy startować ani lądować na lotniskach znajdujących się w strefie kontrolowanej lotniska albo wchodzić do strefy ruchu lotniskowego lub włączać się do ruchu lotnisko-"
+    },
+    {
+     "type": "ocr",
+     "text": "wego:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) gdy pułap chmur jest niższy niż 450 m (1500 ft); lub"
+    },
+    {
+     "type": "ocr",
+     "text": "b) gdy widzialnosé przy ziemi jest mniejsza niz 5 km."
+    },
+    {
+     "type": "ocr",
+     "text": "4.3. Loty VFR mogą być wykonywane między zachodem a wschodem słońca z zachowaniem poniższych przepisów:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) z dala od chmur i z widocznością terenu lub świateł w terenie;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) przy rzeczywistych prędkościach powietrznych nie większych niż 300 km/h;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) nie wyżej niż 3050 m (10 000 ft) AMSL, gdy bezwzględna wysokość przejściowa jest mniejsza niż ta wartość, to zamiast tych wartości przyjmuje się FL 100;"
+    },
+    {
+     "type": "ocr",
+     "text": "d) z wyjątkiem startów i lądowań nie niżej niż:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) 300 m nad przeszkodami — na samolotach;"
+    },
+    {
+     "type": "ocr",
+     "text": "2) 200 m nad przeszkodami — na śmigłowcach;"
+    },
+    {
+     "type": "ocr",
+     "text": "e) w warunkach meteorologicznych ujętych w tabeli 3-1, lecz bez zmniejszenia minimum widzialności ujętych w tej tabeli pod lit. a) i b)."
+    },
+    {
+     "type": "ocr",
+     "text": "4.4. Z wyjątkiem przypadków określonych przez państwowy organ zarządzania ruchem łotniczym, łoty VFR nie mogą być wykonywane:"
+    },
+    {
+     "type": "ocr",
+     "text": "PRZEPISY WYKONYWANIA LOTÓW Z WIDOCZNOŚCIĄ"
+    },
+    {
+     "type": "ocr",
+     "text": "a) powyżej FL 200;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) z prędkościami zbliżonymi do prędkości dzwieku lub naddźwiękowymi."
+    },
+    {
+     "type": "ocr",
+     "text": "4.5. Nie można udzielić zezwolenia na lot VFR powyżej FL 290 w przestrzeni powietrznej, w której stosuje się minima separacji pionowej 300 m (1000 ft) (przestrzeń powietrzna o zredukowanych minimach separacji pionowej (RVSM))."
+    },
+    {
+     "type": "ocr",
+     "text": "4.6. Z wyjątkiem przypadków gdy jest to konieczne dla startu lub lądowania, lot VFR nie powinien być wykonywany:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) nad gęstą zabudową miast lub osiedli lub nad zgromadzeniem osób na otwartym powietrzu na wysokości względnej mniejszej niż 300 m (1000 ft) nad najwyższą przeszkodą znajdującą się w promieniu 600 m od statku powietrznego;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) gdzie indziej, niż to określono w ust. 4.6. lit. a), na wysokości względnej mniejszej niż 150 m (500 ft) nad lądem lub wodą, nie dotyczy statków powietrznych lotnictwa państwowego,"
+    },
+    {
+     "type": "ocr",
+     "text": "chyba ze rozporządzenie Ministra Infrastruktury z dnia 9 października 2003 r. w sprawie zakazów lub ograniczeń lotów na czas dłuższy niż 3 miesiące (Dz. U. Nr 183, poz. 1793) lub rozporządzenie Ministra Infrastruktury z dnia 9 października 2003 r. w sprawie ograniczeń lotów na czas nie dłuższy niż 3 miesiące (Dz. U. Nr 183, poz. 1794) stanowi inaczej lub statek powietrzny otrzymał specjalne zezwolenie władzy lotniczej."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Patrz również ust. 3.1.2."
+    },
+    {
+     "type": "ocr",
+     "text": "4.7. Jeżeli nie podano inaczej w zezwoleniach kontroli ruchu lotniczego, loty VFR w przelotach poziomych wykonywanych powyżej 900 m (3000 ft) nad ziemią lub wodą powinny być wykonywane na poziomie przelotu odpowiednim dla danego kąta drogi, zgodnie z tabelą poziomów przelotu zawartą w dodatku 3."
+    },
+    {
+     "type": "ocr",
+     "text": "4.8. Loty kontrolowane VFR powinny być wykonywane zgodnie z przepisami ust. 3.6.:"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 24 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "a) gdy są wykonywane w przestrzeniach powietrznych klasy B, C i D;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) gdy stanowią część ruchu lotniskowego na lotniskach kontrolowanych; lub"
+    },
+    {
+     "type": "ocr",
+     "text": "c) gdy są wykonywane jako loty specjalne VFR."
+    },
+    {
+     "type": "ocr",
+     "text": "4.9. Jeżeli wykonuje się lot VFR na podstawie planu lotu złożonego zgodnie z ust. 3.3.1.2., to należy utrzymywać ciągły nasłuch na właściwym kanale łączności fonicznej powietrze-ziemia i, gdy zachodzi taka potrzeba, zgłaszać swoją pozycję organowi służb ruchu lotniczego zapewniającemu służbę informacji powietrz-"
+    },
+    {
+     "type": "ocr",
+     "text": "nej."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Patrz uwagi po ust. 3.6.5.1."
+    },
+    {
+     "type": "ocr",
+     "text": "4.10. Statek powietrzny zamierzający przejść z lotu VFR do lotu IFR powinien:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) jeżeli plan lotu został przedstawiony, podać koniecznie zmiany, jakie mają być wprowadzone do jego bieżącego planu lotu; lub"
+    },
+    {
+     "type": "ocr",
+     "text": "b) jeżeli wymaga tego przepis ust. 3.3.1.2., przedstawić plan lotu właściwemu organowi służb ruchu lotniczego i uzyskać zezwolenie przed rozpoczęciem lotu IFR w przestrzeni powietrznej kontrolowanej."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "ROZDZIAŁ 5."
+    },
+    {
+     "type": "ocr",
+     "text": "PRZEPISY WYKONYWANIA LOTÓW WEDŁUG WSKAZAŃ PRZYRZĄDÓW"
+    },
+    {
+     "type": "ocr",
+     "text": "5.1. _ Przepisy dotyczące wszystkich lotów IFR"
+    },
+    {
+     "type": "ocr",
+     "text": "5.1.1. _ Wyposażenie statku powietrznego"
+    },
+    {
+     "type": "ocr",
+     "text": "Do wykonania lotu IFR statek powietrzny powinien być wyposażony w odpowiednie przyrządy oraz urządzenia nawigacyjne i radiokomunikacyjne, które pozwolą wykonać zaplanowany lot."
+    },
+    {
+     "type": "ocr",
+     "text": "5.1.2. — Minimalne poziomy"
+    },
+    {
+     "type": "ocr",
+     "text": "Z wyjątkiem przypadków gdy jest to konieczne dla startu lub lądowania albo gdy zostało udzielone specjalne zezwolenie przez właściwy organ służb ruchu lotniczego, lot IFR należy wykonywać na poziomie odpowiadającym co najmniej ustalonej i opublikowanej minimalnej bezwzględnej wysokości lotu, a gdy nie jest ona ustalona, lot ten należy wykonywać:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) nad terenem wyżynnym lub nad górami — co najmniej 600 m nad najwyższą przeszkodą w promieniu 8 km od przypuszczalnej pozycji statku powietrznego;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) nad terenem innym niż wymieniony pod lit. a) — co najmniej 300 m nad najwyższą przeszkodą w promieniu 8 km od przypuszczalnej pozycji statku powietrznego."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 1.— Przy określaniu przypuszczalnej pozycji statku powietrznego należy uwzględnić dokładność nawigacji, jaką można osiągnąć na danym odcinku trasy, mając na uwadze dostępne urządzenia nawigacyjne na ziemi i na pokładzie statku powietrznego."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 2.— Patrz również ust. 3.1.2."
+    },
+    {
+     "type": "ocr",
+     "text": "5.1.3. Przejście z lotu IFR do lotu VFR"
+    },
+    {
+     "type": "ocr",
+     "text": "5.1.3.1. Statek powietrzny, zamierzający przejść z lotu IFR do lotu VFR, powinien zawiadomić właściwy organ służb ruchu lotniczego, że anuluje lot IFR, oraz"
+    },
+    {
+     "type": "ocr",
+     "text": "podać zmiany, jakie należy wprowadzić do jego bieżącego planu lotu."
+    },
+    {
+     "type": "ocr",
+     "text": "5.1.3.2. Gdy statek powietrzny wykonuje lot IFR w warunkach meteorologicznych dla lotu z widocznością lub napotka takie warunki, to nie powinien anulować swego planu lotu IFR, jeżeli nie przewiduje i nie zamierza kontynuować lotu przez dłuższy okres w stabilnych warunkach meteorologicznych dla lotu z widocznością."
+    },
+    {
+     "type": "ocr",
+     "text": "5.2. Przepisy dotyczące wykonywania lotów IFR w przestrzeni powietrznej kontrolowanej"
+    },
+    {
+     "type": "ocr",
+     "text": "5.2.1. _ Loty IFR w przestrzeni powietrznej kontrolowanej powinny być wykonywane zgodnie z ustaleniami ust. 3.6."
+    },
+    {
+     "type": "ocr",
+     "text": "5.2.2. Lot IFR w przestrzeni powietrznej kontrolowanej powinien się odbywać na poziomie przelotu wybranym z tabeli poziomów przelotu podanej w dodatku 3, chyba że za zezwoleniem organu kontroli ruchu lotniczego wykonuje się wznoszenie lub zniżanie. Uzależnienie poziomów od kąta drogi zawartych w tej tabeli nie obowiązuje, jeżeli podano inaczej:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) w zezwoleniach kontroli ruchu lotniczego; lub"
+    },
+    {
+     "type": "ocr",
+     "text": "b) w Zbiorze Informacji Lotniczych - Polska."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Niezbędne informacje dotyczące warunków korzystania z dróg lotniczych są publikowane w Zbiorze Informacji Lotniczych - Polska."
+    },
+    {
+     "type": "ocr",
+     "text": "5.3. Przepisy dotyczące wykonywania lotów IER poza przestrzenią powietrzną kontrolowaną"
+    },
+    {
+     "type": "ocr",
+     "text": "5.3.1. _ Poziomy przelotów"
+    },
+    {
+     "type": "ocr",
+     "text": "Lot IFR wykonywany jako przelot poza przestrzenią powietrzną kontrolowaną powinien się odbywać na poziomie przelotu odpowiednim dla jego kąta drogi, jak"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 26 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "podano w tabeli poziomów przelotu w dodatku 3, chyba 5.3.3. — Meldunki pozycyjne że wykonuje się wznoszenie lub zniżanie. Dowódca statku powietrznego zamierzający wykonać lot IFR poza przestrzenią powietrzną kontrolowaną powinien:"
+    },
+    {
+     "type": "ocr",
+     "text": "5.3.2. Łączność -— złożyć plan lotu, W locie IFR wykonywanym poza przestrzenią powietrzną kontrolowaną należy utrzymywać nasłuch na — podczas lotu — utrzymywać nasłuch na odpowłaściwym kanale łączności fonicznej powietrze-ziemia wiednim kanale łączności fonicznej i w razie poi nawiązywać — w razie potrzeby — dwukierunkową trzeby nawiązywać dwukierunkową łączność łączność z właściwym organem służb ruchu lotniczego zorganem zapewniającym służbę informacji zapewniającym służbę informacji powietrznej. powietrznej."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Patrz uwagi po ust. 3.6.5.1. Przekazywanie meldunków pozycyjnych powinno się odbywać tak, jak ustalono dla lotów kontrolowanych w ust. 3.6.3."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 27 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "DODATEK 1."
+    },
+    {
+     "type": "ocr",
+     "text": "SYGNAŁY"
+    },
+    {
+     "type": "ocr",
+     "text": "(Uwaga.— Patrz rozdział 3, ust. 3.4.)"
+    },
+    {
+     "type": "ocr",
+     "text": "1. SYGNAŁY NIEBEZPIECZEŃSTWA I NAGLACE"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 1.— Żaden z przepisów zawartych w niniejszym dziale nie zabrania użycia przez statek powietrzny znajdujący się w niebezpieczeństwie wszelkich środków, będących w jego dyspozycji, w celu zwrócenia na siebie uwagi, podania swej pozycji i uzyskania pomocy."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 2.— Szczegóły odnośnie do procedur łączności dotyczących nadawania sygnałów niebezpieczeństwa i naglących podane są w odrębnych przepisach o telekomunikacji lotniczej."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 3.— Szczegóły dotyczące wzrokowych sygnałów poszukiwania i ratownictwa podane są w odrębnych przepisach o prowadzeniu poszukiwań i ratownictwa statków powietrznych."
+    },
+    {
+     "type": "ocr",
+     "text": "1.1. Sygnały niebezpieczeństwa"
+    },
+    {
+     "type": "ocr",
+     "text": "Niżej podane sygnały użyte razem lub osobno oznaczaja, że zagraża poważne i nieuniknione niebezpieczeństwo i potrzebna jest natychmiastowa pomoc:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) sygnał nadany za pomocą radiotelegrafii lub innym sposobem sygnalizacyjnym, stanowiący grupę SOS(... _.____... w kodzie Morse'a);"
+    },
+    {
+     "type": "ocr",
+     "text": "b) sygnał niebezpieczeństwa nadany za pomocą radiotelefonu składający się z wymawianego słowa MAYDAY;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) depesza o niebezpieczeństwie wysłana za pomocą linii przesyłania danych, przekazująca intencję słowa MAYDAY;"
+    },
+    {
+     "type": "ocr",
+     "text": "d) rakiety lub pociski dające czerwone światło, wystrzeliwane pojedynczo, w krótkich odstępach"
+    },
+    {
+     "type": "ocr",
+     "text": "czasu;"
+    },
+    {
+     "type": "ocr",
+     "text": "e) rakiety oświetlające na spadochronach dające czerwone światło."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Artykuł 41 Regulaminu Radiokomunikacyjnego ITU (poz. 3268, 3270 i 3271) podaje informacje o sygnałach dla uruchomienia automatycznych systemów alarmowych radiotelegraficznych i radiotelefonicznych."
+    },
+    {
+     "type": "ocr",
+     "text": "3268 _ Radiotelegraficzny sygnał alarmowy składa się z dwunastu kresek nadanych w czasie jednej minuty, przy czym czas trwania jednej kreski wynosi cztery sekundy, a przerwy między dwoma kolejnymi kreskami — jedną sekundę. Sygnał może być nadawany ręcznie, lecz zaleca się, aby był nadawany za pomocą urządzenia automatycznego."
+    },
+    {
+     "type": "ocr",
+     "text": "3270 Radiotelefoniczny sygnał alarmowy składa się z dwóch tonów o zasadniczo sinusoidalnych częstotliwościach akustycznych, nadawanych na przemian. Jeden ton powinien mieć częstotliwość 2200 Hz, a drugi — 1300 Hz, przy czym czas trwania każdego tonu wynosi 250 milisekund."
+    },
+    {
+     "type": "ocr",
+     "text": "3271 Radiotelefoniczny sygnał alarmowy, gdy wytwarzany jest w sposób automatyczny, powinien być nadawany w sposób ciągły przez co najmniej trzydzieści sekund, lecz nie dłużej niż jedną minutę; gdy wytwarzany jest innymi sposobami, powinien być nadawany w miarę możności w sposób ciągły w czasie około jednej minuty."
+    },
+    {
+     "type": "ocr",
+     "text": "1.2. Sygnały naglące"
+    },
+    {
+     "type": "ocr",
+     "text": "1.2.1. Sygnały podane niżej, użyte razem lub oddzielnie, oznaczają, że statek powietrzny zawiadamia o trudnościach, które zmuszają go do lądowania, lecz nie powodują potrzeby udzielenia mu natychmiastowej pomocy:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) powtarzane włączanie i wyłączanie reflektorów do lądowania lub"
+    },
+    {
+     "type": "ocr",
+     "text": "b) powtarzane włączanie i wyłączanie świateł nawigacyjnych w taki sposób, aby odróżniały się od normalnych świateł nawigacyjnych błyskowych."
+    },
+    {
+     "type": "ocr",
+     "text": "1.2.2. Niżej podane sygnały, użyte razem lub oddzielnie, oznaczają, że statek powietrzny ma do zakomunikowania bardzo pilną wiadomość dotyczącą bezpieczeństwa statku wodnego, statku powietrznego lub innego pojazdu albo osoby znajdującej się na pokładzie lub w polu widzenia:"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 28 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "a) sygnał nadawany za pomocą radiotelegrafii lub innym sposobem sygnalizacyjnym, składający"
+    },
+    {
+     "type": "ocr",
+     "text": "b)"
+    },
+    {
+     "type": "ocr",
+     "text": "2.1."
+    },
+    {
+     "type": "ocr",
+     "text": "się z grupy XXX;"
+    },
+    {
+     "type": "ocr",
+     "text": "sygnał nadawany za pomocą radiotelefonu, składający się ze słów PAN, PAN;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) depesza nagląca wysłana za pomocą linii przesyłania danych podająca znaczenie słów PAN, PAN."
+    },
+    {
+     "type": "ocr",
+     "text": "2. SYGNAŁY STOSOWANE W PRZYPADKU PRZECHWYTYWANIA"
+    },
+    {
+     "type": "ocr",
+     "text": "Sygnały PRZECHWYTUJĄCEGO statku powietrznego"
+    },
+    {
+     "type": "ocr",
+     "text": "DZIEŃ lub NOC — Przechylanie statku powietrznego i migotanie światłami pozycyjnymi w nieregularnych odstępach czasu (i światłami lądowania w przypadku śmigłowca) z przodu i nieco wyżej i zwykle z lewej strony przechwytywanego statku powietrznego (lub z prawej strony, jeżeli przechwytywanym statkiem powietrznym jest śmigłowiec) i po potwierdzeniu zrozumienia sygnału, wykonanie powolnego poziomego zakrętu zwykle w lewo (lub w prawo w przypadku śmigłowca) na pożądany kurs."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga I.— Warunki meteorologiczne lub terenowe mogą wymagać, aby przechwytujący statek powietrzny zmienił pozycję i kierunek zakrętu podany w punkcie 1."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 2.— Gdy przechwytywany statek powietrzny nie jest w stanie nadążyć za przechwytującym statkiem powietrznym, to ten ostatni powinien wykonać kilka manewrów z dwoma zakretami po 1807 i przechylać statkiem powietrznym za każdym razem, gdy przelatuje obok przechwytywanego statku powietrznego."
+    },
+    {
+     "type": "ocr",
+     "text": "statku powietrznego"
+    },
+    {
+     "type": "ocr",
+     "text": "Znaczenie"
+    },
+    {
+     "type": "ocr",
+     "text": "Jesteś przechwycony. Leć za mną."
+    },
+    {
+     "type": "ocr",
+     "text": "Odpowiedzi PRZECHWYTYWANEGO statku powietrznego"
+    },
+    {
+     "type": "ocr",
+     "text": "DZIEŃ lub NOC — Przechylanie statku powietrznego, migotanie światłami pozycyjnymi w nieregułarnych odstępach czasu i lot za przechwytującym statkiem powietrznym."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Wymagane dodatkowe czynności, które powinien podjąć przechwytywany statek powietrzny, są podane w rozdziale 3, ust. 3.8."
+    },
+    {
+     "type": "ocr",
+     "text": "Sygnały podawane przez przechwytujący statek powietrzny i odpowiedzi na nie przechwytywanego"
+    },
+    {
+     "type": "ocr",
+     "text": "Znaczenie"
+    },
+    {
+     "type": "ocr",
+     "text": "Zrozumiałem, wykonuję."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 29 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Sygnały PRZECHWYTUJĄCEGO statku powietrznego"
+    },
+    {
+     "type": "ocr",
+     "text": "DZIEŃ lub NOC — Energiczny manewr oddalania się od przechwytywanego statku powietrznego przez wykonanie zakrętu o 90° lub więcej z równoczesnym zwiększeniem wysokości bez przecinania linii lotu przechwytywanego statku powietrznego."
+    },
+    {
+     "type": "ocr",
+     "text": "DZIEŃ lub NOC — Wypuszczenie podwozia (jeżeli to możliwe), włączenie świateł lądowania i przelot nad drogą startową w użyciu lub, jeżeli przechwytywanym statkiem powietrznym jest śmigłowiec, przelot nad polem wzlotów śmigłowców. W przypadku śmigłowców przechwytujący śmigłowiec wykonuje podejście do lądowania z przejściem do zawisu w pobliżu pola wzlotów."
+    },
+    {
+     "type": "ocr",
+     "text": "Znaczenie"
+    },
+    {
+     "type": "ocr",
+     "text": "Możesz"
+    },
+    {
+     "type": "ocr",
+     "text": "kontynuować lot."
+    },
+    {
+     "type": "ocr",
+     "text": "Ląduj na tym lotnisku."
+    },
+    {
+     "type": "ocr",
+     "text": "Odpowiedzi PRZECHWYTYWANEGO statku powietrznego"
+    },
+    {
+     "type": "ocr",
+     "text": "DZIEŃ lub NOC — Przechylanie statku powietrznego."
+    },
+    {
+     "type": "ocr",
+     "text": "DZIEŃ lub NOC — Wypuszczenie podwozia (jeżeli to możliwe), włączenie świateł lądowania i lot za przechwytującym statkiem powietrznym i, jeżeli po przelocie drogi startowej, która jest w użyciu, lub pola wzlotów śmigłowców, lądowanie uważa się za bezpieczne, rozpoczęcie lądowania."
+    },
+    {
+     "type": "ocr",
+     "text": "Znaczenie"
+    },
+    {
+     "type": "ocr",
+     "text": "Zrozumiałem, wykonuję."
+    },
+    {
+     "type": "ocr",
+     "text": "Zrozumiałem, wykonuję."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 30 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "2.2. Sygnały podawane przez przechwytywany statek powietrzny i odpowiedzi na nie przechwytującego statku powietrznego"
+    },
+    {
+     "type": "ocr",
+     "text": "Sygnały Znaczenie PRZECHWYTYWANEGO statku powietrznego"
+    },
+    {
+     "type": "ocr",
+     "text": "DZIEŃ łub NOC — Schowanie pod- | Wyznaczone wozia (jeżeli to możliwe) i migotanie | lotnisko nie światłami lądowania przy przelocie jest nad drogą startową w użyciu lub po- odpowiednie. lem wzlotów śmigłowców, na wysokości powyżej 300 m (1000 ft), lecz nie wyżej niż 600 m (2000 ft) [dla śmigłowców na wysokości większej niż 50 m (170 ft), lecz nie wyżej niż 100 m (330 ft)] nad poziomem lotniska i kontynuowanie krążenia nad drogą startową w użyciu lub polem wzlotów śmigłowców. Jeżeli migotanie światłami do lądowania nie jest możliwe, migotać innymi dostępnymi światłami."
+    },
+    {
+     "type": "ocr",
+     "text": "DZIEN lub NOC — Regularne włą- Nie mogę czanie i wyłączanie wszystkich do- wykonać. stępnych świateł, lecz w taki sposób, aby odróżnić od świateł błyskowych."
+    },
+    {
+     "type": "ocr",
+     "text": "DZIEŃ lub NOC — Nieregularne Jestem w"
+    },
+    {
+     "type": "ocr",
+     "text": "światłami. wie."
+    },
+    {
+     "type": "ocr",
+     "text": "Odpowiedzi Znaczenie PRZECHWYTUJĄCEGO statku powietrznego"
+    },
+    {
+     "type": "ocr",
+     "text": "DZIEŃ lub NOC — Jeżeli jest Zrozumiałem, wymagane, aby przechwytywany leć za mną. statek powietrzny leciał za przechwytującym statkiem powietrznym do lotniska zapasowego, to przechwytujący statek powietrzny chowa swoje podwozie (jeżeli to możliwe) i stosuje sygnały punktu I przeznaczone dla przechwytywane go statku powietrznego."
+    },
+    {
+     "type": "ocr",
+     "text": "Jeżeli zdecydowano zwolnić prze- | Zrozumiałem, chwytywany statek powietrzny, to | możesz przechwytujący statek powietrzny | kontynuować stosuje sygnały punktu 2 przezna- | swój lot. czone dla przechwytującego statku powietrznego."
+    },
+    {
+     "type": "ocr",
+     "text": "DZIEŃ lub NOC — użycie sygna- | Zrozumiałem. łów wymienionych w punkcie 2 przeznaczonych dla przechwytującego statku powietrznego."
+    },
+    {
+     "type": "ocr",
+     "text": "DZIEŃ lub NOC — użycie sygna- | Zrozumiałem. migotanie wszystkimi dostępnymi niebezpieczeńst-| łów wymienionych w punkcie 2 przeznaczonych dla przechwytującego statku powietrznego."
+    },
+    {
+     "type": "ocr",
+     "text": "3. SYGNAŁY WZROKOWE STOSOWANE DO OSTRZEGANIA NIEUPOWAŻNIONEGO STATKU POWIETRZNEGO LECĄCEGO W STREFIE OGRANICZONEJ, ZAKAZANEJ LUB NIEBEZPIECZNEJ ALBO WLATUJĄCEGO DO TAKICH STREF"
+    },
+    {
+     "type": "ocr",
+     "text": "Gdy ma to zastosowanie — w dzień i w nocy seria pocisków wystrzeliwanych z ziemi co dziesięć sekund, z których każdy, dając przy wybuchu czerwone i zielone światła lub gwiazdy, będzie wskazywał nieupoważnio-"
+    },
+    {
+     "type": "ocr",
+     "text": "nemu statkowi powietrznemu, że leci w strefie ograniczonej, zakazanej lub niebezpiecznej albo wlatuje do takich stref i że powinien podjąć takie działania, jakie mogą być konieczne w danej sytuacji."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 31 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "4. SYGNAŁY UŻYWANE W RUCHU LOTNISKOWYM"
+    },
+    {
+     "type": "ocr",
+     "text": "4.1. Sygnały świetlne i pirotechniczne 4.1.1. Instrukcje"
+    },
+    {
+     "type": "ocr",
+     "text": "\" Z kontroli lotniska do: Światło Statku powietrznego w locie Statku powietrznego na ziemi Zezwala się lądować"
+    },
+    {
+     "type": "ocr",
+     "text": "Ciągłe zielone Zezwala się startować Ciągłe czerwone Dać pierwszeństwo drogi innym Zatrzymaé się statkom powietrznym i"
+    },
+    {
+     "type": "ocr",
+     "text": "° 50 >) ZĘ Ę © Ses ’ a : 5 E- kontynuować krążenie a > z A Seria błysków Wracać do lądowania* Zezwala się kołować = SG | zielonych 3 . . e - . . , 5 % & | Seria błysków Lotnisko nie jest bezpieczne, nie Kołować poza polem wzlotów będącym RS 5 czerwonych lądować w użyciu NĄ Ę Seria błysków białych | Lądować na tym lotnisku i kołować do | Wracać do punktu wyjściowego na płyty* Bez względu na jakiekolwiek poprzednie instrukcje nie lądować na razie * Zezwolenia na lądowanie i kołowanie będą podane w odpowiednim czasie"
+    },
+    {
+     "type": "ocr",
+     "text": "O FA W BE - AWS zp UMAR ENS 27 EL ony, ONE Ww:"
+    },
+    {
+     "type": "ocr",
+     "text": "lotnisku Czerwone pirotechniczne"
+    },
+    {
+     "type": "ocr",
+     "text": "4?"
+    },
+    {
+     "type": "ocr",
+     "text": "A CZERWONA RAKIETA wi LL On, STW R > SZERWONE eit aS Do 7” Xe LOTNISKO NIE JEST BEZP a / ' BEZ WZGLĘDU NA IEC aa __BŁYSKI BIAŁE 2NE, NIE LĄDOWAĆ = a JAKIEKOLWIEK POPRZEDNIE pal AE OY NĄ INSTRUKCJE NIE LĄDOWAĆ LĄDOWAĆ NA Ty LOTNISKU I KOLOWAC DO PŁYTY [LL NARAZIE =]"
+    },
+    {
+     "type": "ocr",
+     "text": "a gLONE Songe DES ne POZYCJA DO RR sę START STARTU Rysunek 1.1. (patrz ust. 4.1.1.) EE |"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 32 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "4.1.2. Potwierdzenie przez statek powietrzny"
+    },
+    {
+     "type": "ocr",
+     "text": "a) W locie:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) przy świetle dziennym:"
+    },
+    {
+     "type": "ocr",
+     "text": "— przez przechylanie statku powietrznego ze skrzydła na skrzydło,"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Sygnału tego nie należy podawać między „trzecim a czwartym zakrętem” i „na prostej do lądowania”;"
+    },
+    {
+     "type": "ocr",
+     "text": "2) w czasie ciemności:"
+    },
+    {
+     "type": "ocr",
+     "text": "— przez dwukrotne błyśnięcie światłami lądowania statku powietrznego lub gdy on nie jest w nie wyposażony, przez dwukrotne włączanie i wyłączanie świateł nawigacyjnych."
+    },
+    {
+     "type": "ocr",
+     "text": "b) Naziemi:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) przy świetle dziennym:"
+    },
+    {
+     "type": "ocr",
+     "text": "— przez wychylenie lotek lub steru kierunku,"
+    },
+    {
+     "type": "ocr",
+     "text": "2) wczasie ciemności:"
+    },
+    {
+     "type": "ocr",
+     "text": "-— przez dwukrotne błyśnięcie światłami lądowania statku powietrznego lub gdy on nie jest w nie wyposażony, przez dwukrotne włączanie i wyłączanie świateł nawigacyjnych."
+    },
+    {
+     "type": "ocr",
+     "text": "4.2. _ Wzrokowe sygnały na ziemi"
+    },
+    {
+     "type": "ocr",
+     "text": "4.2.1. Zakaz lądowania"
+    },
+    {
+     "type": "ocr",
+     "text": "Pozioma kwadratowa czerwona tarcza z żółtymi pasami przekątnymi (rys. 1.2) wyłożona na polu sygnałowym oznacza, że lądowanie jest zabronione i że zakaz ten może ulec przedłużeniu."
+    },
+    {
+     "type": "ocr",
+     "text": "Rysunek 1.2"
+    },
+    {
+     "type": "ocr",
+     "text": "4.2.2. _ Konieczna szczególna ostrożność podczas podejścia lub lądowania"
+    },
+    {
+     "type": "ocr",
+     "text": "Pozioma kwadratowa czerwona tarcza z jednym żółtym pasem przekątnym (rys. 1.3) wyłożona na polu sygnałowym oznacza, że na skutek złego stanu pola manewro-"
+    },
+    {
+     "type": "ocr",
+     "text": "wego lub jakiejkolwiek innej przyczyny nałeży zachować szczególną ostrożność w czasie podejścia do lądowania lub lądowania."
+    },
+    {
+     "type": "ocr",
+     "text": "Rysunek 1.3"
+    },
+    {
+     "type": "ocr",
+     "text": "4.2.3. _ Użytkowanie dróg startowych i dróg kołowania"
+    },
+    {
+     "type": "ocr",
+     "text": "4.2.3.1. Pozioma biała tarcza w kształcie dwóch krążków połączonych poprzeczką (rys. 1.4) wyłożona na polu sygnałowym oznacza, że statki powietrzne powinny lądować, startować i kołować tylko na drogach startowych i drogach kołowania."
+    },
+    {
+     "type": "ocr",
+     "text": "CO"
+    },
+    {
+     "type": "ocr",
+     "text": "Rysunek 1.4"
+    },
+    {
+     "type": "ocr",
+     "text": "4.2.3.2. Taka sama biała tarcza w kształcie dwóch krążków połączonych poprzeczką jak w ust. 4.2.3.1., lecz z czarnymi pasami umieszczonymi na obu krążkach prostopadle do poprzeczki (rys. 1.5), wyłożona na polu sygnałowym oznacza, że statki powietrzne powinny lądować i startować tylko na drogach startowych, lecz inne manewry nie muszą odbywać się tylko na drogach startowych i drogach kołowania."
+    },
+    {
+     "type": "ocr",
+     "text": "(TD"
+    },
+    {
+     "type": "ocr",
+     "text": "Rysunek 1.5"
+    },
+    {
+     "type": "ocr",
+     "text": "4.2.4. _ Zamknięte drogi startowe lub drogi kołowania"
+    },
+    {
+     "type": "ocr",
+     "text": "Krzyże w jednym kontrastującym kolorze żółtym lub białym (rys. 1.6), wyłożone poziomo na drogach startowych, drogach kołowania lub ich częściach wskazują powierzchnię nienadającą się dla ruchu statków powietrznych."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 33 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Rysunek 1.6"
+    },
+    {
+     "type": "ocr",
+     "text": "4.2.5. | Kierunki lądowania lub startu 4.2.5.1. Pozioma biała lub pomarańczowa litera T (rys. 1.7) wskazuje kierunek lądowania i startu statków powietrznych, które należy wykonywać równolegle do trzonu litery T w kierunku ramienia poprzecznego. Uwaga.— Gdy litera T jest używana w nocy, to powinna być oświetlona lub wytyczona białymi światłami."
+    },
+    {
+     "type": "ocr",
+     "text": "Rysunek 1.7 4.2.5.2. Liczba składająca się z dwóch cyfr (rys. 1.8) wystawiona pionowo na lub w pobliżu wieży kontroli lotniska podaje statkowi powietrznemu znajdującemu się na polu manewrowym kierunek startu, wyrażony w dziesiątkach stopni busoli magnetycznej zaokrąglonych do najbliższej dziesiątki."
+    },
+    {
+     "type": "ocr",
+     "text": "09"
+    },
+    {
+     "type": "ocr",
+     "text": "Rysunek 1.8"
+    },
+    {
+     "type": "ocr",
+     "text": "4.2.6. | Prawostronny kierunek ruchu Wyłożona na polu sygnałowym lub poziomo na końcu drogi startowej albo pasa będącego w użyciu strzała"
+    },
+    {
+     "type": "ocr",
+     "text": "koloru jaskrawego wskazująca w prawo (rys. 1.9) oznacza, że zakręty przed lądowaniem i po starcie powinny być wykonywane w prawo."
+    },
+    {
+     "type": "ocr",
+     "text": "Rysunek 1.9"
+    },
+    {
+     "type": "ocr",
+     "text": "4.2.7. — Biuro odpraw załóg Litera „C” w kolorze czarnym umieszczona pionowo na żółtym tle (rys. 1.10) wskazuje miejsce, w którym znajduje się biuro odpraw załóg."
+    },
+    {
+     "type": "ocr",
+     "text": "Rysunek 1.10"
+    },
+    {
+     "type": "ocr",
+     "text": "4.2.8. _ Wykonywane są loty szybowców Podwójny biały krzyż umieszczony poziomo (rys. 1.11) na polu sygnałowym wskazuje, że lotnisko używane jest przez szybowce i że w danej chwili odbywają się na nim loty szybowców."
+    },
+    {
+     "type": "ocr",
+     "text": "Rysunek 1.11"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 34 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "5. SYGNAŁY MANEWROWANIA"
+    },
+    {
+     "type": "ocr",
+     "text": "5.1. Od sygnalisty do statku powietrznego"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 1.— Sygnały te przeznaczone sq do wykorzystania przez sygnalistę w celu podawania ich za pomocą rąk, oświetlonych w razie potrzeby, dla ułatwienia pilotowi widzenia ich, gdy zwrócony twarzą do statku powietrznego znajduje się:"
+    },
+    {
+     "type": "ocr",
+     "text": "— przed końcówką lewego skrzydła w polu widzenia pilota — w przypadku statków powietrznych o skrzydłach stałych; i"
+    },
+    {
+     "type": "ocr",
+     "text": "— w miejscu, w którym jest najlepiej widziany przez pilota — gdy chodzi o śmigłowce."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 2.— Znaczenie poszczególnych sygnałów pozostaje zawsze to samo bez względu na to, czy sygnalista będzie używał tarczek, pałeczek świetlnych lub latarek elektrycznych."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 3.— Dla sygnalisty zwróconego twarzą do statku powietrznego numeracja silników statku jest od prawej do lewej (tj. silnikiem nr I jest silnik lewy zewnętrzny)."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 4.— Sygnały oznaczone gwiazdką przeznaczone są dla śmigłowców będących w zawisie."
+    },
+    {
+     "type": "ocr",
+     "text": "5.1.1. Przed użyciem następujących sygnałów sygnalista powinien upewnić się, że otoczenie, w którym statek powietrzny ma być prowadzony, jest wolne od obiektów, z jakimi statek powietrzny, stosując się do ust. 3.4.1, mógłby się zderzyć."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Wiele statków powietrznych jest tak zbudowanych, że tor końcówek skrzydeł, silników i innych wystających części podczas manewrowania statku powietrznego nie zawsze może być wzrokowo kontrolowany z kabiny załogi."
+    },
+    {
+     "type": "ocr",
+     "text": "1. Postępować zgodnie z dalszymi wskazówkami sygnalisty"
+    },
+    {
+     "type": "ocr",
+     "text": "Sygnalista kieruje = pilotem, jezeli warunki ruchu na lotnisku tego wymagaja."
+    },
+    {
+     "type": "ocr",
+     "text": "2. To stanowisko (tu)"
+    },
+    {
+     "type": "ocr",
+     "text": "Ramiona podniesione pionowo."
+    },
+    {
+     "type": "ocr",
+     "text": "3. Kierowac się do następnego sygnalisty"
+    },
+    {
+     "type": "ocr",
+     "text": "it"
+    },
+    {
+     "type": "ocr",
+     "text": "4. Porusza¢ się do przodu"
+    },
+    {
+     "type": "ocr",
+     "text": "Prawe lub lewe ramię opuszczone, drugie ramię poruszane poziomo przed ciałem w kierunku, w którym znajduje się następny sygnalista."
+    },
+    {
+     "type": "ocr",
+     "text": "Ramiona lekko rozwarte, dłonie zwrócone do tyłu, a następnie poruszanie ramionami do góry i do tyłu od wysokości barków."
+    },
+    {
+     "type": "ocr",
+     "text": "5."
+    },
+    {
+     "type": "ocr",
+     "text": "a) Zakreé w lewo od siebie: prawe ramię skierowane w dół, lewe ramię poruszane do góry i do tyłu. Szybkość ruchu ramienia wskazuje prędkość zakrętu."
+    },
+    {
+     "type": "ocr",
+     "text": "b) Zakreé w prawo od siebie: lewe ramię skierowane w dół, prawe ramię poruszane do góry i do tyłu. Szybkość ruchu ramienia wskazuje prędkość zakrętu."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 35 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Powtarzane krzyżowanie ramion nad głową (szybkość ruchu ramion powinna być dostosowana do pilności zatrzymywania statku powietrznego, tj. im szybsze ruchy, tym pilniejsza jest konieczność zatrzymania)."
+    },
+    {
+     "type": "ocr",
+     "text": "7."
+    },
+    {
+     "type": "ocr",
+     "text": "Hamulce"
+    },
+    {
+     "type": "ocr",
+     "text": "a) Wigezyé hamulce: podnieść poziomo przed ciałem przedramię i dłoń z wyprostowanymi palcami, a następnie zamknąć dłoń."
+    },
+    {
+     "type": "ocr",
+     "text": "c) Zwolnic hamulce: podnieść poziomo przed ciałem przedramię i zamkniętą dłoń, a następnie wyprostować palce."
+    },
+    {
+     "type": "ocr",
+     "text": "8. Podstawki"
+    },
+    {
+     "type": "ocr",
+     "text": "a) Podstawki podłożone: ramiona opuszczone, dłonie zwrócone do ciała, a następnie poruszanie opuszczonymi ramionami ku środkowi."
+    },
+    {
+     "type": "ocr",
+     "text": "b) Podstawki usunięte: ramiona opuszczone, dłonie zwrócone na zewnątrz, a następnie poruszanie ramionami na zewnątrz."
+    },
+    {
+     "type": "ocr",
+     "text": "9. Uruchomić silnik(i)"
+    },
+    {
+     "type": "ocr",
+     "text": "Lewe ramię podniesione nad głową, z odpowiednią liczbą wyprostowanych palców, dla wskazania numeru silnika, który ma być uruchomiony, oraz kołowy ruch prawej ręki na poziomie głowy."
+    },
+    {
+     "type": "ocr",
+     "text": "10. Wyłączyć silniki"
+    },
+    {
+     "type": "ocr",
+     "text": "Jedno z ramion podniesione do poziomu barku, dłoń naprzeciw gardła, zwrócona w dół, a następnie poruszanie tym ramieniem na boki, przy czym pozostaje ono zgięte."
+    },
+    {
+     "type": "ocr",
+     "text": "11. Zmniejszyé prędkość"
+    },
+    {
+     "type": "ocr",
+     "text": "Ramiona opuszczone w dół, dłonie zwrócone do ziemi, a następ- + nie kilkakrotne poruszanie nimi w górę i w dół."
+    },
+    {
+     "type": "ocr",
+     "text": "12. Zmniejszyć obroty silnika(ów) po stronie wskazywanej"
+    },
+    {
+     "type": "ocr",
+     "text": "Ramiona opuszczone, dłonie zwrócone do ziemi, a następnie poruszanie prawą lub lewą dłonią w górę i w dół w celu wskazania, + że liczba obrotów lewego (lewych) lub prawego (prawych) silnika(ów) powinna być odpowiednio zmniejszona."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 36 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "13. Cofnaé sie"
+    },
+    {
+     "type": "ocr",
+     "text": "Ramiona przy bokach, dłonie zwrócone do przodu, a następnie poruszanie ramionami do przodu i w górę na wysokość barków."
+    },
+    {
+     "type": "ocr",
+     "text": "14. Zakręty w czasie cofania"
+    },
+    {
+     "type": "ocr",
+     "text": "a) Ogon w prawo: lewe ramię skierowane w dół, prawe ramię poruszane kilkakrotnie z położenia pionowego nad głową do położenia poziomego z przodu."
+    },
+    {
+     "type": "ocr",
+     "text": "b) Ogon w lewo: prawe ramię skierowane w dół, lewe ramię poruszane kilkakrotnie z położenia pionowego nad głową do położenia poziomego z przodu."
+    },
+    {
+     "type": "ocr",
+     "text": "15. Wszystko w porządku"
+    },
+    {
+     "type": "ocr",
+     "text": "Prawe przedramię podniesione od łokcia, kciuk wyprostowany."
+    },
+    {
+     "type": "ocr",
+     "text": "*16. Zawis"
+    },
+    {
+     "type": "ocr",
+     "text": "Ramiona wyciągnięte i i KU) poziomo na boki. Em"
+    },
+    {
+     "type": "ocr",
+     "text": "*17."
+    },
+    {
+     "type": "ocr",
+     "text": "Ramiona wyciągnięte poziomo na boki z dłońmi zwróconymi do góry, a następnie poruszanie ramionami do góry. Szybkość ruchu ramion wskazuje prędkość wznoszenia."
+    },
+    {
+     "type": "ocr",
+     "text": "*18."
+    },
+    {
+     "type": "ocr",
+     "text": "Ramiona wyciągnięte poziomo na boki z dłońmi zwróconymi do dołu, a następnie poruszanie ramionami do dołu. Szybkość ruchu ramion wskazuje prędkość zniżania."
+    },
+    {
+     "type": "ocr",
+     "text": "Wejść wyżej"
+    },
+    {
+     "type": "ocr",
+     "text": "ex \"a"
+    },
+    {
+     "type": "ocr",
+     "text": "Zejdź niżej"
+    },
+    {
+     "type": "ocr",
+     "text": "*19. Lecieć poziomo"
+    },
+    {
+     "type": "ocr",
+     "text": "Właściwe ramię wyciągnięte poziomo w bok w nakazanym kierunku ruchu, drugie ramię poruszane przed ciałem w tym samym kierunku."
+    },
+    {
+     "type": "ocr",
+     "text": "|"
+    },
+    {
+     "type": "ocr",
+     "text": "*20. Lądować"
+    },
+    {
+     "type": "ocr",
+     "text": "Ramiona opuszczone w dół i skrzyżowane. Y"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 37 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "5.2. Od piłota statku powietrznego do sygnalisty b) Hamulce zwolnione: podnieść poziomo przed twarzą ramię z zamkniętą dłonią, a następnie Uwaga 1.— Sygnały te przeznaczone są do podawa- wyprostować palce. nia przez pilota znajdującego się w swojej kabinie. Sygnały wykonuje on rękami dobrze widzianymi przez sygnalistę, a w razie potrzeby oświetlonymi w celu ułatwienia widzenia ich przez sygnalistę. 5.2.2. Podstawki"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 2.— Silniki statku powietrznego są numerowane w odniesieniu do sygnalisty zwróconego do statku powietrznego, od jego prawej do lewej strony (tj. silnik rzed tw nr 1 jest lewym silnikiem zewnętrznym). P 7"
+    },
+    {
+     "type": "ocr",
+     "text": "a) Podłożyć podstawki: ramiona wyprostowane, dłonie zwrócone na zewnątrz i skrzyżowane"
+    },
+    {
+     "type": "ocr",
+     "text": "b) Wyjąć podstawki: ręce skrzyżowane przed twarzą, dłonie odwrócone na zewnątrz i ruch ramio- 5.2.1. Hamulce nami na zewnątrz."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Moment, w którym dłoń jest zamknięta lub palce dłoni są wyprostowane, wskazuje odpowiednio OE chwilę włączania lub zwolnienia hamulców. 5.2.3. — Gotów do uruchomienia silnika(ów)"
+    },
+    {
+     "type": "ocr",
+     "text": "2) twarzą ramię i ak, © palcami wyprostowanymi Podnieść odpowiednią liczbę palców jednej ręki wskazua następnie zamknąć dłoń. jących numer silnika, który ma być uruchomiony."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 38 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "DODATEK 2."
+    },
+    {
+     "type": "ocr",
+     "text": "PRZECHWYTYWANIE CYWILNYCH STATKÓW POWIETRZNYCH"
+    },
+    {
+     "type": "ocr",
+     "text": "(Uwaga.— Patrz rozdział 3, ust. 3.8. niniejszych przepisów)"
+    },
+    {
+     "type": "ocr",
+     "text": "1. Postępowanie przechwytywanego statku powietrznego"
+    },
+    {
+     "type": "ocr",
+     "text": "1.1. Statek powietrzny przechwytywany przez inny statek powietrzny powinien natychmiast:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) stosować się do instrukcji wydawanych przez przechwytujący statek powietrzny, rozumiejąc sygnały wzrokowe i odpowiadając na nie, zgodnie z wymaganiami dodatku 1;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) zawiadomić, jeśli to możliwe, właściwy organ służb ruchu lotniczego;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) starać się nawiązać łączność radiową z przechwytującym statkiem powietrznym lub z właściwym organem kierującym przechwytywaniem, nadając wywołanie ogólne na częstotliwości niebezpieczeństwa 121,5 MHz, podając identyfikację przechwytywanego statku powietrznego i charakter jego lotu i, jeżeli łączność nie została nawiązana, powtórzyć to wywołanie na częstotliwości niebezpieczeństwa 243 MHz, jeżeli jest to możliwe;"
+    },
+    {
+     "type": "ocr",
+     "text": "d) wybrać kod 7700 modu A, jeżeli wyposażony jest w transponder radaru wtórnego, chyba że otrzyma od właściwego organu służb ruchu lotniczego inne instrukcje."
+    },
+    {
+     "type": "ocr",
+     "text": "1.2. Jeżeli instrukcje otrzymane za pomocą radia z jakiegoś źródła są sprzeczne z instrukcjami danymi przez przechwytujący statek powietrzny za pomocą sygnałów wzrokowych, przechwytywany statek powietrzny powinien poprosić o natychmiastowe wyjaśnienie, stosując się w dalszym ciągu do instrukcji wzrokowych podanych przez przechwytujący statek powietrzny."
+    },
+    {
+     "type": "ocr",
+     "text": "1.3. Jeżeli instrukcje otrzymane za pomocą radia z jakiegoś źródła są sprzeczne z instrukcjami danymi przez przechwytujący statek powietrzny za pomocą radia, przechwytywany statek powietrzny powinien poprosić o natychmiastowe wyjaśnienie, stosując się w dalszym ciągu do instrukcji radiowych nadanych przez przechwytujący statek powietrzny."
+    },
+    {
+     "type": "ocr",
+     "text": "2. Manewry przechwytywania"
+    },
+    {
+     "type": "ocr",
+     "text": "2.1. Manewry do wzrokowego rozpoznania"
+    },
+    {
+     "type": "ocr",
+     "text": "Manewry stosowane przez przechwytujący statek powietrzny w celu wzrokowego rozpoznania cywilnego statku powietrznego dzielą się na następujące fazy:"
+    },
+    {
+     "type": "ocr",
+     "text": "Fazal. Przechwytujący statek powietrzny powinien się zbliżać do przechwytywanego statku powietrznego od tyłu. Prowadzący grupę lub pojedynczy przechwytujący statek powietrzny powinien zwykle zająć pozycję z lewej strony, nieco nad i przed przechwytywanym statkiem powietrznym, w polu widzenia pilota przechwytywanego statku powietrznego i początkowo nie bliżej tego statku niż 300 m. Wszystkie inne statki powietrzne biorące udział powinny trzymać się z dala od przechwytywanego statku powietrznego — najlepiej wyżej i za statkiem. Po ustaleniu prędkości i pozycji statek powietrzny powinien, jeśli to konieczne, rozpocząć manewry fazy II."
+    },
+    {
+     "type": "ocr",
+     "text": "Fazall. Prowadzący grupę albo pojedynczy przechwytujący statek powietrzny powinien zacząć zbliżać się ostrożnie do przechwytywanego statku powietrznego na tym samym poziomie i na taką odległość, jaka jest bezwzględnie konieczna dla uzyskania potrzebnych informacji. Prowadzący grupę lub pojedynczy przechwytujący statek powietrzny powinien postępować ostrożnie, aby uniknąć przestraszenia załogi lub pasażerów przechwytywanego statku powietrznego, pamiętając stale o tym, że manewry uważane za normalne przez przechwytujący statek powietrzny mogą być uważane przez pasażerów i załogę cywilnego statku powietrznego za niebezpieczne. Wszystkie inne statki powietrzne biorące udział powinny się trzymać w dalszym ciągu z dala od przechwytywanego statku powietrznego. Po dokonaniu rozpoznania przechwytujący statek powietrzny powinien się oddalić od przechwytywanego statku powietrznego, jak podano w fazie III."
+    },
+    {
+     "type": "ocr",
+     "text": "Faza lll. Prowadzacy grupę lub pojedynczy przechwytujący statek powietrzny powinien się oddalić łagodnie od przechwytywanego statku powietrznego, wykonując płytkie nurkowanie. Wszystkie inne statki powietrzne biorące udział powinny się trzymać z dala od przechwytywanego statku powietrznego i dołączyć do prowadzącego."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 39 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "2.2. Manewry do wskazania kierunku lotu"
+    },
+    {
+     "type": "ocr",
+     "text": "2.2.1. Jeżeli po wykonaniu manewrów rozpoznawczych fazy Ii Il uznano za konieczne korektę nawigacji przechwytywanego statku powietrznego, prowadzący grupę lub pojedynczy przechwytujący statek powietrzny powinien zwykle zająć pozycję po lewej stronie, nieco nad i z przodu przed przechwytywanym statkiem powietrznym, aby umożliwić dowódcy tego statku widzenie sygnałów wzrokowych."
+    },
+    {
+     "type": "ocr",
+     "text": "2.2.2. Konieczne jest, aby dowódca przechwytującego statku powietrznego upewnił się w tym, że dowódca przechwytywanego statku powietrznego wie, że jest przechwytywany i potwierdza podawane mu sygnały. Jeżeli wielokrotne wysiłki dla zwrócenia uwagi dowódcy przechwytywanego statku powietrznego poprzez wykorzystanie sygnałów pozycji 1 w dodatku 1 dział 2 nie będą skuteczne, wówczas inne metody sygnalizacji mogą być użyte w tym celu, włączając jako ostateczny środek wzrokowy — efekt spowodowany włączeniem dopalania, pod warunkiem że nie spowoduje to niebezpieczeństwa dla przechwytywanego statku powietrznego."
+    },
+    {
+     "type": "ocr",
+     "text": "2.2.3. Gdy warunki meteorologiczne lub terenowe tego wymagają, prowadzący grupę lub pojedynczy przechwytujący statek powietrzny może zająć pozycję z prawej strony przychwytywanego statku powietrznego, nieco nad nim i z przodu. W takim przypadku dowódca przechwytującego statku powietrznego musi szczególnie uważać, aby jego statek był stale widoczny przez dowódcę przechwytywanego statku."
+    },
+    {
+     "type": "ocr",
+     "text": "3. Prowadzenie przechwytywanego statku powietrznego"
+    },
+    {
+     "type": "ocr",
+     "text": "3.1. Prowadzenie statku powietrznego i związane z tym informacje powinny być podawane przechwytywanemu statkowi powietrznemu drogą radiotelefoniczną, gdy tylko kontakt radiowy zostanie ustalony."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2. Prowadząc przechwytywany statek powietrzny, należy zwracać uwagę, aby nie został on wprowadzony w warunki, w których widzialność może być mniejsza od wymaganej dla wykonywania lotu w warunkach meteorologicznych dla lotów z widocznością i aby manewry wymagane od przechwytywanego statku powietrznego nie zwiększyły istniejącego już niebezpieczeństwa w przypadku, gdy jego sprawność operacyjna jest obniżona."
+    },
+    {
+     "type": "ocr",
+     "text": "3.3. W wyjątkowym przypadku, gdy od przechwytywanego statku powietrznego jest wymagane lądowanie na terytorium, nad którym odbywa się lot, należy także zwrócić uwagę, aby:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) wyznaczone lotnisko byto odpowiednie dla bezpiecznego ladowania statku powietrznego danego typu, zwłaszcza gdy lotnisko nie jest normalnie używane do operacji cywilnego transportu lotniczego;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) otaczający teren był odpowiedni dla manewrów krążenia, podejścia i dla odlotu po nieudanym podejściu;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) przechwytywany statek powietrzny posiadał wystarczający zapas paliwa dla dołotu do lotniska;"
+    },
+    {
+     "type": "ocr",
+     "text": "d) jeżeli przechwytywany statek powietrzny jest cywilnym statkiem transportowym, wyznaczone lotnisko posiadało drogę startową o długości równoważnej 2500 m na średnim poziomie morza i o wytrzymałości wystarczającej dla ciężaru tego statku; i"
+    },
+    {
+     "type": "ocr",
+     "text": "e) gdy to możliwe, wyznaczone lotnisko było jednym ze szczegółowo opisanych w odpowiednim zbiorze informacji lotniczych."
+    },
+    {
+     "type": "ocr",
+     "text": "3.4. Gdy cywilny statek powietrzny ma lądować na nieznanym lotnisku, istotne jest, aby pozostawiono mu dosyć czasu na przygotowanie się do lądowania, pamiętając, że tylko dowódca cywilnego statku może ocenić bezpieczeństwo operacji lądowania, biorąc pod uwagę długość drogi startowej i masę statku w danej chwili."
+    },
+    {
+     "type": "ocr",
+     "text": "3.5. Jest szczególnie ważne, aby wszelkie informacje niezbędne do ułatwienia bezpiecznego podejścia i lądowania były podane przechwytywanemu statkowi powietrznemu za pomocą radiotelefonu."
+    },
+    {
+     "type": "ocr",
+     "text": "4. Niezastosowanie się do poleceń przechwytującego statku powietrznego"
+    },
+    {
+     "type": "ocr",
+     "text": "Gdy przechwytywany statek powietrzny nie będzie się stosował do poleceń przekazywanych przez przechwytujący statek powietrzny, wówczas bezpieczeństwo przechwytywanego statku powietrznego może nie być zagwarantowane."
+    },
+    {
+     "type": "ocr",
+     "text": "5. Koordynacja działań między organem kierującym przechwytywaniem a właściwym cywilnym organem służb ruchu lotniczego"
+    },
+    {
+     "type": "ocr",
+     "text": "Podczas wszystkich faz przechwytywania statku powietrznego, który jest lub przypuszcza się, że jest cywilnym statkiem powietrznym, działania organu kierującego przechwytywaniem i właściwego cywilnego organu służb ruchu łotniczego powinny być ściśle koordynowane. Koordynacja ta powinna m.in. zapewnić cywilnemu organowi służb ruchu lotniczego otrzymywanie pełnych"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 40 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "informacji o rozwoju sytuacji i o wymaganym działaniu przechwytywanego statku powietrznego."
+    },
+    {
+     "type": "ocr",
+     "text": "6. Sygnały wzrokowe powietrze-powietrze"
+    },
+    {
+     "type": "ocr",
+     "text": "Sygnały wzrokowe, które powinny być stosowane przez przechwytujące i przechwytywane statki powietrzne, są podane w dodatku 1 do niniejszych przepisów. Jest Sprawą zasadniczą, ażeby przechwytujący i przechwytywany statek powietrzny stosowały się ściśle do tych sygnałów i interpretowały prawidłowo sygnały podawane przez inne statki powietrzne i aby przechwytujące statki powietrzne zwracały szczególną uwagę na wszystkie sygnały podawane przez przechwytywany statek powietrzny, informujące, że jest on w stanie zagrożenia."
+    },
+    {
+     "type": "ocr",
+     "text": "7. Łączność radiowa podczas przechwytywania"
+    },
+    {
+     "type": "ocr",
+     "text": "W przypadku przechwytywania organ kierujący przechwytywaniem i przechwytujący statek powietrzny powinny:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) w pierwszej kolejności starać się nawiązać dwukierunkową łączność z przechwytywanym statkiem powietrznym, używając języka znanego"
+    },
+    {
+     "type": "ocr",
+     "text": "stronom, na częstotliwości 121,5 MHz, stosując odpowiednio następujące znaki wywoławcze:"
+    },
+    {
+     "type": "ocr",
+     "text": "INTERCEPT CONTROL (wymowa polska INTERSEPT KONTROL) — organ kierujący przechwytywaniem;"
+    },
+    {
+     "type": "ocr",
+     "text": "INTERCEPTOR (wymowa polska INTER- SEPTOR) (znak wywoławczy) — przechwytujący statek powietrzny;"
+    },
+    {
+     "type": "ocr",
+     "text": "INTERCEPTED AIRCRAFT (wymowa polska INTERSEPTID ERKRAFT) — przechwytywany statek powietrzny; i"
+    },
+    {
+     "type": "ocr",
+     "text": "b) jeżeli to nie da rezultatu, próbować nawiązać"
+    },
+    {
+     "type": "ocr",
+     "text": "c)"
+    },
+    {
+     "type": "ocr",
+     "text": "dwukierunkową łączność z przechwytywanym statkiem powietrznym na takiej lub takich innych częstotliwościach, jakie zostały podane przez państwowy organ zarządzania ruchem lotniczym, lub nawiązać kontakt radiowy poprzez właściwy(e) organ(y) ATS."
+    },
+    {
+     "type": "ocr",
+     "text": "jeżeli łączność radiowa podczas przechwytywania została nawiązana, lecz porozumiewanie się we wspólnym języku nie będzie możliwe, należy się starać przekazywać polecenia, potwierdzenia przyjęcia poleceń i istotne informacje przez stosowanie wyrażeń i ich wymowy zawartych w tabeli 2.1. i przekazywać każde wyrażenie dwukrotnie."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 41 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Tabela 2.1."
+    },
+    {
+     "type": "ocr",
+     "text": "Wyrażenia do stosowania przez PRZECHWYTUJĄCY statek powietrzny Wyrażenie Wymowa! CALL SIGN KOL SA-IN FOLLOW FOL-LO DESCEND DI-SEND YOU LAND JU LEND PROCEED PRO-SIID"
+    },
+    {
+     "type": "ocr",
+     "text": "Znaczenie"
+    },
+    {
+     "type": "ocr",
+     "text": "Jaki jest twój znak wywoławczy? Leć za mną Zniżaj się do lądowania Wyłąduj na tym lotnisku Możesz lecieć dalej"
+    },
+    {
+     "type": "ocr",
+     "text": "Wyrażenia do stosowania przez PRZECHWYTYWANY statek powietrzny Wyrażenie Wymowa! CALL SIGN KOL SA-IN (znak wywoławczy)” (znak wywoławczy) WILCO ŁILL-KO CAN NOT KANN NOTT REPEAT RII-PIIT AM LOST AM LOSST MAYDAY MEJDEJ HIJACK? HAJ-DZEK LAND LEND (nazwa miejsca) (nazwa miejsca) DESCEND DII-SEND"
+    },
+    {
+     "type": "ocr",
+     "text": "Znaczenie"
+    },
+    {
+     "type": "ocr",
+     "text": "Mój znak wywoławczy jest (znak wywoławczy) Zrozumiałem; Wykonam Nie mogę wykonać Powtórz polecenie Nie znam swej pozycji Jestem w niebezpieczeństwie Jestem uprowadzany Proszę o lądowanie w (nazwa miejsca) Proszę o zniżanie"
+    },
+    {
+     "type": "ocr",
+     "text": "l. W drugiej kolumnie sylaby wymagające położenia nacisku w wymowie są podkreślone."
+    },
+    {
+     "type": "ocr",
+     "text": "2. Wymagane jest przekazanie znaku wywolawczego używanego w łączności radiotelefonicznej z organami służb ruchu lotniczego i odpowiadającego znakowi rozpoznawczemu statku powietrznego podanemu w planie lotu."
+    },
+    {
+     "type": "ocr",
+     "text": "3. Nie zawsze okoliczności mogą pozwalać lub mogą czynić pożądanym na użycie wyrażenia ,, HIJACK”."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 42 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poziomy przelotu, które powinny być stosowane, gdy wymagają tego następujące przepisy:"
+    },
+    {
+     "type": "ocr",
+     "text": "DODATEK 3. TABELE POZIOMÓW PRZELOTU"
+    },
+    {
+     "type": "ocr",
+     "text": "a) w obszarach, gdzie minimalna separacja pionowa (VSM) 300 m (1000 ft) jest stosowana między FL 290 a FL 410 włącznie:"
+    },
+    {
+     "type": "ocr",
+     "text": "MAGNETYCZNY KĄT DROGI"
+    },
+    {
+     "type": "ocr",
+     "text": "Od 000° do 179° Od 180° do 359°"
+    },
+    {
+     "type": "ocr",
+     "text": "Loty IFR Loty VFR Loty IFR Loty VFR"
+    },
+    {
+     "type": "ocr",
+     "text": "Wysokosé Wysokość Wysokość Wysokość bezwzględna bezwzględna bezwzględna bezwzględna"
+    },
+    {
+     "type": "ocr",
+     "text": "FL Metry Stopy FL Metry Stopy FL Metry Stopy FL Metry Stopy"
+    },
+    {
+     "type": "ocr",
+     "text": "-90 — - - 0 - - - 10 300 1 000 - — — 20 600 2000 - — - 30 900 3000 35 1050 3500 40 1200 4000 45 1350 4500 50 1500 5000 55 1700 5500 60 1850 6000 65 2000 6500 70 2150 7000 735 2300 7500 80 2450 8000 85 2600 8500 90 2750 9000 95 2900 9500 100 3050 10000 105 3200 10500"
+    },
+    {
+     "type": "ocr",
+     "text": "110 3350 11000 115 3500 11500 120 3650 12000 125 3800 12500 130 3950 13000 135 4100 13500 140 4250 14000 145 4400 14500 150 4550 15000 155 4700 15500 160 4900 16000 165 5050 16500 170 5200 17000 175 5350 17500 180 5500 18000 185 5650 18500 190 5800 19000 195 5950 19500 200 6100 20000 205 6250 20500"
+    },
+    {
+     "type": "ocr",
+     "text": "210 6400 21000 215 6550 21500 220 6700 22000 225 6850 22500 230 7000 23000 235 7150 23500 240 7300 24000 245 7450 24500 250 7600 25000 255 7750 25500 260 7900 26000 265 8100 26500 270 8250 27000 275 8400 27500 280 8550 28000 285 8700 28500 290 8850 29000 300 9150 30000"
+    },
+    {
+     "type": "ocr",
+     "text": "310 9450 31000 320 9750 32000 330 10050 33000 340 10350 34000 350 10650 35000 360 10950 36000 370 11300 37000 380 11600 38000 390 11900 39000 400 12200 40000"
+    },
+    {
+     "type": "ocr",
+     "text": "410 12500 41000 430 13100 43000 450 13700 45000 470 14350 47000 490 14950 49000 510 15550 51000 itd."
+    },
+    {
+     "type": "ocr",
+     "text": "itd."
+    },
+    {
+     "type": "ocr",
+     "text": "itd."
+    },
+    {
+     "type": "ocr",
+     "text": "itd."
+    },
+    {
+     "type": "ocr",
+     "text": "itd."
+    },
+    {
+     "type": "ocr",
+     "text": "itd."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 43 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "b) w innych obszarach:"
+    },
+    {
+     "type": "ocr",
+     "text": "270 290"
+    },
+    {
+     "type": "ocr",
+     "text": "330 370"
+    },
+    {
+     "type": "ocr",
+     "text": "410 450 490 itd."
+    },
+    {
+     "type": "ocr",
+     "text": "Loty IFR"
+    },
+    {
+     "type": "ocr",
+     "text": "Od 000° do 179°"
+    },
+    {
+     "type": "ocr",
+     "text": "Wysokość bezwzględna"
+    },
+    {
+     "type": "ocr",
+     "text": "Metry"
+    },
+    {
+     "type": "ocr",
+     "text": "300 900 1 500 2 150 2 750"
+    },
+    {
+     "type": "ocr",
+     "text": "3 350 3 950 4 550 5 200 5 800"
+    },
+    {
+     "type": "ocr",
+     "text": "6 400 7 000 7 600 8 250 8 850"
+    },
+    {
+     "type": "ocr",
+     "text": "10 050 11 300"
+    },
+    {
+     "type": "ocr",
+     "text": "12 500 13 700 14 950 itd."
+    },
+    {
+     "type": "ocr",
+     "text": "Stopy"
+    },
+    {
+     "type": "ocr",
+     "text": "1 000 3 000 5 000 7 000 9 000"
+    },
+    {
+     "type": "ocr",
+     "text": "11 000 13 000 15 000 17 000 19 000"
+    },
+    {
+     "type": "ocr",
+     "text": "21 000 23 000 25 000 27 000 29 000"
+    },
+    {
+     "type": "ocr",
+     "text": "33 000 37 000"
+    },
+    {
+     "type": "ocr",
+     "text": "41 000 45 000 49 000 itd."
+    },
+    {
+     "type": "ocr",
+     "text": "MAGNETYCZNY KĄT DROGI"
+    },
+    {
+     "type": "ocr",
+     "text": "Od 180° do 359°"
+    },
+    {
+     "type": "ocr",
+     "text": "Loty VFR Loty IFR Loty VFR"
+    },
+    {
+     "type": "ocr",
+     "text": "Wysokość Wysokość Wysokość bezwzględna bezwzględna bezwzgłędna"
+    },
+    {
+     "type": "ocr",
+     "text": "FL Metry Stopy FL Metry Stopy FL Metry Stopy"
+    },
+    {
+     "type": "ocr",
+     "text": "_ ~ _ 0 _ - _ — — — 20 600 2000 — — - 35 1050 3500 40 1200 4000 45 1350 4500 55 1700 5500 60 1850 6000 65 2000 6500 735 2300 7500 80 2450 8000 85 2600 8500 95 2900 9500 100 3050 10000 105 3200 10500"
+    },
+    {
+     "type": "ocr",
+     "text": "115 3500 11500 120 3650 12000 125 3800 12500"
+    },
+    {
+     "type": "ocr",
+     "text": "135. 4100 13500 140 4250 14000 145 4400 14500 155 4700 15500 160 4900 16000 165 5050 16500 175 $350 17500 180 5500 18000 185 5650 18500 195 5950 19500 200 6100 20000 205 6250 20500"
+    },
+    {
+     "type": "ocr",
+     "text": "215 6550 21500 220 6700 22000 225 6850 22500 235 7150 23500 240 7300 24000 245 7450 24500 255 7750 25500 260 7900 26000 265 8100 26500 275 8400 27500 280 8550 28000 285 8700 28500 300 9150 30000 310 9450 31000 320 9750 32000"
+    },
+    {
+     "type": "ocr",
+     "text": "340 10350 34000 350 10650 35000 360 10950 36000 380 11600 38000 390 11900 39000 400 12200 40000"
+    },
+    {
+     "type": "ocr",
+     "text": "420 12800 42000 430 13100 43 000 440 13400 44000 460 14000 46000 470 14350 47000 480 14650 48000 500 15250 50000 510 15550 51000 520 15850 52000 itd."
+    },
+    {
+     "type": "ocr",
+     "text": "itd."
+    },
+    {
+     "type": "ocr",
+     "text": "itd."
+    },
+    {
+     "type": "ocr",
+     "text": "itd. itd."
+    },
+    {
+     "type": "ocr",
+     "text": "itd."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 44 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "DODATEK 4."
+    },
+    {
+     "type": "ocr",
+     "text": "LOTY BALONÓW WOLNYCH BEZZAŁOGOWYCH"
+    },
+    {
+     "type": "ocr",
+     "text": "(Uwaga.— Patrz rozdział 3, ust. 3.1.9. niniejszych przepisów)"
+    },
+    {
+     "type": "ocr",
+     "text": "1. Klasyfikacja balonów wolnych bezzałogowych"
+    },
+    {
+     "type": "ocr",
+     "text": "Balony wolne bezzałogowe klasyfikuje się następująco:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) lekki: balon wolny bezzałogowy, który przewozi ładunek użyteczny w postaci jednego lub więcej pakietów o łącznej masie poniżej 4 kg, o ile nie kwalifikuje się jako balon ciężki według określenia pod lit. c), pkt 2, 3 lub 4 poniżej; lub"
+    },
+    {
+     "type": "ocr",
+     "text": "b) średni: balon wolny bezzałogowy, który przewozi ładunek użyteczny w postaci dwóch lub więcej pakietów o łącznej masie 4 kg lub więcej, jednak nieprzekraczającej 6 kg, o ile nie kwalifikuje się jako balon ciężki według określenia pod lit. c), pkt 2, 3 lub 4 poniżej; lub"
+    },
+    {
+     "type": "ocr",
+     "text": "c) ciężki: balon wolny bezzałogowy; przewożący ładunek użyteczny, który:"
+    },
+    {
+     "type": "ocr",
+     "text": "l) ma łączną masę 6 kg lub więcej; lub"
+    },
+    {
+     "type": "ocr",
+     "text": "2) zawiera pakiet o masie 3 kg lub więcej; lub"
+    },
+    {
+     "type": "ocr",
+     "text": "3) zawiera pakiet o masie 2 kg lub więcej o gęstości powierzchniowej wynoszącej więcej niż 13 gramów na centymetr kwadratowy; lub"
+    },
+    {
+     "type": "ocr",
+     "text": "4) posiada linę lub inne urządzenie do podwieszania ładunku użytecznego, który wymaga siły uderzenia 230 niutonów lub więcej dla oddzielenia podwieszonego ładunku użytecznego od balonu."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 1.— Gęstość powierzchniową, o której mowa pod lit. c), pkt 3, określa się przez podzielenie całkowitej masy w gramach pakietu ładunku użytecznego przez najmniejszą powierzchnię pakietu w centymetrach kwadratowych."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga 2.— Patrz rysunek 4.1."
+    },
+    {
+     "type": "ocr",
+     "text": "2. Ogólne przepisy operacyjne"
+    },
+    {
+     "type": "ocr",
+     "text": "2.1. Balon wolny bezzałogowy może być WyDpuszczony do lotu w polskiej przestrzeni powietrznej jedynie po uzyskaniu na to zezwolenia."
+    },
+    {
+     "type": "ocr",
+     "text": "2.2. Balon wolny bezzałogowy, z wyjątkiem balonu lekkiego użytego wyłącznie do celów meteorologicznych i w sposób określony w odrębnych przepisach, nie powinien operować poprzez terytorium innego Państwa bez uzyskania na to zgody tego Państwa."
+    },
+    {
+     "type": "ocr",
+     "text": "2.3. Zgoda, o której mowa w ust. 2.2., powinna być uzyskana przed wypuszczeniem balonu, jeżeli istnieje uzasadnione przypuszczenie, że podczas planowanej operacji balon może zboczyć w przestrzeń powietrzną innego Państwa. Zgoda taka może być uzyskana dla serii lotów balonów albo dla szczególnego rodzaju powtarzających się lotów, np. balonowych lotów badawczych atmosfery."
+    },
+    {
+     "type": "ocr",
+     "text": "2.4. Balon wolny bezzałogowy powinien być operacyjnie używany zgodnie z warunkami określonymi w niniejszych przepisach oraz w przepisach Państw, przez przestrzeń których będzie przelatywał."
+    },
+    {
+     "type": "ocr",
+     "text": "2.5. Balon wolny bezzałogowy powinien być użytkowany w taki sposób, aby zderzenie balonu lub jakiejkolwiek jego części, łącznie z jego ładunkiem, z powierzchnią ziemi nie stwarzało zagrożenia dla osób lub mienia niezwiązanych z tym przedsięwzięciem."
+    },
+    {
+     "type": "ocr",
+     "text": "2.6. Loty ciężkich bałonów wolnych bezzałogowych w przestrzeni powietrznej w FIR Warszawa nad otwartym Morzem Bałtyckim mogą być wykonywane tylko za zgodą państwowego organu zarządzania ruchem lotniczym."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 45 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "CHARAKTERYSTYKA"
+    },
+    {
+     "type": "ocr",
+     "text": "LINA lub INNY RODZAJ ZAWIESZENIA"
+    },
+    {
+     "type": "ocr",
+     "text": "230 niutonów lub WIĘCEJ"
+    },
+    {
+     "type": "ocr",
+     "text": "POJEDYNCZY PAKIET | GĘSTOŚĆ ŁADUNKU PO- WIERZCH- UŻYTECZNEGO NIOWA większa niż 13 g/cm?"
+    },
+    {
+     "type": "ocr",
+     "text": "GĘSTOŚĆ PO- WIERZCH- NIOWA mniejsza niż 13 g/cm?"
+    },
+    {
+     "type": "ocr",
+     "text": "OBLICZANIE GĘSTOŚCI POWIERZCHNIOWEJ"
+    },
+    {
+     "type": "ocr",
+     "text": "MASA CAŁKOWITA"
+    },
+    {
+     "type": "ocr",
+     "text": "(jeżeli Rodzaj zawieszenia LUB Gęstość powierzchniowa LUB Masa pojedynczego pakietu nie są decydującymi czynnikami)"
+    },
+    {
+     "type": "ocr",
+     "text": "Rysunek 4.1."
+    },
+    {
+     "type": "ocr",
+     "text": "MASA ŁADUNKU UŻYTECZNEGO (kilogramy)"
+    },
+    {
+     "type": "ocr",
+     "text": "Klasyfikacja balonów wolnych bezzałogowych"
+    },
+    {
+     "type": "ocr",
+     "text": "6 lub więcej"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 46 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "3. Ograniczenia operacyjne i wymagania dotyczące wyposażenia"
+    },
+    {
+     "type": "ocr",
+     "text": "3.1. Ciężki balon wolny bezzałogowy nie może być eksploatowany bez upoważnienia właściwych organów służb ruchu lotniczego w przestrzeni powietrznej poniżej barometrycznej wysokości bezwzględnej 18 000 m (60 000 ft), na której:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) występują chmury lub zjawiska o pokryciu powyżej 4/8 ograniczające widzialność; lub"
+    },
+    {
+     "type": "ocr",
+     "text": "b) widzialność pozioma wynosi mniej niż 8 km."
+    },
+    {
+     "type": "ocr",
+     "text": "3.2. Ciężki lub średni bałon nie może być wypuszczony w sposób, który mógłby spowodować, że lot będzie się odbywał na wysokości poniżej 300 m (1000 ft) nad gęsto zaludnionymi obszarami miast i osiedli lub skupiskami ludzi, znajdującymi się na otwartej przestrzeni."
+    },
+    {
+     "type": "ocr",
+     "text": "3.3. Ciężki balon wolny bezzałogowy może być użytkowany tylko pod warunkiem, że:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) jest wyposażony przynajmniej w dwa urządzenia lub systemy automatyczne lub zdalnie sterowane, pozwalające na pozbycie się ładunku, pracujące niezależnie od siebie;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) dla balonów polietylenowych o ciśnieniu zerowym, do zakończenia lotu powłoki balonowej, mogą być zastosowane przynajmniej dwie metody, systemy, urządzenia lub ich kombinacja działające niezależnie od siebie."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Balony nadciśnieniowe nie wymagają tych urządzeń, ponieważ unoszą się szybko w powietrze po rozładowaniu ładunku i pękają samorzutnie, bez potrzeby przebijania powłoki balonowej. W tym kontekście balon nadciśnieniowy stanowi nierozciągliwa powłoka, zdolna do wytrzymania zmian ciśnienia, wyższego wewnątrz niż zewnątrz. Jest on napełniony gazem w taki sposób, że istniejące mniejsze ciśnienie gazu w nocy nadal w pełni rozciąga powłokę. Taki balon nadcisnieniowy będzie utrzymywał zasadniczo stały poziom aż do chwili ujścia z niego zbyt dużej ilości gazu;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) powłoka balonowa została wyposażona albo w urządzenie, albo w materiał pozwalający na odbijanie fal radarowych, co daje echo dla radaru naziemnego pracującego w zakresie częstotliwości od 200 MHz do 2700 MHz i (lub) balon jest wyposażony w inne urządzenia, które pozwolą na stałe śledzenie przez użytkownika lotu balonu po trasie, poza zasięgiem radaru naziemnego."
+    },
+    {
+     "type": "ocr",
+     "text": "3.4. Ciężki balon wolny bezzałogowy nie powinien być użytkowany w przestrzeni powietrznej, w której pracuje naziemne urządzenie SSR, jeżeli nie jest on wyposażony w transponder wtórnego radaru dozorowania z możliwością podawania wysokości, który działa w"
+    },
+    {
+     "type": "ocr",
+     "text": "sposób ciągły na określonym kodzie lub którego włączenie w przypadkach potrzeby może być dokonane przez stację kierującą operacją balonu."
+    },
+    {
+     "type": "ocr",
+     "text": "3.5. Balon wolny bezzałogowy, który jest zaopatrzony w antenę zwisającą, która wymaga siły większej niż 230 niutonów do zerwania jej w dowolnym punkcie, nie powinien być eksploatowany, jeżeli antena ta nie zostanie zaopatrzona w proporce łub wstęgi rozmieszczone w odstępach nie większych niż 15 m."
+    },
+    {
+     "type": "ocr",
+     "text": "3.6. Ciężki balon wolny bezzałogowy nie powinien być eksploatowany poniżej barometrycznej wysokości bezwzględnej 18 000 m (60 000 ft) między zachodem a wschodem słońca lub w takim innym okresie między zachodem a wschodem słońca (skorygowanym ze względu na wysokość lotu), jaki może być ustalony przez właściwy organ służb ruchu lotniczego, jeżeli balon i jego urządzenia oraz ładunek użyteczny nie zostały oświetlone, niezależnie od tego, czy zostaną oddzielone w czasie lotu, czy też nie."
+    },
+    {
+     "type": "ocr",
+     "text": "3.7. Ciężki balon wolny bezzałogowy, który jest wyposażony w urządzenie podwieszone o długości ponad 15 m (inne niź otwarty spadochron o barwach mocno wyróżniających się), nie powinien być eksploatowany między wschodem a zachodem słońca poniżej barometrycznej wysokości bezwzględnej 18 000 m (60 000 fi), jeżeli urządzenie podwieszone nie jest zaopatrzone we wstęgi kolorowe o dużej wyróżnialności lub w kolorowe"
+    },
+    {
+     "type": "ocr",
+     "text": "proporce."
+    },
+    {
+     "type": "ocr",
+     "text": "4. Przerwanie lotu"
+    },
+    {
+     "type": "ocr",
+     "text": "Użytkownik ciężkiego balonu wolnego bezzałogowego powinien uruchomić odpowiednie urządzenia kończące lot, wymienione w ust. 3.3 lit. a) i b) powyżej:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) gdy okaże się, że warunki pogody są gorsze od przewidywanych dla użytkowania tego balonu;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) jeżeli nieprawidłowość działania lub jakiś inny powód czyni dalsze użytkowanie niebezpieczne dla ruchu lotniczego lub dla osób lub mienia na powierzchni ziemi; lub"
+    },
+    {
+     "type": "ocr",
+     "text": "c) przed wlotem bez upoważnienia w przestrzeń powietrzną nad terytorium innego Państwa."
+    },
+    {
+     "type": "ocr",
+     "text": "5. Zawiadomienie o locie"
+    },
+    {
+     "type": "ocr",
+     "text": "5.1. Zawiadomienie przed lotem"
+    },
+    {
+     "type": "ocr",
+     "text": "5.1.1. — Zawiadomienie o zamierzonym locie balonu wolnego bezzałogowego kategorii średniej lub ciężkiej w FIR Warszawa powinno być przekazane przez użyt-"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 47 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "kownika do właściwego organu służb ruchu lotniczego nie później niż 7 dni przed datą zamierzonego lotu."
+    },
+    {
+     "type": "ocr",
+     "text": "5.1.2. Zawiadomienie o zamierzonym locie powinno zawierać następujące posiadane informacje:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) oznaczenie lotu balonu lub nazwę kodową przedsięwzięcia;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) klasyfikację balonu i opis;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) kod radaru wtórnego lub częstotliwość radiolatarni bezkierunkowej, w zależności co jest stosowane;"
+    },
+    {
+     "type": "ocr",
+     "text": "d) nazwe uzytkownika i numer telefonu;"
+    },
+    {
+     "type": "ocr",
+     "text": "e) miejsce wypuszczenia;"
+    },
+    {
+     "type": "ocr",
+     "text": "f) przewidywany czas wypuszczenia (lub czas rozpoczęcia i zakończenia serii wypuszczeń);"
+    },
+    {
+     "type": "ocr",
+     "text": "g) liczbę bałonów, które mają być wypuszczone, i planowany odstęp czasu między poszczególnymi wypuszczeniami (w przypadku serii wypuszczeń);"
+    },
+    {
+     "type": "ocr",
+     "text": "h) przewidywany kierunek wznoszenia się balonu;"
+    },
+    {
+     "type": "ocr",
+     "text": "i) poziom(y) przelotu (wysokość barometryczna);"
+    },
+    {
+     "type": "ocr",
+     "text": "j) oceniany upływ czasu od wypuszczenia do przekroczenia barometrycznej wysokości bezwzględnej 18 000 m (60 000 ft) lub osiągnięcia poziomu przełotu, jeżeli znajduje się on na barometrycznej wysokości bezwzględnej 18 000 m (60 000 ft) lub poniżej tej wysokości, łącznie z podaniem ocenianego położenia."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Jeżeli przedsięwzięcie dotyczy wypuszczania przez pewien okres ciągły, to podany czas jest spodziewanym czasem, w którym pierwszy i ostatni balon z serii osiągnie właściwy poziom (np. 122136Z-130330Z);"
+    },
+    {
+     "type": "ocr",
+     "text": "k) przewidywana data i czas zakończenia lotu i planowane miejsce upadku; w przypadku balonów wykonujących loty długotrwałe, kiedy data i czas zakończenia lotu oraz miejsce upadku nie mogą być podane dokładnie, wówczas należy użyć określenia „lot długotrwały”."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga.— Jeżeli przewidywane jest więcej niż jedno miejsce upadku, należy podać każde z tych miejsc wraz z odpowiednim przewidywanym czasem upadku. Jeżeli ma być to seria kolejnych upadków, należy podać czas pierwszego i ostatniego upadku z serii (np. 0703302-072300Z)."
+    },
+    {
+     "type": "ocr",
+     "text": "5.1.3. Wszelkie zmiany informacji przedstartowej w sprawie wypuszczania balonów, wydanej zgodnie z ust. 5.1.2., powinny być przekazane właściwemu organowi służb ruchu lotniczego nie później niż 6 godzin przed przewidywanym czasem ich startu albo, w przypadku przeprowadzanych badań zakłóceń słonecznych lub kosmicznych wymagających szybkiego działania, nie później niż 30 minut przed przewidywanym czasem rozpoczęcia lotu."
+    },
+    {
+     "type": "ocr",
+     "text": "5.1.4. Użytkownik może rozpocząć wypuszczanie balonów wolnych bezzałogowych tylko po otrzymaniu na to zezwolenia organu służb ruchu lotniczego i zgodnie z uzgodnionymi warunkami."
+    },
+    {
+     "type": "ocr",
+     "text": "5.2. Zawiadamianie o wypuszczaniu"
+    },
+    {
+     "type": "ocr",
+     "text": "5.2.1. Natychmiast po wypuszczeniu balonu bezzałogowego użytkownik powinien zawiadomić właściwy organ służb ruchu lotniczego, podając:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) znaki identyfikacyjne balonu;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) miejsce wypuszczenia;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) rzeczywisty czas wypuszczania;"
+    },
+    {
+     "type": "ocr",
+     "text": "d) przewidywany czas osiągnięcia barometrycznej wysokości bezwzględnej 18 000 m (60 000 ft) lub przewidywany czas osiągnięcia poziomu przelotu, jeżeli jest on na barometrycznej wysokości bezwzględnej 18 000 m (60 000 ft) lub poniżej tego poziomu, i przewidywaną pozycję; i"
+    },
+    {
+     "type": "ocr",
+     "text": "e) wszelkie zmiany w przekazanym uprzednio zawiadomieniu, zgodnie z ust. 5.1.2. lit. g) i h)."
+    },
+    {
+     "type": "ocr",
+     "text": "5.3. Zawiadomienie o odwołaniu"
+    },
+    {
+     "type": "ocr",
+     "text": "Użytkownik powinien natychmiast zawiadomić właściwy organ służb ruchu lotniczego o odwołaniu zamierzonych lotów balonów wolnych bezzałogowych, zgłoszonych zgodnie z ust. 5.1."
+    },
+    {
+     "type": "ocr",
+     "text": "6. Rejestracja pozycji i meldunki"
+    },
+    {
+     "type": "ocr",
+     "text": "6.1. Użytkownik ciężkiego balonu wolnego bezzałogowego, wykonującego przelot na barometrycznej wysokości bezwzgłędnej 18 000 m (60 000 ft) lub poniżej tej wysokości, powinien śledzić ścieżkę lotu balonu i przekazywać meldunki o pozycji balonu na żądanie właściwego organu służb ruchu lotniczego. Jeżeli organ ten nie zażąda meldunków o pozycji bałonu częściej, to"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 48 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Infrastruktury kieruje działem administracji rządowej — transport, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 29 marca 2002 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. Nr 32, poz. 302 oraz z 2003 r. Nr 19, poz. 165, Nr 141, poz. 1359 i Nr 232, poz. 2322)."
+ }
+}

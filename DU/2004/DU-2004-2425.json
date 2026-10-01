@@ -1,0 +1,578 @@
+{
+ "eli": "DU/2004/2425",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 25 października 2004 r. w sprawie wzoru karty zapytania oraz sposobu jej wypełnienia",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/2425/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 października 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wzoru karty zapytania oraz sposobu jej wypełnienia"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 28 ust. 5 ustawy z dnia 6 lipca 2001 r. o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych oraz o Krajowym Systemie Informatycznym (Dz. U. Nr 110, poz. 1189, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Karta zapytania ma formę elektroniczną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Wzór strukturalny i graficzny karty zapytania oraz sposób jej wypełnienia określa załącznik do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.[^3]",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych i Administracji: R. Kalisz"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 października 2004 r. (poz. 2425)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR STRUKTURALNY ELEKTRONICZNEJ KARTY ZAPYTANIA"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "| PRZEDMIOT | PODMIOT | RACHUNEK BANKOWY | RACHUNEK PAPIERÓW WARTOŚCIOWYCH | PRZESTEPSTWO ) ) > <!ELEMENT IDENTYFIKATOR KCIK (#PCDATA) > <!-- OSOBA --> <!-- realizacja warunku sprawdzenie po: 1 - Danych osobowych 2 - Danych rysopisowych 3 - Przynależności do grupy przestępczej —-> <!ELEMENT OSOBA ( DANE OSOBOWE | DANE RYSOPISOWE | GRUPA _PRZESTEPCZA ) > <!ELEMENT DANE _ OSOBOWE ( ( NUMER PESEL | ( UMER_PESEL? , NAZWISKO , IMIE+ , IMIE _POPRZEDNIE* , NAZWISKO POPRZEDNIE * , IMIE OJCA , IMIE MATKI? , NAZWISKO RODOWE MATKI? , DATA URODZENIA , IEJSCE URODZENIA? , PLEC , PSEUDONIM* , OBYWATELSTWO* , NUMER NIP? NUMER_REGON?"
+    },
+    {
+     "type": "ocr",
+     "text": ") , ADRES ZAMELDOWANIA? , ADRES POBYTU? , DOKUMENT TOZSAMOSCI? )> 5 <!ELEMENT NUMER _ PESEL (#PCDATA) > <!ELEMENT NAZWISKO (#PCDATA) > <!ELEMENT IMIE (#PCDATA) > <!ELEMENT IMIE POPRZEDNIE (#PCDATA) > <!ATTLIST NAZWISKO POPRZEDNIE rodzaj ( FALSZYWE | DODATKOWE | RODOWE | UZYWANE POPRZEDNIO ) REQUTRED > <!ELEMENT NAZWISKO POPRZEDNIE (#PCDATA) > <!ELEMENT IMIE OJCA (#PCDATA) > <!ELEMENT IMIE MATKI (#PCDATA) > <!ELEMENT NAZWISKO RODOWE MATKI (FPCDATA) > <!ELEMENT DATA URODZENIA (DATA) > <!ATTLIST DATA format (RRRR-MM-DD | RRRR) #REQUIRED > <!ELEMENT DATA (#PCDATA) > <!ELEMENT MIEJSCE URODZENIA (#PCDATA) > <!-- pole Płeć zawiera 2 elementy: 1 - KOBIETA"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "2 — MEZCZYZNA"
+    },
+    {
+     "type": "ocr",
+     "text": "-->"
+    },
+    {
+     "type": "ocr",
+     "text": "<!ATTLIST PLEC rodzaj ( K | ) #REQUIRED >"
+    },
+    {
+     "type": "ocr",
+     "text": "<!ELEMENT PLEC EMPTY> <!ELEMENT PSEUDONIM (#PCDATA) > <!-- pole Obywatelstwo jest listą elementów ze słownika obywatelstw --> <!ELEMENT OBYWATELSTWO (#PCDATA) > <!ELEMENT NUMER NIP (#PCDATA) > <!ELEMENT NUMER REGON (#PCDATA) > <!ELEMENT ADRES ZAMELDOWANIA (ADRES) > <!ELEMENT ADRES ( KRAJ? , WOJEWODZTWO? , POWIAT? , GMINA? , MIEJSCOWOSC? , ULICA? , NUMER DOMU? , NUMER MIESZKANIA? , KOD POCZTOWY? , POCZTA? ) > <!-- pole Kraj jest listą elementów ze słownika krajów -—-> <!ELEMENT KRAJ (#PCDATA) > <!-- pole Województwo jest listą elementów ze słownika województw --> <!ELEMENT WOJEWODZTWO (#PCDATA) > <!-- pole Powiat jest listą elementów ze słownika powiatów --> <!ELEMENT POWIAT (#PCDATA) > <!-- pole Gmina jest listą elementów ze słownika gmin --> <!ELEMENT GMINA (#PCDATA) > <!-- pole Miejscowość jest listą elementów ze słownika miejscowości --> <!ELEMENT MIEJSCOWOŚĆ (#PCDATA) > <!ELEMENT ULICA (#PCDATA) > <!ELEMENT NUMER DOMU (#PCDATA) > <!ELEMENT NUMER MIESZKANIA (#PCDATA) > <!ELEMENT KOD POCZTOWY (#PCDATA) > <!ELEMENT POCZTA (#PCDATA) > <!ELEMENT ADRES POBYTU (ADRES) > <!ELEMENT DOKUMENT TOZSAMOSCI ( RODZAJ DOKUMENTU? , ORGAN _WYSTAWIAJACY? , SERIA I NUMER? , DATA WYSTAWIENIA? )> <!-- pole Rodzaj dokumentu jest listą elementów ze słownika rodzajów dokumentów -- > <!ELEMENT RODZAJ DOKUMENTU (#PCDATA) > <!ELEMENT ORGAN WYSTAWIAJACY (#PCDATA) > <!ELEMENT SERIA _I_ NUMER (#PCDATA) > <!ELEMENT DATA WYSTAWIENIA (DATA) > <!ELEMENT DANE RYSOPISOWE ( RYSOPIS* , ZNAKI SZCZEGOLNE * )> 7 <!-- pole Rysopis jest listą elementów ze słownika cech rysopisowych --> <!ELEMENT RYSOPIS (#PCDATA) > <!-- pole Znaki szczególne jest listą elementów ze słownika znaków szczególnych -—- > <!ELEMENT ZNAKI SZCZEGÓLNE ( MIEJSCE ZNAKU, ZNAK, OPIS _ZNAKU?"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<!ELEMENT MIEJSCE ZNAKU (#PCDATA) > T <!ELEMENT ZNAK (#PCDATA) > <!-- pole Treść tatuażu jest opisem słownym symbolu lub znaku --> <!ELEMENT OPIS ZNAKU (#PCDATA) > <!ELEMENT GRUPA_PRZESTEPCZA (NAZWA_GRUPY)> <!ELEMENT NAZWA GRUPY (#PCDATA) > <!-- PRZESTEPSTWO -->"
+    },
+    {
+     "type": "ocr",
+     "text": "P"
+    },
+    {
+     "type": "ocr",
+     "text": "RZESTEPSTWO"
+    },
+    {
+     "type": "ocr",
+     "text": "<!ELE"
+    },
+    {
+     "type": "ocr",
+     "text": "| ( ZNAK SPRAWY? , NAZWA ORGANU? , KATEGORIA , TYP , KWALIFIKACJA_PRAWNA* , W_ZWIAZKU_2* , DATA_OD , DATA _DO? , MIEJSCE_PRZESTEPSTWA? )"
+    },
+    {
+     "type": "ocr",
+     "text": "<!ELEMENT NAZWA ORGANU (#PCDATA) > <!-- pole Kategoria jest listą elementów ze słownika kategorii przestępstw--> <!ELEMENT KATEGORIA (#PCDATA) > <!-- pole Typ jest listą elementów ze słownika typów przestępstw--> <!ELEMENT TYP (#PCDATA) >"
+    },
+    {
+     "type": "ocr",
+     "text": "dO"
+    },
+    {
+     "type": "ocr",
+     "text": "ARKA _ POJAZDU? YP_ POJAZDU? , RODZAJ POJAZDU?"
+    },
+    {
+     "type": "ocr",
+     "text": "<!-- pole Kwalifikacja prawna czynu jest listą elementów ze słownika kwalifikacji prawnych --> <!ELEMENT KWALIFIKACJA PRAWNA (#PCDATA) > <!-- pole W związku z jest polem tekstowym --> <!ELEMENT W ZWIAZKU Z (#PCDATA) > <!ELEMENT DATA OD (DATA) > <!ELEMENT DATA _DO (DATA) > <!ELEMENT MIEJSCE PRZESTEPSTWA ( KRAJ? , WOJEWODZTWO? , POWIAT? , GMINA? , MIEJSCOWOSC? , ULICA? , NUMER_DOMU? , NUMER MIESZKANIA? , RODZAJ MIEJSCA? ) > <!ELEMENT RODZAJ MIEJSCA (#PCDATA) > <!-- PRZEDMIOT --> <!ELEMENT PRZEDMIOT ( POJAZD | DOKUMENT | RZECZ ) > <!ELEMENT POJAZD ( ( NUMER REJESTRACYJNY , NUMER _ SILNIKA OZNAKOWANIA? , NUMER NADWOZIA RAMY VIN? M"
+    },
+    {
+     "type": "ocr",
+     "text": "T"
+    },
+    {
+     "type": "ocr",
+     "text": "| ( NUMER REJESTRACYJNY? , NUMER_SILNIKA OZNAKOWANIA , NUMER NADWOZIA RAMY VIN? , MARKA POJAZDU? , TYP POJAZDU? , RODZAJ POJAZDU?"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "| ( NUMER REJESTRACYJNY? , NUMER SILNIKA OZNAKOWANIA? , NUMER NADWOZIA RAMY VIN , MARKA POJAZDU? , TYP POJAZDU? , RODZAJ POJAZDU? ) ) > <!ELEMENT NUMER REJESTRACYJNY (#PCDATA) > <!ELEMENT NUMER _SILNIKA OZNAKOWANIA (#PCDATA) > <!ELEMENT NUMER NADWOZIA RAMY VIN (#PCDATA) > <!-- pole Marka jest listą elementów ze słownika marek pojazdów -—-> <!ELEMENT MARKA POJAZDU (#PCDATA) > <!ELEMENT TYP POJAZDU (#PCDATA) > <!-- pole Rodzaj pojazdu jest listą elementów ze słownika rodzajów pojazdów --> <!ELEMENT RODZAJ POJAZDU (#PCDATA) > <!ELEMENT DOKUMENT ( RODZAJ DOKUMENTU , SERIA I NUMER )> a <!ELEMENT RZECZ ( ( NUMER FABRYCZNY , NUMER _OZNAKOWANIA? , MARKA RZECZY , TYP RZECZY? , RODZAJ RZECZY ) | ( NUMER FABRYCZNY? , NUMER OZNAKOWANIA , MARKA RZECZY , TYP RZECZY? , RODZAJ RZECZY ) ) > <!ELEMENT NUMER FABRYCZNY (#PCDATA) > <!ELEMENT NUMER_OZNAKOWANIA (#PCDATA) > <!ELEMENT MARKA RZECZY (#PCDATA) > <!ELEMENT TYP RZECZY (#PCDATA) > <!-- pole Rodzaj rzeczy jest listą elementów ze słownika rodzajów rzeczy --> <!ELEMENT RODZAJ RZECZY (#PCDATA) > <!-- RACHUNEK BANKOWY--> <!ELEMENT RACHUNEK BANKOWY ("
+    },
+    {
+     "type": "ocr",
+     "text": "H U FR_RACHUNKU , NAZWA BANKU? , TYP RACHUNKU? > <!ELEMENT NUMER RACHUNKU (#PCDATA) > <! ELEMI s T"
+    },
+    {
+     "type": "ocr",
+     "text": "ENT NAZWA BANKU (#PCDATA) > <!ELEMENT TYP RACHUNKU (#PCDATA) > <!-- RACHUNEK PAPIERÓW WARTOSCIOWYCH.--> <!ELEMENT RACHUNEK PAPIERÓW WARTOSCIOWYCH ( NUMER RACHUNKU , NAZWA BIURA MAKLERSKIEGO , TYP RACHUNKU? ) > <!ELEMENT NAZWA BIURA MAKLERSKIEGO (#PCDATA) > <!-- PODMIOT --> <!-- realizacja warunku *!| oraz *| --> <!ELEMENT PODMIOT ( NAZWA _ PODMIOTU? ER_KRS? , NUMER_EDG? , PROWADZACY? „ ( ( NUMER_REGON , NUMER_NIP?"
+    },
+    {
+     "type": "ocr",
+     "text": "~"
+    },
+    {
+     "type": "ocr",
+     "text": "G"
+    },
+    {
+     "type": "ocr",
+     "text": "Fil"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR GRAFICZNY ELEKTRONICZNEJ KARTY ZAPYTANIA"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 7 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 1. Sprawdzenie ^ — lista zawiera więcej niż jeden element. * — pole obowiązkowe do wypełnienia. ** — po wypełnieniu jednego z tych pól nie trzeba wypełniać pola Rodzaj sprawdzenia. Klawisz „Dalej>” zostanie zastąpiony przez „Zakończ”, a po naciśnięciu klawisza zostaje wyświetlone okno kończące zapytanie (Rys. 8. Zakończenie sprawdzenia)."
+    },
+    {
+     "type": "text",
+     "text": "ELEKTRONICZNA KARTA ZAPYTANIA DO — Wybór z listy podmiotów zobowiązanych do udzielenia informacji zgodnie z art. 22 i art. 28 ust. 1 i 2 ustawy z dnia 6 lipca 2001 r. o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych oraz o Krajowym Systemie Informatycznym (Dz. U. Nr 110, poz.1189 i Nr 154, poz. 1800, z 2002 r. Nr 81, poz. 731 i Nr 89, poz. 804, z 2003 r. Nr 124, poz. 1153, Nr 128, poz. 1175, Nr 137, poz. 1302, Nr 142, poz. 1380 oraz z 2004 r. Nr 179, poz. 1842), zwanej dalej „ustawą”."
+    },
+    {
+     "type": "text",
+     "text": "Dodatkowo wnioskuję o sprawdzenie w — wybór z listy podmiotów zobowiązanych do udzielenia informacji zgodnie z art. 20 ustawy."
+    },
+    {
+     "type": "text",
+     "text": "(PLUS) — naciśnięcie przycisku powoduje wyświetlenie okna (Rys. 2. Nowy podmiot zobowiązany), poprzez które można wprowadzić nowy podmiot zobowiązany."
+    },
+    {
+     "type": "text",
+     "text": "(MINUS) — naciśnięcie przycisku powoduje usunięcie podświetlonych podmiotów z listy."
+    },
+    {
+     "type": "text",
+     "text": "Podmiot sprawdzający"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa, siedziba organu/jednostki organizacyjnej — pole wypełniane jest przez operatora w trakcie dokonywania sprawdzenia nazwą podmiotu sprawdzającego, w imieniu którego operator jest upoważniony do dokonywania sprawdzenia. Znak sprawy — w polu wpisuje się unikalny, nadany przez podmiot uprawniony, podmiot zobowiązany lub Szefa Centrum, znak sprawy umożliwiający identyfikację wszelkich informacji związanych ze sprawdzeniem. Sporządził — numer PESEL — numer PESEL osoby sporządzającej dokument zapytania. Wprowadził — numer PESEL — numer PESEL osoby wprowadzającej dane. Telefon kontaktowy — numer telefonu osoby wprowadzającej dane."
+    },
+    {
+     "type": "text",
+     "text": "Rejestracja Identyfikator KCIK — unikalny identyfikator nadawany przez system centralny służący do identyfikacji informacji. Numer rejestracji KCIK — unikalny numer nadawany przez system lokalny służący do identyfikacji informacji. Rodzaj sprawdzenia — wybór z listy: OSOBY, PRZESTĘPSTWA, PRZEDMIOTY, RACHUNKI BANKOWE, RACHUNKI PAPIERÓW WARTOŚCIOWYCH, PODMIOTY. Po wybraniu opcji Rodzaj sprawdzenia następnym oknem jest: Dla OSOBY okno Rys. 3. Sprawdzenie osoby: sprawdzenie po Dla PRZEDMIOTY okno Rys. 15. Sprawdzenie: przedmiot Dla PODMIOTY okno Rys. 22. Sprawdzenie: podmiot Dla RACHUNKI BANKOWE okno Rys. 24. Sprawdzenie: rachunek bankowy Dla RACHUNKI PAPIERÓW WARTOŚCIOWYCH okno Rys. 26. Sprawdzenie: rachunek papierów wartościowych Dla PRZESTĘPSTWA okno Rys. 28. Sprawdzenie: przestępstwo"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 8 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 2. Nowy podmiot zobowiązany Podmiot zobowiązany — listy podmiotów zobowiązanych do udzielenia informacji zgodnie z art. 20 ustawy."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 9 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 3. Sprawdzenie osoby: sprawdzenie po"
+    },
+    {
+     "type": "text",
+     "text": "Sprawdzenie po Danych personalnych — zaznaczenie opcji pozwala na sprawdzenie osoby według danych personalnych. Rysopisie — zaznaczenie opcji umożliwia sprawdzenie osoby po cechach rysopisowych i znakach szczególnych. Przynależności do grupy przestępczej — zaznaczenie opcji umożliwia sprawdzenie osoby po przynależności do grupy przestępczej. Po wybraniu opcji Sprawdzenie po następnym oknem jest: Dla Danych personalnych okno Rys. 4. Sprawdzenie osób: dane personalne. Dla Rysopisie okno Rys. 9. Sprawdzenie osoby: rysopis. Dla Przynależności do grupy przestępczej okno Rys. 13. Sprawdzenie osoby: grupa przestępcza."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 4. Sprawdzenie osób: dane personalne"
+    },
+    {
+     "type": "text",
+     "text": "** — po wypełnieniu tego pola nie trzeba wypełniać pól oznaczonych * . * — pole obowiązkowe do wypełnienia. ^ — pole lub lista zawiera więcej niż jeden element."
+    },
+    {
+     "type": "text",
+     "text": "Numer PESEL — wpisuje się numer Powszechnego Elektronicznego Systemu Ewidencji Ludności. Nazwisko Imię/Imiona Imiona poprzednie Nazwiska poprzednie — w tym fałszywe, dodatkowe, rodowe, używane poprzednio. Imię ojca Imię matki Nazwisko rodowe matki Data urodzenia — data urodzenia w formacie rok, miesiąc, dzień lub tylko rok (patrz wyjaśnienie do pola Tylko rok) Tylko rok — zaznaczenie opcji powoduje, że format wprowadzanej daty urodzenia ograniczony jest tylko do roku, po odznaczeniu pola można ponownie wprowadzać datę w formacie rok, miesiąc, dzień. Miejsce urodzenia Płeć — wybór z listy płci (KOBIETA, MĘŻCZYZNA). Pseudonimy Obywatelstwa — wybór z listy obywatelstw. Numer NIP — wpisuje się Numer Identyfikacji Podatkowej. Numer identyfikacyjny REGON — wpisuje się numer identyfikacji statystycznej."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 11 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 5. Sprawdzenie osoby: adres zameldowania"
+    },
+    {
+     "type": "text",
+     "text": "Kraj — wybór z listy krajów. Województwo — wybór z listy województw. Powiat — wybór z listy powiatów. Gmina — wybór z listy gmin. Miejscowość — wybór z listy miejscowości. Ulica Numer domu Numer mieszkania Kod pocztowy Poczta"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 12 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 6. Sprawdzenie osoby: adres pobytu"
+    },
+    {
+     "type": "text",
+     "text": "Kraj — wybór z listy krajów. Województwo — wybór z listy województw. Powiat — wybór z listy powiatów. Gmina — wybór z listy gmin. Miejscowość — wybór z listy miejscowości. Ulica Numer domu Numer mieszkania Kod pocztowy Poczta"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 13 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 7. Sprawdzenie osoby: dokument tożsamosci"
+    },
+    {
+     "type": "text",
+     "text": "Dokument tożsamości Rodzaj dokumentu — wybór z listy dokumentów. Organ wystawiający — nazwa organu wystawiającego dokument tożsamości. Seria i numer Data wystawienia — data wystawienia dokumentu w formacie rok, miesiąc, dzień."
+    },
+    {
+     "type": "text",
+     "text": "Rys. 8. Zakończenie sprawdzenia"
+    },
+    {
+     "type": "text",
+     "text": "Nadano Numer rejestracji KCIK zapytanie — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK — po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 14 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 9. Sprawdzenie osoby: rysopis"
+    },
+    {
+     "type": "text",
+     "text": "^ — lista zawiera więcej niż jeden element."
+    },
+    {
+     "type": "text",
+     "text": "Rysopis"
+    },
+    {
+     "type": "text",
+     "text": "(PLUS) — naciśnięcie przycisku powoduje wyświetlenie okna (Rys. 11. Nowa cecha rysopisowa), poprzez które można wprowadzić cechę rysopisową do rysopisu."
+    },
+    {
+     "type": "text",
+     "text": "(MINUS) — naciśnięcie przycisku powoduje usunięcie podświetlonych elementów rysopisu z listy."
+    },
+    {
+     "type": "text",
+     "text": "Znaki szczególne"
+    },
+    {
+     "type": "text",
+     "text": "(PLUS) — naciśnięcie przycisku powoduje wyświetlenie okna (Rys. 12. Nowy znak szczególny), poprzez które można wprowadzić nowy znak szczególny. (MINUS) — naciśnięcie przycisku powoduje usunięcie podświetlonych elementów znaków szczególnych z listy."
+    },
+    {
+     "type": "text",
+     "text": "Rys. 10. Zakończenie sprawdzenia"
+    },
+    {
+     "type": "text",
+     "text": "Nadano Numer rejestracji KCIK zapytanie — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK — po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    },
+    {
+     "type": "text",
+     "text": "Rys. 11. Nowa cecha rysopisowa"
+    },
+    {
+     "type": "text",
+     "text": "Cecha rysopisowa — wybór z listy cech. Nazwa cechy — wybór z listy nazw wybranej cechy."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 15 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 12. Nowy znak szczególny"
+    },
+    {
+     "type": "text",
+     "text": "# — pole pojawi się wtedy, gdy w polu Rodzaj znaku zostanie wybrany TATUAŻ."
+    },
+    {
+     "type": "text",
+     "text": "Miejsce występowania znaku — wybór z listy miejsc występowania znaku. Rodzaj znaku — wybór z listy rodzajów znaków. Treść tatuażu — opis słowny symbolu lub znaku."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 16 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 13. Sprawdzenie osoby: grupa przestępcza"
+    },
+    {
+     "type": "text",
+     "text": "Przynależność do grupy przestępczej"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa grupy — wpisuje się nazwę grupy przestępczej, do której należy osoba sprawdzana."
+    },
+    {
+     "type": "text",
+     "text": "Rys. 14. Zakończenie sprawdzenia"
+    },
+    {
+     "type": "text",
+     "text": "Nadano Numer rejestracji KCIK zapytanie — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK — po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 17 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 15. Sprawdzenie: przedmiot"
+    },
+    {
+     "type": "text",
+     "text": "Po wybraniu opcji Sprawdzenie następnym oknem jest: Dla Pojazdu okno Rys. 16. Sprawdzenie przedmiotu: pojazd. Dla Dokumentu okno Rys. 18. Sprawdzenie przedmiotu: dokument. Dla Rzeczy okno Rys. 20. Sprawdzenie przedmiotu: rzecz."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 18 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 16. Sprawdzenie przedmiotu: pojazd"
+    },
+    {
+     "type": "text",
+     "text": "* | — jedno z tych pól musi zostać wypełnione."
+    },
+    {
+     "type": "text",
+     "text": "Numer rejestracyjny — wprowadzany wyłącznie dużymi literami i cyframi bez znaków odstępu. Pozostałe znaki są blokowane przy wprowadzaniu do bazy KCIK (myślniki, spacje, inne znaki interpunkcyjne). Tablice rejestracyjne ze znakami pisanymi cyrylicą należy wprowadzać fonetycznie przy użyciu alfabetu łacińskiego. Numer silnika — numer silnika rejestrowanego pojazdu. Numer nadwozia/podwozia/ramy/vin — do tego pola może być wpisywany numer VIN lub numer mający identyfikować karoserię, podwozie, nadwozie lub ramę pojazdu. Marka — wybór z listy marek pojazdów. Typ — typ pojazdu. Rodzaj pojazdu — wybór z listy pojazdów."
+    },
+    {
+     "type": "text",
+     "text": "Rys. 17. Zakończenie sprawdzenia"
+    },
+    {
+     "type": "text",
+     "text": "Nadano Numer rejestracji KCIK zapytanie — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK — po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 19 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 18. Sprawdzenie przedmiotu: dokument"
+    },
+    {
+     "type": "text",
+     "text": "* — pole obowiązkowe do wypełnienia."
+    },
+    {
+     "type": "text",
+     "text": "Rodzaj dokumentu — wybór z listy rodzajów dokumentów."
+    },
+    {
+     "type": "text",
+     "text": "Seria i numer dokumentu — wprowadzane wyłącznie dużymi literami i cyframi bez znaków odstępu. Pozostałe znaki są blokowane przy wprowadzaniu do bazy KCIK (myślniki, spacje, inne znaki interpunkcyjne)."
+    },
+    {
+     "type": "text",
+     "text": "Rys. 19. Zakończenie sprawdzenia"
+    },
+    {
+     "type": "text",
+     "text": "Nadano Numer rejestracji KCIK zapytanie — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK — po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 20 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 20. Sprawdzenie przedmiotu: rzecz * | — jedno z tych pól musi zostać wypełnione. * — pole obowiązkowe do wypełnienia."
+    },
+    {
+     "type": "text",
+     "text": "Numer fabryczny — numer fabryczny przedmiotu. Numer oznakowania — numer oznakowania przedmiotu. Marka — marka przedmiotu. Typ — typ przedmiotu. Rodzaj rzeczy — wybór z listy rzeczy."
+    },
+    {
+     "type": "text",
+     "text": "Rys. 21. Zakończenie sprawdzenia"
+    },
+    {
+     "type": "text",
+     "text": "Nadano Numer rejestracji KCIK zapytanie — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK — po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 22 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 22. Sprawdzenie: podmiot"
+    },
+    {
+     "type": "text",
+     "text": "* — pole obowiązkowe do wypełnienia. * | — jedno z tych pól musi zostać wypełnione."
+    },
+    {
+     "type": "text",
+     "text": "Podmiot Nazwa — nazwa podmiotu. Numer z Krajowego Rejestru Sądowego (KRS) Numer z ewidencji działalności gospodarczej Prowadzonej przez — wpisuje się organ prowadzący ewidencję działalności gospodarczej. Numer identyfikacyjny REGON — wpisuje się numer identyfikacji statystycznej. Numer NIP — wpisuje się Numer Identyfikacji Podatkowej."
+    },
+    {
+     "type": "text",
+     "text": "Właściciel Nazwisko — nazwisko właściciela. Imię — imię właściciela. Numer PESEL — wpisuje się numer Powszechnego Elektronicznego Systemu Ewidencji Ludności."
+    },
+    {
+     "type": "text",
+     "text": "Adres Kraj — wybór z listy krajów. Województwo — wybór z listy województw. Powiat — wybór z listy powiatów. Gmina — wybór z listy gmin. Miejscowość — wybór z listy miejscowości. Ulica Numer domu Numer mieszkania Kod pocztowy Poczta Rys. 23. Zakończenie sprawdzenia"
+    },
+    {
+     "type": "text",
+     "text": "Nadano Numer rejestracji KCIK zapytanie — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK — po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 23 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 24. Sprawdzenie: rachunek bankowy"
+    },
+    {
+     "type": "text",
+     "text": "* — pole obowiązkowe do wypełnienia."
+    },
+    {
+     "type": "text",
+     "text": "Numer rachunku Nazwa banku — nazwa banku, w którym znajduje się rachunek. Typ rachunku — wpisuje się informację dotyczącą typu rachunku."
+    },
+    {
+     "type": "text",
+     "text": "Rys. 25. Zakończenie sprawdzenia"
+    },
+    {
+     "type": "text",
+     "text": "Nadano Numer rejestracji KCIK zapytanie — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK — po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 25 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 26. Sprawdzenie: rachunek papierów wartościowych"
+    },
+    {
+     "type": "text",
+     "text": "* — pole obowiązkowe do wypełnienia."
+    },
+    {
+     "type": "text",
+     "text": "Numer rachunku Nazwa biura maklerskiego — nazwa biura maklerskiego, w którym są złożone papiery wartościowe. Typ rachunku — wpisuje się informację dotyczącą typu rachunku."
+    },
+    {
+     "type": "text",
+     "text": "Rys. 27. Zakończenie sprawdzenia"
+    },
+    {
+     "type": "text",
+     "text": "Nadano Numer rejestracji KCIK zapytanie — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK — po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 26 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 28. Sprawdzenie: przestępstwo"
+    },
+    {
+     "type": "text",
+     "text": "* #| — po wypełnieniu tych pól nie trzeba wypełniać pól oznaczonych*. * — pole obowiązkowe do wypełnienia."
+    },
+    {
+     "type": "text",
+     "text": "Znak sprawy — w polu wpisuje się unikalny, nadany przez podmiot uprawniony lub podmiot zobowiązany, znak sprawy umożliwiający identyfikację wszelkich informacji związanych z daną rejestracją. Nazwa organu/jednostki organizacyjnej — wpisuje się nazwę jednostki organizacyjnej prowadzącej czynności lub postępowanie. Rodzaj popełnionego przestępstwa Kategoria — wybór z listy kategorii. Typ — wybór z listy typów. Kwalifikacja prawna czynu — wybór z listy. W związku z — pole tekstowe. Data od — data początku okresu czasu, dla którego wykonane będzie zapytanie w formacie rok, miesiąc, dzień. Data do — data końca okresu czasu, dla którego wykonane będzie zapytanie w formacie rok, miesiąc, dzień. Adres Kraj — wybór z listy krajów. Województwo — wybór z listy województw. Powiat — wybór z listy powiatów. Gmina — wybór z listy gmin. Miejscowość — wybór z listy miejscowości. Ulica Numer domu Numer mieszkania Rodzaj miejsca"
+    },
+    {
+     "type": "text",
+     "text": "Rys. 29. Zakończenie sprawdzenia"
+    },
+    {
+     "type": "text",
+     "text": "Nadano Numer rejestracji KCIK zapytanie — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty zapytania. OK — po naciśnięciu przycisku nastąpi przesłanie sprawdzenia do systemu centralnego."
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej — sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 11 czerwca 2004 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. Nr 134, poz. 1436).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 81, poz. 731 i Nr 89, poz. 804, z 2003 r. Nr 124, poz. 1153, Nr 128, poz. 1175, Nr 137, poz. 1302 i Nr 142, poz. 1380 oraz z 2004 r. Nr 179, poz. 1842.",
+  "3": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 3 lipca 2002 r. w sprawie wzoru karty zapytania (Dz. U. Nr 122, poz. 1047 i Nr 231, poz. 1952), które traci moc z dniem wejścia w życie niniejszego rozporządzenia."
+ }
+}

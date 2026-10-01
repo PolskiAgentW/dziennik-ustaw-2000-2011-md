@@ -1,0 +1,1118 @@
+{
+ "eli": "DU/2004/235",
+ "title": "Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 4 lutego 2004 r. w sprawie wymagań metrologicznych, którym powinny odpowiadać wagi wagonowe do ważenia w ruchu wagonów spiętych",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/235/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI, PRACY I POLITYKI SPOŁECZNEJ[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 4 lutego 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wymagań metrologicznych, którym powinny odpowiadać wagi wagonowe do ważenia w ruchu wagonów spiętych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 pkt 3 ustawy z dnia 11 maja 2001 r. — Prawo o miarach (Dz. U. Nr 63, poz. 636, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepis ogólny"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "waga — przyrząd pomiarowy wyznaczający masę składu wagonów, po uprzednim zważeniu pojedynczych wagonów spiętych w skład;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "strefa ważenia — strefę, w której znajduje się wagon podczas ważenia, obejmującą jeden lub więcej pomostów i strefę dojazdową;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "waga wielopomostowa — wagę posiadającą dwa lub więcej pomostów, na której możliwe jest ważenie wagonu całkowicie spoczywającego na pomostach wagi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "ważenie wagonu spiętego — ważenie w ruchu całego wagonu lub ważenie cząstkowe wagonu pozwalające uzyskać wskazanie lub wydruk wskazujący jego masę;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "ważenie cząstkowe — ważenie poszczególnych osi lub wózków wagonu w celu wyznaczenia masy wagonu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "ważenie składu wagonów — ważenie danej liczby wagonów spiętych i wyznaczenie sumy ich mas;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "ważenie statyczne — wyznaczanie wartości obciążenia, gdy wagon jest nieruchomy podczas ważenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "wagon kontrolny — wagon o znanej masie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "obciążenie maksymalne (Max) — maksymalną dopuszczalną wartość obciążenia całego wagonu lub jego część, która może być zważona w ruchu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "obciążenie minimalne (Min) — wartość obciążenia wagonu lub jego części, poniżej której nie powinno się ważyć w ruchu na wadze ze względu na duży błąd względny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "maksymalna masa wagonu — maksymalną dopuszczalną masę wagonu, który może być ważony w ruchu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_1/pkt_12",
+     "text": "minimalna masa wagonu — masę wagonu, poniżej której nie powinno się ważyć w ruchu na wadze ze względu na duży błąd względny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_1/pkt_13",
+     "text": "wartość działki elementarnej (d) — wyrażoną w jednostkach miary masy wartość różnicy między wartościami dwóch kolejnych wskazań;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_1/pkt_14",
+     "text": "prędkość maksymalna (V ) — prędkość wagonu, powyżej której wartość max błędu może przekroczyć wartości błędów granicznych dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_1/pkt_15",
+     "text": "prędkość minimalna (V ) — prędkość wagonu, poniżej której wartość min błędu może przekroczyć wartości błędów granicznych dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_1/pkt_16",
+     "text": "maksymalna prędkość tranzytowa — dopuszczalną prędkość wagonu, z którą może się on poruszać w strefie ważenia, bez stałej zmiany charakterystyk metrologicznych wagi poza granice określone w rozporządzeniu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_1/pkt_17",
+     "text": "błędy graniczne dopuszczalne wagi — określone wartości skrajne błędów wagi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_1/pkt_18",
+     "text": "klasa dokładności wag — klasę wag spełniających określone wymagania metrologiczne i których błędy zawarte są w określonych granicach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Wymagania metrologiczne w zakresie konstrukcji i wykonania wag"
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "W skład wagi wchodzą w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "co najmniej jeden pomost;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "oznakowane strefy dojazdowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "zespół pomiaru masy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "zespół czujników identyfikacji wagonów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_1/pkt_5",
+       "text": "urządzenie wskazujące;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_1/pkt_6",
+       "text": "urządzenie drukujące;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/ust_1/pkt_7",
+       "text": "zespół sterowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/ust_1/pkt_8",
+       "text": "półautomatyczne albo automatyczne urządzenie zerujące dla każdego z pomostów służące do nastawiania wskazania zerowego, gdy pomost jest nieobciążony.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Waga może być dodatkowo wyposażona w urządzenia elektroniczne, realizujące dodatkowe funkcje, będące oddzielnymi zespołami wagi, zwanej dalej „wagą elektroniczną”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Pomost składa się z szyn stanowiących część toru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W strefie ważenia wagi szyny powinny leżeć w jednej płaszczyźnie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Wagi posiadające fundament powinny być wyposażone w urządzenie odwadniające, zapobiegające gromadzeniu się cieczy pod pomostem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Urządzenie wskazujące powinno umożliwiać pewne, łatwe i jednoznaczne odczytanie wyników ważenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Wyniki ważenia powinny zawierać nazwy albo oznaczenia legalnych jednostek miary masy, w których są wyrażone.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Wartość działki elementarnej powinna być wyk k k rażona w postaci 1 x 10 ; 2 x 10 lub 5 x 10 jednostek miary masy, gdzie k jest liczbą całkowitą dodatnią, ujemną albo zerem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Wyniki ważenia nie powinny być drukowane lub wskazywane, jeżeli obciążenie jest mniejsze niż obciążenie minimalne lub większe niż obciążenia maksymalne powiększone o wartość 9 działek elementarnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Różnica między wskazaniami dwóch urządzeń wskazujących z tą samą wartością działki elementarnej powinna być równa zero.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_4/ust_6",
+     "text": "Wartości działek elementarnych urządzeń wskazujących i urządzeń drukujących powinny być równe.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Wydruk z urządzenia drukującego powinien:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "zawierać wartość masy wagonów lub składu wagonów równą wynikom wskazywanym przez urządzenie wskazujące;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "być czytelny i trwały;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "po prawej stronie wartości liczbowej lub powyżej kolumny wartości liczbowych zawierać nazwę lub oznaczenie jednostki miary masy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Wysokość znaków na wydruku powinna wynosić co najmniej 2 mm.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Jeżeli prędkość wagonu jest wyższa niż prędkość maksymalna albo mniejsza niż prędkość minimalna, to wynik ważenia wagonu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_3/pkt_1",
+       "text": "powinien być drukowany z oznaczeniem wskazującym prędkość wagonu albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_3/pkt_2",
+       "text": "nie powinien być drukowany, a wydruk powinien dotyczyć jedynie oznaczenia wagonu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Urządzenie zerujące powinno działać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "w zakresie nieprzekraczającym 4 % obciążenia maksymalnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "gdy zmiana obciążenia nie przekracza 0,5 wartości działki elementarnej na sekundę;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "jeżeli w okresie 5 sekund po wydruku są wskazywane nie więcej niż dwie sąsiednie wartości masy, z których jedna jest równa wartości wydrukowanej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_6/pkt_4",
+     "text": "z błędem nieprzekraczającym ± 0,25 wartości działki elementarnej przy ważeniu statycznym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Waga elektroniczna powinna być tak skonstruowana i wykonana, aby w przypadku wystąpienia zakłóceń:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "nie wystąpiło odchylenie znaczące, rozumiane jako różnica między błędem wskazania wagi a jej błędem wskazania wyznaczonym w warunkach odniesienia, która jest większa niż wartość działki elementarnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "po wystąpieniu odchyleń znaczących:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_7/ust_1/pkt_2/lit_a",
+         "text": "podała sygnał ostrzegawczy, optyczny lub akustyczny, trwający do momentu podjęcia przez operatora działań lub zniknięcia odchylenia albo",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_7/ust_1/pkt_2/lit_b",
+         "text": "przestała działać.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Waga elektroniczna powinna umożliwiać kontrolę wyświetlacza, inicjowaną automatycznie przy włączaniu wagi, polegającą na wskazaniu wszystkich znaków wyświetlonych przez urządzenie wskazujące w czasie wystarczającym do wykonania obserwacji przez operatora.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "W czasie nagrzewania wagi elektronicznej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_3/pkt_1",
+       "text": "nie powinna ona wskazywać lub przesyłać wyników ważenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_3/pkt_2",
+       "text": "jej automatyczne działanie powinno być wstrzymane.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Waga elektroniczna może być wyposażona w interfejs pozwalający na połączenie wagi z urządzeniem peryferyjnym, którego użycie nie powinno:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_4/pkt_1",
+       "text": "wpływać na właściwości metrologiczne wagi i na poprawność jej działania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_4/pkt_2",
+       "text": "umożliwiać wprowadzania do wagi instrukcji lub danych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_7/ust_4/pkt_2/lit_a",
+         "text": "które nie są zdefiniowane i mogłyby być mylone z wynikiem ważenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_7/ust_4/pkt_2/lit_b",
+         "text": "służących do fałszowania wyświetlanych, przetwarzanych lub zapamiętanych wyników ważenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_7/ust_4/pkt_2/lit_c",
+         "text": "w celu dokonania przez osoby nieuprawnione adiustacji wagi.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Waga zasilana napięciem o częstotliwości sieciowej, w przypadku braku zasilania, powinna zachować dane w pamięci wagi co najmniej przez 24 godziny, przy czym przełączenie na zasilanie awaryjne nie powinno powodować odchylenia znaczącego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Waga zasilana z baterii po spadku napięcia poniżej danej wartości powinna działać prawidłowo albo wyłączać się automatycznie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Na urządzeniu wskazującym wagi lub w jego pobliżu, w widocznym miejscu, powinny być umieszczone w sposób trwały i czytelny w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "nazwa lub znak producenta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_1/pkt_2",
+       "text": "numer i znak fabryczny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_1/pkt_3",
+       "text": "nadany znak zatwierdzenia typu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_10/ust_1/pkt_4",
+       "text": "klasy dokładności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_10/ust_1/pkt_5",
+       "text": "wartość działki elementarnej, w postaci „d = ...”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_10/ust_1/pkt_6",
+       "text": "obciążenie maksymalne, w postaci „Max ...”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_10/ust_1/pkt_7",
+       "text": "obciążenie minimalne, w postaci „Min ...”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_10/ust_1/pkt_8",
+       "text": "maksymalna masa wagonu, w postaci „... kg lub t”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_10/ust_1/pkt_9",
+       "text": "minimalna masa wagonu, w postaci „... kg lub t”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_10/ust_1/pkt_10",
+       "text": "prędkość maksymalna, w postaci „V max = ... km/h”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_10/ust_1/pkt_11",
+       "text": "prędkość minimalna, w postaci „V min = ... km/h”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_10/ust_1/pkt_12",
+       "text": "maksymalna prędkość tranzytowa, w postaci „... km/h”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_10/ust_1/pkt_13",
+       "text": "wartość napięcia zasilającego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_10/ust_1/pkt_14",
+       "text": "wartość częstotliwości napięcia zasilającego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Na urządzeniu wskazującym wagi lub w jego pobliżu powinny być zamieszczone, jeżeli mają zastosowanie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_2/pkt_1",
+       "text": "nazwa lub znak importera;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_2/pkt_2",
+       "text": "maksymalna liczba wagonów w składzie, w postaci „n max = ...”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_2/pkt_3",
+       "text": "minimalna liczba wagonów w składzie, w postaci „n min = ...”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_10/ust_2/pkt_4",
+       "text": "kierunek przejazdu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_10/ust_2/pkt_5",
+       "text": "specjalny zakres temperatury pracy, w postaci „... °C/... °C”.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Na wagach do ważenia cząstkowego, w widocznym miejscu, oprócz oznaczeń, o których mowa w ust. 1, powinien być umieszczony napis: „Waga nie powinna być stosowana do ważenia cieczy i innych ładunków, których środek ciężkości przemieszcza się podczas ważenia”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_10/ust_4",
+     "text": "Oznaczenia mogą być przedstawiane na wyświetlaczu danych, sterowanym programowo, przy zapewnieniu automatycznej i nieusuwalnej rejestracji każdej zmiany programu oznakowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_10/ust_5",
+     "text": "W przypadku zastosowania wyświetlacza danych na urządzeniu wskazującym wagi lub w jego pobliżu powinny być dodatkowo umieszczone w sposób trwały i czytelny:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_5/pkt_1",
+       "text": "nazwa lub znak producenta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_5/pkt_2",
+       "text": "numer i znak fabryczny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_5/pkt_3",
+       "text": "nadany znak zatwierdzenia typu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_10/ust_5/pkt_4",
+       "text": "wartość napięcia zasilającego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_10/ust_5/pkt_5",
+       "text": "wartość częstotliwości napięcia zasilającego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Charakterystyki metrologiczne wag"
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Rozróżnia się dwie klasy dokładności wag: 0,2 i 0,5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Jedna waga może być zakwalifikowana jednocześnie do dwóch klas dokładności dla ważenia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_2/pkt_1",
+       "text": "wagonu spiętego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_2/pkt_2",
+       "text": "składu wagonów.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Błędy graniczne dopuszczalne wag w zależności od klasy dokładności określa załącznik nr 1 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Błędy graniczne dopuszczalne wag przy ważeniu wagonu spiętego powinny być równe większej wartości z:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_2/pkt_1",
+       "text": "iloczynu wartości błędu określonej w załączniku nr 1 do rozporządzenia i masy wagonu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_2/pkt_2",
+       "text": "iloczynu wartości błędu określonej w załączniku nr 1 do rozporządzenia i wartości 0,35 maksymalnej masy wagonu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_2/pkt_3",
+       "text": "wartości działki elementarnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Błędy graniczne dopuszczalne wag przy ważeniu składu wagonów powinny być równe większej wartości z:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_3/pkt_1",
+       "text": "iloczynu wartości błędu określonej w załączniku nr 1 do rozporządzenia i masy składu wagonów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_3/pkt_2",
+       "text": "iloczynu wartości błędu określonej w załączniku nr 1 do rozporządzenia i iloczynu 0,35 maksymalnej masy wagonu i liczby n, która jest równa:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_12/ust_3/pkt_2/lit_a",
+         "text": "liczbie wagonów kontrolnych, gdy jest ona mniejsza niż 10,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_12/ust_3/pkt_2/lit_b",
+         "text": "10, gdy liczba wagonów kontrolnych jest większa niż 10;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_3/pkt_3",
+       "text": "iloczynu wartości działki elementarnej i liczby wagonów kontrolnych, lecz nie większej niż 10 działek elementarnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_12/ust_4",
+     "text": "Wartości, o których mowa w ust. 2 pkt 1 i 2 i ust. 3 pkt 1 i 2, zaokrągla się do najbliższej wartości działki elementarnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_12/ust_5",
+     "text": "Podczas ważenia w ruchu wagonów spiętych błędy wskazań 10 % ważonych wagonów mogą przekraczać błędy graniczne dopuszczalne, określone w załączniku nr 1 do rozporządzenia, lecz nie więcej niż dwukrotnie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Błędy graniczne dopuszczalne wskazań przy ważeniu statycznym dla obciążeń wzrastających i malejących, w tym dla każdego pomostu oddzielnie i dla dowolnego zestawienia pomostów wag wielopomostowych, określa załącznik nr 2 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Maksymalną masę wagonu, którą można zważyć, podzieloną przez wartość działki elementarnej, w zależności od wartości działki elementarnej i klasy dokładności, określa załącznik nr 3 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Obciążenie minimalne nie powinno być:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_2/pkt_1",
+       "text": "mniejsze niż 1 t;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_2/pkt_2",
+       "text": "większe od minimalnej masy wagonu podzielonej przez liczbę ważeń cząstkowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_14/ust_3",
+     "text": "Minimalna masa wagonu nie powinna być mniejsza niż 50 działek elementarnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Błędy wskazań wagi spowodowane wpływem niecentrycznego obciążenia nie powinny przekraczać wartości określonych w załączniku nr 2 do rozporządzenia, przy obciążeniu równym 0,5 obciążenia maksymalnego, zaokrąglonym w górę do 1 t.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Wagi powinny spełniać wymagania określone w załączniku nr 2 do rozporządzenia:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_16/pkt_1",
+     "text": "w zakresie temperatury pracy od –10 °C do 40 °C lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_16/pkt_2",
+     "text": "w innym zakresie temperatury pracy niż określony w pkt 1, oznaczonym na wadze, w przedziale nie mniejszym niż 30 °C;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_16/pkt_3",
+     "text": "przy zmianach napięcia w zakresie (– 15 ÷ 10) % jego wartości nominalnej, dla wag zasilanych napięciem o częstotliwości sieciowej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_16/pkt_4",
+     "text": "przy spadku napięcia poniżej jego wartości nominalnej o daną wartość, dla wag zasilanych napięciem stałym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_16/pkt_5",
+     "text": "przy wilgotności względnej 85 % w temperaturze równej górnej granicy zakresu temperatury pracy wagi, dla wag elektronicznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Stabilność przedziału wskazań wagi elektronicznej powinna być taka, aby wartość bezwzględna różnicy między błędami wskazania wagi dla obciążenia zbliżonego do obciążenia maksymalnego, dla dowolnego z dwóch pomiarów, nie przekraczała 50 % wartości bezwzględnej błędów granicznych dopuszczalnych określonych w załączniku nr 2 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Przepis końcowy"
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Gospodarki, Pracy i Polityki Społecznej: J. Hausner"
+    },
+    {
+     "type": "text",
+     "text": "Załączniki do rozporządzenia Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 4 lutego 2004 r. (poz. 235)"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 1"
+    },
+    {
+     "type": "text",
+     "text": "BŁĘDY GRANICZNE DOPUSZCZALNE WAG W ZALEŻNOŚCI OD KLASY DOKŁADNOŚCI"
+    },
+    {
+     "type": "text",
+     "text": "Błędy graniczne dopuszczalne Klasa dokładności wagi zatwierdzenie typu użytkowanie i legalizacja"
+    },
+    {
+     "type": "text",
+     "text": "0,2 ± 0,10 % ± 0,2 %"
+    },
+    {
+     "type": "text",
+     "text": "0,5 ± 0,25 % ± 0,5 %"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "BŁĘDY GRANICZNE DOPUSZCZALNE WSKAZAŃ PRZY WAŻENIU STATYCZNYM DLA OBCIĄŻEŃ WZRASTAJĄCYCH I MALEJĄCYCH"
+    },
+    {
+     "type": "text",
+     "text": "Błąd graniczny Wartość obciążenia m wyrażona w działkach dopuszczalny elementarnych"
+    },
+    {
+     "type": "text",
+     "text": "± 0,5 d 0 < m ≤ 500"
+    },
+    {
+     "type": "text",
+     "text": "± 1,0 d 500 < m ≤ 2 000"
+    },
+    {
+     "type": "text",
+     "text": "± 1,5 d 2 000 < m ≤ 10 000"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 3"
+    },
+    {
+     "type": "text",
+     "text": "MAKSYMALNA MASA WAGONU W ZALEŻNOŚCI OD WARTOŚCI DZIAŁKI ELEMENTARNEJ I KLASY DOKŁADNOŚCI"
+    },
+    {
+     "type": "text",
+     "text": "Klasa Maksymalna masa wagonu / d dokładności d kg wagi minimum maksimum"
+    },
+    {
+     "type": "text",
+     "text": "0,2 ≤ 50 1 000 5 000"
+    },
+    {
+     "type": "text",
+     "text": "0,5 ≤ 100 500 2 500"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Gospodarki, Pracy i Polityki Społecznej kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 7 stycznia 2003 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki, Pracy i Polityki Społecznej (Dz. U. Nr 1, poz. 5).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 155, poz. 1286 i Nr 166, poz. 1360 oraz z 2003 r. Nr 170, poz. 1652."
+ }
+}

@@ -1,0 +1,764 @@
+{
+ "eli": "DU/2004/1234",
+ "title": "Rozporządzenie Ministra Infrastruktury z dnia 29 kwietnia 2004 r. w sprawie usługi dzierżawy łączy telekomunikacyjnych",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/1234/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 kwietnia 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie usługi dzierżawy łączy telekomunikacyjnych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 61 ust. 8 ustawy z dnia 21 lipca 2000 r. — Prawo telekomunikacyjne (Dz. U. Nr 73, poz. 852, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "minimalny zestaw rodzajów łączy telekomunikacyjnych, jaki powinien być oferowany przez operatora o znaczącej pozycji rynkowej w zakresie usługi dzierżawy łączy telekomunikacyjnych, wraz z wymaganiami techniczno-eksploatacyjnymi dla tego zestawu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "zasady rozliczeń i kalkulacji opłat z tytułu świadczenia usługi dzierżawy łączy telekomunikacyjnych przez operatora o znaczącej pozycji rynkowej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "minimalny zakres oferty określającej ramowe warunki zawierania z innymi operatorami umów o świadczenie usługi dzierżawy łączy telekomunikacyjnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Określenia użyte w rozporządzeniu oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "analogowe łącza telekomunikacyjne specjalnej jakości — łącza telekomunikacyjne, które spełniają wymagania określone w normach przenoszących normy ETSI EN 300 449 V1.2.1:2002U i ETSI EN 300 452 V1.2.1:2002U;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "analogowe łącza telekomunikacyjne zwykłej jakości — łącza telekomunikacyjne, które spełniają wymagania określone w normach przenoszących normy ETSI EN 300 448 V1.2.1:2002U i ETSI EN 300 451 V1.2.1:2002U;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "bitowa stopa błędów — stosunek liczby błędnych bitów odebranych do liczby wszystkich odebranych bitów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "blok — grupę następujących po sobie bitów, przy czym każdy bit może należeć tylko do jednego bloku;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "blok uszkodzony — blok, w którym którykolwiek z należących do niego bitów jest błędny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "maksymalny czas odtwarzania usługi — maksymalny czas, w którym funkcje spełniane przez uszkodzone cyfrowe łącze telekomunikacyjne przejęte zostaną przez inny element sieci telekomunikacyjnej lub uszkodzone łącze zostanie naprawione;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "okres niedostępności — okres następujących po sobie kolejno co najmniej dziesięciu sekund ze znaczącym błędem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "sekunda z błędem — sekunda, w której wystąpił co najmniej jeden błędny bit;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "sekunda ze znaczącym błędem — sekunda, w której wartość bitowej stopy błędów przekroczyła 10 –3 lub co najmniej 30 % bloków jest uszkodzonych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "termin przekazania łącza do eksploatacji — okres od daty złożenia przez użytkownika zamówienia na łącze dzierżawione do daty realizacji tego zamówienia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "transmisja przeźroczysta — transmisja, w której ciąg bitów pojawiający się na wyjściu jest identyczny z ciągiem bitów wprowadzonym na wejściu, w granicach dopuszczalnej stopy błędów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Minimalny zestaw rodzajów łączy telekomunikacyjnych, oferowany przez operatora o znaczącej pozycji rynkowej w zakresie świadczenia usług dzierżawy łączy telekomunikacyjnych, powinien zawierać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "cyfrowe łącza telekomunikacyjne klasy standardowej, o przepływnościach: 64 kbit/s, 34 Mbit/s, 140 Mbit/s lub 155 Mbit/s;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "cyfrowe łącze telekomunikacyjne klasy standardowej, o przepływności 2048 kbit/s, podzielonej na kanały po 64 kbit/s (łącza strukturalne 2 Mbit/s);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "cyfrowe łącze telekomunikacyjne klasy standardowej, o przepływności 2048 kbit/s, niepodzielonej na kanały (łącza niestrukturalne 2 Mbit/s);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "dwuprzewodowe i czteroprzewodowe analogowe łącza telekomunikacyjne dla pasma 300 Hz—3400 Hz o zwykłej i specjalnej jakości — w przypadku operatorów publicznych stacjonarnych sieci telefonicznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Cyfrowe łącza telekomunikacyjne powinny zapewnić transmisję przeźroczystą między punktami końcowymi łącza.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Wymagania techniczno-eksploatacyjne dla cyfrowych łączy telekomunikacyjnych określa się przez standardy jakościowe i wymagania dotyczące dostępności.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Standardy jakościowe cyfrowych łączy telekomunikacyjnych określa się za pomocą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "bitowej stopy błędów, zwanej dalej „BER”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "sekundy z błędem, zwanej dalej „ES”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_1/pkt_3",
+       "text": "sekundy ze znaczącym błędem, zwanej dalej „SES”.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Wartość maksymalna BER dla łącza cyfrowego wynosi 10 –6 .",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Wartości ES i SES pozwalające na przekazanie cyfrowego łącza telekomunikacyjnego do eksploatacji oraz maksymalne wartości ES i SES w trakcie eksploatacji cyfrowego łącza telekomunikacyjnego określa załącznik nr 1 do rozporządzenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Długość łącza L ≤ 500 km"
+      },
+      {
+       "type": "text",
+       "text": "Długość okresu niedostępności 20 × 10 –4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Dostępność cyfrowych łączy dzierżawionych klasy standardowej w zależności od ich długości (L) określa się przez wyznaczenie maksymalnej długości okresu niedostępności i liczby okresów niedostępności dla pojedynczego łącza, średniej długości okresu niedostępności i liczby okresów niedostępności wszystkich łączy tej klasy wydzierżawianych przez operatora o znaczącej pozycji rynkowej w zakresie świadczenia usługi dzierżawy łączy telekomunikacyjnych oraz przez maksymalny czas odtwarzania usługi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Ustala się średnią długość okresu niedostępności wszystkich cyfrowych łączy telekomunikacyjnych klasy standardowej, wydzierżawianych przez operatora o znaczącej pozycji rynkowej w zakresie świadczenia usługi dzierżawy łączy telekomunikacyjnych w roku kalendarzowym:",
+     "children": [
+      {
+       "type": "text",
+       "text": "500 km < L ≤ 1000 km 1000 km < L"
+      },
+      {
+       "type": "text",
+       "text": "40 × 10 60 × 10 –4 –4"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Ustala się maksymalną długość okresu niedostępności w okresie kolejnych 12 miesięcy dla pojedynczego cyfrowego łącza telekomunikacyjnego klasy standardowej, dzierżawionego przez użytkownika:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Długość łącza L ≤ 500 km 500 km < L ≤ 1000 km 1000 km < L"
+      },
+      {
+       "type": "text",
+       "text": "Długość okresu niedostępności 99 × 10 146 × 10 193 × 10 –4 –4 –4"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Ustala się średnią liczbę okresów niedostępności wszystkich cyfrowych łączy telekomunikacyjnych klasy standardowej, wydzierżawianych przez operatora o znaczącej pozycji rynkowej w zakresie świadczenia usługi dzierżawy łączy telekomunikacyjnych w roku kalendarzowym:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Długość łącza L ≤ 500 km 500 km < L ≤ 1000 km 1000 km < L"
+      },
+      {
+       "type": "text",
+       "text": "Liczba okresów niedostępności 99 141 183"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "Ustala się maksymalną liczbę okresów niedostępności w okresie kolejnych 12 miesięcy dla pojedynczego cyfrowego łącza telekomunikacyjnego klasy standardowej, dzierżawionego przez użytkownika:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Długość łącza L ≤ 500 km"
+      },
+      {
+       "type": "text",
+       "text": "Liczba okresów niedostępności 501"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_7/ust_6",
+     "text": "Maksymalny czas odtwarzania usługi w przypadku łącza cyfrowego klasy standardowej wynosi 24 godziny od momentu zgłoszenia usterki lub awarii.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_7/ust_8",
+     "text": "1. Opłaty, o których mowa w § 1 pkt 2, powinny być możliwie szczegółowo rozdzielone na poszcze- 500 km < L ≤ 1000 km 1000 km < L",
+     "children": [
+      {
+       "type": "text",
+       "text": "559 617"
+      },
+      {
+       "type": "text",
+       "text": "gólne elementy składowe usługi dzierżawy łączy telekomunikacyjnych i powinny składać się w szczególności z:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_8/pkt_1",
+       "text": "jednorazowej opłaty z tytułu zestawienia łącza telekomunikacyjnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_8/pkt_2",
+       "text": "okresowej opłaty o zryczałtowanej wysokości pobieranej z tytułu eksploatacji wydzierżawionego łącza.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Operator o znaczącej pozycji rynkowej w zakresie świadczenia usługi dzierżawy łączy telekomunikacyjnych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "nie może żądać opłat, na podstawie kosztów, które nie są ściśle powiązane z usługą dzierżawy łączy telekomunikacyjnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "przy ustalaniu wysokości opłat, o których mowa w § 1 pkt 2, uwzględnia wysokość wskaźnika zwrotu kosztu zaangażowanego kapitału, który jest ustalany w sposób określony w odrębnych przepisach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "W przypadku łączy telekomunikacyjnych wydzierżawianych operatorom opłata, o której mowa w § 1 pkt 2:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_3/pkt_1",
+       "text": "powinna być skalkulowana wyłącznie na podstawie uzasadnionych, zorientowanych przyszłościowo, długookresowych kosztów przyrostowych ponoszonych przez efektywnie działającego operatora, przypadających na określoną jednostkę fizyczną usługi dzierżawy łączy telekomunikacyjnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_3/pkt_2",
+       "text": "nie może być uzależniona od wysokości opłat wymaganych od użytkowników końcowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "W przypadku łączy telekomunikacyjnych wydzierżawianych użytkownikom końcowym opłata, o której mowa w § 1 pkt 2, powinna być kalkulowana na podstawie zorientowanych przyszłościowo, w pełni alokowanych kosztów, przypadających na jednostkę fizyczną usługi dzierżawy łączy telekomunikacyjnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "Koszty, o których mowa w ust. 3 pkt 1, powinny być kalkulowane w sposób określony dla kosztów stanowiących podstawę rozliczeń wynikających z umów o połączeniu sieci, w rozporządzeniu Ministra Infrastruktury z dnia 10 grudnia 2003 r. w sprawie prowadzenia rachunkowości regulacyjnej i sposobów kalkulacji kosztów przez operatora telekomunikacyjnego o znaczącej pozycji rynkowej (Dz. U. Nr 213, poz. 2087), zwanego dalej „rozporządzeniem kosztowym”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_7/ust_6",
+     "text": "Koszty, o których mowa w ust. 4, powinny być kalkulowane w sposób określony w rozporządzeniu kosztowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_7/ust_7",
+     "text": "W zakresie nieuregulowanym w rozporządzeniu do kalkulacji opłat z tytułu świadczenia usługi dzierżawy łączy telekomunikacyjnych stosuje się przepisy rozporządzenia kosztowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Minimalny zakres oferty określającej ramowe warunki umów o świadczenie usługi dzierżawy łączy telekomunikacyjnych powinien zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_1/pkt_1",
+       "text": "tryb zawierania, zmiany i rozwiązywania umowy, w tym zasady realizacji przez użytkownika prawa do jednostronnego częściowego odstąpienia od umowy w przypadku zwrotu pojedynczych łączy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_1/pkt_2",
+       "text": "przedmiot oferty, określający:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_9/ust_1/pkt_2/lit_a",
+         "text": "rodzaje łączy telekomunikacyjnych wraz z przywołaniem numeru dokumentu normalizacyjnego określającego ich parametry fizyczne i elektryczne,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_9/ust_1/pkt_2/lit_b",
+         "text": "zasady zmiany miejsca zakończenia łącza telekomunikacyjnego, przy zachowaniu jego standardów jakościowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_9/ust_1/pkt_2/lit_c",
+         "text": "oferowane w trakcie eksploatacji wartości ES i SES — dla cyfrowych łączy dzierżawionych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_9/ust_1/pkt_2/lit_d",
+         "text": "dostępność cyfrowych łączy telekomunikacyjnych dzierżawionych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_9/ust_1/pkt_2/lit_e",
+         "text": "typowy czas odtworzenia usługi, liczony od momentu, w którym operator, o którym mowa w § 1 pkt 1, powziął wiadomość o usterce lub awarii, do chwili gdy 80 % wszystkich łączy dzierżawionych tego samego typu zostało naprawionych i ponownie przekazanych do eksploatacji;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_1/pkt_3",
+       "text": "terminy przekazywania łączy do eksploatacji ustalone:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_9/ust_1/pkt_3/lit_a",
+         "text": "jak dla realizacji 95% zamówień na łącza telekomunikacyjne tego samego typu w okresie roku poprzedzającego przygotowanie ramowej oferty, uwzględniając zamówienia złożone przez jednostki organizacyjne operatora i jego podmioty zależne,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_9/ust_1/pkt_3/lit_b",
+         "text": "na podstawie własnych danych, jednak nie dłuższe niż 30 dni — w przypadku gdy nie jest możliwe ich ustalenie w sposób określony w lit. a;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_9/ust_1/pkt_4",
+       "text": "warunki świadczenia oferowanych usług:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_9/ust_1/pkt_4/lit_a",
+         "text": "zasady przekazywania łączy telekomunikacyjnych do eksploatacji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_9/ust_1/pkt_4/lit_b",
+         "text": "zasady eksploatacji łączy telekomunikacyjnych, a w szczególności procedury postępowania i współpracy z użytkownikami związane z awariami, usterkami, przerwami w pracy oraz planowanymi pracami,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_9/ust_1/pkt_4/lit_c",
+         "text": "zasady zwrotu łączy telekomunikacyjnych w okresie obowiązywania umowy i po jej rozwiązaniu;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_9/ust_1/pkt_5",
+       "text": "wysokość opłaty z tytułu świadczenia usługi dzierżawy łączy telekomunikacyjnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_9/ust_1/pkt_6",
+       "text": "warunki płatności, w tym terminy wnoszenia należności za usługi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_9/ust_1/pkt_7",
+       "text": "tryb zwrotu pobranych należności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_9/ust_1/pkt_8",
+       "text": "tryb reklamacji oraz zasady odpowiedzialności operatora wydzierżawiającego łącze telekomunikacyjne:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_9/ust_1/pkt_8/lit_a",
+         "text": "wysokość kar umownych i bonifikat związanych z niewywiązaniem się z warunków określonych w umowie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_9/ust_1/pkt_8/lit_b",
+         "text": "zdarzenia, z którymi wiążą się kary umowne i bonifikaty;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_9/ust_1/pkt_9",
+       "text": "zasady udostępniania powierzchni kolokacyjnej i dostępu do pomieszczeń w przypadku, gdy zakończenie łącza telekomunikacyjnego znajduje się w obiekcie znajdującym się w posiadaniu operatora o znaczącej pozycji rynkowej w zakresie świadczenia usługi dzierżawy łączy telekomunikacyjnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_9/ust_1/pkt_10",
+       "text": "zasady rozstrzygania sporów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_9/ust_1/pkt_11",
+       "text": "czas trwania umowy, w tym wymagany minimalny czas trwania umowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_9/ust_1/pkt_12",
+       "text": "wzory zamówienia i protokołu odbioru łącza telekomunikacyjnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Do terminu, o którym mowa w ust. 1 pkt 3 lit. a, nie wlicza się opóźnień w realizacji zamówień wynikających z wniosków użytkowników.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Dla oferowanych po raz pierwszy typów łączy telekomunikacyjnych oferta, o której mowa w ust. 1, powinna zawierać planowany termin realizacji zamówienia oraz planowany czas odtwarzania usługi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "W ofercie, o której mowa w ust. 1, określa się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_4/pkt_1",
+       "text": "wymagania, jakie powinny spełniać urządzenia końcowe, aby mogły zostać przyłączone do określonego łącza telekomunikacyjnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_4/pkt_2",
+       "text": "tryb postępowania w przypadku niespełniania przez urządzenia końcowe użytkownika zasadniczych wymagań, o których mowa w art. 88 ust. 1 i 2 ustawy z dnia 21 lipca 2000 r. — Prawo telekomunikacyjne, oraz określa się zasady zawieszenia świadczenia usługi dzierżawy łącza telekomunikacyjnego do czasu odłączenia urządzeń końcowych od punktu zakończenia sieci, zasady powiadomienia użytkownika o zawieszeniu i jego przyczynach oraz ponownego udostępnienia łącza telekomunikacyjnego po ustąpieniu przyczyn zawieszenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_9/ust_5",
+     "text": "Operator o znaczącej pozycji rynkowej w zakresie świadczenia usługi dzierżawy łączy telekomunikacyjnych, określając standardy jakościowe oferowanych analogowych i cyfrowych łączy telekomunikacyjnych, kieruje się wymaganiami zawartymi w dokumentach wymienionych w załączniku nr 2 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Przepis § 3 pkt 1, w zakresie oferowania cyfrowego łącza telekomunikacyjnego o przepływności 155 Mbit/s, stosuje się od dnia 1 stycznia 2006 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Do usług dzierżawy łączy telekomunikacyjnych świadczonych na podstawie umów zawartych przed wejściem w życie rozporządzenia stosuje się przepisy dotychczasowe.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.[^3]",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Infrastruktury: w z. A. Piłat"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Infrastruktury z dnia 29 kwietnia 2004 r. (poz. 1234) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WARTOŚCI ES I SES POZWALAJĄCE NA PRZEKAZANIE CYFROWEGO ŁĄCZA TELEKOMUNIKACYJNEGO DO EKSPLOATACJI ORAZ MAKSYMALNE WARTOŚCI ES I SES W TRAKCIE EKSPLOATACJI CYFROWEGO ŁĄCZA TELEKOMUNIKACYJNEGO"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wartości ES i SES pozwalające na przekazanie cyfrowego łącza telekomunikacyjnego do eksploatacji określa tabela 1:",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Na stronie 5 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 1 — wartości ES i SES pozwalające na przekazanie cyfrowego łącza telekomunikacyjnego do eksploatacji"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "łącze telekomunikacyjne może zostać przekazane do eksploatacji, gdy wartości ES i SES są mniejsze lub równe S1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "łącze telekomunikacyjne nie może zostać przekazane do eksploatacji, gdy wartości ES i SES przekraczają wartość S1.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Maksymalne wartości ES i SES w trakcie eksploatacji cyfrowego łącza telekomunikacyjnego określa tabela 2:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Tabela 2 — Maksymalne wartości ES i SES w trakcie eksploatacji cyfrowego łącza telekomunikacyjnego."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ POLSKICH NORM ZAWIERAJĄCYCH STANDARDY JAKOŚCIOWE DLA CYFROWYCH I ANALOGOWYCH ŁĄCZY TELEKOMUNIKACYJNYCH"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 6 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Infrastruktury kieruje działem administracji rządowej — łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 marca 2002 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. Nr 32, poz. 302 oraz z 2003 r. Nr 19, poz. 165, Nr 141, poz. 1359 i Nr 232, poz. 2322).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 122, poz. 1321 i Nr 154, poz. 1800 i 1802, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676 i Nr 166, poz. 1360 oraz z 2003 r. Nr 50, poz. 424, Nr 113, poz.1070, Nr 130, poz. 1188 i Nr 170, poz. 1652.",
+  "3": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 31 grudnia 2002 r. w sprawie usługi dzierżawy łączy telekomunikacyjnych (Dz. U. z 2003 r. Nr 6, poz. 74), które zgodnie z art. 10 ust. 1 ustawy z dnia 22 maja 2003 r. o zmianie ustawy — Prawo telekomunikacyjne oraz o zmianie niektórych ustaw (Dz. U. Nr 113, poz. 1070) traci moc z dniem wejścia w życie niniejszego rozporządzenia."
+ }
+}

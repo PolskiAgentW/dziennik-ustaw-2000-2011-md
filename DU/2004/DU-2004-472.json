@@ -1,0 +1,1136 @@
+{
+ "eli": "DU/2004/472",
+ "title": "Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 8 marca 2004 r. w sprawie wymagań metrologicznych, którym powinny odpowiadać mierniki drgań mechanicznych oddziałujących na człowieka oraz przetworniki drgań mechanicznych piezoelektryczne o masie do 300 g",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/472/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI, PRACY I POLITYKI SPOŁECZNEJ[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 marca 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wymagań metrologicznych, którym powinny odpowiadać mierniki drgań mechanicznych oddziałujących na człowieka oraz przetworniki drgań mechanicznych piezoelektryczne o masie do 300 g"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 pkt 3 ustawy z dnia 11 maja 2001 r. — Prawo o miarach (Dz. U. Nr 63, poz. 636, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepis ogólny"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "miernik — miernik drgań mechanicznych oddziałujących na człowieka, będący przyrządem pomiarowym przeznaczonym do pomiaru przyspieszenia drgań mechanicznych:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "o działaniu ogólnym — przenoszonych do ciała jako całości przez części ciała mające kontakt z drgającą powierzchnią,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "przenoszonych przez kończyny górne — bezpośrednio przyłożone lub przenoszone do układu ręka—ramię, zazwyczaj przez dłoń lub przez palce ręki zaciskane na narzędziu lub obrabianym elemencie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "o działaniu ogólnym i przenoszonych przez kończyny górne;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "przetwornik drgań — przetwornik drgań mechanicznych piezoelektryczny, będący przyrządem pomiarowym przetwarzającym przyspieszenie drgań mechanicznych na wielkość elektryczną (ładunek lub napięcie) z wykorzystaniem efektu piezoelektrycznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "czułość przetwornika drgań — stosunek wartości ładunku lub napięcia wytworzonego po poddaniu przetwornika drgań oddziaływaniu drgań mechanicznych do wartości przyspieszenia tych drgań;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "czułość odniesienia — czułość przetwornika drgań wyznaczoną w warunkach odniesienia dla sygnału odniesienia i drgań o kierunku zgodnym z kierunkiem nominalnego wektora czułości przetwornika drgań;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "względna czułość poprzeczna przetwornika drgań — stosunek czułości przetwornika drgań wyznaczonej dla kierunku prostopadłego do kierunku nominalnego wektora czułości przetwornika drgań do czułości odniesienia, wyrażony w procentach;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "wartość skuteczna przyspieszenia drgań — wielkość wyrażoną wzorem:",
+     "children": [
+      {
+       "type": "text",
+       "text": "gdzie: a(t) — chwilowe przyspieszenie drgań, w funkcji czasu, wyrażone w m/s², T — czas trwania pomiaru, wyrażony w sekundach, t — zmienna całkowania, reprezentująca czas;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "bieżąca wartość skuteczna przyspieszenia drgań z uśrednianiem liniowym w chwili obserwacji t — wielkość wyrażoną wzorem:⁰",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "gdzie: τ — czas całkowania w sekundach;"
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "bieżąca wartość skuteczna przyspieszenia z uśrednianiem wykładniczym w chwili obserwacji t — wielkość wyrażoną wzorem:⁰",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "gdzie: τ — stała czasowa uśredniania w sekundach;"
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "sygnał odniesienia — sinusoidalny sygnał wejściowy o określonych wartościach częstotliwości i wartości skutecznej przyspieszenia drgań mechanicznych, wykorzystywany do badania miernika i przetwornika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "zakres pomiarowy — zbiór wartości przyspieszenia drgań, które mogą być zmierzone za pomocą miernika w granicach błędów dopuszczalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "zakres wskazań — zakres wartości, które mogą być zmierzone przy danym ustawieniu przełączników miernika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_1/pkt_12",
+     "text": "zakres odniesienia — zakres wskazań miernika, dla którego wyznacza się błąd wskazań dla sygnału odniesienia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Wymagania metrologiczne w zakresie konstrukcji i wykonania miernika i przetwornika drgań"
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W skład miernika wchodzą w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "przetwornik drgań;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "analogowy, cyfrowy lub analogowo-cyfrowy procesor sygnałowy realizujący funkcje wzmacniania sygnału i kształtowania charakterystyki częstotliwościowej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "przetwornik pomiarowy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "urządzenie wskazujące;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "układ sygnalizacji przesterowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "układ zasilania z układem sygnalizacji stanu zasilania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Przetwornik drgań może być skonstruowany jako:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "jednoosiowy — umożliwiający pomiar przyspieszenia drgań mechanicznych w jednym kierunku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "trójosiowy — umożliwiający pomiar przyspieszenia drgań mechanicznych jednocześnie w trzech wzajemnie prostopadłych kierunkach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Konstrukcja przetwornika drgań zapewnia możliwość:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "zamocowania go do obiektu mierzonego za pomocą połączenia gwintowego lub z użyciem kleju;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "połączenia z układem pomiarowym za pomocą kabli sygnałowych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Na obudowie miernika i na obudowie lub podstawie przetwornika drgań powinny być zamieszczone w sposób trwały:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "nazwa lub znak producenta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "typ i numer fabryczny.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Na obudowie miernika powinien być zamieszczony dodatkowo znak zatwierdzenia typu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Charakterystyki metrologiczne mierników i przetwornika drgań"
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Miernik powinien umożliwiać pomiar przyspieszenia drgań o działaniu ogólnym skorygowanego według co najmniej jednej z charakterystyk częstotliwościowych W , W , WBc lub przyspieszenia drgań przenoszonych przez k d kończyny górne skorygowanego według charakterystyki częstotliwościowej W h .",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Dodatkowo miernik może umożliwiać pomiar przyspieszenia drgań o działaniu ogólnym skorygowanego według charakterystyk częstotliwościowych W lub W oraz przyspieszenia drgań według charakterystyki c częstotliwościowej j LIN.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Rodzaje charakterystyk częstotliwościowych, odpowiadające różnym oddziaływaniom drgań, oraz minimalne zakresy częstotliwości, dla których miernik powinien mierzyć drgania, określa tabela:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Rodzaj charakterystyki Rodzaj oddziaływania drgań Zakres częstotliwości Hz częstotliwościowej"
+      },
+      {
+       "type": "text",
+       "text": "Drgania o działaniu ogólnym (charakterystyki podstawowe): w kierunku pionowym W k 0,5÷80 w kierunku poziomym W d 0,5÷80 wielokierunkowe (w budynkach) WBc 1÷80"
+      },
+      {
+       "type": "text",
+       "text": "Drgania o działaniu ogólnym (charakterystyki dodatkowe): na plecy od oparcia w kierunku poziomym W c 0,5÷80 na głowę człowieka w pozycji leżącej w kierunku pionowym W j 0,5÷80"
+      },
+      {
+       "type": "text",
+       "text": "Drgania przenoszone przez koń- W h czyny górne, kierunki x, y, z 8÷1 000"
+      },
+      {
+       "type": "text",
+       "text": "Drgania o działaniu ogólnym lub LIN Deklarowany we wniosku o zaprzenoszone przez kończyny górne"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Przebieg charakterystyk częstotliwościowych opisany przez wartości częstotliwości i odpowiadające im współczynniki korekcji częstotliwościowej określają załączniki nr 1—6 do rozporządzenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "twierdzenie typu"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Ustala się następujące parametry sygnału odniesienia:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "wartość skuteczna przyspieszenia drgań:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_6/pkt_1/lit_a",
+       "text": "1 m/s² dla charakterystyk częstotliwościowych W , W , WBc, W , W miernika, k d c j b) 10 m/s² dla charakterystyk częstotliwościowych W h i LIN miernika i dla przetwornika drgań;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "częstotliwość:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_6/pkt_2/lit_a",
+       "text": "7,96 Hz dla charakterystyk częstotliwościowych W , W , WBc, W , W miernika, k d c j b) 79,6 Hz dla charakterystyk częstotliwościowych W i LIN miernika,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_6/pkt_2/lit_c",
+       "text": "80 h Hz dla przetwornika drgań.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Czułość odniesienia przetwornika drgań nie powinna się różnić więcej niż o ±10 % od czułości określonej przez producenta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Błąd względny charakterystyki:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "amplitudowej przetwornika drgań nie powinien przekraczać ±2 %;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "częstotliwościowej przetwornika drgań nie powinien przekraczać ±10 %.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Maksymalna względna czułość poprzeczna przetwornika drgań nie powinna przekraczać 10 % czułości odniesienia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Miernik powinien mierzyć:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_1/pkt_1",
+       "text": "wartości skuteczne przyspieszenia drgań w czasie nie krótszym niż 60 s;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_1/pkt_2",
+       "text": "bieżące wartości skuteczne przyspieszenia drgań uśrednione liniowo albo wykładniczo.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Dla mierników z uśrednianiem wykładniczym stała czasowa obwodu uśredniania powinna wynosić 1 s, przy czym mogą być dopuszczone dodatkowe stałe czasowe obwodu uśredniania 1/8 s albo 8 s.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Czas pomiaru oraz sposób uśredniania powinny być prezentowane na urządzeniu wskazującym miernika lub identyfikowane w inny sposób.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Rozróżnia się dwie klasy dokładności mierników: klasa dokładności 1 i klasa dokładności 2.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Błędy wskazań miernika dla sygnału odniesienia nie powinny przekraczać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_10/pkt_1",
+     "text": "±8 % lub ±0,7 dB dla mierników klasy dokładności 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_10/pkt_2",
+     "text": "+12 % i –11 % lub ±1 dB dla mierników klasy dokładności 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Błędy graniczne dopuszczalne charakterystyk częstotliwościowych miernika, po uwzględnieniu błędów charakterystyki częstotliwościowej przetwornika drgań określa dla:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_1/pkt_1",
+       "text": "W — załącznik nr 1 do rozporządzenia; k",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_1/pkt_2",
+       "text": "W — załącznik nr 2 do rozporządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_1/pkt_3",
+       "text": "WBc d — załącznik nr 3 do rozporządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_11/ust_1/pkt_4",
+       "text": "W — załącznik nr 4 do rozporządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_11/ust_1/pkt_5",
+       "text": "W c — załącznik nr 5 do rozporządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_11/ust_1/pkt_6",
+       "text": "W j h — załącznik nr 6 do rozporządzenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Charakterystyka częstotliwościowa LIN powinna być płaska w zakresie częstotliwości określonym przez producenta z błędami granicznymi dopuszczalnymi określonymi dla charakterystyki W w załączniku nr 6 do rozporządzenia. h",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Błędy graniczne dopuszczalne przy zmianie zakresu pomiarowego, w zależności od klasy dokładności, wynoszą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_12/pkt_1",
+     "text": "±3,5 % lub ±0,3 dB dla mierników klasy dokładności 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_12/pkt_2",
+     "text": "±6 % lub ±0,5 dB dla mierników klasy dokładności 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Błędy graniczne dopuszczalne liniowości miernika, w zależności od klasy dokładności, wynoszą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_13/pkt_1",
+     "text": "w zakresie pomiarowym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_13/pkt_1/lit_a",
+       "text": "±8 % lub ±0,7 dB dla mierników klasy dokładności 1,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_13/pkt_1/lit_b",
+       "text": "+12 %, –11 % lub ±1 dB dla mierników klasy dokładności 2;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_13/pkt_2",
+     "text": "w zakresie wskazań:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_13/pkt_2/lit_a",
+       "text": "+12 %, –11 % lub ±1 dB dla mierników klasy dokładności 1,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_13/pkt_2/lit_b",
+       "text": "+19 %, –16 % lub ±1,5 dB dla mierników klasy dokładności 2.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Błędy graniczne dopuszczalne pomiaru wartości skutecznej, w zależności od współczynnika szczytu mierzonego sygnału i klasy dokładności, wynoszą:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Błędy graniczne dopuszczalne pomiaru wartości skutecznej dla sygnału o współczynniku szczytu Klasa dokładności do 3 powyżej 3 do 5 powyżej 5 do 10 miernika"
+      },
+      {
+       "type": "text",
+       "text": "% dB % dB % dB"
+      },
+      {
+       "type": "text",
+       "text": "1 ±6 ±0,5 +12, –11 ±1 +19, –16 ±1,5"
+      },
+      {
+       "type": "text",
+       "text": "2 +12, –11 ±1 +12, –11 ±1 — —"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Błędy graniczne dopuszczalne charakterystyki czasowej miernika przy pomiarze wartości skutecznej, w zależności od klasy dokładności, wynoszą:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Stała czaso- Czas Wskazanie dla impulsu wa obwodu trwania w odniesieniu do wskazauśredniają- impulsu nia dla sygnału ciągłego cego"
+      },
+      {
+       "type": "text",
+       "text": "s ms % dB"
+      },
+      {
+       "type": "text",
+       "text": "1 500"
+      },
+      {
+       "type": "text",
+       "text": "1/8 62,5 –37 –4,1"
+      },
+      {
+       "type": "text",
+       "text": "8 4 000"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_14/ust_3",
+     "text": "Czas spadku wskazania wartości skutecznej o 10 dB po wyłączeniu sygnału nie powinien być większy niż:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_3/pkt_1",
+       "text": "2,3 s dla stałej czasowej obwodu uśredniania równej 1 s;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_3/pkt_2",
+       "text": "18,4 s dla stałej czasowej obwodu uśredniania równej 8 s.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Stała Czas Wskazanie dla impulsu czasowa trwania w odniesieniu do wskazaimpulsu nia dla sygnału ciągłego"
+        },
+        {
+         "type": "text",
+         "text": "ms ms % dB"
+        },
+        {
+         "type": "text",
+         "text": "<0,2/f u 1/f u +41 +3"
+        },
+        {
+         "type": "text",
+         "text": "gdzie f u — górna częstotliwość graniczna w kHz."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_14/ust_3",
+     "text": "Spadek wskazania wartości szczytowej w ciągu 1 min po wyłączeniu sygnału nie powinien być większy niż 6 % w skali liniowej albo 0,5 dB w skali logarytmicznej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Błędy graniczne dopuszczalne charakterystyki czasowej"
+      },
+      {
+       "type": "text",
+       "text": "klasa dokładności 1 klasa dokładności 2"
+      },
+      {
+       "type": "text",
+       "text": "% dB % dB"
+      },
+      {
+       "type": "text",
+       "text": "+12, –11 ±1 +26, –21 ±2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "W przypadku mierników mierzących wartość szczytową przyspieszenia drgań błędy pomiaru wartości szczytowej nie powinny przekraczać ±6 % w skali liniowej lub ±0,5 dB w skali logarytmicznej w całym zakresie pomiarowym miernika, z wyjątkiem zakresu bardzo małych wartości, określonego przez producenta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Błędy graniczne dopuszczalne charakterystyki czasowej miernika przy pomiarze wartości szczytowej, w zależności od klasy dokładności, wynoszą:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Błędy graniczne dopuszczalne charakterystyki czasowej"
+      },
+      {
+       "type": "text",
+       "text": "klasa dokładności 1 klasa dokładności 2"
+      },
+      {
+       "type": "text",
+       "text": "% dB % dB"
+      },
+      {
+       "type": "text",
+       "text": "+12, –11 ±1 +26, –21 ±2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Błędy graniczne dopuszczalne przetwornika uśredniająco-całkującego, w zależności od klasy dokładności, wynoszą:",
+   "children": [
+    {
+     "type": "text",
+     "text": "Współczynnik Stosunek amplitudy sygnału impul- Błędy graniczne dopuszczalne wypełnienia sowego do amplitudy sygnału sisygnału nusoidalnego przy tej samej warto- klasa dokładności 1 klasa dokładności 2 impulsowego ści skutecznej sygnału"
+    },
+    {
+     "type": "text",
+     "text": "10 –1 3,16"
+    },
+    {
+     "type": "text",
+     "text": "10 –2 10"
+    },
+    {
+     "type": "text",
+     "text": "10 –3 31,6"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Poziom zakłóceń wewnętrznych mierzony na urządzeniu wskazującym miernika powinien być co najmniej o 5 dB niższy od dolnej granicy zakresu pomiarowego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "% dB % dB"
+    },
+    {
+     "type": "text",
+     "text": "±6 ±0,5 +12, –11 ±1"
+    },
+    {
+     "type": "text",
+     "text": "+12, –11 ±1 +26, –21 ±2"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Zmiany sygnału na wyjściu napięciowym powinny odpowiadać zmianom wskazań miernika, z dopuszczalnymi odchyleniami nieprzekraczającymi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_1/pkt_1",
+       "text": "±8 % lub ±0,7 dB dla mierników klasy dokładności 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_1/pkt_2",
+       "text": "+12 % i –11 % lub ±1 dB dla mierników klasy dokładności 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Wartość skuteczna napięcia sygnału na wyjściu napięciowym, odpowiadająca wskazaniu równemu górnej granicy zakresu wskazań, dla częstotliwości 79,6 Hz i przy włączonej charakterystyce LIN powinna wynosić nie mniej niż 1 V.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_18/ust_3",
+     "text": "Współczynnik zniekształceń nieliniowych, mierzony na wyjściu napięciowym miernika, nie powinien wynosić więcej niż:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_3/pkt_1",
+       "text": "2 % przy wskazaniu miernika równemu 0,3 górnej granicy zakresu wskazań;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_3/pkt_2",
+       "text": "10 % przy wskazaniu miernika równemu górnej granicy zakresu wskazań.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Błędy wskazań mierników w zakresie temperatury i wilgotności, o których mowa w § 22, względem wskazań dla warunków odniesienia, o których mowa w § 21, nie powinny przekraczać ±6 % w skali liniowej lub ±0,5 dB w skali logarytmicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Wartość skuteczna przyspieszenia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_2/pkt_1",
+       "text": "mierzonego według charakterystyki LIN, wywołanego oddziaływaniem drgań, przy poddaniu miernika drganiom sinusoidalnym o amplitudzie 1,0 mm i częstotliwości z zakresu 5 Hz÷13,4 Hz lub przyspieszeniu 7 m/s² i częstotliwości z zakresu 13,4÷150 Hz, nie powinna wynosić więcej niż wartość określona przez producenta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_2/pkt_2",
+       "text": "wywołanego oddziaływaniem pola magnetycznego o częstotliwości 50 Hz i natężeniu 80 A/m, zmierzona dla takiego kierunku oddziaływania pola na miernik, dla jakiego wpływ ten jest największy, nie powinna wynosić więcej niż wartość określona przez producenta.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Względna zmiana wskazania miernika w ciągu 1 godziny nieprzerwanej pracy, w stałych warunkach, po czasie nagrzania nie większym niż 10 minut, nie powinna być większa niż:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_20/pkt_1",
+     "text": "±3,5 % lub ±0,3 dB dla mierników klasy dokładności 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_20/pkt_2",
+     "text": "±6 % lub ±0,5 dB dla mierników klasy dokładności 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Ustala się następujące warunki odniesienia dla mierników:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_21/pkt_1",
+     "text": "temperatura otoczenia 23 °C;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_21/pkt_2",
+     "text": "wilgotność względna 50 %.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Miernik powinien umożliwiać pomiary drgań co najmniej w następujących warunkach otoczenia:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_22/pkt_1",
+     "text": "temperatura otoczenia (–10 ÷ 50) °C;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_22/pkt_2",
+     "text": "maksymalna wilgotność względna 90 % w temperaturze otoczenia 30 °C.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Przepis końcowy"
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Gospodarki, Pracy i Polityki Społecznej: J. Hausner"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 8 marca 2004 r. (poz. 472) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "PRZEBIEG I BŁĘDY GRANICZNE DOPUSZCZALNE CHARAKTERYSTYKI CZĘSTOTLIWOŚCIOWEJ W MIERNIKA, DLA DRGAŃ OGÓLNYCH PIONOWYCH (oś z) k"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 6 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "PRZEBIEG I BŁĘDY GRANICZNE DOPUSZCZALNE CHARAKTERYSTYKI CZĘSTOTLIWOŚCIOWEJ W MIERNIKA, DLA DRGAŃ OGÓLNYCH POZIOMYCH (osie x lub y) d"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 7 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "PRZEBIEG I BŁĘDY GRANICZNE DOPUSZCZALNE CHARAKTERYSTYKI CZĘSTOTLIWOŚCIOWEJ WBc MIERNIKA, DLA DRGAŃ OGÓLNYCH WIELOKIERUNKOWYCH"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 8 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "PRZEBIEG I BŁĘDY GRANICZNE DOPUSZCZALNE CHARAKTERYSTYKI CZĘSTOTLIWOŚCIOWEJ W MIERNIKA, DLA DRGAŃ OGÓLNYCH POZIOMYCH (oś x) c"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 9 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Złącznik nr 5"
+    },
+    {
+     "type": "text",
+     "text": "PRZEBIEG I BŁĘDY GRANICZNE DOPUSZCZALNE CHARAKTERYSTYKI CZĘSTOTLIWOŚCIOWEJ W MIERNIKA, DLA DRGAŃ PIONOWYCH O DZIAŁANIU NA GŁOWĘ (oś x) j"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 6",
+   "body": [
+    {
+     "type": "text",
+     "text": "PRZEBIEG I BŁĘDY GRANICZNE DOPUSZCZALNE CHARAKTERYSTYKI CZĘSTOTLIWOŚCIOWEJ W MIERNIKA, DLA DRGAŃ PRZENOSZONYCH PRZEZ KOŃCZYNY GÓRNE h"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 11 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Gospodarki, Pracy i Polityki Społecznej kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 7 stycznia 2003 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki, Pracy i Polityki Społecznej (Dz. U. Nr 1, poz. 5).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 155, poz. 1286 i Nr 166, poz. 1360, z 2003 r. Nr 170, poz. 1652 oraz z 2004 r. Nr 49, poz. 465."
+ }
+}

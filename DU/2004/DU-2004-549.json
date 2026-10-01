@@ -1,0 +1,813 @@
+{
+ "eli": "DU/2004/549",
+ "title": "Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 22 marca 2004 r. w sprawie wymagań metrologicznych, którym powinny odpowiadać wagi automatyczne kontrolne i sortujące",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/549/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI, PRACY I POLITYKI SPOŁECZNEJ[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 marca 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wymagań metrologicznych, którym powinny odpowiadać wagi automatyczne kontrolne i sortujące[^2]"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 pkt 3 ustawy z dnia 11 maja 2001 r. — Prawo o miarach (Dz. U. Nr 63, poz. 636, z późn. zm.[^3]) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "waga:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "waga automatyczna kontrolna — przyrząd pomiarowy, nieposiadający zespołów elektronicznych, służący do określania, bez udziału operatora, masy ładunków, która zmienia się wokół nominalnego punktu nastawy, i rozdzielania tych ładunków na grupy, na podstawie różnicy pomiędzy masą ładunku a wartością nominalnego punktu nastawy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "waga automatyczna sortująca — przyrząd pomiarowy, nieposiadający zespołów elektronicznych, służący do określenia, bez udziału operatora, masy ładunków, których wartość nominalna nie jest określona, i rozdzielania ładunków o różnych masach na grupy o określonych przedziałach masy;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "wzorcowy ładunek próbny — ładunek stosowany do określenia standardowej strefy niezdecydowania (U ) podczas kontroli metrologicznej wagi; 3) nominalny s punkt nastawy — wartość wyrażoną w jednostkach miary masy, nastawioną przez operatora przy użyciu urządzenia nastawczego, w celu ustalenia granicy pomiędzy sąsiadującymi grupami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "rzeczywisty punkt nastawy — wartość nominalnego punktu nastawy powiększoną o wartość błędu nastawy, przy której waga może z takim samym prawdopodobieństwem zakwalifikować dany ładunek do jednej z dwóch grup, wyrażoną w jednostkach miary masy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "obciążenie minimalne — wartość masy ładunku, poniżej której waga może nie dokonać prawidłowej identyfikacji lub kwalifikacji ładunku do podgrupy, do której dany ładunek należy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "obciążenie maksymalne — największą dopuszczalną wartość masy ładunku;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "standardowa strefa niezdecydowania (U ) — ustalony zakres wagi, wyrażony w jednostkach s miary masy, w którym waga, przy danej prędkości działania, może zakwalifikować z takim samym prawdopodobieństwem wzorcowy ładunek próbny do jednej z dwóch grup;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "nominalna strefa niezdecydowania (U ) — ustalony zakres wagi, wyrażony w jednostkach n miary masy, w którym waga, przy danej prędkości działania, może zakwalifikować z takim samym prawdopodobieństwem dany ładunek do jednej z dwóch grup;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "rzeczywista strefa niezdecydowania (U ) — zakres wagi wyrażony w jednostkach miary masy, a ustalony podczas kontroli metrologicznej, w którym waga, przy danej prędkości działania, może zakwalifikować z takim samym prawdopodobieństwem wzorcowy ładunek próbny oraz dany ładunek do jednej z dwóch grup;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "czas odpowiedzi — czas pomiędzy momentem, w którym ładunek znajduje się w całości na nośni ładunku, a momentem, w którym wskazanie zespołu wagowego zaczyna się mieścić w standardowej strefie niezdecydowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "wydajność wagi — liczbę ładunków zważonych i rozdzielonych przez wagę w jednostce czasu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Wymagania metrologiczne dotyczące konstrukcji i wykonania wag"
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "W skład wagi wchodzą w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "zespół wagowy, informujący o masie ładunków;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "urządzenie wyzwalające, dające polecenie podania informacji przez zespół wagowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "urządzenie przetwarzające, które przetwarza informację przekazaną przez zespół wagowy na sygnał dający polecenie zakwalifikowania ładunku do danej grupy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "urządzenie wskazujące, które podaje co najmniej jedną z następujących informacji:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_4/lit_a",
+         "text": "masę ładunku,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_4/lit_b",
+         "text": "różnicę między wartością masy ładunku a wartością odniesienia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_4/lit_c",
+         "text": "grupę, do której należy ładunek;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_1/pkt_5",
+       "text": "przenośnik ładunku, przeznaczony do przesuwania ładunków na nośnię ładunku i ich zdejmowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_1/pkt_6",
+       "text": "urządzenie do nastawiania wartości masy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/ust_1/pkt_7",
+       "text": "urządzenie do regulacji położenia równowagi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/ust_1/pkt_8",
+       "text": "licznik, służący do wskazywania liczby ładunków, które przeszły przez pomost, albo liczby ładunków w każdej z grup;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/ust_1/pkt_9",
+       "text": "tłumik drgań, służący do korygowania efektów dynamicznych, powodowanych automatycznym działaniem wagi, mających wpływ na dokładność ważenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "W skład wagi automatycznej kontrolnej powinno wchodzić urządzenie korekcyjne, które w zależności od wyników ważenia automatycznie koryguje nastawę urządzenia formującego ładunki przechodzące przez wagę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Waga powinna być wyposażona w urządzenie sortujące, które może nie stanowić jej elementu składowego, pozwalające na automatyczne rozdzielenie ładunków na odrębne grupy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Jeżeli przenośnik ładunku jest wyposażony w pasy, taśmy albo łańcuchy z regulowanym naciągiem, który może wpływać na działanie zespołu wagowego, to urządzenie regulacyjne powinno być zabezpieczone przed dostępem osób nieuprawnionych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "W skład zespołu wagowego wchodzą w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "nośnia ładunku — przeznaczona do przyjmowania ładunku;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "urządzenie równoważące.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Do wartości działki elementarnej i działki legalizacyjnej urządzenia wskazującego z podziałką wyrażoną w jednostkach miary masy stosuje się § 4 rozporządzenia Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 3 października 2003 r. w sprawie wymagań metrologicznych, którym powinny odpowiadać wagi nieautomatyczne (Dz. U. Nr 183, poz. 1791).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Urządzenie do nastawiania wartości masy, w zależności od sposobu działania wagi, powinno umożliwiać regulację w granicach jednej czwartej wartości nominalnej strefy niezdecydowania U , przy wadze obciążonej albo nieobciążonej. n",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Tłumiki drgań powinny:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "sygnalizować, że pracują w przewidzianej dla nich temperaturze otoczenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "być zabezpieczone przed dostępem osób nieuprawnionych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Jeżeli właściwości tłumika drgań są zależne od zmian temperatury otoczenia w takim stopniu, że mogą powodować przekroczenie błędów granicznych dopuszczalnych wagi, tłumik drgań powinien być wyposażony w automatyczne urządzenie kompensacyjne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Wagi powinny być wypoziomowane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Wagi przenośne powinny:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_2/pkt_1",
+       "text": "być wyposażone w urządzenie poziomujące i wskaźnik poziomu albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_2/pkt_2",
+       "text": "spełniać charakterystyki metrologiczne przy pochyleniu wagi do 5 % w kierunku wzdłużnym i poprzecznym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Czułość zastosowanego w wadze wskaźnika poziomu powinna być taka, aby przy pochyleniu wagi o 0,5 % jego element ruchomy przemieszczał się co najmniej o 2 mm.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "W wadze powinny być stosowane odważniki o odpowiedniej klasie dokładności albo obciążniki specjalnie przeznaczone dla wagi, odróżniające się od odważników kształtem.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Konstrukcja i wykonanie wagi powinny uniemożliwiać przypadkowe rozregulowanie powodujące wadliwe jej działanie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Na wadze, w pobliżu lub na urządzeniu wskazującym, powinny być umieszczone w sposób trwały i czytelny w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_1/pkt_1",
+       "text": "nazwa lub znak identyfikacyjny producenta albo importera;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_1/pkt_2",
+       "text": "numer i znak fabryczny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_1/pkt_3",
+       "text": "nadany znak zatwierdzenia typu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_11/ust_1/pkt_4",
+       "text": "obciążenie maksymalne, w postaci: „Max...”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_11/ust_1/pkt_5",
+       "text": "obciążenie minimalne, w postaci: „Min...”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_11/ust_1/pkt_6",
+       "text": "nominalna strefa niezdecydowania, w postaci: „U n = ...”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_11/ust_1/pkt_7",
+       "text": "maksymalna wydajność, w postaci: „... ładunków na minutę”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_11/ust_1/pkt_8",
+       "text": "czas odpowiedzi, w postaci: „t = ... s”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_11/ust_1/pkt_9",
+       "text": "wartość działki legalizacyjnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_11/ust_1/pkt_10",
+       "text": "zakres temperatury pracy, w postaci: „... °C/.... °C”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_11/ust_1/pkt_11",
+       "text": "wartość napięcia zasilającego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_11/ust_1/pkt_12",
+       "text": "wartość częstotliwości napięcia zasilającego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Części wagi, które nie są bezpośrednio połączone z częścią główną, powinny być oznaczone w sposób wskazujący przynależność do danej wagi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Charakterystyka metrologiczna wag"
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Zespół wagowy wyposażony w urządzenie wskazujące z podziałką wyrażoną w jednostkach miary masy powinien spełniać, przy sprawdzeniu statycznym, wymagania dotyczące błędów granicznych dopuszczalnych, określone w § 20 ust. 1 rozporządzenia Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 3 października 2003 r. w sprawie wymagań metrologicznych, którym powinny odpowiadać wagi nieautomatyczne.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Maksymalna wartość standardowej strefy niezdecydowania nie powinna być większa niż:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_1/pkt_1",
+       "text": "1 g — dla ładunków o masie nominalnej do 100 g;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_1/pkt_2",
+       "text": "1 % — dla ładunków o masie nominalnej powyżej 100 g.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Wartość nominalnej strefy niezdecydowania nie powinna być mniejsza od wartości standardowej strefy niezdecydowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Wartość rzeczywistej strefy niezdecydowania nie powinna przekraczać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_14/pkt_1",
+     "text": "0,8 U — przy zatwierdzeniu typu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_14/pkt_2",
+     "text": "0,8 U s — przy legalizacji pierwotnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_14/pkt_3",
+     "text": "U n — n przy legalizacji ponownej w użytkowaniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Błąd nastawy, będący różnicą między nominalnym i rzeczywistym punktem nastawy, nie powinien przekraczać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_15/pkt_1",
+     "text": "0,5 U — przy zatwierdzeniu typu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_15/pkt_2",
+     "text": "0,8 U s — przy legalizacji pierwotnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_15/pkt_3",
+     "text": "0,5 U n n — przy legalizacji ponownej w użytkowaniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Zmiana rzeczywistego punktu nastawy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_16/pkt_1",
+     "text": "w czasie ośmiu godzin działania wagi nie powinna przekraczać:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_16/pkt_1/lit_a",
+       "text": "0,5 U — przy zatwierdzeniu typu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_16/pkt_1/lit_b",
+       "text": "0,5 U s n — przy legalizacji pierwotnej;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_16/pkt_2",
+     "text": "przy zmianie temperatury o 5 °C nie powinna przekraczać:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_16/pkt_2/lit_a",
+       "text": "0,5 U — przy zatwierdzeniu typu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_16/pkt_2/lit_b",
+       "text": "0,5 U s n — przy legalizacji pierwotnej.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Jeżeli ładunki mogą być umieszczane na wadze niecentrycznie, to przy zatwierdzeniu typu maksymalna różnica między wartościami masy wzorców niezbędnych dla osiągnięcia położenia równowagi, dla ładunku równego obciążeniu minimalnemu wagi, nie powinna przekraczać 0,5 U , bez względu na umiejscowienie ładunku na nośni s ładunku.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Wagi powinny spełniać wymagania dotyczące błędów granicznych dopuszczalnych oraz wymagania, o których mowa w § 14—17, w następujących warunkach odniesienia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_1/pkt_1",
+       "text": "w stałej temperaturze w zakresie co najmniej 25 °C,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_1/pkt_2",
+       "text": "w zakresie temperatury, innym niż określony w pkt 1, nie mniejszym niż 10 °C, dla wag przeznaczonych do stosowania w warunkach kontrolowanej temperatury,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_1/pkt_3",
+       "text": "przy zmianach:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_18/ust_1/pkt_3/lit_a",
+         "text": "napięcia w zakresie od –15 % do +10 % jego wartości nominalnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_18/ust_1/pkt_3/lit_b",
+         "text": "częstotliwości w zakresie od –2 % do 2 % jej wartości nominalnej",
+         "children": [
+          {
+           "type": "text",
+           "text": "— dla wag zasilanych napięciem o częstotliwości sieciowej."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Temperaturę uważa się za stałą, jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_2/pkt_1",
+       "text": "różnica między skrajnymi temperaturami w czasie sprawdzania wagi nie przekracza 5 °C;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_2/pkt_2",
+       "text": "zmiana temperatury w czasie pięciu minut nie przekracza 1 °C.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Masa ważonych ładunków powinna znajdować się w przedziale między obciążeniem minimalnym i obciążeniem maksymalnym wagi, przy czym obciążenie minimalne wagi nie powinno być mniejsze niż:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_19/pkt_1",
+     "text": "25 U — dla U ≤ 200 mg;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_19/pkt_2",
+     "text": "50 U n — dla 200 n mg < U ≤ 500 mg;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_19/pkt_3",
+     "text": "100 U n n — dla U n > 500 mg. n",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Czas ważenia, będący czasem pomiędzy momentem, w którym ładunek znajduje się w całości na nośni ładunku, a momentem, w którym podawana jest informacja o wartości jego masy, powinien być:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_20/pkt_1",
+     "text": "dłuższy lub równy czasowi odpowiedzi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_20/pkt_2",
+     "text": "krótszy lub równy czasowi, w trakcie którego ładunek znajduje się w całości na nośni ładunku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Dla każdej wydajności ważenia mniejszej lub równej maksymalnej wydajności błąd nastawy i wartość rzeczywistej strefy niezdecydowania powinny być mniejsze lub równe wartościom, o których mowa w § 14—17.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Przepis końcowy"
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Gospodarki, Pracy i Polityki Społecznej: J. Hausner"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Gospodarki, Pracy i Polityki Społecznej kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 7 stycznia 2003 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki, Pracy i Polityki Społecznej (Dz. U. Nr 1, poz. 5).",
+  "2": "Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Rady 78/1031/EWG z dnia 5 grudnia 1978 r. w sprawie zbliżenia ustawodawstwa państw członkowskich dotyczącego automatycznych wag kontrolnych i sortujących, opublikowanej w Dz. Urz. WE nr L 364 z dnia 27 grudnia 1978 r.",
+  "3": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 155, poz. 1286 i Nr 166, poz. 1360, z 2003 r. Nr 170, poz. 1652 oraz z 2004 r. Nr 49, poz. 465."
+ }
+}
