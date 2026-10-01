@@ -24,7 +24,7 @@ Zbiór powstaje rocznik po roczniku (pobieranie PDF-ów z API ok. 4 s na akt). L
 w `index.csv`, są w toku.
 
 <!-- stats:start -->
-Stan na 2026-09-30 22:17 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-01 01:25 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -37,7 +37,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 1394, razem 17537 z 461
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 1695.
 
 Rodzaje aktów: Rozporządzenie 5974, Oświadczenie rządowe 216, Umowa międzynarodowa 81, Konwencja 39, Protokół 31, Porozumienie 16, Uchwała 8, Dokument wypowiedzenia 6, Traktat 4, Postanowienie 4, Ustawa 1, Deklaracja 1, Decyzja 1, Statut 1.
-Wersje konwertera: eli2md 0.6.17 (5833), eli2md 0.6.16 (550).
+Wersje konwertera: eli2md 0.6.17 (5563), eli2md 0.6.16 (544), eli2md 0.6.18 (276).
 <!-- stats:end -->
 
 ## Zawartość
@@ -87,12 +87,25 @@ wobec warstwy tekstowej PDF), tu nie działa: PDF aktu to całe strony zeszytu, 
   akapitu „Na podstawie …”, a sama tabela jest spłaszczona i poszatkowana. Tak mogą wyglądać akty z tabelami
   w treści.
 
-Próba jest bardzo mała: 3 akty, po jednej stronie. Odsetka błędnych stron na tej podstawie nie da się ocenić.
+**Kontrola wzrokowa 2** (2026-10-01, eli2md 0.6.16/0.6.17, pierwsza i ostatnia strona PDF obok wyniku, 10 aktów
+wylosowanych z lat 2000–2003, ziarno 5301):
+- bez uwag, 5: DU/2002/1579, DU/2002/1537, DU/2003/951, DU/2001/927, DU/2003/1333 (schemat w załączniku to obraz;
+  w tekście jest tylko znacznik, zgodnie z opisem wyżej);
+- drobne błędy, 4: DU/2003/1192 (w załącznikach, które są rysunkami: dwa nagłówki stron w tekście, obrócony nagłówek
+  „Załącznik nr 3” odczytany wspak, „Załącznik nr 2”, „12”, „14” nie są nagłówkami), DU/2000/831 (notka „Uwaga: Opis
+  granic…” z dołu strony 4 przeniesiona na koniec aktu), DU/2002/1045 (tabela: kod „0105” w środku wielowierszowej
+  komórki), DU/2002/947 (przypis „*” jako akapit między akapitami treści);
+- poważny błąd, 1: DU/2003/2317. Ostatnia strona zeszytu (informacja wydawcy: gdzie kupić egzemplarze, reklamacje)
+  była w tekście ostatniego aktu zeszytu. Dotyczyło to 276 aktów z lat 2000–2003; poprawione w eli2md 0.6.18
+  (2026-10-01, opis w README eli2md). Zostaje 1 akt, w którym ten tekst pochodzi z OCR skanu (DU/2000/175).
+
+W żadnym z 13 obejrzanych aktów nie brakowało tekstu aktu i nie było na początku tekstu sąsiedniego aktu. Próba jest
+mała: odsetka błędnych aktów na tej podstawie nie da się ocenić.
 
 **Czego te liczby nie mówią:**
 
 - Wzorzec HTML mają głównie ustawy, obwieszczenia i orzeczenia. Większość aktów w tym zbiorze to rozporządzenia,
-  dla których wzorca nie ma. Ich jakość sprawdzam tylko kontrolą wzrokową (wyżej, na razie 3 akty).
+  dla których wzorca nie ma. Ich jakość sprawdzam tylko kontrolą wzrokową (wyżej, 13 aktów).
 - Akty bez warstwy tekstowej (OCR): na 3 takich aktach z prób (DU/2000/70, 179, 985) R 0.937–0.991,
   P 0.912–0.987. OCR myli znaki (np. „8 1.” zamiast „§ 1.”). Na stronach w dwóch łamach OCR potrafi pomieszać
   kolejność; koniec aktu z OCR bywa wtedy nieodcięty i do aktu trafia początek następnego.
