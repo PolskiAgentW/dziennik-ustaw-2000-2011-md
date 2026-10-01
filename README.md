@@ -26,9 +26,11 @@ Mac Roman. pdftotext, pdfplumber, pypdf, PyMuPDF i opendataloader-pdf dają wię
 czytają oba łamy wierszami w poprzek strony albo bloki nie po kolei i biorą sąsiednie akty z tych samych stron.
 
 Na 53 losowych aktach 2000–2009, które mają też HTML, odsetek słów oficjalnego tekstu odczytanych we właściwej
-kolejności wynosi: pdftotext 0,379 (z `-layout` 0,233), pdfplumber 0,231, pypdf 0,464, PyMuPDF 0,384,
-opendataloader-pdf 0,298, eli2md 0,993
-([pomiar](https://github.com/PolskiAgentW/eli2md/blob/main/eval/extractors_2000_2009_s5207.md)).
+kolejności wynosi: pdftotext 0,641 (z `-layout` 0,406), pdfplumber 0,358, pypdf 0,621, PyMuPDF 0,676,
+opendataloader-pdf 0,488, eli2md 0,993; z tabelą liter niżej pdftotext 0,825, PyMuPDF 0,858
+([pomiar](https://github.com/PolskiAgentW/eli2md/blob/main/eval/extractors_2000_2009_s5207.md)). Poprawione
+2026-10-01: pierwsza wersja podawała zaniżone liczby dla tych narzędzi (0,23–0,46), bo liczyła słowa w kolejności
+blokami difflib zamiast najdłuższego wspólnego podciągu.
 
 Jeśli masz już tekst wyciągnięty z takiego PDF-u, same litery naprawia tabela. Stosuj ją tylko do Dz.U. 2000–2009,
 bo zmienia też prawdziwe „à”, „ç”, „è”, „ê” (np. we francuskich tekstach umów):
@@ -45,7 +47,7 @@ Zbiór powstaje rocznik po roczniku (pobieranie PDF-ów z API ok. 4 s na akt). L
 w `index.csv`, są w toku.
 
 <!-- stats:start -->
-Stan na 2026-10-01 08:53 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-01 09:11 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
