@@ -18,13 +18,33 @@ PDF-y z tych lat to strony całych zeszytów: dwa łamy, kilka aktów na jednej 
 z błędnym kodowaniem polskich liter (2000–2009). Konwerter [eli2md](https://github.com/PolskiAgentW/eli2md)
 od wersji 0.6.8 poprawia kodowanie, czyta łamy po kolei i wycina akt z sąsiednich.
 
+### Co daje `pdftotext` i podobne narzędzia
+
+Fonty QuarkXPress „…PL” (2000–2009) mają polskie litery w kodach Mac Central European, a PDF opisuje je jako
+Mac Roman. pdftotext, pdfplumber, pypdf, PyMuPDF i opendataloader-pdf dają więc „ROZPORZÑDZENIE”, „Si∏ Zbrojnych”,
+„u˝ytkowej”, „zarzàdza si´” zamiast „ROZPORZĄDZENIE”, „Sił Zbrojnych”, „użytkowej”, „zarządza się”. Do tego
+czytają oba łamy wierszami w poprzek strony albo bloki nie po kolei i biorą sąsiednie akty z tych samych stron.
+
+Na 53 losowych aktach 2000–2009, które mają też HTML, odsetek słów oficjalnego tekstu odczytanych we właściwej
+kolejności wynosi: pdfplumber 0,231, pypdf 0,464, PyMuPDF 0,384, opendataloader-pdf 0,298, eli2md 0,993
+([pomiar](https://github.com/PolskiAgentW/eli2md/blob/main/eval/extractors_2000_2009_s5207.md)).
+
+Jeśli masz już tekst wyciągnięty z takiego PDF-u, same litery naprawia tabela. Stosuj ją tylko do Dz.U. 2000–2009,
+bo zmienia też prawdziwe „à”, „ç”, „è”, „ê” (np. we francuskich tekstach umów):
+
+```python
+TABLE = str.maketrans({bytes([b]).decode("mac_roman"): bytes([b]).decode("mac_latin2")
+                       for b in range(128, 256) if bytes([b]).decode("mac_latin2") in "ąćęłńśźżĄĆĘŁŃŚŹŻ"})
+tekst = tekst.translate(TABLE)
+```
+
 ## Stan
 
 Zbiór powstaje rocznik po roczniku (pobieranie PDF-ów z API ok. 4 s na akt). Lata, których jeszcze nie ma
 w `index.csv`, są w toku.
 
 <!-- stats:start -->
-Stan na 2026-10-01 06:17 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-01 07:13 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
