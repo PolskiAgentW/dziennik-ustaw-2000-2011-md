@@ -1,0 +1,225 @@
+{
+ "eli": "DU/2006/1517",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 października 2006 r. w sprawie niezbędnych elementów struktury dokumentów elektronicznych",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2006/1517/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 października 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie niezbędnych elementów struktury dokumentów elektronicznych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. 2a ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2006 r. Nr 97, poz. 673, Nr 104, poz. 708 i Nr 170, poz. 1217) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa niezbędne elementy struktury dokumentów elektronicznych powstałych i gromadzonych w organach państwowych i państwowych jednostkach organizacyjnych, w organach jednostek samorządu terytorialnego i samorządowych jednostkach organizacyjnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Metadanymi w rozumieniu rozporządzenia jest zestaw logicznie powiązanych z dokumentem elektronicznym usystematyzowanych informacji opisujących ten dokument, ułatwiających jego wyszukiwanie, kontrolę, zrozumienie i długotrwałe przechowanie oraz zarządzanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Niezbędnymi elementami struktury dokumentów elektronicznych są następujące metadane:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "identyfikator — jednoznaczny w danym zbiorze dokumentów znacznik dokumentu, który umożliwia jego identyfikację;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "twórca — podmiot odpowiedzialny za treść dokumentu, z podaniem jego roli w procesie tworzenia lub akceptacji dokumentu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "tytuł — nazwa nadana dokumentowi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_2/pkt_4",
+       "text": "data — data zdarzenia związanego z tworzeniem dokumentu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_2/pkt_5",
+       "text": "format — nazwa formatu danych zastosowanego przy tworzeniu dokumentu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_2/pkt_6",
+       "text": "dostęp — określenie komu, na jakich zasadach i w jakim zakresie można udostępnić dokument;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/ust_2/pkt_7",
+       "text": "typ — określenie podstawowego typu dokumentu (np. tekst, dźwięk, obraz, obraz ruchomy, kolekcja) w oparciu o listę typów Dublin Core Metadata Initiative i jego ewentualne dookreślenie (np. prezentacja, faktura, ustawa, notatka, rozporządzenie, pismo);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/ust_2/pkt_8",
+       "text": "relacja — określenie bezpośredniego powiązania z innym dokumentem i rodzaju tego powiązania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/ust_2/pkt_9",
+       "text": "odbiorca — podmiot, do którego dokument jest adresowany;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_2/ust_2/pkt_10",
+       "text": "grupowanie — wskazanie przynależności do zbioru dokumentów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_2/ust_2/pkt_11",
+       "text": "kwalifikacja — kategoria archiwalna dokumentu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_2/ust_2/pkt_12",
+       "text": "język — kod języka naturalnego zgodnie z normą ISO-639-2 lub inne określenie języka, o ile nie występuje w normie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_2/ust_2/pkt_13",
+       "text": "opis — streszczenie, spis treści lub krótki opis treści dokumentu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_2/ust_2/pkt_14",
+       "text": "uprawnienia — wskazanie podmiotu uprawnionego do dysponowania dokumentem.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Dokumenty elektroniczne przygotowane do przesyłania za pomocą środków komunikacji elektronicznej sporządza się w formacie XML.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Dokumenty elektroniczne zapisuje się w strukturze umożliwiającej automatyczne wyodrębnienie treści dokumentu oraz poszczególnych metadanych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "W przypadku gdy metadane, o których mowa w ust. 2, odpowiadają elementom informacyjnym wymienionym w minimalnych wymaganiach dla rejestrów publicznych, ich wartości podaje się zgodnie z zasadami tam określonymi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Dla każdego dokumentu elektronicznego podaje się wartości metadanych określonych w § 2 ust. 2 pkt 1—7.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Wartości metadanych, o których mowa w § 2 ust. 2 pkt 8—14, podaje się, jeżeli zostały przypisane do dokumentu w procesie jego tworzenia, przetwarzania lub przechowywania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Dodatkowe objaśnienia niezbędne do prawidłowego uporządkowania metadanych oraz wynikające z najlepszej praktyki przykłady prawidłowego uporządkowania metadanych zamieszcza się na stronie podmiotowej Biuletynu Informacji Publicznej ministra właściwego do spraw informatyzacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Umieszczanie w strukturze dokumentu elektronicznego innych metadanych niż określone w § 2 ust. 2 nie może wpływać na zmianę wartości niezbędnych metadanych ani utrudniać ich automatycznego wyodrębniania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rozporządzenie wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych i Administracji: L. Dorn"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej — informatyzacja, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 lipca 2006 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. Nr 131, poz. 919)."
+ }
+}

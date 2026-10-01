@@ -1,0 +1,480 @@
+{
+ "eli": "DU/2006/1519",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 2 listopada 2006 r. w sprawie wymagań technicznych formatów zapisu i informatycznych nośników danych, na których utrwalono materiały archiwalne przekazywane do archiwów państwowych",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2006/1519/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 2 listopada 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wymagań technicznych formatów zapisu i informatycznych nośników danych, na których utrwalono materiały archiwalne przekazywane do archiwów państwowych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. 2c oraz ust. 3 pkt 5 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2006 r. Nr 97, poz. 673, Nr 104, poz. 708 i Nr 170, poz. 1217) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa wymagania techniczne, jakim powinny odpowiadać formaty zapisu i informatyczne nośniki danych w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565 oraz z 2006 r. Nr 12, poz. 65 i Nr 73, poz. 501), przekazywanych do archiwów państwowych materiałów archiwalnych utrwalonych na informatycznych nośnikach danych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Informatyczny nośnik danych powinien być:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "oznakowany w sposób pozwalający na jednoznaczną identyfikację;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "przystosowany do przenoszenia pomiędzy urządzeniami odczytującymi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "dostosowany do przechowywania w temperaturze 18—22 °C przy wilgotności względnej 40—50 %.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Informatyczny nośnik danych powinien zapewniać możliwość wiernego odczytywania danych w urządzeniach produkowanych przez różnych producentów, właściwych dla danego typu nośnika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Przekazywane materiały archiwalne zapisuje się w formacie, w którym były ostatnio przechowywane przez podmiot przekazujący.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Materiały archiwalne przekazuje się razem z odnoszącymi się do nich metadanymi, o których mowa w przepisach wydanych na podstawie art. 5 ust. 2a ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Metadane zapisuje się w strukturze określonej w przepisach wydanych na podstawie art. 5 ust. 2a ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach, dołączone do dokumentu lub zawarte w nim, w formacie XML.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Techniczny sposób zapisu na nośniku określa załącznik do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Materiały archiwalne przekazuje się w postaci niezaszyfrowanej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Informatyczny nośnik danych przekazuje się wraz z informacją zawierającą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "nazwę podmiotu przekazującego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "tytuł zwięźle określający zawartość nośnika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "datę wykonania zapisu na nośniku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "informację o tym, czy dane stanowią informacje chronione ustawą, a w szczególności klauzulę tajności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_1/pkt_5",
+       "text": "wskazanie oprogramowania i urządzeń użytych do wykonania zapisu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Najwyższy poziom w strukturze zapisu przekazywanych materiałów archiwalnych musi zawierać trzy foldery zdefiniowane jako: „dokumenty”, „metadane” i „sprawy”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Folder „dokumenty” powinien zawierać przynajmniej jeden dokument elektroniczny składający się z jednego lub więcej plików:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "w przypadku dokumentu składającego się z jednego pliku — jeden plik z rozszerzeniem lub bez;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "w przypadku dokumentu składającego się z więcej niż jednego pliku — podfolder zawierający przynajmniej dwa pliki składające się na dokument.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Folder „metadane” powinien zawierać pliki z metadanymi opisującymi dokumenty elektroniczne znajdujące się w folderze „dokumenty”. Każdy dokument elektroniczny musi być opisany przez dokładnie jeden plik z metadanymi.",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_3/pkt_1",
+       "text": "Dla dokumentów elektronicznych składających się z jednego pliku nazwa pliku z metadanymi składa się z nazwy pliku odpowiadającego im dokumentu znajdującego się w folderze „dokumenty” i rozszerzenia xml (np. dokument o nazwie Dokument_A.pdf musi mieć opisujące metadane w pliku o nazwie Dokument_A.pdf.xml).",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_3/pkt_2",
+       "text": "Dla dokumentów elektronicznych składających się z więcej niż jednego pliku nazwa pliku z metadanymi składa się z nazwy podfolderu odpowiadającego im dokumentu znajdującego się w folderze „dokumenty” i rozszerzenia xml (np. dokument o nazwie Dokument_A musi mieć opisujące metadane w pliku o nazwie Dokument_A.xml).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Informacja, o której mowa w ust. 1, powinna być w sposób niebudzący wątpliwości przyporządkowana do oznaczenia nośnika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rozporządzenie wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych i Administracji: L. Dorn"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 2 listopada 2006 r. (poz. 1519)"
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "Folder „sprawy” powinien zawierać metadane spraw lub innych grup dokumentów. Każdy dokument w paczce archiwalnej musi przynależeć przynajmniej do jednej sprawy lub innej grupy dokumentów. Nazwa pliku dla metadanych sprawy jest zespoleniem identyfikatora sprawy lub innej grupy dokumentów oraz rozszerzenia xml.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "W celu umożliwienia podpisania całej partii przekazywanych materiałów archiwalnych podpisem elektronicznym przekazywane materiały archiwalne mogą być spakowane w nieskompresowanym pliku, zwanym dalej „paczką archiwalną”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_6/ust_5",
+     "text": "Format paczki archiwalnej uzgadnia podmiot przekazujący z archiwum państwowym, do którego przekazywane są materiały archiwalne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_6/ust_6",
+     "text": "Następujące znaki są niedozwolone w nazwach plików zapisanych na nośniku, na którym przekazuje się materiały archiwalne:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(\\) — ukośnik lewy,"
+      },
+      {
+       "type": "text",
+       "text": "(/) — ukośnik prawy,"
+      },
+      {
+       "type": "text",
+       "text": "(*) — gwiazdka,"
+      },
+      {
+       "type": "text",
+       "text": "(?) — znak zapytania,"
+      },
+      {
+       "type": "text",
+       "text": "(:) — dwukropek,"
+      },
+      {
+       "type": "text",
+       "text": "(=) — znak równości,"
+      },
+      {
+       "type": "text",
+       "text": "(,) — przecinek,"
+      },
+      {
+       "type": "text",
+       "text": "(;) — średnik."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_6/ust_7",
+     "text": "Definicje struktury układu metadanych zapisanych w plikach XML znajdujących się w folderze „metadane” lub w folderze „sprawy” są następujące:",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:import namespace=\"http://lcweb.loc.gov/standards/is0639-2/\" schemaLocation=\"http://www.ddb.de/standards/xmetadiss/iso639-2.xsd\"/>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:element name=\"dokument\"> <xsd:complexType> <xsd:sequence> <xsd:element name=\"odbiorca\" type=\"ndap:Odbiorca\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> <xsd:element name=\"data\" type=\"ndap:Data\" minOccurs=\"1\" maxOccurs=\"unbounded\"/> <xsd:element name=\"dostep\" type=\"ndap:Dostep\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"format\" type=\"ndap:Format\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"grupowanie\" type=\"ndap:Grupowanie\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> <xsd:element name=\"identyfikator\" type=\"ndap:ldentyfikator\" minOccurs=\"1\" maxOccurs=\"unbounded\"/> <xsd:element name=\"jezyk\" type=\"ndap:Jezyk\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> <xsd:element name=\"lokalizacja\" type=\"ndap:Lokalizacja” minOccurs=\"0\" maxOccurs=\"unbounded\"/> <xsd:element name=\"opis\" type=\"xsd:string\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"uprawnienia\" type=\"xsd:string\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> <xsd:element name=\"kwalifikacja\" type=\"ndap:Kwalifikacja\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"relacja\" type=\"ndap:Relacja\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> <xsd:element name=\"status\" type=\"ndap:Status\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"tematyka\" type=\"ndap: Tematyka” minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"tworca” type=\"ndap: Tworca\" minOccurs=\"1\" maxOccurs=\"unbounded\"/> <xsd:element name=\"typ\" type=\"ndap: Typ\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"tytul\" type=\"ndap: Tytul\" minOccurs=\"1\" maxOccurs=\"1\"/> </xsd:sequence> </xsd:complexType> </xsd:element>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Adres\"> <xsd:sequence> <xsd:element name=\"kod\" type=\"xsd:string” minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"poczta\" type=\"xsd:string\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"miejscowosc\" type=\"xsd:string\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"ulica\" type=\"xsd:string\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"budynek\" type=\"xsd.string\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"lokal\" type=\"xsd:string\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"skrytkapocztowa\" type=\"xsd:string\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"uwagi\" type=\"xsd:string” minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"kraj\" type=\"un.ece.unedocs.cl.iso3166:CountryCoded\" minOccurs=\"1\" maxOccurs=\"1\" default=\"PL\"/> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Odbiorca\"> <xsd:sequence> <xsd:element name=\"podmiot\" type=\"ndap:Podmiot\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"rodzaj\" minOccurs=\"1\" maxOccurs=\"1\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"glowny\"/> <xsd:enumeration value=\"do wiadomosci\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Data\"> <xsd:sequence> <xsd:element name=\"typ\" type=\"ndap: TypDaty\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:choice> <xsd:element name=\"czas\" type=\"ndap:Czas\" minOccurs=\"1\" maxOccurs=\"1\"/>"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:group ref=\"ndap:PrzedzialCzasu\"/> </xsd:choice> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:simpleType name=\"TypDaty\"> <xsd:restriction base=\"xsd.string\"> <xsd:enumeration value=\"dostepnyPo\"/> <xsd.enumeration value=\"opublikowany\"/> <xsd:enumeration value=\"stworzony\"> <xsd:enumeration value=\"uzyskany\"/> <xsd:enumeration value=\"otrzymany\"/> <xsd:enumeration value=\"wyslany\"/> <xsd:enumeration value=\"zaakceptowany\"/> <xsd:enumeration value=\"zatwierdzony\"/> <xsd:enumeration value=\"zmodyfikowany\"/> <xsd:enumeration value=\"daty skrajne\"/> </xsd:restriction> </xsd:simpleType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:group name=\"PrzedzialCzasu\"> <xsd:sequence> <xsd:element name=\"od\" type=\"ndap:Czas\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"do\" type=\"ndap:Czas\" minOccurs=\"1\" maxOccurs=\"1\"/> </xsd:sequence> </xsd:group>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:simpleType name=\"Czas\"> <xsd:union memberTypes=\"xsd:gYear xsd:gYearMonth xsd:date xsd:dateTime\"/> </xsd:simpleType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Dostep\"> <xsd:sequence> <xsd:element name=\"dostepnosc\" minOccurs=\"1\" maxOccurs=\"1\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"wszystko\"/> <xsd:enumeration value=\"metadane\"/> <xsd:enumeration value=\"niedostepne\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"uwagi\" type=\"xsd:string\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"data\" minOccurs=\"0\" maxOccurs=\"1\"> <xsd:complexType> <xsd:complexContent> <xsd:restriction base=\"ndap:Data\"> <xsd:sequence> <xsd:element name=\"typ\" type=\"ndap:TypDaty” fixed=\"dostepnyPo\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"czas\" type=\"ndap:Czas\" minOccurs=\"1\" maxOccurs=\"1\"/> </xsd:sequence> </xsd:restriction> </xsd:complexContent> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Format\"> <xsd:sequence> <xsd:element name=\"typ\" type=\"xsd:string\" minOccurs=\"1\" maxOccurs=\"1\"/>"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:element name=\"specyfikacja\" type=\"xsd:string\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"wielkosc\" type=\"ndap:Wielkosc\" minOccurs=\"0\" maxOccurs=\"1\"/> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Wielkosc\"> <xsd.simpleContent> <xsd:extension base=\"xsd:string\"> <xsd:attribute name=\"jednostka\" use=\"required\"> <xsd:simpleType> <xsd:union memberTypes=\"xsd:string\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"bajt\"/> </xsd:restriction> </xsd:simpleType> </xsd:union> </xsd:simpleType> </xsd:attribute> </xsd:extension> </xsd:simpleContent> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Grupowanie\"> <xsd:sequence> <xsd:element name=\"typ\" type=\"xsd:string\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"kod\" type=\"xsd.string\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"opis\" type=\"xsd:string\" minOccurs=\"1\" maxOccurs=\"1\"/> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Identyfikator\"> <xsd:sequence> <xsd:element name=\"typ\" type=\"xsd:string\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"wartosc\" type=\"xsd:string\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"podmiot\" type=\"ndap:Podmiot\" minOccurs=\"0\" maxOccurs=\"1\"/> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"lnstytucja\"> <xsd:sequence> <xsd:element name=\"id\" type=\"ndap:ld\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"nazwa\" type=\"xsd:string\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"adres\" type=\"ndap:Adres” minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"kontakt\" type=\"ndap:Kontakt\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"jednostka\" type=\"ndap:Jednostka\" minOccurs=\"0\" maxOccurs=\"1\"/> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Kontakt\"> <xsd:simpleContent> <xsd:extension base=\"xsd:string\"> <xsd:attribute name=\"typ\" use=\"required\"> <xsd:simpleType> <xsd:union memberTypes=\"xsd:string\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"telefon\"/> <xsd:enumeration value=\"faks\"/> <xsd:enumeration value=\"email\"/> </xsd:restriction>"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "</xsd:simpleType> </xsd:union> </xsd:simpleType> </xsd:attribute> </xsd:extension> </xsd:simpleContent> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"ld\"> <xsd:simpleContent> <xsd:extension base=\"xsd:string\"> <xsd:attribute name=\"typ\" type=\"xsd:string\" use=\"required\"/> </xsd:extension> </xsd:simpleContent> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Jednostka\"> <xsd:sequence> <xsd:element name=\"nazwa\" type=\"xsd:string\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"adres\" type=\"ndap:Adres\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"kontakt\" type=\"ndap:Kontakt\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"poziom\" type=\"xsd:string\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"jednostka\" type=\"ndap:Jednostka\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"pracownik\" type=\"ndap:Pracownik\" minOccurs=\"0\" maxOccurs=\"1\"/> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Jezyk\"> <xsd:simpleContent> <xsd:extension base=\"xsd:string\"> <xsd:attribute name=\"kod\" type=\"liso639-2:RegisteredCode Type\" use=\"required\"/> </xsd:extension> </xsd:simpleContent> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Lokalizacja\"> <xsd:sequence> <xsd:element name=\"typ\" type=\"xsd:string\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"podmiot\" type=\"ndap:Podmiot\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"adres\" type=\"xsd:string\" minOccurs=\"0\" maxOccurs=\"1'\"/> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Osoba\"> <xsd:sequence> <xsd:element name=\"id\" type=\"ndap:ld\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> <xsd:element name=\"nazwisko\" type=\"xsd:string\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"imie\" type=\"xsd:string\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"adres\" type=\"ndap:Adres\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"kontakt\" type=\"ndap:Kontakt\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Podmiot\"> <xsd:choice> <xsd:element name=\"osoba\" type=\"ndap:Osoba\"/> <xsd:element name=\"instytucja\" type=\"ndap:Instytucja\"/> </xsd:choice> </xsd:complexType>"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Pracownik\"> <xsd:sequence> <xsd:element name=\"id\" type=\"ndap:ld\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"nazwisko\" type=\"xsd:string\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"imie\" type=\"xsd:string\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"kontakt\" type=\"ndap:Kontakt\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> <xsd:element name=\"funkcja\" type=\"xsd:string\" minOccurs=\"0\" maxOccurs=\"1\"/> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Kwalifikacja\"> <xsd:sequence> <xsd:element name=\"kategoria\" type=\"xsd:string\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"data\" type=\"xsd:date\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"podmiot\" type=\"ndap:Podmiot\" minOccurs=\"1\" maxOccurs=\"1\"/> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Relacja\"> <xsd:sequence> <xsd:element name=\"identyfikator\" type=\"ndap:ldentyfikator\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"typ\" minOccurs=\"1\" maxOccurs=\"1\"> <xsd:simpleType> <xsd:union memberTypes=\"xsd:string\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"maFormat\"/> <xsd:enumeration value=\"jestFormatem\"/> <xsd:enumeration value=\"maWersje\"/> <xsd:enumeration value=\"jestWersja\"/> <xsd:enumeration value=\"maCzesc\"/> <xsd:enumeration value=\"jestCzescia\"/> <xsd:enumeration value=\"maOdniesienie\"/> <xsd:enumeration value=\"odnosiSieDo\"/> <xsd:enumeration value=\"mazZrodlo\"/> <xsd:enumeration value=\"wymaga\"/> <xsd:enumeration value=\"jestWymagany\"/> <xsd:enumeration value=\"maDekretacje\"/> <xsd:enumeration value=\"jestDekretacja\"/> </xsd:restriction> </xsd:simpleType> </xsd:union> </xsd:simpleType> </xsd:element> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Status\"> <xsd:sequence> <xsd:element name=\"rodzaj\" type=\"xsd:string” minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"wersja\" type=\"xsd:string\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"opis\" type=\"xsd:string\" minOccurs=\"0\" maxOccurs=\"1\"/> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Tematyka\"> <xsd:sequence> <xsd:element name=\"przedmiot\" type=\"xsd:string\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> <xsd:element name=\"osoby\" type=\"xsd:string\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> <xsd:element name=\"miejsce\" type=\"xsd:string\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> <xsd:element name=\"czas\" type=\"ndap:PrzedzialCzasu Tematyki” minOccurs=\"0\" maxOccurs=\"unbounded\"/>"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:element name=\"odbiorcy\" type=\"xsd:string\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> <xsd:element name=\"inne\" type=\"ndap: Inne\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Inne\"> <xsd:sequence> <xsd:element name=\"klucz\" type=\"xsd:string\" minOccurs=\"1\" maxOccurs=\"1\"/> <xsd:element name=\"wartosc\" type=\"xsd:string\" minOccurs=\"1\" maxOccurs=\"1\"/> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"PrzedzialCzasuTematyki\"> <xsd:sequence> <xsd:element name=\"od\" type=\"ndap:Czas\" minOccurs=\"0\" maxOccurs=\"1\"/> <xsd:element name=\"do\" type=\"ndap:Czas\" minOccurs=\"0\" maxOccurs=\"1\"/> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Tworca\"> <xsd:sequence> <xsd:element name=\"funkcja\" minOccurs=\"1\" maxOccurs=\"1\"> <xsd:simpleType> <xsd:union memberTypes=\"xsd:string\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"stworzyl\"/> <xsd:enumeration value=\"modyfikowal\"/> <xsd:enumeration value=\"zatwierdzil\"/> </xsd:restriction> </xsd:simpleType> </xsd:union> </xsd:simpleType> </xsd:element> <xsd:element name=\"podmiot\" type=\"ndap:Podmiot\" minOccurs=\"1\" maxOccurs=\"1\"/> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "ocr",
+       "text": "<xsd:complexType name=\"Typ\"> <xsd:sequence> <xsd:element name=\"kategoria\" minOccurs=\"1\" maxOccurs=\"1\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"Collection\"/> <xsd:enumeration value=\"Dataset\"/> <xsd:enumeration value=\"Event\"/> <xsd:enumeration value=\"Image\"/> <xsd:enumeration value=\"lnteractiveResource\"/> <xsd:enumeration value=\"Movinglmage\"/> <xsd:enumeration value=\"PhysicalObject\"/> <xsd:enumeration value=\"Service\"/> <xsd:enumeration value=\"Software\"/> <xsd:enumeration value=\"Sound\"/> <xsd:enumeration value=\"Stilllmage\"/> <xsd:enumeration value=\"Text\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"rodzaj\" type=\"xsd:string\" minOccurs=\"0\" maxOccurs=\"1\"/> </xsd:sequence> </xsd:complexType>"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 9 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej — informatyzacja oraz sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 i 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 lipca 2006 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. Nr 131, poz. 919)."
+ }
+}

@@ -1,0 +1,1422 @@
+{
+ "eli": "DU/2006/1196",
+ "title": "Rozporządzenie Ministra Finansów z dnia 11 września 2006 r. w sprawie trybu składania oraz struktury logicznej zgłoszenia upoważnienia podatnika lub osoby upoważnionej przez podatnika do składania deklaracji w formie elektronicznej i podpisywania deklaracji podpisem elektronicznym",
+ "converter": "eli2md 0.6.18",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2006/1196/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 września 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie trybu składania oraz struktury logicznej zgłoszenia upoważnienia podatnika lub osoby upoważnionej przez podatnika do składania deklaracji w formie elektronicznej i podpisywania deklaracji podpisem elektronicznym"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 3c § 4 pkt 2 ustawy z dnia 29 sierpnia 1997 r. — Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa tryb składania zgłoszenia oraz strukturę logiczną zgłoszenia upoważnienia podatnika lub osoby upoważnionej przez podatnika do składania deklaracji w formie elektronicznej i podpisywania deklaracji podpisem elektronicznym, zwanego dalej „zgłoszeniem”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "formacie danych XML (XSD) — rozumie się przez to format danych określony w przepisach rozporządzenia Rady Ministrów z dnia 11 października 2005 r. w sprawie minimalnych wymagań dla systemów teleinformatycznych (Dz. U. Nr 212, poz. 1766);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "protokole komunikacyjnym sieci WWW (HTTP) — rozumie się przez to protokół komunikacyjny określony w przepisach rozporządzenia wymienionego w pkt 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "protokole szyfrującym dla sieci WWW (SSL) — rozumie się przez to protokół szyfrujący określony w przepisach rozporządzenia wymienionego w pkt 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "protokole wywoływania zdalnego dostępu do obiektów (SOAP) — rozumie się przez to protokół wywoływania określony w przepisach rozporządzenia wymienionego w pkt 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "języku opisu usług sieciowych (WSDL) — rozumie się przez to język opisu określony w przepisach rozporządzenia wymienionego w pkt 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "strukturze logicznej dokumentu elektronicznego — rozumie się przez to strukturę logiczną określoną w § 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 września 2005 r. w sprawie warunków organizacyjno-technicznych doręczania dokumentów elektronicznych podmiotom publicznym (Dz. U. Nr 200, poz. 1651);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "urzędowym poświadczeniu odbioru — rozumie się przez to urzędowe poświadczenie określone w § 2 pkt 4 rozporządzenia wymienionego w pkt 6.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Do określenia struktury logicznej zgłoszenia stosuje się format danych XML.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Format danych XML (XSD) wyznaczający strukturę logiczną zgłoszenia określa załącznik nr 1 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Zgłoszenie może być przesyłane za pomocą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "strony internetowej, której adres podany jest na stronie Biuletynu Informacji Publicznej Ministerstwa Finansów, za pomocą protokołu komunikacyjnego sieci WWW (HTTP) szyfrowanego przy użyciu protokołu szyfrującego dla sieci (SSL); przesłanie zgłoszenia wymaga wypełnienia formularza umieszczonego na stronie internetowej, wygenerowania na jego podstawie dokumentu w formacie XML i podpisania go bezpiecznym podpisem elektronicznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "programu udostępnionego do pobrania za pomocą szyfrowanego przy użyciu SSL protokołu HTTP pod adresem udostępnionym na stronie Biuletynu Informacji Publicznej Ministerstwa Finansów; zgłoszenie przesyła się przez wprowadzenie pliku w formacie, o którym mowa w § 3, do programu; przesłanie odbywa się przez szyfrowany przy użyciu protokołu szyfrującego dla sieci (SSL) protokół komunikacyjny sieci WWW (HTTP);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "niewizualnego interfejsu dostępnego na stronie, której adres jest podany na stronie Biuletynu Informacji Publicznej Ministerstwa Finansów, poprzez zastosowanie protokołu wywoływania zdalnego dostępu do obiektów (SOAP), opisanego językiem opisu usług sieciowych (WSDL), dostępnego przez sieć WWW (HTTP), szyfrowanego przy użyciu protokołu szyfrującego dla sieci (SSL).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Strukturę logiczną urzędowego poświadczenia odbioru zgłoszenia określa załącznik nr 2 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Zgłoszenia są opatrywane bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu w rozumieniu ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, poz. 1450, z późn. zm.[^3]).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Sposób opatrywania zgłoszenia bezpiecznym podpisem elektronicznym określa załącznik nr 3 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: S. Kluza"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Finansów z dnia 11 września 2006 r. (poz. 1196) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "FORMAT DANYCH XML (XSD) WYZNACZAJĄCY STRUKTURĘ LOGICZNĄ ZGŁOSZENIA"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"Faks\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\" 40\" /> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\" Email\" type=\"TAdresEmail\" minOccurs=\" 0\" /> </xsd:sequence> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> <xsd:element name=\"Podmiot2\"> <xsd:annotation> <xsd:documentation>Dane osoby fizycznej upoważnionej do podpisywania deklaracji</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:complexContent> <xsd:extension base=\"TOsobaFizyczna\"> <xsd:sequence> <xsd:element name=\"Kontakt\" minOccurs=\"0\"> <xsd:complexType> <xsd:sequence> <xsd:element name=\"Telefon\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\" 40\" /> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"Faks\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\" 40\" /> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"Email\" type=\"TAdresEmail\" minOccurs=\" 0\" /> </xsd:sequence> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> <xsd:element name=\"ZakresTerminuUprawnien\" > <xsd:annotation> <xsd:documentation>Zakres terminu uprawnien do podpisu deklaracji</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd: sequence> <xsd:element name=\"WaznyOd\" type=\" TData\" /> <xsd:element name=\"WaznyDo\" type=\"TData™ minOccurs=\" 0\" />"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:sequence> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:complexType> </xsd:element> </xsd: schema>"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa pliku XSD: http://e-poltax.mf.gov.pl/Repozytorium/Definicje/ElementarneTypyDanych v1-0.xsd"
+    },
+    {
+     "type": "ocr",
+     "text": "Treść pliku:"
+    },
+    {
+     "type": "ocr",
+     "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <xsd:schema xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" elementFormDefault=\" qualified\" attributeFormDefault=\"unqualified\" version=\"1.0\" xml:lang=\"PL\"> <xsd: poltax. <xsd: poltax. <xsd:"
+    },
+    {
+     "type": "ocr",
+     "text": "incl"
+    },
+    {
+     "type": "ocr",
+     "text": "lude schemaLocation=\"http://emf.gov.pl/Repozytorium/Slowniki/KodyUrzedowSkarbowych v1-0.xsd\" /> incl"
+    },
+    {
+     "type": "ocr",
+     "text": "lude schemaLocation=\"http://emf.gov.pl/Repozytorium/Slowniki/KodyKrajow v1-0.xsd\" /> annotation> <xsd:documentation>Definicje podstawowych typów używanych w deklaracjach elektronicznych. Na podstawie poniższych typów można budować deklaracje</xsd:documentation> </xsd:annotation> <xsd:simpleType name=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Typ znakowy ograniczony do jednej linii</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:normalizedString\"> <xsd:minLength value=\"1\" /> <xsd:maxLength value=\" 240\" /> <xsd:whiteSpace value=\" replace\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TT <xsd:annotation>"
+    },
+    {
+     "type": "ocr",
+     "text": "nn"
+    },
+    {
+     "type": "ocr",
+     "text": "kstowy\">"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Typ znakowy ograniczony do 2000 znaków</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:string\"> <xsd:minLength value=\" 1\" /> <xsd:maxLength value=\"2000\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\" TProcentowy\" > <xsd:annotation> <xsd:documentation>Wartość procentowa z dokładnością do 2 miejsc po przecinku</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:decimal\"> <xsd:totalDigits value=\" 5\"/> <xsd:fractionDigits value=\" 2\" /> <xsd:mininclusive value=\" 0\" /> <xsd:maxInclusive value=\" 100\" /> <xsd:whiteSpace value=\"collapse\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\" TCalkowity\"> <xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Liczby naturalne</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:int\"> <xsd:whiteSpace value=\"collapse\" /> <xsd:totalDigits value=\" 14\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\" TNaturalny\"> <xsd:annotation> <xsd:documentation>Liczby naturalne</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:nonNegativelnteger\"> <xsd:whiteSpace value=\"collapse\" /> <xsd:totalDigits value=\" 14\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\" TKwota2\"> <xsd:annotation> <xsd:documentation>Wartość kwotowa wykazana w zł i gr</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:decimal\"> <xsd:totalDigits value=\" 16\" /> <xsd:whiteSpace value=\"collapse\" /> <xsd:fractionDigits value=\" 2\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\" TKwotaC\"> <xsd:annotation> <xsd:documentation>Wartość kwotowa wykazana w zł </xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:decimal\"> <xsd:totalDigits value=\"14\"/> <xsd:fractionDigits value=\" 0\" /> <xsd:whiteSpace value=\"collapse\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\" TKwota2N ieujemna\"> <xsd:annotation> <xsd:documentation>Wartość kwotowa nieujemna wykazana w zł gr</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TKwota2\"> <xsd:minInclusive value=\" 0\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\" TKwotaCNieujemna\"> <xsd:annotation> <xsd:documentation>Wartość kwotowa nieujemna wykazana w zł </xsd:documentation> </xsd:annotation> <xsd:restriction base=\" TKwotaC\"> <xsd:minInclusive value=\" 0\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TData\" id=\"TData\"> <xsd:annotation> <xsd:documentation>Typ daty</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:date\"> <xsd:minInclusive value=\"1900-01-01\" /> <xsd:whiteSpace value=\"collapse\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TDataCzas\" id=\"TDataCzas\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation> <xsd:documentation>Typ daty i godziny</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:dateTime\"> <xsd:whiteSpace value=\"collapse\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\" TRok\"> <xsd:annotation> <xsd:documentation>Oznaczenie roku</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:gYear\"> <xsd:mininclusive value=\" 1800\" /> <xsd:maxInclusive value=\" 3000\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TMiesiac\"> <xsd:annotation> <xsd:documentation>Flement będący numerem miesiąca</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:byte\"™> <xsd:maxInclusive value=\"12\"/> <xsd:minInclusive value=\" 1\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\" TKwartal\"> <xsd:annotation> <xsd:documentation>Element będący numerem kwartału</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:byte\"> <xsd:mininclusive value=\" 1\" /> <xsd:maxInclusive value=\" 4\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\" TAdresFmail\"> <xsd:annotation> <xsd:documentation>Element będący adresem e-mail</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:whiteSpace value=\"collapse\" /> <xsd:pattern value=\"[ 0-9\\p{L} '\\ .\\-_] {1,127} 6[O0-AP(L '\\.\\-_J {1,127 \"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TNxrNIP\"> <xsd:annotation> <xsd:documentation>Numer NIP</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:positivelInteger\"> <xsd:minInclusive value=\"1010000000\" /> <xsd:maxInclusive value=\" 9999999999\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\" TNrPESEL\" > <xsd:annotation> <xsd:documentation>Numer PESEL</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:pattern value=\"Ndf 11)\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\" TNrREGON\" > <xsd:annotation> <xsd:documentation>Numer REGON</xsd:documentation> </xsd:annotation> <xsd:union>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"\\d{ 9)\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"Ndf 14)\" /> </xsd:restriction> </xsd:simpleType> </xsd:union> </xsd:simpleType> <xsd:simpleType name=\" TImie\"> <xsd:annotation> <xsd:documentation>Pierwsze imię</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\" 30\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TNazwisko\"> <xsd:annotation> <xsd:documentation>Nazwisko</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\" > <xsd:maxLength value=\" 40\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\" TMiejscowosc\"> <xsd:annotation> <xsd:documentation>Typ określający nazwę miejscowości</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\" 60\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TJednAdmin\"> <xsd:annotation> <xsd:documentation>Typ określający nazwę województwa,nazwę powiatu lub nazwę gminy</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\" 60\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\" TUlica\"'> <xsd:annotation> <xsd:documentation>Nazwa ulicy</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\" 65\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\" TNrBudynku\"> <xsd:annotation> <xsd:documentation>Numer budynku</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:pattern value=\"\\w{ 1,4} (/Awf 0,4)?\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\" TNrLokalu\"> <xsd:annotation> <xsd:documentation>Numer lokalu</xsd:documentation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"10\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TKodPocztowy\"> <xsd:annotation> <xsd:documentation>Kod pocztowy</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\" 8\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TCelZlozenia\"> <xsd:annotation> <xsd:documentation>Okresla czy to jest ztozenie, czy korekta deklaracji</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:byte\"> <xsd:enumeration value=\" 1\"> <xsd:annotation> <xsd:documentation>złożenie po raz pierwszy deklaracji za dany okres</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" 2\"> <xsd:annotation> <xsd:documentation>korekta deklaracji za dany okres</xsd:documentation> </xsd:annotation> </xsd:enumeration> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TNrDokumentu\" > <xsd:annotation> <xsd:documentation>Numer dokumentu</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:length value=\" 5\" /> <xsd:pattern value=\"\\d{ 2) /\\d{ 2)\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TWyborl\"> <xsd:annotation> <xsd:documentation>Pojedyncze pole wyboru</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:byte\"> <xsd:enumeration value=\"1\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TWyborl 2\"> <xsd:annotation> <xsd:documentation>Podwójne pole wyboru</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:byte\"> <xsd:enumeration value=\" 1\" /> <xsd:enumeration value=\" 2\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TWyborl 3\"> <xsd:annotation> <xsd:documentation>Potrójne pole wyboru</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:byte\"> <xsd:enumeration value=\" 1\" />"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\" 2\" /> <xsd:enumeration value=\" 3\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TSposobOpodatkowania\"> <xsd:annotation> <xsd:documentation>Wybór sposobu opodatkowania</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:byte\"> <xsd:enumeration value=\" 1\" /> <xsd:enumeration value=\"2\" /> <xsd:enumeration value=\" 3\" /> <xsd:enumeration value=\" 4\" /> </xsd:restriction> </xsd:simpleType> </xsd:schema>"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa pliku XSD: http://e-poltax.mf.gov.pl/Repozytorium/Definicje/StrukturyDanych_v1-0.xsd"
+    },
+    {
+     "type": "ocr",
+     "text": "Tresé pliku:"
+    },
+    {
+     "type": "ocr",
+     "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <xsd:schema xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" elementFormDefault=\"qualified\" attributeFormDefault=\"unqualified\"> <xsd:include schemaLocation=\"http://epoltax.mf.gov.pl/Repozytorium/Definicje/ElementarneTypyDanych vl-0.xsd\" /> <xsd:complexType name=\" TAdres\"> <xsd:annotation> <xsd:documentation>Dane określające dane adresowe</xsd:documentation> </xsd:annotation> <xsd:choice> <xsd:sequence> <xsd:element name=\" AdresPol\"> <xsd:complexType> <xsd:sequence> <xsd:element name=\"KodKraju\" type=\"TKodKraju\" fixed=\"PL\"> <xsd:annotation> <xsd:documentation>Kraj</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Wojewodztwo\" type=\" TJednAdmin\"> <xsd:annotation> <xsd:documentation>Województwo</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Powiat\" type=\"TJednAdmin\"> <xsd:annotation> <xsd:documentation>Powiat</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Gmina\" type=\"TJednAdmin\"> <xsd:annotation> <xsd:documentation>Gmina</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Ulica\" type=\"TUlica\" minOccurs=\" 0\"> <xsd:annotation> <xsd:documentation>Nazwa ulicy</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NrDomu\" type=\"TNrBudynku\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation> <xsd:documentation>Numer budynku</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NrLokalu\" type=\" TNrLokalu\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Numer lokalu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Miejscowosc\" type=\" TMiejscowosc\"> <xsd:annotation> <xsd:documentation>Nazwa miejscowości</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"KodPocztowy\" type=\"TKodPocztowy\"> <xsd:annotation> <xsd:documentation>Kod pocztowy</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\" Poczta\" type=\" TMiejscowosc\"> <xsd:annotation> <xsd:documentation>Nazwa urzędu pocztowego</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> </xsd:element> </xsd:sequence> <xsd:sequence> <xsd:element name=\"Adreszagr\"> <xsd:complexType> <xsd:sequence> <xsd:element name=\"KodKraju\"> <xsd:annotation> <xsd:documentation>Kraj</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TKodKraju\"> <xsd:pattern value=\"P[ A-KM-Z]\" /> <xsd:pattern value=\"[ A-OR-Z][ A-2] \"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"KodPocztowy\" type=\"TKodPocztowy\"> <xsd:annotation> <xsd:documentation>Kod pocztowy</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Miejscowosc\" type=\" TMiejscowosc\"> <xsd:annotation> <xsd:documentation>Nazwa miejscowości</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Ulica\" type=\"TUlica\" minOccurs=\" 0\"> <xsd:annotation> <xsd:documentation>Nazwa ulicy</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NrDomu\" type=\"TNrBudynku\" minOccurs=\" 0\"> <xsd:annotation> <xsd:documentation>Numer budynku</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NrLokalu\" type=\"TNrLokalu\" minOccurs=\" 0\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation> <xsd:documentation>Numer lokalu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\" Pietro\" type=\"TNrLokalu\" minOccurs=\" 0\"> <xsd:annotation> <xsd:documentation>Piętro</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NazwaRegionu\" type=\" TMiejscowosc\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Nazwa regionu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"SkrzynkaPocztowa\" type=\" TNrLokalu\" minOccurs=\" 0\"> <xsd:annotation> <xsd:documentation>Skrzynka Pocztowa</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:choice> </xsd:complexType> <xsd:complexType name=\"TIdentyfikatorOsobyFizycznej\"> <xsd:annotation> <xsd:documentation>Podstawowy zestaw danych identyfikacyjnych o osobie fizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"NIP\" type=\" TNrNIP\"> <xsd:annotation> <xsd:documentation>Numer NIP podmiotu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\" ImiePierwsze\" type=\" TImie\"> <xsd:annotation> <xsd:documentation>Pierwsze imię</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Nazwisko\" type=\"TNazwisko\"> <xsd:annotation> <xsd:documentation>Nazwisko</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\" DataUrodzenia\" type=\"TData\"> <xsd:annotation> <xsd:documentation>Data urodzenia</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\" PESEL\" type=\" TNrPESEL\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Numer PESEL</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:complexType name=\"TidentyfikatorOsobyFizycznejPelny\"> <xsd:annotation> <xsd:documentation>Pełny zestaw danych identyfikacyjnych o osobie fizycznej</xsd:documentation> </xsd:annotation>"
+    },
+    {
+     "type": "ocr",
+     "text": "JE:"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:sequence <xsd:elemen <xsd:anno <xsd:do </xsd:ann </xsd:eleme <xsd:elemen <xsd:anno <xsd:do </xsd:ann </xsd:eleme <xsd:elemen <xsd:anno <xsd:do </xsd:ann </xsd:eleme <xsd:elemen <xsd:anno <xsd:do </xsd:ann </xsd:eleme <xsd:elemen <xsd:anno <xsd:do </xsd:ann </xsd:eleme <xsd:elemen"
+    },
+    {
+     "type": "ocr",
+     "text": "— 8677 — Poz"
+    },
+    {
+     "type": "ocr",
+     "text": "> t name=\"NIP\" tation> cumentation>Numer NIP podmiotu</xsd:documentation> otation> nt> t name=\" ImiePierwsz tation> cumentation>Pierwsze imię</xsd:documentation> otation> nt> t name=\"Nazwisko\" tation> cumentation>Nazwisko</xsd:documentation> otation> nt> t name=\"DataUrodzenia\" tation> cumentation>Data urodzenia</xsd:documentation> otation> n"
+    },
+    {
+     "type": "ocr",
+     "text": "t> t name=\"TmieOjca\" tation> cumentation>Imię ojca</xsd:documentation> otation> t> name=\"ImieMatki\""
+    },
+    {
+     "type": "ocr",
+     "text": "type=\" TNrNIP\" minOccurs=\"0\">"
+    },
+    {
+     "type": "ocr",
+     "text": "\""
+    },
+    {
+     "type": "ocr",
+     "text": "type=\" TImie\">"
+    },
+    {
+     "type": "ocr",
+     "text": "type=\"TNazwisko\">"
+    },
+    {
+     "type": "ocr",
+     "text": "type=\"TData\">"
+    },
+    {
+     "type": "ocr",
+     "text": "type=\" TImie\">"
+    },
+    {
+     "type": "ocr",
+     "text": "type=\" TImie\">"
+    },
+    {
+     "type": "ocr",
+     "text": "n"
+    },
+    {
+     "type": "ocr",
+     "text": "ation> umentation>Imie matki</xsd:documentation> tation> t> name=\" P ation> umentation>Numer P tation> t>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:anno <xsd:doc </xsd:anno </xsd:elemen ry"
+    },
+    {
+     "type": "ocr",
+     "text": "ESEL\""
+    },
+    {
+     "type": "ocr",
+     "text": "SEL\">"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:elemen <xsd:anno <xsd:doc </xsd:anno </xsd:elemen </xsd:sequence> </xsd:complexType> <xsd:complexType name=\"TidentyfikatorOsobyNiefizycznej\"> <xsd:annotation> <xsd:documentation>Podstawowy zestaw danych identyfikacyjnych o osobie niefizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"NIP\" <xsd:annotation> <xsd:documentation>Numer NIP podmiotu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\" PelnaNazwa\" <xsd:annotation> <xsd:documentation>Pełna nazwa</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"R <xsd:annotation> <xsd:documentation>Numer R </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:complexType name=\"TIdentyfikatorOsobyNiefizycznejPelny\"> <xsd:annotation> <xsd:documentation>Pełny zestaw danych identyfikacyjnych o osobie niefizycznej</xsd:documentation>"
+    },
+    {
+     "type": "ocr",
+     "text": "type=\" TNrPI"
+    },
+    {
+     "type": "ocr",
+     "text": "ES"
+    },
+    {
+     "type": "ocr",
+     "text": "EL</xsd:documentation>"
+    },
+    {
+     "type": "ocr",
+     "text": "type=\" TNrNIP\">"
+    },
+    {
+     "type": "ocr",
+     "text": "type=\" TZnakowy\">"
+    },
+    {
+     "type": "ocr",
+     "text": "EGON\""
+    },
+    {
+     "type": "ocr",
+     "text": "type=\"TNrREGON\" minOccurs=\" 0\">"
+    },
+    {
+     "type": "ocr",
+     "text": "EGON</xsd:documentation>"
+    },
+    {
+     "type": "ocr",
+     "text": "Dziennik Ustaw Nr 168"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> <xsd:sequence> <xsd:element name=\"NIP\" type=\"TNrNIP\" minOccurs=\" 0\"> <xsd:annotation> <xsd:documentation>Numer NIP podmiotu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"PelnaNazwa\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Pełna nazwa</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"SkroconaNazwa\" type=\" Tznakowy\" > <xsd:annotation> <xsd:documentation>Skrócona nazwa</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"REGON\" type=\" TNrREGON\" > <xsd:annotation> <xsd:documentation>Numer REGON</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:complexType name=\"TPodmiotDowolnyBezAdresu\"> <xsd:annotation> <xsd:documentation>Skrócony zestaw danych o osobie fizycznej lub niefizycznej</xsd:documentation> </xsd:annotation> <xsd:choice> <xsd:element <xsd:element type=\" Tidentyfikat </xsd:choice> </xsd:complexType> <xsd:complexType name=\"TOsobaFizyczna\"> <xsd:annotation> <xsd:documentation>Podstawowy zestaw danych o osobie fizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"OsobaFizyczna\" type=\" TIdentyfikatorOsobyFizycznej\" /> <xsd:element name=\"Adreszamieszkania'> <xsd:complexType> <xsd:complexContent> <xsd:extension base=\"TAdres\"> <xsd:attribute name=\"rodzajAdresu\" type=\"xsd:string\" use=\"required\" fixed=\" RAD\" /> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:complexType name=\" TOsobaNiefizyczna\"> <xsd:annotation> <xsd:documentation>Podstawowy zestaw danych o osobie niefizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"OsobaNiefizyczna\" type=\" TIdentyfikatorOsobyNiefizycznej\" /> <xsd:element name=\"AdresSiedziby\"> <xsd:complexType> <xsd:complexContent>"
+    },
+    {
+     "type": "ocr",
+     "text": "name=\"OsobaFizyczna\" type=\" TIdentyfikatorOsobyFizycznej\" /> name=\"OsobaNiefizyczna\" orOsobyNiefizycznej\" />"
+    },
+    {
+     "type": "ocr",
+     "text": "CT ¢T CT"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:extension base=\"TAdres\"> <xsd:attribute name=\" rodzajAdresu\" type=\"xsd:istring\" use=\"required\" fixed=\"RAD\" /> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:complexType name=\"TPodmiotDowolny\"> <xsd:annotation> <xsd:documentation>Podstawowy zestaw danych o osobie fizycznej lub niefizycznej</xsd:documentation> </xsd:annotation> <xsd:complexContent> <xsd:extension base=\"TPodmiotDowolnyBezAdresu\"> <xsd:sequence> <xsd:element name=\"AdreszamieszkaniaSiedziby\"> <xsd:complexType> <xsd: complexContent> <xsd:extension base=\"TAdres\"> <xsd:attribute name=\"rodzajAdresu\" type=\"xsd:string\" use=\"required\" fixed=\"RAD\" /> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:extension> </xsd:complexContent> </xsd:complexType> <xsd:complexType name=\"TOsobaFizycznaPelna\"> <xsd:annotation> <xsd:documentation>Pełny zestaw danych o osobie fizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"OsobaFizyczna\" type=\" TIdentyfikatorOsobyFizycznejPelny\" /> <xsd:element name=\"Adres\" type=\" TAdres\" /> </xsd:sequence> </xsd:complexType> <xsd:complexType name=\" TOsobaNiefizycznaPelna\"> <xsd:annotation> <xsd:documentation>Pełny zestaw danych o osobie fizycznej lub niefizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"OsobaNiefizyczna\" type=\" TIdentyfikatorOsobyNiefizycznejPelny\" /> <xsd:element name=\" Adres\" type=\"TAdres\" /> </xsd:sequence> </xsd:complexType> <xsd:complexType name=\" TPodmiotDowolnyPelny\"> <xsd:annotation> <xsd:documentation>Pełny zestaw danych o osobie fizycznej lub niefizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:choice> <xsd:element name=\"OsobaFizyczna\" type=\" TIdentyfikatorOsobyFizycznejPelny\" /> <xsd:element name=\"OsobaNiefizyczna\" type=\" TIdentyfikatorOsobyNiefizycznejPelny\" /> </xsd:choice>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "— 8680 — Poz"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:element name=\"Adres\" type=\"TAdres\" /> </xsd:sequence> </xsd:complexType> </xsd:schema>"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa pliku XSD: http://e-poltax.mf.gov.pl/Repozytorium/Slowniki/KodyKrajow v1-0.xsd"
+    },
+    {
+     "type": "ocr",
+     "text": "Treść pliku:"
+    },
+    {
+     "type": "ocr",
+     "text": "<?xml version=\"1.0\" <xsd:schema xml elementFormDefault=\"quali version=\"1.0\" xml: lang=\" PI <xsd:annotation> <xsd:documentation>Stownik krajdéw</xsd:documentation> </xsd:annotation> <xsd:simpleType name=\"TKodKraju\"> <xsd:annotation> <xsd:documentation>Słownik kodów krajów zgodny ze standardem IS03166</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:token\"> <xsd:length value=\" 2\" /> <xsd:enumeration value=\" AD\"> <xsd:annotation> <xsd:documentation>Andora</xsd:documentation> </xsd: annotation> </xsd:enumeration> meration value=\" AE\"> <xsd:annotation> :documentation>Zjednoczone Emiraty Arabskie</xsd:documentation>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enu"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd </xsd:"
+    },
+    {
+     "type": "ocr",
+     "text": "encoding=\" UTF-8\"?> lns:xsd=\"http://www.w3.org/2001/XMLSchema\" fied\" attributeFormDefault=\"unqualified\" L\" >"
+    },
+    {
+     "type": "ocr",
+     "text": "annotation> </xsd:enumeration> meration value=\"AF\"> <xsd:annotation> :documentation>Afganistan</xsd:documentation>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enu"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd </xsd: annotation> </xsd:enumeration> <xsd:enu"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:"
+    },
+    {
+     "type": "ocr",
+     "text": "meration value=\"AG\"> <xsd:annotation> <xsd:documentation>Antigua i Barbuda</xsd:documentation> annotation> </xsd:enumeration> <xsd:enumeration value=\"AI\"> <xsd:annotation> <xsd:documentation>Anguilla</xsd:documentation> </xsd: annotation> </xsd:enumeration> <xsd:enumeration value=\"AL\"> <xsd:annotation> <xsd:docume </xsd: annotation> </xsd:enumeration> <xsd:enumeratio <xsd:annotation> <xsd:docume </xsd: annotation> </xsd:enumeration> <xsd:enumeratio <xsd:annotation> <xsd:documentation>Antyle Holenderskie</xsd:documentation>"
+    },
+    {
+     "type": "ocr",
+     "text": "ntation>Albania</xsd:documentation>"
+    },
+    {
+     "type": "ocr",
+     "text": "n value=\"AM\">"
+    },
+    {
+     "type": "ocr",
+     "text": "ntation>Armenia</xsd:documentation>"
+    },
+    {
+     "type": "ocr",
+     "text": "n value=\"AN\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "— 8681 — Poz"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:enumeratio <xsd:enumeration"
+    },
+    {
+     "type": "ocr",
+     "text": "n> value=\" AO\"> <xsd:annotation> <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>Angola</xsd:documentation> </xsd:annotation> </xsd:enumeratio <xsd:enumeration"
+    },
+    {
+     "type": "ocr",
+     "text": "n> value=\" AQ\"> <xsd:annotation> <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>Antarktyda</xsd:documentation> </xsd:annotation> </xsd:enumera tion> <xsd:enu <xsd:annota <xsd </xsd:"
+    },
+    {
+     "type": "ocr",
+     "text": "meration"
+    },
+    {
+     "type": "ocr",
+     "text": ":documen"
+    },
+    {
+     "type": "ocr",
+     "text": "value=\"AR\"> tion> tation>Argentyna</xsd:documentation> annotation> </xsd:enumera <xsd:enumeration <xsd:annota"
+    },
+    {
+     "type": "ocr",
+     "text": "tion> value=\"AS\"> tion> <xsd </xsd: </xsd:en"
+    },
+    {
+     "type": "ocr",
+     "text": ":documen"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>Samoa Amerykańskie</xsd:documentation>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enu"
+    },
+    {
+     "type": "ocr",
+     "text": "annotation> umeration> meration value=\"AT\"> <xsd:annotatio <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "n> tation>Austria</xsd:documentation> </xsd:annotation> </xsd:enumeratio <xsd:enumeration"
+    },
+    {
+     "type": "ocr",
+     "text": "n> value=\" AU\"> <xsd:annotation> <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>Australia</xsd:documentation> </xsd:annotation> </xsd:enumeratio <xsd:enumeration"
+    },
+    {
+     "type": "ocr",
+     "text": "n> value=\" AW\"> <xsd:annotation> <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>Aruba</xsd:documentation> </xsd:annotation> </xsd:enumera <xsd:enumeration <xsd:annota"
+    },
+    {
+     "type": "ocr",
+     "text": "tion> value=\"AX\"> tion> <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>Wyspy Alandzkie</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"AZ\"> <xsd:annotation> <xsd:documentation>Azerbejdżan</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" BA\"> <xsd:annotatio <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "n> tation>Bośnia i Hercegowina</xsd:documentation> </xsd:annotation> </xsd:enumeratio <xsd:enumeration <xsd:annotatio <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "n> value=\" BB\"> n> tation>Barbados</xsd:documentation> </xsd:a nnotation> </xsd:enumera tion> <xsd:enumeration"
+    },
+    {
+     "type": "ocr",
+     "text": "value=\"B <xsd:annotation> <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>Ba"
+    },
+    {
+     "type": "ocr",
+     "text": "p\" >"
+    },
+    {
+     "type": "ocr",
+     "text": "ngladesz</xsd:documentation> </xsd:a nnotation> </xsd:enumera tion> <xsd:enumeration"
+    },
+    {
+     "type": "ocr",
+     "text": "value=\" BI FE\" > <xsd:annotation> <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>Belgia</xsd:documentation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:enumera tion>"
+    },
+    {
+     "type": "ocr",
+     "text": "— 8682 — Poz"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"BF\"> <xsd:annotation> <xsd:documentation>Burkina Faso</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" BG'> <xsd:annotation> <xsd:documentation>Bułgaria</xsd:documentation> </xsdia nnotation> </xsd:enumera tion> <xsd:enumeration value=\" BH\"> <xsd:annotation> <xsd:documentation>Bahrajn</xsd:documentation> </xsdia nnotation> </xsd:enumera tion> <xsd:enumeration value=\"BI\"> <xsd:annotation> <xsd:documentation>Burundi</xsd:documentation> </xsd:annotation> </xsd:enumera tion> <xsd:enumeration value=\"BJ\"> <xsd:annotation> <xsd:documentation>Benin</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BM\"> <xsd:annotation> <xsd:documentation>Bermudy</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" BN\" > <xsd:annota"
+    },
+    {
+     "type": "ocr",
+     "text": "tion> <xsd:documentation>Brunei</xsd:documentation> </xsd:annotation> </xsd:enumera tion> <xsd:enumeration value=\" BO\" > <xsd:annota"
+    },
+    {
+     "type": "ocr",
+     "text": "tion> <xsd:documentation>Boliwia</xsd:documentation> </xsd:annotation> </xsd:enumera tion> <xsd:enumeration value=\" BR\"> <xsd:annota"
+    },
+    {
+     "type": "ocr",
+     "text": "tion> <xsd:documentation>Brazylia</xsd:documentation> </xsd:annotation> </xsd:enumera <xsd:enu <xsd:annota"
+    },
+    {
+     "type": "ocr",
+     "text": "tion>"
+    },
+    {
+     "type": "ocr",
+     "text": "tion>"
+    },
+    {
+     "type": "ocr",
+     "text": "meration value=\"BS\">"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Bahamy</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BT\"> <xsd:annotation> <xsd </xsd: </xsd:enumera <xsd:enu <xsd:annota <xsd </xsd: </xsd:enumera <xsd:enu <xsd:annota <xsd"
+    },
+    {
+     "type": "ocr",
+     "text": ":documentation>Bhutan</xsd:documentation> annotation> tion> meration value=\"BV\"> tion> :documentation>Wyspa Bouveta</xsd:documentation> annotation> tion> meration value=\" BW\"> tion> :documentation>Botswana</xsd:documentation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 19 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BY\"> <xsd:annotation> <xsd:documentation>Białoruś</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BZ\"> <xsd:annotation> <xsd:documentation>Belize</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CA\"> <xsd:annotation> <xsd:documentation>Kanada</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CC\"> <xsd:annotation> <xsd:documentation>Wyspy Kokosowe</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CD\"> <xsd:annotation> <xsd:documentation>Demokratyczna Republika Konga</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CF\"> <xsd:annotation> <xsd:documentation>Republika Środkowoafrykańska</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CG\"> <xsd:annotation> <xsd:documentation>Kongo</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CH\"> <xsd:annotation> <xsd:documentation>Szwajcaria</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CI\"> <xsd:annotation> <xsd:documentation>Wybrzeze Kości Słoniowej</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CK\"> <xsd:annotation> <xsd:documentation>Wyspy Cooka</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CL\"> <xsd:annotation> <xsd:documentation>Chile</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" CM'> <xsd:annotation> <xsd:documentation>Kamerun</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CN\"> <xsd:annotation> <xsd:documentation>Chiny</xsd:documentation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 20 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"Co\"> <xsd:annotation> <xsd:documentation>Kolumbia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CR\"> <xsd:annotation> <xsd:documentation>Kostaryka</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CS\"> <xsd:annotation> <xsd:documentation>Serbia i Czarnogóra</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CU\"> <xsd:annotation> <xsd:documentation>Kuba</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CV\"> <xsd:annotation> <xsd:documentation>Republika Zielonego Przylądka</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CxX\"> <xsd:annotation> <xsd:documentation>Wyspa Bożego Narodzenia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CY\"> <xsd:annotation> <xsd:documentation>Cypr</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CZ\"> <xsd:annotation> <xsd:documentation>Czechy</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" DE\" > <xsd:annotation> <xsd:documentation>Niemcy</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" DJ\"> <xsd:annotation> <xsd:documentation>Dżibuti</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" DK\" > <xsd:annotation> <xsd:documentation>Dania</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" DM\"> <xsd:annotation> <xsd:documentation>Dominika</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" DO\"> <xsd:annotation> <xsd:documentation>Republika Dominikańska</xsd:documentation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 21 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" Dz\" > <xsd:annotation> <xsd:documentation>Algieria</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" EC\"> <xsd:annotation> <xsd:documentation>Ekwador</xsd:documentation> </xsd:annotation> </xsd:enumera <xsd:enumera <xsd:annot <xsd:doc </xsd:annot </xsd:enumera <xsd:enumerat <xsd:annot <xsd:doc </xsd:annot </xsd:enumera <xsd:enumerat <xsd:annota <xsd:docu </xsd:annot </xsd:enumera <xsd:enumerat <xsd:annota <xsd:docu </xsd:annot </xsd:enumera <xsd:enumerat <xsd:annota <xsd:docu </xsd:annot </xsd:enumera <xsd:enumerat <xsd:annot <xsd:doc </xsd:anno </xsd:enumer <xsd:enumerat <xsd:annota <xsd:docu </xsd:annot </xsd:enumer <xsd:enumera <xsd:annot <xsd:doc </xsd:anno </xsd:enumer <xsd:enumera <xsd:annot <xsd:doc </xsd:anno </xsd:enumer <xsd:enumera <xsd:annot <xsd:doc </xsd:annot </xsd:enumera <xsd:enumerat <xsd:annota <xsd:docu"
+    },
+    {
+     "type": "ocr",
+     "text": "Go ct"
+    },
+    {
+     "type": "ocr",
+     "text": "c 0"
+    },
+    {
+     "type": "ocr",
+     "text": "c 0 mo ct"
+    },
+    {
+     "type": "ocr",
+     "text": "to taomtoa (cte w rt w c 0"
+    },
+    {
+     "type": "ocr",
+     "text": "tion> ion value=\" EE\"> tion> mentation>Estonia</xsd:documentation> ation> tion> ion value=\"EG\"> tion> mentation>Egipt</xsd:documentation> ation> tion> ion value=\"EH\"> tion> mentation>Sahara Zachodnia</xsd:documentation> ation> tion> ion value=\"ER\"> tion> mentation>Erytrea</xsd:documentation> ation> tion> ion value=\" ES\"> tion> mentation>Hiszpania</xsd:documentation> ation> tion> ion value=\"ET\"> tion> mentation>Etiopia</xsd:documentation> ation> tion> ion value=\"FI\"> tion> mentation>Finlandia</xsd:documentation> ation> tion> ion value=\"FJ\"> tion> mentation>Fidżi</xsd:documentation> ation> tion> ion value=\"FK\"> tion> mentation>Falklandy (Malwiny)</xsd:documentation> ation> tion> ion value=\" FM\"> tion> mentation>Mikronezja</xsd:documentation> ation> tion> ion value=\" FO\"> tion> mentation>Wyspy Owcze</xsd:documentation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"FR\"> <xsd:annotation> <xsd:documentation>Francja</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GA\"> <xsd:annotation> <xsd:documentation>Gabon</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" GB\" > <xsd:annotation> <xsd:documentation>Wielka Brytania</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" GD\"> <xsd:annotation> <xsd:documentation>Granada</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GE\"> <xsd:annotation> <xsd:documentation>Gruzja</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GF\"> <xsd:annotation> <xsd:documentation>Gujana Francuska</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GG\"> <xsd:annotation> <xsd:documentation>Guernsey</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GH\"> <xsd:annotation> <xsd:documentation>Ghana</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GI\"> <xsd:annotation> <xsd:documentation>Gibraltar</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GL\"> <xsd:annotation> <xsd:documentation>Grenlandia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" GM'> <xsd:annotation> <xsd:documentation>Gambia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" GN\" > <xsd:annotation> <xsd:documentation>Gwinea</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" GP\"> <xsd:annotation> <xsd:documentation>Gwadelupa</xsd:documentation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" GQ\"'> <xsd:annotation> <xsd:documentation>Gwinea Równikowa</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" GR\"> <xsd:annotation> <xsd:documentation>Grecja</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" GS\"> <xsd:annotation> <xsd:documentation>Georgia Południowa i Sandwich Południowy</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enu"
+    },
+    {
+     "type": "ocr",
+     "text": "merati ion value=\"GT\"> <xsd:annotation> <xsd </xsd:"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enu"
+    },
+    {
+     "type": "ocr",
+     "text": ":docun"
+    },
+    {
+     "type": "ocr",
+     "text": "entation>Gwatemala</xsd:documentation> annotation> </xsd:enumeration> merati ion value=\" GU\"> <xsd:annotation> <xsd </xsd:"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enu"
+    },
+    {
+     "type": "ocr",
+     "text": ":docun"
+    },
+    {
+     "type": "ocr",
+     "text": "entation>Guam</xsd:documentation> annotation> </xsd:enumeration> merati lion value=\" GW\"> <xsd:annotation> <xsd </xsd:"
+    },
+    {
+     "type": "ocr",
+     "text": ":docun"
+    },
+    {
+     "type": "ocr",
+     "text": "entation>Gwinea Bissau</xsd:documentation> nnotation> </xsd:enumeration> <xsd:enu"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:"
+    },
+    {
+     "type": "ocr",
+     "text": ":docun"
+    },
+    {
+     "type": "ocr",
+     "text": "a u merati nnotation>"
+    },
+    {
+     "type": "ocr",
+     "text": "ion value=\"GY\">"
+    },
+    {
+     "type": "ocr",
+     "text": "entation>Gujana</xsd:documentation> nnotation> </xsd:enumeration> <xsd:enu"
+    },
+    {
+     "type": "ocr",
+     "text": ":docun"
+    },
+    {
+     "type": "ocr",
+     "text": "a u merati nnotation>"
+    },
+    {
+     "type": "ocr",
+     "text": "ion value=\"HK\">"
+    },
+    {
+     "type": "ocr",
+     "text": "entation>Hongkong</xsd:documentation> :annotation> </xsd:enumeration> ion value=\" HM\"> <xsd:annotation> <xsd:documentation>Wyspy Heard i McDonalda</xsd:documentation> </xsd:annotation> </xsd:enumeration> merati <xsd:enu"
+    },
+    {
+     "type": "ocr",
+     "text": "on value=\" HN\" > <xsd:annotation> <xsd </xsd:"
+    },
+    {
+     "type": "ocr",
+     "text": ":docun"
+    },
+    {
+     "type": "ocr",
+     "text": "entation>Honduras</xsd:documentation> nnotation> </xsd:enumeration> <xsd:enu"
+    },
+    {
+     "type": "ocr",
+     "text": "a u meration value=\" HR\" > n"
+    },
+    {
+     "type": "ocr",
+     "text": "notation> entation>Chorwacja</xsd:documentation> nnotation> </xsd:enumeration>"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enu"
+    },
+    {
+     "type": "ocr",
+     "text": ":docun"
+    },
+    {
+     "type": "ocr",
+     "text": "ion value=\"HT\"> notation> entation>Haiti</xsd:documentation> annotation> </xsd:enumeration> meration value=\" HU\" > <xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 24 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "— 8688 — Poz"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Węgry</xsd:documentation> </xsd:annotation> </xsd:enumera tion> <xsd:enu"
+    },
+    {
+     "type": "ocr",
+     "text": "meration <xsd:annotatio <xsd </xsd:"
+    },
+    {
+     "type": "ocr",
+     "text": ":documen"
+    },
+    {
+     "type": "ocr",
+     "text": "value=\" ID\"'> n> tation>Indonezja</xsd:documentation> annotation> </xsd:enumera <xsd:enumeration <xsd:annota"
+    },
+    {
+     "type": "ocr",
+     "text": "tion> value=\" IF\"> tion> <xsd </xsd:"
+    },
+    {
+     "type": "ocr",
+     "text": ":documen"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>Irlandia</xsd:documentation> annotation> </xsd:enumeration> <xsd:enu"
+    },
+    {
+     "type": "ocr",
+     "text": "meration value=\" IL\"> <xsd:annotation> <xsd </xsd:"
+    },
+    {
+     "type": "ocr",
+     "text": ":documentation>Izrael</xsd:documentation> annotation> </xsd:enumeration> <xsd:enu"
+    },
+    {
+     "type": "ocr",
+     "text": "meration value=\" IM'> <xsd:annotation> <xsd </xsd: </xsd:enumeratio <xsd:enu"
+    },
+    {
+     "type": "ocr",
+     "text": ":documentation>Wyspa Man</xsd:documentation> annotation> n> meration value=\" IN\"> n>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotatio <xsd </xsd: </xsd:enumera <xsd:enumeration <xsd:annota"
+    },
+    {
+     "type": "ocr",
+     "text": ":'documentation>Indie</xsd:documentation> annotation> tion> value=\" IO\"> tion> <XSA"
+    },
+    {
+     "type": "ocr",
+     "text": ":documen"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>Brytyjskie Terytorium Oceanu entation>"
+    },
+    {
+     "type": "ocr",
+     "text": "Indyjskiego</xsd:docu </xsd:annotation> </xsd:enumera tion> <xsd:enumeratio"
+    },
+    {
+     "type": "ocr",
+     "text": "n value=\" IQ\"> <xsd:annotation> <xsd:docume"
+    },
+    {
+     "type": "ocr",
+     "text": "ntation>Irak</xsd:documentation> </xsd:annotation> </xsd:enumera tion> <xsd:enumeration value=\" IR\"> <xsd:annota"
+    },
+    {
+     "type": "ocr",
+     "text": "tion> <xsd:documentation>Iran</xsd:documentation> </xsd:annotation> </xsd:enumera tion> <xsd:enumeration value=\" IS\"> <xsd:annota"
+    },
+    {
+     "type": "ocr",
+     "text": "tion> <xsd </xsd:"
+    },
+    {
+     "type": "ocr",
+     "text": ":documentation>Islandia</xsd:documentation> annotation> </xsd:enumeration> <xsd:enu"
+    },
+    {
+     "type": "ocr",
+     "text": "meration value=\" IT\"> <xsd:annota"
+    },
+    {
+     "type": "ocr",
+     "text": "tion> <xsd </xsd:"
+    },
+    {
+     "type": "ocr",
+     "text": ":docume"
+    },
+    {
+     "type": "ocr",
+     "text": "ntation>Włochy</xsd:documentation> annotation> </xsd:enumera tion> <xsd:enumeration value=\" JE\"> <xsd:annota"
+    },
+    {
+     "type": "ocr",
+     "text": "tion> <xsd </xsd:"
+    },
+    {
+     "type": "ocr",
+     "text": ":docume"
+    },
+    {
+     "type": "ocr",
+     "text": "ntation>Jersey</xsd:documentation> annotation> </xsd:enumera tion> <xsd:enumeration value=\" JM'> <xsd:annota"
+    },
+    {
+     "type": "ocr",
+     "text": "tion> <xsd:documentation>Jamajka</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" JO\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation> <xsd:documentation>Jordania</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" JP\"> <xsd:annotation> <xsd:documentation>Japonia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" KE\"> <xsd:annotation> <xsd:documentation>Kenia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" KG\" > <xsd:annotation> <xsd:documentation>Kirgistan</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" KH\"> nnotation> <xsd:documentation>Kambodza</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"KI\"> <xsd:annotation> <xsd:documentation>Kiribati</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" KM'> <xsd:annotation> <xsd:documentation>Komory</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"KN\"> <xsd:annotation> <xsd:documentation>Saint Kitts i Nevis</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"KP\"> <xsd:annotation> <xsd:documentation>Koreańska Republika Ludowo- Demokratyczna</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"KR\"> <xsd:annotation> <xsd:documentation>Korea Potudniowa</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" KW\"> <xsd:annotation> <xsd:documentation>Kuwejt</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"KY\"> <xsd:annotation> <xsd:documentation>Kajmany</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"KZ\"> <xsd:annotation> <xsd:documentation>Kazachstan</xsd:documentation> </xsd:annotation> </xsd:enumeration>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 26 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\" LA\"> <xsd:annotation> <xsd:documentation>Laos</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" LB\"> <xsd:annotation> <xsd:documentation>Liban</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"LC\"> <xsd:annotation> <xsd:documentation>Saint Lucia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"LI\"> <xsd:annotation> <xsd:documentation>Liechtenstein</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" LK\"> <xsd:annotation> <xsd:documentation>Sri Lanka</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"LR\"> <xsd:annotation> <xsd:documentation>Liberia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" LS\" > <xsd:annotation> <xsd:documentation>Lesotho</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" LT\"> <xsd:annotation> <xsd:documentation>Litwa</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" LU\"> <xsd:annotation> <xsd:documentation>Luksemburg</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" LV\" > <xsd:annotation> <xsd:documentation>Łotwa</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" LY\"> <xsd:annotation> <xsd:documentation>Libia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MA\"> <xsd:annotation> <xsd:documentation>Maroko</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MC\"> <xsd:annotation> <xsd:documentation>Monako</xsd:documentation> </xsd:annotation> </xsd:enumeration>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 27 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\" MD\" > <xsd:annotation> <xsd:documentation>Mołdawia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" MG\" > <xsd:annotation> <xsd:documentation>Madagaskar</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" MH\" > <xsd:annotation> <xsd:documentation>Wyspy Marshalla</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" MK\"> <xsd:annotation> <xsd:documentation>Macedonia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"ML\"> <xsd:annotation> <xsd:docun </xsd:anno </xsd:enumeration> <xsd:enumera"
+    },
+    {
+     "type": "ocr",
+     "text": "entation>Mali</xsd:documentation> tation>"
+    },
+    {
+     "type": "ocr",
+     "text": "tion value=\" MM\"> <xsd:annotation> <xsd:documentation>Birma (Myanmar)</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MN\" > <xsd:annotation> <xsd:documentation>Mongolia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" MO\"> <xsd:annotation> <xsd:documentation>Makau</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" MP\" > <xsd:annotation> <xsd:documentation>Mariany Północne</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" MQ\" > <xsd:annotation> <xsd:documentation>Martynika</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" MR\" > <xsd:annotation> <xsd:documentation>Mauretania</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" MS\" > <xsd:annotation> <xsd:documentation>Montserrat</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" MT\" > <xsd:annotation> <xsd:documentation>Malta</xsd:documentation> </xsd:annotation> </xsd:enumeration>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 28 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\" MU\"> <xsd:annotation> <xsd:documentation>Mauritius</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MV\" > <xsd:annotation> <xsd:documentation>Malediwy</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" MW\" > <xsd:annotation> <xsd:documentation>Malawi</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" MX\" > <xsd:annotation> <xsd:documentation>Meksyk</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MY\"> <xsd:annotation> <xsd:documentation>Malezja</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MZ\"> <xsd:annotation> <xsd:documentation>Mozambik</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" NA\"> <xsd:annotation> <xsd:documentation>Namibia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" NC\"> <xsd:annotation> <xsd:documentation>Nowa Kaledonia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" NE\"> <xsd:annotation> <xsd:documentation>Niger</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" NF\" > <xsd:annotation> <xsd:documentation>Norfolk</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" NG'> <xsd:annotation> <xsd:documentation>Nigeria</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"NI\"> <xsd:annotation> <xsd:documentation>Nikaragua</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"NL\"> <xsd:annotation> <xsd:documentation>Holandia (Niderlandy)</xsd:documentation> </xsd:annotation> </xsd:enumeration>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 29 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\" NO\" > <xsd:annotation> <xsd:documentation>Norwegia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" NP\"> <xsd:annotation> <xsd:documentation>Nepal</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" NR\"> <xsd:annotation> <xsd:documentation>Nauru</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" NU\" > <xsd:annotation> <xsd:documentation>Niue</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"NZ\" > <xsd:annotation> <xsd:documentation>Nowa Zelandia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"OM'> <xsd:annotation> <xsd:documentation>Oman</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" PA\"'> <xsd:annotation> <xsd:documentation>Panama</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" PE\"> <xsd:annotation> <xsd:documentation>Peru</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" PF\" > <xsd:annotation> <xsd:documentation>Polinezja Francuska</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" PG'> <xsd:annotation> <xsd:documentation>Papua - Nowa Gwinea</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" PH\"> <xsd:annotation> <xsd:documentation>Filipiny</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" PK\"> <xsd:annotation> <xsd:documentation>Pakistan</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"PL\"> <xsd:annotation> <xsd:documentation>Polska</xsd:documentation> </xsd:annotation> </xsd:enumeration>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 30 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\" PM'> <xsd:annotation> <xsd:documentation>Saint-Pierre i Miquelon</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" PNV > <xsd:annotation> <xsd:documentation>Pitcairn</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" PR\" > <xsd:annotation> <xsd:documentation>Portoryko</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" PS\" > <xsd:annotation> <xsd:documentation>Palestyna</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" PT\" > <xsd:annotation> <xsd:documentation>Portugalia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" PW'> <xsd:annotation> <xsd:documentation>Palau</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" PY\"> <xsd:annotation> <xsd:documentation>Paragwaj</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" QA'> <xsd:annotation> <xsd:documentation>Katar</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"RE\" > <xsd:annotation> <xsd:documentation>Reunion</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" RO\" > <xsd:annotation> <xsd:documentation>Rumunia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"RU\"> <xsd:annotation> <xsd:documentation>Rosja</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" RW\"'> <xsd:annotation> <xsd:documentation>Rwanda</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" SA'> <xsd:annotation> <xsd:documentation>Arabia Saudyjska</xsd:documentation> </xsd:annotation> </xsd:enumeration>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 31 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration"
+    },
+    {
+     "type": "ocr",
+     "text": "value=\" SB\"> <xsd:annotation> <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>Wyspy Salomona</xsd:documentation> </xsd:annotation> </xsd:enumeratio <xsd:enumeration"
+    },
+    {
+     "type": "ocr",
+     "text": "n> value=\" SC\"> <xsd:annotation> <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>Seszele</xsd:documentation> </xsd:annotation> </xsd:enumeratio <xsd:enumeration"
+    },
+    {
+     "type": "ocr",
+     "text": "n> value=\" SD\"> <xsd:annotation> <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>Sudan</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" SE\"> <xsd:annotation> <xsd:documentation>Szwecja</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration <xsd:annotatio <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "value=\" SG\" > n> tation>Singapur</xsd:documentation> </xsd:annotation> </xsd:enumeratio <xsd:enumeration"
+    },
+    {
+     "type": "ocr",
+     "text": "n> value=\" SH\"> <xsd:annotation> <xsd:documen </xsd:annotation> </xsd:enumeratio <xsd:enumeration"
+    },
+    {
+     "type": "ocr",
+     "text": "n> value=\" SI\"> <xsd:annotation> <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>Słowenia</xsd:documentation> </xsd:annotation> </xsd:enumeratio <xsd:enumeration"
+    },
+    {
+     "type": "ocr",
+     "text": "n> value=\" SJ\"> <xsd:annotation> <xsd:documen </xsd:annotation> </xsd:enumeratio <xsd:enumeration"
+    },
+    {
+     "type": "ocr",
+     "text": "n> value=\" SK\" > <xsd:annotation> <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>Słowacja</xsd:documentation> </xsd:annotation> </xsd:enumeratio <xsd:enumeration"
+    },
+    {
+     "type": "ocr",
+     "text": "n> value=\" SL\"> <xsd:annotatio <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "n> tation>Sierra Leone</xsd:documentation> </xsd:annotation> </xsd:enumeratio <xsd:enumeration"
+    },
+    {
+     "type": "ocr",
+     "text": "n> value=\" SM\"> <xsd:annotation> <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>San Marino</xsd:documentation> </xsd:annotation> </xsd:enumeratio <xsd:enumeration"
+    },
+    {
+     "type": "ocr",
+     "text": "n> value=\" SN\"> <xsd:annotation> <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>Senegal</xsd:documentation> </xsd:annotation> </xsd:enumeratio <xsd:enumeration"
+    },
+    {
+     "type": "ocr",
+     "text": "n> value=\" SO\"> <xsd:annotation> <xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>Somalia</xsd:documentation> </xsd:annotation> </xsd:enumeration>"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>Święta Helena i Zależne </xsd:documentation>"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>Svalbard i Jan Mayen (wyspa)</xsd:documentation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 32 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"SR\"> <xsd:annotation> <xsd:documentation>Surinam</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" ST\"> <xsd:annotation> <xsd:documentation>Wyspy Świętego Tomasza i Książęca</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" SV\"> <xsd:annotation> <xsd:documentation>Salwador</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" SY\"> <xsd:annotation> <xsd:documentation>Syria</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"Sz\"> <xsd:annotation> <xsd:documentation>Suazi</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" TC\"> <xsd:annotation> <xsd:documentation>Wyspy Turks i Caicos</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" TD\"> <xsd:annotation> <xsd:documentation>Czad</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" TF\"> <xsd:annotation> <xsd:documentation>Francuskie Terytoria Południowe</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" TG\"> <xsd:annotation> <xsd:documentation>Togo</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" TH\"> <xsd:annotation> <xsd:documentation>Tajlandia</xsd:documentation> </xsd:annotation> </xsd:enumer <xsd:enumera <xsd:annot <xsd:doc </xsd:anno </xsd:enumer <xsd:enumer <xsd:anno <xsd:do </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"TL\"> <xsd:annotation> <xsd:documentation>Timor Wschodni</xsd:documentation>"
+    },
+    {
+     "type": "ocr",
+     "text": "co tod mo ct"
+    },
+    {
+     "type": "ocr",
+     "text": "MO taewedc tao r tion> ion value=\"TJ\"> tion> mentation>Tadżykistan</xsd:documentation> ation> tion> ion value=\" TK\" > tion> mentation>Tokelau</xsd:documentation>"
+    },
+    {
+     "type": "ocr",
+     "text": "w tao ct"
+    },
+    {
+     "type": "ocr",
+     "text": "w"
+    },
+    {
+     "type": "ocr",
+     "text": "w Go ct 5 OQ a4"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 33 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" TM'> <xsd:annotation> <xsd:documentation>Turkmenistan</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" TN\"> <xsd:annotation> <xsd:documentation>Tunezja</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" TO\"> <xsd:annotation> <xsd:documentation>Tonga</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" TR\"> <xsd:annotation> <xsd:documentation>Turcja</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"TI\"> <xsd:annotation> <xsd:documentation>Trynidad i Tobago</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" TV\" > <xsd:annotation> <xsd:documentation>Tuvalu</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" TW'> <xsd:annotation> <xsd:documentation>Tajwan</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"TZ\"> <xsd:annotation> <xsd:documentation>Tanzania</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"UA\"> <xsd:annotation> <xsd:documentation>Ukraina</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"UG\"> <xsd:annotation> <xsd:documentation>Uganda</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" UM\"> <xsd:annotation> <xsd:documentation>Dalekie Wyspy Mniejsze Stanów „jednoczonych</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"US\"> <xsd:annotation> <xsd:documentation>Stany Zjednoczone</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"UY\"> <xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 34 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Urugwaj</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"UZ\" > <xsd:annotation> <xsd:documentation>Uzbekistan</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"VA\"> <xsd:annotation> <xsd:documentation>Watykan</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" VC\"> <xsd:annotation> <xsd:documentation>Saint Vincent i Grenadyny</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" VE\"> <xsd:annotation> <xsd:documentation>Wenezuela</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" VG'> <xsd:annotation> <xsd:documentation>Brytyjskie Wyspy Dziewicze</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"VI\"> <xsd:annotation> <xsd:documentation>Wyspy Dziewicze Stanów Zjednoczonych</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"VN\"> <xsd:annotation> <xsd:documentation>Wietnam</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"VU\"> <xsd:annotation> <xsd:documentation>Vanuatu</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" WF\" > <xsd:annotation> <xsd:documentation>Wallis i Futuna</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" WS\"> <xsd:annotation> <xsd:documentation>Samoa</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" YE\"> <xsd:annotation> <xsd:documentation>Jemen</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"YT\"> <xsd:annotation> <xsd:documentation>Majotta</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" ZA\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 35 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation> <xsd:documentation>Republika Południowej Afryki</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" ZM\"> <xsd:annotation> <xsd:documentation>Zambia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" ZW\"> <xsd:annotation> <xsd:documentation>Zimbabwe</xsd:documentation> </xsd:annotation> </xsd:enumeration> </xsd:restriction> </xsd:simpleType> </xsd:schema>"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa pliku XSD: http://e-poltax.mf.gov.pl/Repozytorium/Slowniki/KodyUrzedowSkarbowych_v1-0.xsd"
+    },
+    {
+     "type": "ocr",
+     "text": "Tresé pliku:"
+    },
+    {
+     "type": "ocr",
+     "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <xsd:schema xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" elementFormDefault=\"qualified\" attributeFormDefault=\"unqualified\" version=\"1.0\" xml: lang=\"PL\"> <xsd:annotation> <xsd:documentation>Słowniki kodów urzędów skarbowych</xsd:documentation> </xsd:annotation> <xsd:simpleType name=\" TKodUS\" > <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"0271\"> <xsd:annotation> <xsd:documentation>DOLNOŚLĄSKI URZĄD SKARBOWY W WROCŁAWIU</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" 0471'> <xsd:annotation> <xsd:documentation>KUJAWSKO-POMORSKI URZĄD SKARBOWY W BYDGOSZCZY</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"0671\"> <xsd:annotation> <xsd:documentation>LUBELSKI URZĄD SKARBOWY W LUBLINIE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" 087/1\"> <xsd:annotation> <xsd:documentation>LUBUSKI URZĄD SKARBOWY W ZIELONEJ GÓRZE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1071\"> <xsd:annotation> <xsd:documentation>ŁÓDZKI URZĄD SKARBOWY W LODZI</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1271\"> <xsd:annotation>"
+    },
+    {
+     "type": "ocr",
+     "text": "|"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 36 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "KRAKOWI"
+    },
+    {
+     "type": "ocr",
+     "text": "WARSZAWI"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>MAŁOPOLSKI URZĄD SKARBOWY W"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:enumeration>"
+    },
+    {
+     "type": "ocr",
+     "text": "F</xsd:documentation>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"1471\"> <xsd:annotation> <xsd:documentation>PIERWSZY MAZOWIECKI URZĄD SKARBOWY W WARSZAWIE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" 1472'> <xsd:annotation> <xsd:documentation>DRUGI MAZOWIECKI URZĄD SKARBOWY W"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:enumeration>"
+    },
+    {
+     "type": "ocr",
+     "text": "E</xsd:documentation>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"1473\"> <xsd:annotation> <xsd:documentation>TRZECI MAZOWIECKI URZĄD SKARBOWY RADOMIU</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" 167/1'> <xsd:annotation> <xsd:documentation>OPOLSKI URZĄD SKARBOWY W OPOLU</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1871\"> <xsd:annotation> <xsd:documentation>PODKARPACKI URZĄD SKARBOWY W RZESZOWL"
+    },
+    {
+     "type": "ocr",
+     "text": "SOSNOWCUK</xsd:documen"
+    },
+    {
+     "type": "ocr",
+     "text": "BIAŁI"
+    },
+    {
+     "type": "ocr",
+     "text": "KIELCACH</xsd:document"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:enumeration>"
+    },
+    {
+     "type": "ocr",
+     "text": "F</xsd:documentation>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"2071\"> <xsd:annotation> <xsd:documentation>PODLASKI URZĄD SKARBOWY W BIAŁYMSTOKU</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"2271\"> <xsd:annotation> <xsd:documentation>POMORSKI URZĄD SKARBOWY W GDAŃSKU</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" 2471'> <xsd:annotation> <xsd:documentation>PIERWSZY ŚLĄSKI URZĄD SKARBOWY W"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:enumeration>"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\" 247/2'> <xsd:annotation> <xsd:documentation>DRUGI ŚLĄSKI URZĄD SKARBOWY W BI EJ</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"2671\"> <xsd:annotation> <xsd:documentation>ŚWIĘTOKRZYSKI URZĄD SKARBOWY W"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:enumeration>"
+    },
+    {
+     "type": "ocr",
+     "text": "tation>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"2871\">"
+    },
+    {
+     "type": "ocr",
+     "text": "W"
+    },
+    {
+     "type": "ocr",
+     "text": "ELSKU-"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 37 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation> <xsd:documentation>WARMINSKO-MAZURSKI URZAD SKARBOWY W OLSZTYNIE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" 307/1'> <xsd:annotation> <xsd:documentation>PIERWSZY WIELKOPOLSKI URZĄD SKARBOWY W POZNANIU</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"307/2\"'> <xsd:annotation> <xsd:documentation>DRUGI WIELKOPOLSKI URZĄD SKARBOWY W KALISZU</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" 3271\"> <xsd:annotation> <xsd:documentation>ZACHODNIOPOMORSKI URZĄD SKARBOWY W SZCZECINIE</xsd:documentation> </xsd:annotation> </xsd:enumeration> </xsd:restriction> </xsd:simpleType> </xsd:schema>"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "STRUKTURA LOGICZNA URZĘDOWEGO POŚWIADCZENIA ODBIORU ZGŁOSZENIA"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 38 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 39 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:element name=\" DataWplyniecia\" type=\"TDataCzas\"> <xsd:annotation> <xsd:documentation>Data wpłynięcia dokumentu do systemu informatycznego administracji podatkowej (data ze stempla czasu)</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"StempelCzasu\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Treść stempla czasu w postaci zakodowanej algorytmem Base64</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NIP\" type=\"TNrNIP\"> <xsd:annotation> <xsd:documentation>Numer NIP podmiotu głównego deklaracji lub wniosku</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\" Przyjeto\" type=\"TLogiczny\" /> <xsd:element name=\"Blad\" minOccurs=\"0\" maxOccurs=\"unbounded\"> <xsd: complexType> <xsd:simpleContent> <xsd:extension base=\"TZnakowy\"> <xsd:attribute name=\"Kod\" type=\" Tznakowy\" /> </xsd:extension> </xsd:simpleContent> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:simpleType name=\"TTypDokumentu\"> <xsd:annotation> <xsd:documentation>Słownik określa typy dokumentów</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:enumeration value=\"deklaracja\" /> <xsd:enumeration value=\"wniosek\" /> <xsd:enumeration value=\" zgłoszenie\" /> </xsd:restriction> </xsd:simpleType> </xsd:schema>"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "SPOSÓB OPATRYWANIA ZGŁOSZENIA BEZPIECZNYM PODPISEM ELEKTRONICZNYM WERYFIKOWANYM ZA POMOCĄ WAŻNEGO KWALIFIKOWANEGO CERTYFIKATU"
+    },
+    {
+     "type": "text",
+     "text": "Przyjmuje się następujące zasady opatrywania bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu zgłoszenia:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Zgłoszenia opatruje się podpisem elektronicznym z wykorzystaniem jednego z formatów określonych przez:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_1/lit_a",
+       "text": "specyfikację techniczną ETSI TS 101 903 XML Advanced Electronic Signatures (XAdES Basic Electronic Signature, w skrócie XAdES-BES) wydaną przez European Telecommunications Standards Institute, w którym do przygotowania formy kanonicznej zgłoszenia wykorzystano standardową metodę wyspecyfikowaną w standardzie XMLDSIG oraz treść podpisywanego zgłoszenia została umieszczona w elemencie ds:Object. Atrybut Id dla elementu ds:Object zawierającego zgłoszenie musi przyjmować wartość „Dokument”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_1/lit_b",
+       "text": "dokument PKCS#7 Cryptographic Message Syntax Standard wydany przez RSA Security;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Algorytmem bezpiecznego podpisu elektronicznego jest Sha-1WithRSAEncryption, którego specyfikacja techniczna jest jednoznacznie określona poprzez następujący identyfikator obiektu: identyfikator {iso(1) member-body(2) US(840) rsadsi(113549) pkcs(1) 1 5};",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Algorytmem szyfrowania jest RSA, którego specyfikacja techniczna jest jednoznacznie określona poprzez następujący identyfikator obiektu: identyfikator {joint-iso-ccitt(2) ds(5) module(1) algorithm(8) encryptionAlgorithm(1) 1};",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Funkcją skrótu jest SHA-1, którego specyfikacja techniczna jest jednoznacznie określona poprzez następujący identyfikator obiektu: identyfikator {iso(1) identifiedOrganization(3) oIW(14) oIWSecSig(3) oIWSecAlgorithm(2) 26};",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "Kwalifikowany certyfikat zawiera w polu identyfikatora podmiotu „subject” przynajmniej następujące atrybuty: nazwa kraju, nazwisko, imię(imiona), numer seryjny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "Wykorzystany zostanie certyfikat kwalifikowany;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "Formaty, o których mowa w pkt 1, zawierają w szczególności:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— dla pkt 1a parametry identyfikujące jednoznacznie certyfikat kwalifikowany podmiotu podpisującego (tj. nazwa wystawcy certyfikatu i jego numer seryjny oraz wartość skrótu SHA-1 z certyfikatu), który musi zostać użyty podczas weryfikacji podpisu są umieszczone w atrybucie podpisanym, którego specyfikacja techniczna jest określona poprzez następujący znacznik: SigningCertificate oraz treść kwalifikowanego certyfikatu X.509 jest umieszczona w elemencie ds:X509Data, zawartym w elemencie KeyInfo,"
+      },
+      {
+       "type": "text",
+       "text": "— dla pkt 1b jako podpisany atrybut, „certyfikat podpisującego”, na który składa się treść kwalifikowanego certyfikatu X.509, służącego do weryfikacji bezpiecznego podpisu elektronicznego osoby składającej zgłoszenie."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Finansów kieruje działem administracji rządowej — finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 lipca 2006 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 131, poz. 908).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199 oraz z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708 i Nr 143, poz. 1031.",
+  "3": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 64, poz. 565 oraz z 2006 r. Nr 145, poz. 1050."
+ }
+}
