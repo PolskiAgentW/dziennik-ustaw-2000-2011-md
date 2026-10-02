@@ -44,11 +44,11 @@ tekst = tekst.translate(TABLE)
 ## Stan
 
 Wszystkie lata 2000–2011 są w zbiorze (ostatni rocznik dodany 2026-10-02): 19 615 aktów bez HTML w API ELI
-(stan API z 2026-09-30), z nich 19 614 z tekstem. Brakuje tekstu DU/2007/189, bo jego PDF w API ELI jest ucięty
+(stan API z 2026-09-30), z nich 19 614 z tekstem. Brakuje tekstu DU/2007/189, bo jego PDF w API ELI jest uszkodzony
 (opis niżej, w części o OCR). Akty, którym API później doda HTML albo zmieni PDF, nie są tu aktualizowane.
 
 <!-- stats:start -->
-Stan na 2026-10-02 09:46 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-02 11:30 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -154,8 +154,8 @@ jej nie dostawał i na stronach z tabelami gubił odstępy między słowami). St
 W tych 365 aktach: strony z tekstem z OCR 9 707 → 10 417, słowa 3 298 694 → 3 475 234; żaden akt nie ma mniej stron
 z OCR ani mniej słów. Aktów, w których OCR odczytał wszystkie strony bez warstwy tekstowej: 1 → 148. Strony z tabelami
 odczytane teraz przez OCR są często słabej jakości (np. DU/2006/398 s. 44: tabela obrócona o 90°). DU/2007/189 nadal
-nie ma tekstu: jego PDF w API ELI (413 392 257 bajtów) jest ucięty, bez końca pliku, także na serwerze (sprawdzone
-2026-10-02). DU/2009/1788: API ELI podaje pod `text.pdf` plik podpisu XAdES (XML) z PDF-em w środku (base64);
+nie ma tekstu: jego PDF w API ELI (413 392 257 bajtów) jest uszkodzony, także na serwerze: czytniki PDF go nie otwierają, a końcowa
+część pliku jest przesunięta o 4 bity (po cofnięciu przesunięcia koniec pliku jest poprawny; sprawdzone 2026-10-02). DU/2009/1788: API ELI podaje pod `text.pdf` plik podpisu XAdES (XML) z PDF-em w środku (base64);
 tekst jest z tego wewnętrznego PDF-u, `pdf_sha256` to skrót pliku z API (2026-10-02, jedyny taki plik na 42 102). Tak samo w 2008 r. (47 aktów, 2026-10-02): strony z OCR 1 483 → 1 646, słowa 366 628 → 433 060, żaden akt
 nie ma mniej stron z OCR ani mniej słów; wszystkie strony bez warstwy tekstowej odczytane w 1 → 24 aktach.
 

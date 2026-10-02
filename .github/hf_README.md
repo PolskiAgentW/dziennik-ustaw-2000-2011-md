@@ -21,7 +21,7 @@ configs:
 Nieoficjalne teksty aktów z Dziennika Ustaw z lat 2000–2011, które API ELI Sejmu podaje tylko jako PDF (19 615
 z 23 604 aktów tych lat, w większości rozporządzenia), przekonwertowane z urzędowych PDF-ów otwartym konwerterem
 [eli2md](https://github.com/PolskiAgentW/eli2md). Wszystkie lata 2000–2011 są w zbiorze
-(19 614 aktów z tekstem; brakuje DU/2007/189, którego PDF w API ELI jest ucięty).
+(19 614 aktów z tekstem; brakuje DU/2007/189, którego PDF w API ELI jest uszkodzony).
 
 *Unofficial plain-text (Markdown) and structured (JSON tree of units) versions of the acts of the Polish Journal of
 Laws (Dziennik Ustaw) of 2000–2011 that the Sejm ELI API serves only as PDF. Converted automatically; the PDF is the
