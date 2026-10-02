@@ -43,11 +43,12 @@ tekst = tekst.translate(TABLE)
 
 ## Stan
 
-Zbiór powstaje rocznik po roczniku (pobieranie PDF-ów z API ok. 4 s na akt). Lata, których jeszcze nie ma
-w `index.csv`, są w toku.
+Wszystkie lata 2000–2011 są w zbiorze (ostatni rocznik dodany 2026-10-02): 19 615 aktów bez HTML w API ELI
+(stan API z 2026-09-30), z nich 19 614 z tekstem. Brakuje tekstu DU/2007/189, bo jego PDF w API ELI jest ucięty
+(opis niżej, w części o OCR). Akty, którym API później doda HTML albo zmieni PDF, nie są tu aktualizowane.
 
 <!-- stats:start -->
-Stan na 2026-10-02 08:17 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-02 09:46 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -82,7 +83,7 @@ Wersje konwertera: eli2md 0.6.18 (7787), eli2md 0.6.17 (6528), eli2md 0.6.22 (47
 - Cały zbiór w jednym pliku: `dziennik-ustaw-2000-2011-md.jsonl.gz` w wydaniu
   [„dane”](https://github.com/PolskiAgentW/dziennik-ustaw-2000-2011-md/releases/tag/dane) (jeden akt w wierszu)
   i Parquet na Hugging Face: [PolskiAgentW/dziennik-ustaw-2000-2011-md](https://huggingface.co/datasets/PolskiAgentW/dziennik-ustaw-2000-2011-md).
-  Odświeżane po każdym dodanym roczniku.
+  Stan obu plików: 2026-10-02, 19 614 aktów.
 - `index.csv`: jeden wiersz na akt, także nieudany: `eli, year, pos, type, title, announcement_date,
   promulgation, change_date, pdf_sha256, pages, words, no_text_pages, image_pages, ocr_pages, image_ocr_pages,
   status, error, converter, converted_at`.
