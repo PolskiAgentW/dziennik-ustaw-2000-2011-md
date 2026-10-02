@@ -1,0 +1,939 @@
+{
+ "eli": "DU/2011/165",
+ "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 2 lutego 2011 r. zmieniające rozporządzenie w sprawie zakładania i prowadzenia ksiąg wieczystych w systemie informatycznym",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2011/165/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 2 lutego 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające rozporządzenie w sprawie zakładania i prowadzenia ksiąg wieczystych w systemie informatycznym"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25¹ ust. 2 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2001 r. Nr 124, poz. 1361, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Ministra Sprawiedliwości z dnia 20 sierpnia 2003 r. w sprawie zakładania i prowadzenia ksiąg wieczystych w systemie informatycznym (Dz. U. Nr 162, poz. 1575, z późn. zm.[^2]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 10 pkt 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3) 0.1.0.3 „typ księgi” — napis wskazujący na rodzaj nieruchomości lub prawa, dla którego jest prowadzona księga wieczysta:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) dla nieruchomości gruntowej odpowiednio: „nieruchomość gruntowa”, „grunt oddany w użytkowanie wieczyste”, „grunt oddany w użytkowanie wieczyste i budynek stanowiący odrębną nieruchomość”, „grunt oddany w użytkowanie wieczyste i urządzenie stanowiące odrębną nieruchomość”, „grunt oddany w użytkowanie wieczyste, budynek i urządzenie stanowiące odrębną nieruchomość”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) dla nieruchomości budynkowej: „budynek stanowiący odrębną nieruchomość”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) dla nieruchomości lokalowej: „lokal stanowiący odrębną nieruchomość”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) dla spółdzielczego własnościowego prawa do lokalu: „spółdzielcze własnościowe prawo do lokalu”.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 11 pkt 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1) 0.2.0.1 „stan w czasie założenia” — wskazanie, że założenie księgi wieczystej następuje:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— dla nieruchomości, dla której nie była prowadzona księga wieczysta,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— dla nieruchomości, dla której był prowadzony zbiór dokumentów,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— dla nieruchomości, dla której prowadzona była księga wieczysta dawna,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— dla nieruchomości, dla której prowadzona była księga wieczysta, która zaginęła lub uległa zniszczeniu, — w wyniku odłączenia części nieruchomości z innej księgi wieczystej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— w wyniku wyodrębnienia lokalu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Przepis stosuje się odpowiednio do spółdzielczego własnościowego prawa do lokalu;”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "§ 18 i 19 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 18. W rubryce 1.3 „położenie” wpisuje się dane określające położenie nieruchomości gruntowej, budynkowej, lokalowej oraz dane o położeniu lokalu lub budynku, do którego przysługuje spółdzielcze własnościowe prawo do lokalu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 19. Rubryka 1.3 „położenie” obejmuje następujące pola:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) 1.3.0.1 „numer porządkowy” — kolejny numer położenia nieruchomości;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) 1.3.0.2 „województwo” — nazwa województwa, w którym jest położona nieruchomość lub w którym jest położony lokal lub budynek, do którego przysługuje spółdzielcze własnościowe prawo do lokalu;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) 1.3.0.3 „powiat” — nazwa powiatu, w którym jest położona nieruchomość lub w którym jest położony lokal lub budynek, do którego przysługuje spółdzielcze własnościowe prawo do lokalu; w gminie mającej status miasta na prawach powiatu pole pozostawia się niewypełnione;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) 1.3.0.4 „gmina” — nazwa gminy lub gminy mającej status miasta na prawach powiatu, w której jest położona nieruchomość lub w której jest położony lokal lub budynek, do którego przysługuje spółdzielcze własnościowe prawo do lokalu;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) 1.3.0.5 „miejscowość” — nazwa miejscowości, w której jest położona nieruchomość lub w której jest położony lokal lub budynek, do którego przysługuje spółdzielcze własnościowe prawo do lokalu;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) 1.3.0.6 „dzielnica” — nazwa dzielnicy, w której jest położona nieruchomość lub w której jest położony lokal lub budynek, do którego przysługuje spółdzielcze własnościowe prawo do lokalu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w § 20:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_4/lit_a",
+       "text": "p kt 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2) w podrubryce 1.4.2 dane o oznaczeniu usytuowanych na nieruchomości budynków:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "budynków stanowiących odrębną nieruchomość albo budynków, z których wyodrębniono lokale stanowiące odrębną nieruchomość, albo budynków, w których znajdują się lokale, do których przysługuje spółdzielcze własnościowe prawo do lokalu, albo budynków, do których przysługuje spółdzielcze własnościowe prawo do lokalu;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_4/lit_b",
+       "text": "pkt 4 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4) w podrubryce 1.4.4 dane o oznaczeniu lokalu stanowiącego odrębną nieruchomość lub do którego przysługuje spółdzielcze własnościowe prawo do lokalu.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "w § 21:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_5/lit_a",
+       "text": "w pkt 2 lit. j otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„j) 1.4.2.10 „nieruchomość, na której jest usytuowany budynek” — jeżeli budynek jest odrębnym od gruntu przedmiotem własności, innym niż związany z użytkowaniem wieczystym gruntu, lub do którego przysługuje spółdzielcze własnościowe prawo do lokalu, podane w odpowiednich podpolach:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "A: numer księgi wieczystej prowadzonej dla nieruchomości, na której jest usytuowany budynek, lub",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "B: w razie braku takiej księgi — numer obrębu,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "C: w razie braku takiej księgi — numer działki ewidencyjnej, na której jest położony budynek,”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_5/lit_b",
+       "text": "w pkt 4 lit. j i k otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„j) 1.4.4.10 „nieruchomość zabudowana budynkiem” — dla lokalu, do którego przysługuje spółdzielcze własnościowe prawo do lokalu, podane w odpowiednich podpolach:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "A: numer księgi wieczystej prowadzonej dla nieruchomości zabudowanej budynkiem stanowiącym własność spółdzielni lub",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "B: w razie braku takiej księgi — numer obrębu,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "C: w razie braku takiej księgi — numer działki ewidencyjnej, na której jest położony budynek,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "k) 1.4.4.11 „odrębność” — wskazanie, czy lokal stanowi odrębną nieruchomość, czy stanowi przedmiot spółdzielczego własnościowego prawa do lokalu.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "§ 22 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 22. Rubryka 1.5 „obszar” obejmuje jedno pole 1.5.0.1 „obszar”, w którym wpisuje się odpowiednio obszar nieruchomości gruntowej stanowiący sumę pól powierzchni działek ewidencyjnych albo pole powierzchni użytkowej lokalu stanowiącego odrębną nieruchomość wraz z powierzchnią pomieszczeń przynależnych, albo pole powierzchni użytkowej lokalu, do którego przysługuje spółdzielcze własnościowe prawo do lokalu, wraz z powierzchnią pomieszczeń przynależnych.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "w § 27 pkt 3 i 4 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3) 1 .11.1.3 „rodzaj prawa” — rodzaj ujawnianego prawa związanego z własnością nieruchomości, prawem użytkowania wieczystego lub spółdzielczym własnościowym prawem do lokalu;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) 1.11.1.4 „treść prawa” — treść prawa, o którym mowa w pkt 3, innego niż własność, użytkowanie wieczyste, spółdzielcze własnościowe prawo do lokalu, chyba że treść prawa została ujawniona w polu 3.4.1.2 „treść wpisu” księgi wieczystej prowadzonej dla nieruchomości obciążonej prawem;”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "§ 29 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 29. Podrubryka 1.11.3 „opis spółdzielni mieszkaniowej” obejmuje następujące pola:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) p ole: 1.11.3.1 „nazwa spółdzielni mieszkaniowej” — nazwa spółdzielni mieszkaniowej, w której jest ustanowione spółdzielcze własnościowe prawo do lokalu;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) p ole: 1.11.3.2 „siedziba spółdzielni mieszkaniowej” — siedziba spółdzielni mieszkaniowej, w której jest ustanowione spółdzielcze własnościowe prawo do lokalu;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) pole: 1.11.3.3 „REGON spółdzielni mieszkaniowej” — numer identyfikacyjny REGON spółdzielni mieszkaniowej, w której jest ustanowione spółdzielcze własnościowe prawo do lokalu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "§ 31 i 32 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 31.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Dział II „Własność” jest podzielony na rubryki: (2.2) — właściciel, (2.3) — właściciel wyodrębnionego lokalu, (2.4) — użytkownik wieczysty, (2.5) — uprawniony.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Rubryka 2.2 „właściciel” jest podzielona na podrubryki: 2.2.1 — udział, 2.2.2 — Skarb Państwa, 2.2.3 — jednostka samorządu terytorialnego (związek międzygminny), 2.2.4 — inna osoba prawna lub jednostka organizacyjna niebędąca osobą prawną, 2.2.5 — osoba fizyczna.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Rubryka 2.4 „użytkownik wieczysty” jest podzielona na podrubryki: 2.4.1 — napis, 2.4.2 — udział, 2.4.3 — Skarb Państwa, 2.4.4 — jednostka samorządu terytorialnego (związek międzygminny), 2.4.5 — inna osoba prawna lub jednostka organizacyjna niebędąca osobą prawną, 2.4.6 — osoba fizyczna.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Rubryka 2.5 „uprawniony” jest podzielona na podrubryki: 2.5.1 — udział, 2.5.2 — Skarb Państwa, 2.5.3 — jednostka samorządu terytorialnego (związek międzygminny), 2.5.4 — inna osoba prawna lub jednostka organizacyjna niebędąca osobą prawną, 2.5.5 — osoba fizyczna.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 32. W podrubryce odpowiednio: 2.2.1, 2.4.2, 2.5.1 „udział” oznacza się udział w prawie do nieruchomości lub udział w spółdzielczym własnościowym prawie do lokalu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "w § 34:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_10/lit_a",
+       "text": "w pkt 1 lit. b otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„b) 2.2.1.2 „wielkość udziału” — wielkość udziału Skarbu Państwa, jednostki samorządu terytorialnego lub związku międzygminnego, innej osoby prawnej lub jednostki organizacyjnej niebędącej osobą prawną lub osoby fizycznej w prawie własności (współwłasności) nieruchomości,”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_10/lit_b",
+       "text": "pkt 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2) w podrubryce 2.2.2 „Skarb Państwa” następujące pola: szczegółowe dane identyfikujące organ reprezentujący Skarb Państwa, osobę prawną, której powierzono wykonywanie praw Skarbu Państwa, lub państwową jednostkę organizacyjną nieposiadającą osobowości prawnej, której oddano nieruchomość w trwały zarząd lub zarząd:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a) 2.2.2.1 „udział w prawie” — wskazanie udziału w prawie własności (współwłasności) nieruchomości, określonego w polu 2.2.1.1 „numer udziału w prawie”,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b) 2.2.2.2 „nazwa” — nazwa organu reprezentującego Skarb Państwa, osoby prawnej, której powierzono wykonywanie praw Skarbu Państwa, lub państwowej jednostki organizacyjnej nieposiadającej osobowości prawnej, której oddano nieruchomość w trwały zarząd lub zarząd,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "c) 2.2.2.3 „siedziba” — siedziba osoby prawnej, której powierzono wykonywanie praw Skarbu Państwa, lub państwowej jednostki organizacyjnej nieposiadającej osobowości prawnej, której oddano nieruchomość w trwały zarząd lub zarząd,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "d) 2.2.2.4 „REGON” — numer identyfikacyjny REGON osoby prawnej, której powierzono wykonywanie praw Skarbu Państwa, lub państwowej jednostki organizacyjnej nieposiadającej osobowości prawnej, której oddano nieruchomość w trwały zarząd lub zarząd,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "e) 2.2.2.5 „rola instytucji” — wskazanie roli instytucji poprzez wpisanie: organ reprezentujący Skarb Państwa, osoba prawna, której powierzono wykonywanie praw Skarbu Państwa, lub państwowa jednostka organizacyjna nieposiadająca osobowości prawnej, której oddano nieruchomość w trwały zarząd lub zarząd;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_10/lit_c",
+       "text": "pkt 4 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4) w podrubryce 2.2.4 „inna osoba prawna lub jednostka organizacyjna niebędąca osobą prawną” następujące pola: szczegółowe dane identyfikujące osobę prawną lub jednostkę organizacyjną niebędącą osobą prawną, której ustawa przyznaje zdolność prawną:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a) 2.2.4.1 „udział w prawie” — wskazanie udziału w prawie własności (współwłasności) nieruchomości, określonego w polu 2.2.1.1 „numer udziału w prawie”,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b) 2.2.4.2 „nazwa” — nazwa osoby prawnej lub jednostki organizacyjnej niebędącej osobą prawną, a w przypadku przedsiębiorcy — firma,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "c) 2.2.4.3 „siedziba” — siedziba osoby prawnej lub jednostki organizacyjnej niebędącej osobą prawną,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "d) 2.2.4.4 „REGON” — numer identyfikacyjny REGON osoby prawnej, jeżeli przepisy odrębne przewidują nadanie jej numeru,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "e) 2 .2.4.5 „stan przejściowy” — w upadłości, w likwidacji lub w organizacji;”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "§ 39 i 40 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 39. W rubryce 2.5 „uprawniony” wpisuje się osobę uprawnionego lub współuprawnionego z tytułu spółdzielczego własnościowego prawa do lokalu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 40. Przy dokonywaniu wpisów w rubryce 2.5 „uprawniony”, uprawnionego z tytułu spółdzielczego własnościowego prawa do lokalu ujawnia się odpowiednio w polach analogicznych do pól rubryki 2.2 „właściciel”, o których mowa w § 34.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_1/pkt_12",
+     "text": "w § 42 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Rubryka 3.4 „treść wpisu” jest podzielona na podrubryki: 3.4.1 — treść prawa, roszczenia, ograniczenia, ostrzeżenia, 3.4.2 — Skarb Państwa, 3.4.3 — jednostka samorządu terytorialnego (związek międzygminny), 3.4.4 — inna osoba prawna lub jednostka organizacyjna niebędąca osobą prawną, 3.4.5 — osoba fizyczna, 3.4.6 — wskazanie innej nieruchomości.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_1/pkt_13",
+     "text": "w § 46 pkt 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2) w podrubryce: 3.4.2 „Skarb Państwa”, 3.4.3 — „jednostka samorządu terytorialnego (związek międzygminny)”, 3.4.4 — „inna osoba prawna lub jednostka organizacyjna niebędąca osobą prawną”, 3.4.5 — „osoba fizyczna”: przy dokonywaniu wpisów w powyższych podrubrykach osobę uprawnioną według treści prawa lub roszczenia lub osobę, której roszczenie zostało przez wpis ostrzeżenia zabezpieczone, ujawnia się odpowiednio w polach analogicznych do pól działu II „własność” rubryki 2.2 „właściciel”, o których mowa w § 34, z pominięciem pól odpowiednio: 2.2.2.1, 2.2.3.1, 2.2.4.1, 2.2.5.1 „udział w prawie”;”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_1/pkt_14",
+     "text": "§ 48 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 48.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Dział IV „Hipoteka” jest podzielony na rubryki: (4.2) — numer hipoteki (roszczenia), (4.3) — napis, (4.4) — treść wpisu, (4.8) — uprawnienie do rozporządzania opróżnionym miejscem hipotecznym.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Rubryka 4.4 „treść wpisu” jest podzielona na podrubryki: 4.4.1 — treść hipoteki (roszczenia), 4.4.2 — Skarb Państwa, 4.4.3 — jednostka samorządu terytorialnego (związek międzygminny), 4.4.4 — inna osoba prawna lub jednostka organizacyjna niebędąca osobą prawną, 4.4.5 — osoba fizyczna.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_1/pkt_15",
+     "text": "§ 51 i 52 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 51. W rubryce 4.4 „treść wpisu” wpisuje się dane dotyczące hipoteki lub roszczenia o ustanowienie hipoteki oraz dane dotyczące wierzyciela hipotecznego lub dane dotyczące administratora hipoteki.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 52. R ubryka 4.4 „treść wpisu” obejmuje:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) w podrubryce 4.4.1 „treść hipoteki (roszczenia)” następujące pola:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) 4.4.1.1 „rodzaj hipoteki (roszczenia)” — wskazanie rodzaju hipoteki ujawnianej w księdze wieczystej; w przypadku roszczenia o ustanowienie hipoteki — treść roszczenia, co do rodzaju hipoteki, której dotyczy roszczenie,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) 4.4.1.2 „suma” — wyrażona cyframi arabskimi oznaczona suma hipoteki lub suma hipoteki, która ma być ustanowiona według treści roszczenia,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) 4 .4.1.3 „suma słownie” — wyrażona słownie suma hipoteki,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) 4.4.1.4 „waluta sumy” — oznaczenie pieniądza, w jakim jest wyrażona hipoteka,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "e) 4 .4.1.5 „odsetki” — określenie w odpowiednich podpolach:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "A: rodzaju odsetek,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "B: wysokości odsetek,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "f) 4.4.1.6 „udział” — jeżeli przedmiotem zabezpieczenia hipoteką jest udział w prawie — wskazanie numeru udziału w prawie ujawnionego w dziale II,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "g) 4.4.1.7 „hipoteka na wierzytelności hipotecznej” — jeżeli przedmiotem zabezpieczenia hipoteką jest wierzytelność hipoteczna — wskazanie numeru hipoteki zabezpieczającej tę wierzytelność hipoteczną,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "h) 4.4.1.8 „oznaczenie wierzytelności i stosunku prawnego” — oznaczenie wierzytelności zabezpieczonych hipoteką wynikających z określonych stosunków prawnych, określane w odpowiednich podpolach:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "A: „Numer wierzytelności” — kolejny numer wierzytelności zabezpieczonej hipoteką,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "B: „Wierzytelność” — oznaczenie wierzytelności zabezpieczonej hipoteką,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "C: „Stosunek prawny” — oznaczenie stosunku prawnego, z którego wynika wierzytelność zabezpieczona hipoteką,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "i) 4 .4.1.9 „termin zapłaty” — termin zapłaty zabezpieczonej wierzytelności, w przypadku kredytu — termin spłaty kredytu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "j) 4.4.1.10 „pierwszeństwo” — wskazanie, że:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— właściciel, użytkownik wieczysty lub uprawniony dokonał zastrzeżenia pierwszeństwa przed hipoteką lub roszczeniem wyższego lub równego z tą hipoteką lub roszczeniem dla innego prawa lub roszczenia,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— hipotece zabezpieczającej przelaną wierzytelność przysługuje pierwszeństwo hipoteki, która zabezpieczała wierzytelność przed przelewem, ze wskazaniem numeru tej hipoteki,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— hipoteka powstała w wyniku podziału hipoteki i przysługuje jej pierwszeństwo hipoteki podlegającej podziałowi ze wskazaniem numeru tej hipoteki,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— hipoteka została przeniesiona na opróżnione miejsce hipoteczne i przysługuje jej pierwszeństwo hipoteki, której opróżnionym miejscem hipotecznym rozporządzono, ze wskazaniem numeru tej hipoteki,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— hipoteka została ustanowiona na opróżnionym miejscu hipotecznym i przysługuje jej pierwszeństwo hipoteki, której opróżnionym miejscem hipotecznym rozporządzono, ze wskazaniem numeru tej hipoteki,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— wierzycielowi hipotecznemu przysługuje roszczenie o przeniesienie jego hipoteki na miejsce opróżnione przez inną hipotekę ze wskazaniem numeru hipoteki, której miejsca hipotecznego dotyczy roszczenie,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "k) 4 .4.1.11 „hipoteka lub roszczenie uprawnione z pierwszeństwa” — numer lub numery prawa lub roszczenia, dla którego dokonano zastrzeżenia pierwszeństwa, wpisywany z urzędu z chwilą ujawnienia tego prawa w księdze wieczystej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "l) 4.4.1.12 „księga współobciążona” — podane w odpowiednich podpolach:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "A: numer księgi wieczystej, prowadzonej dla nieruchomości współobciążonej hipoteką ujawnianą w księdze wieczystej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "B: numer, pod którym w księdze wieczystej prowadzonej dla nieruchomości współobciążonej hipoteką ujawniono tę hipotekę,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "m) 4 .4.1.13 „inne informacje”:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— informacja o numerze księgi wieczystej prowadzonej przez inny wydział ksiąg wieczystych dla nieruchomości współobciążonej hipoteką łączną oraz nazwa i siedziba sądu prowadzącego tę księgę wieczystą, — informacje o zajęciu wierzytelności zabezpieczonej hipoteką,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— informacje o wpisaniu hipoteki do rejestru zabezpieczenia hipotecznych listów zastawnych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— informacje o zakresie zabezpieczenia poszczególnych wierzytelności w przypadku ustanowienia hipoteki na rzecz administratora hipoteki,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— informacje o sposobie podziału hipoteki w razie podziału nieruchomości polegającego na ustanowieniu odrębnej własności lokalu lub wydzieleniu z dotychczasowej nieruchomości odrębnej nieruchomości zabudowanej domem jednorodzinnym,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— informacje o przelewie wierzytelności zabezpieczonej hipoteką w przypadku przelewu jednej z kilku wierzytelności zabezpieczonych hipoteką,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— inne istotne informacje o treści hipoteki lub roszczenia lub wierzytelności zabezpieczonej hipoteką lub roszczeniem, niewymienione w żadnym z powyższych podpól i pól,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "n) 4.4.1.14 „numer hipoteki w RZHLZ” — jeżeli hipoteka zabezpieczająca wierzytelność banku hipotecznego została wpisana do rejestru zabezpieczenia hipotecznych listów zastawnych — numer, pod jakim hipoteka została wpisana w rejestrze,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "o) 4.4.1.15 „rodzaj zmiany” — opisanie zmian dokonanych we wpisie hipoteki lub roszczenia o ustanowienie hipoteki z powołaniem pól, których zmiana dotyczy;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w podrubryce: 4.4.2 — Skarb Państwa, 4.4.3 — jednostka samorządu terytorialnego (związek międzygminny), 4.4.4 — inna osoba prawna lub jednostka organizacyjna niebędąca osobą prawną, 4.4.5 — osoba fizyczna: przy dokonywaniu wpisów w powyższych podrubrykach dane dotyczące wierzyciela hipotecznego lub administratora hipoteki ujawnia się odpowiednio w polach analogicznych do pól działu II „własność”, rubryki 2.2 „właściciel”, o których mowa w § 34, z pominięciem pól odpowiednio: 2.2.2.1, 2.2.3.1, 2.2.4.1, 2.2.5.1 „udział w prawie” oraz z tym, że w przypadku hipoteki zabezpieczającej wierzytelność banku w polu 4.4.4.1 „nazwa” wpisuje się firmę banku i określenie oddziału. W przypadku ujawnienia administratora hipoteki dodatkowo w polach 4.4.2.5., 4.4.3.7, 4.4.4.5, 4.4.5.8 „administrator hipoteki” wpisuje się informację „administrator hipoteki”.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_1/pkt_16",
+     "text": "p o § 52 dodaje się § 52a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 52a. Rubryka 4.8 „uprawnienie do rozporządzania opróżnionym miejscem hipotecznym” obejmuje jedno pole 4.8.0.1 „uprawnienie do rozporządzania opróżnionym miejscem hipotecznym”, w którym wpisuje się uprawnienie do rozporządzania opróżnionym miejscem hipotecznym ze wskazaniem numeru hipoteki, której miejsca uprawnienie dotyczy; w przypadku częściowego opróżnienia miejsca hipotecznego dodatkowo ujawnia się część, w jakiej właścicielowi przysługuje uprawnienie do rozporządzania opróżnionym miejscem hipotecznym.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_1/pkt_17",
+     "text": "w § 53 pkt 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3) p ól: 4.4.1.6, 4.4.1.7, 4.4.1.8, 4.4.1.10., 4.4.1.12, 4.4.1.15, 4.8.0.1.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_1/pkt_18",
+     "text": "§ 55 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 55. W rubryce „dane o wniosku i chwili wpisu” wpisuje się dane o wniosku lub postępowaniu wszczętym z urzędu na skutek zawiadomienia sądu, organu administracji rządowej, jednostki samorządu terytorialnego, jednostki prowadzącej ewidencję gruntów i budynków lub notariusza sporządzającego akt poświadczenia dziedziczenia oraz ujawnia się chwilę wpisu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "par_1/pkt_19",
+     "text": "po § 80 dodaje się § 80a—80d w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 80a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. W przypadku przelewu jednej z kilku wierzytelności zabezpieczonych hipoteką wykreśla się częściowo sumę hipoteki, wpisując w podrubryce 4.4.1. „treść hipoteki (roszczenia)” w polu 4.4.1.2. „suma” sumę hipoteki pozostałą po odliczeniu kwoty podlegającej wykreśleniu oraz ujawnia się w polu „inne informacje” hipoteki, której suma podlega częściowemu wykreśleniu, informację o przelewie wierzytelności zabezpieczonej hipoteką, zamieszczając w polu 4.4.1.15 „rodzaj zmiany” opis zmiany ze wskazaniem pól, których zmiana dotyczy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Hipotekę zabezpieczającą przelaną wierzytelność wpisuje się pod kolejnym numerem hipoteki, ujawniając w podrubryce 4.4.1. „treść hipoteki (roszczenia)” w polu 4.4.1.10 „pierwszeństwo” informację, że hipotece przysługuje pierwszeństwo hipoteki, która zabezpieczała wierzytelność przed przelewem, ze wskazaniem numeru tej hipoteki.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 80b. W przypadku podziału hipoteki zabezpieczającej kilka wierzytelności wykreśla się istniejący wpis hipoteki oraz wpisuje się pod kolejnymi numerami hipotek hipoteki powstałe w wyniku podziału. W podrubrykach 4.4.1 „treść hipoteki (roszczenia)” w polach 4.4.1.10 „pierwszeństwo” wpisywanych hipotek ujawnia się informację, że hipoteki powstały w wyniku podziału hipoteki i przysługuje im pierwszeństwo hipoteki podlegającej podziałowi, ze wskazaniem numeru tej hipoteki.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 80c. W przypadku przeniesienia hipoteki na opróżnione miejsce hipoteczne w podrubryce 4.4.1. „treść hipoteki (roszczenia)” hipoteki podlegającej przeniesieniu w polu 4.4.1.10 „pierwszeństwo” ujawnia się informację, że hipoteka została przeniesiona na opróżnione miejsce hipoteczne i przysługuje jej pierwszeństwo hipoteki, której opróżnionym miejscem hipotecznym rozporządzono, ze wskazaniem numeru tej hipoteki oraz zamieszcza się w polu 4.4.1.15 „rodzaj zmiany” opis zmiany ze wskazaniem pola, którego zmiana dotyczy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 80d. W przypadku ustanowienia hipoteki na opróżnionym miejscu hipotecznym wpisuje się hipotekę pod kolejnym numerem hipoteki. W podrubryce 4.4.1. „treść hipoteki (roszczenia)” ustanawianej hipoteki w polu 4.4.1.10 „pierwszeństwo” ujawnia się informację, że hipoteka została ustanowiona na opróżnionym miejscu hipotecznym i przysługuje jej pierwszeństwo hipoteki, której opróżnionym miejscem hipotecznym rozporządzono, ze wskazaniem numeru tej hipoteki.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "par_1/pkt_20",
+     "text": "w § 85 pkt 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2) dla księgi wieczystej zakładanej dla spółdzielczego własnościowego prawa do lokalu w działach:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) w dziale I-O: w rubryce 1.2 „numer nieruchomości”, w rubryce 1.3 „położenie”, w rubryce 1.4 „oznaczenie”: w miarę potrzeby w podrubryce 1.4.2 „budynek” lub 1.4.4 „lokal” (z wyłączeniem pól: 1.4.2.6, 1.4.2.12—1.4.2.15, 1.4.4.9), w rubryce 1.5 „obszar” oraz w rubrykach: 1.7 „podstawa oznaczenia (sprostowania)” i 1.8 „dane o wniosku i chwili wpisu”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) w dziale I-Sp: w rubryce 1.11 „spis praw” w podrubryce 1.11.3 „opis spółdzielni mieszkaniowej” oraz w rubrykach 1.12 „podstawa wpisu” i 1.13 „dane o wniosku i chwili wpisu”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) w dziale II: w rubryce 2.5 „uprawniony” oraz w rubrykach: 2.6 „podstawa nabycia” i 2.7 „dane o wniosku i chwili wpisu”;”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "par_1/pkt_21",
+     "text": "§ 96—98 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 96. Przy przekształceniu spółdzielczego własnościowego prawa do lokalu dotyczącego lokalu w prawo odrębnej własności lokalu, w księdze wieczystej zmienia się dane o oznaczeniu w rubryce: 0.1 „informacje podstawowe” w polu 0.1.0.3 „typ księgi” oraz dokonuje się w tej księdze wpisów:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) w dziale I-O: w rubryce 1.4 „oznaczenie” w podrubryce 1.4.4 „lokal” w polach: 1.4.4.9 „przyłączenie” i 1.4.4.11 „odrębność” oraz w rubrykach: 1.7 „podstawa oznaczenia (sprostowanie)” i 1.8 „dane o wniosku i chwili wpisu”;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w dziale I-Sp: w rubryce 1.11 „spis praw” w podrubryce 1.11.1 „spis praw związanych z własnością”, w rubrykach: 1.12 „podstawa wpisu” i 1.13 „dane o wniosku i chwili wpisu” oraz wykreślenia wpisów w rubryce 1.11 „spis praw” w podrubryce 1.11.3 „opis spółdzielni mieszkaniowej”;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) w dziale II: wykreślenie wpisów w rubryce 2.5 „uprawniony” i dokonanie wpisu w rubryce 2.2 „właściciel” oraz w rubrykach: 2.6 „podstawa nabycia” i 2.7 „dane o wniosku i chwili wpisu”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 97. Przy przekształceniu spółdzielczego własnościowego prawa do lokalu dotyczącego lokalu w prawo odrębnej własności, w księdze wieczystej prowadzonej dla nieruchomości, z której wyodrębniono lokal, dokonuje się wpisów:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) w dziale I-O: w podrubryce 1.4.2 „budynek” w polu 1.4.2.14 „informacja o wyodrębnionych lokalach”, w polu 1.4.2.15 „części wspólne po wyodrębnieniu lokali” oraz w rubrykach: 1.7 „podstawa oznaczenia (sprostowania)” i 1.8 „dane o wniosku i chwili wpisu”;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w dziale II: w rubryce 2.3 „właściciel wyodrębnionego lokalu” w odniesieniu do właściciela wyodrębnionego lokalu oraz w rubrykach: 2.6 „podstawa nabycia” i 2.7 „dane o wniosku i chwili wpisu”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "oraz zamieszcza się napisy w dziale III i IV w polach odpowiednio 3.3.0.1 i 4.3.0.1: „wszelkie prawa, roszczenia i ograniczenia ciążące na lokalach wyodrębnionych z nieruchomości ciążą na związanych z nimi udziałach we współwłasności lub współużytkowaniu wieczystym”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 98. Przy przekształceniu spółdzielczego własnościowego prawa do lokalu dotyczącego domu jednorodzinnego w prawo własności nieruchomości, księga wieczysta prowadzona dla tego prawa staje się księgą wieczystą dla nieruchomości — zmiana typu księgi wieczystej następuje poprzez wpisanie nowych danych o oznaczeniu księgi wieczystej w rubryce: 0.1 „informacje podstawowe” w polu 0.1.0.3 „typ księgi” oraz dokonanie w tej księdze wpisów:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) w dziale I-O: w rubryce 1.4 „oznaczenie” w podrubryce 1.4.1 „działka ewidencyjna” w sposób określony w przepisach § 89 i 90, w podrubryce 1.4.2 w polu 1.4.2.11 „odrębność” oraz w rubrykach: 1.7 „podstawa oznaczenia (sprostowania)” i 1.8 „dane o wniosku i chwili wpisu”;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w dziale I-Sp: wykreślenie wpisów w rubryce 1.11 „spis praw” w podrubryce 1.11.3 „opis spółdzielni mieszkaniowej”;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) w dziale II: wykreślenie wpisów w rubryce 2.5 „uprawniony” i dokonanie wpisu w rubryce 2.3 „właściciel” oraz w rubrykach: 2.6 „podstawa nabycia” i 2.7 „dane o wniosku i chwili wpisu”.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "par_1/pkt_22",
+     "text": "§ 101 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 101. P rzy pierwszym wpisie do księgi wieczystej, na podstawie danych zawartych we wniosku i załączonych do niego dokumentach, uzupełnia się dane dotyczące osób ujawnionych, przewidziane w poszczególnych działach księgi wieczystej, w polach podrubryk „osoba fizyczna” lub „inna osoba prawna lub jednostka organizacyjna niebędąca osobą prawną”.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Przy pierwszym wpisie po dniu wejścia w życie niniejszego rozporządzenia w księdze wieczystej prowadzonej dla własnościowego spółdzielczego prawa do lokalu mieszkalnego, własnościowego spółdzielczego prawa do lokalu użytkowego i prawa do domu jednorodzinnego w spółdzielni mieszkaniowej wpisuje się zmianę typu księgi na spółdzielcze własnościowe prawo do lokalu. Informację o zmianie typu księgi doręcza się uprawnionemu wraz z zawiadomieniem o dokonanym wpisie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Dokonując wpisów hipotek powstałych po dniu 19 lutego 2011 r., nie wypełnia się pól: 4.4.1.5 „odsetki” oraz 4.4.1.9 „termin zapłaty”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Rozporządzenie wchodzi w życie z dniem 20 lutego 2011 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: K. Kwiatkowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 125, poz. 1368, z 2002 r. Nr 169, poz. 1387, z 2003 r. Nr 42, poz. 363, z 2004 r. Nr 172, poz. 1804, z 2008 r. Nr 116, poz. 731 oraz z 2009 r. Nr 131, poz. 1075.",
+  "2": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2006 r. Nr 49, poz. 354, z 2007 r. Nr 56, poz. 376 i Nr 250, poz. 1880, z 2008 r. Nr 235, poz. 1607, z 2009 r. Nr 102, poz. 850 oraz z 2010 r. Nr 255, poz. 1715."
+ }
+}

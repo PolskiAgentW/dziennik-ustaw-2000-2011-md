@@ -1,0 +1,331 @@
+{
+ "eli": "DU/2011/404",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 marca 2011 r. w sprawie centralnego punktu systemu centrów powiadamiania ratunkowego oraz punktów centralnych służb",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2011/404/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 marca 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie centralnego punktu systemu centrów powiadamiania ratunkowego oraz punktów centralnych służb"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 78 ust. 7a ustawy z dnia 16 lipca 2004 r. — Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa organizację i funkcjonowanie centralnego punktu systemu centrów powiadamiania ratunkowego oraz punktów centralnych służb ustawowo powołanych do niesienia pomocy, wykorzystujących numer alarmowy „112” oraz numery alarmowe ustalone dla Policji, Państwowej Straży Pożarnej i dysponenta zespołów ratownictwa medycznego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "ustawie — należy przez to rozumieć ustawę z dnia 16 lipca 2004 r. — Prawo telekomunikacyjne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "centrach powiadamiania ratunkowego — należy przez to rozumieć wojewódzkie centra powiadamiania ratunkowego oraz centra powiadamiania ratunkowego, o których mowa w art. 14a ust. 2 pkt 1 i 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380 oraz z 2010 r. Nr 57, poz. 353);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "jednostkach służb — należy przez to rozumieć jednostki służb wymienionych w art. 78 ust. 4 pkt 1 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "danych — należy przez to rozumieć dane, o których mowa w art. 161 ust. 2 pkt 4—6 oraz art. 169 ust. 1 ustawy, dotyczące abonenta;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "informacjach — należy przez to rozumieć informacje, o których mowa w art. 78 ust. 3 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "PLI CBD — należy przez to rozumieć Platformę Lokalizacyjno-Informacyjną z Centralną Bazą Danych, o której mowa w przepisach wydanych na podstawie art. 78 ust. 7 ustawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Organizuje się Centralny Punkt Systemu Centrów Powiadamiania Ratunkowego, zwany dalej „CP SCPR”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Budowę i uruchomienie CP SCPR zapewnia Centrum Projektów Informatycznych Ministerstwa Spraw Wewnętrznych i Administracji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "CP SCPR zapewnia obsługę przekazywania zapytań o informacje i dane, skierowanych z centrów powiadamiania ratunkowego i jednostek służb do PLI CBD oraz przekazywania odpowiedzi z PLI CBD do centrów powiadamiania ratunkowego i jednostek służb, w przypadku gdy właściwe służby nie posiadają własnych punktów centralnych, o których mowa w § 9.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Zapytania i odpowiedzi, o których mowa w ust. 1, mają formę komunikatów zgodnych ze specyfikacją techniczną ETSI TS 102 164.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "CP SCPR przekazuje wszystkie zapytania od centrów powiadamiania ratunkowego i jednostek służb oraz odpowiedzi od PLI CBD w czasie rzeczywistym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Połączenia pomiędzy CP SCPR a centrami powiadamiania ratunkowego i jednostkami służb realizowane są poprzez sieć telekomunikacyjną wykorzystywaną przez te podmioty do realizacji ich ustawowych zadań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Podmiot odpowiedzialny za obsługę, administrowanie oraz serwis techniczny sieci telekomunikacyjnej, o której mowa w ust. 1, zapewni gromadzenie i przechowywanie danych o połączeniach realizowanych przez CP SCPR przez 12 miesięcy, licząc od ostatniego dnia miesiąca, w którym wystąpiły te połączenia. Dane te nie zawierają treści przesyłanych informacji i danych, a gromadzone są w celu zapewnienia kontroli obiegu informacji i danych, statystyki oraz diagnostyki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "CP SCPR zapewnia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "obsługę przekazania do PLI CBD zapytania o informacje i dane z systemu informatycznego powiadamiania ratunkowego, wspierającego obsługę zgłoszeń alarmowych i systemów informatycznych jednostek służb;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "obsługę przekazania z PLI CBD odpowiedzi z informacjami i danymi do systemu informatycznego powiadamiania ratunkowego, wspierającego obsługę zgłoszeń alarmowych i systemów informatycznych jednostek służb;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_1/pkt_3",
+       "text": "pozyskiwanie przez centra powiadamiania ratunkowego i jednostki służb informacji i danych za pomocą protokołu komunikacyjnego sieci WWW (HTTP), w przypadku awarii systemów, o których mowa w pkt 1, lub ich braku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_1/pkt_4",
+       "text": "gromadzenie i przetwarzanie danych o połączeniach, w tym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_6/ust_1/pkt_4/lit_a",
+         "text": "rejestrację faktu przekazania zapytania o informacje i dane z centrów powiadamiania ratunkowego i jednostek służb do CP SCPR, wraz ze wskazaniem czasu tej rejestracji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_6/ust_1/pkt_4/lit_b",
+         "text": "rejestrację faktu przekazania zapytania o informacje i dane z CP SCPR do PLI CBD, wraz ze wskazaniem czasu tej rejestracji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_6/ust_1/pkt_4/lit_c",
+         "text": "rejestrację faktu przekazania odpowiedzi z informacjami i danymi z PLI CBD do CP SCPR, wraz ze wskazaniem czasu tej rejestracji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_6/ust_1/pkt_4/lit_d",
+         "text": "rejestrację faktu przekazania odpowiedzi z informacjami i danymi z CP SCPR do centrów powiadamiania ratunkowego i jednostek służb, wraz ze wskazaniem czasu tej rejestracji.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Przechowywanie danych, o których mowa w ust. 1 pkt 4, obejmuje okres 12 miesięcy, licząc od ostatniego dnia miesiąca, w którym nastąpiło połączenie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Infrastrukturę CP SCPR stanowią w szczególności pomieszczenia z urządzeniami wyposażone w sygnalizację włamania i napadu, kontrolę dostępu, sygnalizację pożarową, system gaszenia gazem, klimatyzację, ochronę przepięciową i rezerwowe zasilanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Pomieszczenia, o których mowa w ust. 1, lokalizuje się w sposób zapewniający ciągłość działania CP SCPR w przypadku braku zasilania w energię elektryczną, zagrożenia pożarem lub przerwania połączenia telekomunikacyjnego, z uwzględnieniem przepisów w zakresie lokalizacji PLI CBD wydanych na podstawie art. 78 ust. 7 ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "CP SCPR wyposażony jest w rozwiązania architektoniczne i teleinformatyczne, które zapewniają w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_3/pkt_1",
+       "text": "zachowanie ciągłości funkcjonowania CP SCPR, w tym podczas prowadzenia prac serwisowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_3/pkt_2",
+       "text": "zabezpieczenie przed nieuprawnionym dostępem do jakiejkolwiek części CP SCPR;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_3/pkt_3",
+       "text": "zabezpieczenie przed możliwymi atakami, również w przypadku ataku przez sieć telekomunikacyjną.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Obsługę, administrowanie oraz serwis techniczny CP SCPR realizuje podmiot wykonujący te zadania w odniesieniu do sieci telekomunikacyjnej, o której mowa w § 5 ust. 1.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Do organizacji i funkcjonowania własnych punktów centralnych utworzonych przez Policję, Państwową Straż Pożarną i dysponenta zespołów ratownictwa medycznego stosuje się odpowiednio przepisy § 4—8.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Podmioty, o których mowa w ust. 1, zapewniają łącza telekomunikacyjne pomiędzy PLI CBD a własnym punktem centralnym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych i Administracji: J. Miller"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej — sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. Nr 216, poz. 1604).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716 oraz z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 229, poz. 1499 i Nr 238, poz. 1578."
+ }
+}

@@ -1,0 +1,1288 @@
+{
+ "eli": "DU/2011/765",
+ "title": "Rozporządzenie Ministra Infrastruktury z dnia 1 czerwca 2011 r. w sprawie planu numeracji dla publicznych sieci telefonicznych",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2011/765/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 1 czerwca 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie planu numeracji krajowej dla publicznych sieci telefonicznych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 126 ust. 12 pkt 1 ustawy z dnia 16 lipca 2004 r. — Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Ustala się plan numeracji krajowej dla publicznych sieci telefonicznych w zakresie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_1/pkt_1",
+       "text": "formatów numerów oraz schematów ich wybierania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "wskaźników strefy numeracyjnej oraz ich przyporządkowania do obszaru;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_1/pkt_3",
+       "text": "wyróżników sieci i usług telekomunikacyjnych oraz ich wykorzystania w numeracji krajowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Plan, o którym mowa w ust. 1, stanowi załącznik do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc rozporządzenie Ministra Infrastruktury z dnia 28 lutego 2008 r. w sprawie planu numeracji krajowej dla publicznych sieci telefonicznych (Dz. U. Nr 52, poz. 307 oraz z 2009 r. Nr 24, poz. 147 i Nr 153, poz. 1225).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Infrastruktury: C. Grabarczyk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Infrastruktury z dnia 1 czerwca 2011 r. (poz. 765)",
+   "body": [
+    {
+     "type": "text",
+     "text": "PLAN NUMERACJI KRAJOWEJ DLA PUBLICZNYCH SIECI TELEFONICZNYCH *"
+    },
+    {
+     "type": "text",
+     "text": "(PNK-TF)"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Plan numeracji krajowej (PNK) określa definicje i zasady gospodarowania oraz sposób korzystania z krajowych zasobów numeracji dla sieci i usług telefonicznych stosowanych dla publicznych sieci telefonicznych na obszarze Rzeczypospolitej Polskiej.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "Określenia charakteryzujące numerację:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_2/ust_1/pkt_1",
+         "text": "prefiks międzynarodowy są to cyfry „00”, wybierane przed numerem międzynarodowym, o którym mowa w pkt 6;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_2/ust_1/pkt_2",
+         "text": "wskaźnik strefy numeracyjnej, zwany dalej „WSN”, jest to kombinacja dwóch cyfr „AB” przyporządkowana strefie numeracyjnej, wyróżniająca daną strefę w sieci stacjonarnej;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_2/ust_1/pkt_3",
+         "text": "strefa numeracyjna, zwana dalej „SN”, jest to część obszaru kraju będąca częścią stacjonarnej publicznej sieci telefonicznej, zwanej dalej „siecią stacjonarną”, charakteryzująca się tym, że:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_2/ust_1/pkt_3/lit_a",
+           "text": "każdemu obszarowi SN przyporządkowany jest jeden WSN, identyfikujący daną SN; w przypadkach uzasadnionych potrzebami wynikającymi z wprowadzenia wybierania numeru krajowego, o którym mowa w pkt 7, dopuszcza się stosowanie jednego WSN dla kilku SN i rozróżnianie tych SN za pomocą pierwszych trzech cyfr numeru krajowego oznaczonych symbolicznie „ABS”,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_2/ust_1/pkt_3/lit_b",
+           "text": "na obszarach powiatów podzielonych granicami SN dopuszcza się przyznawanie zakresu numeracji innej SN występującej w tym powiecie, ze szczególnym uwzględnieniem przebiegu granic województw;",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_2/ust_1/pkt_4",
+         "text": "wyróżnik sieci, zwany dalej „WST”, jest to kombinacja dwóch cyfr „AB” wyróżniająca sieć lub usługę;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_2/ust_1/pkt_5",
+         "text": "numer dostępu dostawcy usług, zwany dalej „NDS”, jest to kombinacja cyfr umożliwiająca wybór dostawcy usług;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_2/ust_1/pkt_6",
+         "text": "numer międzynarodowy, zwany dalej „MNA”, jest to numer identyfikujący kraj [CC — wskaźnik (kod) kraju] i zakończenie sieci w tym kraju — maksymalnie 15 cyfr;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_2/ust_1/pkt_7",
+         "text": "numer krajowy, zwany dalej „KNA”, jest to kombinacja cyfr identyfikująca zakończenie sieci, zawierająca WSN lub WST oraz pozostałe cyfry numeru zakończenia sieci, zwane dalej „SPQMCDU”;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "par_2/ust_1/pkt_8",
+         "text": "numery skrócone są to:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_2/ust_1/pkt_8/lit_a",
+           "text": "numery abonenckich usług specjalnych, zwane dalej numerami „AUS”, przeznaczone dla usług świadczonych w sieci stacjonarnej, polegających na udzielaniu różnych informacji, przyjmowaniu zleceń oraz przyjmowaniu wywołań kierowanych na numery alarmowe,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_2/ust_1/pkt_8/lit_b",
+           "text": "zharmonizowane europejskie numery skrócone (Harmonised European Short Codes), zwane dalej numerami „HESC”, dostępne w państwach Unii Europejskiej, przeznaczone dla usług o szczególnym znaczeniu społecznym świadczonych w sieci łączności elektronicznej polegających na udzielaniu informacji, świadczeniu pomocy lub przyjmowaniu zgłoszeń — z zakresu 11X, gdzie X — jedna, dwie, trzy lub cztery cyfry.",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "Wykorzystanie cyfr „AB” w numeracji krajowej określa tablica 1, a wykaz gmin w strefach numeracyjnych (SN) określa tablica 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Dla MNA ustala się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/pkt_1",
+       "text": "format MNA:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/pkt_1/lit_a",
+         "text": "MNA = CC + KNA,",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "gdzie: CC — wskaźnik (kod) kraju (Country Code); dla Rzeczypospolitej Polskiej CC = 48,"
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/pkt_1/lit_b",
+         "text": "MNA = CC + pozostała część numeru zakończenia sieci;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/pkt_2",
+       "text": "schemat wybierania MNA:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/pkt_2/lit_a",
+         "text": "z sieci stacjonarnej:",
+         "children": [
+          {
+           "type": "text",
+           "text": "~ 00 + MNA,"
+          },
+          {
+           "type": "text",
+           "text": "gdzie: ~ sygnał zgłoszenia,"
+          },
+          {
+           "type": "text",
+           "text": "~ NDS + 00 + MNA,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/pkt_2/lit_b",
+         "text": "z ruchomej publicznej sieci telefonicznej, zwanej dalej „siecią ruchomą”:",
+         "children": [
+          {
+           "type": "text",
+           "text": "00 + MNA,"
+          },
+          {
+           "type": "text",
+           "text": "„+” MNA,",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "NDS + 00 + MNA, w przypadku wydania przez Prezesa Urzędu Komunikacji Elektronicznej decyzji na podstawie art. 72 ust. 3 ustawy z dnia 16 lipca 2004 r. — Prawo telekomunikacyjne."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "Dla KNA ustala się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/pkt_1",
+       "text": "format KNA:",
+       "children": [
+        {
+         "type": "text",
+         "text": "KNA = WSN + pozostałe cyfry numeru zakończenia sieci właściwego dla danej SN,"
+        },
+        {
+         "type": "text",
+         "text": "KNA = WST + pozostałe cyfry numeru zakończenia sieci,"
+        },
+        {
+         "type": "text",
+         "text": "gdzie: WSN = AB i WST = AB, a cyfra A przyjmuje wartości od 1 do 9;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/pkt_2",
+       "text": "schemat wybierania KNA:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_4/pkt_2/lit_a",
+         "text": "z sieci stacjonarnej:",
+         "children": [
+          {
+           "type": "text",
+           "text": "~ KNA,"
+          },
+          {
+           "type": "text",
+           "text": "~ NDS + KNA,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_4/pkt_2/lit_b",
+         "text": "z sieci ruchomej:",
+         "children": [
+          {
+           "type": "text",
+           "text": "KNA,"
+          },
+          {
+           "type": "text",
+           "text": "NDS + KNA, w przypadku wydania przez Prezesa Urzędu Komunikacji Elektronicznej decyzji na podstawie art. 72 ust. 3 ustawy z dnia 16 lipca 2004 r. — Prawo telekomunikacyjne."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "Dla numeracji dostępu do radiowych sieci przywoławczych, zwanych dalej „SP”, ustala się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/pkt_1",
+       "text": "format numeru dostępu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/pkt_1/lit_a",
+         "text": "NDSP = 64 + S + 000 (6 cyfr),",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "gdzie: NDSP — numer dostępu do SP,"
+        },
+        {
+         "type": "text",
+         "text": "S — cyfra wyróżniająca SP,"
+        },
+        {
+         "type": "text",
+         "text": "000 — cyfry określające dostęp do stanowisk operatorskich,"
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/pkt_1/lit_b",
+         "text": "NASP = 64 + SPQMCDU (9 cyfr),",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "gdzie: NASP — numer abonenta SP;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/pkt_2",
+       "text": "schemat wybierania numeru dostępu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/pkt_2/lit_a",
+         "text": "dla sieci stacjonarnej:",
+         "children": [
+          {
+           "type": "text",
+           "text": "~ NDSP,"
+          },
+          {
+           "type": "text",
+           "text": "~ NASP,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/pkt_2/lit_b",
+         "text": "dla sieci ruchomej:",
+         "children": [
+          {
+           "type": "text",
+           "text": "NDSP,"
+          },
+          {
+           "type": "text",
+           "text": "NASP."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "Dla numeracji dostępu dostawcy usług świadczącego usługi przez numer dostępu lub w drodze preselekcji ustala się format NDS:",
+     "children": [
+      {
+       "type": "text",
+       "text": "NDS = AB + KI,"
+      },
+      {
+       "type": "text",
+       "text": "gdzie: AB = 10,"
+      },
+      {
+       "type": "text",
+       "text": "KI — kod identyfikacji dostawcy usług (dwie lub trzy cyfry)."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "Dla numeracji dostępu do sieci teleinformatycznych ustala się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/pkt_1",
+       "text": "format numeru dostępu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "NDSI = WST + MCDU (6 cyfr),"
+        },
+        {
+         "type": "text",
+         "text": "gdzie: WST = 20,"
+        },
+        {
+         "type": "text",
+         "text": "NDSI — numer dostępu do sieci teleinformatycznych,"
+        },
+        {
+         "type": "text",
+         "text": "MCDU — cyfry określające dostawcę usług teleinformatycznych i rodzaj usługi;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/pkt_2",
+       "text": "schemat wybierania numeru dostępu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "~ NDSI."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "Dla numeracji dostępu do usług sieci inteligentnych ustala się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/pkt_1",
+       "text": "format numeru dostępu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "NDIN = WST + SPQMCDU (9 cyfr),"
+        },
+        {
+         "type": "text",
+         "text": "gdzie: NDIN — numer dostępu do sieci inteligentnej,"
+        },
+        {
+         "type": "text",
+         "text": "WST = 70 i 80;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/pkt_2",
+       "text": "schemat wybierania numeru dostępu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_8/pkt_2/lit_a",
+         "text": "dla sieci stacjonarnej: ~ NDIN,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_8/pkt_2/lit_b",
+         "text": "dla sieci ruchomej: NDIN.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "9",
+     "path": "par_9",
+     "text": "Dla numerów skróconych ustala się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/pkt_1",
+       "text": "format numeru AUS:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_9/pkt_1/lit_a",
+         "text": "alarmowy AUS = 9XY (3 cyfry) dla służb ustawowo powołanych do niesienia pomocy, gdzie: 984 — pogotowie rzeczne, 985 — ratownictwo morskie i górskie, 986 — straż miejska, 991 — pogotowie elektrowni, 992 — pogotowie gazowni, 993 — pogotowie ciepłowni, 994 — pogotowie wodociągów, 996 — Centrum Antyterrorystyczne — Agencja Bezpieczeństwa Wewnętrznego, 997 — Policja, 998 — Państwowa Straż Pożarna, 999 — pogotowie ratunkowe — dysponent zespołów ratownictwa medycznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_9/pkt_1/lit_b",
+         "text": "informacyjno-koordynacyjny AUS = 987 dla administracji rządowej w województwie na potrzeby zarządzania kryzysowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_9/pkt_1/lit_c",
+         "text": "strefowy AUS: AUS = 19XYZ (5 cyfr),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_9/pkt_1/lit_d",
+         "text": "międzynarodowy (MAUS) — dla połączeń przychodzących: MAUS = CC + WSN + AUS, gdzie AUS = 19XYZ (5 cyfr);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/pkt_2",
+       "text": "schemat wybierania numeru AUS:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_9/pkt_2/lit_a",
+         "text": "z sieci stacjonarnej:",
+         "children": [
+          {
+           "type": "text",
+           "text": "~ AUS,"
+          },
+          {
+           "type": "text",
+           "text": "~ WSN + AUS, gdzie AUS 9XY, a WSN WSN właściwego dla zakończenia sieci, z którego następuje wywołanie,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_9/pkt_2/lit_b",
+         "text": "z sieci ruchomej:",
+         "children": [
+          {
+           "type": "text",
+           "text": "AUS,"
+          },
+          {
+           "type": "text",
+           "text": "WSN + AUS, gdzie AUS 9XY;"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/pkt_3",
+       "text": "format numeru HESC:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_9/pkt_3/lit_a",
+         "text": "1 12 — wspólny numer alarmowy dla wszystkich służb ustawowo powołanych do niesienia pomocy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_9/pkt_3/lit_b",
+         "text": "118CDU — dla usług informacji o numerach,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_9/pkt_3/lit_c",
+         "text": "1 16CDU — dla usług o szczególnym znaczeniu społecznym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_9/pkt_3/lit_d",
+         "text": "pozostałe numery z zakresu 11X, gdzie X 2, 6, 8, przeznaczone są dla numeracji skróconej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_9/pkt_3/lit_e",
+         "text": "CC + HESC, gdzie HESC 112 dla międzynarodowych połączeń przychodzących;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_9/pkt_4",
+       "text": "schemat wybierania numeru HESC:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_9/pkt_4/lit_a",
+         "text": "z sieci stacjonarnej:",
+         "children": [
+          {
+           "type": "text",
+           "text": "~ 112,"
+          },
+          {
+           "type": "text",
+           "text": "~ 118CDU,"
+          },
+          {
+           "type": "text",
+           "text": "~ 116CDU,"
+          },
+          {
+           "type": "text",
+           "text": "~ 11X,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_9/pkt_4/lit_b",
+         "text": "z sieci ruchomej:",
+         "children": [
+          {
+           "type": "text",
+           "text": "112,"
+          },
+          {
+           "type": "text",
+           "text": "118CDU,"
+          },
+          {
+           "type": "text",
+           "text": "116CDU,"
+          },
+          {
+           "type": "text",
+           "text": "11X."
+          },
+          {
+           "type": "text",
+           "text": "WYKORZYSTANIE CYFR „AB” W NUMERACJI KRAJOWEJ TABLICA 1"
+          },
+          {
+           "type": "text",
+           "text": "LP. AB WYKORZYSTANIE WSN/WST"
+          },
+          {
+           "type": "text",
+           "text": "1 2 3"
+          },
+          {
+           "type": "text",
+           "text": "1 10 SKŁADNIK NDS"
+          },
+          {
+           "type": "text",
+           "text": "2 11 HESC"
+          },
+          {
+           "type": "text",
+           "text": "3 12 KRAKÓW (KR)"
+          },
+          {
+           "type": "text",
+           "text": "4 13 KROSNO (KS)"
+          },
+          {
+           "type": "text",
+           "text": "5 14 TARNÓW (TA)"
+          },
+          {
+           "type": "text",
+           "text": "6 15 TARNOBRZEG (TG)"
+          },
+          {
+           "type": "text",
+           "text": "7 16 PRZEMYŚL (PR)"
+          },
+          {
+           "type": "text",
+           "text": "8 17 RZESZÓW (RZ)"
+          },
+          {
+           "type": "text",
+           "text": "9 18 NOWY SĄCZ (NS)"
+          },
+          {
+           "type": "text",
+           "text": "10 19 AUS 4"
+          },
+          {
+           "type": "text",
+           "text": "— —"
+          },
+          {
+           "type": "text",
+           "text": "— —"
+          },
+          {
+           "type": "text",
+           "text": "WSN —"
+          },
+          {
+           "type": "text",
+           "text": "WSN —"
+          },
+          {
+           "type": "text",
+           "text": "WSN —"
+          },
+          {
+           "type": "text",
+           "text": "WSN —"
+          },
+          {
+           "type": "text",
+           "text": "WSN —"
+          },
+          {
+           "type": "text",
+           "text": "WSN —"
+          },
+          {
+           "type": "text",
+           "text": "WSN —"
+          },
+          {
+           "type": "text",
+           "text": "— — 1 2 3 4"
+          },
+          {
+           "type": "text",
+           "text": "11 20 SIECI TELEINFOR. — WST"
+          },
+          {
+           "type": "text",
+           "text": "12 21 R — —"
+          },
+          {
+           "type": "text",
+           "text": "13 22 WARSZAWA (WA) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "14 23 CIECHANÓW (CI) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "15 24 PŁOCK (PŁ) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "16 25 SIEDLCE (SE) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "17 26 MON — WST"
+          },
+          {
+           "type": "text",
+           "text": "18 27 R — —"
+          },
+          {
+           "type": "text",
+           "text": "19 28 R — —"
+          },
+          {
+           "type": "text",
+           "text": "20 29 OSTROŁĘKA (OS) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "21 30 R — —"
+          },
+          {
+           "type": "text",
+           "text": "22 31 RT — —"
+          },
+          {
+           "type": "text",
+           "text": "23 32 KATOWICE (KA) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "24 33 BIELSKO-BIAŁA (BB) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "25 34 CZĘSTOCHOWA (CZ) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "26 35 RT — —"
+          },
+          {
+           "type": "text",
+           "text": "27 36 RT — —"
+          },
+          {
+           "type": "text",
+           "text": "28 37 RT — —"
+          },
+          {
+           "type": "text",
+           "text": "29 38 RT — —"
+          },
+          {
+           "type": "text",
+           "text": "30 39 USŁUGI WYKORZYSTUJĄCE TECHNOLOGIĘ IP — WST"
+          },
+          {
+           "type": "text",
+           "text": "31 40 R — —"
+          },
+          {
+           "type": "text",
+           "text": "32 41 KIELCE (KI) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "33 42 ŁÓDŹ (ŁD) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "34 43 SIERADZ (SI) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "35 44[^1_2] PIOTRKÓW TRYBUNALSKI (PT) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "36 45 R — —"
+          },
+          {
+           "type": "text",
+           "text": "37 46 SKIERNIEWICE (SK) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "38 47 MSWiA — WST"
+          },
+          {
+           "type": "text",
+           "text": "39 48 RADOM (RA) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "40 49 RT — —"
+          },
+          {
+           "type": "text",
+           "text": "41 50 SIECI RUCHOME — WST"
+          },
+          {
+           "type": "text",
+           "text": "42 51 SIECI RUCHOME — WST"
+          },
+          {
+           "type": "text",
+           "text": "43 52 BYDGOSZCZ (BY) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "44 53 SIECI RUCHOME — WST"
+          },
+          {
+           "type": "text",
+           "text": "45 54 WŁOCŁAWEK (WŁ) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "46 55 ELBLĄG (EL) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "47 56 TORUŃ (TO) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "48 57 R — —"
+          },
+          {
+           "type": "text",
+           "text": "49 58 GDAŃSK (GD) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "50 59 SŁUPSK (SŁ) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "51 60 SIECI RUCHOME — WST"
+          },
+          {
+           "type": "text",
+           "text": "52 61 POZNAŃ (PO) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "53 62 KALISZ (KL) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "54 63 KONIN (KN) WSN — 1 2 3 4"
+          },
+          {
+           "type": "text",
+           "text": "55 64 SIECI PRZYWOŁAWCZE — WST"
+          },
+          {
+           "type": "text",
+           "text": "56 65 LESZNO (LE) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "57 66 SIECI RUCHOME — WST"
+          },
+          {
+           "type": "text",
+           "text": "58 67 PIŁA (PI) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "59 68 ZIELONA GÓRA (ZG) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "60 69 SIECI RUCHOME — WST"
+          },
+          {
+           "type": "text",
+           "text": "61 70 USŁUGI SIECI IN — WST"
+          },
+          {
+           "type": "text",
+           "text": "62 71 WROCŁAW (WR) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "63 72 SIECI RUCHOME — WST"
+          },
+          {
+           "type": "text",
+           "text": "64 73 SIECI RUCHOME — WST"
+          },
+          {
+           "type": "text",
+           "text": "65 74 WAŁBRZYCH (WB) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "66 75 JELENIA GÓRA (JG) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "67 76 LEGNICA (LG) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "68 77 OPOLE (OP) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "69 78 SIECI RUCHOME — WST"
+          },
+          {
+           "type": "text",
+           "text": "70 79 SIECI RUCHOME — WST"
+          },
+          {
+           "type": "text",
+           "text": "71 80 USŁUGI SIECI IN — WST"
+          },
+          {
+           "type": "text",
+           "text": "72 81 LUBLIN (LU) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "73 82 CHEŁM (CH) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "74 83 BIAŁA PODLASKA (BP) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "75 84 ZAMOŚĆ (ZA) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "76 85 BIAŁYSTOK (BK) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "77 86 ŁOMŻA (ŁO) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "78 87 SUWAŁKI (SU) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "79 88 SIECI RUCHOME — WST"
+          },
+          {
+           "type": "text",
+           "text": "80 89 OLSZTYN (OL) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "81 90 R — —"
+          },
+          {
+           "type": "text",
+           "text": "82 91 SZCZECIN (SZ) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "83 92 R — —"
+          },
+          {
+           "type": "text",
+           "text": "84 93 R — —"
+          },
+          {
+           "type": "text",
+           "text": "85 94 KOSZALIN (KO) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "86 95 GORZÓW WIELKOPOLSKI (GO) WSN —"
+          },
+          {
+           "type": "text",
+           "text": "87 96 R — —"
+          },
+          {
+           "type": "text",
+           "text": "88 97 R — —"
+          },
+          {
+           "type": "text",
+           "text": "89 98 AUS alarmowe — —"
+          },
+          {
+           "type": "text",
+           "text": "90 99 AUS alarmowe — —"
+          },
+          {
+           "type": "note",
+           "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "ocr",
+           "text": "WYKAZ GMIN W STREFACH NUMERACYJNYCH (SN) TABLICA 2"
+          },
+          {
+           "type": "ocr",
+           "text": "W Strefa numeracyjna Nazwa gminy (SN) BIAŁA gminy miejskie: PODLASKA Biała Podlaska, Międzyrzec Podlaski, Radzyń Podlaski, Terespol gminy miejsko-wiejskie: Łosice, Parczew gminy wiejskie: Biała Podlaska, Czemierniki, Dębowa Kłoda, Drelów, Hanna, Huszlew, Jabłoń, Janów Podlaski, Kąkolewnica, Kodeń, Komarówka Podlaska, Konstantynów, Leśna Podlaska, Łomazy, Międzyrzec Podlaski, Milanów, Olszanka, Piszczac, Platerów, Podedwórze, Radzyń Podlaski, Rokitno, Rossosz, Sarnaki, Siemień, Sławatycze, Sosnówka, Stara Kornica, Terespol, Tuczna, Ulan-Majorat, Wisznice, Wohyń, Zalesie BIAŁYSTOK gminy miejskie: Białystok, Bielsk Podlaski, Brańsk, Hajnówka, Siemiatycze gminy miejsko-wiejskie: Choroszcz, Czarna Białostocka, Dąbrowa Białostocka, Drohiczyn, Goniądz, Kleszczele, Knyszyn, Krynki, Łapy, Michałowo, Mońki, Sokółka, Suchowola, Supraśl, Suraż, Tykocin, Wasilków, Zabłudów gminy wiejskie: Białowieża, Bielsk Podlaski, Boćki, Brańsk, Czeremcha, Czyże, Dobrzyniewo Duże, Dubicze Cerkiewne, Dziadkowice, Grodzisk, Gródek, Hajnówka, Janów, Jasionówka, Jaświły, Juchnowiec Kościelny, Korycin, Krypno, Kuźnica, Mielnik, Milejczyce, Narew, Narewka, Nowy Dwór, Nurzec-Stacja, Orla, Perlejewo, Poświętne, Rudka, Sidra, Siemiatycze, Szudziałowo, Trzcianne, Turośń Kościelna, Wyszki, Zawady BIELSKO-BIAŁA | gminy miejskie: Bielsko-Biała, Cieszyn, Oświęcim, Sucha Beskidzka, Szczyrk, Ustroń, Wisła, Żywiec gminy miejsko-wiejskie: Andrychów, Chełmek, Kalwaria Zebrzydowska, Kęty, Maków Podhalański, Skoczów, Strumień, Wadowice, Wilamowice, Zator gminy wiejskie: Brenna, Brzeźnica, Buczkowice, Budzów, Chybie, Czernichów, Dębowiec, Gilowice, Goleszów, Hażlach, Istebna, Jasienica, Jaworze, Jeleśnia, Koszarawa, Kozy, Lanckorona, Lipowa, Łękawica, Łodygowice, Milówka, Mucharz, Osiek, Oświęcim, Polanka Wielka, Porąbka, Przeciszów, Radziechowy- Wieprz, Rajcza, Spytkowice, Stryszawa, Stryszów, Ślemień, Świnna, Tomice, Ujsoły, Węgierska Górka, Wieprz, Wilkowice, Zawoja, Zembrzyce BYDGOSZCZ gminy miejskie: Bydgoszcz, Chojnice, Inowrocław gminy miejsko-wiejskie: Barcin, Brusy, Czersk, Gniewkowo, Janikowo, Janowiec Wielkopolski, Kamień Krajeński, Kcynia, Koronowo, Kruszwica, Łabiszyn, Mogilno, Mrocza, Nakło nad Notecią, Nowe, Pakość, Sępólno Krajeńskie, Solec Kujawski, Strzelno, Szubin, Świecie, Tuchola, Więcbork, Żnin gminy wiejskie: Białe Błota, Bukowiec, Cekcyn, Chojnice, Dąbrowa, Dąbrowa Biskupia, Dąbrowa Chełmińska, Dobrcz, Dragacz, Drzycim, Gąsawa, Gostycyn, Inowrocław, Jeziora Wielkie, Jeżewo, Kęsowo, Lniano, Lubiewo, Nowa Wieś Wielka, Osie, Osielsko, Pruszcz, Rogowo, Rojewo, Sadki, Sicienko, Sośno, Śliwice, Świekatowo, Warlubie, Złotniki Kujawskie gminy miejskie: Chełm, Krasnystaw, Rejowiec Fabryczny, Włodawa gminy wiejskie: Białopole, Chełm, Cyców, Dorohusk, Dubienka, Hańsk, Kamień, Krasnystaw, Kraśniczyn, Leśniowice, Łopiennik Górny, Rejowiec, Rejowiec Fabryczny, Ruda-Huta, Sawin, Siedliszcze, Siennica Różana, Sosnowica, Stary Brus, Urszulin, Wierzbica, Włodawa, Wojsławice, Wola Uhruska, Wyryki, Zmudz"
+          },
+          {
+           "type": "note",
+           "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "ocr",
+           "text": "W : | Strefa numeracyjna Nazwa gminy (SN) CIECHANÓW gminy miejskie: Ciechanów, Działdowo, Mława, Płońsk, Raciąż gminy miejsko-wiejskie: Bieżuń, Glinojeck, Lidzbark, Nasielsk, Pułtusk, Żuromin gminy wiejskie: Baboszewo, Ciechanów, Czernice Borowe, Działdowo, Dzierzążnia, Dzierzgowo, Gołymin-Ośrodek, Grudusk, Gzy, Iłowo-Osada, Joniec, Krasne, Kuczbork-Osada, Lipowiec Kościelny, Lubowidz, Lutocin, Naruszewo, Nowe Miasto, Ojrzeń, Opinogóra Górna, Płońsk, Płośnica, Pokrzywnica, Raciąż, Radzanów, Regimin, Rybno, Siemiątkowo, Sochocin, Sońsk, Strzegowo, Stupsk, Szreńsk, Szydłowo, Świercze, Wieczfnia Kościelna, Winnica, Wiśniewo, Załuski CZĘSTOCHOWA _ |gminy miejskie: Częstochowa, Kalety, Lubliniec, Myszków gminy miejsko-wiejskie: Blachownia, Dobrodzień, Gorzów Śląski, Kłobuck, Koniecpol, Koziegłowy, Krzepice, Olesno, Pajęczno, Praszka, Szczekociny, Woźniki, Żarki gminy wiejskie: Boronów, Ciasna, Dąbrowa Zielona, Gidle, Herby, Irządze, Janów, Kamienica Polska, Kłomnice, Kochanowice, Konopiska, Koszęcin, Kroczyce, Kruszyna, Lelów, Lipie, Miedźno, Moskorzew, Mstów, Mykanów, Niegowa, Nowa Brzeźnica, Olsztyn, Opatów, Panki, Pawonków, Poczesna, Popów, Poraj, Przyrów, Przystajń, Radków, Radłów, Rędziny, Rudniki, Secemin, Starcza, Strzelce Wielkie, Włodowice, Wręczyca Wielka, Żytno ELBL ĄG gminy miejskie: Braniewo, Elbląg, Krynica Morska, Kwidzyn, Malbork gminy miejsko-wiejskie: Dzierzgoń, Frombork, Kisielice, Młynary, Nowy Dwór Gdański, Nowy Staw, Orneta, Pasłęk, Pieniężno, Prabuty, Susz, Sztum, Tolkmicko gminy wiejskie: Braniewo, Elbląg, Gardeja, Godkowo, Gronowo Elbląskie, Kwidzyn, Lelkowo, Lichnowy, Malbork, Markusy, Mikołajki Pomorskie, Milejewo, Miłoradz, Ostaszewo, Płoskinia, Rychliki, Ryjewo, Sadlinki, Stare Pole, Stary Dzierzgoń, Stary Targ, Stegna, Sztutowo, Wilczęta GDANSK gminy miejskie: Czarna Woda, Gdańsk, Gdynia, Hel, Jastarnia, Kościerzyna, Pruszcz Gdański, Puck, Reda, Rumia, Skórcz, Sopot, Starogard Gdański, Tczew, Wejherowo, Władysławowo gminy miejsko-wiejskie: Gniew, Kartuzy, Pelplin, Skarszewy, Żukowo gminy wiejskie: Bobowo, Cedry Wielkie, Chmielno, Choczewo, Dziemiany, Gniewino, Kaliska, Karsin, Kolbudy, Kosakowo, Kościerzyna, Krokowa, Linia, Liniewo, Lipusz, Lubichowo, Luzino, Łęczyce, Morzeszczyn, Nowa Karczma, Osieczna, Osiek, Pruszcz Gdański, Przodkowo, Przywidz, Pszczółki, Puck, Sierakowice, Skórcz, Smętowo Graniczne, Somonino, Stara Kiszewa, Starogard Gdański, Stężyca, Subkowy, Suchy Dąb, Sulęczyno, Szemud, Tczew, Trąbki Wielkie, Wejherowo, Zblewo GORZÓW ay o Wielko, Iski, K d Od orzów Wielkopolski, Kostrzyn na rą WIELKOPOLSKI gminy miejsko-wiejskie: Barlinek, Choszczno, Dębno, Dobiegniew, Drawno, Drezdenko, Lubniewice, Międzychód, Międzyrzecz, Myślibórz, Ośno Lubuskie, Pełczyce, Recz, Rzepin, Skwierzyna, Słubice, Strzelce Krajeńskie, Sulęcin, Trzciel, Witnica gminy wiejskie: Bierzwnik, Bledzew, Bogdaniec, Boleszkowice, Deszczno, Górzyca, Kłodawa, Krzeszyce, Krzęcin, Lubiszyn, Nowogródek Pomorski, Przytoczna, Pszczew, Santok, Słońsk, Stare Kurowo, Zwierzyn"
+          },
+          {
+           "type": "note",
+           "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "ocr",
+           "text": "WSN : | Strefa numeracyjna Nazwa gminy AB (SN) 75 |JELENIA GÓRA [zminy miejskie: | Bolesławiec, Jelenia Góra, Kamienna Góra, Karpacz, Kowary, Lubań, Piechowice, Szklarska Poręba, Świeradów-Zdrój, Wojcieszów, Zawidów, Zgorzelec gminy miejsko-wiejskie: Bogatynia, Bolków, Gryfów Śląski, Leśna, Lubawka, Lubomierz, Lwówek Śląski, Mirsk, Nowogrodziec, Olszyna, Pieńsk, Świerzawa, Węgliniec, Wleń gminy wiejskie: Bolesławiec, Gromadka, Janowice Wielkie, Jeżów Sudecki, Kamienna Góra, Lubań, Marciszów, Mysłakowice, Osiecznica, Platerówka, Podgórzyn, Siekierczyn, Stara Kamienica, Sulików, Warta Bolesławiecka, Zgorzelec 6 2 KALISZ gminy miejskie: . . . Kalisz, Ostrów Wielkopolski, Sulmierzyce gminy miejsko-wiejskie: Grabów nad Prosną, Jarocin, Kępno, Koźmin Wielkopolski, Krotoszyn, Międzybórz, Mikstat, Nowe Skalmierzyce, Odolanów, Ostrzeszów, Pleszew, Raszków, Stawiszyn, Syców, Wieruszów, Zduny, Żerków gminy wiejskie: Baranów, Blizanów, Bolesławiec, Bralin, Brzeziny, Ceków-Kolonia, Chocz, Czajków, Czastary, Czermin, Dobrzyca, Doruchów, Dziadowa Kłoda, Galewice, Gizałki, Godziesze Wielkie, Gołuchów, Jaraczewo, Kobyla Góra, Kotlin, Koźminek, Kraszewice, Lisków, Łęka Opatowska, Łubnice, Mycielin, Opatówek, Ostrów Wielkopolski, Perzów, Przygodzice, Rozdrażew, Rychtal, Sieroszewice, Sokolniki, Sośnie, Szczytniki, Trzcinica, Żelazków 32 KATOWICE gminy miejskie: ; | |. Będzin, Bieruń, Bukowno, Bytom, Chorzów, Czeladź, Dąbrowa Górnicza, Gliwice, Imielin, Jastrzębie-Zdrój, Jaworzno, Katowice, Knurów, Lędziny, Łaziska Góre, Miasteczko Śląskie, Mikołów, Mysłowice, Orzesze, Piekary Śląskie, Poręba, Pszów, Pyskowice, Racibórz, Radlin, Radzionków, Ruda Śląska, Rybnik, Rydułtowy, Siemianowice Śląskie, Sławków, Sosnowiec, Świętochłowice, Tarnowskie Góry, Tychy, Wodzisław Śląski, Wojkowice, Zabrze, Zawiercie, Żory gminy miejsko-wiejskie: Brzeszcze, Chrzanów, Czechowice-Dziedzice, Czerwionka-Leszczyny, Krzanowice, Kuźnia Raciborska, Libiąż, Łazy, Ogrodzieniec, Olkusz, Pilica, Pszczyna, Siewierz, Sośnicowice, Toszek, Trzebinia, Wolbrom gminy wiejskie: Babice, Bestwina, Bobrowniki, Bojszowy, Bolesław, Chełm Śląski, Gaszowice, Gierałtowice, Goczałkowice-Zdrój, Godów, Gorzyce, Jejkowice, Klucze, Kobiór, Kornowac, Krupski Młyn, Krzyżanowice, Lubomia, Lyski, Marklowice, Miedźna, Mierzęcice, Mszana, Nędza, Ornontowice, Ożarowice, Pawłowice, Pietrowice Wielkie, Pilchowice, Psary, Rudnik, Rudziniec, Suszec, Świerklaniec, Świerklany, Tworóg, Wielowieś, Wyry, Zbrosławice, Zebrzydowice, Żarnowiec 4 1 KIELCE gminy miejskie: . | . . Kielce, Ostrowiec Swiętokrzyski, Skarżysko-Kamienna, Starachowice gminy miejsko-wiejskie: Bodzentyn, Busko-Zdrój, Chęciny, Chmielnik, Daleszyce, Działoszyce, Jędrzejów, Kazimierza Wielka, Końskie, Kunów, Małogoszcz, Miechów, Pińczów, Sędziszów, Skalbmierz, Stąporków, Suchedniów, Wąchock, Włoszczowa gminy wiejskie: Bałtów, Bejsce, Bieliny, Bliżyn, Bodzechów, Brody, Charsznica, Czarnocin, Gnojno, Górno, Imielno, Kije, Koszyce, Kozłów, Krasocin, Książ Wielki, Łagów, Łączna, Łopuszno, Masłów, Michałów, Miedziana Góra, Mirzec, Mniów, Morawica, Nagłowice, Nowa Słupia, Nowy Korczyn, Oksa, Oleśnica, Opatowiec, Pacanów, Pałecznica, Pawłów, Piekoszów, Pierzchnica, Racławice, Radoszyce, Raków, Ruda Maleniecka, Sitkówka-Nowiny, Skarżysko Kościelne, Słaboszów, Słupia (Jędrzejowska), Słupia (Konecka), Smyków, Sobków, Solec-Zdrój, Stopnica, Strawczyn, Szydłów, Tuczępy, Waśniów, Wiślica, Wodzisław, Zagnańsk, Złota"
+          },
+          {
+           "type": "note",
+           "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "ocr",
+           "text": "WSN : | Strefa numeracyjna Nazwa gminy AB (SN) KONIN gminy miejskie: 63 Koło, Konin, Słupca, Turek gminy miejsko-wiejskie: Dąbie, Dobra, Golina, Kleczew, Kłodawa, Przedecz, Pyzdry, Rychwał, Sompolno, Ślesin, Tuliszków, Uniejów, Zagórów gminy wiejskie: Babiak, Brudzew, Chodów, Grabów, Grodziec, Grzegorzew, Kawęczyn, Kazimierz Biskupi, Koło, Kościelec, Kramsk, Krzymów, Lądek, Malanów, Olszówka, Orchowo, Osiek Mały, Ostrowite, Powidz, Przykona, Rzgów, Skulsk, Słupca, Stare Miasto, Strzałkowo, Świnice Warckie, Turek, Wierzbinek, Wilczyn, Władysławów KOSZALIN gminy miejskie: ; Białogard, Darłowo, Kołobrzeg, Koszalin, Szczecinek, Świdwin gminy miejsko-wiejskie: Barwice, Biały Bór, Bobolice, Borne Sulinowo, Czaplinek, Drawsko Pomorskie, Kalisz Pomorski, Karlino, Polanów, Połczyn-Zdrój, Sianów, Tychowo, Złocieniec gminy wiejskie: Będzino, Białogard, Biesiekierz, Brzeżno, Darłowo, Dygowo, Gościno, Grzmiąca, Kołobrzeg, Malechowo, Manowo, Mielno, Ostrowice, Rąbino, Rymań, Siemyśl, Sławoborze, Szczecinek, Świdwin, Świeszyno, Ustronie Morskie, Wierzchowo 1 2 KRAKÓW gminy miejskie: ; ; Kraków (delegatury: Kraków-Krowodrza, Kraków-Nowa Huta, Kraków-Podgórze, Kraków-Śródmieście) gminy miejsko-wiejskie: Alwernia, Dobczyce, Krzeszowice, Myślenice, Niepołomice, Proszowice, Skała, Skawina, Słomniki, Sułkowice, Świątniki Górne, Wieliczka gminy wiejskie: Biskupice, Czernichów, Drwinia, Gdów, Gołcza, Igołomia- Wawrzeńczyce, Iwanowice, Jerzmanowice-Przeginia, Kłaj, Kocmyrzów-Luborzyca, Koniusza, Liszki, Michałowice, Mogilany, Nowe Brzesko, Pcim, Raciechowice, Radziemice, Siepraw, Sułoszowa, Tokarnia, Trzyciąż, Wielka Wieś, Wiśniowa, Zabierzów, Zielonki 1 3 KROSNO gminy miejskie: Jasło, Krosno, Sanok gminy miejsko-wiejskie: Biecz, Brzozów, Dukla, Iwonicz-Zdrój, Jedlicze, Kołaczyce, Lesko, Rymanów, Ustrzyki Dolne, Zagórz gminy wiejskie: Baligród, Besko, Brzozów, Brzyska, Bukowsko, Chorkówka, Cisna, Czarna, Dębowiec, Domaradz, Dydnia, Haczów, Jasienica Rosielna, Jasło, Jaśliska, Komańcza, Korczyna, Krempna, Krościenko Wyżne, Lipinki, Lutowiska, Miejsce Piastowe, Nowy Żmigród, Nozdrzec, Olszanica, Osiek Jasielski, Sanok, Skołyszyn, Solina, Tarnowiec, Tyrawa Wołoska, Wojaszówka, Zarszyn 76 |LEGNICA gminy miejskie: p | Chojnów, Głogów, Jawor, Legnica, Lubin, Złotoryja gminy miejsko-wiejskie: Chocianów, Polkowice, Prochowice, Przemków, Ścinawa gminy wiejskie: Chojnów, Gaworzyce, Głogów, Grębocice, Jerzmanowa, Kotla, Krotoszyce, Kunice, Legnickie Pole, Lubin, Męcinka, Miłkowice, Mściwojów, Paszowice, Pęcław, Pielgrzymka, Radwanice, Rudna, Ruja, Udanin, Wądroże Wielkie, Zagrodno, Złotoryja, Żukowice 6 5 LESZNO gminy miejskie: Kościan, Leszno gminy miejsko-wiejskie: Bojanowo, Borek Wielkopolski, Gostyń, Góra, Jutrosin, Kobylin, Krobia, Krzywiń, Miejska Górka, Osieczna, Pogorzela, Poniec, Rawicz, Rydzyna, Szlichtyngowa, Śmigiel, Wąsosz, Wschowa gminy wiejskie: Jemielno, Kościan, Krzemieniewo, Lipno, Niechlów, Pakosław, Pępowo, Piaski, Przemęt, Święciechowa, Wijewo, Włoszakowice"
+          },
+          {
+           "type": "note",
+           "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "ocr",
+           "text": "WSN : | Strefa numeracyjna Nazwa gminy AB (SN) 8 1 LUBLIN gminy miejskie: ; , R Dęblin, Kraśnik, Lubartów, Lublin, Puławy, Swidnik gminy miejsko-wiejskie: Bełżyce, Bychawa, Kazimierz Dolny, Kock, Łęczna, Nałęczów, Opole Lubelskie, Ostrów Lubelski, Piaski, Poniatowa, Ryki gminy wiejskie: Abramów, Baranów, Borki, Borzechów, Chodel, Dzierzkowice, Fajsławice, Firlej, Garbów, Głusk, Jabłonna, Janowiec, Jastków, Jeziorzany, Józefów nad Wisłą, Kamionka, Karczmiska, Konopnica, Końskowola, Kraśnik, Krzczonów, Kurów, Lubartów, Ludwin, Łaziska, Markuszów, Mełgiew, Michów, Milejów, Niedrzwica Duża, Niedźwiada, Niemce, Nowodwór, Ostrówek, Puchaczów, Puławy, Rybczewice, Serniki, Spiczyn, Stężyca, Strzyżewice, Trawniki, Ułęż, Urzędów, Uścimów, Wąwolnica, Wilkołaz, Wilków, Wojciechów, Wólka, Zakrzówek, Żyrzyn LOMZ A gminy miejskie: Grajewo, Kolno, Łomża, Wysokie Mazowieckie, Zambrów gminy miejsko-wiejskie: Ciechanowiec, Jedwabne, Nowogród, Rajgród, Stawiski, Szczuczyn, Szepietowo gminy wiejskie: Andrzejewo, Boguty-Pianki, Czyżew, Grabowo, Grajewo, Klukowo, Kobylin-Borzymy, Kolno, Kołaki Kościelne, Kulesze Kościelne, Łomża, Mały Płock, Miastkowo, Nowe Piekuty, Nur, Piątnica, Przytuły, Radziłów, Rutki, Sokoły, Szulborze Wielkie, Szumowo, Śniadowo, Turośl, Wąsosz, Wizna, Wysokie Mazowieckie, Zambrów, Zaręby Kościelne, Zbójna LODZ gminy miejskie: 42 Głowno, Konstantynów Łódzki, Łódź (delegatury: Łódź-Bałuty, Łódź-Górna, Łódź-Polesie, Łódź-Śródmieście, Łódź-Widzew), Ozorków, Pabianice, Zgierz gminy miejsko-wiejskie: Aleksandrów Łódzki, Rzgów, Stryków, Tuszyn gminy wiejskie: Andrespol, Brójce, Głowno, Ksawerów, Nowosolna, Ozorków, Pabianice, Parzęczew, Zgierz 1 8 NOWY S ĄC 7, gminy miejskie: ; . Gorlice, Grybów, Jordanów, Limanowa, Mszana Dolna, Nowy Sącz, Nowy Targ, Zakopane gminy miejsko-wiejskie: Bobowa, Krynica-Zdrój, Muszyna, Piwniczna-Zdrój, Rabka-Zdrój, Stary Sącz, Szczawnica gminy wiejskie: Biały Dunajec, Bukowina Tatrzańska, Bystra-Sidzina, Chełmiec, Czamy Dunajec, Czorsztyn, Dobra, Gorlice, Gródek nad Dunajcem, Grybów, Jabłonka, Jodłownik, Jordanów, Kamienica, Kamionka Wielka, Korzenna, Kościelisko, Krościenko nad Dunajcem, Laskowa, Limanowa, Lipnica Wielka, Lubień, Łabowa, Łapsze Niżne, Łącko, Łososina Dolna, Łukowica, Łużna, Moszczenica, Mszana Dolna, Nawojowa, Niedźwiedź, Nowy Targ, Ochotnica Dolna, Podegrodzie, Poronin, Raba Wyżna, Ropa, Rytro, Sękowa, Słopnice, Spytkowice, Szaflary, Tymbark, Uście Gorlickie OLSZTYN gminy miejskie: Bartoszyce, Górowo Iławeckie, Iława, Kętrzyn, Lidzbark Warmiński, Lubawa, Mrągowo, Olsztyn, Ostróda, Szczytno gminy miejsko-wiejskie: Barczewo, Biskupiec, Bisztynek, Dobre Miasto, Jeziorany, Korsze, Miłakowo, Miłomłyn, Morag, Nidzica, Olsztynek, Pasym, Reszel, Sępopol, Zalewo gminy wiejskie: Barciany, Bartoszyce, Dąbrówno, Dywity, Dźwierzuty, Gietrzwałd, Górowo Iławeckie, Grunwald, Iława, Janowiec Kościelny, Janowo, Jedwabno, Jonkowo, Kętrzyn, Kiwity, Kolno, Kozłowo, Lidzbark Warmiński, Lubawa, Lubomino, Łukta, Małdyty, Mrągowo, Ostróda, Piecki, Purda, Rozogi, Sorkwity, Srokowo, Stawiguda, Szczytno, Świątki, Świętajno, Wielbark"
+          },
+          {
+           "type": "note",
+           "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "ocr",
+           "text": "WSN : | Strefa numeracyjna Nazwa gminy AB (SN)"
+          },
+          {
+           "type": "ocr",
+           "text": "PIOTRKÓW"
+          },
+          {
+           "type": "ocr",
+           "text": "TRYBUNALSKI"
+          },
+          {
+           "type": "ocr",
+           "text": "gminy miejskie: Brzeg, Kędzierzyn-Koźle, Opole gminy miejsko-wiejskie: Baborów, Biała, Byczyna, Głogówek, Głubczyce, Głuchołazy, Gogolin, Grodków, Kietrz, Kluczbork, Kolonowskie, Korfantów, Krapkowice, Leśnica, Lewin Brzeski, Namysłów, Niemodlin, Nysa, Otmuchów, Ozimek, Paczków, Prószków, Prudnik, Strzelce Opolskie, Ujazd, Wołczyn, Zawadzkie, Zdzieszowice gminy wiejskie: Bierawa, Branice, Chrząstowice, Cisek, Dąbrowa, Dobrzeń Wielki, Domaszowice, Izbicko, Jemielnica, Kamiennik, Komprachcice, Lasowice Wielkie, Lubrza, Lubsza, Łambinowice, Łubniany, Murów, Olszanka, Pakosławice, Pawłowiczki, Pokój, Polska Cerekiew, Popielów, Reńska Wieś, Skarbimierz, Skoroszyce, Strzeleczki, Świerczów, Tarnów Opolski, Tułowice, \"Turawa, Walce, Wilków, Zębowice gminy miejskie: Maków Mazowiecki, Ostrołęka, Ostrów Mazowiecka, Przasnysz gminy miejsko-wiejskie: Brok, Chorzele, Myszyniec, Różan, Tłuszcz, Wyszków gminy wiejskie: Baranowo, Brańszczyk, Czarnia, Czerwin, Czerwonka, Dąbrówka, Długosiodło, Goworowo, Jednorożec, Kadzidło, Karniewo, Klembów, Krasnosielc, Krzynowłoga Mała, Lelis, Łyse, Małkinia Górna, Młynarze, Obryte, Olszewo-Borki, Ostrów Mazowiecka, Płoniawy-Bramura, Przasnysz, Rząśnik, Rzekuń, Rzewnie, Somianka, Stary Lubotyń, Sypniewo, Szelków, Troszyn, Wąsewo, Zabrodzie, Zatory gminy miejskie: Chodzież, Czarnków, Piła, Wałcz, Wągrowiec, Złotów gminy miejsko-wiejskie: Człopa, Gołańcz, Jastrowie, Krajenka, Krzyż Wielkopolski, Łobżenica, Margonin, Mirosławiec, Okonek, Rogoźno, Szamocin, Trzcianka, Tuczno, Ujście, Wieleń, Wronki, Wyrzysk, Wysoka gminy wiejskie: Białośliwie, Budzyń, Chodzież, Czarnków, Damasławek, Drawsko, Kaczory, Lipka, Lubasz, Miasteczko Krajeńskie, Połajewo, Ryczywół, Szydłowo, \"Tarnówka, Wałcz, Wapno, Wągrowiec, Zakrzewo, Złotów gminy miejskie: Bełchatów, Piotrków Trybunalski, Radomsko, Tomaszów Mazowiecki gminy miejsko-wiejskie: Kamieńsk, Koluszki, Opoczno, Przedbórz, Sulejów, Zelów gminy wiejskie: Aleksandrów, Bełchatów, Będków, Białaczów, Budziszewice, Czarnocin, Czerniewice, Dłutów, Dobryszyce, Drużbice, Fałków, Gomunice, Gorzkowice, Grabica, Inowłódz, Kleszczów, Kluczewsko, Kluki, Kobiele Wielkie, Kodrąb, Lgota Wielka, Lubochnia, Ładzice, Łęki Szlacheckie, Masłowice, Mniszków, Moszczenica, Paradyż, Poświętne, Radomsko, Ręczno, Rokiciny, Rozprza, Rząśnia, Rzeczyca, Sławno, Sulmierzyce, Szczerców, Tomaszów Mazowiecki, Ujazd, Wielgomłyny, Wola Krzysztoporska, Wolbórz, Żarnów, Żelechlinek gminy miejskie: Gostynin, Kutno, Łęczyca, Płock, Sierpc gminy miejsko-wiejskie: Drobin, Gąbin, Krośniewice, Wyszogród, Żychlin gminy wiejskie: Bedlno, Bielsk, Bodzanów, Brudzeń Duży, Bulkowo, Czerwińsk nad Wisłą, Daszyna, Dąbrowice, Gostynin, Gozdowo, Góra Świętej Małgorzaty, Iłów, Kiernozia, Krzyżanów, Kutno, Łanięta, Łąck, Łęczyca, Mała Wieś, Mochowo, Nowe Ostrowy, Nowy Duninów, Oporów, Pacyna, Piątek, Radzanowo, Rościszewo, Sanniki, Sierpc, Słubice, Słupno, Stara Biała, Staroźreby, Strzelce, Szczawin Kościelny, Szczutowo, Witonia, Zawidz"
+          },
+          {
+           "type": "note",
+           "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "ocr",
+           "text": "AB : | Strefa numeracyjna Nazwa gminy (SN)"
+          },
+          {
+           "type": "ocr",
+           "text": "16 PRZEMYSL"
+          },
+          {
+           "type": "ocr",
+           "text": "iz"
+          },
+          {
+           "type": "ocr",
+           "text": "— 7813 — Poz."
+          },
+          {
+           "type": "ocr",
+           "text": "gminy miejskie: Gniezno, Luboń, Obrzycko, Poznań (delegatury: Poznań-Grunwald, Poznań-Jeżyce, Poznań-Nowe Miasto, Poznań-Stare Miasto, Poznań- Wilda), Puszczykowo gminy miejsko-wiejskie: Buk, Czempiń, Czerniejewo, Dolsk, Grodzisk Wielkopolski, Kłecko, Kostrzyn, Kórnik, Książ Wielkopolski, Lwówek, Miłosław, Mosina, Murowana Goślina, Nekla, Nowy Tomyśl, Oborniki, Opalenica, Ostroróg, Pniewy, Pobiedziska, Rakoniewice, Sieraków, Skoki, Stęszew, Swarzędz, Szamotuły, Śrem, Środa Wielkopolska, Trzemeszno, Wielichowo, Witkowo, Września gminy wiejskie: Brodnica, Chrzypsko Wielkie, Czerwonak, Dominowo, Dopiewo, Duszniki, Gniezno, Granowo, Kamieniec, Kaźmierz, Kiszkowo, Kleszczewo, Kołaczkowo, Komorniki, Krzykosy, Kuślin, Kwilcz, Łubowo, Miedzichowo, Mieleszyn, Mieścisko, Niechanowo, Nowe Miasto nad Wartą, Obrzycko, Rokietnica, Suchy Las, Tarnowo Podgórne, Zaniemyśl gminy miejskie: Dynów, Jarosław, Lubaczów, Przemyśl, Przeworsk, Radymno gminy miejsko-wiejskie: Cieszanów, Kańczuga, Narol, Oleszyce, Sieniawa gminy wiejskie: Adamówka, Bircza, Chłopice, Dubiecko, Dynów, Fredropol, Gać, Horyniec-Zdrój, Jarosław, Jawornik Polski, Krasiczyn, Krzywcza, Laszki, Lubaczów, Medyka, Orły, Pawłosiów, Pruchnik, Przemyśl, Przeworsk, Radymno, Rokietnica, Rozwienica, Stary Dzików, Stubno, Tryńcza, Wiązownica, Wielkie Oczy, Zarzecze, Żurawica gminy miejskie: Pionki, Radom gminy miejsko-wiejskie: Białobrzegi, Drzewica, Grójec, Itza, Kozienice, Lipsko, Mogielnica, Nowe Miasto nad Pilicą, Przysucha, Skaryszew, Szydłowiec, Warka, Wyśmierzyce, Zwoleń gminy wiejskie: Belsk Duży, Błędów, Borkowice, Chlewiska, Chotcza, Chynów, Ciepielów, Garbatka-Letnisko, Gielniów, Głowaczów, Gniewoszów, Goszczyn, Gowarczów, Gózd, Grabów nad Pilicą, Jasieniec, Jastrząb, Jastrzębia, Jedlińsk, Jedlnia-Letnisko, Kazanów, Klwów, Kowala, Magnuszew, Mirów, Odrzywół, Orońsko, Pionki, Pniewy, Policzna, Potworów, Promna, Przyłęk, Przytyk, Radzanów, Rusinów, Rzeczniów, Sieciechów, Sienno, Solec nad Wisłą, Stara Błotnica, Stromiec, Tczów, Wieniawa, Wierzbica, Wolanów, Zakrzew gminy miejskie: Leżajsk, Łańcut, Mielec, Rzeszów gminy miejsko-wiejskie: Błażowa, Boguchwała, Głogów Małopolski, Kolbuszowa, Nowa Sarzyna, Przecław , Ropczyce, Sędziszów Małopolski, Sokołów Małopolski, Strzyżów, Tyczyn gminy wiejskie: Białobrzegi, Borowa, Chmielnik, Cmolas, Czarna, Czermin, Czudec, Dzikowiec, Frysztak, Gawłuszowice, Grodzisko Dolne, Hyżne, Iwierzyce, Kamień, Krasne, Kuryłówka, Leżajsk, Lubenia, Łańcut, Markowa, Mielec, Niebylec, Niwiska, Ostrów, Rakszawa, Raniżów, Świlcza, Trzebownisko, Tuszów N. arodowy, Wielopole Skrzyńskie, Wiśniowa, Żołynia gminy miejskie: Garwolin, Łaskarzew, Łuków, Mińsk Mazowiecki, Siedlce, Sokołów Podlaski, Stoczek Łukowski, Węgrów gminy miejsko-wiejskie: Kałuszyn, Kosów Lacki, Łochów, Mordy, Pilawa, Żelechów gminy wiejskie: Adamów, Bielany, Borowie, Cegłów, Ceranów, Dębe Wielkie, Dobre, Domanice, Garwolin, Górzno, Grębków, Jabłonna Lacka, Jadów, Jakubów, Kłoczew, Kołbiel, Korczew, Korytnica, Kotuń, Krzywda, Latowicz, Liw, Łaskarzew, Łuków, Maciejowice, Miastków Kościelny, Miedzna, Mińsk Mazowiecki, Mokobody, Mrozy, Osieck, Paprotnia, Parysów, Poświętne, Przesmyki, Repki, Sabnie, Sadowne, Serokomla, Siedlce, Siennica, Skórzec, Sobienie-Jeziory, Sobolew, Sokołów Podlaski, Stanin, Stanisławów, Sterdyń, Stoczek, Stoczek Łukowski, Strachówka, Suchożebry, Trojanów, Trzebieszów, Wierzbno, Wilga, Wiśniew, Wodynie, Wojcieszków, Wola Mysłowska, Zbuczyn"
+          },
+          {
+           "type": "note",
+           "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "ocr",
+           "text": "WSN : | Strefa numeracyjna Nazwa gminy AB (SN) 4 3 SIERADZ gminy miejskie: Sieradz, Zduńska Wola gminy miejsko-wiejskie: Błaszki, Działoszyn, Łask, Poddębice, Szadek, Warta, Wieluń, Złoczew gminy wiejskie: Biała, Brąszewice, Brzeźnio, Buczek, Burzenin, Czarnożyły, Dalików, Dobroń, Goszczanów, Kiełczygłów, Klonowa, Konopnica, Lutomiersk, Lututów, Mokrsko, Osjaków, Ostrówek, Pątnów, Peczniew, Rusiec, Sędziejowice, Siemkowice, Sieradz, Skomlin, Wartkowice, Widawa, Wierzchlas, Wodzierady, Wróblew, Zadzim, Zapolice, Zduńska Wola SKIERNIEWICE _ [gminy miejskie: | Brzeziny, Łowicz, Rawa Mazowiecka, Skierniewice, Sochaczew, Żyrardów gminy miejsko-wiejskie: Biała Rawska, Mszczonów gminy wiejskie: Baranów, Bielawy, Bolimów, Brzeziny, Chąśno, Cielądz, Dmosin, Domaniewice, Głuchów, Godzianów, Jaktorów, Jeżów, Kocierzew Południowy, Kowiesy, Lipce Reymontowskie, Łowicz, Łyszkowice, Maków, Młodzieszyn, Nieborów, Nowa Sucha, Nowy Kawęczyn, Puszcza Mariańska, Radziejowice, Rawa Mazowiecka, Regnów, Rogów, Rybno, Sadkowice, Skierniewice, Słupia, Sochaczew, Teresin, Wiskitki, Zduny, Żabia Wola SŁUPSK gminy miejskie: Człuchów, Lębork, Łeba, Sławno, Słupsk, Ustka gminy miejsko-wiejskie: Bytów, Czarne, Debrzno, Kępice, Miastko gminy wiejskie: Borzytuchom, Cewice, Czarna Dąbrówka, Człuchów, Damnica, Dębnica Kaszubska, Główczyce, Kobylnica, Koczała, Kołczygłowy, Konarzyny, Lipnica, Nowa Wieś Lęborska, Parchowo, Postomino, Potęgowo, Przechlewo, Rzeczenica, Sławno, Słupsk, Smołdzino, Studzienice, Trzebielino, Tuchomie, Ustka, Wicko 87 |SUWAŁKI gminy miejskie: | | Augustów, Ełk, Giżycko, Sejny, Suwałki gminy miejsko-wiejskie: Biała Piska, Gołdap, Lipsk, Mikołajki, Olecko, Orzysz, Pisz, Ruciane-Nida, Ryn, Węgorzewo gminy wiejskie: Augustów, Bakałarzewo, Banie Mazurskie, Bargłów Kościelny, Budry, Dubeninki, Ełk, Filipów, Giby, Giżycko, Jeleniewo, Kalinowo, Kowale Oleckie, Krasnopol, Kruklanki, Miłki, Nowinka, Płaska, Pozezdrze, Prostki, Przerośl, Puńsk, Raczki, Rutka-Tartak, Sejny, Stare Juchy, Suwałki, Sztabin, Szypliszki, Świętajno, Wieliczki, Wiżajny, Wydmin SZCZECIN gminy miejskie: . Stargard Szczeciński, Szczecin, Swinoujscie gminy miejsko-wiejskie: Cedynia, Chociwel, Chojna, Dobra, Dobrzany, Dziwnów, Golczewo, Goleniów, Gryfice, Gryfino, Ińsko, Kamień Pomorski, Lipiany, Łobez, Maszewo, Mieszkowice, Międzyzdroje, Moryń, Nowe Warpno, Nowogard, Płoty, Police, Pyrzyce, Resko, Suchań, Trzcińsko-Zdrój, Trzebiatów, Węgorzyno, Wolin gminy wiejskie: Banie, Bielice, Brojce, Dobra (Szczecińska), Dolice, Karnice, Kobylanka, Kołbaskowo, Kozielice, Marianowo, Osina, Przelewice, Przybiernów, Radowo Małe, Rewal, Stara Dąbrowa, Stare Czarnowo, Stargard Szczeciński, Stepnica, Świerzno, Warnice, Widuchowa TARNOBRZEG gminy miejskie: Sandomierz, Stalowa Wola, Tarnobrzeg gminy miejsko-wiejskie: Annopol, Baranów Sandomierski, Ćmielów, Janów Lubelski, Koprzywnica, Nisko, Nowa Dęba, Opatów, Osiek, Ożarów, Połaniec, Rudnik nad Sanem, Staszów, Ulanów, Zawichost gminy wiejskie: Baćkowice, Batorz, Bogoria, Bojanów, Chrzanów, Dwikozy, Dzwola, Godziszów, Gorzyce, Gościeradów, Grębów , Harasiuki, Iwaniska, Jarocin, Jeżowe, Klimontów, Krzeszów, Lipnik, Łoniów, Łubnice, Majdan Królewski, Modliborzyce, Obrazów, Padew Narodowa, Potok Wielki, Pysznica, Radomyśl nad Sanem, Rytwiany, Sadowie, Samborzec, Szastarka, Tarłów, Trzydnik Duży, Wilczyce, Wojciechowice, Zaklików, Zaleszan"
+          },
+          {
+           "type": "note",
+           "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "ocr",
+           "text": "Wok Strefa numeracyjna Nazwa gminy (SN) gminy miejskie: Bochnia, Dębica, Tarnów gminy miejsko-wiejskie: Brzesko, Brzostek, Ciężkowice, Czchów, Dąbrowa Tarnowska, Nowy Wiśnicz, Pilzno, Radłów, Radomyśl Wielki, Ryglice, Szczucin, Tuchów, Wojnicz, Zakliczyn, Żabno gminy wiejskie: Bochnia, Bolesław, Borzęcin, Czama, Dębica, Dębno, Gnojnik, Gręboszów, Gromnik, Iwkowa, Jodłowa, Lipnica Murowana, Lisia Góra, Łapanów, Mędrzechów, Olesno, Pleśna, Radgoszcz, Rzepiennik Strzyżewski, Rzezawa, Skrzyszów, Szczurowa, Szerzyny, Tarnéw, Trzciana, Wadowice Górne, Wierzchosławice, Wietrzychowice, Żegocina, Żyraków TORUN gminy miejskie: 5 6 Brodnica, Chełmno, Chełmża, Golub-Dobrzyń, Grudziądz, Nowe Miasto Lubawskie, Toruń, Wąbrzeźno gminy miejsko-wiejskie: Górzno, Jabłonowo Pomorskie, Kowalewo Pomorskie, Łasin, Radzyń Chełmiński gminy wiejskie: Bartniczka, Biskupiec, Bobrowo, Brodnica, Brzozie, Chełmno, Chełmża, Ciechocin, Dębowa Łąka, Golub-Dobrzyń, Grodziczno, Grudziądz, Gruta, Kijewo Królewskie, Książki, Kurzętnik, Lisewo, Lubicz, Łubianka, Łysomice, Nowe Miasto Lubawskie, Obrowo, Osiek, Papowo Biskupie, Płużnica, Radomin, Rogóźno, Stolno, Świecie nad Osą, Świedziebnia, Unisław, Wąbrzeźno, Wapielsk, Wielka Nieszawka, Zbiczno, Zławieś Wielka 74 [WAŁBRZYCH [gminy miejskie: ENEA Bielawa, Boguszów-Gorce, Duszniki-Zdrój, Dzierżoniów, Jedlina-Zdrój, Kłodzko, Kudowa-Zdrój, Nowa Ruda, Pieszyce, Piława Górna, Polanica-Zdrój, Szczawno-Zdrój, Świdnica, Świebodzice, Wałbrzych gminy miejsko-wiejskie: Bardo, Bystrzyca Kłodzka, Głuszyca, Jaworzyna Śląska, Lądek-Zdrój, Mieroszów, Międzylesie, Niemcza, Radków, Stronie Śląskie, Strzegom, Szczytna, Ząbkowice Śląskie, Ziębice, Złoty Stok, Żarów gminy wiejskie: Ciepłowody, Czarny Bór, Dobromierz, Dzierżoniów, Kamieniec Ząbkowicki, Kłodzko, Lewin Kłodzki, Łagiewniki, Marcinowice, Nowa Ruda, Przeworno, Stare Bogaczowice, Stoszowice, Świdnica, Walim 22 WARSZAWA gminy miejskie: . m sa Józefów, Kobyłka, Legionowo, Marki, Milanówek, Nowy Dwór Mazowiecki, Otwock, Piastów, Podkowa Leśna, Pruszków, Sulejówek, Warszawa (dzielnice: Warszawa-Bemowo, Warszawa-Białołęka, Warszawa-Bielany, Warszawa-Mokotów, Warszawa-Ochota, Warszawa-Praga Południe, Warszawa-Praga Północ, Warszawa-Rembertów, Warszawa-Śródmieście, Warszawa- Targówek, Warszawa-Ursus, Warszawa-Ursynów, Warszawa-Wawer, Warszawa-Wesoła, Warszawa- Wilanów, Warszawa-Włochy, Warszawa-Wola, Warszawa-Zoliborz), Ząbki, Zielonka gminy miejsko-wiejskie: Błonie, Brwinów, Góra Kalwaria, Grodzisk Mazowiecki, Halinów, Karczew, Konstancin-Jeziorna, Łomianki, Ożarów Mazowiecki, Piaseczno, Radzymin, Serock, Tarczyn, Wołomin, Zakroczym gminy wiejskie: Brochów, Celestynów, Czosnów, Izabelin, Jabłonna, Kampinos, Leoncin, Leszno, Lesznowola, Michałowice, Nadarzyn, Nieporęt, Pomiechówek, Prażmów, Raszyn, Stare Babice, Wiązowna, Wieliszew 54 |WŁOCŁAWEK — |eminymiejskie: o. m s Aleksandrów Kujawski, Ciechocinek, Kowal, Lipno, Nieszawa, Radziejów, Rypin, Włocławek gminy miejsko-wiejskie: Brześć Kujawski, Chodecz, Dobre, Dobrzyń nad Wisłą, Izbica Kujawska, Lubień Kujawski, Lubraniec, Piotrków Kujawski, Skępe gminy wiejskie: Aleksandrów Kujawski, Baruchowo, Bądkowo, Bobrowniki, Boniewo, Brzuze, Bytoń, Choceń, Chrostkowo, Czernikowo, Fabianki, Kikół, Koneck, Kowal, Lipno, Lubanie, Osięciny, Raciążek, Radziejów, Rogowo, Rypin, Skrwilno, Tłuchowo, Topólka, Waganiec, Wielgie, Włocławek, Zakrzewo, Zbójno"
+          },
+          {
+           "type": "note",
+           "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "ocr",
+           "text": "Strefa numeracyjna Nazwa gminy (SN)"
+          },
+          {
+           "type": "ocr",
+           "text": "AB 7 1 WROCŁAW gminy miejskie: . Oleśnica, Oława, Wrocław (delegatury: Wrocław-Fabryczna, Wrocław-Krzyki, Wrocław-Psie Pole, Wroctaw-Stare Miasto, Wrocław-Śródmieście) gminy miejsko-wiejskie: Bierutów, Brzeg Dolny, Jelcz-Laskowice, Kąty Wrocławskie, Milicz, Oborniki Śląskie, Prusice, Siechnice, Sobótka, Strzelin, Środa Śląska, Trzebnica, Twardogóra, Wiązów, Wołów, Żmigród gminy wiejskie: Borów, Cieszków, Czernica, Długołęka, Dobroszyce, Domaniów, Jordanów Śląski, Kobierzyce, Kondratowice, Kostomłoty, Krośnice, Malczyce, Mietków, Miękinia, Oleśnica, Oława, Wińsko, Wisznia Mała, Zawonia, Żórawina"
+          },
+          {
+           "type": "ocr",
+           "text": "ZAMOSC gminy miejskie: Biłgoraj, Hrubieszów, Tomaszów Lubelski, Zamość gminy miejsko-wiejskie: Frampol, Józefów, Krasnobród, Łaszczów, Szczebrzeszyn, Tarnogréd, Tyszowce, Zwierzyniec gminy wiejskie: Adamów, Aleksandrów, Bełżec, Biłgoraj, Biszcza, Dołhobyczów, Goraj, Gorzków, Grabowiec, Horodło, Hrubieszów, Izbica, Jarczów, Komarów-Osada, Krynice, Księżpol, Lubycza Królewska, Łabunie, Łukowa, Miączyn, Mircze, Nielisz, Obsza, Potok Górny, Rachanie, Radecznica, Rudnik, Sitno, Skierbieszów, Stary Zamość, Sułów, Susiec, Tarnawatka, Telatyn, Tereszpol, Tomaszów Lubelski, Trzeszczany, Turobin, Uchanie, Ulhówek, Werbkowice, Wysokie, Zakrzew, Zamość, Żółkiewka ZIELONA GORA _ [gminy miejskie: . u Gozdnica, Gubin, Łęknica, Nowa Sól, Zielona Góra, Zagań, Żary gminy miejsko-wiejskie: Babimost, Bytom Odrzański, Cybinka, Czerwieńsk, Iłowa, Jasień, Kargowa, Kożuchów, Krosno Odrzańskie, Lubsko, Małomice, Nowe Miasteczko, Nowogród Bobrzański, Sława, Sulechów, Szprotawa, Świebodzin, Torzym, Wolsztyn, Zbąszynek, Zbąszyń gminy wiejskie: Bobrowice, Bojadła, Brody, Brzeźnica, Bytnica, Dąbie, Gubin, Kolsko, Lipinki Łużyckie, Lubrza, Łagów, Maszewo, Niegosławice, Nowa Sól, Otyń, Przewóz, Siedlec, Siedlisko, Skąpe, Szczaniec, Świdnica, Trzebiechów, Trzebiel, Tuplice, Wymiarki, Zabór, Zielona Góra, Żagań, Żar"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Infrastruktury kieruje działem administracji rządowej — łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. Nr 216, poz. 1594).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716, z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 229, poz. 1499 i Nr 238, poz. 1578 oraz z 2011 r. Nr 102, poz. 586 i 587. * PNK-TF uwzględnia zalecenia Międzynarodowego Związku Telekomunikacyjnego (International Telecommunication Union — ITU), a w szczególności zalecenie E.164. Objaśnienie:",
+  "1_2": "ABS=444 rezerwa techniczna RT. Skrót R oznacza rezerwę. Skrót RT oznacza rezerwę techniczną."
+ }
+}

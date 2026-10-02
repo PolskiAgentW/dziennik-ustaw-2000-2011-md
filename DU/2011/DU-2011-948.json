@@ -1,0 +1,1620 @@
+{
+ "eli": "DU/2011/948",
+ "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 20 lipca 2011 r. w sprawie podstawowych wymagań bezpieczeństwa teleinformatycznego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2011/948/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 lipca 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie podstawowych wymagań bezpieczeństwa teleinformatycznego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 49 ust. 9 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "podstawowe wymagania bezpieczeństwa teleinformatycznego, jakim powinny odpowiadać systemy teleinformatyczne, o których mowa w art. 48 ust. 1 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych, zwanej dalej „ustawą”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "niezbędne dane, jakie powinna zawierać dokumentacja bezpieczeństwa systemów teleinformatycznych oraz sposób jej opracowywania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "dostępności — należy przez to rozumieć właściwość określającą, że zasób systemu teleinformatycznego jest możliwy do wykorzystania na żądanie, w określonym czasie, przez podmiot uprawniony do pracy w systemie teleinformatycznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "elektromagnetycznej emisji ujawniającej — należy przez to rozumieć sygnały elektromagnetyczne związane z przetwarzaniem informacji w systemach teleinformatycznych, powstające w sposób naturalny, ale niezamierzony, które odebrane i poddane analizie mogą prowadzić do odtworzenia fragmentu lub całości przetwarzanej informacji niejawnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "incydencie bezpieczeństwa teleinformatycznego — należy przez to rozumieć takie pojedyncze zdarzenie lub serię zdarzeń, związanych z bezpieczeństwem informacji niejawnych, które zagrażają ich poufności, dostępności lub integralności;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "informatycznym nośniku danych — należy przez to rozumieć materiał służący do zapisywania, przechowywania i odczytywania danych w postaci cyfrowej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "integralności — należy przez to rozumieć właściwość określającą, że zasób systemu teleinformatycznego nie został zmodyfikowany w sposób nieuprawniony;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "oprogramowaniu złośliwym — należy przez to rozumieć oprogramowanie, którego celem jest przeprowadzenie nieuprawnionych lub szkodliwych działań w systemie teleinformatycznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "podatności — należy przez to rozumieć słabość zasobu lub zabezpieczenia systemu teleinformatycznego, która może zostać wykorzystana przez zagrożenie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "połączeniu międzysystemowym — należy przez to rozumieć techniczne lub organizacyjne połączenie dwóch lub więcej systemów teleinformatycznych, umożliwiające ich współpracę, a w szczególności wymianę danych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "poufności — należy przez to rozumieć właściwość określającą, że informacja nie jest ujawniana podmiotom do tego nieuprawnionym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "p rzekazywaniu informacji — należy przez to rozumieć zarówno transmisję informacji, jak i przekazywanie informacji na informatycznych nośnikach danych, na których zostały utrwalone;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "t estach bezpieczeństwa — należy przez to rozumieć testy poprawności i skuteczności funkcjonowania zabezpieczeń w systemie teleinformatycznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "z abezpieczeniu — należy przez to rozumieć środki o charakterze fizycznym, technicznym lub organizacyjnym zmniejszające ryzyko;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "z agrożeniu — należy przez to rozumieć potencjalną przyczynę niepożądanego zdarzenia, które może wywołać szkodę w zasobach systemu teleinformatycznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_2/pkt_14",
+     "text": "z aleceniach — należy przez to rozumieć zalecenia w zakresie bezpieczeństwa teleinformatycznego, o których mowa w art. 52 ust. 3 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_2/pkt_15",
+     "text": "z asobach systemu teleinformatycznego — należy przez to rozumieć informacje przetwarzane w systemie teleinformatycznym, jak również osoby, usługi, oprogramowanie, dane i sprzęt oraz inne elementy mające wpływ na bezpieczeństwo tych informacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Ze względu na posiadane przez użytkowników systemu teleinformatycznego uprawnienia dostępu do informacji niejawnych system teleinformatyczny przeznaczony do przetwarzania informacji niejawnych może funkcjonować w jednym z następujących trybów bezpieczeństwa pracy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "dedykowanym — w którym spełnione są łącznie następujące warunki:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_1/lit_a",
+       "text": "wszyscy użytkownicy posiadają uprawnienie do dostępu do informacji niejawnych o najwyższej klauzuli tajności, jakie mogą być przetwarzane w tym systemie teleinformatycznym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_1/lit_b",
+       "text": "wszyscy użytkownicy mają uzasadnioną potrzebę dostępu do wszystkich informacji niejawnych przetwarzanych w systemie teleinformatycznym;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "systemowym — w którym spełnione są łącznie następujące warunki:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_2/lit_a",
+       "text": "wszyscy użytkownicy posiadają uprawnienie do dostępu do informacji niejawnych o najwyższej klauzuli tajności, jakie mogą być przetwarzane w tym systemie teleinformatycznym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_2/lit_b",
+       "text": "nie wszyscy użytkownicy mają uzasadnioną potrzebę dostępu do wszystkich informacji niejawnych przetwarzanych w systemie teleinformatycznym;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "wielopoziomowym — w którym spełnione są łącznie następujące warunki:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_3/lit_a",
+       "text": "nie wszyscy użytkownicy posiadają uprawnienie do dostępu do informacji niejawnych o najwyższej klauzuli tajności, jakie mogą być przetwarzane w tym systemie teleinformatycznym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_3/lit_b",
+       "text": "nie wszyscy użytkownicy mają uzasadnioną potrzebę dostępu do wszystkich informacji niejawnych przetwarzanych w systemie teleinformatycznym.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Jednostka organizująca system teleinformatyczny przeznaczony do przetwarzania informacji niejawnych międzynarodowych uwzględnia przy jego organizowaniu wymagania bezpieczeństwa teleinformatycznego wynikające z umów międzynarodowych.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Podstawowe wymagania bezpieczeństwa teleinformatycznego"
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Bezpieczeństwo informacji niejawnych przetwarzanych w systemie teleinformatycznym zapewnia się przez wdrożenie spójnego zbioru zabezpieczeń w celu zapewnienia poufności, integralności i dostępności tych informacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Cel, o którym mowa w ust. 1, osiąga się przez:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "objęcie systemu teleinformatycznego procesem zarządzania ryzykiem dla bezpieczeństwa informacji niejawnych przetwarzanych w systemie teleinformatycznym, zwanego dalej „zarządzaniem ryzykiem w systemie teleinformatycznym”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "ograniczenie zaufania, polegające na traktowaniu innych systemów teleinformatycznych jako potencjalnych źródeł zagrożeń oraz wdrożeniu w systemie teleinformatycznym zabezpieczeń kontrolujących wymianę informacji z tymi systemami teleinformatycznymi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "wprowadzenie wielopoziomowej ochrony systemu teleinformatycznego, polegającej na stosowaniu zabezpieczeń na możliwie wielu różnych poziomach organizacji ochrony systemu teleinformatycznego, w celu ograniczenia występowania przypadków, w których przełamanie pojedynczego zabezpieczenia skutkuje naruszeniem celu, o którym mowa w ust. 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_2/pkt_4",
+       "text": "wykonywanie okresowych testów bezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_2/pkt_5",
+       "text": "ograniczanie uprawnień, polegające na nadawaniu użytkownikom systemu teleinformatycznego wyłącznie uprawnień niezbędnych do wykonywania pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_2/pkt_6",
+       "text": "minimalizację funkcjonalności, polegającą na instalowaniu, uaktywnianiu i wykorzystywaniu w systemie teleinformatycznym wyłącznie funkcji, protokołów komunikacyjnych i usług niezbędnych do prawidłowej realizacji zadań, do których system teleinformatyczny został przeznaczony.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "W celu zapewnienia ochrony przed nieuprawnionym dostępem do systemu teleinformatycznego:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "ustala się warunki i sposób przydzielania użytkownikom uprawnień do pracy w systemie teleinformatycznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "chroni się informacje i materiały umożliwiające dostęp do systemu teleinformatycznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "chroni się elementy systemu teleinformatycznego istotne dla jego bezpieczeństwa oraz wdraża się je w sposób zapewniający możliwość wykrycia wprowadzenia nieuprawnionych zmian lub prób ich wprowadzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Przed dopuszczeniem osób do pracy w systemie teleinformatycznym kierownik jednostki organizacyjnej zapewnia ich przeszkolenie z zakresu bezpieczeństwa teleinformatycznego oraz zapoznanie z procedurami bezpiecznej eksploatacji w zakresie, jaki ich dotyczy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "W celu niedopuszczenia do utraty poufności informacji niejawnych na skutek wykorzystania elektromagnetycznej emisji ujawniającej, która pochodzi z elementów systemu, w systemie teleinformatycznym przetwarzającym informacje niejawne o klauzuli „poufne” lub wyższej stosuje się środki ochrony elektromagnetycznej dobierane na podstawie wyników szacowania ryzyka dla bezpieczeństwa informacji niejawnych, z uwzględnieniem zaleceń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "W celu niedopuszczenia do utraty dostępności informacji niejawnych przetwarzanych w urządzeniach teleinformatycznych na skutek zakłócania ich pracy za pomocą emisji lub impulsów elektromagnetycznych o dużej mocy stosuje się środki ochrony elektromagnetycznej dobierane na podstawie wyników szacowania ryzyka dla bezpieczeństwa informacji niejawnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "W celu zapewnienia dostępności zasobów w systemie teleinformatycznym ustala się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_1/pkt_1",
+       "text": "zasady tworzenia i przechowywania kopii zapasowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_1/pkt_2",
+       "text": "procedury postępowania w sytuacjach kryzysowych, w tym w przypadkach awarii elementów systemu teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_1/pkt_3",
+       "text": "procedury monitorowania stanu technicznego systemu teleinformatycznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "W zależności od potrzeb oraz wyników szacowania ryzyka dla bezpieczeństwa informacji niejawnych, w celu zapewnienia dostępności zasobów systemu teleinformatycznego stosuje się w szczególności alternatywne łącza telekomunikacyjne, alternatywne urządzenia lub zasilanie awaryjne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "W zależności od potrzeb oraz wyników szacowania ryzyka dla bezpieczeństwa informacji niejawnych, transmisję danych pomiędzy elementami systemu teleinformatycznego chroni się przed wykryciem, przechwyceniem lub zakłócaniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Poufność informacji niejawnych przekazywanych w formie transmisji poza strefami ochronnymi zapewnia się przez stosowanie urządzeń lub narzędzi kryptograficznych, certyfikowanych zgodnie z art. 50 ust. 2 ustawy lub dopuszczonych w trybie art. 50 ust. 7 ustawy, odpowiednich do klauzuli tajności przekazywanych informacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "W szczególnie uzasadnionych przypadkach, biorąc pod uwagę wyniki szacowania ryzyka dla bezpieczeństwa informacji niejawnych, środki ochrony kryptograficznej, o których mowa w ust. 2, mogą zostać uzupełnione lub zastąpione zabezpieczeniami innymi niż kryptograficzne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "W zakresie niezbędnym do zapewnienia przeglądu, analizy oraz dostarczania dowodów działań naruszających bezpieczeństwo informacji niejawnych, dla systemu teleinformatycznego przetwarzającego informacje niejawne tworzy się i przechowuje rejestry zdarzeń oraz zapewnia się ich poufność, integralność i dostępność.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "System teleinformatyczny wyposaża się w mechanizmy lub procedury zapobiegające incydentom bezpieczeństwa teleinformatycznego, w tym zabezpieczające przed działaniem oprogramowania złośliwego, a także umożliwiające jak najszybsze wykrywanie incydentów bezpieczeństwa teleinformatycznego oraz zapewniające niezwłoczne informowanie odpowiednich osób o wykrytym incydencie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Administrator systemu teleinformatycznego bierze udział w tworzeniu dokumentacji bezpieczeństwa systemu teleinformatycznego oraz w procesie zarządzania ryzykiem w systemie teleinformatycznym:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_13/pkt_1",
+     "text": "realizując szkolenia użytkowników systemu teleinformatycznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_13/pkt_2",
+     "text": "utrzymując zgodność systemu teleinformatycznego z jego dokumentacją bezpieczeństwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_13/pkt_3",
+     "text": "wdrażając zabezpieczenia w systemie teleinformatycznym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Inspektor bezpieczeństwa teleinformatycznego bierze udział w procesie zarządzania ryzykiem w systemie teleinformatycznym, weryfikując:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_14/pkt_1",
+     "text": "poprawność realizacji zadań przez administratora, w tym właściwe zarządzanie konfiguracją oraz uprawnieniami przydzielanymi użytkownikom;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_14/pkt_2",
+     "text": "znajomość i przestrzeganie przez użytkowników zasad ochrony informacji niejawnych oraz procedur bezpiecznej eksploatacji w systemie teleinformatycznym, w tym w zakresie wykorzystywania urządzeń i narzędzi służących do ochrony informacji niejawnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_14/pkt_3",
+     "text": "stan zabezpieczeń systemu teleinformatycznego, w tym analizując rejestry zdarzeń systemu teleinformatycznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "W przypadku organizacji połączenia międzysystemowego uwzględnia się wymaganie ograniczonego zaufania, o którym mowa w § 5 ust. 2 pkt 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Organizując połączenie międzysystemowe, wdraża się zabezpieczenia uniemożliwiające przekazywanie niepożądanych informacji pomiędzy łączonymi systemami teleinformatycznymi, w szczególności uniemożliwiające przekazywanie informacji o wyższej klauzuli tajności do systemu teleinformatycznego przetwarzającego informacje o klauzuli niższej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Urządzenie, narzędzie lub środek przeznaczony do ochrony informacji niejawnych, dla którego został wydany przez Agencję Bezpieczeństwa Wewnętrznego, zwaną dalej „ABW”, lub Służbę Kontrwywiadu Wojskowego, zwaną dalej „SKW”, certyfikat, o którym mowa w art. 50 ust. 4 ustawy, podlega ochronie do momentu jego zniszczenia lub wycofania, zgodnie z zaleceniami ABW lub SKW.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Informatyczne nośniki danych przeznaczone do przetwarzania informacji niejawnych obejmuje się ochroną od momentu oznaczenia nośnika klauzulą tajności aż do trwałego usunięcia danych na nim zapisanych oraz zniesienia klauzuli tajności albo do momentu jego zniszczenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Informacje niejawne przekazywane poza strefę ochronną na informatycznych nośnikach danych chroni się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_17/ust_2/pkt_1",
+       "text": "z wykorzystaniem urządzeń lub narzędzi kryptograficznych, certyfikowanych zgodnie z art. 50 ust. 2 ustawy lub dopuszczonych w trybie art. 50 ust. 7 ustawy, odpowiednich do klauzuli tajności przekazywanych informacji, lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_17/ust_2/pkt_2",
+       "text": "przez spełnienie wymagań, o których mowa w przepisach w sprawie trybu i sposobu przyjmowania, przewożenia, wydawania i ochrony materiałów, w celu ich zabezpieczenia przed nieuprawnionym ujawnieniem, utratą, uszkodzeniem lub zniszczeniem.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Sposób i metody trwałego usuwania danych oraz niszczenia informatycznych nośników danych określa się z uwzględnieniem zaleceń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_17/ust_4",
+     "text": "Klauzula tajności informatycznych nośników danych umożliwiających wielokrotny zapis, na których zapisano informacje niejawne oznaczone klauzulą „tajne” lub „ściśle tajne”, nie podlega zniesieniu lub obniżeniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Bezpieczeństwo informacji niejawnych przetwarzanych w systemie teleinformatycznym uwzględnia się w całym cyklu funkcjonowania systemu teleinformatycznego, składającym się z etapów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_1/pkt_1",
+       "text": "planowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_1/pkt_2",
+       "text": "projektowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_1/pkt_3",
+       "text": "wdrażania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_18/ust_1/pkt_4",
+       "text": "eksploatacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_18/ust_1/pkt_5",
+       "text": "wycofywania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Na etapie planowania ustala się potrzeby w zakresie przetwarzania informacji niejawnych w systemie teleinformatycznym, w szczególności określa się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_2/pkt_1",
+       "text": "przeznaczenie systemu teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_2/pkt_2",
+       "text": "maksymalną klauzulę tajności informacji niejawnych, które będą przetwarzane w systemie teleinformatycznym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_2/pkt_3",
+       "text": "tryb bezpieczeństwa pracy systemu teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_18/ust_2/pkt_4",
+       "text": "szacunkową liczbę użytkowników;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_18/ust_2/pkt_5",
+       "text": "planowaną lokalizację.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_18/ust_3",
+     "text": "Na etapie projektowania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_3/pkt_1",
+       "text": "przeprowadza się wstępne szacowanie ryzyka dla bezpieczeństwa informacji niejawnych w celu określenia wymagań dla zabezpieczeń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_3/pkt_2",
+       "text": "dokonuje się wyboru zabezpieczeń dla systemu teleinformatycznego w oparciu o wyniki wstępnego szacowania ryzyka dla bezpieczeństwa informacji niejawnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_3/pkt_3",
+       "text": "uzgadnia się z podmiotem akredytującym plan akredytacji obejmujący zakres i harmonogram przedsięwzięć wymaganych do uzyskania akredytacji bezpieczeństwa teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_18/ust_3/pkt_4",
+       "text": "uzgadnia się z podmiotem zaopatrującym w klucze kryptograficzne rodzaj oraz ilość niezbędnych urządzeń lub narzędzi kryptograficznych, a także sposób ich wykorzystania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_18/ust_3/pkt_5",
+       "text": "opracowuje się dokument szczególnych wymagań bezpieczeństwa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_18/ust_4",
+     "text": "Na etapie wdrażania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_4/pkt_1",
+       "text": "pozyskuje i wdraża się urządzenia lub narzędzia realizujące zabezpieczenia w systemie teleinformatycznym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_4/pkt_2",
+       "text": "przeprowadza się testy bezpieczeństwa systemu teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_4/pkt_3",
+       "text": "przeprowadza się szacowanie ryzyka dla bezpieczeństwa informacji niejawnych z uwzględnieniem wprowadzonych zabezpieczeń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_18/ust_4/pkt_4",
+       "text": "opracowuje się dokument procedur bezpiecznej eksploatacji oraz uzupełnia dokument szczególnych wymagań bezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_18/ust_4/pkt_5",
+       "text": "system teleinformatyczny poddaje się akredytacji bezpieczeństwa teleinformatycznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_18/ust_5",
+     "text": "Na etapie eksploatacji:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_5/pkt_1",
+       "text": "utrzymuje się zgodność systemu teleinformatycznego z jego dokumentacją bezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_5/pkt_2",
+       "text": "zapewnia się ciągłość procesu zarządzania ryzykiem w systemie teleinformatycznym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_5/pkt_3",
+       "text": "okresowo przeprowadza się testy bezpieczeństwa w celu weryfikacji poprawności działania poszczególnych zabezpieczeń oraz usuwa stwierdzone nieprawidłowości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_18/ust_5/pkt_4",
+       "text": "w zależności od potrzeb wprowadza się zmiany do systemu teleinformatycznego oraz, jeżeli jest to właściwe, wykonuje testy bezpieczeństwa, a także uaktualnia dokumentację bezpieczeństwa systemu teleinformatycznego, przy czym modyfikacje mogące mieć wpływ na bezpieczeństwo systemu teleinformatycznego wymagają zgody podmiotu, który udzielił akredytacji bezpieczeństwa teleinformatycznego, zaś w przypadku systemów teleinformatycznych, o których mowa w art. 48 ust. 9 i 10 ustawy — przekazania, odpowiednio do ABW albo SKW, w terminie 30 dni od wprowadzenia wyżej wymienionych modyfikacji, uaktualnionej dokumentacji bezpieczeństwa systemu teleinformatycznego, w szczególności w formie aneksów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_18/ust_6",
+     "text": "Na etapie wycofywania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_6/pkt_1",
+       "text": "zaprzestaje się eksploatacji systemu teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_6/pkt_2",
+       "text": "powiadamia się pisemnie ABW albo SKW o wycofaniu systemu z eksploatacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_6/pkt_3",
+       "text": "zwraca się do ABW albo SKW świadectwo akredytacji bezpieczeństwa systemu teleinformatycznego, jeżeli system teleinformatyczny przeznaczony był do przetwarzania informacji niejawnych o klauzuli „poufne” lub wyższej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_18/ust_6/pkt_4",
+       "text": "usuwa się informacje niejawne z systemu teleinformatycznego, w szczególności przez przeniesienie ich do innego systemu teleinformatycznego, zarchiwizowanie lub zniszczenie informatycznych nośników danych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Zarządzanie ryzykiem w systemie teleinformatycznym"
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Proces zarządzania ryzykiem w systemie teleinformatycznym prowadzi się w celu zapewnienia i utrzymania na poziomie akceptowanym przez kierownika danej jednostki organizacyjnej bezpieczeństwa informacji niejawnych przetwarzanych w tym systemie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Zarządzanie ryzykiem w systemie teleinformatycznym prowadzi się, realizując procesy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_2/pkt_1",
+       "text": "szacowania ryzyka dla bezpieczeństwa informacji niejawnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_2/pkt_2",
+       "text": "postępowania z ryzykiem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_19/ust_2/pkt_3",
+       "text": "akceptacji ryzyka;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_19/ust_2/pkt_4",
+       "text": "przeglądu, monitorowania i informowania o ryzyku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Przed przeprowadzeniem procesu szacowania ryzyka:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_3/pkt_1",
+       "text": "ustala się granice i zakres analizy ryzyka;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_3/pkt_2",
+       "text": "ustanawia się strukturę organizacyjną odpowiedzialną za zarządzanie ryzykiem w systemie teleinformatycznym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_19/ust_3/pkt_3",
+       "text": "dokonuje się wyboru metody analizy ryzyka.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_19/ust_4",
+     "text": "Kierownik jednostki organizującej system teleinformatyczny odpowiada za zapewnienie ciągłości procesu zarządzania ryzykiem w systemie teleinformatycznym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_19/ust_5",
+     "text": "W sytuacji gdy system teleinformatyczny jest użytkowany przez kilka niezależnych jednostek organizacyjnych, każdy kierownik jednostki organizacyjnej użytkującej system teleinformatyczny współdziała z osobą, o której mowa w ust. 4, w celu zapewnienia ciągłości procesu zarządzania ryzykiem w systemie teleinformatycznym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Szacowanie ryzyka dla bezpieczeństwa informacji niejawnych obejmuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_20/ust_1/pkt_1",
+       "text": "analizę ryzyka, na którą składają się:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_20/ust_1/pkt_1/lit_a",
+         "text": "identyfikacja ryzyka,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_20/ust_1/pkt_1/lit_b",
+         "text": "określenie wielkości ryzyk;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_20/ust_1/pkt_2",
+       "text": "ocenę ryzyka.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "W ramach identyfikacji ryzyka określa się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_20/ust_2/pkt_1",
+       "text": "zasoby systemu teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_20/ust_2/pkt_2",
+       "text": "zagrożenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_20/ust_2/pkt_3",
+       "text": "podatności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_20/ust_2/pkt_4",
+       "text": "zabezpieczenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_20/ust_2/pkt_5",
+       "text": "skutki wystąpienia incydentu bezpieczeństwa teleinformatycznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_20/ust_3",
+     "text": "W procesie określania wielkości ryzyk wyznacza się poziomy zidentyfikowanych ryzyk.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_20/ust_4",
+     "text": "W procesie oceny ryzyka porównuje się wyznaczone poziomy ryzyk z tymi, które można zaakceptować. Na podstawie oceny podejmuje się decyzję co do dalszego postępowania z ryzykami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_20/ust_5",
+     "text": "Wstępne szacowanie ryzyka dla bezpieczeństwa informacji niejawnych przeprowadza się przed podjęciem decyzji o wprowadzeniu niezbędnych zabezpieczeń w systemie teleinformatycznym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_20/ust_6",
+     "text": "Wyniki wstępnego szacowania ryzyka, o którym mowa w ust. 5:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_20/ust_6/pkt_1",
+       "text": "przedstawia się w dokumentacji bezpieczeństwa systemu teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_20/ust_6/pkt_2",
+       "text": "wykorzystuje się w procesie projektowania zabezpieczeń dla danego systemu teleinformatycznego przeciwdziałających zidentyfikowanym zagrożeniom;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_20/ust_6/pkt_3",
+       "text": "zachowuje się na potrzeby przyszłych uaktualnień.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_20/ust_7",
+     "text": "Szacowanie ryzyka dla bezpieczeństwa informacji niejawnych przeprowadza się ponownie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_20/ust_7/pkt_1",
+       "text": "w przypadku wprowadzania w systemie teleinformatycznym zmian, które mogą mieć wpływ na bezpieczeństwo przetwarzanych w nim informacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_20/ust_7/pkt_2",
+       "text": "po wykryciu nowych zagrożeń lub zidentyfikowaniu nowych podatności, które nie były rozpatrywane podczas wcześniejszego szacowania ryzyka dla bezpieczeństwa informacji niejawnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_20/ust_7/pkt_3",
+       "text": "w przypadku zaistnienia istotnego incydentu bezpieczeństwa teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_20/ust_7/pkt_4",
+       "text": "jeżeli zmianie lub rozszerzeniu uległo przeznaczenie, zadania lub funkcjonalność systemu teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_20/ust_7/pkt_5",
+       "text": "okresowo, w ramach procesu zarządzania ryzykiem w systemie teleinformatycznym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_20/ust_8",
+     "text": "Częstotliwość okresowego przeprowadzania szacowania ryzyka, o którym mowa w ust. 7 pkt 5, określa się w dokumentacji bezpieczeństwa systemu teleinformatycznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "W ramach postępowania z ryzykiem możliwe jest:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_21/ust_1/pkt_1",
+       "text": "obniżanie ryzyka przez wdrażanie zabezpieczeń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_21/ust_1/pkt_2",
+       "text": "pozostawienie ryzyka na poziomie określonym w procesie szacowania ryzyka i zaniechanie dalszych działań;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_21/ust_1/pkt_3",
+       "text": "unikanie ryzyka przez niepodejmowanie działań będących źródłem ryzyka;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_21/ust_1/pkt_4",
+       "text": "przeniesienie ryzyka na inny podmiot w zakresie odpowiedzialności za zarządzanie ryzykiem bez możliwości przeniesienia odpowiedzialności za skutki wynikające z naruszenia poufności, integralności lub dostępności informacji niejawnych przetwarzanych w systemie teleinformatycznym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Doboru zabezpieczeń, o których mowa w ust. 1 pkt 1, dokonuje się z uwzględnieniem zaleceń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_21/ust_3",
+     "text": "Dla ryzyk, które nie mogą być zaakceptowane ze względu na ich zbyt wysoki poziom, proces postępowania z ryzykiem przeprowadza się ponownie, analizując inne warianty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_21/ust_4",
+     "text": "Ryzyka pozostające po procesie postępowania z ryzykiem (ryzyka szczątkowe) podlegają procesowi akceptacji ryzyka.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Kierownik jednostki organizacyjnej w procesie akceptacji ryzyka dokonuje formalnego zaakceptowania ryzyka szczątkowego wraz z jego ewentualnymi konsekwencjami.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Proces przeglądu, monitorowania i informowania o ryzyku przeprowadza się przez:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_23/pkt_1",
+     "text": "regularny przegląd i udoskonalanie procesu zarządzania ryzykiem w systemie teleinformatycznym w celu zapewnienia jego prawidłowości i skuteczności stosownie do zmieniających się okoliczności;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_23/pkt_2",
+     "text": "monitorowanie czynników ryzyka w celu wykrycia zmian we wczesnym ich stadium i możliwie szybkim na nie reagowaniu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_23/pkt_3",
+     "text": "niezwłoczne przekazywanie informacji o pojawiających się ryzykach osobom odpowiedzialnym za zarządzanie ryzykiem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "W procesie zarządzania ryzykiem w systemie teleinformatycznym uwzględnia się zalecenia.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Dokumentacja bezpieczeństwa teleinformatycznego"
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "Dokument szczególnych wymagań bezpieczeństwa systemu teleinformatycznego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_25/ust_1/pkt_1",
+       "text": "opracowuje się na etapie projektowania systemu teleinformatycznego, po przeprowadzeniu wstępnego szacowania ryzyka dla bezpieczeństwa informacji niejawnych, które mają być przetwarzane w systemie teleinformatycznym, w sposób uwzględniający specyfikę budowy, charakterystykę systemu teleinformatycznego, a także warunki charakterystyczne dla jednostki organizacyjnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_25/ust_1/pkt_2",
+       "text": "bieżąco uzupełnia się na etapie wdrażania systemu teleinformatycznego, po przeprowadzeniu szacowania ryzyka dla bezpieczeństwa informacji niejawnych z uwzględnieniem wprowadzonych zabezpieczeń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_25/ust_1/pkt_3",
+       "text": "uaktualnia się na etapie eksploatacji systemu teleinformatycznego, przed dokonaniem zmian w systemie teleinformatycznym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Dokument szczególnych wymagań bezpieczeństwa zawiera następujące dane:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_25/ust_2/pkt_1",
+       "text": "rodzaje oraz klauzule tajności informacji niejawnych, które będą przetwarzane w systemie teleinformatycznym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_25/ust_2/pkt_2",
+       "text": "grupy użytkowników systemu teleinformatycznego wyodrębnione ze względu na posiadane uprawnienia do pracy w systemie teleinformatycznym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_25/ust_2/pkt_3",
+       "text": "tryb bezpieczeństwa pracy systemu teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_25/ust_2/pkt_4",
+       "text": "przeznaczenie i funkcjonalność systemu teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_25/ust_2/pkt_5",
+       "text": "wymagania eksploatacyjne dla wymiany informacji i połączeń z innymi systemami teleinformatycznymi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_25/ust_2/pkt_6",
+       "text": "lokalizację systemu teleinformatycznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_25/ust_3",
+     "text": "W dokumencie szczególnych wymagań bezpieczeństwa zawiera się ponadto informacje o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_25/ust_3/pkt_1",
+       "text": "metodyce użytej w procesie szacowania ryzyka dla bezpieczeństwa informacji niejawnych oraz raport z tego procesu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_25/ust_3/pkt_2",
+       "text": "zastosowanych zabezpieczeniach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_25/ust_3/pkt_3",
+       "text": "ryzykach szczątkowych oraz deklaracji ich akceptacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_25/ust_3/pkt_4",
+       "text": "poświadczeniach bezpieczeństwa lub innych formalnych uprawnieniach do dostępu do informacji niejawnych, posiadanych przez użytkowników systemu teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_25/ust_3/pkt_5",
+       "text": "bezpieczeństwie fizycznym, w tym granicach i lokalizacji stref ochronnych oraz środkach ich ochrony;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_25/ust_3/pkt_6",
+       "text": "ochronie elektromagnetycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_25/ust_3/pkt_7",
+       "text": "stosowanych urządzeniach lub narzędziach kryptograficznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_25/ust_3/pkt_8",
+       "text": "ciągłości działania, w tym tworzeniu kopii zapasowych, odzyskiwaniu systemu oraz, jeżeli to właściwe, zapewnieniu alternatywnych łączy telekomunikacyjnych lub urządzeń, a także zasilaniu awaryjnym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_25/ust_3/pkt_9",
+       "text": "ustawieniach konfiguracyjnych systemu teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_25/ust_3/pkt_10",
+       "text": "utrzymaniu systemu, w tym dokonywaniu przeglądów diagnostycznych i napraw;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_25/ust_3/pkt_11",
+       "text": "zapobieganiu incydentom bezpieczeństwa teleinformatycznego, w tym ochronie przed oprogramowaniem złośliwym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_25/ust_3/pkt_12",
+       "text": "z asadach wprowadzania poprawek lub uaktualnień oprogramowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_25/ust_3/pkt_13",
+       "text": "ochronie nośników, w tym ich oznaczaniu, dostępie, transporcie, obniżaniu ich klauzul tajności i niszczeniu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_25/ust_3/pkt_14",
+       "text": "identyfikacji i uwierzytelnieniu użytkowników i urządzeń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_25/ust_3/pkt_15",
+       "text": "kontroli dostępu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_25/ust_3/pkt_16",
+       "text": "audycie wewnętrznym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_25/ust_3/pkt_17",
+       "text": "zarządzaniu ryzykiem w systemie teleinformatycznym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "par_25/ust_3/pkt_18",
+       "text": "zmianach w systemie teleinformatycznym, w tym dotyczących aktualizacji dokumentacji bezpieczeństwa systemu teleinformatycznego oraz warunkach ponownej akredytacji systemu teleinformatycznego i wycofania z eksploatacji.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_26/ust_1",
+     "text": "Dokument procedur bezpiecznej eksploatacji:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_26/ust_1/pkt_1",
+       "text": "opracowuje się na etapie wdrażania systemu teleinformatycznego, po przeprowadzeniu szacowania ryzyka dla bezpieczeństwa informacji niejawnych z uwzględnieniem wprowadzonych zabezpieczeń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_26/ust_1/pkt_2",
+       "text": "uaktualnia się na etapie eksploatacji systemu teleinformatycznego, przed dokonaniem zmian w systemie teleinformatycznym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "W dokumencie procedur bezpiecznej eksploatacji określa się szczegółowy wykaz procedur bezpieczeństwa wraz z dokładnym opisem sposobu ich wykonania, realizowanych przez osoby odpowiedzialne za bezpieczeństwo teleinformatyczne oraz osoby uprawnione do pracy w systemie teleinformatycznym, obejmujący:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_26/ust_2/pkt_1",
+       "text": "administrowanie systemem teleinformatycznym oraz zastosowanymi środkami zabezpieczającymi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_26/ust_2/pkt_2",
+       "text": "bezpieczeństwo urządzeń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_26/ust_2/pkt_3",
+       "text": "bezpieczeństwo oprogramowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_26/ust_2/pkt_4",
+       "text": "zarządzanie konfiguracją sprzętowo-programową, w tym zasady serwisowania lub modernizacji oraz wycofywania z użycia elementów systemu teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_26/ust_2/pkt_5",
+       "text": "plany awaryjne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_26/ust_2/pkt_6",
+       "text": "monitorowanie i audyt systemu teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_26/ust_2/pkt_7",
+       "text": "zarządzanie nośnikami;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_26/ust_2/pkt_8",
+       "text": "zarządzanie materiałami kryptograficznymi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_26/ust_2/pkt_9",
+       "text": "s tosowanie ochrony elektromagnetycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_26/ust_2/pkt_10",
+       "text": "reagowanie na incydenty bezpieczeństwa teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_26/ust_2/pkt_11",
+       "text": "szkolenia użytkowników systemu teleinformatycznego dotyczące zasad korzystania z systemu teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_26/ust_2/pkt_12",
+       "text": "wprowadzanie danych do systemu i ich wyprowadzanie z systemu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "W przypadku systemu teleinformatycznego funkcjonującego w więcej niż jednej jednostce organizacyjnej, po uzgodnieniu z jednostką organizującą system, dokumentacja bezpieczeństwa systemu teleinformatycznego może być uzupełniona o aneksy zawierające dane dotyczące konkretnych lokalizacji, sporządzane przez kierowników jednostek organizacyjnych, w których znajdują się elementy systemu teleinformatycznego.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Przepis końcowy"
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.[^1]",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 25 sierpnia 2005 r. w sprawie podstawowych wymagań bezpieczeństwa teleinformatycznego (Dz. U. Nr 171, poz. 1433), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 189 ust. 1 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228)."
+ }
+}

@@ -1,0 +1,418 @@
+{
+ "eli": "DU/2011/545",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 kwietnia 2011 r. w sprawie szczegółowych warunków organizacyjnych i technicznych, które powinien spełniać system teleinformatyczny służący do identyfikacji użytkowników",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2011/545/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 kwietnia 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczegółowych warunków organizacyjnych i technicznych, które powinien spełniać system teleinformatyczny służący do identyfikacji użytkowników"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20a ust. 3 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa szczegółowe warunki organizacyjne i techniczne, które powinien spełniać system teleinformatyczny służący do wydania certyfikatów oraz stosowania technologii, o których mowa w art. 20a ust. 1 i 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, zwanej dalej „ustawą”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "usługi certyfikacyjne — usługi certyfikacyjne w rozumieniu art. 3 pkt 13 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, poz. 1450, z późn. zm.[^3]);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "system certyfikujący — system teleinformatyczny służący do świadczenia usług certyfikacyjnych wykorzystywanych przez podmioty publiczne do identyfikacji użytkowników;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "kwalifikowany certyfikat — kwalifikowany certyfikat w rozumieniu art. 3 pkt 12 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "system zarządzania tożsamością — system teleinformatyczny, nieświadczący usług certyfikacyjnych, przetwarzający informacje o tożsamości użytkowników i wykorzystywany przez podmioty publiczne do identyfikacji użytkowników;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "system autoryzujący — system teleinformatyczny używany przez podmiot publiczny, który wykorzystuje usługi systemu certyfikującego lub systemu zarządzania tożsamością do przeprowadzenia procesu identyfikacji użytkownika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "rozliczalność — właściwość systemu pozwalającą przypisać określone działanie w systemie do osoby fizycznej lub procesu oraz umiejscowić je w czasie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Wydanie kwalifikowanego certyfikatu mającego zastosowanie do identyfikacji użytkownika systemów teleinformatycznych udostępnianych przez podmioty realizujące zadania publiczne następuje przy zachowaniu zasad określonych w przepisach wydanych na podstawie ustawy z dnia 18 września 2001 r. o podpisie elektronicznym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "System certyfikujący posiada następujące właściwości:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "ś wiadczy usługi niezwłocznego unieważnienia certyfikatu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "p recyzyjnie określa czas wystawienia i unieważnienia certyfikatu, zgodnie z urzędowym czasem określonym w przepisach wydanych na podstawie art. 4 ust. 2 ustawy z dnia 10 grudnia 2003 r. o czasie urzędowym na obszarze Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 16, poz. 144);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "p otwierdza tożsamość osoby, dla której jest wydawany certyfikat;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_1/pkt_4",
+       "text": "s pełnia wymagania w zakresie bezpieczeństwa teleinformatycznego, dobierane na podstawie analizy ryzyka;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_1/pkt_5",
+       "text": "n ie gromadzi ani nie kopiuje danych służących do składania podpisu elektronicznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Administrowanie systemem certyfikującym wymaga realizowania następujących czynności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "s ystematycznego przeglądu skuteczności zastosowanych środków w zakresie bezpieczeństwa teleinformatycznego, w celu wprowadzania ich usprawnień;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "u trzymywania w stanie aktualnym dokumentacji operacyjnej i technicznej systemu, zapewniającej jego bezpieczną eksploatację;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_2/pkt_3",
+       "text": "z apewniania organizacyjnego, technicznego i kryptograficznego bezpieczeństwa działania systemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_2/pkt_4",
+       "text": "p rzeciwdziałania fałszowaniu certyfikatów, w tym zapewniania poufności podczas procesu tworzenia danych do składania podpisu elektronicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_2/pkt_5",
+       "text": "p rzechowywania informacji dotyczących wydanych certyfikatów prz ez okres 20 lat, licząc od dnia 1 stycznia roku następnego po ich wytworzeniu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_4/ust_2/pkt_6",
+       "text": "i nformowania osób ubiegających się o certyfikat o warunkach stosowania certyfikatu, w szczególności o ograniczeniach użycia certyfikatu i postępowaniu w przypadku skarg i rozstrzygania sporów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Wymagania określone w ust. 1 i 2 uważa się za spełnione, gdy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_3/pkt_1",
+       "text": "została wdrożona polityka certyfikacji spełniająca wymagania wskazane w standardzie ETSI TS 102 042 w wersji 1.2.4 lub nowszym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_3/pkt_2",
+       "text": "zapewnione zostały warunki organizacyjne i techniczne zgodne z wymaganiami standardu CWA 14167-1 lub nowszego w zakresie świadczenia usług innych niż wydawanie certyfikatów kwalifikowanych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_3/pkt_3",
+       "text": "zastosowane zostały systemy i produkty zgodne z wymaganiami standardu CWA 14167-2, 3 i 4 lub nowszego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Politykę certyfikacji oraz deklarację o spełnieniu wymagań określonych w ust. 3 udostępnia się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_4/pkt_1",
+       "text": "w Biuletynie Informacji Publicznej — zgodnie z ustawą z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.[^4]) albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_4/pkt_2",
+       "text": "na stronie internetowej podmiotu — w przypadku gdy przepisów ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej nie stosuje się.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "System zarządzania tożsamością posiada następujące właściwości:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "rejestruje użytkowników;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "potwierdza tożsamość użytkowników;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "przechowuje i udostępnia dane identyfikacyjne użytkowników systemom autoryzującym uprawnionym do ich otrzymania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "umożliwia zablokowanie konta użytkownika na jego żądanie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_1/pkt_5",
+       "text": "zapewnia rozliczalność;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_1/pkt_6",
+       "text": "zapewnia integralność, autentyczność i poufność danych identyfikacyjnych i uwierzytelniających użytkownika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_5/ust_1/pkt_7",
+       "text": "zapewnia codzienną synchronizację czasu systemowego z czasem UTC(PL).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Administrowanie systemem zarządzania tożsamością wymaga realizowania następujących czynności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "z apewniania wiarygodności procesu rejestracji użytkowników i potwierdzania ich tożsamości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "p rzechowywania informacji dotyczących tożsamości użytkownika przez okres 20 lat, licząc od dnia 1 stycznia roku następnego od chwili wykonania w systemie ostatniej operacji z użyciem tożsamości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "utrzymywania w stanie aktualnym dokumentacji operacyjnej i technicznej systemu, zapewniającej jego bezpieczną eksploatację;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_2/pkt_4",
+       "text": "opracowania i wdrożenia polityki zarządzania bezpieczeństwem informacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Wymagania określone w ust. 2 uważa się za spełnione, jeśli dla systemu zarządzania tożsamością została opracowana i wdrożona polityka zarządzania bezpieczeństwem informacji, w której określono wymagania bezpieczeństwa zgodne z Polską Normą PN ISO/IEC 27001:2007 lub nowszą, zweryfikowaną pozytywnie przez jednostkę certyfikującą akredytowaną, zgodnie z ustawą z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2010 r. Nr 138, poz. 935).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "System autoryzujący, identyfikując użytkownika z wykorzystaniem systemu certyfikującego, dokonuje weryfikacji podpisu elektronicznego i przechowuje dane potwierdzające tę weryfikację.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "System autoryzujący, identyfikując użytkownika z wykorzystaniem systemu zarządzania tożsamością, dokonuje weryfikacji danych otrzymanych z tego systemu i przechowuje dane potwierdzające tę weryfikację.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Dane potwierdzające weryfikację, o których mowa w ust. 1 i 2, powinny w sposób jednoznaczny umożliwiać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_3/pkt_1",
+       "text": "identyfikację tożsamości osoby, która dokonała czynności w postaci elektronicznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_3/pkt_2",
+       "text": "stwierdzenie ważności uprawnień w momencie dokonania czynności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_3/pkt_3",
+       "text": "ustalenie czasu dokonania czynności.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych i Administracji: J. Miller"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej — informatyzacja, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. Nr 216, poz. 1604).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 12, poz. 65 i Nr 73, poz. 501, z 2008 r. Nr 127, poz. 817, z 2009 r. Nr 157, poz. 1241 oraz z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131 i Nr 182, poz. 1228.",
+  "3": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 64, poz. 565, z 2006 r. Nr 145, poz. 1050, z 2009 r. Nr 18, poz. 97 oraz z 2010 r. Nr 40, poz. 230 i Nr 182, poz. 1228.",
+  "4": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407, z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110 oraz z 2010 r. Nr 182, poz. 1228."
+ }
+}

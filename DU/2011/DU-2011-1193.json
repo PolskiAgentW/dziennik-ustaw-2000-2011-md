@@ -1,0 +1,695 @@
+{
+ "eli": "DU/2011/1193",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 września 2011 r. w sprawie trybu dostępu i wzoru upoważnienia do dostępu do Krajowego Systemu Informatycznego (KSI) oraz wykorzystywania danych",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2011/1193/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 września 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie trybu dostępu i wzoru upoważnienia do dostępu do Krajowego Systemu Informatycznego (KSI) oraz wykorzystywania danych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 4 ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym (Dz. U. Nr 165, poz. 1170, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "tryb dostępu do Krajowego Systemu Informatycznego (KSI);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "sposób przydzielania osobom upoważnionym do dostępu osobistych i niepowtarzalnych identyfikatorów użytkownika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "wzór upoważnienia do dostępu do Krajowego Systemu Informatycznego (KSI) oraz wykorzystywania danych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "certyfikacie — należy przez to rozumieć elektroniczne zaświadczenie będące elementem Infrastruktury Klucza Publicznego (PKI), wydane zgodnie z obowiązującą Polityką Certyfikacji, zapewniające poufność przesyłanych danych oraz bezpieczeństwo procesu uwierzytelniania użytkownika instytucjonalnego i użytkownika indywidualnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "organie lub służbie — należy przez to rozumieć organ lub służbę uprawnione do bezpośredniego dostępu do Krajowego Systemu Informatycznego (KSI), na podstawie ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "użytkowniku indywidualnym — należy przez to rozumieć osobę fizyczną upoważnioną w ramach organu lub służby do wykorzystywania danych poprzez Krajowy System Informatyczny (KSI), która w celu dostępu do:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_3/lit_a",
+       "text": "danych SIS korzysta bezpośrednio z GUI SISone4ALL,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_3/lit_b",
+       "text": "danych SIS korzysta bezpośrednio z aplikacji WWW SIS,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_3/lit_c",
+       "text": "danych VIS korzysta bezpośrednio z aplikacji WWW VIS;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "użytkowniku instytucjonalnym — należy przez to rozumieć organ lub służbę uprawnione do współpracy z Krajowym Systemem Informatycznym (KSI) za pośrednictwem własnego systemu teleinformatycznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "użytkowniku końcowym — należy przez to rozumieć osobę fizyczną upoważnioną do wykorzystywania danych poprzez Krajowy System Informatyczny (KSI) za pośrednictwem systemu teleinformatycznego użytkownika instytucjonalnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W celu otrzymania dostępu do Krajowego Systemu Informatycznego (KSI) jako użytkownik instytucjonalny, organ lub służba:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "występuje pisemnie do centralnego organu technicznego KSI o wydanie certyfikatu uwierzytelniającego jego system teleinformatyczny oraz o przekazanie opisu interfejsu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "zestawia bezpieczne połączenie z wykorzystaniem certyfikatów — przy współpracy z centralnym organem technicznym KSI;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "przygotowuje własny system teleinformatyczny do współpracy z Krajowym Systemem Informatycznym (KSI) w oparciu o opis interfejsu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "występuje pisemnie do centralnego organu technicznego KSI o potwierdzenie poprawnej konfiguracji połączenia systemów teleinformatycznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Po spełnieniu wymagań, o których mowa w ust. 1, centralny organ techniczny KSI nadaje organowi lub służbie uprawnienie do dostępu do Krajowego Systemu Informatycznego (KSI).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "W celu otrzymania dostępu przez organ lub służbę do Krajowego Systemu Informatycznego (KSI) dla użytkownika indywidualnego, przepisy § 3 ust. 1 pkt 1, 2 i 4 stosuje się odpowiednio.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Organ lub służba wyznacza użytkowników indywidualnych do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "korzystania z oprogramowania udostępnionego przez centralny organ techniczny KSI;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "dostępu do Krajowego Systemu Informatycznego (KSI) oraz wykorzystywania danych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Organ lub służba występuje do centralnego organu technicznego KSI o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "nadanie, zmianę lub cofnięcie uprawnień do dostępu do Krajowego Systemu Informatycznego (KSI) dla użytkownika indywidualnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "wydanie osobistego i niepowtarzalnego identyfikatora dla użytkownika indywidualnego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "W celu nadania lub zmiany uprawnień dla użytkownika indywidualnego organ lub służba przesyła w trzech egzemplarzach odpowiednio wypełnione pisemne upoważnienie dla użytkownika indywidualnego do dostępu do Krajowego Systemu Informatycznego (KSI) oraz wykorzystywania danych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Upoważnienie, o którym mowa w ust. 1, wystawia się na czas oznaczony albo na czas nieoznaczony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Wzór upoważnienia, o którym mowa w ust. 1, określa załącznik do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Centralny organ techniczny KSI dokonuje weryfikacji upoważnienia, o którym mowa w § 6 ust. 1, a następnie zatwierdza je lub odmawia jego zatwierdzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "W przypadku zatwierdzenia upoważnienia, o którym mowa w § 6 ust. 1, centralny organ techniczny KSI nadaje lub zmienia uprawnienia do dostępu do Krajowego Systemu Informatycznego (KSI).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Po zatwierdzeniu przez centralny organ techniczny KSI upoważnienia, o którym mowa w § 6 ust. 1, egzemplarz nr 1 włącza się do akt osobowych użytkownika indywidualnego, egzemplarz nr 2 przekazuje się użytkownikowi indywidualnemu, egzemplarz nr 3 przechowuje centralny organ techniczny KSI.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "W przypadku odmowy zatwierdzenia upoważnienia, o którym mowa w § 6 ust. 1, centralny organ techniczny KSI zwraca je wnioskodawcy wraz z uzasadnieniem określającym przyczynę odmowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "Organ lub służba, której centralny organ techniczny KSI odmówił zatwierdzenia upoważnienia, o którym mowa w § 6 ust. 1, mogą wystąpić o ponowne nadanie uprawnień po ustaniu przyczyn opisanych w uzasadnieniu, o którym mowa w ust. 4.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "W celu cofnięcia uprawnień do dostępu do Krajowego Systemu Informatycznego (KSI) dla użytkownika indywidualnego organ lub służba występuje do centralnego organu technicznego KSI z pisemnym wnioskiem, który zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_1/pkt_1",
+       "text": "numer PESEL użytkownika indywidualnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_1/pkt_2",
+       "text": "imię i nazwisko użytkownika indywidualnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_1/pkt_3",
+       "text": "nazwę organu lub służby uprawnionej do bezpośredniego dostępu do Krajowego Systemu Informatycznego (KSI).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Centralny organ techniczny KSI informuje pisemnie organ lub służbę o cofnięciu uprawnień do dostępu do Krajowego Systemu Informatycznego (KSI) dla użytkownika indywidualnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Użytkownik instytucjonalny wyznacza — w zakresie posiadanych przez siebie uprawnień — użytkowników końcowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Użytkownik instytucjonalny wystawia w dwóch egzemplarzach każdemu użytkownikowi końcowemu pisemne upoważnienie do dostępu do Krajowego Systemu Informatycznego (KSI) oraz wykorzystywania danych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Egzemplarz nr 1 pisemnego upoważnienia, o którym mowa w ust. 2, włącza się do akt osobowych użytkownika końcowego, egzemplarz nr 2 przekazuje się użytkownikowi końcowemu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Upoważnienie, o którym mowa w ust. 2, zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_4/pkt_1",
+       "text": "i mię i nazwisko użytkownika końcowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_4/pkt_2",
+       "text": "n umer PESEL użytkownika końcowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_4/pkt_3",
+       "text": "z akres uprawnień przyznawanych użytkownikowi końcowemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_9/ust_4/pkt_4",
+       "text": "o kres, na który przyznaje się uprawnienia użytkownikowi końcowemu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_9/ust_5",
+     "text": "Upoważnienie, o którym mowa w ust. 2, może zawierać inne dane niż wymienione w ust. 4 wyłącznie wtedy, jeżeli są one niezbędne do nadania uprawnień użytkownikowi końcowemu do systemu teleinformatycznego użytkownika instytucjonalnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Centralny organ techniczny KSI prowadzi ewidencję użytkowników indywidualnych, która zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "i mię i nazwisko użytkownika indywidualnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_1/pkt_2",
+       "text": "n umer PESEL użytkownika indywidualnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_1/pkt_3",
+       "text": "z akres uprawnień przyznawanych użytkownikowi indywidualnemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_10/ust_1/pkt_4",
+       "text": "o kres, na który przyznaje się uprawnienia użytkownikowi indywidualnemu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Użytkownik instytucjonalny prowadzi ewidencję użytkowników końcowych, która zawiera dane, o których mowa w § 9 ust. 4 i 5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Ewidencje, o których mowa w ust. 1 i 2, mogą być prowadzone oddzielnie dla:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_3/pkt_1",
+       "text": "u żytkowników upoważnionych do dostępu do Krajowego Systemu Informatycznego (KSI) oraz wykorzystywania danych SIS;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_3/pkt_2",
+       "text": "u żytkowników upoważnionych do dostępu do Krajowego Systemu Informatycznego (KSI) oraz wykorzystywania danych VIS.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Upoważnienia do dostępu do Krajowego Systemu Informatycznego (KSI) oraz wykorzystywania danych wydane na mocy dotychczasowych przepisów zachowują ważność.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z tym że:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_12/pkt_1",
+     "text": "§ 2 pkt 3 lit. b wchodzi w życie z dniem określonym w decyzji Rady, zgodnie z art. 55 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1987/2006 z dnia 20 grudnia 2006 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen drugiej generacji (SIS II) (Dz. Urz. UE L 381 z 28.12.2006, str. 4);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_12/pkt_2",
+     "text": "§ 2 pkt 3 lit. c i § 6 ust. 1, w zakresie uprawnień w celu wykorzystywania danych VIS, stosuje się z chwilą spełnienia warunków, o których mowa w art. 48 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 767/2008 z dnia 9 lipca 2008 r. w sprawie Wizowego Systemu Informacyjnego (VIS) oraz wymiany danych pomiędzy państwami członkowskimi na temat wiz krótkoterminowych (rozporządzenie w sprawie VIS) (Dz. Urz. UE L 218 z 13.08.2008, str. 60, z późn. zm.).[^3]",
+     "children": [
+      {
+       "type": "text",
+       "text": "Minister Spraw Wewnętrznych i Administracji: J. Miller"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 września 2011 r. (poz. 1193)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "ZATWIERDZAM"
+    },
+    {
+     "type": "text",
+     "text": "Egz. nr …………."
+    },
+    {
+     "type": "text",
+     "text": "(centralny organ techniczny KSI)"
+    },
+    {
+     "type": "text",
+     "text": "(organ lub s u ba) CENTRALNY ORGAN TECHNICZNY KRAJOWEGO SYSTEMU INFORMATYCZNEGO"
+    },
+    {
+     "type": "text",
+     "text": "UPOWA NIENIE"
+    },
+    {
+     "type": "text",
+     "text": "DLA U YTKOWNIKA INDYWIDUALNEGO DO DOST PU DO KRAJOWEGO SYSTEMU INFORMATYCZNEGO (KSI) ORAZ WYKORZYSTYWANIA DANYCH"
+    },
+    {
+     "type": "text",
+     "text": "NAZWISKO IMI NUMER PESEL"
+    },
+    {
+     "type": "text",
+     "text": "NA CZAS OZNACZONY DO OKRES, NA KTÓRY PRZYZNAJE SI UPRAWNIENIA rrrr-mm-dd NA CZAS NIEOZNACZONY"
+    },
+    {
+     "type": "text",
+     "text": "UPRAWNIENIA W CELU WYKORZYSTYWANIA DANYCH SIS"
+    },
+    {
+     "type": "text",
+     "text": "ART. WPIS ART. WGL D DO Lp. ZAKRES UPRAWNIE * ** * ** USTAWY DANYCH USTAWY DANYCH"
+    },
+    {
+     "type": "text",
+     "text": "osób poszukiwanych do tymczasowego aresztowania w celu:"
+    },
+    {
+     "type": "text",
+     "text": "1 a wydania ich przez pa stwo obce na podstawie wniosku o wydanie 3 ust. 1 pkt 1"
+    },
+    {
+     "type": "text",
+     "text": "b wydania ich na wniosek Pa stwa Cz onkowskiego lub pa stwa obcego 4 ust. 1 pkt 1"
+    },
+    {
+     "type": "text",
+     "text": "2 osób poszukiwanych do tymczasowego aresztowania w celu przekazania osoby ciganej 3 ust. 1 pkt 2 4 ust. 1 pkt 2 na podstawie europejskiego nakazu aresztowania"
+    },
+    {
+     "type": "text",
+     "text": "wiadków wezwanych do stawienia si przed s dem lub prokuratorem w zwi zku z post powaniem karnym lub post powaniem karnym skarbowym lub podejrzanych wezwanych do stawienia si przed prokuratorem w zwi zku z post powaniem karnym lub post powaniem karnym skarbowym, którzy s poszukiwani, lub oskar onych wezwanych do stawienia si przed 3 s dem w zwi zku z post powaniem karnym lub post powaniem karnym skarbowym w celu 3 ust. 1 pkt 3 4 ust. 1 pkt 3 poniesienia odpowiedzialno ci za czyny, za które s poszukiwani, lub skazanych, wobec których powinien zosta wykonany wyrok w sprawie karnej lub w sprawie o przest pstwo skarbowe, lub skazanych wezwanych do stawienia si w celu odbycia kary pozbawienia wolno ci — dla ustalenia miejsca ich pobytu"
+    },
+    {
+     "type": "text",
+     "text": "cudzoziemców:"
+    },
+    {
+     "type": "text",
+     "text": "a o których mowa w art. 134a ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach 3 ust. 1 pkt 4 4 (Dz. U. z 2006 r. Nr 234, poz. 1694, z pó n. zm.)"
+    },
+    {
+     "type": "text",
+     "text": "b których dane zosta y wpisane do Systemu Informacyjnego Schengen dla celów odmowy 4 ust. 1 pkt 4 wjazdu"
+    },
+    {
+     "type": "text",
+     "text": "osób zaginionych albo osób zaginionych, które dla ich ochrony lub w celu zapobiegania 5 stwarzanym przez nie zagro eniom powinny zosta oddane do w a ciwej placówki opieku czej 3 ust. 1 pkt 5 4 ust. 1 pkt 5 lub leczniczej"
+    },
+    {
+     "type": "text",
+     "text": "osób lub pojazdów silnikowych o pojemno ci silnika przekraczaj cej 50 cm³, statków wodnych, statków powietrznych i kontenerów, w celu: a przeprowadzania niejawnego nadzorowania, którego celem jest ciganie przest pstw oraz 3 ust. 1 pkt 6 zapobieganie zagro eniom bezpiecze stwa publicznego lit. a 6 b przeprowadzania kontroli, której celem jest ciganie przest pstw oraz zapobieganie 3 ust. 1 pkt 6 4 ust. 1 pkt 6 zagro eniom bezpiecze stwa publicznego lit. b c przeprowadzania niejawnego nadzorowania, którego celem jest zapobieganie powa nym 3 ust. 1 pkt 6 zagro eniom wewn trznego i zewn trznego bezpiecze stwa pa stwa lit. c d przeprowadzania kontroli, której celem jest zapobieganie powa nym zagro eniom 3 ust. 1 pkt 6 wewn trznego i zewn trznego bezpiecze stwa pa stwa lit. d"
+    },
+    {
+     "type": "text",
+     "text": "4 ust. 1 pkt 7"
+    },
+    {
+     "type": "text",
+     "text": "7 przedmiotów podlegaj cych zatrzymaniu lub zatrzymaniu w celu wykorzystania jako dowód 3 ust. 1 pkt 7 4 ust. 1 pkt 8 w post powaniu karnym lub post powaniu karnym skarbowym"
+    },
+    {
+     "type": "text",
+     "text": "4 ust. 1 pkt 9 UPRAWNIENIA W CELU WYKORZYSTYWANIA DANYCH VIS"
+    },
+    {
+     "type": "text",
+     "text": "WPIS DANYCH"
+    },
+    {
+     "type": "text",
+     "text": "Lp. ART. WPIS ZAKRES UPRAWNIE USTAWY * DANYCH **"
+    },
+    {
+     "type": "text",
+     "text": "1 w celu dokonywania wpisów danych VIS 5 ust. 1"
+    },
+    {
+     "type": "text",
+     "text": "WGL D DO DANYCH"
+    },
+    {
+     "type": "text",
+     "text": "Lp. ART. WGL D DO ZAKRES UPRAWNIE USTAWY * DANYCH **"
+    },
+    {
+     "type": "text",
+     "text": "1 w celu rozpatrzenia z o onych wniosków wizowych oraz podj cia decyzji dotycz cych tych wniosków, jak równie decyzji 6 pkt 1 o uniewa nieniu, przed u eniu, cofni ciu wizy"
+    },
+    {
+     "type": "text",
+     "text": "w celu przeprowadzania konsultacji mi dzy centralnymi organami wizowymi w sprawie wniosków wizowych zgodnie z art. 22 2 rozporz dzenia Parlamentu Europejskiego i Rady (WE) nr 810/2009 z dnia 13 lipca 2009 r. ustanawiaj cego Wspólnotowy Kodeks 6 pkt 2 Wizowy (kodeks wizowy) (Dz. Urz. UE L 243 z 15.09.2009, str. 1)"
+    },
+    {
+     "type": "text",
+     "text": "3 w celu sporz dzania sprawozda i statystyk 6 pkt 3"
+    },
+    {
+     "type": "text",
+     "text": "w celu sprawdzania na przej ciach granicznych to samo ci posiadacza wizy, autentyczno ci wizy lub spe niania warunków 4 wjazdu na terytorium Pa stw Cz onkowskich zgodnie z art. 5 rozporz dzenia (WE) nr 562/2006 Parlamentu Europejskiego i Rady 6 pkt 4 z dnia 15 marca 2006 r. ustanawiaj cego wspólnotowy kodeks zasad reguluj cych przep yw osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L105 z 13.04.2006, str. 1)"
+    },
+    {
+     "type": "text",
+     "text": "5 w celu sprawdzania na terytorium Rzeczypospolitej Polskiej to samo ci posiadacza wizy, autentyczno ci wizy lub spe niania 6 pkt 5 warunków wjazdu lub pobytu na terytorium Pa stw Cz onkowskich"
+    },
+    {
+     "type": "text",
+     "text": "6 w celu zidentyfikowania osoby, która nie spe nia lub przesta a spe nia warunki wjazdu lub pobytu na terytorium Pa stw 6 pkt 6 Cz onkowskich"
+    },
+    {
+     "type": "text",
+     "text": "w celu okre lania Pa stwa Cz onkowskiego odpowiedzialnego za rozpatrzenie wniosku o nadanie statusu uchod cy zgodnie z art. 9 i 21 rozporz dzenia Rady (WE) nr 343/2003 z dnia 18 lutego 2003 r. ustanawiaj cego kryteria i mechanizmy okre lania 7 Pa stwa Cz onkowskiego, które jest odpowiedzialne za rozpatrzenie wniosku o azyl z o onego w jednym z Pa stw Cz onkowskich 6 pkt 7 przez obywatela kraju trzeciego (Dz. Urz. UE L 050 z 25.02.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 109)"
+    },
+    {
+     "type": "text",
+     "text": "8 w celu rozpatrzenia wniosku o nadanie statusu uchod cy 6 pkt 8"
+    },
+    {
+     "type": "text",
+     "text": "w celu realizacji obowi zku, o którym mowa w art. 25 ust. 2 rozporz dzenia (WE) nr 767/2008 Parlamentu Europejskiego i Rady 9 z dnia 9 lipca 2008 r. w sprawie Wizowego Systemu Informacyjnego (VIS) oraz wymiany danych pomi dzy pa stwami 6 pkt 9 cz onkowskimi na temat wiz krótkoterminowych (rozporz dzenie w sprawie VIS)"
+    },
+    {
+     "type": "text",
+     "text": "10 w celu realizacji zada centralnego punktu dost pu 7 ust. 1 pkt 1—3"
+    },
+    {
+     "type": "text",
+     "text": "(miejscowo i data) (piecz i podpis)"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej — sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. Nr 216, poz. 1604).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 195, poz. 1198 i Nr 216, poz. 1367 oraz z 2010 r. Nr 41, poz. 233, Nr 81, poz. 531 i Nr 239, poz. 1593.",
+  "3": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 7 grudnia 2007 r. w sprawie trybu dostępu do Krajowego Systemu Informatycznego (Dz. U. Nr 235, poz. 1730), które utraciło moc na podstawie art. 8 ust. 2 ustawy z dnia 3 grudnia 2010 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. Nr 239, poz. 1593). * Ustawa z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym (Dz. U. Nr 165, poz. 1170, z pó n. zm.). ** Zaznaczy „V” w a ciwe pola zgodnie z uprawnieniami do wpisu oraz wgl du do danych SIS wynikaj cymi z ww. ustawy. STRONA 1/2 * Ustawa z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym (Dz. U. Nr 165, poz. 1170, z pó n. zm.). ** Zaznaczy „V” w a ciwe pola zgodnie z uprawnieniami do wpisu oraz wgl du do danych VIS wynikaj cymi z ww. ustawy. STRONA 2/2"
+ }
+}

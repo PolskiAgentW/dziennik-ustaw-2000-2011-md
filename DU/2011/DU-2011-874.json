@@ -1,0 +1,271 @@
+{
+ "eli": "DU/2011/874",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 czerwca 2011 r. w sprawie sposobu wykorzystywania Krajowego Systemu Informatycznego jako krajowego interfejsu Wizowego Systemu Informacyjnego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2011/874/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 czerwca 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie sposobu wykorzystywania Krajowego Systemu Informatycznego jako krajowego interfejsu Wizowego Systemu Informacyjnego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 21 ust. 2 ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym (Dz. U. Nr 165, poz. 1170, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa sposób wykorzystywania Krajowego Systemu Informatycznego (KSI) jako krajowego interfejsu Wizowego Systemu Informacyjnego, w tym sposób dokonywania wpisów danych VIS, a także wglądu do danych VIS.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "aplikacji WWW VIS — należy przez to rozumieć aplikację dostarczającą graficzny interfejs KSI VIS dla użytkownika indywidualnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "certyfikacie — należy przez to rozumieć elektroniczne zaświadczenie będące elementem PKI, wydane zgodnie z obowiązującą Polityką Certyfikacji, zapewniające poufność przesyłanych danych oraz bezpieczeństwo procesu uwierzytelniania użytkownika instytucjonalnego i użytkownika indywidualnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "d wukierunkowym protokole SSL — (2 way SSL) — należy przez to rozumieć protokół służący do szyfrowania transmisji danych w sieci zgodnie ze standardem TLS 1.0 lub SSLv3, wymagający uwierzytelnienia certyfikatem cyfrowym urządzeń obu stron komunikacji — po jednej stronie Krajowego Systemu Informatycznego (KSI), po drugiej — użytkownika instytucjonalnego lub indywidualnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "Kodeksie Postępowania Certyfikacyjnego — należy przez to rozumieć dokument uszczegółowiający ogólne zasady postępowania certyfikacyjnego opisane w Polityce Certyfikacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "KSI VIS — należy przez to rozumieć podsystem teleinformatyczny stanowiący część infrastruktury technicznej i organizacyjnej Krajowego Systemu Informatycznego (KSI) mający na celu zapewnienie przepływu informacji pomiędzy Centralnym Wizowym Systemem Informacyjnym, o którym mowa w art. 1 ust. 2 decyzji Rady 2004/512/WE z dnia 8 czerwca 2004 r. w sprawie ustanowienia Wizowego Systemu Informacyjnego (VIS) (Dz. Urz. UE L 213 z 15.06.2004, str. 5), a systemami użytkowników instytucjonalnych oraz aplikacją WWW VIS dla użytkownika indywidualnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "PKI — (Public Key Infrastructure) — należy przez to rozumieć Infrastrukturę Klucza Publicznego będącego kryptosystemem, w którego skład wchodzą urzędy certyfikacyjne, urzędy rejestracyjne, użytkownicy certyfikatów (subskrybenci), oprogramowanie i sprzęt;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "Polityce Certyfikacji — należy przez to rozumieć dokument określający techniczne i organizacyjne warunki oraz zakres tworzenia i stosowania certyfikatów w standardzie X.509 wykorzystywanych przez użytkowników Krajowego Systemu Informatycznego (KSI);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "s pecyfikacji interfejsu KSI VIS — należy przez to rozumieć opis zawartości komunikatów wymienianych z KSI VIS przez systemy teleinformatyczne użytkowników instytucjonalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "organie lub służbie — należy przez to rozumieć organ lub służbę uprawnioną do bezpośredniego dostępu do Krajowego Systemu Informatycznego (KSI) na podstawie ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "u żytkowniku indywidualnym — należy przez to rozumieć osobę fizyczną upoważnioną w ramach organu lub służby do wykorzystywania danych VIS, która w celu dostępu do danych VIS korzysta bezpośrednio z aplikacji WWW VIS;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "u żytkowniku instytucjonalnym — należy przez to rozumieć organ lub służbę, uprawnione do współpracy z Krajowym Systemem Informatycznym (KSI) za pośrednictwem własnego systemu teleinformatycznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "V PN — (Virtual Private Network) — należy przez to rozumieć wirtualną sieć prywatną jako sieć przekazu danych korzystającą z publicznej infrastruktury telekomunikacyjnej, która przez stosowanie protokołów tunelowania i procedur bezpieczeństwa zachowuje poufność danych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "wydzielonej sieci teleinformatycznej — należy przez to rozumieć niepubliczną sieć telekomunikacyjną, która dzięki zastosowaniu rozwiązań sprzętowych lub programowych zapewnia możliwość logicznej separacji od powszechnie dostępnej infrastruktury telekomunikacyjnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "W celu umożliwienia użytkownikom indywidualnym oraz użytkownikom instytucjonalnym korzystania z Krajowego Systemu Informatycznego (KSI) w zakresie dokonywania wpisów danych VIS oraz wglądu do danych VIS:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "centralny organ techniczny KSI, na wniosek organu lub służby:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_1/lit_a",
+       "text": "wydaje przez dedykowane PKI certyfikaty cyfrowe na brzegowe urządzenia sieciowe dla użytkownika instytucjonalnego lub użytkownika indywidualnego oraz określa i przekazuje parametry ich konfiguracji umożliwiającej nawiązanie połączenia VPN z infrastrukturą sieciową Krajowego Systemu Informatycznego (KSI),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_1/lit_b",
+       "text": "zakłada konta dostępowe w Krajowym Systemie Informatycznym (KSI) i przydziela uprawnienia dla użytkowników indywidualnych oraz systemów teleinformatycznych użytkowników instytucjonalnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_3/pkt_1/lit_c",
+       "text": "wydaje certyfikaty cyfrowe na potrzeby uwierzytelniania się użytkowników instytucjonalnych lub użytkowników indywidualnych w systemach teleinformatycznych;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "centralny organ techniczny KSI przekazuje organom lub służbom:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_2/lit_a",
+       "text": "aktualnie obowiązującą Politykę Certyfikacji i Kodeks Postępowania Certyfikacyjnego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_2/lit_b",
+       "text": "pełną i aktualną dokumentację zawierającą specyfikację interfejsu KSI VIS,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_3/pkt_2/lit_c",
+       "text": "w przypadku zmian w interfejsie Wizowego Systemu Informacyjnego — informację o planowanym terminie wdrożenia zmian oraz, w terminie uwzględniającym czas niezbędny dla dostosowania systemów użytkowników instytucjonalnych, uaktualnioną wersję specyfikacji interfejsu KSI VIS.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Wpisów danych VIS oraz wglądu do danych VIS dokonuje się za pomocą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "aplikacji WWW VIS z wykorzystaniem protokołu https oraz bezpiecznego połączenia VPN — w przypadku użytkownika indywidualnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "s ystemu teleinformatycznego z wykorzystaniem protokołu https oraz bezpiecznego połączenia VPN — w przypadku użytkownika instytucjonalnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Dokonywanie wpisów danych VIS oraz wglądu do danych VIS przez użytkowników indywidualnych oraz użytkowników instytucjonalnych następuje za pośrednictwem wydzielonej sieci teleinformatycznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Użytkownicy indywidualni oraz użytkownicy instytucjonalni uwierzytelniają się w Krajowym Systemie Informatycznym (KSI) przy użyciu dwukierunkowego protokołu SSL za pomocą certyfikatów cyfrowych wydanych przez dedykowane PKI.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Systemy teleinformatyczne użytkowników instytucjonalnych komunikują się z KSI VIS za pomocą komunikatów, których format jest zdefiniowany w specyfikacji interfejsu KSI VIS.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Centralne punkty dostępu, o których mowa w art. 7 ust. 2 ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym, mają dostęp do Krajowego Systemu Informatycznego (KSI) w celu wglądu do danych VIS za pośrednictwem aplikacji WWW VIS.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych i Administracji: J. Miller"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej — sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. Nr 216, poz. 1604).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 195, poz. 1198 i Nr 216, poz. 1367 oraz z 2010 r. Nr 41, poz. 233, Nr 81, poz. 531 i Nr 239, poz. 1593."
+ }
+}

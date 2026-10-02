@@ -1,0 +1,1102 @@
+{
+ "eli": "DU/2011/1699",
+ "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 27 grudnia 2011 r. w sprawie wymagań technicznych dla dokumentów elektronicznych zawierających akty normatywne i inne akty prawne, dzienników urzędowych wydawanych w postaci elektronicznej oraz środków komunikacji elektronicznej i informatycznych nośników danych",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2011/1699/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 grudnia 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wymagań technicznych dla dokumentów elektronicznych zawierających akty normatywne i inne akty prawne, dzienników urzędowych wydawanych w postaci elektronicznej oraz środków komunikacji elektronicznej i informatycznych nośników danych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 28c ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa wymagania techniczne dla:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "dokumentów elektronicznych zawierających akty normatywne i inne akty prawne kierowane do ogłoszenia w dziennikach urzędowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "dzienników urzędowych wydawanych w postaci elektronicznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "środków komunikacji elektronicznej i informatycznych nośników danych używanych do udostępniania dzienników urzędowych oraz zbiorów aktów prawa miejscowego stanowionych przez powiat lub gminę lub zawartych w nich aktów normatywnych i innych aktów prawnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "adres względny — adres określający położenie dokumentu elektronicznego względem katalogu głównego zawierającego akt podlegający ogłoszeniu w postaci zbioru dokumentów elektronicznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "metadane — zestaw logicznie powiązanych z dokumentem elektronicznym usystematyzowanych informacji opisujących ten dokument, ułatwiających jego wyszukiwanie, kontrolę, zrozumienie i długotrwałe przechowanie oraz zarządzanie nim;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "wzór aktu — wzór dokumentu elektronicznego przekazywany do centralnego repozytorium wzorów dokumentów elektronicznych w rozumieniu art. 19b ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm.[^1]), zawierający:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_3/lit_a",
+       "text": "określenie struktury aktu prawnego zdefiniowanej w formacie XSD (schemacie XML),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_3/lit_b",
+       "text": "ustalenie sposobu wizualizacji aktu prawnego, w rozumieniu przepisów wydanych na podstawie art. 16 ust. 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, zdefiniowane w szablonie wizualizacji określonym w formacie XSL,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_3/lit_c",
+       "text": "metadane opisujące wzór aktu zapisany w formacie XML.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Dokumenty elektroniczne zawierające akty normatywne i inne akty prawne, podlegające ogłoszeniu na podstawie ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych, zwane dalej „aktami podlegającymi ogłoszeniu”, sporządza się w formacie XML.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Dokumenty elektroniczne, o których mowa w ust. 1, są zgodne z wzorami aktów ogłoszonymi w centralnym repozytorium wzorów dokumentów elektronicznych oraz na stronie internetowej, o której mowa w § 7 ust. 4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Wzory aktów podlegających ogłoszeniu ustala Prezes Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Informacja o ogłoszeniu nowego wzoru aktu w centralnym repozytorium wzorów dokumentów elektronicznych jest niezwłocznie udostępniana w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_3/ust_5",
+     "text": "Organ upoważniony do wydania aktu podlegającego ogłoszeniu wprowadza do stosowania wzory aktów nie później niż w terminie 6 miesięcy od dnia ich ogłoszenia w centralnym repozytorium wzorów dokumentów elektronicznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Struktura aktu prawnego zdefiniowana w schemacie XML jest zgodna ze strukturą aktów podlegających ogłoszeniu określoną w rozporządzeniu Prezesa Rady Ministrów z dnia 20 czerwca 2002 r. w sprawie „Zasad techniki prawodawczej” (Dz. U. Nr 100, poz. 908).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W skład schematu XML wchodzą w szczególności znaczniki XML zawierające mechanizmy do przedstawienia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "budowy aktu podlegającego ogłoszeniu, w szczególności podziału na jednostki redakcyjne i ich systematyzacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "z awartości tekstowej poszczególnych jednostek systematyzacyjnych i ich nazw, o ile są tytułowane;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_2/pkt_3",
+       "text": "w łączonych w treść aktu podlegającego ogłoszeniu elementów zewnętrznych przechowywanych w osobnych dokumentach elektronicznych, w szczególności obrazów, znaków graficznych, map, wykresów, zwanych dalej „elementami zewnętrznymi”.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Mechanizmy do przedstawienia elementów zewnętrznych przyjmują postać adresów względnych wobec katalogu zawierającego akty podlegające ogłoszeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Elementy zewnętrzne są włączone do aktu podlegającego ogłoszeniu w postaci umożliwiającej osiągnięcie jakości prezentacji niepozostawiającej wątpliwości co do ich zawartości.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Załącznik do aktu podlegającego ogłoszeniu może być przekazany do ogłoszenia w postaci:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "pliku XML o strukturze specyficznej dla danego rodzaju załącznika wraz ze schematem zdefiniowanym w formacie XSD oraz wygenerowaną na podstawie tego pliku wizualizacją w formacie PDF zgodnym z minimalnymi wymaganiami dla systemów teleinformatycznych określonymi w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, zwanymi dalej „minimalnymi wymaganiami dla systemów teleinformatycznych”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "pliku XML w jednym z formatów określonych w minimalnych wymaganiach dla systemów teleinformatycznych, którego postać:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_2/lit_a",
+         "text": "umożliwia konwersję do pliku PDF,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_2/lit_b",
+         "text": "umożliwia, bez konieczności dokonywania zmian w dokumencie, wydruk treści w formacie A4 w jakości prezentacji niepozostawiającej wątpliwości co do treści dokumentu;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "pliku PDF generowanego w sposób umożliwiający przeszukiwanie tekstu dokumentu, którego postać umożliwia, bez konieczności dokonywania zmian w dokumencie, wydruk treści w formacie A4 w jakości prezentacji niepozostawiającej wątpliwości co do treści dokumentu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W uzasadnionych przypadkach załączniki, o których mowa w ust. 1 pkt 2 i 3, mogą być przekazane w innym formacie arkusza, który został uprzednio uzgodniony z organem wydającym dziennik urzędowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Mechanizmy do przedstawienia załączników, o których mowa w ust. 1, przyjmują postać adresów względnych wobec katalogu zawierającego akty podlegające ogłaszaniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Dopuszczalna wielkość załącznika wynosi 20 MB.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "W uzasadnionych przypadkach możliwe jest przekazywanie większych załączników o wielkości uprzednio uzgodnionej z organem wydającym dziennik urzędowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_5/ust_6",
+     "text": "Załączniki posiadają nagłówek zgodny ze standardem wizualizacji określonym w załączniku nr 1 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Dokumenty elektroniczne, o których mowa w § 3, wraz z załącznikami oraz elementami zewnętrznymi opatrywane są przez upoważniony do wydania aktu podlegającego ogłoszeniu organ bezpiecznym podpisem elektronicznym w rozumieniu art. 3 pkt 2 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, poz. 1450, z późn. zm.[^2]), weryfikowanym przy pomocy kwalifikowanego certyfikatu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Bezpieczny podpis elektroniczny dokumentów elektronicznych, o których mowa w § 3, wraz z załącznikami oraz elementami zewnętrznymi sporządza się zgodnie ze specyfikacją techniczną formatu podpisu określoną w załączniku nr 2 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Strona główna dziennika urzędowego zawiera wyłącznie informacje związane z aktami podlegającymi ogłoszeniu, w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "nazwę dziennika urzędowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "godło Rzeczypospolitej Polskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_1/pkt_3",
+       "text": "nazwę organu wydającego dziennik urzędowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_1/pkt_4",
+       "text": "odnośniki do poszczególnych pozycji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_7/ust_1/pkt_5",
+       "text": "odnośniki do narzędzi służących do wyszukiwania ogłoszonych aktów podlegających ogłoszeniu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_7/ust_1/pkt_6",
+       "text": "i nformację o dostępie i sposobie zabezpieczania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Organ wydający dziennik urzędowy umieszcza na stronie głównej dziennika urzędowego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "odnośniki do certyfikatów osób upoważnionych do podpisywania aktów podlegających ogłoszeniu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "odnośniki do aplikacji służących do weryfikacji podpisów, o których mowa w pkt 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_2/pkt_3",
+       "text": "inne informacje, odnośnie do których obowiązek zamieszczenia wynika z odrębnych przepisów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Organ wydający dziennik urzędowy umieszcza odnośnik do strony głównej dziennika urzędowego na podmiotowej stronie Biuletynu Informacji Publicznej, o której mowa w art. 9 ust. 2 ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.[^3]).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Rządowe Centrum Legislacji umieszcza na stronie internetowej www.dziennikiurzedowe.gov.pl odnośniki do stron głównych dzienników urzędowych, o których mowa w ust. 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Akty podlegające ogłoszeniu ogłasza się w formacie PDF albo w formacie XML, o którym mowa w § 3, w sposób umożliwiający wizualizację treści w postaci pliku PDF.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Autentyczność i integralność dzienników urzędowych, zbiorów aktów prawa miejscowego stanowionych przez powiat lub gminę oraz innych aktów podlegających ogłoszeniu jest zagwarantowana bezpiecznym podpisem elektronicznym organu lub osoby upoważnionej przez organ wydający dziennik urzędowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Do udostępniania dzienników urzędowych, zbiorów aktów prawa miejscowego stanowionych przez powiat lub gminę oraz innych aktów podlegających ogłoszeniu są używane:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_9/pkt_1",
+     "text": "środki komunikacji elektronicznej spełniające wymagania określone w minimalnych wymaganiach dla systemów teleinformatycznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_9/pkt_2",
+     "text": "informatyczne nośniki danych spełniające wymagania określone w przepisach wydanych na podstawie art. 5 ust. 2c i ust. 3 pkt 5 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2011 r. Nr 123, poz. 698 i Nr 171, poz. 1016).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Do czasu stosowania wzoru aktu, o którym mowa w § 3 ust. 2:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_10/pkt_1",
+     "text": "czynność ogłaszania aktów podlegających ogłoszeniu, o której mowa w § 8 ust. 1, realizowana jest wyłącznie przy użyciu formatu PDF;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_10/pkt_2",
+     "text": "stosuje się wymagania dotyczące sporządzania aktów podlegających ogłoszeniu w postaci dokumentów elektronicznych określone w załączniku nr 3 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Do czasu wejścia w życie przepisów wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne stosuje się wymagania dotyczące formatów danych oraz środków komunikacji elektronicznej określone w załączniku nr 4 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2012 r.[^4]",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Załączniki do rozporządzenia Prezesa Rady Ministrów z dnia 27 grudnia 2011 r. (poz. 1699)"
+  },
+  {
+   "type": "ocr",
+   "text": "Załącznik nr 1"
+  },
+  {
+   "type": "ocr",
+   "text": "STANDARD WIZUALIZACJI NAGŁÓWKA ZAŁĄCZNIKÓW"
+  },
+  {
+   "type": "ocr",
+   "text": "§ 1. Załącznik wizualizuje się w postaci stron w formacie A4 (210 mm x 297 mm)."
+  },
+  {
+   "type": "ocr",
+   "text": "$ 2. Marginesy na każdej stronie wizualizowanego załącznika mają następujące wymiary: wewnętrzny — 18 mm; zewnętrzny — 18 mm; górny — 17,5 mm; dolny — 17,5 mm."
+  },
+  {
+   "type": "ocr",
+   "text": "ZELNZ"
+  },
+  {
+   "type": "ocr",
+   "text": "§ 3. W lewym górnym rogu każdej strony zamieszcza się nazwę dziennika urzędowego, a ponadto w tej samej linii:"
+  },
+  {
+   "type": "ocr",
+   "text": "1) na środku strony zamieszcza się numer strony między znakami półpauzy;"
+  },
+  {
+   "type": "ocr",
+   "text": "2) w prawym górnym rogu zamieszcza się numer pozycji aktu poprzedzony skrótem „Poz.”."
+  },
+  {
+   "type": "ocr",
+   "text": "§ 4. Informacje wymienione w $ 3 pisane są czcionką Times New Roman lub czcionką o podobnym kroju, o rozmiarze 9 pkt."
+  },
+  {
+   "type": "ocr",
+   "text": "§ 5. Poniżej informacji wymienionych w § 3, w odległości 22 mm od góry strony, umieszcza się linię o długości 174 mm i grubości 1 pkt."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Załącznik nr 2"
+  },
+  {
+   "type": "ocr",
+   "text": "SPECYFIKACJA TECHNICZNA FORMATU PODPISU"
+  },
+  {
+   "type": "ocr",
+   "text": "§ 1. 1. Format podpisu jest zgodny ze specyfikacją TS 101 903 v 1.3.2 lub nowszym."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Format spełnia wymagania wymienione w poniższej tabeli:"
+  },
+  {
+   "type": "ocr",
+   "text": "| Dotyczy Stosowanie ” | Opis wymagania ds:Signature ID W ds:Signedlnfo W ds:CanonizationMethod W Algorytmy powinny być ograniczone do jednego z wymienionych: - Exclusive XML Canonicalization 1.0: http://www.w3.org/ TR/xml-exc-c14n/ - Canonical XML 1.0 http://www.w3.org/TR/2001/REC-xmlc14n-20010315 - Canonical XML 1.1 http://www.w3.org/2006/ 1! 2/xml-c14n1 1 ds:SignatureMethod w Algorytmy powinny być zgodne z wymaganiami zdefiniowanymi w przepisach w sprawie określenia warunków technicznych i organizacyjnych dla kwalifikowanych podmiotów świadczących usługi certyfikacyjne, polityk certyfikacji dla kwalifikowanych certyfikatów w rozumieniu art. 3 pkt 12 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym wydawanych przez te podmioty oraz warunków technicznych dla bezpiecznych urządzeń służących do składania i weryfikacjj podpisu elektronicznego albo zgodne z odpowiednimi zaleceniami specyfikacji technicznej TS 102 176-1 ds:Reference URI W Jedno wskazanie na element SignedProperties, jedno wskazanie z wartością pustą ,,” (podpisywany dokument), dla kazdego dodatkowo podpisywanego pliku wartość ścieżki względnej (relative) ds: Transforms W Dla referencjj z wartością pustą ,” atrybut algorithm z wartością „http://www.w3.org/2000/09/xmldsigienv eloped-signature” i pustą zawartością, dla pozostałych referencji dopuszcza się następujące wartości dla atrybutu algorithm: - http://www.w3.org/2000/09/xmidsig#en veloped-signature - http://www.w3.org/2000/09/xmidsig#ba se64 - http://www.w3.org/TR/1999/REC- xpath-19991116 - http://www.w3.org/2002/06/xmldsig-"
+  },
+  {
+   "type": "ocr",
+   "text": "V Stosowanie wymagania: W — wymagane, O — opcjonalne."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "filter2 - http://www.w3.org/TR/1999/REC-xslt- 19991116 - http://www.w3.org/TR/xml-exc-c14n/ - http://www.w3.org/TR/2001/REC-xmlc14n-20010315 - http://www.w3.org/2006/12/xml-c14n11 Algorytmy powinny być zgodne z wymaganiami zdefiniowanymi w przepisach w sprawie określenia warunków technicznych i organizacyjnych dla kwalifikowanych podmiotów świadczących usługi certyfikacyjne, polityk certyfikacji dla kwalifikowanych certyfikatów w rozumieniu art. 3 pkt 12 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym wydawanych przez te podmioty oraz warunków technicznych dla bezpiecznych urządzeń służących do składania i weryfikacji podpisu elektronicznego albo zgodne z odpowiednimi zaleceniami specyfikacji technicznej TS 102 176-1 Wartość skrótu dla referencji"
+  },
+  {
+   "type": "ocr",
+   "text": "a"
+  },
+  {
+   "type": "ocr",
+   "text": "R"
+  },
+  {
+   "type": "ocr",
+   "text": "= oa ds:DigestMethod"
+  },
+  {
+   "type": "ocr",
+   "text": "ds:DigestValue /ds:Reference"
+  },
+  {
+   "type": "ocr",
+   "text": "ds:SignatureValue ds:Keylnfo"
+  },
+  {
+   "type": "ocr",
+   "text": "Musi zawierać certyfikat X.509 (podpisana właściwość „SigningCertificate” musi zawierać wartość skrótu certyfikatu podpisującego) ds:Object | QualifyingProperties SignedProperties pO"
+  },
+  {
+   "type": "ocr",
+   "text": "Czas podpisania dokumentu w UTC xsd:DateTime Musi zawierać wartość skrótu certyfikatu podpisującego zawartego w ds:Keylnfo. Nie może zawierać atrybutu URI O Element opcjonalny O"
+  },
+  {
+   "type": "ocr",
+   "text": "SignedSignatureProperiies SigningTime"
+  },
+  {
+   "type": "ocr",
+   "text": "SigningCertificate"
+  },
+  {
+   "type": "ocr",
+   "text": "SignaturePolicyldentifier SignatureProductionPlace"
+  },
+  {
+   "type": "ocr",
+   "text": "/SignedSignatureProperties SignedDataObjectProperties"
+  },
+  {
+   "type": "ocr",
+   "text": "CommitmentTypelndication CommitmentTypeld"
+  },
+  {
+   "type": "ocr",
+   "text": "Jesli pole jest wykorzystane, musi byé uzyty potomny element MimeType"
+  },
+  {
+   "type": "ocr",
+   "text": "Węzeł zawiera wartość: http://uri.etsi.org/01903/v1.2.24ProofOfA pproval Węzeł określa, że zobowiązanie dotyczy wszystkich podpisanych danych"
+  },
+  {
+   "type": "ocr",
+   "text": "AllSignedDataObjects"
+  },
+  {
+   "type": "ocr",
+   "text": "/CommitmentTypelndication AllDataObjectTimeStamp IndividualDataObjectTimeStamp"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "/SignedDataObjectProperties /SignedProperties UnsignedProperties UnsignedSignatureProperties CounterSignature /UnsignedSignatureProperties a\". | a= /QualifyingProperties /ds:Object fF /ds:Signature Topologia podpisu Format podpisu Ww XAdES-BES lub XAdES-EPES | Wersja podpisu Enveloped signature"
+  },
+  {
+   "type": "ocr",
+   "text": "§ 2. 1. W przypadku gdy akt podlegający ogłoszeniu obejmuje więcej niż jeden plik, dopuszcza się przekazanie go w formie skompresowanego archiwum."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Akt, o którym mowa w ust. 1, spełnia następujące wymagania:"
+  },
+  {
+   "type": "ocr",
+   "text": "1) algorytmem pakowania jest ZIP;"
+  },
+  {
+   "type": "ocr",
+   "text": "2) plik zawierający treść aktu podlegającego ogłoszeniu ma nazwę ,akt.xml”;"
+  },
+  {
+   "type": "ocr",
+   "text": "3) pliki aktu podlegającego ogłoszeniu znajdują się w katalogu głównym skompresowanego archiwum;"
+  },
+  {
+   "type": "ocr",
+   "text": "4) pliki znajdujące się w archiwum są podpisane zgodnie z wymaganiami zdefiniowanymi w $ 1."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Pliku archiwum nie podpisuje się oddzielnym podpisem elektronicznym."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Podpis włączony w plik aktu podlegającego ogłoszeniu obejmuje wszystkie elementy aktu podlegającego ogłoszeniu."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Załącznik nr 3"
+  },
+  {
+   "type": "ocr",
+   "text": "WYMAGANIA DOTYCZĄCE SPORZĄDZANIA AKTÓW PODLEGAJĄCYCH OGŁOSZENIU W POSTACI DOKUMENTÓW ELEKTRONICZNYCH"
+  },
+  {
+   "type": "ocr",
+   "text": "§ 1. Akty podlegające ogłoszeniu są zapisywane jako teksty strukturalne w postaci uniwersalnego formatu tekstowego do zapisu danych w formie elektronicznej XML 1.0, określonego standardem W3C (World Wide Web Consortium)."
+  },
+  {
+   "type": "ocr",
+   "text": "1)"
+  },
+  {
+   "type": "ocr",
+   "text": "CRZL"
+  },
+  {
+   "type": "ocr",
+   "text": "Os"
+  },
+  {
+   "type": "ocr",
+   "text": "§ 2. Tekst strukturalny aktu podlegajacego ogtoszeniu zawiera: strukture aktu prawnego:"
+  },
+  {
+   "type": "ocr",
+   "text": "a) część,"
+  },
+  {
+   "type": "ocr",
+   "text": "b) księgę,"
+  },
+  {
+   "type": "ocr",
+   "text": "c) tytuł,"
+  },
+  {
+   "type": "ocr",
+   "text": "d) dział,"
+  },
+  {
+   "type": "ocr",
+   "text": "e) rozdział,"
+  },
+  {
+   "type": "ocr",
+   "text": "f) oddział,"
+  },
+  {
+   "type": "ocr",
+   "text": "g) artykuł,"
+  },
+  {
+   "type": "ocr",
+   "text": "h) paragraf,"
+  },
+  {
+   "type": "ocr",
+   "text": "i) ustęp, jj punkt,"
+  },
+  {
+   "type": "ocr",
+   "text": "k) literę,"
+  },
+  {
+   "type": "ocr",
+   "text": "l) tiret; tekst poszczególnych części aktu podlegającego ogłoszeniu; tytuły poszczególnych części aktu podlegającego ogłoszeniu; przypisy wraz z odnośnikami; uwagi do treści umieszczanych bezpośrednio w tekście lub na marginesie; włączone w treść elementy zewnętrzne (obrazy, tabele itp. przechowywane w osobnych dokumentach); załączniki do aktów podlegających ogłoszeniu; odesłania do innych aktów podlegających ogłoszeniu; oznaczenia definicji pojęć słownikowych."
+  },
+  {
+   "type": "ocr",
+   "text": "—. —"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Załącznik nr 4"
+  },
+  {
+   "type": "ocr",
+   "text": "WYMAGANIA DOTYCZĄCE FORMATÓW DANYCH ORAZ ŚRODKÓW KOMUNIKACJI ELEKTRONICZNEJ"
+  },
+  {
+   "type": "ocr",
+   "text": "§ 1.1. Systemy teleinformatyczne w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne używane przez podmioty realizujące zadania publiczne wyposaża się w składniki sprzętowe lub oprogramowanie umożliwiające wymianę danych z innymi systemami teleinformatycznymi za pomocą protokołów komunikacyjnych i szyfrujących określonych w obowiązujących przepisach, normach, standardach lub rekomendacjach ustanowionych przez krajową jednostkę normalizacyjną lub jednostkę normalizacyjną Unii Europejskiej."
+  },
+  {
+   "type": "ocr",
+   "text": "2. W przypadku gdy w danej sprawie brak jest przepisów, norm lub standardów, o których mowa w ust. 1, stosuje się standardy uznane na poziomie międzynarodowym, w szczególności opracowane przez:"
+  },
+  {
+   "type": "ocr",
+   "text": "1) Internet Engineering Task Force (IETF) i publikowane w postaci Request For Comments (RFC),"
+  },
+  {
+   "type": "ocr",
+   "text": "2) World Wide Web Consortium (W3C) i publikowane w postaci W3C Recommendation (REC). - adekwatnie do potrzeb wynikających z realizowanych zadań oraz bieżącego stanu technologii informatycznych."
+  },
+  {
+   "type": "ocr",
+   "text": "§ 2. W odniesieniu do wskazanych w rozporządzeniu dokumentów, dla których wymagane jest zachowanie zgodności formatu danych z minimalnymi wymaganiami dla systemów teleinformatycznych, stosuje się formaty danych wskazane w poniższej tabeli."
+  },
+  {
+   "type": "ocr",
+   "text": "Format danych, rozszerzenie Lp. nazwy pliku"
+  },
+  {
+   "type": "ocr",
+   "text": "Oznaczenie lub nazwa normy albo dokumentu zawierającego specyfikację"
+  },
+  {
+   "type": "ocr",
+   "text": "Organizacja Oryginalna pełna określająca format, Opis standardu . nazwa standardu norme lub . lub skrócona techniczną wskazanego standard nazwa formatu standardu"
+  },
+  {
+   "type": "ocr",
+   "text": "W celu przekazywania oraz publikacji dokumentów stosuje się:"
+  },
+  {
+   "type": "ocr",
+   "text": "Do danych zawierających dokumenty tekstowe i tekstowo-graficzne co najmniej jeden z następujących formatów danych:"
+  },
+  {
+   "type": "ocr",
+   "text": "Dokumenty w postaci czystego (niesformatowanego) zbioru ISO/IEC ISO/IEC 10646 znaków zapisanych w standardzie Unicode UTF-8 jako pliki typu .txt"
+  },
+  {
+   "type": "ocr",
+   "text": "Dokumenty w postaci sformatowanego tekstu jako pliki typu .rtf"
+  },
+  {
+   "type": "ocr",
+   "text": "Portable Document | Dokumenty tekstowo-graficzne . . IE I IEC 32 -1"
+  },
+  {
+   "type": "ocr",
+   "text": "Be ee sonic || solcszow Microsoft Corp.,"
+  },
+  {
+   "type": "ocr",
+   "text": "Wewnętrzny standard Microsoft Corp."
+  },
+  {
+   "type": "ocr",
+   "text": "Rich Text Format Microsoft Corp. Specification P"
+  },
+  {
+   "type": "ocr",
+   "text": "ORA o | Ota conse p J p YPU xP International"
+  },
+  {
+   "type": "ocr",
+   "text": "Open Document Dokumenty w postaci 1.5 „odt Format for Office sformatowanego tekstu ISO/IEC ISO/IEC 26300 Application jako pliki typu .odt"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Format danych, EE Oznaczenie lub nazwa . Organizacja rozszerzenie aie normy albo dokumentu \" okreslajaca format, NME oni Lp. nazwy pliku zawierającego specyfikację lub skrócona normę lub techniczną wskazanego standard nazwa formatu standardu"
+  },
+  {
+   "type": "ocr",
+   "text": "Oryginalna pełna nazwa standardu Opis standardu"
+  },
+  {
+   "type": "ocr",
+   "text": "1 2 4 6"
+  },
+  {
+   "type": "ocr",
+   "text": "Dokumenty w postaci sformatowanego arkusza kalkulacyjnego jako pliki"
+  },
+  {
+   "type": "ocr",
+   "text": "Open Document 1.6 . Format for Office Application"
+  },
+  {
+   "type": "ocr",
+   "text": "ISO/IEC ISO/IEC 26300"
+  },
+  {
+   "type": "ocr",
+   "text": "typu .ods"
+  },
+  {
+   "type": "ocr",
+   "text": "Open Document Dokumenty w postaci 1.7 .odp Format for Office prezentacji multimedialnych ISO/IEC ISO/IEC 26300 Application jako pliki typu .odp"
+  },
+  {
+   "type": "ocr",
+   "text": "Dokumenty w postaci sformatowanego tekstu Microsoft Corp. jako pliki typu .doc"
+  },
+  {
+   "type": "ocr",
+   "text": "Microsoft Office Word"
+  },
+  {
+   "type": "ocr",
+   "text": "Wewnętrzny standard 1.8 „doc Microsoft Corp."
+  },
+  {
+   "type": "ocr",
+   "text": "Dokumenty w postaci sformatowanego arkusza Microsoft Corp. kalkulacyjnego"
+  },
+  {
+   "type": "ocr",
+   "text": "Microsoft Office Excel"
+  },
+  {
+   "type": "ocr",
+   "text": "Wewnętrzny standard 1.9 „xls Microsoft Corp."
+  },
+  {
+   "type": "ocr",
+   "text": "Otwarty standard ISO ISO/IEC 29500-1 dokumentów elektronicznych ISO/IEC 29500-2 Office Open XML w tym: ISO/IEC 1.10 | Open XML File Formats docx ISO/IEC 29500-3 „XIsX ISO/IEC 29500-4"
+  },
+  {
+   "type": "ocr",
+   "text": "111 csv Comma Separated Wartości rozdzielone IETF REC 4180 Values przecinkiem"
+  },
+  {
+   "type": "ocr",
+   "text": "2 Do danych zawierających informację graficzną co najmniej jeden z następujących formatów danych:"
+  },
+  {
+   "type": "ocr",
+   "text": "- . ISO/IEC 10918-1 Digital compression i f Plik J i ISO/IEC 10918-2 2.1 | jpg (jpeg) and coding o ik typu ips (Joint ISO/IEC continuous-tone Photographic Experts Group) ISO/IEC 10918-3 still images ISO/IEC 10918-4"
+  },
+  {
+   "type": "ocr",
+   "text": "Tagged Image File 2.2 tif (.tiff) Plik typu .tif ISO ISO 12234-2, ISO 12639 Format"
+  },
+  {
+   "type": "ocr",
+   "text": "NASA Jet 23 | geotite | C°Osraphic Tagged | pik typu „geotiff Propulsion GeoTIFF Revision 1.0 Image File Format Laboratory"
+  },
+  {
+   "type": "ocr",
+   "text": "Portable Network . . i . I IE I IEC 1594"
+  },
+  {
+   "type": "ocr",
+   "text": "2.4 png Graphics Plik typu .png SO/IEC SO/IEC 15948"
+  },
+  {
+   "type": "ocr",
+   "text": "Scalable Vector 2.5 SVE Graphics (SVG) 1.1 | Plik grafiki wektorowej W3C - Specification"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Format danych, rozszerzenie nazwy pliku lub skrócona nazwa standardu"
+  },
+  {
+   "type": "ocr",
+   "text": "Oryginalna pełna nazwa standardu"
+  },
+  {
+   "type": "ocr",
+   "text": "Oznaczenie lub nazwa normy albo dokumentu zawierającego specyfikację techniczną wskazanego formatu"
+  },
+  {
+   "type": "ocr",
+   "text": "Organizacja określająca format, normę lub standard"
+  },
+  {
+   "type": "ocr",
+   "text": "Opis standardu"
+  },
+  {
+   "type": "ocr",
+   "text": "Hypertext Markup Language"
+  },
+  {
+   "type": "ocr",
+   "text": "Standard języka znaczników formatujących strony WWW HTML 4.01"
+  },
+  {
+   "type": "ocr",
+   "text": "Extensible Hypertext Markup Language"
+  },
+  {
+   "type": "ocr",
+   "text": "XHTML Basic 1.1 — Second Edition"
+  },
+  {
+   "type": "ocr",
+   "text": "Cascading Style Sheets"
+  },
+  {
+   "type": "ocr",
+   "text": "Standard języka znaczników formatujących strony WWW"
+  },
+  {
+   "type": "ocr",
+   "text": "Standard języka znaczników formatujących strony WWW wykorzystywany w zakresie prezentacji informacji w komputerach kieszonkowych"
+  },
+  {
+   "type": "ocr",
+   "text": "(PDA) XHTML basic"
+  },
+  {
+   "type": "ocr",
+   "text": "Kaskadowy Arkusz Stylu"
+  },
+  {
+   "type": "ocr",
+   "text": "Do określenia struktury i wizualizacji dokumentu elektronicznego:"
+  },
+  {
+   "type": "ocr",
+   "text": "Do definiowania układu informacji polegającego na określeniu elementów informacyjnych oraz powiązań między nimi stosuje się następujące formaty danych:"
+  },
+  {
+   "type": "ocr",
+   "text": "Extensible Markup Language"
+  },
+  {
+   "type": "ocr",
+   "text": "Standard uniwersalnego formatu tekstowego służącego do zapisu danych w formie elektronicznej"
+  },
+  {
+   "type": "ocr",
+   "text": "Extensible Markup Language"
+  },
+  {
+   "type": "ocr",
+   "text": "Geography Markup Language"
+  },
+  {
+   "type": "ocr",
+   "text": "Standard opisu definicji struktury dokumentów zapisanych w formacie XML"
+  },
+  {
+   "type": "ocr",
+   "text": "Język Znaczników Geograficznych"
+  },
+  {
+   "type": "ocr",
+   "text": "Regular Language for XML Next Generation"
+  },
+  {
+   "type": "ocr",
+   "text": "Język schematów do języka XML ISO/IEC ISO/IEC 19757-2"
+  },
+  {
+   "type": "ocr",
+   "text": "Do przetwarzania dokumentów zapisanych w formacie XML stosuje się co najmniej jeden z następujących"
+  },
+  {
+   "type": "ocr",
+   "text": "Extensible Stylesheet Language"
+  },
+  {
+   "type": "ocr",
+   "text": "2.1 xsl"
+  },
+  {
+   "type": "ocr",
+   "text": "formatów danych:"
+  },
+  {
+   "type": "ocr",
+   "text": "Rozszerzalny Język Arkuszy W3C - Stylów"
+  },
+  {
+   "type": "ocr",
+   "text": "0 Dopuszcza sie stosowanie standardu W3C."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Format danych, Oznaczenie lub nazwa Organizacja normy albo dokumentu rozszerzenie określająca format Ja ’ | zawierającego specyfikację"
+  },
+  {
+   "type": "ocr",
+   "text": "Oryginalna pełna Lp. nazwy pliku nazwa standardu Opis standardu normę lub . lub skrócona techniczną wskazanego standard nazwa formatu standardu"
+  },
+  {
+   "type": "ocr",
+   "text": "1 2 3 4 5 6"
+  },
+  {
+   "type": "ocr",
+   "text": "Extensible Stylesheet Przekształcenia Rozszerzalnego Language Języka Arkuszy Stylów Transformation"
+  },
+  {
+   "type": "ocr",
+   "text": "Objaśnienia skrótów nazw organizacji z kol. 5: IETF Internet Engineering Task Force ISO — International Standardization Organization OASIS— Organization for the Advancement of Structured Information Standards OGC- Open Geospatial Consortium Inc. W3C- World Wide Web Consortium ETSI- — European Telecommunications Standards"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 12, poz. 65 i Nr 73, poz. 501, z 2008 r. Nr 127, poz. 817, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131 i Nr 182, poz. 1228 oraz z 2011 r. Nr 112, poz. 654, Nr 185, poz. 1092 i Nr 204, poz. 1195.",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 64, poz. 565, z 2006 r. Nr 145, poz. 1050, z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 40, poz. 230 i Nr 182, poz. 1228 oraz z 2011 r. Nr 106, poz. 622.",
+  "3": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407, z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 204, poz. 1195.",
+  "4": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 25 kwietnia 2008 r. w sprawie wymagań technicznych dokumentów elektronicznych zawierających akty normatywne i inne akty prawne, elektronicznej formy dzienników urzędowych oraz środków komunikacji elektronicznej i informatycznych nośników danych (Dz. U. Nr 75, poz. 451, Nr 113, poz. 722 i Nr 232, poz. 1568), które traci moc z dniem wejścia w życie ustawy z dnia 4 marca 2011 r. o zmianie ustawy o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych oraz niektórych innych ustaw (Dz. U. Nr 117, poz. 676), tj. z dniem 1 stycznia 2012 r."
+ }
+}

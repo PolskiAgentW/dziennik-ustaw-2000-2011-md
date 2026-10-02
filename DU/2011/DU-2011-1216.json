@@ -1,0 +1,1478 @@
+{
+ "eli": "DU/2011/1216",
+ "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 14 września 2011 r. w sprawie sporządzania pism w formie dokumentów elektronicznych, doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2011/1216/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 września 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie sporządzania pism w formie dokumentów elektronicznych, doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 16 ust. 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "warunki organizacyjno-techniczne doręczania dokumentów elektronicznych, w tym reguły tworzenia elektronicznej skrzynki podawczej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "formę urzędowego poświadczania odbioru dokumentów elektronicznych przez adresatów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "sposób sporządzania i doręczania pism w formie dokumentów elektronicznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "sposób udostępniania kopii dokumentów elektronicznych oraz warunki bezpieczeństwa udostępniania formularzy i wzorów dokumentów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "ePUAP — elektroniczną platformę usług administracji publicznej w rozumieniu art. 3 pkt 13 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "format danych — szczegółowo określony sposób zapisania informacji przeznaczonej do przechowywania w pliku komputerowym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "formularz elektroniczny — graficzny interfejs użytkownika wystawiany przez odpowiednie oprogramowanie służący do przygotowania i wygenerowania dokumentu elektronicznego zgodnego z odpowiadającym mu wzorem dokumentu elektronicznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "identyfikator wzoru — identyfikator jednoznacznie wyróżniający wzór dokumentu elektronicznego spośród innych wzorów dokumentów elektronicznych znajdujących się w centralnym repozytorium, o którym mowa w art. 19b ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "kopia dokumentu elektronicznego — każde, niezależnie od sposobu utrwalenia, powielenie całości treści dokumentu elektronicznego niezapewniające integralności (niezmienności) z pierwowzorem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "minister — ministra właściwego do spraw informatyzacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "p ismo — pismo w formie dokumentu elektronicznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "u stawa — ustawę z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "w izualizacja — prezentację treści dokumentu elektronicznego w formie czytelnej dla człowieka, umożliwiającej zapoznanie się z tą treścią i jej zrozumienie. W szczególności wizualizacja może odbywać się przez wyświetlenie na monitorze ekranowym lub za pomocą wydruku;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "w zór nieelektroniczny — wzór określający wygląd dokumentu w postaci przeznaczonej do utrwalenia i podpisania na papierze, ustalający jego zawartość i układ graficzny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "z akres użytkowy dokumentu elektronicznego — wymaganą zawartość dokumentu elektronicznego niezbędną do załatwienia określonego rodzaju spraw za pomocą tego dokumentu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Warunki organizacyjno-techniczne doręczania dokumentów elektronicznych, sposób doręczania pism, reguły tworzenia elektronicznej skrzynki podawczej i formy poświadczania odbioru dokumentów elektronicznych przez adresatów"
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Podmioty publiczne informują na swoich stronach podmiotowych Biuletynu Informacji Publicznej, zwanego dalej „BIP”, o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "u dostępnionym adresie elektronicznej skrzynki podawczej, podanym w formie identyfikatora URI;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "m aksymalnym rozmiarze dokumentu elektronicznego wraz z załącznikami, wyrażonym w megabajtach, możliwym do doręczenia za pomocą elektronicznej skrzynki podawczej, nie mniejszym niż 5 megabajtów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "z akresach użytkowych dokumentów elektronicznych tworzonych na podstawie wzorów umieszczonych przez te podmioty w centralnym repozytorium lub repozytorium wzorów dokumentów elektronicznych, o którym mowa w art. 19b ust. 5 ustawy, zwanym dalej „lokalnym repozytorium”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "r odzajach informatycznych nośników danych, na których może zostać im doręczony dokument elektroniczny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "r odzajach informatycznych nośników danych, na których może zostać zapisane urzędowe poświadczenie odbioru;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_1/pkt_6",
+       "text": "i nnych wymaganiach określonych przepisami prawa dotyczących doręczania dokumentów elektronicznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Elektroniczne skrzynki podawcze, których adresy zostały udostępnione w BIP, umożliwiają bezpośrednie doręczanie dokumentów elektronicznych zgodnych ze wzorami, o których mowa w § 19 i 27 ust. 1, bez potrzeby korzystania z formularzy elektronicznych powiązanych z tymi skrzynkami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Elektroniczna skrzynka podawcza może przed doręczeniem zapewniać sprawdzenie zgodności dokumentu elektronicznego z formalnymi warunkami przewidzianymi w przepisach prawa, na podstawie których został wydany odpowiedni wzór dokumentu elektronicznego. W przypadku stwierdzenia takich niezgodności nadawca otrzymuje informacje o występujących niezgodnościach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Do całego procesu obsługi doręczeń organy administracji publicznej wykorzystują bezpieczny kanał komunikacji zgodny z aktualną technologią stosowaną w Internecie, określoną przez normy, standardy lub rekomendacje ustanowione przez krajową jednostkę normalizacyjną lub jednostkę normalizacyjną Unii Europejskiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W przypadku gdy w danej sprawie brak jest norm lub standardów, o których mowa w ust. 1, stosuje się standardy uznane na poziomie międzynarodowym, w szczególności opracowane przez:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "Internet Engineering Task Force (IETF) i publikowane w postaci Request For Comments (RFC),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "World Wide Web Consortium (W3C) i publikowane w postaci W3C Recommendation (REC)",
+       "children": [
+        {
+         "type": "text",
+         "text": "— adekwatnie do potrzeb wynikających z realizowanych zadań oraz aktualnie stosowanych technologii informatycznych."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "System teleinformatyczny służący do obsługi doręczeń zapewnia oznaczanie doręczonych dokumentów elektronicznych danymi stwierdzającymi ważność podpisów elektronicznych w momencie ich złożenia i czas ich weryfikacji. Przy dokonywaniu oznaczeń za pomocą systemu teleinformatycznego należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "wykorzystywać moduły kryptograficzne spełniające wymagania zaleceń CEN-CWA 14167-2 lub nowsze, w celu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_5/pkt_1/lit_a",
+       "text": "zapewnienia generowania i przechowywania materiału kryptograficznego służącego do oznaczania danymi stwierdzającymi ważność podpisów elektronicznych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_5/pkt_1/lit_b",
+       "text": "ochrony przed nieuprawnionym dostępem,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_5/pkt_1/lit_c",
+       "text": "zabezpieczenia przed nieuprawnioną ingerencją przez zniszczenie materiału kryptograficznego w przypadku wykrycia takiej ingerencji;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "wykorzystywać urządzenia udostępniające urzędowy koordynowany czas UTC(PL) zgodnie z rozporządzeniem Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 19 marca 2004 r. w sprawie sposobów rozpowszechniania sygnałów czasu urzędowego i uniwersalnego czasu koordynowanego UTC(PL) (Dz. U. Nr 56, poz. 548);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "stosować techniki kryptograficzne zgodnie z udokumentowaną analizą ryzyka.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "System teleinformatyczny służący do obsługi doręczeń automatycznie generuje informację wskazującą, że nie wpłynęło w terminie potwierdzone urzędowe poświadczenie odbioru, o którym mowa w art. 46 § 4 pkt 3 ustawy z dnia 14 czerwca 1960 r. — Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.[^2]) i w art. 152a § 1 ustawy z dnia 29 sierpnia 1997 r. — Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.[^3]), zwane dalej „poświadczeniem doręczenia”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Urzędowe poświadczenie odbioru, o którym mowa w art. 3 pkt 20 ustawy, zwane dalej „poświadczeniem przedłożenia”, oraz potwierdzone i niepotwierdzone poświadczenia doręczeń organ administracji publicznej przechowuje przez co najmniej taki okres, przez jaki jest obowiązany przechowywać pisma, których dotyczą te poświadczenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Minister umożliwia podmiotom publicznym tworzenie elektronicznych skrzynek podawczych na ePUAP.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Utworzenie elektronicznej skrzynki podawczej na ePUAP oznacza upoważnienie ministra do obsługi doręczeń za pomocą ePUAP do pomiotów, o których mowa w ust. 1, i doręczeń realizowanych przez te podmioty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Doręczenia dokonywane za pomocą ePUAP uważa się za dokonane przez podmiot publiczny lub do podmiotu publicznego, który utworzył na ePUAP elektroniczną skrzynkę podawczą. Za pomocą ePUAP możliwe jest przekazywanie doręczanych podmiotowi publicznemu dokumentów elektronicznych do jego systemu teleinformatycznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Pisma skierowane na adres poczty elektronicznej podmiotu publicznego traktuje się jako przesyłki złożone w trybie niewymagającym potwierdzenia wniesienia podania, w szczególności takiego, o którym mowa w art. 63 § 4 ustawy z dnia 14 czerwca 1960 r. — Kodeks postępowania administracyjnego lub w art. 168 § 4 ustawy z dnia 29 sierpnia 1997 r. — Ordynacja podatkowa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "W przypadku gdy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_2/pkt_1",
+       "text": "w przepisach prawa został określony wzór pisma lub wzór nieelektroniczny,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_2/pkt_2",
+       "text": "w centralnym lub lokalnym repozytorium został umieszczony wzór pisma przeznaczony do załatwiania danej sprawy — inny niż ogólny, o którym mowa w § 19",
+       "children": [
+        {
+         "type": "text",
+         "text": "— przesyłki złożone w sposób, o którym mowa w ust. 1, uważa się za wniesione nieskutecznie."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Podmioty publiczne informują w BIP o maksymalnym rozmiarze dokumentu elektronicznego wraz z załącznikami, wyrażonym w megabajtach, możliwym do przesłania za pomocą poczty elektronicznej oraz o adresie poczty elektronicznej, jeżeli taki sposób przesyłania pism został udostępniony.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Dokument elektroniczny doręczany na informatycznym nośniku danych jest przekazywany odbiorcy wraz z tym nośnikiem.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Doręczenie dokumentu elektronicznego na informatycznym nośniku danych może być potwierdzone:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_1/pkt_1",
+       "text": "poświadczeniem przedłożenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_1/pkt_2",
+       "text": "dokumentem w postaci papierowej sporządzonym przez adresata.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "W przypadku, o którym mowa w ust. 1 pkt 1:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_2/pkt_1",
+       "text": "dokument elektroniczny powinien być podpisany podpisem elektronicznym osoby identyfikowanej w sposób określony w art. 20a ust. 1 ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_2/pkt_2",
+       "text": "poświadczenie przedłożenia jest przesyłane na adres poczty elektronicznej wskazany przez doręczającego lub — jeżeli adresat ma takie możliwości techniczne — zapisywane na dodatkowym informatycznym nośniku danych dostarczonym przez doręczającego wraz z nośnikiem, na którym znajduje się doręczany dokument.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "W przypadku, o którym mowa w ust. 1 pkt 2:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_3/pkt_1",
+       "text": "informatyczny nośnik danych powinien być trwale oznakowany w sposób pozwalający na jego jednoznaczną identyfikację;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_3/pkt_2",
+       "text": "jeżeli zachodzi potrzeba przekazania więcej niż jednego pliku, pliki umieszcza się spakowane w jednym pliku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_3/pkt_3",
+       "text": "dokument w postaci papierowej potwierdzający doręczenie zawiera:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_11/ust_3/pkt_3/lit_a",
+         "text": "datę doręczenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_11/ust_3/pkt_3/lit_b",
+         "text": "informację o oznakowaniu, o którym mowa w pkt 1,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_11/ust_3/pkt_3/lit_c",
+         "text": "sumę kontrolną dokumentu elektronicznego zapisanego na załączonym nośniku,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_11/ust_3/pkt_3/lit_d",
+         "text": "informację o zastosowanym algorytmie do obliczenia sumy kontrolnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_11/ust_3/pkt_3/lit_e",
+         "text": "imię, nazwisko i adres wnoszącego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_11/ust_3/pkt_3/lit_f",
+         "text": "nazwę i adres adresata,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_11/ust_3/pkt_3/lit_g",
+         "text": "podpis osoby reprezentującej adresata.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Minister udostępnia na stronie podmiotowej BIP opis:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_1/pkt_1",
+       "text": "zasad tworzenia i oznaczania metadanych opisujących wzór, o których mowa w § 18 pkt 3;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_1/pkt_2",
+       "text": "trybu przekazywania wzorów dokumentów elektronicznych do centralnego repozytorium;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_1/pkt_3",
+       "text": "sposobu oznaczania w pismach w postaci elektronicznej niezbędnych elementów struktury określonych w przepisach wydanych na podstawie art. 5 ust. 2a ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2011 r. Nr 123, poz. 698 i Nr 171, poz. 1016), zwanych dalej „NES”, w taki sposób, aby te elementy struktury dawały się automatycznie wyodrębnić.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "W przypadku zmiany opisu sposobu oznaczania elementów, o których mowa w ust. 1 pkt 3, dotychczasowe wzory dokumentów mogą być stosowane nie dłużej niż przez 6 miesięcy od tej zmiany.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "W przypadku odebrania dokumentu elektronicznego przez elektroniczną skrzynkę podawczą podmiotu publicznego poświadczenie przedłożenia jest automatycznie tworzone i udostępniane nadawcy tego dokumentu przez system teleinformatyczny służący do obsługi doręczeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Za udostępnienie nadawcy poświadczenia przedłożenia uważa się w szczególności jego przekazanie do pozostającej w dyspozycji odbiorcy poświadczenia skrytki w ramach systemu teleinformatycznego podmiotu publicznego służącego do obsługi doręczeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Jeżeli nie jest możliwe udostępnienie automatycznie wytworzonego poświadczenia przedłożenia w sposób, o którym mowa w ust. 2, poświadczenie to wysyłane jest na adres elektroniczny wskazany przez wnoszącego, z tym że może to być:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_3/pkt_1",
+       "text": "a dres poczty elektronicznej albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_3/pkt_2",
+       "text": "i nny adres elektroniczny, pod warunkiem że jest obsługiwany przez system teleinformatyczny służący do obsługi doręczeń.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Poświadczenie doręczenia jest udostępniane przez system informatyczny podmiotu publicznego w celu umożliwienia podpisania tego poświadczenia przez adresata dokumentu elektronicznego i zawiera:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_14/pkt_1",
+     "text": "pełną nazwę podmiotu publicznego, który doręcza dokument elektroniczny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_14/pkt_2",
+     "text": "pełną nazwę podmiotu, któremu podmiot publiczny doręcza dokument elektroniczny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_14/pkt_3",
+     "text": "oznaczenie sprawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_14/pkt_4",
+     "text": "jednoznaczne oznaczenie pisma, którego dotyczy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_14/pkt_5",
+     "text": "w przypadku podpisania poświadczenia doręczenia — datę i czas podpisania rozumiane jako data i czas doręczenia dokumentu elektronicznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Adresat dokumentu elektronicznego potwierdza jego odebranie przez opatrzenie poświadczenia doręczenia podpisem elektronicznym umożliwiającym identyfikację podpisującego w sposób określony w art. 20a ust. 1 lub 2 ustawy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Po opatrzeniu poświadczenia doręczenia podpisem elektronicznym system teleinformatyczny służący do obsługi doręczeń bezpośrednio po zakończeniu procesu weryfikacji podpisu elektronicznego adresata:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_16/pkt_1",
+     "text": "udostępnia adresatowi do pobrania doręczany dokument elektroniczny wraz z podpisanym przez niego poświadczeniem doręczenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_16/pkt_2",
+     "text": "udostępnia organowi doręczającemu podpisane poświadczenie doręczenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Sposób sporządzania pism w formie dokumentów elektronicznych"
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Pisma wnoszone za pomocą elektronicznej skrzynki podawczej sporządza się w formacie danych XML na podstawie wzorów dokumentów elektronicznych umieszczonych w centralnym repozytorium lub lokalnym repozytorium.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Załączniki dodawane do pism zapisuje się w formatach danych i w sposób uwzględniający przepisy wydane na podstawie art. 18 ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "We wzorach dokumentów elektronicznych jest określony zakres użytkowy i sposób wizualizacji dokumentów elektronicznych tworzonych na ich podstawie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Wzór dokumentu elektronicznego przekazywany do centralnego repozytorium zawiera:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_18/pkt_1",
+     "text": "określenie struktury pism tworzonych na podstawie tego wzoru zdefiniowane w formacie danych XSD;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_18/pkt_2",
+     "text": "ustalenie sposobu wizualizacji pism tworzonych na podstawie tego wzoru zdefiniowane w formacie danych XSL;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_18/pkt_3",
+     "text": "metadane opisujące wzór dokumentu elektronicznego określające w szczególności:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_18/pkt_3/lit_a",
+       "text": "twórcę wzoru — rozumianego jako podmiot odpowiedzialny za ten wzór, w tym zgodność wzoru z przepisami prawa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_18/pkt_3/lit_b",
+       "text": "podstawę prawną — w przypadku gdy istnieje przepis prawa wymagający złożenia pisma w określonej formie lub według określonego wzoru,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_18/pkt_3/lit_c",
+       "text": "tytuł wzoru — wskazujący w sposób zwięzły zakres użytkowy dokumentów, które mają być tworzone na podstawie wzoru,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_18/pkt_3/lit_d",
+       "text": "opis — wskazujący zakres stosowania wzoru",
+       "children": [
+        {
+         "type": "text",
+         "text": "— określone w formacie danych XML."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Minister zamieszcza w centralnym repozytorium ogólny wzór elektroniczny przeznaczony do tworzenia pism w postaci elektronicznej wnoszonych za pomocą elektronicznej skrzynki podawczej lub doręczanych przez podmioty publiczne za poświadczeniem doręczenia, w przypadkach gdy łącznie spełnione są następujące warunki:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_19/pkt_1",
+     "text": "w przepisach odrębnych nie został określony organ właściwy do określenia wzoru;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_19/pkt_2",
+     "text": "podmiot publiczny, do którego kierowane jest podanie, żądanie, wyjaśnienie lub inna czynność w postaci elektronicznej, nie określił wzoru dokumentu elektronicznego umożliwiającego załatwienie danej sprawy w tym podmiocie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_19/pkt_3",
+     "text": "przepisy prawa nie wskazują jednoznacznie, że jedynym skutecznym sposobem przekazania informacji jest jej doręczenie na piśmie w postaci papierowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "W ogólnym wzorze elektronicznym, o którym mowa w § 19, w szczególności są wyodrębnione następujące elementy struktury pisma:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_20/ust_1/pkt_1",
+       "text": "r odzaj pisma w zależności od potrzeb, w tym: wniosek, zawiadomienie, decyzja, postanowienie, skarga, stanowiącego dookreślenie typu dokumentu elektronicznego, o którym mowa w NES;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_20/ust_1/pkt_2",
+       "text": "t ytuł odnoszący się do treści pisma, o którym mowa w rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 października 2006 r. w sprawie niezbędnych elementów struktury dokumentów elektronicznych (Dz. U. Nr 206, poz. 1517);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_20/ust_1/pkt_3",
+       "text": "o dbiorca lub odbiorcy pisma — w sposób umożliwiający automatyczne wyodrębnienie następujących cech informacyjnych, jeżeli zostały one podane:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_20/ust_1/pkt_3/lit_a",
+         "text": "nazwa oraz numer REGON podmiotu niebędącego osobą fizyczną, jeżeli odbiorcą nie jest osoba fizyczna,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_20/ust_1/pkt_3/lit_b",
+         "text": "nazwisko i imiona oraz numer PESEL osoby fizycznej, jeżeli odbiorcą jest osoba fizyczna,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_20/ust_1/pkt_3/lit_c",
+         "text": "a dres podmiotu, o którym mowa w lit. a lub b, w tym:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— kod pocztowy,"
+          },
+          {
+           "type": "text",
+           "text": "— miejscowość,"
+          },
+          {
+           "type": "text",
+           "text": "— ulicę,"
+          },
+          {
+           "type": "text",
+           "text": "— budynek,"
+          },
+          {
+           "type": "text",
+           "text": "— lokal;"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_20/ust_1/pkt_4",
+       "text": "twórca lub twórcy pisma — podmiot odpowiedzialny za treść pisma — w sposób umożliwiający automatyczne wyodrębnienie cech informacyjnych, o których mowa w pkt 3, jeżeli zostały one podane.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Ogólny wzór elektroniczny umożliwia formatowanie tekstu pisma, w tym co najmniej wstawianie nowych akapitów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Ustalona struktura pisma, o której mowa w § 18 pkt 1, zapewnia, że pisma powstałe na podstawie danego wzoru zawierają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_21/pkt_1",
+     "text": "jednoznacznie oznaczone niezbędne elementy struktury dokumentów elektronicznych, o których mowa w NES;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_21/pkt_2",
+     "text": "niepowtarzalny identyfikator wzoru, na podstawie którego zostały stworzone.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "W przypadku gdy podpisany i doręczony do podmiotu publicznego lub przez podmiot publiczny dokument elektroniczny jest pismem przeznaczonym do przeczytania przez człowieka, dokument ten powinien być możliwy do zwizualizowania bez potrzeby korzystania z centralnego repozytorium lub lokalnego repozytorium.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Wizualizacja nie musi być identyczna ze wzorem nieelektronicznym, ale musi zawierać dane w układzie niepozostawiającym wątpliwości co do treści i kontekstu zapisanych informacji, w sposób zgodny z tym wzorem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Podmiot publiczny umożliwia nieodpłatnie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_23/pkt_1",
+     "text": "weryfikację zgodności pisma wnoszonego do tego podmiotu lub przez ten podmiot doręczanego, ze wzorem dokumentu elektronicznego oraz weryfikację podpisu osoby, która podpisała pismo;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_23/pkt_2",
+     "text": "weryfikację autentyczności urzędowych poświadczeń odbioru i prezentację czasu ich podpisania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Formularz elektroniczny wpisuje do każdego dokumentu elektronicznego niepowtarzalny identyfikator wzoru, na podstawie którego dokument został stworzony.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Sposób udostępniania kopii dokumentów elektronicznych oraz warunki bezpieczeństwa udostępniania formularzy i wzorów dokumentów"
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "W centralnym repozytorium, o którym mowa w art. 19b ust. 1 ustawy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_25/pkt_1",
+     "text": "umieszcza się wzory pism, o których mowa w art. 19b ust. 2 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_25/pkt_2",
+     "text": "można umieszczać wzory innych dokumentów elektronicznych, w szczególności wzory dokumentów elektronicznych, które nie są pismami, i wzory dokumentów elektronicznych stosowanych w oprogramowaniu interfejsowym systemu teleinformatycznego, o którym mowa w art. 13 ust. 2 pkt 2 lit. a ustawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Lokalne repozytoria zawierają wyłącznie wzory dokumentów elektronicznych, które uprzednio zostały umieszczone w centralnym repozytorium.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_27/ust_1",
+     "text": "W przypadku gdy w przepisach prawa został wskazany organ właściwy do określenia wzoru, organ ten przekazuje do centralnego repozytorium odpowiadający mu wzór dokumentu elektronicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_27/ust_2",
+     "text": "W przypadku gdy w przepisach prawa nie został wskazany organ właściwy do określenia wzoru, wzór dokumentu elektronicznego może przekazać do centralnego repozytorium podmiot określony w art. 2 ustawy, zwany dalej „podmiotem publicznym”, jeżeli w tym wzorze jest określony zakres użytkowy dokumentów elektronicznych właściwych dla załatwiania przez ten podmiot danego rodzaju spraw.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Umieszczenie wzoru pisma w postaci dokumentu elektronicznego w BIP, o czym mowa w art. 19b ust. 3 ustawy, polega na umieszczeniu na stronie podmiotowej BIP odwołania (hiperłącza), w formie identyfikatora URI, do wzoru umieszczonego w centralnym repozytorium lub lokalnym repozytorium.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_29/ust_1",
+     "text": "Wzór dokumentu elektronicznego umieszcza się w centralnym repozytorium na wniosek przedstawiciela podmiotu odpowiedzialnego za wzór i jego zgodność z przepisami prawa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_29/ust_2",
+     "text": "Wniosek, o którym mowa w ust. 1, opatruje się bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_30/ust_1",
+     "text": "Minister określa i umieszcza w centralnym repozytorium wzór dokumentu elektronicznego wniosku, o którym mowa w § 29.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_30/ust_2",
+     "text": "Minister udostępnia na ePUAP formularz elektroniczny umożliwiający złożenie tego wniosku za pomocą środków komunikacji elektronicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_30/ust_3",
+     "text": "Minister umieszcza w BIP odwołanie do formularza elektronicznego, o którym mowa w ust. 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "Jeżeli wniosek o umieszczenie wzoru dokumentu elektronicznego jest:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_31/pkt_1",
+     "text": "z godny ze wzorem,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_31/pkt_2",
+     "text": "p odpisany bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu",
+     "children": [
+      {
+       "type": "text",
+       "text": "— wzór dokumentu elektronicznego umieszcza się w centralnym repozytorium, z zastrzeżeniem § 33."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "Umieszczenie wzoru dokumentu elektronicznego w centralnym repozytorium jest czynnością materialno-techniczną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Centralne repozytorium automatycznie nadaje niepowtarzalny identyfikator wzoru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_32/ust_3",
+     "text": "Opublikowany w centralnym repozytorium wzór dokumentu elektronicznego zawiera, oprócz elementów określonych w § 18:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_32/ust_3/pkt_1",
+       "text": "n iepowtarzalny identyfikator wzoru;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_32/ust_3/pkt_2",
+       "text": "d atę umieszczenia wzoru;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_32/ust_3/pkt_3",
+       "text": "d ane umożliwiające weryfikację integralności i autentyczności wzoru;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_32/ust_3/pkt_4",
+       "text": "i nformację o aktualności wniosku (aktualny czy nieaktualny);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_32/ust_3/pkt_5",
+       "text": "p odpisany wniosek, o którym mowa w § 29.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_33/ust_1",
+     "text": "Minister nie publikuje wzoru dokumentu elektronicznego w centralnym repozytorium, jeżeli wzór:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_33/ust_1/pkt_1",
+       "text": "został przekazany do publikacji przez podmiot nieuprawniony;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_33/ust_1/pkt_2",
+       "text": "nie spełnia wymagań określonych w § 18;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_33/ust_1/pkt_3",
+       "text": "zawiera odwołania inne niż do centralnego repozytorium, z wyłączeniem odwołań do schematów ogłoszonych przez World Wide Web Consortium (W3C).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_33/ust_2",
+     "text": "Minister niezwłocznie przekazuje informacje wnioskodawcy o przyczynach nieopublikowania wzoru.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_34/ust_1",
+     "text": "W centralnym repozytorium są przechowywane i udostępniane wzory dokumentów elektronicznych obecnie obowiązujące oraz wzory, które przestały obowiązywać.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_34/ust_2",
+     "text": "W centralnym repozytorium można umieszczać także wzory, które zaczną obowiązywać po upływie vacatio legis, jakie określono w akcie normatywnym stanowiącym podstawę do określenia wzoru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_34/ust_3",
+     "text": "Centralne repozytorium zapewnia możliwość poprawnej obsługi przechowywanych wzorów, w tym w sytuacji gdy World Wide Web Consortium przestanie udostępniać schematy, na których opierają się te wzory.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "System teleinformatyczny centralnego repozytorium zapewnia integralność, autentyczność i stały dostęp do opublikowanych w nim wzorów dokumentów elektronicznych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_36/ust_1",
+     "text": "Dokumenty elektroniczne udostępnia się z zachowaniem ich integralności, o ile zostały podpisane podpisem elektronicznym, którego ważność w chwili złożenia podpisu może być zweryfikowana przez odbiorcę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_36/ust_2",
+     "text": "Jeżeli nie jest możliwe sprawdzenie przez odbiorcę ważności podpisu w chwili jego złożenia, w celu udostępnienia dokumentu elektronicznego sporządza się jego kopię podpisaną podpisem elektronicznym osoby, która może być zidentyfikowana w sposób określony w art. 20a ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_36/ust_3",
+     "text": "Kopia, o której mowa w ust. 2, składa się z treści udostępnianego dokumentu elektronicznego i elementów informacyjnych określających co najmniej sporządzającego i podpisującego kopię, datę jej sporządzenia oraz nazwę i adres podmiotu, w którym kopia została sporządzona.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "Kopia dokumentu elektronicznego może być sporządzona w postaci uwierzytelnionego wydruku zwizualizowanego pisma, zawierającego w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_37/pkt_1",
+     "text": "jednoznaczny identyfikator tego dokumentu umożliwiający w razie potrzeby odnalezienie pierwowzoru w systemie teleinformatycznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_37/pkt_2",
+     "text": "datę wykonania wydruku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "Organy władzy publicznej wskazują, w zakresie swojej właściwości rzeczowej, miejsce udostępnienia formularzy elektronicznych w BlP.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "System teleinformatyczny centralnego repozytorium jest chroniony przez rozwiązania techniczne i organizacyjne uniemożliwiające zniszczenie lub modyfikację informacji zawartych w centralnym repozytorium przez osoby nieuprawnione.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "Wzory pism i innych dokumentów elektronicznych znajdujące się w centralnym repozytorium oraz formularze elektroniczne, o których mowa w § 38, przechowuje się wieczyście.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Przepisy przejściowe i końcowe"
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "Wzory opublikowane w lokalnych repozytoriach przed dniem wejścia w życie rozporządzenia udostępnia się w tych repozytoriach do czasu umieszczenia ich w centralnym repozytorium, nie dłużej jednak niż przez okres 5 lat od dnia wejścia w życie rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "Umożliwienie odbiorcom wizualizacji pism, o których mowa w § 22 ust. 1, nastąpi nie później niż w terminie 12 miesięcy od daty wejścia w życie rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "Do czasu wejścia w życie przepisów wydanych na podstawie art. 18 ustawy, o których mowa w § 17 ust. 2, do zapisywania załączników dodawanych do pism stosuje się formaty danych określone w załączniku do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "44",
+   "path": "par_44",
+   "text": "Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Prezesa Rady Ministrów z dnia 14 września 2011 r. (poz. 1216)",
+   "body": [
+    {
+     "type": "text",
+     "text": "FORMATY DANYCH, W JAKICH ZAPISUJE SIĘ ZAŁĄCZNIKI DODAWANE DO PISM"
+    },
+    {
+     "type": "text",
+     "text": "Format Zastosowanie formatu Organizacja ustalająca format Norma danych"
+    },
+    {
+     "type": "text",
+     "text": ".doc sformatowany tekst lub Microsoft Corporation sformatowany tekst z grafiką"
+    },
+    {
+     "type": "text",
+     "text": ".docx sformatowany tekst lub Microsoft Corporation sformatowany tekst z grafiką"
+    },
+    {
+     "type": "text",
+     "text": ".gif grafika rastrowa CompuServe"
+    },
+    {
+     "type": "text",
+     "text": ".jpg (.jpeg) grafika rastrowa Joint Photographic Experts Group ISO/IEC 10918"
+    },
+    {
+     "type": "text",
+     "text": ".ods arkusz kalkulacyjny Organization for the Advancement ISO 26300 of Structured Information Standards (OASIS)"
+    },
+    {
+     "type": "text",
+     "text": ".odt sformatowany tekst lub Organization for the Advancement ISO 26300 sformatowany tekst z grafiką of Structured Information Standards (OASIS)"
+    },
+    {
+     "type": "text",
+     "text": ".pdf sformatowany tekst lub Adobe Systems Incorporated ISO/IEC 32000 sformatowany tekst z grafiką"
+    },
+    {
+     "type": "text",
+     "text": ".png grafika rastrowa ISO/IEC 15948"
+    },
+    {
+     "type": "text",
+     "text": ".rtf sformatowany tekst Microsoft Corporation"
+    },
+    {
+     "type": "text",
+     "text": ".svg grafika wektorowa W3C"
+    },
+    {
+     "type": "text",
+     "text": ".tif (.tiff) grafika rastrowa Adobe Systems Incorporated"
+    },
+    {
+     "type": "text",
+     "text": ".txt niesformatowany tekst ISO/IEC 10646"
+    },
+    {
+     "type": "text",
+     "text": ".xls arkusz kalkulacyjny Microsoft Corporation"
+    },
+    {
+     "type": "text",
+     "text": ".xlsx arkusz kalkulacyjny Microsoft Corporation"
+    },
+    {
+     "type": "text",
+     "text": ".xml sformatowany tekst W3C"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 12, poz. 65 i Nr 73, poz. 501, z 2008 r. Nr 127, poz. 817, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131 i Nr 182, poz. 1228 oraz z 2011 r. Nr 112, poz. 654, Nr 185, poz. 1092 i Nr 204, poz. 1195.",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539, z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 254, poz. 1700 oraz z 2011 r. Nr 6, poz. 18, Nr 34, poz. 173, Nr 106, poz. 622 i Nr 186, poz. 1100.",
+  "3": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 57, poz. 355, Nr 127, poz. 858, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 197, poz. 1306 oraz z 2011 r. Nr 34, poz. 173, Nr 75, poz. 398, Nr 106, poz. 622, Nr 134, poz. 781, Nr 171, poz. 1016, Nr 186, poz. 1100 i Nr 199, poz. 1175."
+ }
+}

@@ -1,0 +1,629 @@
+{
+ "eli": "DU/2011/546",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 kwietnia 2011 r. w sprawie zakresu warunków korzystania z elektronicznej platformy usług administracji publicznej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2011/546/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 kwietnia 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zakresu i warunków korzystania z elektronicznej platformy usług administracji publicznej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 19a ust. 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa zakres i warunki korzystania z elektronicznej platformy usług administracji publicznej, zwanej dalej „ePUAP”, w tym:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "zakładanie konta na ePUAP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "sposób prowadzenia katalogu usług na ePUAP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "warunki wymiany informacji między ePUAP a innymi systemami teleinformatycznymi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "administrator podmiotu — użytkownika zarejestrowanego zarządzającego zasobami ePUAP posiadanymi przez podmiot;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "certyfikat — certyfikat w rozumieniu art. 3 pkt 10 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, poz. 1450, z późn. zm.[^3]);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "identyfikator podmiotu — unikalny ciąg znaków alfanumerycznych jednoznacznie identyfikujących podmiot;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "identyfikator użytkownika — unikalny ciąg znaków alfanumerycznych jednoznacznie identyfikujących użytkownika zarejestrowanego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "katalog usług — rejestr zawierający informacje o usługach podmiotów publicznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "konto — profil podmiotu albo użytkownika wraz z zasobami ePUAP przyporządkowanymi do tego podmiotu albo użytkownika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "kwalifikowany certyfikat — kwalifikowany certyfikat w rozumieniu art. 3 pkt 12 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "minister — ministra właściwego do spraw informatyzacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "niezaprzeczalność — brak możliwości zanegowania swego uczestnictwa w całości lub w części wymiany danych przez jeden z podmiotów uczestniczących w tej wymianie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "r ozliczalność działań — funkcję ePUAP umożliwiającą przypisanie w sposób jednoznaczny działania użytkownika lub podmiotu tylko temu użytkownikowi lub podmiotowi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "o znaczanie czasem — funkcję ePUAP umożliwiającą dołączanie do danych w postaci elektronicznej logicznie powiązanych z danymi opatrzonymi podpisem lub poświadczeniem elektronicznym oznaczenia czasu w chwili wykonania takiego dołączenia oraz poświadczenia elektronicznego tak powstałych danych przez ePUAP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "p odmiot — osobę prawną, jednostkę organizacyjną nieposiadającą osobowości prawnej albo podmiot publiczny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "profil podmiotu — dane opisujące podmiot;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_2/pkt_14",
+     "text": "p rofil użytkownika — dane opisujące użytkownika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_2/pkt_15",
+     "text": "u sługa — działanie podmiotu publicznego polegające na wykorzystaniu przez ten podmiot ePUAP do realizacji swoich ustawowych obowiązków;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_2/pkt_16",
+     "text": "u sługodawca — podmiot publiczny świadczący usługi przy użyciu ePUAP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_2/pkt_17",
+     "text": "u stawa — ustawę z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_2/pkt_18",
+     "text": "użytkownik — osobę fizyczną korzystającą z ePUAP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "par_2/pkt_19",
+     "text": "użytkownik zarejestrowany — użytkownika posiadającego konto.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Założenie konta dla użytkownika wymaga podania następujących danych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "imienia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "nazwiska;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "adresu poczty elektronicznej, który użytkownik wskazał jako właściwy do wymiany informacji w ramach ePUAP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "identyfikatora użytkownika.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W celu uwierzytelnienia użytkownik określa hasło. Stopień złożoności hasła kontroluje ePUAP.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "W ePUAP zamiast hasła określonego przez użytkownika możliwe jest uwierzytelnienie przez zastosowanie kwalifikowanego certyfikatu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "W przypadku zmiany danych, o których mowa w ust. 1 pkt 1—3, użytkownik zarejestrowany powinien niezwłocznie dokonać ich zmiany w profilu użytkownika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_3/ust_5",
+     "text": "Użytkownik zarejestrowany może usunąć swoje konto.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_3/ust_6",
+     "text": "W przypadku utraty hasła, o którym mowa w ust. 2, użytkownik może wnioskować, poprzez środek komunikacji wskazany w ePUAP, o przesłanie na adres poczty elektronicznej, o którym mowa w ust. 1 pkt 3, hasła tymczasowego. Użytkownik po uwierzytelnieniu się hasłem tymczasowym określa nowe hasło, którego stopień złożoności kontroluje ePUAP.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Założenie konta dla podmiotu jest dokonywane przez użytkownika zarejestrowanego działającego w imieniu podmiotu i wymaga podania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "nazwy podmiotu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "identyfikatora podmiotu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Użytkownik zarejestrowany, zakładając konto dla podmiotu, staje się administratorem podmiotu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Funkcjonalności podmiotu publicznego na ePUAP stają się dostępne po pozytywnym rozpatrzeniu przez ministra wniosku zawierającego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_3/pkt_1",
+       "text": "oznaczenie organu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_3/pkt_2",
+       "text": "oznaczenie osoby upoważnionej do reprezentacji organu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_3/pkt_3",
+       "text": "dane administratora podmiotu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_3/pkt_4",
+       "text": "informację o posiadaniu uprawnień do potwierdzania profilu zaufanego ePUAP.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Identyfikator użytkownika i identyfikator podmiotu jest wybierany przez użytkownika. Raz nadany identyfikator nie może być nadany ponownie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "W przypadku zmiany danych, o których mowa w ust. 1 pkt 1, użytkownik zarejestrowany działający w imieniu podmiotu powinien niezwłocznie dokonać ich zmiany w profilu podmiotu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_4/ust_6",
+     "text": "Konto podmiotu może usunąć administrator tego podmiotu albo minister na wniosek podmiotu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Użytkownik zarejestrowany może działać w imieniu różnych podmiotów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Rozwiązania techniczne ePUAP zapewniają niezaprzeczalność wystawionych poświadczeń:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "urzędowego poświadczenia odbioru;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "elektronicznego poświadczenia opłaty;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_1/pkt_3",
+       "text": "oznaczania czasem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_1/pkt_4",
+       "text": "weryfikacji podpisu elektronicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_6/ust_1/pkt_5",
+       "text": "weryfikacji zgodności dokumentu elektronicznego z jego wzorem.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Minister informuje na ePUAP o przerwach serwisowych w świadczeniu usług, wynikających z potrzeby dokonywania zmian i ulepszeń, a w przypadku braku takiej możliwości — przez zamieszczenie informacji o takich przerwach w Biuletynie Informacji Publicznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "ePUAP udostępnia katalog usług zawierający informacje o usługach, w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "podstawę prawną usługi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "nazwę usługi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_1/pkt_3",
+       "text": "nazwę usługodawcy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_1/pkt_4",
+       "text": "cel usługi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_7/ust_1/pkt_5",
+       "text": "odbiorców usługi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_7/ust_1/pkt_6",
+       "text": "kategorię usługi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_7/ust_1/pkt_7",
+       "text": "umiejscowienie usługodawcy według podziału administracyjnego kraju.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Wpisów w katalogu usług i ich aktualizacji dokonują usługodawcy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Podmioty publiczne do świadczenia usług w postaci elektronicznej mogą wykorzystywać w szczególności następujące funkcje ePUAP:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "t worzenie i obsługę dokumentów elektronicznych przez osoby fizyczne i podmioty;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "przesyłanie dokumentów elektronicznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_8/pkt_3",
+     "text": "w ymianę danych między ePUAP a innymi systemami teleinformatycznymi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_8/pkt_4",
+     "text": "i dentyfikację użytkowników i rozliczalność ich działań;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_8/pkt_5",
+     "text": "weryfikację podpisu elektronicznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_8/pkt_6",
+     "text": "t worzenie usług podmiotu publicznego lub kilku podmiotów publicznych współdziałających ze sobą, zbudowanych w oparciu o dwie lub więcej usług;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_8/pkt_7",
+     "text": "obsługę płatności elektronicznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_8/pkt_8",
+     "text": "potwierdzanie profilu zaufanego ePUAP.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "ePUAP może wymieniać informacje z innymi systemami teleinformatycznymi podmiotów określonych w art. 2 ust. 1 i 2 ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Do wymiany informacji, o której mowa w ust. 1, mają zastosowanie przepisy wydane na podstawie art. 18 pkt 2 ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Minister zapewnia bezpieczeństwo wymiany informacji, określonej w ust. 1, przez wydanie, na wniosek podmiotu publicznego, certyfikatu dla systemu teleinformatycznego, o którym mowa w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Podmioty publiczne wykorzystujące w dniu wejścia w życie rozporządzenia certyfikaty służące zapewnieniu bezpieczeństwa wymiany informacji, o której mowa w ust. 1, wystąpią do ministra z wnioskiem, o którym mowa w ust. 3, nie później niż 12 miesięcy od dnia wejścia w życie rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Z dniem wejścia w życie rozporządzenia konta założone w ePUAP przed tym dniem stają się kontami w rozumieniu tego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych i Administracji: J. Miller"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej — informatyzacja, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. Nr 216, poz. 1604).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 12, poz. 65 i Nr 73, poz. 501, z 2008 r. Nr 127, poz. 817, z 2009 r. Nr 157, poz. 1241 oraz z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131 i Nr 182, poz. 1228.",
+  "3": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 64, poz. 565, z 2006 r. Nr 145, poz. 1050, z 2009 r. Nr 18, poz. 97 oraz z 2010 r. Nr 40, poz. 230 i Nr 182, poz. 1228."
+ }
+}

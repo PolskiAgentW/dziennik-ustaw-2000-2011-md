@@ -1,0 +1,1555 @@
+{
+ "eli": "DU/2011/1742",
+ "title": "Rozporządzenie Ministra Zdrowia z dnia 23 grudnia 2011 r. w sprawie informacji gromadzonych przez apteki oraz informacji przekazywanych Narodowemu Funduszowi Zdrowia",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2011/1742/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ZDROWIA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 grudnia 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie informacji gromadzonych przez apteki oraz informacji przekazywanych Narodowemu Funduszowi Zdrowia"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 45 ust. 14 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. Nr 122, poz. 696) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "zakres niezbędnych informacji gromadzonych przez apteki i sposób ich rejestrowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "zakres informacji i sposób ich przekazywania Narodowemu Funduszowi Zdrowia, zwanemu dalej „Funduszem”, w tym rodzaje wykorzystywanych nośników informacji oraz wzory komunikatów i dokumentów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Zakres gromadzonych przez apteki i przekazywanych oddziałowi wojewódzkiemu Funduszu informacji zawierających dane o obrocie lekami, środkami spożywczymi specjalnego przeznaczenia żywieniowego, wyrobami medycznymi objętymi refundacją, wynikające ze zrealizowanych recept wystawionych przez osobę uprawnioną, określony dla każdego wydanego opakowania lub części opakowania leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego, obejmuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "identyfikator apteki, na który składają się:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_1/lit_a",
+         "text": "identyfikator oddziału wojewódzkiego Funduszu, właściwego ze względu na siedzibę apteki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_1/lit_b",
+         "text": "dziewięć pierwszych cyfr numeru REGON apteki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_1/lit_c",
+         "text": "identyfikator apteki nadany przez oddział wojewódzki Funduszu;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "kod umowy na realizację recept nadany przez oddział wojewódzki Funduszu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "datę i godzinę realizacji recepty;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "numer nadany recepcie w aptece;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_1/pkt_5",
+       "text": "datę i godzinę wydania leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego — jeżeli jest inna niż data, o której mowa w pkt 3;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_1/pkt_6",
+       "text": "kod typu recepty przyjmujący wartość:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_6/lit_a",
+         "text": "„7” — dla recept na leki lub środki spożywcze specjalnego przeznaczenia żywieniowego sprowadzane z zagranicy dla indywidualnego pacjenta,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_6/lit_b",
+         "text": "„8” — dla recept, których wzór określają przepisy wydane na podstawie art. 45 ust. 5 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2011 r. Nr 277, poz. 1634 i Nr 291, poz. 1707), zwanej dalej „ustawą o zawodach lekarza i lekarza dentysty”,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_6/lit_c",
+         "text": "„9” — dla recept na środki odurzające, substancje psychotropowe lub inne produkty lecznicze, oznaczone symbolem „Rpw”,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_1/pkt_6/lit_d",
+         "text": "„2” — dla recept wystawionych na kuponach dołączanych do dokumentu potwierdzającego uprawnienia do świadczeń opieki zdrowotnej;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/ust_1/pkt_7",
+       "text": "numer recepty lub numer kuponu dołączanego do dokumentu potwierdzającego uprawnienia do świadczeń opieki zdrowotnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/ust_1/pkt_8",
+       "text": "numer:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_8/lit_a",
+         "text": "potwierdzający identyfikację pacjenta, a w przypadku korzystania ze świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, w rozumieniu przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.[^2]), zwanej dalej „ustawą”, numer poświadczenia, o którym mowa w art. 52 ust. 2 pkt 9 ustawy, a w razie braku poświadczenia — numer dokumentu uprawniającego do korzystania ze świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, wystawionego przez instytucję właściwą, albo",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_8/lit_b",
+         "text": "PESEL, a w przypadku dziecka do pierwszego roku życia nieposiadającego numeru PESEL lub niemożności ustalenia tego numeru — numer PESEL jednego z opiekunów, albo",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_8/lit_c",
+         "text": "p aszportu lub innego dokumentu ze zdjęciem potwierdzającego tożsamość — w przypadku cudzoziemca niebędącego osobą uprawnioną do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, a w przypadku osób posiadających Kartę Polaka — numer Karty Polaka;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/ust_1/pkt_9",
+       "text": "identyfikator oddziału wojewódzkiego Funduszu właściwego dla miejsca zamieszkania świadczeniobiorcy albo miejsca pełnienia służby wojskowej, a w przypadku osoby bezdomnej — miejsca zamieszkania osoby uprawnionej albo siedziby świadczeniodawcy, albo symbol instytucji właściwej dla osoby uprawnionej do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_2/ust_1/pkt_10",
+       "text": "wskaźnik dotyczący recepty przyjmujący wartość:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_10/lit_a",
+         "text": "0 — w przypadku gdy na recepcie nie występuje adnotacja „pro auctore” lub „pro familia”,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_10/lit_b",
+         "text": "1 — w przypadku gdy na recepcie występuje adnotacja „pro auctore” lub „pro familia”;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_2/ust_1/pkt_11",
+       "text": "kod uprawnień dodatkowych pacjenta, określony w przepisach wydanych na podstawie art. 45 ust. 5 ustawy o zawodach lekarza i lekarza dentysty, a w przypadku braku takich uprawnień — znak „X”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_2/ust_1/pkt_12",
+       "text": "rodzaj identyfikatora leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego przyjmujący wartość:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_12/lit_a",
+         "text": "0 — dla leku,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_12/lit_b",
+         "text": "1 — dla leku recepturowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_12/lit_c",
+         "text": "2 — dla środka spożywczego specjalnego przeznaczenia żywieniowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_1/pkt_12/lit_d",
+         "text": "3 — dla wyrobu medycznego;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_2/ust_1/pkt_13",
+       "text": "numer kodowy leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego (EAN) lub w przypadku jego braku — globalny numer jednostki handlowej (GTIN) odwzorowany w kodzie kreskowym w systemie GS1, jeżeli jest na opakowaniu lub opakowaniu zbiorczym wyrobu medycznego — jeżeli został nadany;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_2/ust_1/pkt_14",
+       "text": "wskaźnik dotyczący leku przyjmujący wartość:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_14/lit_a",
+         "text": "1 — w przypadku gdy przy leku występuje adnotacja „nie zamieniać” lub „NZ”,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_14/lit_b",
+         "text": "0 — w przypadkach innych niż wymienione w lit. a;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_2/ust_1/pkt_15",
+       "text": "liczbę wydanych opakowań leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_2/ust_1/pkt_16",
+       "text": "cenę detaliczną brutto leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_2/ust_1/pkt_17",
+       "text": "cenę hurtową brutto leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego zakupionego przez aptekę w hurtowni;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "par_2/ust_1/pkt_18",
+       "text": "wartość wydanych opakowań leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "par_2/ust_1/pkt_19",
+       "text": "kod odpłatności za lek, środek spożywczy specjalnego przeznaczenia żywieniowego, wyrób medyczny przyjmujący wartość:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_19/lit_a",
+         "text": "0 — dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego wydanego bezpłatnie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_19/lit_b",
+         "text": "1 — dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego wydanego za odpłatnością ryczałtową,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_19/lit_c",
+         "text": "3 — dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego wydanego za odpłatnością w wysokości 30% limitu finansowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_1/pkt_19/lit_d",
+         "text": "5 — dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego wydanego za odpłatnością w wysokości 50% limitu finansowania;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "par_2/ust_1/pkt_20",
+       "text": "informację, czy wydano odpowiednik:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_20/lit_a",
+         "text": "T — apteka wydała odpowiednik,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_20/lit_b",
+         "text": "N — apteka wydała lek, środek spożywczy specjalnego przeznaczenia żywieniowego, wyrób medyczny zgodnie z preskrypcją;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "21",
+       "path": "par_2/ust_1/pkt_21",
+       "text": "kod EAN (GTIN) odpowiednika leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "22",
+       "path": "par_2/ust_1/pkt_22",
+       "text": "kwotę podlegającą refundacji z tytułu wydanych opakowań leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "23",
+       "path": "par_2/ust_1/pkt_23",
+       "text": "informację o wysokości dopłaty świadczeniobiorcy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "24",
+       "path": "par_2/ust_1/pkt_24",
+       "text": "datę wystawienia recepty;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "25",
+       "path": "par_2/ust_1/pkt_25",
+       "text": "datę realizacji recepty „od dnia”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "26",
+       "path": "par_2/ust_1/pkt_26",
+       "text": "umieszczony na recepcie identyfikator:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_26/lit_a",
+         "text": "o soby uprawnionej, z którą oddział wojewódzki Funduszu zawarł umowę upoważniającą do wystawiania recept refundowanych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_26/lit_b",
+         "text": "świadczeniodawcy, z którym oddział wojewódzki Funduszu zawarł umowę o udzielanie świadczeń opieki zdrowotnej",
+         "children": [
+          {
+           "type": "text",
+           "text": "— stanowiący dziewięć pierwszych cyfr numeru REGON,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_26/lit_c",
+         "text": "o soby uprawionej wystawiającej receptę dla siebie albo dla małżonka, zstępnych lub wstępnych w linii prostej, dla własnego rodzeństwa oraz osób przysposobionych, stanowiący dziewięciocyfrowy numer identyfikacyjny określony w umowie upoważniającej do wystawiania recept refundowanych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "27",
+       "path": "par_2/ust_1/pkt_27",
+       "text": "umieszczony na recepcie numer prawa wykonywania zawodu osoby uprawnionej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Dane, o których mowa w ust. 1, muszą być zgodne z danymi zawartymi na recepcie, stanowiącej podstawę refundacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Wzór budowy komunikatu elektronicznego, o którym mowa w art. 45 ust. 2 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, zwanej dalej „ustawą o refundacji”, określa załącznik nr 1 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Apteka otrzymuje od oddziału wojewódzkiego Funduszu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "komunikat zwrotny, którego wzór określa załącznik nr 2 do rozporządzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "projekt zestawienia zbiorczego recept na leki, środki spożywcze specjalnego przeznaczenia żywieniowego, wyroby medyczne objęte refundacją na podstawie zaakceptowanych recept, zwany dalej „projektem zestawienia zbiorczego”, którego wzór określa załącznik nr 3 do rozporządzenia",
+       "children": [
+        {
+         "type": "text",
+         "text": "— o których mowa w art. 45 ust. 3 pkt 2 ustawy o refundacji."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Na podstawie komunikatu zwrotnego oraz projektu zestawienia zbiorczego apteka dokonuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "zatwierdzenia i przekazuje do oddziału wojewódzkiego Funduszu żądanie rozliczenia zaakceptowanych recept na podstawie otrzymanego projektu zestawienia zbiorczego — w przypadku braku konieczności dokonania korekt, o których mowa w art. 45 ust. 3 pkt 3 ustawy o refundacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "czynności, o których mowa w art. 45 ust. 3 pkt 3 ustawy o refundacji, w przypadku wskazania przez oddział wojewódzki Funduszu błędów albo innych nieprawidłowości w komunikacie zwrotnym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_2/pkt_3",
+       "text": "zatwierdzenia projektu zestawienia zbiorczego, nieuzwględniającego zakwestionowanych recept, poprzez przekazanie żądania rozliczenia zaakceptowanych recept na podstawie otrzymanego projektu zestawienia zbiorczego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Zatwierdzenie, o którym mowa w ust. 2 pkt 1 i 3, skutkuje udostępnieniem aptece uzgodnionego zestawienia zbiorczego, o którym mowa w art. 45 ust. 4 ustawy o refundacji, którego wzór określa załącznik nr 4 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Informacje zgromadzone przez apteki do dnia 31 grudnia 2011 r. są przekazywane do oddziału wojewódzkiego Funduszu na dotychczasowych zasadach.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2012 r.[^3]",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Zdrowia: B.A. Arłukowicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Zdrowia z dnia 23 grudnia 2011 r. (poz. 1742) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "BUDOWA KOMUNIKATU ELEKTRONICZNEGO"
+    },
+    {
+     "type": "text",
+     "text": "Wpisy w kolumnie „Format” oznaczaj :"
+    },
+    {
+     "type": "text",
+     "text": "data – oznacza dat zapisan w postaci RRRR-MM-DD; data+czas - oznacza dat cznie z czasem zapisane w postaci RRRR-MM-DDTHH:MM:SS (gdzie T jest liter rozdzielaj c dat od czasu); rok - oznacza rok zapisany w postaci RRRR; miesi c - oznacza miesi c kalendarzowy zapisany w postaci MM; rok+miesi c - oznacza miesi c roku zapisany w postaci RRRR-MM; liczba (m,n) - oznacza liczb o maksymalnie m cyfrach znacz cych, w tym n cyfr w cz ci u amkowej, oddzielonej znakiem kropki; [wart. dom.] – oznacza tzw. warto domy ln ; je eli dany atrybut nie wyst pi w konkretnym komunikacie, to przyjmuje si , e jego warto jest taka, jak okre lono w specyfikacji struktury komunikatu; do n znaków – oznacza, e warto atrybutu powinna by napisem o d ugo ci od 1 do n znaków; je eli mo liwe jest przes anie jako warto ci ci gu znaków o d ugo ci 0 (tzw. pusty napis), to musi by to zaznaczone w uwagach."
+    },
+    {
+     "type": "text",
+     "text": "Wpisy w kolumnie „Krotno ”: 1z – oznacza, e w konkretnym komunikacie mo e wyst pi tylko jeden z atrybutów lub elementów na tym samym poziomie hierarchii w ramach elementu bezpo rednio nadrz dnego, które oznaczono symbolem “1z”; 0z – oznacza warunek, który spe niaj elementy i atrybuty zgodnie z oznaczeniem „1z” lub, e mo e nie wyst pi aden z nich."
+    },
+    {
+     "type": "text",
+     "text": "Elementy protoko u wymiany danych z realizacji recept lekarskich:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "korekty danych o realizacji przekazanych formatem wymiany danych innym ni 2.0, nale y przekazywa poprzednim formatem wymiany danych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "je eli wyst puje konieczno zmiany jakichkolwiek danych z realizacji recepty (element realizacja i elementy w nim zagnie d one), nale y przekaza ponownie pe en obraz realizacji i zwi kszy warto atrybutu //realizacja/@nr-wersji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "przekazanie realizacji o wy szym numerze wersji powoduje autokorekt danych przekazanych w wersji ni szej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+      },
+      {
+       "type": "text",
+       "text": "0 komunikat 1 G ówny element komunikatu"
+      },
+      {
+       "type": "text",
+       "text": "xmlns 1 sta a Identyfikator http: warto przestrzeni nazw //www.csioz.gov.pl/nfz/xml (domy lny) dla elementów komunikatu okre lonych rozporz dzeniem"
+      },
+      {
+       "type": "text",
+       "text": "typ 1 do 5 Typ komunikatu W przypadku niniejszego znaków (symbol) komunikatu ma warto „LEK”"
+      },
+      {
+       "type": "text",
+       "text": "Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+      },
+      {
+       "type": "text",
+       "text": "wersja 1 do 2 Numer wersji typu W przypadku niniejszego cyfr komunikatu komunikatu ma warto „2.0”"
+      },
+      {
+       "type": "text",
+       "text": "id-odb 1 do 16 Identyfikator Je li odbiorc komunikatu jest znaków podmiotu oddzia wojewódzki Funduszu (instytucji) odbiorcy identyfikatorem tym jest kod komunikatu zgodny z za cznikiem nr 5 do rozporz dzenia Ministra Zdrowia z dnia 20 czerwca 2008 r. w sprawie zakresu niezb dnych informacji, gromadzonych przez wiadczeniodawców, szczegó owego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowi zanym do finansowania wiadcze ze rodków publicznych (Dz. U. Nr 123, poz. 801, z pó n. zm.)"
+      },
+      {
+       "type": "text",
+       "text": "id-inst-odb 0-1 do 38 Identyfikator Je li odbiorc komunikatu jest znaków systemu oddzia wojewódzki Funduszu informatycznego atrybut nie jest przekazywany. odbiorcy Je li odbiorc komunikatu jest komunikatu apteka (np. gdy jest to komunikat potwierdzenia), to jest to identyfikator systemu informatycznego apteki lub podmiotu po rednicz cego, nadany zgodnie z zasadami ustalonymi przez oddzia wojewódzki Funduszu"
+      },
+      {
+       "type": "text",
+       "text": "id-nad 1 do 16 Identyfikator Identyfikator techniczny apteki znaków podmiotu lub podmiotu po rednicz cego, (instytucji) nadawcy uzgodniony z oddzia em komunikatu wojewódzkim Funduszu"
+      },
+      {
+       "type": "text",
+       "text": "id-inst-nad 1 do 38 Identyfikator Identyfikator systemu znaków systemu informatycznego apteki lub informatycznego podmiotu po rednicz cego, nadawcy nadany zgodnie z zasadami komunikatu ustalonymi przez oddzia wojewódzki Funduszu"
+      },
+      {
+       "type": "text",
+       "text": "nr-gen 1 liczba Numer kolejny (8,0) komunikatu danego typu, wygenerowanego z systemu nadawcy"
+      },
+      {
+       "type": "text",
+       "text": "czas-gen 1 data + Data i czas Informacja pomocnicza czas wygenerowania komunikatu"
+      },
+      {
+       "type": "text",
+       "text": "info-aplik- 0-1 do 40 Informacje Informacja pomocnicza - nad znaków pomocnicze o przydatna np. w przypadku systemie problemów z komunikacj . nadawczym Mo e zawiera nazw i numer Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+      },
+      {
+       "type": "text",
+       "text": "generuj cym wersji aplikacji generuj cej komunikat producenta"
+      },
+      {
+       "type": "text",
+       "text": "info- 0-1 do 100 Kontakt do osoby Informacja pomocnicza - kontakt-nad znaków odpowiedzialnej po u atwiaj ca rozwi zanie stronie nadawcy np. ewentualnych problemów. administratora Mo e zawiera numer telefonu, systemu adres poczty elektronicznej"
+      },
+      {
+       "type": "text",
+       "text": "1 apteka 1 Apteka dokonuj ca sprawozdania"
+      },
+      {
+       "type": "text",
+       "text": "id-oddzialu 1 2 cyfry Identyfikator Identyfikator oddzia u oddzia u wojewódzkiego Funduszu (§ 2 wojewódzkiego ust. 1 pkt 1 lit. a Funduszu rozporz dzenia)"
+      },
+      {
+       "type": "text",
+       "text": "id-apteki 1 do 16 Identyfikator apteki Identyfikator apteki nadany znaków przez oddzia wojewódzki Funduszu (§ 2 ust. 1 pkt 1 lit. c rozporz dzenia)"
+      },
+      {
+       "type": "text",
+       "text": "regon 1 9 cyfr Numer REGON Dziewi pierwszych cyfr numeru REGON apteki (§ 2 ust. 1 pkt 1 lit. b rozporz dzenia)"
+      },
+      {
+       "type": "text",
+       "text": "id-inst 1 do 38 Identyfikator Unikalny identyfikator co znaków instalacji systemu najmniej w ramach apteki. informatycznego Identyfikator ten definiuje apteki przestrze unikalno ci dla identyfikatorów technicznych wszystkich obiektów danych tworzonych po stronie apteki i przekazywanych oddzia owi wojewódzkiemu Funduszu"
+      },
+      {
+       "type": "text",
+       "text": "kod-umowy 1 do 24 Kod umowy nadany znaków przez oddzia wojewódzki Fundusz"
+      },
+      {
+       "type": "text",
+       "text": "1 realizacja 1-en Dane o realizacji recept"
+      },
+      {
+       "type": "text",
+       "text": "id-inst 0-1 do 38 Identyfikator Nie wyst puje je li znaków wyró niaj cy identyfikator instalacji jest taki instalacj systemu w sam jak przekazany w aptece, w której atrybucie zosta a //komunikat/apteka/@id-inst zarejestrowana realizacja recepty"
+      },
+      {
+       "type": "text",
+       "text": "id-realizacji 1 do 20 Identyfikator Atrybut techniczny cyfr realizacji recepty pozwalaj cy na synchronizacj danych pomi dzy systemami informatycznymi apteki i oddzia u wojewódzkiego Funduszu"
+      },
+      {
+       "type": "text",
+       "text": "nr-wersji 1 liczba Numer wersji (4,0) (modyfikacji) Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+      },
+      {
+       "type": "text",
+       "text": "danych realizacji recepty"
+      },
+      {
+       "type": "text",
+       "text": "usun 0-1 1 litera danie usuni cia Warto ci: [N] ca ego zestawu T – danie usuni cia wiadcze N – przekazanie danych Je eli atrybut nie wyst puje przyjmuje si , e jego warto wynosi „N”. Usuni cie realizacji recepty blokuje mo liwo dalszego przekazywania danej realizacji z wy szym numerem wersji"
+      },
+      {
+       "type": "text",
+       "text": "mom- 1 data i Data i czas Pomocniczy atrybut techniczny wprow czas pierwszej rejestracji zapewniaj cy spójno danych recepty w systemie po niekontrolowanym apteki przywróceniu przez aptek stanu bazy danych z przesz o ci (np. po awarii)"
+      },
+      {
+       "type": "text",
+       "text": "mom- 1 data i Data i czas ostatniej Pomocniczy atrybut techniczny modyf czas modyfikacji zapewniaj cy spójno danych realizacji recepty w po niekontrolowanym systemie apteki przywróceniu przez aptek stanu bazy danych z przesz o ci (np. po awarii)"
+      },
+      {
+       "type": "text",
+       "text": "2 dane- 0-1 Zestaw danych Element techniczny, realizacji 1z charakteryzuj cy obejmuj cy wszystkie podleg e recept oraz jej elementy, wykorzystywany do realizacj czytelnego wydzielenia informacji. Element nie przekazywany w przypadku usuwania realizacji. Je li atrybut „usun” w elemencie „realizacja” ma warto „T”, to element „danerealizacji” (wraz ze wszystkimi elementami podrz dnymi) nie wyst puje"
+      },
+      {
+       "type": "text",
+       "text": "3 zlecenie 1 Zestaw danych charakteryzuj cych faz wystawiania recepty"
+      },
+      {
+       "type": "text",
+       "text": "numer 1 22 cyfr Numer recepty Numer recepty lub numer kuponu do czonego do dokumentu potwierdzaj cego uprawnienia do wiadcze opieki zdrowotnej (§ 2 ust. 1 pkt 7 rozporz dzenia)"
+      },
+      {
+       "type": "text",
+       "text": "Numery posiadaj ce 20 znaków, nale y poprzedzi dwoma znakami zera"
+      },
+      {
+       "type": "text",
+       "text": "typ 1 1 znak Kod typu recepty Kod typu recepty (§ 2 ust. 1 pkt 6 rozporz dzenia) Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+      },
+      {
+       "type": "text",
+       "text": "Przyjmuje warto ci: 7 – dla recept na leki lub wyroby medyczne sprowadzane z zagranicy dla indywidualnego pacjenta, 8 – dla recept, których wzór okre laj przepisy wydane na podstawie art. 45 ust. 5 ustawy o zawodach lekarza i lekarza dentysty, 9 – dla recept na rodki odurzaj ce, substancje psychotropowe lub inne produkty lecznicze, oznaczone symbolem „Rpw\", 2 – dla recept wystawionych na kuponach do czanych do dokumentu potwierdzaj cego uprawnienia do wiadcze opieki zdrowotnej"
+      },
+      {
+       "type": "text",
+       "text": "data 1 data Data wystawienia Data wystawienia recepty (§ 2 recepty ust. 1 pkt 24 rozporz dzenia)"
+      },
+      {
+       "type": "text",
+       "text": "data-od 0-1 data Data, od której Data realizacji recepty „od mo na realizowa dnia” (§ 2 ust. 1 pkt 25 recept rozporz dzenia)"
+      },
+      {
+       "type": "text",
+       "text": "pro 0-1 1 cyfra Wska nik dotycz cy Okre la, czy recepta zosta a [0] recepty wydana z adnotacj „pro auctore” lub „pro familia” (§ 2 ust. 1 pkt 10 rozporz dzenia)"
+      },
+      {
+       "type": "text",
+       "text": "Przyjmuje warto ci: 0 - w zwyk ym trybie, 1 - z adnotacj „pro auctore” lub „pro familia”"
+      },
+      {
+       "type": "text",
+       "text": "4 komorka-org 1 Dane identyfikuj ce Osoba uprawniona, z któr osob uprawnion oddzia wojewódzki Fundusz albo zawar umow upowa niaj c wiadczeniodawc do wystawiania recept refundowanych albo wiadczeniodawca, z którym oddzia wojewódzki Funduszu zawar umow o udzielanie wiadcze opieki zdrowotnej (§ 2 ust. 1 pkt 26 rozporz dzenia)"
+      },
+      {
+       "type": "text",
+       "text": "regon 1 9 Pierwsze 9 cyfr Je eli na recepcie wyst puje znaków numeru REGON (§ zamiast dziewi ciu pierwszych 2 ust. 1 pkt 26 cyfr numeru REGON rozporz dzenia - dziewi ciocyfrowy numer cz on I) nadany przez oddzia wojewódzki Fundusz, to Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+      },
+      {
+       "type": "text",
+       "text": "przekazuje si go w tym atrybucie"
+      },
+      {
+       "type": "text",
+       "text": "4 lekarz 1 Dane osoby uprawnionej"
+      },
+      {
+       "type": "text",
+       "text": "nr 1 7 cyfr Numer prawa Numer prawa wykonywania wykonywania zawodu osoby uprawnionej (§ zawodu osoby 2 ust. 1 pkt 27 rozporz dzenia) uprawnionej"
+      },
+      {
+       "type": "text",
+       "text": "3 pacjent 1 Zestaw danych zwi zanych z pacjentem, któremu wystawiono recept"
+      },
+      {
+       "type": "text",
+       "text": "4 ubezpieczenie 1"
+      },
+      {
+       "type": "text",
+       "text": "kod- 1 2 znaki Identyfikator oddzialu oddzia u wojewódzkiego Funduszu albo symbol instytucji w a ciwej dla osoby uprawnionej do wiadcze opieki zdrowotnej na podstawie przepisów o koordynacji (§ 2 ust. 1 pkt 9 rozporz dzenia)"
+      },
+      {
+       "type": "text",
+       "text": "4 nr-pacjenta 1 Dane identyfikuj ce pacjenta"
+      },
+      {
+       "type": "text",
+       "text": "typ 1 1 cyfra Rodzaj numeru Przyjmuje warto ci: [5] s u cego do 2 – w przypadku osoby identyfikacji uprawnionej do wiadcze pacjenta opieki zdrowotnej na podstawie przepisów o koordynacji, posiadaj cej po wiadczenie wydane przez oddzia wojewódzki Funduszu; 3 – w przypadku osoby uprawnionej do wiadcze opieki zdrowotnej na podstawie przepisów o koordynacji, posiadaj cej formularz E123 albo E112 albo jeden z dokumentów przeno nych: DA1, S2,S3; 4 – w przypadku osoby uprawnionej do wiadcze opieki zdrowotnej na podstawie przepisów o koordynacji, posiadaj cej Europejsk Kart Ubezpieczenia Zdrowotnego lub Certyfikat Tymczasowo Zast puj cy Europejsk Kart Ubezpieczenia Zdrowotnego Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+      },
+      {
+       "type": "text",
+       "text": "lub dokument SED S045; 5 – numer PESEL lub w przypadku dziecka do pierwszego roku ycia nieposiadaj cego numeru PESEL lub niemo no ci ustalenia tego numeru - numer PESEL jednego z opiekunów; 6 – w przypadku osoby spoza Unii Europejskiej obj tej ubezpieczeniem zdrowotnym w Rzeczypospolitej Polsce, nieposiadaj cej numeru PESEL; 7 – numer Karty Polaka w przypadku osób posiadaj cych Kart Polaka"
+      },
+      {
+       "type": "text",
+       "text": "nr 1 do 20 Numer W przypadku gdy atrybut „typ” znaków potwierdzaj cy przyjmuje odpowiednio identyfikacj warto : pacjenta (§ 2 ust. 1 2 – numer po wiadczenia pkt 8 wydanego przez oddzia rozporz dzenia) wojewódzki Fundusz; 3 – osobisty numer identyfikacyjny wyst puj cy na formularzu E123 lub E112 lub dokumencie przeno nym: DA1, S2, S3; 4 – osobisty numer identyfikacyjny pacjenta wyst puj cy na Europejskiej Karcie Ubezpieczenia Zdrowotnego lub Certyfikacie Tymczasowo Zast puj cym Europejsk Kart Ubezpieczenia Zdrowotnego lub dokumencie SED S045; 5 – numer PESEL lub w przypadku dziecka do pierwszego roku ycia nieposiadaj cego numeru PESEL lub niemo no ci ustalenia tego numeru - numer PESEL jednego z opiekunów; 6 – w przypadku osoby spoza Unii Europejskiej obj tej ubezpieczeniem zdrowotnym w Rzeczypospolitej Polsce, nieposiadaj cej numeru PESEL; 7 – numer Karty Polaka w przypadku osób posiadaj cych Kart Polaka"
+      },
+      {
+       "type": "text",
+       "text": "3 usluga 1 Zestaw danych Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+      },
+      {
+       "type": "text",
+       "text": "zwi zanych z us ug realizacji recepty"
+      },
+      {
+       "type": "text",
+       "text": "rok 1 rok Rok, w którym zawarty jest okres sprawozdawczy"
+      },
+      {
+       "type": "text",
+       "text": "okres 1 do 2 Numer okresu w Przyjmuje warto ci od 1 do 24. cyfr roku Dla realizacji pomi dzy 1 – 15 dniem miesi ca – warto ci nieparzyste, dla realizacji od 16-tego dnia miesi ca – warto ci parzyste. Okres ustalany na podstawie daty w atrybucie //usluga/@data"
+      },
+      {
+       "type": "text",
+       "text": "data 0-1 data i Data i godzina Data i godzina realizacji czas realizacji recepty recepty (§ 2 ust. 1 pkt 3 rozporz dzenia)"
+      },
+      {
+       "type": "text",
+       "text": "Atrybut opcjonalny w przypadku kiedy data realizacji recepty jest równa momentowi wprowadzenia przekazywanemu w atrybucie //dane-realizacji/@momwprow"
+      },
+      {
+       "type": "text",
+       "text": "data-do 0-1 data Data wydania leku Atrybut przekazywany dla leków recepturowych"
+      },
+      {
+       "type": "text",
+       "text": "data-kor 0-1 data Data i czas dokonania korekty"
+      },
+      {
+       "type": "text",
+       "text": "3 lek 1-5 Zestaw danych charakteryzuj cych wydane leki, rodki spo ywcze specjalnego przeznaczenia ywieniowego, wyroby medyczne (dla ka dej pozycji przepisanej przez osob uprawnion )"
+      },
+      {
+       "type": "text",
+       "text": "id-inst 0-1 do 38 Identyfikator Podawany obligatoryjnie, je li znaków wyró niaj cy identyfikator instalacji jest inny instalacj systemu od przekazanego w atrybucie apteki, w której //komunikat/apteka/@id-inst zosta a zarejestrowana niniejsza pozycja"
+      },
+      {
+       "type": "text",
+       "text": "id-lek 1 liczba Jednoznaczny (10,0) identyfikator realizowanego leku, rodka spo ywczego specjalnego Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+      },
+      {
+       "type": "text",
+       "text": "przeznaczenia ywieniowego, wyrobu medycznego, w ramach instalacji apteki"
+      },
+      {
+       "type": "text",
+       "text": "nz 0-1 1 znak Wska nik Wska nik okre laj cy czy [0] odpowiednika osoba uprawniona umie ci a przy leku adnotacj „nie zamienia ” lub „NZ”"
+      },
+      {
+       "type": "text",
+       "text": "Przyjmuje warto ci: 1 – nie mo na zamienia 0 – mo na zamienia"
+      },
+      {
+       "type": "text",
+       "text": "uprawnienie 1 do 6 Kod uprawnie Uprawnienia dodatkowe znaków dodatkowych mog ce wyst pi na recepcie pacjenta przyj ty równocze nie, przy czym przy wydaniu zwykle konkretny lek, rodek danego leku, rodka spo ywczego specjalnego spo ywczego przeznaczenia ywieniowego, specjalnego wyrób medyczny jest przeznaczenia taksowany na podstawie ywieniowego, jednego konkretnego tytu u wyrobu medycznego"
+      },
+      {
+       "type": "text",
+       "text": "odplatnosc 1 1 cyfra Kod odp atno ci za Kod odp atno ci za lek, rodek lek, rodek spo ywczy specjalnego spo ywczy przeznaczenia ywieniowego, specjalnego wyrób medyczny (§ 2 ust. 1 przeznaczenia pkt 19 rozporz dzenia) ywieniowego, wyrób medyczny Przyjmuje warto : 0 – dla leku, rodka spo ywczego specjalnego przeznaczenia ywieniowego, wyrobu medycznego wydanego bezp atnie, 1 – dla leku, rodka spo ywczego specjalnego przeznaczenia ywieniowego, wyrobu medycznego wydanego za odp atno ci rycza tow , 3 – dla leku, rodka spo ywczego specjalnego przeznaczenia ywieniowego, wyrobu medycznego wydanego za odp atno ci w wysoko ci 30 %, limitu finansowania, 5 – dla leku, rodka spo ywczego specjalnego przeznaczenia ywieniowego, wyrobu medycznego wydanego za odp atno ci w wysoko ci 50 % limitu finansowania Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+      },
+      {
+       "type": "text",
+       "text": "zamiennik 0-1 1 znak Informacja o Informacja czy w aptece [N] odpowiedniku wydano odpowiednik (§ 2 ust. 1 pkt 20 rozporz dzenia)"
+      },
+      {
+       "type": "text",
+       "text": "Przyjmuje warto ci: T – apteka wyda a odpowiednik N – apteka wyda a lek, rodek spo ywczy specjalnego przeznaczenia ywieniowego, wyrób medyczny zgodnie z preskrypcj"
+      },
+      {
+       "type": "text",
+       "text": "ean 0-1 do 14 Europejski kod Element przekazywany w cyfr towarowy przypadku wydawania (EAN)/(GTIN) odpowiedników odpowiednika leku, rodka spo ywczego specjalnego przeznaczenia ywieniowego, wyrobu medycznego"
+      },
+      {
+       "type": "text",
+       "text": "4 lek-ean 1-n"
+      },
+      {
+       "type": "text",
+       "text": "id- 0-1 Liczba Jednoznaczny Unikalny w ramach danych opakowania (2,0) identyfikator realizacji wydania opakowania leku, rodka spo ywczego specjalnego przeznaczenia ywieniowego, wyrobu medycznego w ramach realizacji"
+      },
+      {
+       "type": "text",
+       "text": "katalog 1 1 cyfra Rodzaj Rodzaj identyfikatora leku, identyfikatora leku, rodka spo ywczego rodka spo ywczego specjalnego przeznaczenia specjalnego ywieniowego, wyrobu przeznaczenia medycznego (§ 2 ust. 1 pkt 12 ywieniowego, rozporz dzenia) wyrobu medycznego Przyjmuje warto ci: 0 - dla leku 1 – dla leku recepturowego 2 - dla rodka spo ywczego specjalnego przeznaczenia ywieniowego 3 - dla wyrobu medycznego"
+      },
+      {
+       "type": "text",
+       "text": "kod 0-1 13 lub Europejski kod Element nieprzekazywany w 14 cyfr towarowy (EAN)/ przypadku leków (GTIN) recepturowych"
+      },
+      {
+       "type": "text",
+       "text": "ilosc 1 Liczba Liczba wydanych Liczba wydanych opakowa (8,5) opakowa leku, leku, rodka spo ywczego rodka spo ywczego specjalnego przeznaczenia specjalnego ywieniowego, wyrobu Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+      },
+      {
+       "type": "text",
+       "text": "przeznaczenia medycznego (§ 2 ust. 1 pkt ywieniowego, 15 rozporz dzenia) wyrobu medycznego Mo liwo wyst pienia liczb u amkowych do pi ciu cyfr po kropce dziesi tnej"
+      },
+      {
+       "type": "text",
+       "text": "cena-detal 1 liczba Cena detaliczna Cena detaliczna brutto leku, (8,2) brutto leku, rodka rodka spo ywczego spo ywczego specjalnego przeznaczenia specjalnego ywieniowego, wyrobu przeznaczenia medycznego obj tego ywieniowego, refundacj (§ 2 ust. 1 pkt 16 wyrobu medycznego rozporz dzenia) podlegaj cego refundacji"
+      },
+      {
+       "type": "text",
+       "text": "cena- 1 liczba Cena hurtowa brutto Cena hurtowa brutto leku, hurtowa- (8,2) leku, rodka rodka spo ywczego brutto spo ywczego specjalnego przeznaczenia specjalnego ywieniowego, wyrobu przeznaczenia medycznego zakupionego ywieniowego, przez aptek w hurtowni (§ 2 wyrobu medycznego ust. 1 pkt 17 rozporz dzenia)"
+      },
+      {
+       "type": "text",
+       "text": "wartosc 1 liczba Warto wydanych Warto wydanych opakowa (8,2) opakowa leku, leku, rodka spo ywczego rodka spo ywczego specjalnego przeznaczenia specjalnego ywieniowego, wyrobu przeznaczenia medycznego (§ 2 ust. 1 pkt 18 ywieniowego, rozporz dzenia) wyrobu medycznego"
+      },
+      {
+       "type": "text",
+       "text": "refundacja 1 liczba Kwota podlegaj ca Kwota podlegaj ca refundacji z (8,2) refundacji tytu u wydanych opakowa leku, rodka spo ywczego specjalnego przeznaczenia ywieniowego, wyrobu medycznego (§ 2 ust. 1 pkt 22 rozporz dzenia)"
+      },
+      {
+       "type": "text",
+       "text": "oplata- 1 liczba Informacja o Informacja o wysoko ci pacjenta (8,2) faktycznej op acie dop aty wiadczeniobiorcy (§ 2 wniesionej przez ust. 1 pkt 23 rozporz dzenia) nabywc leku, rodka spo ywczego specjalnego przeznaczenia ywieniowego, wyrobu medycznego"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "KOMUNIKAT ZWROTNY"
+    },
+    {
+     "type": "text",
+     "text": "Wpisy w kolumnie “Format” oznaczaj :"
+    },
+    {
+     "type": "text",
+     "text": "data – oznacza dat zapisan w postaci RRRR-MM-DD; data+czas - oznacza dat cznie z czasem zapisane w postaci RRRR-MM-DDTHH:MM:SS (gdzie T jest liter rozdzielaj c dat od czasu); rok - oznacza rok zapisany w postaci RRRR; miesi c - oznacza miesi c kalendarzowy zapisany w postaci MM; rok+miesi c - oznacza miesi c roku zapisany w postaci RRRR-MM; liczba (m,n) - oznacza liczb o maksymalnie m cyfrach znacz cych, w tym n cyfr w cz ci u amkowej, oddzielonej znakiem kropki; [wart. dom.] – oznacza tzw. warto domy ln ; je eli wi c dany atrybut nie wyst pi w konkretnym komunikacie, to przyjmuje si , e jego warto jest taka, jak okre lono w specyfikacji struktury komunikatu; do n znaków – oznacza, e warto atrybutu powinna by napisem o d ugo ci od 1 do n znaków; je eli mo liwe jest przes anie jako warto ci ci gu znaków o d ugo ci 0 (tzw. pusty napis), to musi by to zaznaczone w uwagach."
+    },
+    {
+     "type": "text",
+     "text": "Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+    },
+    {
+     "type": "text",
+     "text": "0 komunikat 1 G ówny element komunikatu"
+    },
+    {
+     "type": "text",
+     "text": "xmlns 1 Sta a Identyfikator http: //www.csioz.gov.pl/nfz/xml warto przestrzeni nazw (domy lny) dla elementów komunikatu okre lonych rozporz dzeniem"
+    },
+    {
+     "type": "text",
+     "text": "typ 1 do 5 Typ komunikatu W przypadku niniejszego znaków (symbol) komunikatu ma warto „ZLEK”"
+    },
+    {
+     "type": "text",
+     "text": "wersja 1 do 2 Numer wersji typu W przypadku niniejszego cyfr komunikatu komunikatu ma warto „2.0”"
+    },
+    {
+     "type": "text",
+     "text": "id-odb 1 do 16 Identyfikator Je li odbiorc komunikatu jest znaków podmiotu oddzia wojewódzki Funduszu, (instytucji) identyfikatorem tym jest kod odbiorcy zgodny z za cznikiem nr 5 do komunikatu rozporz dzenia Ministra Zdrowia z dnia 20 czerwca 2008 r. w sprawie zakresu niezb dnych informacji, gromadzonych przez wiadczeniodawców, szczegó owego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowi zanym do finansowania wiadcze ze rodków publicznych (Dz. U. Nr 123, poz. 801, z pó n. zm.)"
+    },
+    {
+     "type": "text",
+     "text": "id-inst-odb 0-1 do 38 Identyfikator Identyfikator techniczny systemu znaków systemu informatycznego apteki lub informatycznego podmiotu po rednicz cego, nadany Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+    },
+    {
+     "type": "text",
+     "text": "odbiorcy zgodnie z zasadami ustalonymi komunikatu przez oddzia wojewódzki Funduszu"
+    },
+    {
+     "type": "text",
+     "text": "nr-gen-odb 0-1 liczba Numer generacji (8,0) potwierdzanego komunikatu"
+    },
+    {
+     "type": "text",
+     "text": "id-nad 1 do 16 Identyfikator Identyfikator techniczny apteki lub znaków podmiotu podmiotu po rednicz cego, (instytucji) uzgodniony z oddzia em nadawcy wojewódzkim Funduszu komunikatu"
+    },
+    {
+     "type": "text",
+     "text": "id-inst-nad 1 do 38 Identyfikator Identyfikator systemu znaków systemu informatycznego apteki lub informatycznego podmiotu po rednicz cego, nadany nadawcy zgodnie z zasadami ustalonymi komunikatu przez oddzia wojewódzki Fundusz"
+    },
+    {
+     "type": "text",
+     "text": "nr-gen 1 liczba Numer kolejny (8,0) komunikatu danego typu, wygenerowanego z systemu nadawcy"
+    },
+    {
+     "type": "text",
+     "text": "czas-gen 1 data + Data i czas Informacja pomocnicza czas wygenerowania komunikatu"
+    },
+    {
+     "type": "text",
+     "text": "info-aplik- 0-1 do 40 Informacje Informacja pomocnicza u atwiaj ca nad znaków pomocnicze o rozwi zanie ewentualnych systemie problemów. Mo e zawiera nazw i nadawczym numer wersji aplikacji generuj cej generuj cym producenta komunikat"
+    },
+    {
+     "type": "text",
+     "text": "info- 0-1 do 100 Kontakt do osoby Informacja pomocnicza u atwiaj ca kontakt-nad znaków odpowiedzialnej po rozwi zanie ewentualnych stronie nadawcy problemów. Mo e zawiera numer np. administratora telefonu, adres poczty elektronicznej systemu"
+    },
+    {
+     "type": "text",
+     "text": "1 apteka 1 Apteka dokonuj ca sprawozdania"
+    },
+    {
+     "type": "text",
+     "text": "id-apteki 1 do 16 Identyfikator Identyfikator apteki nadany przez znaków apteki oddzia wojewódzki Fundusz (§ 2 ust. 1 pkt 1 lit. c rozporz dzenia)"
+    },
+    {
+     "type": "text",
+     "text": "id-inst 1 do 38 Identyfikator Unikalny co najmniej w ramach znaków instalacji systemu apteki. informatycznego Identyfikator ten definiuje apteki przestrze unikalno ci dla identyfikatorów technicznych wszystkich obiektów danych tworzonych po stronie apteki i przekazywanych oddzia owi wojewódzkiemu Funduszowi"
+    },
+    {
+     "type": "text",
+     "text": "kod-umowy 1 do 24 Kod umowy znaków nadany przez oddzia Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+    },
+    {
+     "type": "text",
+     "text": "wojewódzki Funduszu"
+    },
+    {
+     "type": "text",
+     "text": "1 problem 0-1 Informacja o 1z ewentualnych problemach zwi zanych z przetwarzaniem komunikatu"
+    },
+    {
+     "type": "text",
+     "text": "waga 1 1 znak Waga Warto ci: wskazywanego B - b d - problem powoduj cy problemu odrzucenie danych O - ostrze enie - sygnalizacja potencjalnego problemu I - informacja - dodatkowa informacja od oddzia u wojewódzkiego Funduszu np. sugestia sprawdzenia danych w sytuacji podejrzenia cz sto pope nianego b du"
+    },
+    {
+     "type": "text",
+     "text": "kod 1 do 10 Kod problemu Zestaw kodów ustalany jest przez znaków odbiorc potwierdzanych danych – oddzia wojewódzki Fundusz"
+    },
+    {
+     "type": "text",
+     "text": "opis 1 do 250 Opis problemu znaków"
+    },
+    {
+     "type": "text",
+     "text": "1 potw- 0-1 Element grupuj cy danych 1z potwierdzenia poszczególnych danych przekazanych w komunikacie"
+    },
+    {
+     "type": "text",
+     "text": "2 potw- 0-n Informacja o realizacji przyj ciu lub odrzuceniu wersji danych realizacji"
+    },
+    {
+     "type": "text",
+     "text": "id-inst 0-1 do 38 Id- instalacji znaków systemu informatycznego, w którym zarejestrowano realizacje recepty"
+    },
+    {
+     "type": "text",
+     "text": "id-realizacji 1 do 20 Identyfikator Identyfikator przekazany w cyfr realizacji recepty potwierdzanym komunikacie w atrybucie //komunikat/realizacja/@idrealizacji"
+    },
+    {
+     "type": "text",
+     "text": "nr-wersji 1 liczba Numer wersji Numer przekazany w (4,0) (modyfikacji) potwierdzanym komunikacie w danych realizacji atrybucie recepty //komunikat/realizacja/@idrealizacji"
+    },
+    {
+     "type": "text",
+     "text": "3 problem 0-n Informacja o Nie wyst puje gdy nie ma adnych Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+    },
+    {
+     "type": "text",
+     "text": "ewentualnych problemów w realizacji recepty lub problemach dotycz one poszczególnych zwi zanych z wiadcze ci realizacji recepty"
+    },
+    {
+     "type": "text",
+     "text": "waga 1 1 znak Waga Warto ci: wskazywanego d - problem powoduj cy problemu odrzucenie danych O - ostrze enie - sygnalizacja potencjalnego problemu I - informacja - dodatkowa"
+    },
+    {
+     "type": "text",
+     "text": "wojewódzkiego Funduszu np. sugestia sprawdzenia danych w sytuacji podejrzenia cz sto du"
+    },
+    {
+     "type": "text",
+     "text": "kod 1 do 10 Kod problemu Zestaw kodów ustalany jest przez znaków odbiorc potwierdzanych danych –"
+    },
+    {
+     "type": "text",
+     "text": "opis 1 do 250 Opis problemu znaków"
+    },
+    {
+     "type": "text",
+     "text": "3 potw-lek 0-n Informacja o Mo e nie wyst pi je li wykryto ewentualnych d w danych realizacji (czyli na problemach poziomie nadrz dnym) wyst puj cych w okre lonym leku"
+    },
+    {
+     "type": "text",
+     "text": "id-inst 0-1 do 38 Id- instalacji Podawany obligatoryjnie, je li znaków systemu identyfikator instalacji jest inny od informatycznego, przekazanego w atrybucie w którym //komunikat/apteka/@id-inst zarejestrowano realizacj leku, rodka spo ywczego specjalnego przeznaczenia ywieniowego, wyrobu medycznego"
+    },
+    {
+     "type": "text",
+     "text": "id-lek 1 liczba Identyfikator Przekazany w potwierdzanym (10,0) realizowanego komunikacie w atrybucie leku, //komunikat/realizacja/lek/@id-lek rodka spo ywczego specjalnego przeznaczenia ywieniowego, wyrobu medycznego w ramach instalacji apteki"
+    },
+    {
+     "type": "text",
+     "text": "4 problem 0-n Informacja o Nie wyst puje gdy nie ma adnych ewentualnych problemów dotycz cych tego leku, Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+    },
+    {
+     "type": "text",
+     "text": "problemach rodka spo ywczego specjalnego zwi zanych z przeznaczenia ywieniowego, realizowanym wyrobu medycznego lekiem, rodkiem spo ywczym specjalnego przeznaczenia ywieniowego, wyrobem medycznym"
+    },
+    {
+     "type": "text",
+     "text": "waga 1 1 znak Waga Warto ci: wskazywanego B - b d - problem powoduj cy problemu odrzucenie danych O - ostrze enie - sygnalizacja potencjalnego problemu I - informacja - dodatkowa informacja od oddzia u wojewódzkiego Funduszu, np. sugestia sprawdzenia danych w sytuacji podejrzenia cz sto pope nianego b du"
+    },
+    {
+     "type": "text",
+     "text": "kod 1 do 10 Kod problemu Zestaw kodów ustalany jest przez znaków odbiorc potwierdzanych danych – oddzia wojewódzki Fundusz"
+    },
+    {
+     "type": "text",
+     "text": "opis 1 do 250 Opis problemu znaków"
+    },
+    {
+     "type": "text",
+     "text": "4 potw-lek- 0-n Informacja o Mo e nie wyst pi , je li wykryto ean ewentualnych b d w danych leku, rodku problemach spo ywczego specjalnego wyst puj cych w przeznaczenia ywieniowego, okre lonym wyrobie medycznym (czyli na opakowaniu poziomie nadrz dnym)"
+    },
+    {
+     "type": "text",
+     "text": "id- 0-1 Liczba Jednoznaczny Przekazany w potwierdzanym opakowania (2,0) identyfikator komunikacie w atrybucie wydania //komunikat/realizacja/lek/lekopakowania leku, ean@id-opakowania rodka spo ywczego specjalnego przeznaczenia ywieniowego, wyrobu medycznego w ramach realizacji"
+    },
+    {
+     "type": "text",
+     "text": "5 problem 0-n Informacja o Nie wyst puje gdy nie ma adnych ewentualnych problemów dotycz cych tego problemach opakowania zwi zanych z realizowanym opakowaniem"
+    },
+    {
+     "type": "text",
+     "text": "waga 1 1 znak Waga Warto ci: wskazywanego B - b d - problem powoduj cy problemu odrzucenie danych Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+    },
+    {
+     "type": "text",
+     "text": "O - ostrze enie - sygnalizacja potencjalnego problemu I - informacja - dodatkowa informacja od oddzia u wojewódzkiego Funduszu np. sugestia sprawdzenia danych w sytuacji podejrzenia cz sto pope nianego b du"
+    },
+    {
+     "type": "text",
+     "text": "kod 1 do 10 Kod problemu Zestaw kodów ustalany jest przez znaków odbiorc potwierdzanych danych – oddzia wojewódzki Funduszu"
+    },
+    {
+     "type": "text",
+     "text": "opis 1 do 250 Opis problemu znaków"
+    },
+    {
+     "type": "text",
+     "text": "Dodatkowe uwagi:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Pierwszym etapem weryfikacji jest kontrola zgodno ci przekazanego komunikatu ze schematem XML (XML Schema). W razie stwierdzenia jakiejkolwiek niezgodno ci z formatem odrzucany jest ca y komunikat – nie s analizowane adne pozycje komunikatu. Fundusz opublikuje schemat XML, który jest wykorzystywany na tym etapie weryfikacji, tak by dostawcy oprogramowania mogli sprawdzi poprawno generowanego komunikatu we w asnym zakresie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Je li stwierdzono b d na poziomie komunikatu lub sprawozdania, to odrzucane jest ca e sprawozdanie",
+     "children": [
+      {
+       "type": "text",
+       "text": "– nie s analizowane adne pozycje sprawozdania."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Je li zostanie stwierdzony b d w pozycji sprawozdania (elemencie mz:pozycja komunikatu ród owego), to do apteki mo e by przekazana informacja o lokalizacji b du nawet z dok adno ci do opakowania (w zale no ci od miejsca wyst pienia b du), jednak e jako b dna traktowana jest zawsze ca a pozycja sprawozdania (recepta). Po stwierdzeniu b du dalsze elementy tej pozycji sprawozdania mog nie by analizowane. Przyk ad: po stwierdzeniu b du w numerze prawa wykonywania zawodu osoby uprawnionej (b d na poziomie recepty) nie s sprawdzane poprawno ci numerów EAN wydanych opakowa leków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Komunikat zwrotny mo e s u y do przekazania informacji o problemach znalezionych na etapie weryfikacji danych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "PROJEKT ZESTAWIENIA ZBIORCZEGO RECEPT NA LEKI, RODKI SPOZYWCZE SPECJALNEGO PRZEZNACZENIA YWIENIOWEGO, WYROBY MEDYCZNE"
+    },
+    {
+     "type": "text",
+     "text": "Podmiot prowadz cy aptek (nazwa i adres siedziby) ……………………………..………………….……………………………………………….... Nazwa i adres apteki……………………………………………………………………………. REGON:…………………………....… NIP: ………………………………………….………. Identyfikator apteki ……………………………(nadany przez oddzia wojewódzki Funduszu) Numer ewidencyjny apteki…………………….(nadany przez oddzia wojewódzki Funduszu)"
+    },
+    {
+     "type": "text",
+     "text": "Podmiot zobowi zany do finansowania wiadcze ze rodków publicznych (nazwa i adres) ………………………………………………………………………………………………….."
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "ZESTAWIENIE ZBIORCZE RECEPT NA LEKI, RODKI SPO YWCZE SPECJALNEGO PRZEZNACZENIA YWIENIOWEGO, WYROBY MEDYCZNE OBJ TE REFUNDACJ"
+    },
+    {
+     "type": "text",
+     "text": "KOREKTA* - NR ……. CZ A"
+    },
+    {
+     "type": "text",
+     "text": "Zrealizowanych w okresie od ……………………..……… do ……………………………… w oddziale wojewódzkim Funduszu…………………….……………………………………** dla osób uprawnionych zgodnie z przepisami ustawy z dnia 27 sierpnia 2004 r. o wiadczeniach opieki zdrowotnej finansowanych ze rodków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z pó n. zm.)"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Typ Rodzaj Liczba pozycji Warto leków, Dop ata Kwota recepty uprawnie leków, rodków rodków wniesiona podlegaj ca"
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Z IW 10. Z ZK 11. Z AZ 12. Z PO 13. Z WP 14. N B 15. N R 16. N 30 17. N 50 18. N CN 19. N DN 20. N IN 21. N IB 22. N IW 23. N ZK 24. N AZ 25. N PO 26. N WP 27 I Razem: ***",
+     "children": [
+      {
+       "type": "text",
+       "text": "Do zap aty s ownie: …………………………………………………………………………... Data sporz dzenia zestawienia: ……………………………………………………………....."
+      },
+      {
+       "type": "text",
+       "text": "„O wiadczam, e wy ej wymieniona kwota wynika z tre ci recept podlegaj cych refundacji, wystawionych i zrealizowanych zgodnie z odr bnymi przepisami oraz z tre ci innych dokumentów fiskalno-ksi gowych, w szczególno ci paragonów fiskalnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "……………………………………… …………………………………….” imi , nazwisko i podpis w a ciciela apteki imi , nazwisko i podpis kierownika apteki (je eli w a cicielem nie jest kierownik apteki) CZ B Zrealizowanych w okresie od ………………………………. do …………………………… w oddziale wojewódzkim Funduszu…………….……………………………………………** dla osób uprawnionych do wiadcze opieki zdrowotnej na podstawie przepisów o koordynacji",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Lp. Symbol Numer Liczba Liczba Warto leków, rodków Dop ata Kwota instytucji dokumentu recept pozycji spo ywczych specjalnego wniesiona podlegaj ca w a ciwej potwierdzaj cy przeznaczenia przez refundacji identyfikacje ywieniowego, wyrobów osob pacjenta medycznych uprawnion zrealizowanych na do podstawie recept wiadcze opieki zdrowotnej na podstawie przepisów o koordynacji 1 2 3 4 5 6 7 8 Razem:"
+      },
+      {
+       "type": "text",
+       "text": "Do zap aty s ownie: …………………………………………………………………………... Data sporz dzenia zestawienia: ……………………………………………………………....."
+      },
+      {
+       "type": "text",
+       "text": "„O wiadczam, e wy ej wymieniona kwota wynika z tre ci recept podlegaj cych refundacji, wystawionych i zrealizowanych zgodnie z odr bnymi przepisami oraz z tre ci innych dokumentów fiskalno-ksi gowych, w szczególno ci paragonów fiskalnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "…………………………………………… ………………………………………”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "imi , nazwisko i podpis w a ciciela apteki imi , nazwisko i podpis kierownika apteki (je eli w a cicielem nie jest kierownik apteki) Obja nienia: Cz A zestawienia wype nia si w przypadku realizacji wiadcze dla wiadczeniobiorców, cz B wtedy, gdy zosta y zrealizowane wiadczenia dla osób uprawionych do wiadcze opieki zdrowotnej na podstawie przepisów o koordynacji. Do oddzia u wojewódzkiego Funduszu jest przekazywana tylko wype niona cz zestawienia."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Apteki przekazuj komunikat elektroniczny do oddzia u wojewódzkiego Funduszu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Identyfikator apteki, na który sk adaj si :",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "identyfikator oddzia u wojewódzkiego Funduszu w a ciwego ze wzgl du na siedzib apteki;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "dziewi pierwszych cyfr numeru REGON apteki;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "identyfikator apteki nadany przez oddzia wojewódzki Funduszu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wyraz „korekta” oznaczony „*” wyst puje wy cznie w przypadku projektu zestawienia zbiorczego zawieraj cego informacje koryguj ce, dotycz ce przekazanego poprzednio projektu zestawienia zbiorczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "W polu oznaczonym „**” wpisuje si nazw w a ciwego oddzia u wojewódzkiego Funduszu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "W ostatnim wierszu tabeli w pole oznaczone „***” wpisuje si sumaryczn liczb recept, których dotyczy zestawienie zbiorcze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "„Liczba pozycji” oznacza liczb przepisanych na recepcie i zrealizowanych w aptece pozycji leków, rodków spo ywczych specjalnego przeznaczenia ywieniowego, wyrobów medycznych obj tych refundacj .",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Symbole oznaczaj ce typy recept: Z – recepty wystawiane na drukach, których wzór okre laj przepisy wydane na podstawie art. 45 ust. 5 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2008 r. Nr 136, poz. 857, z pó n. zm.), N – recepty na rodki odurzaj ce, substancje psychotropowe lub inne leki oznaczone symbolem „Rpw”, których wzór okre laj przepisy wydane na podstawie art. 45 ust. 5 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, I – recepty na leki , rodki spo ywcze specjalnego przeznaczenia ywieniowego sprowadzane z zagranicy dla indywidualnego pacjenta na zasadach okre lonych w art. 4 ustawy z dnia 6 wrze nia 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z pó n. zm.) albo w art. 29a ustawy z dnia 25 sierpnia 2006 r. o bezpiecze stwie ywno ci i ywienia (Dz. U. z 2010 r. Nr 136, poz. 914, z pó n. zm.)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Symbole oznaczaj ce rodzaje uprawnie pacjenta i poziomy odp atno ci, uwzgl dnione przy wydaniu, umieszczone w wykazach refundowanych leków, rodków spo ywczych specjalnego przeznaczenia ywieniowego, wyrobów medycznych: B – wydawane bezp atnie, R – wydawane za odp atno ci rycza tow , 30 – za odp atno ci w wysoko ci 30 % limitu finansowania, 50 – za odp atno ci w wysoko ci 50 % limitu finansowania, CN – leki wydane osobom posiadaj cym uprawnienia okre lone w art. 2 ust. 1 pkt 3 ustawy z dnia 27 sierpnia 2004 r. o wiadczeniach opieki zdrowotnej finansowanych ze rodków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z pó n. zm.), tj. posiadaj cym obywatelstwo polskie i miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, b d cym w okresie ci y, porodu i po ogu, DN – leki wydane osobom posiadaj cym uprawnienia okre lone w art. 2 ust. 1 pkt 3 ustawy z dnia 27 sierpnia 2004 r. o wiadczeniach opieki zdrowotnej finansowanych ze rodków publicznych tj. posiadaj cym obywatelstwo polskie i miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, które nie uko czy y 18 roku ycia, IN – leki wydane osobom posiadaj cym uprawnienia okre lone w art. 12 ustawy z dnia 27 sierpnia 2004 r. o wiadczeniach opieki zdrowotnej finansowanych ze rodków publicznych, IB – leki wydane osobom posiadaj cym uprawnienia okre lone w art. 46 ustawy z dnia 27 sierpnia 2004 r. o wiadczeniach opieki zdrowotnej finansowanych ze rodków publicznych, IW – leki wydane osobom posiadaj cym uprawnienia okre lone w art. 45 ustawy z dnia 27 sierpnia 2004 r. o wiadczeniach opieki zdrowotnej finansowanych ze rodków publicznych, ZK – leki wydane osobom posiadaj cym uprawnienia okre lone w art. 43 ustawy z dnia 27 sierpnia 2004 r. o wiadczeniach opieki zdrowotnej finansowanych ze rodków publicznych, AZ – leki wydane osobom posiadaj cym uprawnienia okre lone w art. 7a ustawy z dnia 19 czerwca 1997 r. o zakazie stosowania wyrobów zawieraj cych azbest (Dz. U. z 2004 r. Nr 3, poz. 20, z pó n. zm.), PO – leki wydane osobom okre lonym w art. 44 ustawy z dnia 27 sierpnia 2004 r. o wiadczeniach opieki zdrowotnej finansowanych ze rodków publicznych, WP – leki wydane osobom, o których mowa w art. 56a, art. 161 ust. 1, art. 170 ust. 1 i art. 206 ust. 1 ustawy z dnia 21 listopada 1967 r. o powszechnym obowi zku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z pó n. zm.).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "KOMUNIKAT ELEKTRONICZNY ZAWIERAJ CY UZGODNIONE ZESTAWIENIE ZBIORCZE"
+    },
+    {
+     "type": "text",
+     "text": "Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+    },
+    {
+     "type": "text",
+     "text": "0 komunikat 1 G ówny element komunikatu"
+    },
+    {
+     "type": "text",
+     "text": "xmlns 1 Sta a Identyfikator http: warto przestrzeni nazw //www.csioz.gov.pl/nfz/xml (domy lny) dla elementów komunikatu okre lonych rozporz dzeniem"
+    },
+    {
+     "type": "text",
+     "text": "typ 1 do 5 Typ komunikatu W przypadku niniejszego znaków (symbol) komunikatu ma warto „LEKZB”"
+    },
+    {
+     "type": "text",
+     "text": "wersja 1 do 2 cyfr Numer wersji typu W przypadku niniejszego komunikatu komunikatu ma warto „2.0”"
+    },
+    {
+     "type": "text",
+     "text": "id-odb 1 do 16 Identyfikator Je li odbiorc komunikatu jest znaków odbiorcy Fundusz, identyfikatorem tym komunikatu jest kod zgodny z za cznikiem nr 5 do rozporz dzenia Ministra Zdrowia z dnia 20 czerwca 2008 r. w sprawie zakresu niezb dnych informacji, gromadzonych przez wiadczeniodawców, szczegó owego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowi zanym do finansowania wiadcze ze rodków publicznych (Dz. U. Nr 123, poz. 801, z pó n. zm.). Je li odbiorc komunikatu jest wiadczeniodawca (np. gdy jest to komunikat potwierdze danych), to jest to identyfikator techniczny wiadczeniodawcy lub podmiotu po rednicz cego, uzgodniony z oddzia em wojewódzkim Funduszu"
+    },
+    {
+     "type": "text",
+     "text": "id-nad 1 do 16 Identyfikator Odpowiednio, jak dla atrybutu znaków nadawcy id-odb komunikatu"
+    },
+    {
+     "type": "text",
+     "text": "nr-gen 1 liczba Numer kolejny (8,0) komunikatu danego typu, wygenerowanego z systemu nadawcy Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+    },
+    {
+     "type": "text",
+     "text": "(id-nad)"
+    },
+    {
+     "type": "text",
+     "text": "czas-gen 1 data+czas Data i godzina wygenerowania komunikatu"
+    },
+    {
+     "type": "text",
+     "text": "info-aplik- 0-1 do 40 Informacje Informacja pomocnicza, nad znaków pomocnicze o przydatna np. w przypadku systemie problemów z komunikacj . nadawczym Mo e zawiera nazw i numer generuj cym wersji aplikacji generuj cej komunikat producenta"
+    },
+    {
+     "type": "text",
+     "text": "info- 0-1 do 100 Kontakt do osoby Informacja pomocnicza, kontakt-nad znaków odpowiedzialnej u atwiaj ca rozwi zanie po stronie nadawcy ewentualnych problemów. np. administratora Mo e zawiera numer telefonu, systemu adres poczty elektronicznej"
+    },
+    {
+     "type": "text",
+     "text": "1 apteka"
+    },
+    {
+     "type": "text",
+     "text": "id-apteki 1 do 16 Identyfikator Identyfikator apteki nadany znaków apteki przez oddzia wojewódzki Funduszu (§ 2 ust. 1 pkt 1 lit. c rozporz dzenia)"
+    },
+    {
+     "type": "text",
+     "text": "kod-umowy 1 do 24 Kod umowy znaków nadany przez oddzia wojewódzki Funduszu"
+    },
+    {
+     "type": "text",
+     "text": "2 zestawienie- 1 Element opisuj cy refundacyjne zestawienie refundacyjne"
+    },
+    {
+     "type": "text",
+     "text": "wersja 1 do 3 cyfr Okre la wzór Numer kolejny projektu zestawienia zestawienia zbiorczego zbiorczego, któremu odpowiada ten rachunek"
+    },
+    {
+     "type": "text",
+     "text": "rok 1 rok Rok, w którym zawarty jest okres sprawozdawczy"
+    },
+    {
+     "type": "text",
+     "text": "numer 1 do 2 cyfr Numer okresu w Przyjmuje warto ci od 1 do 24. roku Data realizacji pomi dzy 1 – 15 dniem miesi ca – warto ci nieparzyste, dla realizacji od 16- tego dnia miesi ca – warto ci parzyste"
+    },
+    {
+     "type": "text",
+     "text": "id-szablonu 1 liczba Unikalny kod Podczas wystawiania (12,0) szablonu nadany rachunków nale y wskaza przez oddzia szablon, na podstawie którego wojewódzki utworzono rachunek. Powo anie Funduszu na konkretny szablon zapewnia jednoznaczne powi zanie pozycji rachunku z pozycjami raportu statystycznego Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+    },
+    {
+     "type": "text",
+     "text": "id- 0-1 liczba Identyfikator szablonu- (12,0) szablonu kor korygowanego (podawany gdy wystawiony dokument ma by korekt do zestawienia refundacyjnego)"
+    },
+    {
+     "type": "text",
+     "text": "typ-dok 1 1 znak Typ dokumentu do Warto ci: wystawienia 1 – zestawienie refundacyjne 2 – korekta zestawienia refundacyjnego"
+    },
+    {
+     "type": "text",
+     "text": "3 czesc-zest 1-2 Opisuje cz zbiorczego zestawienia refundacyjnego wed ug obowi zuj cego wzoru"
+    },
+    {
+     "type": "text",
+     "text": "typ 1 1 du a Okre la cz A – cz A litera zestawienia B – cz B"
+    },
+    {
+     "type": "text",
+     "text": "liczba- 1 liczba Sumaryczne lekow (8,0) zestawienie liczby leków"
+    },
+    {
+     "type": "text",
+     "text": "liczba- 1 liczba Sumaryczne recept (8,0) zestawienie liczby recept"
+    },
+    {
+     "type": "text",
+     "text": "wartosc 1 liczba Warto leków (10,2) zrealizowanych na podstawie recept"
+    },
+    {
+     "type": "text",
+     "text": "oplata 1 liczba Informacja o (10,2) faktycznej op acie wniesionej przez nabywc leku, rodka spo ywczego specjalnego przeznaczenia ywieniowego, wyrobu medycznego"
+    },
+    {
+     "type": "text",
+     "text": "refundacja 1 liczba Kwota podlegaj ca (10,2) refundacji z tytu u wydanych opakowa leku, rodka spo ywczego specjalnego przeznaczenia ywieniowego, wyrobu Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+    },
+    {
+     "type": "text",
+     "text": "medycznego"
+    },
+    {
+     "type": "text",
+     "text": "4 pozycja-zb 1-n Opisuje pozycje zestawienia refundacyjnego"
+    },
+    {
+     "type": "text",
+     "text": "lp 1 do 2 cyfr Pozycja zestawienia wed ug obowi zuj cego wzoru"
+    },
+    {
+     "type": "text",
+     "text": "typ-recepty 1 1 znak Kod typu recepty Jedna z warto ci: Z, N, I"
+    },
+    {
+     "type": "text",
+     "text": "uprawnienie 1 do 4 Kod uprawnie Uprawnienia dodatkowe du ych dodatkowych mog ce wyst pi na recepcie liter pacjenta przyj ty równocze nie, przy czym przy wydaniu zwykle konkretny lek danego leku, taksowany jest na podstawie rodka jednego konkretnego tytu u spo ywczego specjalnego przeznaczenia ywieniowego, wyrobu medycznego"
+    },
+    {
+     "type": "text",
+     "text": "odplatnosc 0-1 do 2 Kod odp atno ci za Kod odp atno ci za lek, rodek znaków lek, rodek spo ywczy specjalnego spo ywczy przeznaczenia ywieniowego, specjalnego wyrób medyczny (§ 2 ust. 1 pkt przeznaczenia 19 rozporz dzenia) ywieniowego, wyrób medyczny"
+    },
+    {
+     "type": "text",
+     "text": "liczba- 1 liczba Liczba pozycji lekow (8,0) leków, rodków spo ywczych specjalnego przeznaczenia ywieniowego, wyrobów medycznych"
+    },
+    {
+     "type": "text",
+     "text": "wartosc 1 liczba Warto leków, (10,2) rodków spo ywczych specjalnego przeznaczenia ywieniowego, wyrobów medycznych zrealizowanych na podstawie recept"
+    },
+    {
+     "type": "text",
+     "text": "oplata 1 liczba Informacja o (10,2) faktycznej op acie wniesionej przez nabywc leku, rodka Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+    },
+    {
+     "type": "text",
+     "text": "spo ywczego specjalnego przeznaczenia ywieniowego, wyrobu medycznego"
+    },
+    {
+     "type": "text",
+     "text": "refundacja 1 liczba Kwota podlegaj ca (10,2) refundacji z tytu u wydanych opakowa leku, rodka spo ywczego specjalnego przeznaczenia ywieniowego, wyrobu medycznego"
+    },
+    {
+     "type": "text",
+     "text": "5 leki 1-n Opisuje pozycje recept, które sk adaj si na dan pozycj sprawozdania refundacyjnego"
+    },
+    {
+     "type": "text",
+     "text": "id-inst 0-1 do 38 Identyfikator Identyfikator przekazany w znaków wyró niaj cy komunikacie LEK 2.0 w instalacj systemu atrybucie apteki, w której //komunikat/realizacja/danezarejestrowano lek, realizacji/lek/@id-inst rodek spo ywczego specjalnego przeznaczenia ywieniowego, wyrób medyczny"
+    },
+    {
+     "type": "text",
+     "text": "id-lek 1 liczba Jednoznaczny Identyfikator przekazany w (10,0) identyfikator komunikacie LEK 2.0 w realizowanego atrybucie leku, //komunikat/realizacja/danerodka realizacji/lek/@id-lek spo ywczego specjalnego przeznaczenia ywieniowego, wyrobu medycznego w ramach instalacji apteki"
+    },
+    {
+     "type": "text",
+     "text": "id- 0-1 Liczba Jednoznaczny Identyfikator przekazany w opakowania (2,0) identyfikator komunikacie LEK 2.0 w wydania atrybucie opakowania w //komunikat/realizacja/daneramach leku, realizacji/lek/lek-ean/@idrodka opakowania spo ywczego Poziom w Element Atrybut Krot- Format Opis Dodatkowe wyja nienia, hierarchii no [wart. ograniczenia i zale no ci dom.]"
+    },
+    {
+     "type": "text",
+     "text": "specjalnego przeznaczenia ywieniowego, wyrobu medycznego i instalacji systemu apteki"
+    },
+    {
+     "type": "text",
+     "text": "refundacja 1 liczba Kwota podlegaj ca (8,2) refundacji z tytu u wydanych opakowa leku, rodka spo ywczego specjalnego przeznaczenia ywieniowego, wyrobu medycznego (§ 2 ust. 1 pkt 15 rozporz dzenia)"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Zdrowia kieruje działem administracji rządowej — zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. Nr 248, poz. 1495 i Nr 284, poz. 1672).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378.",
+  "3": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 28 września 2004 r. w sprawie zakresu niezbędnych informacji gromadzonych i przekazywanych przez apteki podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych (Dz. U. Nr 213, poz. 2167, z 2007 r. Nr 97, poz. 647, z 2008 r. Nr 160, poz. 996 oraz z 2011 r. Nr 57, poz. 297), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. Nr 122, poz. 696). pacjenta spo ywczych spo ywczych przez refundacji specjalnego specjalnego wiadczeniobiorc przeznaczenia przeznaczenia ywieniowego, ywieniowego, wyrobów wyrobów medycznych medycznych zrealizowanych na podstawie recept 1 2 3 4 5 6 7 1. Z B 2. Z R 3 Z 30 4. Z 50 5. Z CN 6. Z DN 7. Z IN 8. Z IB"
+ }
+}

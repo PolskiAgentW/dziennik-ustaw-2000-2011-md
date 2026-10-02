@@ -1,0 +1,853 @@
+{
+ "eli": "DU/2011/1642",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 listopada 2011 r. w sprawie bazy danych obiektów topograficznych oraz bazy danych obiektów ogólnogeograficznych, a także standardowych opracowań kartograficznych",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2011/1642/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 listopada 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie bazy danych obiektów topograficznych oraz bazy danych obiektów ogólnogeograficznych, a także standardowych opracowań kartograficznych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 19 ust. 1 pkt 9 ustawy z dnia 17 maja 1989 r. — Prawo geodezyjne i kartograficzne (Dz. U. z 2010 r. Nr 193, poz. 1287) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "zakres informacji gromadzonych w bazie danych obiektów topograficznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "zakres informacji gromadzonych w bazie danych obiektów ogólnogeograficznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "organizację, tryb i standardy techniczne tworzenia baz wskazanych w pkt 1 i 2;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "tryb i standardy techniczne aktualizacji baz wskazanych w pkt 1 i 2;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "tryb i standardy techniczne udostępniania baz wskazanych w pkt 1 i 2;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "tryb i standardy techniczne tworzenia standardowych opracowań kartograficznych w następujących skalach: 1:10 000, 1:25 000, 1:50 000, 1:100 000, 1:250 000, 1:500 000, 1:1 000 000.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "atrybucie — rozumie się przez to cechę klasy obiektu posiadającą unikalną nazwę w obrębie danej klasy oraz dziedzinę wartości, którą może przyjmować;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "generalizacji — rozumie się przez to proces uogólnienia informacji geograficznej umożliwiający opracowanie modelu kartograficznego przestrzeni geograficznej o stopniu dokładności geometrycznej i poziomie uogólnienia pojęciowego odpowiadającym zdefiniowanym w rozporządzeniu kryteriom dokładnościowym właściwym dla poszczególnych produktów i zgodnym z ich przeznaczeniem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "klasie obiektów — rozumie się przez to reprezentację obiektów charakteryzujących się tymi samymi atrybutami, operacjami, metodami, związkami i semantyką;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "k odzie kartograficznym — rozumie się przez to oznaczenie cyfrowe przypisane znakom kartograficznym stosowanym na mapach w szeregu skalowym od 1:10 000 do 1:1 000 000;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "m apie ogólnogeograficznej — rozumie się przez to jednolite co do zakresu treści, symbolizacji i generalizacji opracowanie kartograficzne obszaru całego kraju przedstawiające charakterystyczne i typowe elementy środowiska geograficznego i ich przestrzenne związki;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "M odelu Podstawowym — rozumie się przez to pojęcie określone w § 1 ust. 3 w załączniku nr 3 do rozporządzenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "o biekcie topograficznym — rozumie się przez to abstrakcję obiektu terenowego lub zbioru obiektów uwzględniającą istotne cechy geometryczne i opisowe, umożliwiające precyzyjne odtworzenie położenia, własności i wzajemnych relacji pomiędzy obiektami w przestrzeni geograficznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "r edakcji kartograficznej — rozumie się przez to proces polegający na doborze i generalizacji obiektów zgodnie z przyjętymi kryteriami, usunięciu konfliktów graficznych, opracowaniu opisów oraz sporządzeniu ramki arkusza i treści pozaramkowej mapy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "s ymbolizacji — rozumie się przez to nadawanie symbolu graficznego obiektom bazy danych zgodnie z własnościami poszczególnych obiektów oraz ich charakterystyką atrybutową;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "u stawie — rozumie się przez to ustawę z dnia 17 maja 1989 r. — Prawo geodezyjne i kartograficzne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "w izualizacji kartograficznej — rozumie się przez to proces automatycznego zobrazowania treści bazy danych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Zakres informacji gromadzonych w bazie danych obiektów topograficznych"
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "W bazie danych obiektów topograficznych, zwanej dalej „BDOT10k”, gromadzi się informacje o obiektach topograficznych obejmujące:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "l okalizację przestrzenną obiektów w obowiązującym państwowym systemie odniesień przestrzennych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "c harakterystykę obiektów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "k ody kartograficzne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "m etadane obiektów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "W bazie danych obiektów ogólnogeograficznych, zwanej dalej „BDOO”, gromadzi się poddane procesowi generalizacji obiekty BDOT10k.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Wspólny katalog obiektów dla BDOT10k i BDOO jest określony w załączniku nr 1 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Klasyfikację obiektów na trzech poziomach szczegółowości z oznaczeniami kodowymi stanowi załącznik nr 2 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Organizacja, tryb i standardy techniczne tworzenia BDOT10k i BDOO"
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "BDOT10k tworzy się na podstawie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "danych zawartych w rejestrach określonych w art. 4 ust. 1a pkt 2—6 i 11 oraz art. 4 ust. 1b ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "danych zawartych w rejestrach prowadzonych przez inne organy lub instytucje, w szczególności:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_7/pkt_2/lit_a",
+       "text": "ministra właściwego do spraw transportu — w zakresie sieci komunikacyjnej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_7/pkt_2/lit_b",
+       "text": "ministra właściwego do spraw łączności — w zakresie sieci uzbrojenia terenu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_7/pkt_2/lit_c",
+       "text": "ministra właściwego do spraw budownictwa — w zakresie budowli i urządzeń,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_7/pkt_2/lit_d",
+       "text": "ministra właściwego do spraw: rolnictwa, środowiska oraz gospodarki przestrzennej i mieszkaniowej — w zakresie kompleksów użytkowania terenu oraz pokrycia terenu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_7/pkt_2/lit_e",
+       "text": "ministra właściwego do spraw środowiska oraz Generalnego Dyrektora Ochrony Środowiska — w zakresie terenów chronionych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_7/pkt_2/lit_f",
+       "text": "ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego — w zakresie zabytków nieruchomych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_7/pkt_2/lit_g",
+       "text": "Krajowy Zarząd Gospodarki Wodnej oraz Instytut Meteorologii i Gospodarki Wodnej — w zakresie sieci wodnej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_7/pkt_2/lit_h",
+       "text": "Prezesa Głównego Urzędu Statystycznego — w zakresie identyfikatorów i nazw jednostek podziału terytorialnego kraju,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "par_7/pkt_2/lit_i",
+       "text": "urzędy miast i gmin — w zakresie siedzib instytucji;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_7/pkt_3",
+     "text": "danych pozyskanych z wywiadu terenowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "BDOO tworzy się na podstawie danych zawartych w BDOT10k.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Schemat aplikacyjny UML oraz schemat GML BDOT10k i BDOO są określone w załączniku nr 3 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Wytyczne dotyczące wprowadzania obiektów do BDOT10k określa załącznik nr 4 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Wytyczne dotyczące wprowadzania obiektów do BDOO określa załącznik nr 5 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "System teleinformatyczny obsługujący BDOT10k oraz BDOO zapewnia:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_12/pkt_1",
+     "text": "kontrolę dostępu do danych i autoryzację użytkowników systemu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_12/pkt_2",
+     "text": "zasilanie baz danych danymi, o których mowa w art. 4 ust. 1a pkt 2—6 i 11 oraz art. 4 ust. 1b ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_12/pkt_3",
+     "text": "zasilanie baz danych danymi zawartymi w rejestrach prowadzonych przez inne organy lub instytucje, o których mowa w § 7 pkt 2;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_12/pkt_4",
+     "text": "przechowywanie pełnego opisu geometrii i atrybutów obiektów zdefiniowanych zgodnie z załącznikiem nr 3 do rozporządzenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_12/pkt_5",
+     "text": "kontrolę jakości danych zawartych w BDOT10k i BDOO;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_12/pkt_6",
+     "text": "identyfikację danych źródłowych stanowiących podstawę do wizualizacji kartograficznej BDOT10k i BDOO;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_12/pkt_7",
+     "text": "generowanie map topograficznych oraz map ogólnogeograficznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_12/pkt_8",
+     "text": "udostępnianie obiektów BDOT10k i BDOO w postaci cyfrowej i analogowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "BDOT10k i BDOO prowadzi się w obowiązującym systemie odniesień przestrzennych.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Aktualizacja BDOT10k i BDOO"
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "BDOT10k aktualizuje się na podstawie danych zawartych w źródłach, o których mowa w § 7.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Aktualizacja danych zawartych w BDOT10k następuje niezwłocznie po uzyskaniu nowych danych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "BDOO aktualizuje się na podstawie danych zawartych w BDOT10k niezwłocznie po aktualizacji danych w BDOT10k.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Udostępnianie BDOT10k i BDOO"
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Dane zawarte w BDOT10k i BDOO udostępnia się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_1/pkt_1",
+       "text": "p rzy pomocy usług sieciowych, o których mowa w art. 9 ust. 1 pkt 1 i 2 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej (Dz. U. Nr 76, poz. 489);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_1/pkt_2",
+       "text": "n a wniosek zainteresowanego, w szczególności:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_16/ust_1/pkt_2/lit_a",
+         "text": "p rzy pomocy usług sieciowych, o których mowa w art. 9 ust. 1 pkt 3 i 4 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_16/ust_1/pkt_2/lit_b",
+         "text": "w postaci dokumentów elektronicznych GML, w formacie zgodnym ze schematem aplikacyjnym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_16/ust_1/pkt_2/lit_c",
+         "text": "w postaci standardowych opracowań kartograficznych, o których mowa w art. 4 ust. 1e pkt 3 i 4 ustawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_16/ust_1/pkt_2/lit_d",
+         "text": "w postaci przetworzonych zbiorów danych w formie cyfrowej lub analogowej.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Udostępnianiu podlegają aktualne i archiwalne dane BDOT10k i BDOO.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Dane BDOT10k oraz BDOO udostępnia się w obowiązującym państwowym systemie odniesień przestrzennych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Wniosek, o którym mowa w § 16 ust. 1 pkt 2, składa się do organu uprawnionego do udostępniania informacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Wniosek, o którym mowa w § 16 ust. 1 pkt 2, zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_17/ust_2/pkt_1",
+       "text": "nazwę podmiotu ubiegającego się o udostępnienie danych zgromadzonych w BDOT10k i BDOO;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_17/ust_2/pkt_2",
+       "text": "adres siedziby wnioskodawcy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_17/ust_2/pkt_3",
+       "text": "nr REGON wnioskodawcy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_17/ust_2/pkt_4",
+       "text": "nazwę organu uprawnionego do udostępnienia danych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_17/ust_2/pkt_5",
+       "text": "zakres żądanych danych, z wyszczególnieniem lokalizacji, obszaru, kategorii, klas oraz obiektów topograficznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_17/ust_2/pkt_6",
+       "text": "wskazanie sposobu udostępnienia BDOT10k i BDOO.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Tryb i standardy techniczne tworzenia standardowych opracowań kartograficznych w zakresie map topograficznych oraz map ogólnogeograficznych"
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Mapy topograficzne tworzy się na podstawie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_1/pkt_1",
+       "text": "danych zawartych w BDOT10k — w procesie ich generalizacji, wizualizacji i redakcji kartograficznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_1/pkt_2",
+       "text": "danych zawartych w numerycznym modelu rzeźby terenu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_1/pkt_3",
+       "text": "danych zawartych w Państwowym Rejestrze Nazw Geograficznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Mapy ogólnogeograficzne tworzy się na podstawie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_2/pkt_1",
+       "text": "danych zawartych w BDOO — w procesie ich generalizacji, wizualizacji i redakcji kartograficznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_2/pkt_2",
+       "text": "danych zawartych w numerycznym modelu rzeźby terenu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_2/pkt_3",
+       "text": "danych zawartych w Państwowym Rejestrze Nazw Geograficznych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Mapy topograficzne oraz mapy ogólnogeograficzne opracowuje się w podziale na arkusze, zgodnie z przepisami wydanymi na podstawie art. 3 ust. 5 ustawy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Treść arkusza mapy stanowią:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_20/pkt_1",
+     "text": "symbole kartograficzne reprezentujące obiekty BDOT10k lub BDOO, które nie zmieniają swojego rzeczywistego położenia w procesie redakcji kartograficznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_20/pkt_2",
+     "text": "symbole kartograficzne reprezentujące obiekty BDOT10k lub BDOO, które zmieniają swoje rzeczywiste położenie w procesie redakcji kartograficznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_20/pkt_3",
+     "text": "nazwy i opisy objaśniające, wygenerowane na podstawie danych z BDOT10k lub BDOO oraz Państwowego Rejestru Nazw Geograficznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_20/pkt_4",
+     "text": "symbole kartograficzne reprezentujące obiekty wygenerowane z numerycznego modelu rzeźby terenu, będące prezentacją rzeźby terenu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_20/pkt_5",
+     "text": "dodatkowe dane geometryczne, w szczególności: kontury rozgraniczające pokrycie terenu, granice administracyjne, strzałki kierunku biegu cieków, strzałki wylotów dróg i linii kolejowych na granicy arkusza;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_20/pkt_6",
+     "text": "elementy pozaramkowe, w szczególności: ozdobna ramka, opisy i legenda mapy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Standardy techniczne tworzenia map topograficznych w skali:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_21/pkt_1",
+     "text": "1:10 000 określa załącznik nr 6 do rozporządzenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_21/pkt_2",
+     "text": "1:25 000 określa załącznik nr 7 do rozporządzenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_21/pkt_3",
+     "text": "1:50 000 określa załącznik nr 8 do rozporządzenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_21/pkt_4",
+     "text": "1:100 000 określa załącznik nr 9 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Standardy techniczne tworzenia map ogólnogeograficznych w skali:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_22/pkt_1",
+     "text": "1:250 000 określa załącznik nr 10 do rozporządzenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_22/pkt_2",
+     "text": "1:500 000 określa załącznik nr 11 do rozporządzenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_22/pkt_3",
+     "text": "1:1 000 000 określa załącznik nr 12 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 7",
+   "text": "Przepisy przejściowe i końcowe"
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "BDOT10k zostanie utworzona do dnia 31 grudnia 2013 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "BDOO zostanie utworzona do dnia 31 grudnia 2014 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Dotychczas prowadzone zbiory danych zawierające informacje o obiektach topograficznych mogą funkcjonować nie dłużej niż do czasu utworzenia BDOT10k.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Dotychczas prowadzone zbiory danych zawierające informacje o obiektach ogólnogeograficznych mogą funkcjonować nie dłużej niż do czasu utworzenia BDOO.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "Do czasu utworzenia BDOT10k i BDOO mapy topograficzne i mapy ogólnogeograficzne tworzy się na podstawie danych zgromadzonych w dotychczas prowadzonych zbiorach danych zawierających informacje o obiektach topograficznych i ogólnogeograficznych oraz na podstawie innych materiałów zgromadzonych w państwowym zasobie geodezyjnym i kartograficznym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych i Administracji: J. Miller"
+    },
+    {
+     "type": "text",
+     "text": "(Załączniki do rozporządzenia stanowią oddzielny załącznik do niniejszego numeru.)"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej — administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. Nr 216, poz. 1604)."
+ }
+}

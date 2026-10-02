@@ -1,0 +1,826 @@
+{
+ "eli": "DU/2011/547",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 kwietnia 2011 r. w sprawie zasad potwierdzania, przedłużania ważności, wykorzystania i unieważniania profilu zaufanego elektronicznej platformy usług administracji publicznej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2011/547/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 kwietnia 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zasad potwierdzania, przedłużania ważności, wykorzystania i unieważniania profilu zaufanego elektronicznej platformy usług administracji publicznej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20a ust. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa zasady potwierdzania, przedłużania ważności, wykorzystania i unieważniania profilu zaufanego elektronicznej platformy usług administracji publicznej, zwanej dalej „ePUAP”, w tym:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "podmioty upoważnione do potwierdzania, przedłużania ważności i unieważniania profilu zaufanego ePUAP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "okres ważności profilu zaufanego ePUAP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "zawartość profilu zaufanego ePUAP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "przypadki, w których nie dokonuje się potwierdzenia profilu zaufanego ePUAP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "przypadki, w których profil zaufany ePUAP traci ważność;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "warunki składania podpisu potwierdzonego profilem zaufanym ePUAP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "warunki przechowywania oraz archiwizowania dokumentów i danych związanych z potwierdzeniem, przedłużaniem ważności albo unieważnianiem profilu zaufanego ePUAP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "wzory wniosków o potwierdzenie, przedłużenie ważności i unieważnienie profilu zaufanego ePUAP.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "bezpieczny podpis elektroniczny — bezpieczny podpis elektroniczny, o którym mowa w art. 3 pkt 2 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, poz. 1450, z późn. zm.[^3]);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "identyfikator profilu zaufanego ePUAP — unikatowy ciąg znaków alfanumerycznych jednoznacznie identyfikujących profil zaufany ePUAP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "identyfikator użytkownika — identyfikator użytkownika w rozumieniu przepisów wydanych na podstawie art. 19a ust. 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "konto użytkownika — profil użytkownika wraz z zasobami ePUAP przyporządkowanymi do tego użytkownika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "kwalifikowany certyfikat — kwalifikowany certyfikat, o którym mowa w art. 3 pkt 12 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "minister — ministra właściwego do spraw informatyzacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "osoba wnioskująca — osobę fizyczną posiadającą konto użytkownika występującą z wnioskiem o potwierdzenie profilu zaufanego ePUAP w swoim imieniu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "potwierdzenie profilu zaufanego ePUAP — proces weryfikacji zgodności danych zawartych w profilu użytkownika ze stanem faktycznym połączony z nadaniem uprawnień wynikających z posiadania profilu zaufanego ePUAP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "profil użytkownika — dane opisujące osobę fizyczną korzystającą z ePUAP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "u stawa — ustawę z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Osoba wnioskująca przesyła wniosek o potwierdzenie profilu zaufanego ePUAP na ePUAP w postaci elektronicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Jeżeli w okresie 14 dni od daty przesłania wniosku, o którym mowa w ust. 1, osoba wnioskująca nie zgłosi się do punktu potwierdzającego w celu potwierdzenia profilu zaufanego ePUAP, wniosek ten uważa się za wycofany.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Wzór wniosku, o którym mowa w ust. 1, stanowi załącznik nr 1 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Profil zaufany ePUAP potwierdza, przedłuża ważność lub unieważnia punkt potwierdzający, którym jest konsul, naczelnik urzędu skarbowego, wojewoda, Zakład Ubezpieczeń Społecznych albo, za zgodą ministra, inny podmiot określony w art. 2 ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Minister udziela zgody, o której mowa w ust. 1, na wniosek podmiotu po spełnieniu warunków określonych w przepisach wydanych na podstawie art. 20a ust. 3 pkt 1 ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Punkt potwierdzający może upoważniać pracowników do załatwiania spraw w zakresie profilu zaufanego ePUAP w jego imieniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Pracownikiem, o którym mowa w ust. 3, może być wyłącznie osoba, która nie była skazana prawomocnym wyrokiem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Potwierdzenia profilu zaufanego ePUAP dokonuje się wyłącznie na ePUAP.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "W celu potwierdzenia profilu zaufanego ePUAP osoba wnioskująca zgłasza się do wybranego przez siebie punktu potwierdzającego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Punkt potwierdzający stwierdza tożsamość osoby wnioskującej na podstawie dowodu osobistego albo paszportu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Punkt potwierdzający weryfikuje dane z wniosku z danymi z profilu użytkownika, w zakresie obejmującym:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_3/pkt_1",
+       "text": "imię;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_3/pkt_2",
+       "text": "nazwisko;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_3/pkt_3",
+       "text": "numer PESEL;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_3/pkt_4",
+       "text": "identyfikator użytkownika.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Weryfikacja danych, o których mowa w ust. 3 pkt 1—3, następuje także ze zbiorem PESEL.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "Punkt potwierdzający drukuje wniosek o potwierdzenie profilu zaufanego ePUAP z ePUAP.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_5/ust_6",
+     "text": "Osoba wnioskująca podpisuje wydrukowany wniosek.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_5/ust_7",
+     "text": "Punkt potwierdzający, po pozytywnej weryfikacji danych, o których mowa w ust. 3, potwierdza profil zaufany ePUAP i odnotowuje to na wydrukowanym wniosku wraz z podaniem czasu potwierdzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_5/ust_8",
+     "text": "Punkt potwierdzający podpisuje profil zaufany ePUAP osoby wnioskującej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_8/pkt_1",
+       "text": "podpisem potwierdzonym profilem zaufanym ePUAP albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_8/pkt_2",
+       "text": "bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Profil zaufany ePUAP zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "imię użytkownika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "nazwisko użytkownika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_1/pkt_3",
+       "text": "numer PESEL użytkownika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_1/pkt_4",
+       "text": "identyfikator użytkownika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_6/ust_1/pkt_5",
+       "text": "identyfikator profilu zaufanego ePUAP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_6/ust_1/pkt_6",
+       "text": "czas jego potwierdzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_6/ust_1/pkt_7",
+       "text": "termin ważności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_6/ust_1/pkt_8",
+       "text": "adres poczty elektronicznej użytkownika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_6/ust_1/pkt_9",
+       "text": "określenie sposobu autoryzacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Profil zaufany ePUAP może zawierać inne dane niż określone w ust. 1, a w szczególności oznaczenie punktu potwierdzającego albo imię i nazwisko pracownika upoważnionego do potwierdzania profilu zaufanego ePUAP w przypadku podpisania profilu zaufanego ePUAP bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Sposób autoryzacji, o którym mowa w ust. 1 pkt 9, określa osoba wnioskująca przez wskazanie we wniosku o potwierdzenie profilu zaufanego ePUAP środka komunikacji elektronicznej, w szczególności wskazanego w ust. 1 pkt 8, który służy do przekazywania przez ePUAP danych niezbędnych do autoryzacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Minister publikuje na ePUAP strukturę danych profilu zaufanego ePUAP oraz podpisu potwierdzonego profilem zaufanym ePUAP.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Osoba wnioskująca, która posiada możliwość złożenia bezpiecznego podpisu elektronicznego weryfikowanego za pomocą ważnego kwalifikowanego certyfikatu, może samodzielnie dokonać potwierdzenia swojego profilu zaufanego ePUAP w przypadku, gdy certyfikat kwalifikowany zawiera dane obejmujące co najmniej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "imię;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "nazwisko;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_1/pkt_3",
+       "text": "numer PESEL.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Po zweryfikowaniu wniosku, o którym mowa w § 3 ust. 1, osoba wnioskująca niezwłocznie podpisuje profil zaufany ePUAP swoim bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Jeżeli osoba wnioskująca nie podpisze profilu zaufanego ePUAP swoim bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu, wniosek uważa się za wycofany.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Profil zaufany ePUAP potwierdza się na okres trzech lat i jego ważność może być przedłużana na taki sam okres.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Przed upływem okresu, o którym mowa w ust. 1, osoba posiadająca profil zaufany ePUAP może dokonać przedłużenia ważności swojego profilu zaufanego ePUAP:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_2/pkt_1",
+       "text": "s amodzielnie przez podpisanie go podpisem potwierdzonym profilem zaufanym ePUAP albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_2/pkt_2",
+       "text": "na zasadach określonych w § 3 i 5.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Do przedłużenia profilu zaufanego ePUAP § 10 i 11 stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_8/ust_4",
+     "text": "Wzór wniosku o przedłużenie ważności profilu zaufanego ePUAP stanowi załącznik nr 2 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Osoba posiadająca ważny profil zaufany ePUAP powinna w celu jego bezpiecznego wykorzystywania:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_9/pkt_1",
+     "text": "zapewnić poufność danych, które mogłyby być wykorzystane do złożenia podpisu potwierdzonego profilem zaufanym ePUAP przez osoby trzecie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_9/pkt_2",
+     "text": "nieudostępniać konta użytkownika osobom trzecim;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_9/pkt_3",
+     "text": "niezwłocznie unieważniać profil zaufany ePUAP w przypadku utraty kontroli nad kontem użytkownika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Nie dokonuje się potwierdzenia profilu zaufanego ePUAP w przypadku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "przedłożenia nieważnego dokumentu, o którym mowa w § 5 ust. 2, lub braku możliwości stwierdzenia tożsamości osoby wnioskującej na podstawie tego dokumentu, na zasadach określonych w przepisach dotyczących dowodów osobistych oraz przepisach dotyczących dokumentów paszportowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_1/pkt_2",
+       "text": "niezgodności danych, o których mowa w § 5 ust. 3 albo w § 7 ust. 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_1/pkt_3",
+       "text": "przedłożenia niekompletnego wniosku o potwierdzenie profilu zaufanego ePUAP.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Niedokonanie potwierdzenia profilu zaufanego ePUAP punkt potwierdzający odnotowuje na wydrukowanym wniosku o potwierdzenie profilu zaufanego ePUAP, wraz z podaniem czasu niedokonania potwierdzenia profilu zaufanego ePUAP na ePUAP.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Profil zaufany ePUAP traci ważność w przypadku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_1/pkt_1",
+       "text": "potwierdzenia profilu zaufanego ePUAP na podstawie nieprawdziwych lub nieaktualnych danych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_1/pkt_2",
+       "text": "usunięcia konta użytkownika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_1/pkt_3",
+       "text": "zmiany danych, o których mowa w § 6 ust. 1 pkt 1—7;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_11/ust_1/pkt_4",
+       "text": "z upływem okresu, na jaki został potwierdzony albo przedłużony.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Profil zaufany ePUAP traci ważność w przypadku wystąpienia osoby posiadającej profil zaufany ePUAP z pisemnym wnioskiem o unieważnienie profilu zaufanego ePUAP.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "W celu unieważnienia profilu zaufanego ePUAP na wniosek, o którym mowa w ust. 2, osoba posiadająca profil zaufany ePUAP zgłasza się do wybranego przez siebie punktu potwierdzającego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_11/ust_4",
+     "text": "Osoba posiadająca profil zaufany ePUAP może samodzielnie na ePUAP dokonać unieważnienia swojego profilu zaufanego ePUAP.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_11/ust_5",
+     "text": "Wzór wniosku o unieważnienie profilu zaufanego ePUAP stanowi załącznik nr 3 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Złożenie podpisu potwierdzonego profilem zaufanym ePUAP jest możliwe tylko w okresie ważności profilu zaufanego ePUAP i wymaga autoryzacji ePUAP.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Integralność dokumentu lub danych podpisanych przy użyciu podpisu potwierdzonego profilem zaufanym ePUAP oraz autentyczność tego podpisu weryfikuje się przy użyciu certyfikatu udostępnionego na ePUAP przez ministra.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Punkty potwierdzające przechowują i archiwizują dokumenty i dane w postaci papierowej w zakresie potwierdzania, przedłużania ważności i unieważniania profilu zaufanego ePUAP w warunkach zapewniających co najmniej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_1/pkt_1",
+       "text": "zachowanie integralności dokumentów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_1/pkt_2",
+       "text": "łatwe odszukanie i udostępnienie dokumentów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_13/ust_1/pkt_3",
+       "text": "ochronę danych osobowych zawartych w dokumentach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_13/ust_1/pkt_4",
+       "text": "ochronę tych dokumentów przed zniszczeniem.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Dokumenty i dane w postaci elektronicznej w zakresie potwierdzania, przedłużania ważności i unieważniania profilu zaufanego ePUAP, z zachowaniem warunków określonych w ust. 1, przechowuje oraz archiwizuje minister.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Obowiązek przechowania dokumentów i danych, o których mowa w ust. 1 i 2, trwa przez okres 20 lat od chwili potwierdzenia albo przedłużenia ważności profilu zaufanego ePUAP lub odmowy jego potwierdzenia albo przedłużenia ważności bądź od dnia jego unieważnienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_13/ust_4",
+     "text": "W przypadku ustania działalności punktu potwierdzającego dokumenty, o których mowa w ust. 1, przekazuje się organowi lub jednostce organizacyjnej przejmującej zadania i funkcje punktu potwierdzającego, którego działalność ustała. W przypadku braku następcy prawnego punktu potwierdzającego dokumenty przekazuje się ministrowi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych i Administracji: J. Miller"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 kwietnia 2011 r. (poz. 547) Załącznik nr 1 WZÓR",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2 WZÓR",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 5 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3 WZÓR",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 6 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej — informatyzacja, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. Nr 216, poz. 1604).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 12, poz. 65 i Nr 73, poz. 501, z 2008 r. Nr 127, poz. 817, z 2009 r. Nr 157, poz. 1241 oraz z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131 i Nr 182, poz. 1228.",
+  "3": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 64, poz. 565, z 2006 r. Nr 145, poz. 1050, z 2009 r. Nr 18, poz. 97 oraz z 2010 r. Nr 40, poz. 230 i Nr 182, poz. 1228."
+ }
+}

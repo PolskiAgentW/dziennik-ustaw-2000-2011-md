@@ -47,7 +47,7 @@ Zbiór powstaje rocznik po roczniku (pobieranie PDF-ów z API ok. 4 s na akt). L
 w `index.csv`, są w toku.
 
 <!-- stats:start -->
-Stan na 2026-10-02 05:35 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-02 08:17 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -62,12 +62,13 @@ Stan na 2026-10-02 05:35 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2008 | 1314 | 1314 | 0 |
 | 2009 | 1492 | 1492 | 0 |
 | 2010 | 1427 | 1427 | 0 |
+| 2011 | 1429 | 1429 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 3294, razem 61709 z 147291 stron. Tekst z OCR (oznaczony) ma 59346 z nich w 3236 aktach; treści pozostałych brak.
-Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 5083.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 3483, razem 66479 z 160308 stron. Tekst z OCR (oznaczony) ma 63997 z nich w 3425 aktach; treści pozostałych brak.
+Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 5404.
 
-Rodzaje aktów: Rozporządzenie 16946, Oświadczenie rządowe 598, Umowa międzynarodowa 315, Konwencja 96, Protokół 75, Obwieszczenie 39, Porozumienie 37, Postanowienie 24, Uchwała 24, Dokument wypowiedzenia 12, Traktat 11, Decyzja 2, Statut 2, Ustawa 1, Deklaracja 1, Akt 1, Układ 1.
-Wersje konwertera: eli2md 0.6.18 (7787), eli2md 0.6.17 (6528), eli2md 0.6.22 (3331), eli2md 0.6.16 (524), eli2md 0.6.19 (15).
+Rodzaje aktów: Rozporządzenie 18305, Oświadczenie rządowe 633, Umowa międzynarodowa 342, Konwencja 98, Protokół 78, Obwieszczenie 39, Porozumienie 37, Uchwała 26, Postanowienie 25, Dokument wypowiedzenia 12, Traktat 11, Decyzja 2, Statut 2, Ustawa 1, Deklaracja 1, Akt 1, Układ 1.
+Wersje konwertera: eli2md 0.6.18 (7787), eli2md 0.6.17 (6528), eli2md 0.6.22 (4760), eli2md 0.6.16 (524), eli2md 0.6.19 (15).
 <!-- stats:end -->
 
 ## Zawartość
