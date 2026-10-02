@@ -1,0 +1,933 @@
+{
+ "eli": "DU/2010/1398",
+ "title": "Rozporządzenie Ministra Infrastruktury z dnia 5 listopada 2010 r. w sprawie Narodowego Systemu Monitorowania Ruchu Statków i Przekazywania Informacji",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2010/1398/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 5 listopada 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Narodowego Systemu Monitorowania Ruchu Statków i Przekazywania Informacji[^2]"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 27c ust. 2 ustawy z dnia 9 listopada 2000 r. o bezpieczeństwie morskim (Dz. U. z 2006 r. Nr 99, poz. 693, z późn. zm.[^3]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "sposób funkcjonowania i organizację Narodowego Systemu Monitorowania Ruchu Statków i Przekazywania Informacji (NationalSafeSeaNet);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "obowiązki Służby VTS dotyczące monitorowania statków;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "sposób przekazywania informacji o statkach, o których mowa w art. 27b ust. 2 ustawy z dnia 9 listopada 2000 r. o bezpieczeństwie morskim, zwanej dalej „ustawą”, oraz podmioty, którym przekazuje się te informacje;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "sposób rozpowszechniania informacji o zdarzeniach, o których mowa w art. 27a ust. 1 ustawy, oraz o statkach, o których mowa w art. 27b ust. 1 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "wymagania wobec systemów teleinformatycznych działających w ramach Narodowego Systemu Monitorowania Ruchu Statków i Przekazywania Informacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "krajowy system SafeSeaNet — system utworzony przez państwo członkowskie dla potrzeb wymiany informacji morskiej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "c entralny system SafeSeaNet — system zarządzany, nadzorowany i rozwijany przez Komisję Europejską oraz utrzymywany w działaniu przez EMSA, działający jako punkt węzłowy posiadający interfejs do wszystkich krajowych systemów SafeSeaNet i umożliwiający wymianę danych pomiędzy tymi systemami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "wspólnotowy system SafeSeaNet — wspólnotowy system wymiany informacji morskiej składający się z sieci krajowych systemów SafeSeaNet, połączonych za pośrednictwem centralnego systemu SafeSeaNet, opracowany w celu ułatwienia wymiany danych istotnych dla bezpieczeństwa morskiego, ochrony statków i obiektów portowych, ochrony środowiska morskiego, efektywności ruchu statków i transportu morskiego pomiędzy państwami członkowskimi, w formie elektronicznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "narodowy system SafeSeaNet — krajowy system SafeSeaNet utworzony w Rzeczypospolitej Polskiej, będący Narodowym Systemem Monitorowania Ruchu Statków i Przekazywania Informacji, o którym mowa w art. 27c ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "krajowy organ NCA — organ odpowiedzialny za utrzymanie i zarządzanie narodowym systemem SafeSeaNet;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "służba NCA — punkt kontaktowy pomiędzy Rzecząpospolitą Polską a państwami członkowskimi w zakresie operacyjnego działania wspólnotowego systemu SafeSeaNet;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "krajowy użytkownik LCA — podmiot uprawniony do otrzymywania lub dostarczania informacji do wspólnotowego i narodowego systemu SafeSeaNet;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "państwo członkowskie — państwo członkowskie Unii Europejskiej oraz państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) — stronę umowy o Europejskim Obszarze Gospodarczym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "EMSA — Europejską Agencję Bezpieczeństwa Morskiego ustanowioną rozporządzeniem (WE) nr 1406/2002 Parlamentu Europejskiego i Rady z dnia 27 czerwca 2002 r. (Dz. Urz. WE L 208 z 05.08.2002, str. 1);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "dokument IFCD[^4] — opracowany przez Komisję Europejską we współpracy z państwami członkowskimi dokument dotyczący interfejsu i kontroli funkcjonalności, określający szczegółowe wymogi w zakresie funkcjonowania, standardów technicznych i procedur działania krajowych systemów SafeSeaNet i centralnego systemu SafeSeaNet;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "system AIS — System Automatycznej Identyfikacji Statków (AIS), o którym mowa w art. 16a ust. 1 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "system LRIT — System Identyfikacji i Śledzenia Dalekiego Zasięgu (LRIT), o którym mowa w art. 16c ust. 1 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "alert — sygnał o zagrożeniu bądź naruszeniu ochrony statku, o którym mowa w art. 3 ust. 1 pkt 11 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich (Dz. U. Nr 171, poz. 1055).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Narodowy system SafeSeaNet utrzymuje się w działaniu ciągłym, a w jego skład wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "infrastruktura techniczna;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "krajowy organ NCA;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "krajowi użytkownicy LCA.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Na infrastrukturę techniczną, o której mowa w ust. 1 pkt 1, składają się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "podsystem monitorowania ruchu statków, składający się:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_2/pkt_1/lit_a",
+         "text": "z radarów brzegowych bliskiego i dalekiego zasięgu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_2/pkt_1/lit_b",
+         "text": "ze stacji brzegowych systemu AIS,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_2/pkt_1/lit_c",
+         "text": "z systemu LRIT;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "podsystem przekazywania informacji, składający się z:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_2/pkt_2/lit_a",
+         "text": "systemu kontrolno-informacyjnego dla portów polskich,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_2/pkt_2/lit_b",
+         "text": "systemu wymiany informacji bezpieczeństwa żeglugi.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Wyznacza się Dyrektora Urzędu Morskiego w Gdyni jako krajowy organ NCA.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Krajowy organ NCA realizuje swoje zadania przy pomocy służby NCA oraz we współpracy z dyrektorami urzędów morskich.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Do zadań krajowego organu NCA należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_3/pkt_1",
+       "text": "utrzymanie w działaniu ciągłym i zapewnienie odpowiedniego stopnia bezpieczeństwa krajowej infrastruktury teleinformatycznej, niezbędnej dla zapewnienia właściwego funkcjonowania narodowego systemu SafeSeaNet;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_3/pkt_2",
+       "text": "utrzymywanie w działaniu ciągłym łączności teleinformatycznej z centralnym systemem SafeSeaNet, w celu przekazywania informacji zgodnie z wymaganiami dokumentu IFCD, a także generowania odpowiedzi na zapytania pozostałych użytkowników wspólnotowego i narodowego systemu SafeSeaNet;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_3/pkt_3",
+       "text": "zarządzanie prawami dostępu, w tym określenie zakresu dostępu, do wspólnotowego i narodowego systemu SafeSeaNet;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_3/pkt_4",
+       "text": "udzielanie prawa dostępu do systemu wymiany informacji bezpieczeństwa żeglugi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_3/pkt_5",
+       "text": "opracowanie i aktualizowanie procedur wymiany informacji poprzez narodowy system SafeSeaNet;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_4/ust_3/pkt_6",
+       "text": "opracowanie i aktualizowanie procedur wymiany informacji, na wypadek awarii któregokolwiek z podsystemów przekazywania informacji, o których mowa w § 3 ust. 2 pkt 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_4/ust_3/pkt_7",
+       "text": "wyznaczenie i utrzymanie w działaniu ciągłym służby NCA;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_4/ust_3/pkt_8",
+       "text": "współpraca z EMSA przy opracowywaniu i uaktualnianiu dokumentu IFCD;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_4/ust_3/pkt_9",
+       "text": "współpraca z Komisją Europejską w opracowywaniu planów rozwoju wspólnotowego systemu SafeSeaNet w ramach działania grupy sterującej wysokiego szczebla do spraw SafeSeaNet, utworzonej decyzją Komisji 2009/584/WE z dnia 31 lipca 2009 r. ustanawiającą grupę sterującą wysokiego szczebla do spraw SafeSeaNet (Dz. Urz. UE L 201 z 01.08.2009, str. 63).",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Służba NCA działa w trybie 24-godzinnym, 7 dni w tygodniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Do zadań służby NCA należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "udzielanie informacji użytkownikom wspólnotowego systemu SafeSeaNet;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "niezwłoczne informowanie krajowych użytkowników LCA, w przypadku otrzymania informacji ze wspólnotowego systemu SafeSeaNet, o statkach lub zdarzeniach, stanowiących potencjalne niebezpieczeństwo dla żeglugi lub zagrożenie dla bezpieczeństwa na morzu, bezpieczeństwa ludzi lub środowiska morskiego, których skutki mogą rozciągać się na polskie obszary morskie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "niezwłoczne informowanie użytkowników wspólnotowego systemu SafeSeaNet w przypadku otrzymania informacji o statkach, o których mowa w art. 27b ust. 1 ustawy, lub zdarzeniach, o których mowa w art. 27a ust. 1 ustawy, których skutki mogą rozciągać się na obszary morskie państw członkowskich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_2/pkt_4",
+       "text": "n iezwłoczne informowanie ministra właściwego do spraw gospodarki morskiej o każdym przypadku otrzymania informacji, o których mowa w pkt 2 i 3.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Prawa dostępu do narodowego systemu SafeSeaNet udziela się ministrowi właściwemu do spraw gospodarki morskiej i następującym krajowym użytkownikom LCA:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "dyrektorom urzędów morskich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "służbie SAR;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_1/pkt_3",
+       "text": "Biuru Hydrograficznemu Marynarki Wojennej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_1/pkt_4",
+       "text": "Centrum Operacji Morskich Marynarki Wojennej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_6/ust_1/pkt_5",
+       "text": "K omendantowi Morskiego Oddziału Straży Granicznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_6/ust_1/pkt_6",
+       "text": "organom Służby Celnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_6/ust_1/pkt_7",
+       "text": "organom administracji rybołówstwa morskiego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_6/ust_1/pkt_8",
+       "text": "wojewodzie pomorskiemu, warmińsko-mazurskiemu i zachodniopomorskiemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_6/ust_1/pkt_9",
+       "text": "podmiotom zarządzającym portami lub przystaniami morskimi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_6/ust_1/pkt_10",
+       "text": "pilotom morskim;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_6/ust_1/pkt_11",
+       "text": "podmiotom właściwym w sprawach bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego, a także podmiotom właściwym w sprawach zarządzania kryzysowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Prawa dostępu do systemu kontrolno-informacyjnego dla portów polskich udziela się kapitanom i armatorom statków oraz agentom morskim działającym w ich imieniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Prawa dostępu do podsystemów przekazywania informacji narodowego systemu SafeSeaNet udziela się na wniosek złożony do dyrektora właściwego urzędu morskiego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Wzory wniosków, o których mowa w ust. 3, znajdują się na stronie internetowej Urzędu Morskiego w Gdyni[^5].",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Dyrektorzy urzędów morskich, w zakresie swojej właściwości terytorialnej, współpracują z krajowym organem NCA w celu zapewnienia właściwego funkcjonowania operacyjnego i technicznego narodowego systemu SafeSeaNet poprzez:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "zapewnienie całodobowej, działającej 7 dni w tygodniu Służby VTS, odpowiedzialnej za monitorowanie ruchu statków i przekazywanie informacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "ustanowienie regulaminu i szczegółowych procedur działania Służby VTS, z uwzględnieniem wytycznych Międzynarodowej Organizacji Morskiej (IMO) i Międzynarodowego Stowarzyszenia Służb Oznakowania Nawigacyjnego (IALA)[^6];",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_7/pkt_3",
+     "text": "utrzymanie w działaniu ciągłym i zapewnienie wymaganej dostępności elementów podsystemu monitorowania ruchu statków, o których mowa w § 3 ust. 2 pkt 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_7/pkt_4",
+     "text": "zarządzanie i eksploatowanie podsystemów przekazywania informacji, o których mowa w § 3 ust. 2 pkt 2;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_7/pkt_5",
+     "text": "przyjmowanie od podmiotów działających w ich obszarze właściwości terytorialnej wniosków, o których mowa w § 6 ust. 3, i ich przesyłanie do krajowego organu NCA, celem udzielenia prawa dostępu do systemu wymiany informacji bezpieczeństwa żeglugi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_7/pkt_6",
+     "text": "udzielanie prawa dostępu do systemu kontrolno-informacyjnego dla portów polskich.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Służba SAR uczestniczy w narodowym systemie SafeSeaNet w zakresie wymiany informacji o zagrożeniu życia ludzkiego na morzu, zagrożeniu zanieczyszczeniem środowiska morskiego i informacji związanych z odebranym alertem.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Biuro Hydrograficzne Marynarki Wojennej uczestniczy w narodowym systemie SafeSeaNet w zakresie wymiany informacji kartograficznej, hydrograficznej i nautycznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Szczegóły współpracy między Biurem Hydrograficznym Marynarki Wojennej i dyrektorami urzędów morskich określają roczne plany współpracy, zgodnie z przepisami w sprawie współpracy urzędów morskich z Marynarką Wojenną.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Służba VTS, w obszarze swego działania, pełni następujące obowiązki:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_10/pkt_1",
+     "text": "prowadzi kontrolę i zarządzanie ruchem statków poprzez wydawanie instrukcji, zaleceń i nakazów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_10/pkt_2",
+     "text": "prowadzi nadzór nad przestrzeganiem przez statki przepisów ruchu w wyznaczonych trasach przepływu, systemach rozgraniczenia ruchu i zgłaszania pozycji statku;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_10/pkt_3",
+     "text": "rozpowszechnia drogą radiową informacje nawigacyjne i hydrologiczno-meteorologiczne zgodnie z wytycznymi Międzynarodowej Organizacji Morskiej (IMO)[^6];",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_10/pkt_4",
+     "text": "u trzymuje łączność z kapitanem lub armatorem statku, o którym mowa w art. 27a ustawy lub w art. 27 pkt 1 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2006 r. Nr 99, poz. 692, z 2007 r. Nr 176, poz. 1238 oraz z 2009 r. Nr 63, poz. 518);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_10/pkt_5",
+     "text": "rozpowszechnia drogą radiową ostrzeżenia nawigacyjne o statkach, o których mowa w art. 27b ust. 1 ustawy, lub zdarzeniach, o których mowa w art. 27a ust. 1 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_10/pkt_6",
+     "text": "monitoruje ruch statków, o których mowa w art. 27b ust. 1 ustawy, lub zdarzenia, o których mowa w art. 27a ust. 1 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_10/pkt_7",
+     "text": "r ealizuje zadania określone w planie udzielenia statkom znajdującym się w niebezpieczeństwie schronienia na polskich obszarach morskich, o którym mowa w art. 29a ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_10/pkt_8",
+     "text": "r ealizuje w stosunku do statków i obiektów portowych zadania regionalnego punktu kontaktowego, o których mowa w art. 6 ust. 2 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_10/pkt_9",
+     "text": "dostarcza informacje za pomocą narodowego systemu SafeSeaNet krajowym użytkownikom LCA.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Służba VTS, w przypadku otrzymania informacji o statkach, o których mowa w art. 27b ust. 1 ustawy, lub zdarzeniach, o których mowa w art. 27a ust. 1 ustawy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_1/pkt_1",
+       "text": "n iezwłocznie przekazuje tę informację właściwemu dyrektorowi urzędu morskiego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_1/pkt_2",
+       "text": "niezwłocznie przekazuje tę informację właściwym krajowym użytkownikom LCA, za pomocą systemu wymiany informacji bezpieczeństwa żeglugi, a także — za pośrednictwem służby NCA — ministrowi właściwemu do spraw gospodarki morskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_1/pkt_3",
+       "text": "zasięga informacji o tych statkach ze wspólnotowego systemu SafeSeaNet, za pośrednictwem systemu wymiany informacji bezpieczeństwa żeglugi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_11/ust_1/pkt_4",
+       "text": "w przypadku gdy skutki potencjalnego niebezpieczeństwa rozciągają się na inne państwo członkowskie, niezwłocznie informuje właściwe organy państw członkowskich położonych wzdłuż planowanej trasy tych statków za pośrednictwem służby NCA, za pomocą systemu wymiany informacji bezpieczeństwa żeglugi.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Służba SAR, w przypadku otrzymania informacji o statkach, o których mowa w art. 27b ust. 1 pkt 1 ustawy, niezwłocznie przekazuje tę informację właściwej Służbie VTS, za pomocą systemu wymiany informacji bezpieczeństwa żeglugi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Kapitan statku zmierzającego do portu polskiego przekazuje informacje zgodnie z:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_3/pkt_1",
+       "text": "art. 28a ustawy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_3/pkt_2",
+       "text": "art. 43 ust. 1 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich",
+       "children": [
+        {
+         "type": "text",
+         "text": "— za pomocą systemu kontrolno-informacyjnego dla portów polskich."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_11/ust_4",
+     "text": "Armator statku przewożącego ładunki niebezpieczne lub zanieczyszczające przekazuje informacje zgodnie z art. 10a ust. 1 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki za pomocą systemu kontrolno-informacyjnego dla portów polskich.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_11/ust_5",
+     "text": "Armator lub kapitan statku, o którym mowa w art. 11b ust. 2 ustawy, przekazuje informacje o statku zgodnie z tym artykułem, za pomocą systemu kontrolno-informacyjnego dla portów polskich.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_11/ust_6",
+     "text": "Kapitan portu przekazuje organowi inspekcyjnemu informacje dotyczące aktualnego czasu przybycia i wypłynięcia każdego statku zawijającego do jego portu lub kotwicowiska, wraz z identyfikatorem danego portu, za pomocą systemu wymiany informacji bezpieczeństwa żeglugi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_11/ust_7",
+     "text": "Pilot morski przekazuje informacje, o których mowa w art. 36 ust. 9 ustawy, za pomocą systemu wymiany informacji bezpieczeństwa żeglugi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_11/ust_8",
+     "text": "Podmiot zarządzający portem lub przystanią morską przekazuje informacje, o których mowa w art. 37 ust. 5 ustawy, za pomocą systemu wymiany informacji bezpieczeństwa żeglugi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_11/ust_9",
+     "text": "Organ inspekcyjny przekazuje właściwej Służbie VTS informacje o statkach, o których mowa w art. 27b ust. 1 pkt 4 ustawy, za pomocą systemu wymiany informacji bezpieczeństwa żeglugi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_11/ust_10",
+     "text": "Morskie Ratownicze Centrum Koordynacyjne w ramach realizacji zadań punktu odbioru alertu, o których mowa w art. 6 ust. 3 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich, przekazuje właściwe informacje związane z alertem, za pomocą systemu wymiany informacji bezpieczeństwa żeglugi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Systemy teleinformatyczne działające w ramach narodowego systemu SafeSeaNet powinny spełniać następujące wymagania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_1/pkt_1",
+       "text": "p osiadać dostępność nie mniejszą niż określona w dokumencie IFCD;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_1/pkt_2",
+       "text": "z apewniać możliwość archiwizowania i odzyskiwania danych w określonym w dokumencie IFCD okresie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_1/pkt_3",
+       "text": "u możliwiać przekazywanie informacji 24 godziny na dobę, 7 dni w tygodniu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_12/ust_1/pkt_4",
+       "text": "u możliwiać przekazywanie, niezwłocznie po otrzymaniu żądania, informacji o statku i ładunkach niebezpiecznych lub zanieczyszczających przewożonych na pokładzie statku właściwym organom państw członkowskich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_12/ust_1/pkt_5",
+       "text": "utrzymywać stale właściwy poziom bezpieczeństwa teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_12/ust_1/pkt_6",
+       "text": "zapewniać dostęp tylko dla uprawnionych użytkowników.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "W razie zaistnienia awarii lub planowanych przerw w pracy zapewnia się wymianę informacji przy użyciu telefonu, faksu lub poczty elektronicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "W celu regularnego sprawdzania funkcjonowania wszystkich podsystemów narodowego systemu SafeSeaNet dyrektorzy właściwych urzędów morskich przeprowadzają okresowe inspekcje techniczne oraz podejmują czynności niezbędne dla zapewnienia ciągłości jego działania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Podmioty tworzące i uczestniczące w narodowym systemie SafeSeaNet podejmują środki niezbędne do zapewnienia:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_13/pkt_1",
+     "text": "ochrony przed nieuprawnionym dostępem do:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_13/pkt_1/lit_a",
+       "text": "podsytemów SafeSeaNet,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_13/pkt_1/lit_b",
+       "text": "danych i informacji wymienianych za pomocą systemu SafeSeaNet;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_13/pkt_2",
+     "text": "wykorzystywania danych i informacji wymienianych za pomocą systemu SafeSeaNet tylko zgodnie z ich przeznaczeniem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Podmioty, o których mowa w § 6 ust. 1 i 2, którym przed dniem wejścia w życie rozporządzenia udzielono prawa dostępu do narodowego systemu SafeSeaNet, zachowują to prawo.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Infrastruktury: C. Grabarczyk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Infrastruktury kieruje działem administracji rządowej — gospodarka morska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. Nr 216, poz. 1594).",
+  "2": "Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Unii Europejskiej:\n\n1) dyrektywy 2002/59/WE z dnia 27 czerwca 2002 r. ustanawiającej wspólnotowy system monitorowania i informacji o ruchu statków i uchylającej dyrektywę 93/75/WE (Dz. Urz. UE L 208 z 05.08.2002, str. 10; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 12);\n\n2) dyrektywy 2009/17/WE z dnia 23 kwietnia 2009 r. zmieniającej dyrektywę 2002/59/WE ustanawiającą wspólnotowy system monitorowania i informacji o ruchu statków (Dz. Urz. UE L 131 z 28.05.2009, str. 101);\n\n3) dyrektywy 2009/16/WE z dnia 23 kwietnia 2009 r. w sprawie kontroli przeprowadzanej przez państwo portu (Dz. Urz. UE L 131 z 28.05.2009, str. 57).",
+  "3": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 107, poz. 732 i Nr 176, poz. 1238, z 2008 r. Nr 171, poz. 1055, z 2009 r. Nr 63, poz. 519, Nr 92, poz. 753 i Nr 98, poz. 817 oraz z 2010 r. Nr 127, poz. 857.",
+  "4": "Dokument, o którym mowa w § 2 pkt 10, jest dostępny pod adresem: http://www.umgdy.gov.pl/jednostka/irm",
+  "5": "Wzory wniosków, o których mowa w § 6 ust. 4, są dostępne pod adresem: http://www.umgdy.gov.pl/jednostka/irm",
+  "6": "Dokumenty, o których mowa w § 7 pkt 2, są dostępne pod adresem: http://www.umgdy.gov.pl/UserFiles/File/IALA_ VTS_Manual_edition4-2008.pdf"
+ }
+}

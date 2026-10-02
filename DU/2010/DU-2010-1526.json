@@ -1,0 +1,416 @@
+{
+ "eli": "DU/2010/1526",
+ "title": "Rozporządzenie Ministra Finansów z dnia 17 listopada 2010 r. w sprawie formy i trybu przekazywania przez organy Straży Granicznej oraz organy celne informacji Generalnemu Inspektorowi Informacji Finansowej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2010/1526/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 listopada 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie formy i trybu przekazywania przez organy Straży Granicznej oraz organy celne informacji Generalnemu Inspektorowi Informacji Finansowej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 15a ust. 6 ustawy z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2010 r. Nr 46, poz. 276 i Nr 182, poz. 1228) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa formę i tryb przekazywania Generalnemu Inspektorowi Informacji Finansowej, zwanemu dalej „Generalnym Inspektorem”, przez organy Straży Granicznej oraz organy celne informacji, o których mowa w art. 5 rozporządzenia (WE) nr 1889/2005 Parlamentu Europejskiego i Rady z dnia 26 października 2005 r. w sprawie kontroli środków pieniężnych wwożonych do Wspólnoty lub wywożonych ze Wspólnoty (Dz. Urz. UE L 309 z 25.11.2005, str. 9), oraz informacji zawartych w zgłoszeniu określonym w przepisach wydanych na podstawie art. 21 ustawy z dnia 27 lipca 2002 r. — Prawo dewizowe (Dz. U. Nr 141, poz. 1178, z późn. zm.[^2]).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Informacje, o których mowa w § 1, są przekazywane w postaci dokumentów elektronicznych przy użyciu środków komunikacji elektronicznej lub informatycznych nośników danych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Dokumenty elektroniczne składają się z zapisów elektronicznych, sporządzanych oddzielnie dla każdego zgłoszenia wwozu lub wywozu wartości majątkowych, zwanych dalej „rekordami zgłoszeń”. Dla każdego rodzaju wwożonych lub wywożonych środków zgłoszonych w jednym zgłoszeniu sporządza się osobny rekord zgłoszenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Schemat struktury dokumentów elektronicznych w formacie XML (rozszerzalnego języka znaczników) oraz format i znaczenie poszczególnych pól rekordu zgłoszenia określa załącznik do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Przekazywanie dokumentów elektronicznych odbywa się z zachowaniem struktury, o której mowa w ust. 3, z wyjątkiem zmian struktury dokumentów elektronicznych dokonanych w wyniku szyfrowania i zastosowania podpisu elektronicznego, o którym mowa w ustawie z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, poz. 1450, z późn. zm.[^3]).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "W celu umożliwienia przygotowania dokumentu elektronicznego we właściwym formacie oraz jego właściwego szyfrowania i podpisywania elektronicznego, Generalny Inspektor udostępnia Szefowi Służby Celnej i Komendantowi Głównemu Straży Granicznej oprogramowanie umożliwiające zapis danych we właściwym formacie XML oraz szyfrowanie z wykorzystaniem algorytmu asymetrycznego (algorytmu z kluczem publicznym) i podpisywanie dokumentów elektronicznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_2/ust_6",
+     "text": "W przypadku wykorzystania przez Szefa Służby Celnej lub Komendanta Głównego Straży Granicznej własnych systemów informatycznych do zbierania rekordów zgłoszeń w postaci elektronicznej, przekazanie informacji, o którym mowa w ust. 1, może nastąpić w drodze udzielenia Generalnemu Inspektorowi dostępu do tych systemów, spełniającego wymagania zabezpieczeń na poziomie nie mniejszym niż określone w rozporządzeniu i umożliwiającego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_6/pkt_1",
+       "text": "zgłoszenie przez Generalnego Inspektora potrzeby pobrania nowych danych z systemu (nowych rekordów zgłoszeń zapisanych w systemie od ostatniego przekazania danych do Generalnego Inspektora);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_6/pkt_2",
+       "text": "jednorazowe pobranie dokumentu elektronicznego, przygotowanego w odpowiedzi na powyższe zgłoszenie, zawierającego dane dotyczące nowych rekordów zgłoszeń.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Dokumenty elektroniczne przekazywane przy użyciu środków komunikacji elektronicznej przekazywane są za pośrednictwem strony internetowej lub poczty elektronicznej Generalnego Inspektora, które zapewniają poufność, integralność i niezaprzeczalność przesyłania danych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Dokumenty elektroniczne, które przekazywane są na informatycznych nośnikach danych, przekazywane są w formie zapisu na płycie CD/DVD, w standardzie ISO 9660 lub UDF (ISO 13346) lub przy użyciu innych informatycznych nośników danych, po wcześniejszym uzgodnieniu z Generalnym Inspektorem rodzaju nośnika.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Przesłanie do Generalnego Inspektora po raz pierwszy dokumentów elektronicznych wymaga wcześniejszego przekazania przez Generalnego Inspektora środków zabezpieczenia umożliwiających uwierzytelnianie nadawcy informacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Generalny Inspektor może zażądać ponownego przekazania danych w przypadku, gdy stwierdzi, że:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "dane zostały przekazane z naruszeniem przepisów rozporządzenia lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "otrzymana przesyłka jest uszkodzona lub zawiera błędy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Organ, który otrzyma żądanie Generalnego Inspektora, o którym mowa w ust. 1, jest obowiązany niezwłocznie, nie później niż w ciągu trzech dni roboczych od daty wpływu żądania, przekazać żądane informacje z zachowaniem wymogów określonych w rozporządzeniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Finansów: w z. W. Szczuka"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do rozporządzenia Ministra Finansów z dnia 17 listopada 2010 r. (poz. 1526)"
+    },
+    {
+     "type": "text",
+     "text": "SCHEMAT STRUKTURY DOKUMENTÓW ELEKTRONICZNYCH W FORMACIE XML (ROZSZERZALNEGO JĘZYKA ZNACZNIKÓW) ORAZ FORMAT I ZNACZENIE POSZCZEGÓLNYCH PÓL REKORDU ZGŁOSZENIA"
+    },
+    {
+     "type": "text",
+     "text": "A. Znaczenie poszczególnych pól dokumentów elektronicznych:"
+    },
+    {
+     "type": "text",
+     "text": "I. Dane nagłówkowe (wypełniane dla każdego dokumentu elektronicznego zawierającego rekordy zgłoszenia)"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa pola Objaśnienie Obowiązkowe Format pola T/N"
+    },
+    {
+     "type": "text",
+     "text": "OD data początkowa okresu, T 10 znaków (stała długość) za który są przekazywane dane dd/mm/rrrr"
+    },
+    {
+     "type": "text",
+     "text": "DO data końcowa okresu, za który T 10 znaków (stała długość) są przekazywane dane dd/mm/rrrr"
+    },
+    {
+     "type": "text",
+     "text": "IDENT numer NIP podmiotu T 10 cyfr przesyłającego dane (jednostki organizacyjnej Straży Granicznej lub Służby Celnej)"
+    },
+    {
+     "type": "text",
+     "text": "II. Dane dotyczące każdego rekordu zgłoszenia (wypełnianego osobno dla każdego rodzaju wartości majątkowych)"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa pola Objaśnienie Obowiązkowe Format pola T/N"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3 4"
+    },
+    {
+     "type": "text",
+     "text": "LP unikalny identyfikator rekordu T tekstowe 25 znaków zgłoszenia (unikalny numer rekordu zgłoszenia w rejestrze podmiotu przesyłającego dane)"
+    },
+    {
+     "type": "text",
+     "text": "STATUS status rekordu zgłoszenia T 1 znak (stała długość), do wyboru z listy: 1 = nowy rekord zgłoszenia, 0 = korekta rekordu zgłoszenia (w tym przypadku w polu LP musi być wpisany identyfikator rekordu zgłoszenia uprzednio przesłanego do GIIF i wymagającego korekty)"
+    },
+    {
+     "type": "text",
+     "text": "uwagi dotyczące korekt: — korekta rekordu zgłoszenia ma wypełnione wszystkie pola (wartościami prawidłowymi — po korekcie), — nie można korygować wartości pola LP"
+    },
+    {
+     "type": "text",
+     "text": "DATA data złożenia zgłoszenia T 10 znaków (stała długość) dd/mm/rrrr 1 2 3 4"
+    },
+    {
+     "type": "text",
+     "text": "NAZWISKO nazwisko składającego T tekstowe 200 znaków zgłoszenie"
+    },
+    {
+     "type": "text",
+     "text": "IMIE imię składającego zgłoszenie T tekstowe 40 znaków"
+    },
+    {
+     "type": "text",
+     "text": "RODZAJ_DOKUMENTU rodzaj dokumentu tożsamości T 2 znaki (stała długość), składającego zgłoszenie do wyboru PA (= paszport) lub DO (= inny dok.)"
+    },
+    {
+     "type": "text",
+     "text": "NR_DOKUMENTU seria i numer dokumentu T tekstowe 25 znaków tożsamości składającego zgłoszenie"
+    },
+    {
+     "type": "text",
+     "text": "OBYWATELSTWO obywatelstwo składającego T symbol kraju, którego zgłoszenie obywatelem jest osoba fizyczna (ISO 3166 dwuliterowy)"
+    },
+    {
+     "type": "text",
+     "text": "DATA_UR data urodzenia składającego T 10 znaków (stała długość) zgłoszenie dd/mm/rrrr"
+    },
+    {
+     "type": "text",
+     "text": "NZ_WLASC nazwisko/nazwa właściciela N tekstowe 200 znaków; środków wpisywane, jeśli właścicielem środków jest inny podmiot niż składający zgłoszenie"
+    },
+    {
+     "type": "text",
+     "text": "IMIE_WLASC imię właściciela środków N tekstowe 40 znaków; wpisywane, jeśli właścicielem środków jest inny podmiot niż składający zgłoszenie i dane są znane składającemu zgłoszenie"
+    },
+    {
+     "type": "text",
+     "text": "RODZDOK_WLASC rodzaj dokumentu tożsamości N 2 znaki (stała długość), właściciela środków do wyboru PA (= paszport) lub DO (= inny dok.); wpisywane, jeśli właścicielem środków jest inny podmiot niż składający zgłoszenie i dane są znane składającemu zgłoszenie"
+    },
+    {
+     "type": "text",
+     "text": "NRDOK_WLASC seria i numer dokumentu N tekstowe 25 znaków; tożsamości właściciela wpisywane, jeśli właścicielem środków środków jest inny podmiot niż składający zgłoszenie i dane są znane składającemu zgłoszenie"
+    },
+    {
+     "type": "text",
+     "text": "OBYW_WLASC obywatelstwo właściciela N symbol kraju, którego osoba środków fizyczna jest obywatelem (ISO 3166 dwuliterowy); wpisywane, jeśli właścicielem środków jest inny podmiot niż składający zgłoszenie i dane są znane składającemu zgłoszenie"
+    },
+    {
+     "type": "text",
+     "text": "DATAUR_WLASC data urodzenia właściciela N 10 znaków (stała długość) środków dd/mm/rrrr; wpisywane, jeśli właścicielem środków jest inny podmiot niż składający zgłoszenie i dane są znane składającemu zgłoszenie"
+    },
+    {
+     "type": "text",
+     "text": "RODZ_DEK rodzaj deklaracji T dwuznakowe do wyboru z listy: SL (= zgłoszona dobrowolnie) KP (= wynik kontroli)"
+    },
+    {
+     "type": "text",
+     "text": "SID rodzaj środków T dwuznakowe do wyboru z listy: BM (= banknoty/monety) CZ (= czeki) WE (= weksle) AU (= złoto dewizowe) PT (= platyna dewizowa) IN (= inne) 1 2 3 4"
+    },
+    {
+     "type": "text",
+     "text": "KWOTA deklarowana kwota T liczba rzeczywista (dla SID = BM jest to kwota (dopuszczalne znaki to cyfry i \",\" przewożonych pieniędzy, jako separator miejsc dla SID różnego od BM jest to dziesiętnych) wartość środków wyliczona w walucie określonej w polu WALUTA)"
+    },
+    {
+     "type": "text",
+     "text": "WALUTA waluta deklarowanej kwoty T symbol waluty zgodnie banknotów/monet z symbolami walutowymi (jeśli SID = BM) lub waluta ISO 4217 (np. w przypadku użyta przy wyliczaniu wartości polskich złotych: PLN); innych środków wskazanej w szczególności dopuszczalne w polu KWOTA (jeśli SID różne użycie symbolu XAU/XPT od BM) w przypadku przewozu złota/platyny dewizowej, jeśli w polu KWOTA określono wartość poprzez podanie liczby uncji metalu"
+    },
+    {
+     "type": "text",
+     "text": "PRZEJSCIE nazwa właściwego organu, T tekstowe 100 znaków któremu jest składane zgłoszenie"
+    },
+    {
+     "type": "text",
+     "text": "CEL zamierzony cel przeznaczenia T tekstowe 200 znaków"
+    },
+    {
+     "type": "text",
+     "text": "POCHODZENIE kraj, z którego pochodzą środki T tekstowe 200 znaków i deklarowane pochodzenie środków"
+    },
+    {
+     "type": "text",
+     "text": "ZAM_ODB_NAZWISKO deklarowane nazwisko/nazwa N tekstowe 200 znaków; podmiotu, dla którego są wpisywane, jeśli deklarowanym przewożone środki odbiorcą jest inny podmiot niż składający zgłoszenie"
+    },
+    {
+     "type": "text",
+     "text": "ZAM_ODB_IMIE deklarowane imię podmiotu, N tekstowe 40 znaków; dla którego są przewożone środki wpisywane, jeśli deklarowanym odbiorcą jest inny podmiot niż składający zgłoszenie"
+    },
+    {
+     "type": "text",
+     "text": "ZAM_ODB_ADRES deklarowany adres podmiotu, N tekstowe 40 znaków; dla którego są przewożone środki wpisywane, jeśli deklarowanym odbiorcą jest inny podmiot niż składający zgłoszenie"
+    },
+    {
+     "type": "text",
+     "text": "KRAJ_WYWOZU kod kraju, z którego pochodzą T symbol kraju (ISO 3166 deklarowane środki dwuliterowy)"
+    },
+    {
+     "type": "text",
+     "text": "KRAJ_TRANZYTU kod/kody kraju/krajów, przez N symbol kraju lub oddzielone który/które są przewożone przecinkami symbole krajów deklarowane środki (ISO 3166 dwuliterowe)"
+    },
+    {
+     "type": "text",
+     "text": "KRAJ_PRZYWOZU kod kraju, do którego są T symbol kraju (ISO 3166 przewożone deklarowane dwuliterowy) środki"
+    },
+    {
+     "type": "text",
+     "text": "UWAGI dodatkowe informacje do N pole tekstowe do 1000 znaków rekordu zgłoszenia"
+    },
+    {
+     "type": "text",
+     "text": "NUM1 pole numeryczne do przyszłego N liczba dziesiętna wykorzystania"
+    },
+    {
+     "type": "text",
+     "text": "NUM2 pole numeryczne do przyszłego N liczba dziesiętna wykorzystania"
+    },
+    {
+     "type": "text",
+     "text": "NUM3 pole numeryczne do przyszłego N liczba dziesiętna wykorzystania"
+    },
+    {
+     "type": "text",
+     "text": "TXT1 pole tekstowe do przyszłego N pole tekstowe do 200 znaków wykorzystania"
+    },
+    {
+     "type": "text",
+     "text": "TXT2 pole tekstowe do przyszłego N pole tekstowe do 200 znaków wykorzystania"
+    },
+    {
+     "type": "text",
+     "text": "TXT3 pole tekstowe do przyszłego N pole tekstowe do 200 znaków wykorzystania B. Schemat struktury dokumentów elektronicznych w formacie rozszerzalnego języka znaczników (XML)"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 5 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:element> <xsd:element name=\"NAZWISKO\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"200\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"IMIE\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"40\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"RODZAJ_DOKUMENTU\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"PA|DO\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"NR_DOKUMENTU\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"25\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"OBYWATELSTWO\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"[A-Z] [A-Z]\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"DATA_UR\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"Mdf2)/Ndf2)/Ndl4]\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"NZ_WLASC\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"200\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"IMIE_WLASC\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"40\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"RODZDOK_ WLASC\" minOccurs=\"0\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"PA|DO\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"NRDOK_WLASC\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"25\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"OBYW_WLASC\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"[A-Z] [A-Z]\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"DATAUR_WLASC\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"\\d{2}/\\d{2}/\\d{4}\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"RODZ_DEK\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"SL|KP\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"SID\"> <xsd:simpleType> <xsd: restriction <xsd:enumeration value=\"BM\"/> <xsdienumeration value=\"CZ\"/> <xsd:enumeration value=\"WE\"/> <xsd:enumeration value=\"AU\"/> <xsd:enumeration value=\"PT\"/> <xsd:enumeration value=\"IN\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "base=\"xsd:string\">"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"KWOTA\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"\\d{0,12} (,\\d{2})\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"WALUTA\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"{A-Z] [A-2] (A-Z]\"/> </xsd:restriction>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:simpleType> </xsd:element> <xsd:element name=\"PRZEJSCIE\"> <xsd: simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"100\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"CEL\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"200\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"POCHODZENIE\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"200\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"ZAM_ODB_NAZWISKO\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"200\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"ZAM ODB_IMIE\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"xsd: string\"> <xsd:maxLength value=\"40\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"ZAM ODB ADRES\" minOccurs=\"Q\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"40\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"KRAJ WYWOZU\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"[A-Z] [A-2]\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"KRAJ TRANZYTU\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"200\"/> </xsd:restriction> </xsd:simpleType> </xsd:element>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:element name=\"KRAJ_PRZYWOZU\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"[A-Z][A-Z]\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"UWAGI\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"1000\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"TXTI\" minOc <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"200\"/> </xsd:restriction>"
+    },
+    {
+     "type": "ocr",
+     "text": "z5=\"0Q\">"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:simpleType> </xsd:element> <xsd:element name=\"TXT2\" minCccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"200\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"TKT3\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:maxLength value=\"200\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"NUML\" minCccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"xsd:decimal\"> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"NUM2\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"xsd:decimal\"> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"NUM3\" minCccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"xsd:decimal\"> </xsd:restriction> </xsd:simpleType> </xsd:element> </xsd:sequence> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:complexType>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Finansów kieruje działem administracji rządowej — instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 216, poz. 1592).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 228, poz. 2260, z 2004 r. Nr 91, poz. 870 i Nr 173, poz. 1808, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 61, poz. 410, z 2008 r. Nr 228, poz. 1506 oraz z 2009 r. Nr 18, poz. 97 i Nr 69, poz. 589.",
+  "3": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 64, poz. 565, z 2006 r. Nr 145, poz. 1050, z 2009 r. Nr 18, poz. 97 oraz z 2010 r. Nr 40, poz. 230 i Nr 182, poz. 1228."
+ }
+}
