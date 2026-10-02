@@ -1,0 +1,1178 @@
+{
+ "eli": "DU/2009/31",
+ "title": "Rozporządzenie Ministra Środowiska z dnia 17 grudnia 2008 r. w sprawie dokonywania oceny poziomów substancji w powietrzu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2009/31/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 grudnia 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie dokonywania oceny poziomów substancji w powietrzu[^2]"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 90 ust. 3 ustawy z dnia 27 kwietnia 2001 r. — Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.[^3]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "metody i zakres dokonywania oceny poziomów substancji w powietrzu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "górne i dolne progi oszacowania dla niektórych substancji w powietrzu oraz dopuszczalne częstości przekraczania progów oszacowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "zakresy wymaganych pomiarów, z podziałem na pomiary ciągłe oraz okresowe;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "kryteria lokalizacji punktów poboru próbek substancji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "minimalną liczbę stałych punktów pomiarowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "przypadki, gdy ocena jakości powietrza:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_6/lit_a",
+       "text": "powinna być dokonywana metodami pomiarowymi,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_6/lit_b",
+       "text": "może być dokonywana:",
+       "children": [
+        {
+         "type": "text",
+         "text": "— przy zastosowaniu kombinacji metod pomiarowych i metod modelowania,"
+        },
+        {
+         "type": "text",
+         "text": "— metodami modelowania lub innymi metodami szacowania;"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "metodyki referencyjne oraz wymagania dotyczące jakości pomiarów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "zakres dokumentacji dotyczącej uzasadnienia lokalizacji punktów pomiarowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Oceny poziomów substancji w powietrzu dokonuje się w strefach, o których mowa w art. 87 ust. 2 ustawy z dnia 27 kwietnia 2001 r. — Prawo ochrony środowiska, w odniesieniu do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "dopuszczalnych poziomów substancji w powietrzu powiększonych o margines tolerancji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "dopuszczalnych poziomów substancji w powietrzu określonych dla terenu kraju ze względu na ochronę zdrowia ludzi oraz ze względu na ochronę roślin, a także w odniesieniu do alarmowych poziomów niektórych substancji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "docelowych poziomów substancji w powietrzu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "poziomów celów długoterminowych substancji w powietrzu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Oceny poziomów substancji w powietrzu ze względu na ochronę zdrowia w zakresie dwutlenku siarki, dwutlenku azotu, tlenku węgla, pyłu zawieszonego PM10, benzenu i ozonu w powietrzu oraz ołowiu, arsenu, kadmu, niklu i benzo(a)pirenu w pyle zawieszonym PM10 dokonuje się w strefach na terenie całego kraju, z wyłączeniem:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "terenów zakładów pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "miejsc, do których obowiązuje zakaz wstępu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "jezdni dróg i pasów rozdzielczych dróg, z wyjątkiem sytuacji, w której piesi mają dostęp do pasa rozdzielczego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Oceny poziomów substancji w powietrzu ze względu na ochronę roślin w zakresie dwutlenku siarki, tlenków azotu i ozonu dokonuje się w strefach na terenie całego kraju, z wyłączeniem obszarów miast lub miejsc, o których mowa w ust. 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Metodami dokonywania oceny poziomów substancji w powietrzu są pomiary ciągłe, pomiary okresowe oraz metody szacowania, w szczególności modelowanie matematyczne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Dla potrzeb ustalania metod oceny poziomów substancji w powietrzu, odpowiednio do przypadków, o których mowa w § 11, określa się górne i dolne progi oszacowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Górne i dolne progi oszacowania dla benzenu, dwutlenku azotu, tlenków azotu, dwutlenku siarki, ozonu, tlenku węgla i pyłu zawieszonego PM10 oraz ołowiu, arsenu, kadmu, niklu i benzo(a)pirenu w pyle zawieszonym PM10, a także dopuszczalne częstości ich przekraczania określa załącznik nr 1 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Próg oszacowania uznaje się za dotrzymany w przypadku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "benzenu, dwutlenku azotu, tlenków azotu, dwutlenku siarki, ołowiu w pyle zawieszonym PM10, pyłu zawieszonego PM10 i tlenku węgla, jeżeli podczas pięciu poprzednich lat był on przekraczany co najwyżej w dwóch odrębnych latach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "ozonu, jeżeli podczas pięciu poprzednich lat nie był on przekraczany w żadnym roku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_2/pkt_3",
+       "text": "arsenu, kadmu, niklu, benzo(a)pirenu, jeżeli podczas pięciu poprzednich lat był on przekraczany co najwyżej w dwóch odrębnych latach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "W przypadku braku danych pomiarowych z okresu poprzednich pięciu lat, do określenia dotrzymania progu oszacowania, o którym mowa w ust. 2, wykorzystuje się dane z krótszego okresu pomiarowego, jeżeli pomiary były prowadzone w czasie i w miejscach o najwyższych poziomach substancji w powietrzu, w połączeniu z wynikami inwentaryzacji emisji i modelowania matematycznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Przy ocenie poziomów substancji w powietrzu ze względu na ochronę zdrowia ludzi wykorzystuje się w szczególności wyniki pomiarów z punktów poboru próbek substancji spełniających warunki określone w § 6 ust. 1 i 3—5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Przy ocenie poziomów substancji w powietrzu ze względu na ochronę roślin wykorzystuje się w szczególności wyniki pomiarów z punktów poboru próbek substancji spełniających warunki określone w § 6 ust. 2 i 5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Pomiary poziomów substancji, które przyczyniają się do tworzenia ozonu przyziemnego w powietrzu, obejmujące co najmniej tlenki azotu, tlenek węgla i lotne związki organiczne, prowadzi się w co najmniej jednym punkcie pomiarowym w kraju.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Wykaz substancji, które przyczyniają się do tworzenia ozonu przyziemnego w powietrzu, określa załącznik nr 2 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "Pomiary poziomu pyłu zawieszonego PM2,5 w powietrzu prowadzi się w co najmniej jednym punkcie pomiarowym w aglomeracji powyżej 250 000 mieszkańców. Stanowiska pomiarowe pyłu zawieszonego PM2,5 powinny być zainstalowane na stacjach tła miejskiego, w których jest mierzony pył zawieszony PM10.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_5/ust_6",
+     "text": "W celu określenia udziału benzo(a)pirenu w wielopierścieniowych węglowodorach aromatycznych obecnych w powietrzu oprócz pomiarów benzo(a)pirenu w pyle zawieszonym PM10 prowadzi się pomiary zawartości benzo(a)antracenu, benzo(b)fluorantenu, benzo(j)fluorantenu, benzo(k)fluorantenu, indeno(1,2,3-cd)pirenu, dibenzo(a,h)antracenu w pyle zawieszonym PM10 na jednej stacji pomiarowej tła miejskiego w województwie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_5/ust_7",
+     "text": "Pomiary całkowitej rtęci w stanie gazowym, arsenu, kadmu, niklu, benzo(a)pirenu, benzo(a)antracenu, benzo(b)fluorantenu, benzo(j)fluorantenu, benzo(k)fluorantenu, indeno(1,2,3-cd)pirenu, dibenzo(a,h)antracenu w pyle zawieszonym PM10 oraz całkowitej depozycji tych zanieczyszczeń prowadzi się na co najmniej trzech stacjach tła w kraju.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Punkty poboru próbek substancji przy prowadzeniu pomiarów poziomów benzenu, dwutlenku azotu, tlenków azotu, dwutlenku siarki, ołowiu, arsenu, kadmu, niklu, benzo(a)pirenu, pyłu zawieszonego PM10 i tlenku węgla w powietrzu ze względu na ochronę zdrowia ludzi powinny być zlokalizowane tak, aby:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "dostarczały danych z obszarów stref o najwyższych poziomach substancji w powietrzu, na które ludność będzie narażona przez okres odpowiedni do okresu uśredniania wyników pomiarów, dla którego określono poziomy dopuszczalne, poziomy docelowe lub poziomy celów długoterminowych substancji w powietrzu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "dostarczały danych z innych obszarów stref niż określone w pkt 1, dotyczących narażenia ogółu ludności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_1/pkt_3",
+       "text": "były reprezentatywne dla:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_6/ust_1/pkt_3/lit_a",
+         "text": "obszaru o powierzchni co najmniej 200 m² w przypadku pomiarów prowadzonych z uwagi na oddziaływanie transportu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_6/ust_1/pkt_3/lit_b",
+         "text": "obszaru o powierzchni kilku km² w przypadku pomiarów tła miejskiego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_6/ust_1/pkt_3/lit_c",
+         "text": "obszaru o powierzchni co najmniej 250 m×250 m w przypadku pomiarów arsenu, kadmu, niklu lub benzo(a)pirenu prowadzonych z uwagi na oddziaływanie przemysłu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_6/ust_1/pkt_3/lit_d",
+         "text": "podobnych lokalizacji nieznajdujących się w bezpośrednim sąsiedztwie.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Punkty poboru próbek substancji przy prowadzeniu pomiarów poziomów tlenków azotu i dwutlenku siarki w powietrzu ze względu na ochronę roślin powinny być zlokalizowane:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_2/pkt_1",
+       "text": "w odległości ponad 20 km od aglomeracji powyżej 250 000 mieszkańców lub ponad 5 km od innych obszarów zabudowanych, instalacji i głównych szlaków komunikacyjnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_2/pkt_2",
+       "text": "tak, aby były reprezentatywne dla obszaru o powierzchni co najmniej 1000 km².",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Punkty poboru próbek substancji przy prowadzeniu pomiarów ze względu na oddziaływanie transportu powinny być lokalizowane co najmniej w odległości 25 m od krańca głównych skrzyżowań i nie dalej niż 10 m od krawężnika najbliższej jezdni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Co najmniej jeden punkt poboru próbek arsenu, kadmu, niklu i benzo(a)pirenu przy prowadzeniu pomiarów ze względu na oddziaływanie przemysłu powinien znajdować się po stronie zawietrznej instalacji na najbliższym terenie mieszkalnym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_6/ust_5",
+     "text": "Kryteria lokalizacji punktów poboru próbek do oceny poziomu ozonu określa załącznik nr 3 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Wyboru lokalizacji punktów pomiarowych należy dokonać w taki sposób, aby:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "przepływ powietrza wokół czerpni nie był ograniczony żadnymi przeszkodami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "czerpnia była umieszczona w odległości kilku metrów od budynków, drzew i innych przeszkód, z tym że w przypadku:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_7/pkt_2/lit_a",
+       "text": "pomiarów benzenu, dwutlenku azotu, tlenków azotu, dwutlenku siarki, ołowiu, arsenu, kadmu, niklu, benzo(a)pirenu, pyłu zawieszonego PM10 i tlenku węgla prowadzonych ze względu na oddziaływanie transportu w punktach reprezentatywnych dla jakości powietrza na linii zabudowy — w odległości co najmniej 1 m od najbliższego budynku,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_7/pkt_2/lit_b",
+       "text": "pomiarów ozonu — w odległości nie mniejszej niż dwukrotna różnica wysokości przeszkody i czerpni oraz w odległości co najmniej 10 m od najbliższej drogi, tym większej im większe jest natężenie ruchu drogowego;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_7/pkt_3",
+     "text": "czerpnia znajdowała się na wysokości od 1,5 m do 4 m powyżej poziomu gruntu; dopuszcza się usytuowanie czerpni do 8 m w przypadkach, gdy punkt poboru próbek ma być reprezentatywny dla większego obszaru;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_7/pkt_4",
+     "text": "uniknąć ponownego zasysania przez czerpnię powietrza odprowadzanego z punktu pomiarowego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_7/pkt_5",
+     "text": "uniknąć bezpośredniego zasysania przez czerpnię substancji przed ich dostatecznym wymieszaniem z powietrzem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Minimalną liczbę stałych punktów pomiarowych przy prowadzeniu pomiarów poziomów benzenu, dwutlenku azotu, tlenków azotu, dwutlenku siarki, pyłu zawieszonego PM10 i tlenku węgla w powietrzu oraz ołowiu, arsenu, kadmu, niklu i benzo(a)pirenu w pyle zawieszonym PM10 w strefach, w których substancje te są wprowadzane w sposób niezorganizowany lub z małych instalacji rozumianych jako wymagające pozwolenia instalacje zaliczane do przedsięwzięć mogących znacząco oddziaływać na środowisko, dla których raport o oddziaływaniu przedsięwzięcia na środowisko może być wymagany, określa załącznik nr 4 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Jeżeli benzen, dwutlenek azotu, tlenki azotu, dwutlenek siarki, ołów, pył zawieszony PM10 i tlenek węgla wprowadzane są także z dużych instalacji rozumianych jako instalacje mogące znacząco oddziaływać na środowisko, dla których wymagany jest raport o oddziaływaniu przedsięwzięcia na środowisko, co najmniej jeden punkt pomiarowy w strefie powinien być zlokalizowany po stronie zawietrznej instalacji dla dominującego kierunku lub kierunków wiatru, na najbliższym obszarze zabudowy mieszkaniowej, tak aby umożliwiał monitorowanie oddziaływania instalacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "W przypadku braku danych na temat poziomu tła dodatkowy punkt pomiarowy powinien być zlokalizowany w dominującym kierunku wiatru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_8/ust_4",
+     "text": "Przy prowadzeniu pomiarów arsenu, kadmu, niklu i benzo(a)pirenu, ze względu na oddziaływanie instalacji wymagających pozwoleń zintegrowanych, punkt pomiarowy powinien być zlokalizowany w sposób umożliwiający monitorowanie zastosowania w tych instalacjach najlepszych dostępnych technik.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_8/ust_5",
+     "text": "Minimalna liczba stałych punktów pomiarowych przy prowadzeniu pomiarów poziomów tlenków azotu i dwutlenku siarki w powietrzu ze względu na ochronę roślin wynosi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_5/pkt_1",
+       "text": "jeden na 20 000 km², jeżeli poziomy tych substancji w powietrzu przekraczają górny próg oszacowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_5/pkt_2",
+       "text": "jeden na 40 000 km², jeżeli poziomy tych substancji w powietrzu nie przekraczają górnego progu oszacowania i są wyższe od dolnego progu oszacowania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_8/ust_6",
+     "text": "Minimalna liczba stałych punktów pomiarowych, o których mowa w ust. 1—4, dotyczy przypadku, gdy pomiary stanowią jedyne źródło informacji o jakości powietrza.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Minimalną liczbę stałych punktów pomiarowych przy prowadzeniu pomiarów poziomu ozonu w powietrzu, gdy pomiary stanowią jedyne źródło informacji, określa załącznik nr 5 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "W strefach, w których pomiary poziomów ozonu są wymagane, prowadzi się także pomiary ciągłe poziomów dwutlenku azotu i tlenków azotu w powietrzu, z tym że liczba stałych punktów pomiarowych dla prowadzenia pomiarów dwutlenku azotu i tlenków azotu może być o połowę mniejsza niż określona w załączniku nr 5 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "W strefie, w której jest tylko jeden stały punkt pomiarowy, powinny być równocześnie prowadzone pomiary poziomów dwutlenku azotu i tlenków azotu, z wyjątkiem stanowiska pozamiejskiego (wiejskiego).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "W strefach, w których wymagane są pomiary poziomów substancji w powietrzu, liczba stałych punktów pomiarowych może być mniejsza niż określona w § 8 i 9, jeżeli wyniki pomiarów są uzupełniane danymi z innych źródeł, takich jak modelowanie matematyczne, inwentaryzacje emisji lub pomiary okresowe, i pod warunkiem że dane te umożliwią dokonanie rzetelnej oceny poziomów substancji w powietrzu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Oceny poziomu substancji w powietrzu w strefach, w których poziom substancji przekracza górny próg oszacowania, dokonuje się na podstawie pomiarów ciągłych rozumianych jako pomiary automatyczne lub jako pomiary manualne prowadzone w sposób systematyczny, odpowiednio do metodyk referencyjnych, o których mowa w § 12, w stałych punktach pomiarowych. Przy dokonywaniu ocen można dodatkowo wykorzystać metody modelowania matematycznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Oceny poziomu substancji w powietrzu w strefach, w których poziom substancji nie przekracza górnego progu oszacowania, dokonuje się na podstawie kombinacji pomiarów w stałych punktach pomiarowych i metod szacowania, w szczególności modelowania matematycznego oraz pomiarów okresowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Oceny poziomu substancji w powietrzu w strefach, w których poziom substancji nie przekracza dolnego progu oszacowania, można dokonać wyłącznie na podstawie modelowania matematycznego, innych metod szacowania lub pomiarów okresowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_11/ust_4",
+     "text": "Oceny poziomu dwutlenku siarki, dwutlenku azotu i ozonu na terenie aglomeracji powyżej 250 000 mieszkańców dokonuje się na podstawie pomiarów ciągłych w stałych punktach pomiarowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Metodyki referencyjne oraz wymagania dotyczące jakości pomiarów określa załącznik nr 6 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Zakres dokumentacji dotyczącej uzasadnienia lokalizacji punktów pomiarowych określa załącznik nr 7 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Traci moc rozporządzenie Ministra Środowiska z dnia 6 czerwca 2002 r. w sprawie oceny poziomów substancji w powietrzu (Dz. U. Nr 87, poz. 798).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: M. Nowicki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Środowiska z dnia 17 grudnia 2008 r. (poz. 31) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "GÓRNE I DOLNE PROGI OSZACOWANIA DLA BENZENU, DWUTLENKU AZOTU, TLENKÓW AZOTU, DWUTLENKU SIARKI, OZONU, TLENKU WĘGLA I PYŁU ZAWIESZONEGO PM10 ORAZ OŁOWIU, ARSENU, KADMU, NIKLU I BENZO(A)PIRENU W PYLE ZAWIESZONYM PM10, A TAKŻE DOPUSZCZALNE CZĘSTOŚCI ICH PRZEKRACZANIA"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 1. Górne i dolne progi oszacowania dla benzenu, dwutlenku azotu, tlenków azotu, dwutlenku siarki, ołowiu, pyłu zawieszonego PM10 i tlenku węgla oraz dopuszczalne częstości ich przekraczania Dziennik Ustaw Nr 5 — 657 — Poz. 31"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 5 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 2. Górne i dolne progi oszacowania dla arsenu, kadmu, niklu i benzo(a)pirenu"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 6 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 3. Górne i dolne progi oszacowania dla ozonu"
+    },
+    {
+     "type": "text",
+     "text": "Objaśnienia:"
+    },
+    {
+     "type": "text",
+     "text": "¹⁾ Poziom dopuszczalny ze względu na ochronę zdrowia ludzi. ²⁾ Poziom dopuszczalny ze względu na ochronę roślin. ³⁾ Poziom celu długoterminowego ze względu na ochronę zdrowia ludzi. ⁴⁾ Poziom celu długoterminowego ze względu na ochronę roślin."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ SUBSTANCJI, KTÓRE PRZYCZYNIAJĄ SIĘ DO TWORZENIA OZONU PRZYZIEMNEGO W POWIETRZU"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 7 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "KRYTERIA LOKALIZACJI PUNKTÓW POBORU PRÓBEK DO OCENY POZIOMU OZONU"
+    },
+    {
+     "type": "text",
+     "text": "Punkty pomiarowe do oceny poziomu ozonu w powietrzu ze względu na:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "ochronę zdrowia ludzi w stanowisku miejskim powinny:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_1/lit_a",
+       "text": "uwzględniać ocenę narażania ludności na ozon (być zlokalizowane na obszarach z dużą gęstością zaludnienia i stosunkowo wysokimi stężeniami ozonu),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_1/lit_b",
+       "text": "reprezentować obszar kilku km²,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_1/lit_c",
+       "text": "być zlokalizowane z dala od wpływu źródeł emisji lokalnych, w szczególności ruchu samochodowego i stacji benzynowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "pkt_1/lit_d",
+       "text": "być zlokalizowane w miejscach przewietrzanych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "pkt_1/lit_e",
+       "text": "być zlokalizowane na obszarach z zabudową mieszkaniową, w szczególności na osiedlach i terenach handlowych w obrębie miast (w odpowiedniej odległości od drzew)[^1_2];",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "ochronę zdrowia ludzi i roślin w stanowisku:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_2/lit_a",
+       "text": "podmiejskim powinny:",
+       "children": [
+        {
+         "type": "text",
+         "text": "— uwzględniać ocenę narażania ludności i roślin na obrzeżach aglomeracji powyżej 250 000 mieszkańców, tam gdzie poziomy ozonu wykazują wartości najwyższe,"
+        },
+        {
+         "type": "text",
+         "text": "— reprezentować obszar kilkudziesięciu km²,"
+        },
+        {
+         "type": "text",
+         "text": "— być zlokalizowane w pewnej odległości od obszaru emisji maksymalnych, po stronie zawietrznej dla dominującego kierunku lub kierunków wiatru występujących w warunkach sprzyjających powstawaniu wysokich stężeń ozonu,"
+        },
+        {
+         "type": "text",
+         "text": "— być zlokalizowane w miejscach pobytu ludzi oraz występowania wrażliwych upraw lub naturalnych ekosystemów zlokalizowanych na obrzeżach aglomeracji powyżej 250 000 mieszkańców, narażonych na wysokie poziomy ozonu,"
+        },
+        {
+         "type": "text",
+         "text": "— być zlokalizowane po nawietrznej stronie miasta w obszarach podmiejskich w celu określenia regionalnego tła stężeń ozonu,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_2/lit_b",
+       "text": "pozamiejskim (wiejskim) powinny:",
+       "children": [
+        {
+         "type": "text",
+         "text": "— uwzględniać ocenę narażania ludności, upraw i naturalnych ekosystemów na stężenia ozonu,"
+        },
+        {
+         "type": "text",
+         "text": "— reprezentować obszar kilku km²,"
+        },
+        {
+         "type": "text",
+         "text": "— być zlokalizowane na terenie niewielkich osiedli lub na obszarach, gdzie występują naturalne ekosystemy, lasy lub uprawy,"
+        },
+        {
+         "type": "text",
+         "text": "— być zlokalizowane z dala od bezpośredniego wpływu źródeł emisji lokalnych, takich jak zakłady przemysłowe i drogi,"
+        },
+        {
+         "type": "text",
+         "text": "— być zlokalizowane na terenach otwartych, ale nie na szczytach górskich,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_2/lit_c",
+       "text": "tła regionalnego:",
+       "children": [
+        {
+         "type": "text",
+         "text": "— powinny być zlokalizowane na terenach o niskiej gęstości zaludnienia, w szczególności w obrębie naturalnych ekosystemów, lasów, w odległości co najmniej 20 km od terenów miejskich i przemysłowych i z dala od lokalnych źródeł emisji,"
+        },
+        {
+         "type": "text",
+         "text": "— powinny reprezentować obszar od 1000 do 10 000 km²,"
+        },
+        {
+         "type": "text",
+         "text": "— nie powinny być zlokalizowane na terenach narażonych na występowanie lokalnej inwersji atmosferycznej, na szczytach wyższych gór oraz na obszarach nadmorskich ze stwierdzoną lokalną cyrkulacją powietrza w cyklu dobowym."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "MINIMALNA LICZBA STAŁYCH PUNKTÓW POMIAROWYCH PRZY PROWADZENIU POMIARÓW POZIOMÓW BENZENU, DWUTLENKU AZOTU, TLENKÓW AZOTU, DWUTLENKU SIARKI, PYŁU ZAWIESZONEGO PM10 I TLENKU WĘGLA W POWIETRZU ORAZ OŁOWIU, ARSENU, KADMU, NIKLU I BENZO(A)PIRENU W PYLE ZAWIESZONYM PM10 W STREFACH, W KTÓRYCH SUBSTANCJE TE SĄ WPROWADZANE W SPOSÓB NIEZORGANIZOWANY LUB Z MAŁYCH INSTALACJI"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 9 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Objaśnienie:"
+    },
+    {
+     "type": "text",
+     "text": "¹⁾ W przypadku benzenu, benzo(a)pirenu, arsenu, kadmu, niklu, dwutlenku azotu, pyłu zawieszonego PM10 i tlenku węgla należy uwzględnić przynajmniej jeden punkt pomiaru tła miejskiego. W przypadku benzenu, benzo(a)pirenu, dwutlenku azotu, pyłu zawieszonego PM10 i tlenku węgla należy także uwzględnić jeden punkt pomiarowy do oceny poziomu substancji w rejonie oddziaływania ruchu drogowego, jeżeli nie spowoduje to zwiększenia liczby punktów poboru próbek ."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 5"
+    },
+    {
+     "type": "text",
+     "text": "MINIMALNA LICZBA STAŁYCH PUNKTÓW POMIAROWYCH PRZY PROWADZENIU POMIARÓW POZIOMU OZONU W POWIETRZU, GDY POMIARY STANOWIĄ JEDYNE ŹRÓDŁO INFORMACJI"
+    },
+    {
+     "type": "text",
+     "text": "Objaśnienia:"
+    },
+    {
+     "type": "text",
+     "text": "¹⁾ Co najmniej jedno stanowisko podmiejskie w miejscu, gdzie występuje największe narażenie ludności. W przypadku aglomeracji powyżej 250 000 mieszkańców co najmniej połowę liczby stałych punktów pomiarowych powinny stanowić stanowiska podmiejskie. ²⁾ Jeżeli populacja strefy jest mniejsza niż 249 000 mieszkańców, a w strefie przekraczany jest górny próg oszacowania, to koordynacja działań między tymi strefami powinna zapewnić właściwą ocenę poziomu ozonu w oparciu o stanowisko pozamiejskie (wiejskie)."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 6",
+   "body": [
+    {
+     "type": "text",
+     "text": "METODYKI REFERENCYJNE ORAZ WYMAGANIA DOTYCZĄCE JAKOŚCI POMIARÓW"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 1. Metodyki referencyjne poboru próbek i analiz poziomów substancji¹⁾"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 2.²⁾ Wymagania, jakie powinny spełniać wyniki pomiarów ciągłych³⁾"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 3.²⁾ Wymagania, jakie powinny spełniać wyniki pomiarów okresowych"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 4. Wymagania, jakie powinny spełniać wyniki modelowania Dziennik Ustaw Nr 5 — 663 — Poz. 31"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 11 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 5. Wymagania, jakie powinny spełniać inne metody szacowania"
+    },
+    {
+     "type": "text",
+     "text": "Objaśnienia:"
+    },
+    {
+     "type": "text",
+     "text": "¹⁾ Stężenia substancji w powietrzu ustala się w przypadku:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "substancji gazowych — w warunkach temperatury 293 K i ciśnieniu atmosferycznym 101,3 kPa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "pyłu zawieszonego i substancji zawartych w pyle — w warunkach otoczenia pod względem temperatury i ciśnienia atmosferycznego w dniu pomiaru. ²⁾ Udziały procentowe podane są dla pojedynczych pomiarów uśrednionych odpowiednio do okresu uśredniania wyników pomiarów, dla którego określono poziomy dopuszczalne, poziomy docelowe lub poziomy celów długoterminowych substancji w powietrzu, dla 95 % przedziału ufności. Wymagania co do minimalnej ilości ważnych danych nie uwzględniają utraty danych z powodu regularnej kalibracji lub normalnej konserwacji sprzętu. ³⁾ Pomiary ciągłe oznaczają w przypadku benzenu, arsenu, kadmu, niklu i benzo(a)pirenu pomiary systematyczne. ⁴⁾ Na stacjach mierzących stężenia ozonu. ⁵⁾ Niepewność pomiaru definiowana jest w PN-ISO 5725:2002 Dokładność (poprawność i precyzja) metod pomiarowych i wyników pomiarów, a także w Przewodniku „Wyrażanie niepewności pomiaru” (Główny Urząd Miar, 1999). ⁶⁾ Pomiary systematyczne rozłożone równomiernie w ciągu roku, reprezentatywne dla różnych warunków meteorologicznych i komunikacyjnych. ⁷⁾ Jeden pomiar tygodniowo w sposób losowy, równomiernie w ciągu roku, lub osiem tygodni równomiernie w ciągu roku. ⁸⁾ Niepewność modelowania lub oszacowania definiowana jako maksymalne odchylenie mierzonych i obliczanych poziomów substancji odpowiednio do okresu uśredniania wyników pomiarów, dla którego określono poziomy dopuszczalne, poziomy docelowe lub poziomy celów długoterminowych substancji w powietrzu. Dziennik Ustaw Nr 5 — 664 — Poz. 31",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Na stronie 12 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 7",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZAKRES DOKUMENTACJI DOTYCZĄCEJ UZASADNIENIA LOKALIZACJI PUNKTÓW POMIAROWYCH"
+    },
+    {
+     "type": "text",
+     "text": "Dokumentacja stacji pomiarowej (punktu pomiarowego) powinna zawierać:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "dane o stacji:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_1/lit_a",
+       "text": "nazwa stacji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_1/lit_b",
+       "text": "krajowy kod stacji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_1/lit_c",
+       "text": "międzynarodowy kod stacji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "pkt_1/lit_d",
+       "text": "adres stacji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "pkt_1/lit_e",
+       "text": "współrzędne geograficzne w układzie WGS84 (szerokość N: dd°mm’ss.ss”; długość E: dd°mm’ss.ss”),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "pkt_1/lit_f",
+       "text": "współrzędne płaskie prostokątne w układzie PUWG 1992,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "pkt_1/lit_g",
+       "text": "wysokość n.p.m.,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "pkt_1/lit_h",
+       "text": "typ obszaru, na którym znajduje się stacja:",
+       "children": [
+        {
+         "type": "text",
+         "text": "— obszar miejski,"
+        },
+        {
+         "type": "text",
+         "text": "— obszar podmiejski,"
+        },
+        {
+         "type": "text",
+         "text": "— obszar pozamiejski,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "pkt_1/lit_i",
+       "text": "typ stacji:",
+       "children": [
+        {
+         "type": "text",
+         "text": "— komunikacyjna,"
+        },
+        {
+         "type": "text",
+         "text": "— w strefie oddziaływania przemysłu lub zakładu,"
+        },
+        {
+         "type": "text",
+         "text": "— tło miejskie,"
+        },
+        {
+         "type": "text",
+         "text": "— tło podmiejskie,"
+        },
+        {
+         "type": "text",
+         "text": "— tło regionalne,"
+        },
+        {
+         "type": "text",
+         "text": "— tło ponadregionalne,"
+        },
+        {
+         "type": "text",
+         "text": "— nieokreślony,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "pkt_1/lit_j",
+       "text": "data uruchomienia stacji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "pkt_1/lit_k",
+       "text": "właściciel stacji;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "dane o otoczeniu stacji:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_2/lit_a",
+       "text": "zdjęcia otoczenia stacji w co najmniej czterech podstawowych kierunkach od wlotu czerpni powietrza,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_2/lit_b",
+       "text": "dokładna mapa otoczenia stacji, z zaznaczeniem lokalizacji stacji i wszystkich obiektów znajdujących się w jej bezpośrednim otoczeniu, w tym drzew i zarośli[^1_3];",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "dane o źródłach zanieczyszczeń:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_3/lit_a",
+       "text": "kategoria źródeł zanieczyszczeń o największym wpływie na otoczenie stacji (według klasyfikacji SNAP),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_3/lit_b",
+       "text": "źródła emisji zanieczyszczeń: — nazwa obiektu, — odległość obiektu, — azymut, — wysokość głównych emitorów, — emitowane zanieczyszczenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_3/lit_c",
+       "text": "informacje o ruchu drogowym, w przypadku stacji komunikacyjnych: — odległość od drogi, — średnie natężenie ruchu;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "informacje na temat stanowisk pomiarowych:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_4/lit_a",
+       "text": "mierzone zanieczyszczenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_4/lit_b",
+       "text": "mierzone parametry meteorologiczne,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_4/lit_c",
+       "text": "metody pomiaru lub analizy.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Środowiska kieruje działem administracji rządowej — środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. Nr 216, poz. 1606).",
+  "2": "Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia postanowień:\n\n1) dyrektywy Rady 96/62/WE z dnia 27 września 1996 r. w sprawie oceny i zarządzania jakością otaczającego powietrza (Dz. Urz. WE L 296 z 21.11.1996, str. 55, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 3, str. 95);\n\n2) dyrektywy Rady 1999/30/WE z dnia 22 kwietnia 1999 r. odnoszącej się do wartości dopuszczalnych dla dwutlenku siarki, dwutlenku azotu i tlenków azotu oraz pyłu i ołowiu w otaczającym powietrzu (Dz. Urz. WE L 163 z 29.06.1999, str. 41, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 4, str. 164);\n\n3) dyrektywy 2000/69/WE Parlamentu Europejskiego i Rady z dnia 16 listopada 2000 r. dotyczącej wartości dopuszczalnych benzenu i tlenku węgla w otaczającym powietrzu (Dz. Urz. WE L 313 z 13.12.2000, str. 12, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 5, str. 262);\n\n4) dyrektywy 2002/3/WE Parlamentu Europejskiego i Rady z dnia 12 lutego 2002 r. odnoszącej się do ozonu w otaczającym powietrzu (Dz. Urz. WE L 67 z 09.03.2002, str. 14, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 497);\n\n5) dyrektywy 2004/107/WE Parlamentu Europejskiego i Rady z dnia 15 grudnia 2004 r. w sprawie arsenu, kadmu, rtęci, niklu i wielopierścieniowych węglowodorów aromatycznych w otaczającym powietrzu (Dz. Urz. UE L 23 z 26.01.2005, str. 3, z późn. zm.).",
+  "3": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505. Objaśnienie:",
+  "1_2": "Należy brać pod uwagę szerokie ulice i skwery z bardzo ograniczonym ruchem samochodów lub zamknięte dla ruchu ulicznego, obszary otwarte, takie jak boiska, tereny sportowe i rekreacyjne. Objaśnienie:",
+  "1_3": "Miejsca lokalizacji stacji powinny podlegać regularnej kontroli, z wykorzystaniem sporządzonej dokumentacji, w celu stwierdzenia, czy kryteria wyboru pozostają aktualne."
+ }
+}

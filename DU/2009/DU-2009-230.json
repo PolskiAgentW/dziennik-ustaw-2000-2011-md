@@ -1,0 +1,299 @@
+{
+ "eli": "DU/2009/230",
+ "title": "Rozporządzenie Ministra Finansów z dnia 24 lutego 2009 r. w sprawie systemu teleinformatycznego przemieszczania wyrobów akcyzowych na terytorium kraju",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2009/230/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 lutego 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie systemu teleinformatycznego przemieszczania wyrobów akcyzowych na terytorium kraju"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 46 ust. 7 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2009 r. Nr 3, poz. 11) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "sposób funkcjonowania systemu teleinformatycznego przemieszczania wyrobów akcyzowych na terytorium kraju, zwanego dalej „systemem”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "szczegółowe wymogi, jakie powinny spełniać dokumenty w formie elektronicznej przesyłane w systemie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "szczegółowy sposób stosowania i dokumentowania przemieszczania wyrobów akcyzowych w procedurze zawieszenia poboru akcyzy przy użyciu dokumentów w formie elektronicznej przesyłanych w systemie, w szczególności sposób obiegu administracyjnego dokumentu towarzyszącego w formie elektronicznej, a także sposób potwierdzania odbioru wyrobów akcyzowych przez podmioty dokonujące przemieszczeń wyrobów akcyzowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "procedury szczególne w przypadku awarii systemu lub systemów współpracujących:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_4/lit_a",
+       "text": "SEED — komputerowa baza danych zawierająca wykaz podatników prowadzących składy podatkowe, miejsc zatwierdzonych jako składy podatkowe oraz zarejestrowanych handlowców,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_4/lit_b",
+       "text": "OSOZ — Ogólnopolski System Obsługi Zabezpieczeń i Pozwoleń,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_4/lit_c",
+       "text": "ISZTAR — System Zintegrowanej Taryfy Celnej.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "System umożliwia przesyłanie administracyjnego dokumentu towarzyszącego oraz innych dokumentów w formie elektronicznej pomiędzy podmiotem wysyłającym wyroby akcyzowe, organem podatkowym i podmiotem odbierającym te wyroby, generowanych w związku z przemieszczaniem wyrobów akcyzowych w procedurze zawieszenia poboru akcyzy na terytorium kraju.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Użytkownicy systemu dokonują rozliczenia zabezpieczenia akcyzowego w sposób elektroniczny przy przemieszczeniu wyrobów akcyzowych dokonywanym przy pomocy systemu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Administracyjny dokument towarzyszący w formie elektronicznej zawiera identyczne dane jak administracyjny dokument towarzyszący w formie papierowej i jest stosowany zgodnie z warunkami określonymi dla tego dokumentu w formie papierowej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Podmiot wysyłający wyroby akcyzowe generuje w systemie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "powiadomienie o planowanym przemieszczeniu wyrobów akcyzowych i administracyjny dokument towarzyszący w formie elektronicznej, przed rozpoczęciem przemieszczenia wyrobów akcyzowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "powiadomienie o zmianie miejsca przeznaczenia, w przypadku zmiany w trakcie przemieszczenia wyrobów akcyzowych podmiotu odbierającego te wyroby, wymienionego w administracyjnym dokumencie towarzyszącym w formie elektronicznej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Podmiot odbierający wyroby akcyzowe generuje w systemie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "powiadomienie o przybyciu przemieszczanych wyrobów akcyzowych po zakończeniu przemieszczenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "raport odbioru wyrobów akcyzowych po zakończeniu przemieszczenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Organ podatkowy generuje w systemie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_3/pkt_1",
+       "text": "informację o podjęciu kontroli w miejscu wysyłki i odbioru lub o jej braku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_3/pkt_2",
+       "text": "informację o przydzieleniu osoby do kontroli;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_3/pkt_3",
+       "text": "informację o wynikach kontroli w miejscu wysyłki lub odbioru;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_3/pkt_4",
+       "text": "anulowanie administracyjnego dokumentu towarzyszącego w formie elektronicznej przed rozpoczęciem przemieszczenia wyrobów akcyzowych, w przypadku gdy podmiot zaniecha dokonania przemieszczenia wyrobów akcyzowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_3/pkt_5",
+       "text": "informację o przydzieleniu osoby do manualnego obciążenia zabezpieczenia akcyzowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_4/ust_3/pkt_6",
+       "text": "informację o rejestracji zdarzenia w trakcie transportu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_4/ust_3/pkt_7",
+       "text": "informację o zgłoszeniu ryzyka przesyłki;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_4/ust_3/pkt_8",
+       "text": "powiadomienie o planowanej przesyłce, administracyjny dokument towarzyszący w formie elektronicznej, powiadomienie o zmianie miejsca przeznaczenia, powiadomienie o przybyciu przesyłki oraz raport odbioru w przypadku procedury awaryjnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_4/ust_3/pkt_9",
+       "text": "dodatkowe zarejestrowanie administracyjnych dokumentów towarzyszących w systemie, w przypadku procedury awaryjnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_4/ust_3/pkt_10",
+       "text": "wyszukanie administracyjnych dokumentów towarzyszących w formie elektronicznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_4/ust_3/pkt_11",
+       "text": "zmianę osoby wyznaczonej do wykonania zadania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Dokumenty, o których mowa w ust. 1 i 2, podlegają weryfikacji przez system. O poprawności tych dokumentów powiadamiany jest podmiot, który przesłał te dokumenty w formie elektronicznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Podmiot wysyłający i odbierający wyroby akcyzowe z zastosowaniem procedury zawieszenia poboru akcyzy jest obowiązany do przechowywania administracyjnych dokumentów towarzyszących w formie elektronicznej wygenerowanych w systemie, zapisanych na informatycznych nośnikach danych lub w formie wydruku przez okres, o którym mowa w art. 41 ust. 13 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "W przypadku wystąpienia awarii systemu lub systemów współpracujących przed rozpoczęciem przemieszczenia wyrobów akcyzowych stosuje się wyłącznie administracyjny dokument towarzyszący w formie papierowej oraz oryginał potwierdzenia złożenia zabezpieczenia akcyzowego. W przypadku wystąpienia awarii po rozpoczęciu przemieszczenia wyrobów akcyzowych zakończenie przemieszczenia w systemie może nastąpić wyłącznie po usunięciu awarii systemu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "W przypadku awarii systemu OSOZ po rozpoczęciu przemieszczenia wyrobów akcyzowych przemieszczenie może zostać zakończone w systemie, natomiast zabezpieczenie akcyzowe jest zwalniane po przywróceniu pracy systemu OSOZ.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 marca 2009 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: J. Vincent-Rostowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Finansów kieruje działem administracji rządowej — finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 216, poz. 1592)."
+ }
+}

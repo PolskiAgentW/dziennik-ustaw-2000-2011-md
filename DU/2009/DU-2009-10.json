@@ -1,0 +1,1174 @@
+{
+ "eli": "DU/2009/10",
+ "title": "Rozporządzenie Ministra Finansów z dnia 31 grudnia 2008 r. w sprawie struktury logicznej zgłoszeń, sposobu ich przesyłania oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2009/10/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 31 grudnia 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie struktury logicznej zgłoszeń, sposobu ich przesyłania oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 10b ust. 2 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2004 r. Nr 269, poz. 2681, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "strukturę logiczną zgłoszeń składanych za pomocą środków komunikacji elektronicznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "sposób przesyłania zgłoszeń za pomocą środków komunikacji elektronicznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "rodzaje podpisu elektronicznego, którymi powinny być opatrzone poszczególne typy zgłoszeń.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "formacie danych XML (XSD) — rozumie się przez to format danych określony w przepisach rozporządzenia Rady Ministrów z dnia 11 października 2005 r. w sprawie minimalnych wymagań dla systemów teleinformatycznych (Dz. U. Nr 212, poz. 1766);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "protokole komunikacyjnym sieci WWW (HTTP) — rozumie się przez to protokół komunikacyjny określony w przepisach rozporządzenia wymienionego w pkt 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "protokole szyfrującym dla sieci WWW (SSL) — rozumie się przez to protokół szyfrujący określony w przepisach rozporządzenia wymienionego w pkt 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "protokole wywoływania zdalnego dostępu do obiektów (SOAP) — rozumie się przez to protokół wywoływania określony w przepisach rozporządzenia wymienionego w pkt 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "języku opisu usług sieciowych (WSDL) — rozumie się przez to język opisu określony w przepisach rozporządzenia wymienionego w pkt 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "strukturze logicznej dokumentu elektronicznego — rozumie się przez to strukturę logiczną określoną w § 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 września 2005 r. w sprawie warunków organizacyjno-technicznych doręczania dokumentów elektronicznych podmiotom publicznym (Dz. U. Nr 200, poz. 1651);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "urzędowym poświadczeniu odbioru — rozumie się przez to urzędowe poświadczenie określone w § 2 pkt 4 rozporządzenia wymienionego w pkt 6.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Do określenia struktury logicznej zgłoszeń stosuje się format danych XML.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Format danych XML (XSD) wyznaczający strukturę logiczną zgłoszeń jest określony w załączniku nr 1 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Zgłoszenia są przesyłane za pomocą interfejsu dostępnego na stronie, której adres podany jest na stronie Biuletynu Informacji Publicznej Ministerstwa Finansów, poprzez zastosowanie protokołu wywoływania zdalnego dostępu do obiektów (SOAP), opisanego językiem opisu usług sieciowych (WSDL), dostępnego przez protokół komunikacyjny sieci WWW (HTTP), szyfrowanego przy użyciu protokołu szyfrującego dla sieci WWW (SSL).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Struktura logiczna urzędowego poświadczenia odbioru zgłoszenia jest określona w załączniku nr 2 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Zgłoszenia są opatrywane bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu w rozumieniu ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, poz. 1450, z późn. zm.[^3]).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Sposób opatrywania zgłoszeń bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu jest określony w załączniku nr 3 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Struktura logiczna zgłoszenia aktualizacyjnego osoby fizycznej nieprowadzącej samodzielnie działalności gospodarczej (NIP-3) jest określona w załączniku nr 4 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 stycznia 2009 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Finansów: w z. E. Suchocka-Roguska"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Finansów z dnia 31 grudnia 2008 r. (poz. 10) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "FORMAT DANYCH XML (XSD) WYZNACZAJĄCY STRUKTURĘ LOGICZNĄ ZGŁOSZEŃ"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation> <xsd:documentation>Liczby naturalne</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:nonNegativelnteger\"> <xsd:whiteSpace valne=\"collapse\"/> <xsd:totalDigits value=\"14\"/> <fxsdzrestriction> </xsd:simpleType> <xsd:simpleType name=\"TRzeczywisty\"> <xsd:annotation> <xsd:documentation>Liczby wykazywane z dokładnością do dwóch miejsc po przecinku</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TK wota2\"> <xsd:minInclusive value=\"0\"/> </xsd:restriction> </xsd:simpleType> <xsdisimpleType name=\"TKwota2\"> <xsd:annotation> <xsd:documentation>Wartość kwotowa wykazana w zł i gr</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:decimal\"> <xsd:totalDigits value=\"16'/> <xsd:whiteSpace value=\"collapse\"/> <xsd:fractionDigits value=\"2\"/> </xsd-restriction> </xsd:simpleType> <xsd:simpleType name=\"TKwotaC\"> <xsd:annotation> <xsd:documentation> Wartość kwotowa wykazana w zi</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:decimal\"> <xsd:totalDigits value=\"14\"/> <xsd:fractionDigits value=\"0\"/> <xsd:whiteSpace value=\"collapse\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TK wota2Nieujemna\"> <xsd:annotation> <xsd:documentation> Wartosé kwotowa nieujemna wykazana w zł i gr</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TKwota2\"> <xsd:minInclusive value=\"0\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TK wotaCNieujemna\"> <xsd:annotation> <xsd:documentation> Wartosé kwotowa nieujemna wykazana w zi</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TKwotaC\"> <xsd:minInclusive value=\"0\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TData\" id=\"TData\"> <xsd:annotation> <xsd:documentation>Typ daty</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:date\"> <xsd:minInclusive value=\"1900-01-01\"/> <xsd:whiteSpace value=\"collapse\"/> </xsd:restrichion> </xsd:simpleType> <xsd:simpleType name=\"TDataCzas\" id=\"TDataCzas\"> <xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Typ daty i godziny</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:dateTime\"> <xsd:whiteSpace value=\"collapse\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TRok\"> <xsd:annotation> <xsd:documentation>Oznaczenie roku</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:gY ear\"> <xsd:minInclusive valus=\"1800\"/> <xsd:maxInclusive value=\"3000\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TMiesiac\"> <xsd:annotation> <xsd.documentation>Element będący numerem miesiąca</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:byte\"> <xsd:maxInclusive value=\"12\"/> <xsd:minInclustve value=\"1\"/> </xsd:restriction> </xsdisimpleType> <xsd:simpleT ype name=\"TK wartal\"> <xsd:annotation> <xsd:documentation>Element będący numerem kwartału</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:byte\"> <xsd:minInclusive value=\"1\"/> <xsd:maxInclusive value=\"4\"/> </xsd:restriction> </xsd:simpleT ype> <xsd;simpleType name=\"TAdresEmail\"> <xsd:annotation> <xsd:documentation>Element będący adresem e-rmail</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:whiteSpace valuc=\"collapse\"/> <xsd:pattern value=\"[0-9\\p{L}\\.\\-_}{ £127} @[0-S8\\p{L}\\4-_J{1 127 p> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TNrNIP\"> <xsd:annotation> <xsd:documentation>Numer NIP</xsd:documentation> </xsd:annotation> <xsdzrestriction base=\"xsd:string”> <xsd:pattern value=\"[1-9]((d[1-9))I([1-9)\\d) fd {7} \"/> <fxsd:restriction> </xsdisimpleType> <xsd:simpleType name=\"TNrPESEL\"> <xsd:annotation> <xsd:documentation>Numer PESEL</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"\\d{11}'/> <fxsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TNrREGON\"> <xsd:annotation> <xsd:documentation>Numer REGON</xsd:documentation> </xsd:annotation> <xsd:union> <xsd:simpleType>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"\\d {9}\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"\\d {14} \"/> </xsd-restriction> </xsd:simpleType> </xsd:union> <fxsd:simpleType> <xsd:simpleType name=\"TNrAKC\"> <xsd:annotation> <xsd:docurnentation>Numer akcyzowy</xsd:documentation> </xsd:annotation> <xsdzrestriction base=\"xsd:string\"> <xsd:pattern value=\"[A-Z]{2}\\d {11} \"> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TNrKRS\"> <xsd:annotation> <xsd:documentation>Numer Krajowego Rejestru Sądowego</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:strinp\"> <xsd:pattern value=\"\\d{10}\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"T NridentyfikacjiP odatkowej\"> <xsd:annotation> <xsd:documentation>Numer służący identyfikacji dla celów podatkowych </xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:string\"> <xsd:whiteSpace vahie=\"replace\"/> <xsd:minLength value=\"1\"/> <xsd:maxLength value=\"30\"/> </xsd:restriction> </xsd:simpleT ype> <xsd:simpleType name=\"TNrDokumentuStwierdzajacegoTozsamosc\"> <xsd:annotation> <xsd:documentation>Numer dokumentu stwierdzającego tożsamość</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:string\"> <xsd:minLength value=\"1\"/> <xsd:maxLength value=\"50\"/> <xsd:whiteSpace value=\"replace\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"Timie\"> <xsd:annotation> <xsd:documentation>Pierwsze imie</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"30\"/> </xsd:restriction> </xsd:simpleT ype> <xsd:simpleType name=\"TNazwisko\"> <xsd:annotation> <xsd:documentation>Nazwisko</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength valne=\"81\"/> </xsd:restriction> </xsd:simpleT ype> <xsd:simpieType name=\"TMiejscowosc\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation> <xsd:documentation>Typ określający nazwę miejscowości</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"56\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TJednAdmin\"> <xsd:annotation> <xsd:documentation>Typ określający nazwę województwa, nazwę powiatu lub nazwę gminy</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"36\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleT ype name=\"TUlica\"> <xsd:annotation> <xsd:documentation>Nazwa ulicy</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"65\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TNrBudynku\"> <xsd:annotation> <xsd:documentation>Numer budynku</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"9\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TNrLokalu\"> <xsd:annotation> <xsd:documentation>Numer lokalu</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"10\"/> </xsd:restriction> </xsd:isimpleType> <xsd:simpleType name=\"TKodPocztowy\"> <xsd:annotation> <xsd:documentation>Kod pocztowy</xsd:documentation> ‘</xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"8\"/> <fxsd:restriction> </xsd:simpleType> <xsd:simpleT ype name=\"TKodKrajuUrodzenia\"> <xsd:annotation> <xsd:documentation>Kod kraju urodzenia</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:string\"> <xsd:length value=\"2\"/> <xsd:pattern value=\"[A-Z] {2} \"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TKodKraju Wydania\"> <xsd:annotation> <xsd:documentation>Kod kraju wydania numeru identyfikacyjnego</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TRodKraju\"> <xsd:pattern value=\"P[A-KM-Z]\"/> <xsd:pattern value=\"[A-OR-Z][4-Z]\"/>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TCelZlozenia\"> <xsd:annotation> <xsd:documentation>Okregla, czy to jest złożenie, czy korekta dokumentu</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:byte\"> <xsd:enumeration value=\"1\"> <xsd:annotation> <x5d:documentation>złożenie po raz pierwszy deklaracji za dany okres</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration valye=\"2\"> <xsd:annotation> <xsd:documentation>korekta deklaracji za dany okres</xsd:documentation> </xsd:annotation> </xsd:enumeration> </xsd:restriction> </xsd:simpleT ype> <xsd:simpleType name=\"TNrDokumentu\"> <xgd:annotation> <xsd;documentation>Numer dokumentu</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:length value=\"5\"/> <xsd:pattern value=\"\\d {2} Ad {2} \"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TWybor] \"> <xsd:annotation> <xsd:documentation>P ojedynoze pole wybom</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:byte\"> <xsd:ehttmeratioh value=\"1\"/> </xsd:restriction> </xsd:simpleT ype> <xsd:simple Type name=\"TWyborl_2\"> <xsd:annotation> <xsd:documentation>Podwojne pole wyboru</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:byte\"> <xsd:enumeration value=\"1\"/> <xsd:enumeration value=\"2\"/> <fxsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TWybor1_3\"> <xsd:annotation> <xsd:documentation>Potrójne pole wyboru</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:byte\"> <xsd:enumeration value=\"1\"/> <xsd:enumeration value=\"2\"/> <xsd:enumeration valuc=\"3\"/> <fxsd:restriction> </xsd:simpleType> </xsd:schema>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa pliku XSD: http://e-deklaracje.mf.gov.pl/Repozytorium/Definicje/StrukturyDanych_v2-0.xsd"
+    },
+    {
+     "type": "ocr",
+     "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"7> <xsd:schema xmlns:xsd=\"http:/Avww.w3,org/2001/XMLSchema\" elementFormDefault=\" qualified\" attributeFormDefauli=\"unqualified\"> <xsd:incłude schetmaLocation=\"http://e-deklaracje.mf.gov.pl/Repozytorium/Definicje/ElementarneTypyDanych v2- 0.xsd\"/> <!--Adres--> <xsd:complexType name=\"TAdres\"> <xsd:annotation> <xsd:documentation>Dane okreslajace adres</xsd:documentation> </xsd:annotation> <xsd:choice> <xsd:sequence> <xsd:element name=\" AdresPol\" type=\"TAdresPolski\"/> <fxsd:sequence> <xsd:sequence> <xsd:element name=\" AdresZagr\" type=\"T AdresZagraniczny\"/> </xsd:sequence> </xsd:choice> </xsd:complexT ype> <xsd:complexType name=\"TAdresPolski\"> <xsd:annotation> <xsd:documentation>Informacje opisujące adres polski</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"KodkKraju\" type=\"TKodKraju\" fixed=\"PL\"> <xsd:annotation> <xsd:documentation>Kraj</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Wojewodztwo\" type=\"TJednAdmin\"> <xsd:annotation> <xsd:documentation> W ojewodztwo</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Powiat\" type=\"TJednAdmin\"> <xsd:annotation> <xsqd:documentation>Powiat</xsd:documentation> </xsdiannotation> </xsd:element> <xsd:element name=\"Gmina\" type=\"TJednAdmin\"> <xsd:annotation> SĘ <xsd:documentation>Gmina</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Ulica\" typc=\"TUlica\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Nazwa ulicy</xsd:documentation> </xsd:annotation> <fxsd:element> <xsd:element name=\"NrDomu\" type=\"TNrBudynku\"> <xsd:annotation> <xsd:documentation>Numer budynku</xsd:documentation> <fxsd:anmotation> </xsd:element> <xsd:element name=\"NrLokalu\" type=\"TNirLokalu\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Numer lokalu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Miejscowosc\" type=\"TMiejscowosc\"> <xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Nazwa miejscowości</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"KodPocztowy\" type=\"TKodPocztowy\"> <xsd:annotation> <xsd:documentation>Kod pocztowy</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Poczta\" type=\"TMiejscowosc\"> <xsd:annotation> <xsd:documentation>Nazwa urzędu pocztowego</xsd:documentation> </xsd:annotation> </xsd-element> </xsd:sequence> </xsd:complexType> <xsd:complexType name=\"TAdresZagraniczny\"> <xsd:annotation> <xsd:documentation>Informacje opisujące adres zagraniczny</xsd:documentation> </xsd:annotation> <xsd:sequencs> <xsd:element name=\"KodKraju\"> <xsd:annotation> <xsd:documentation>Kod Kraju [Country Code]</xsd:documentation> </xsd:annotation> <xsd:simpleT ype> <xsd:restriction base=\"TKodKraju\"> <xsd:pattem value=\"P[A-KM-Z]\"/> <xsd:pattern value=\"[A-OR-Z][A-Z]\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"KodPocztowy\" type=\"TKodPocztowy\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Kod pocztowy [Postal code]</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Miejscowosc\" type=\"TMiejscowosc\"> <xsd:annotation> <xsd:documentation>Nazwa miejscowości [City]</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Ulica\" typc=\"TUlica\" minOcecurs=\"0\"> <xsd:annotation> <xsd:documentation>Nazwa ulicy [ Street]</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NrDomu\" type=\"TNrBudynku\" minOccurs=\"0\"> <xsd:ańnotation> <xsd:documentation>Numer budynku [Building number]</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NrLokalu\" type=\"TNrLokalu\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Numer jokalu [Flat number}</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> <!--Identyfikatory--> <xsd:complexType name=\"TldentyfikatorOsobyFizycznej\"> <xsd:annotation> <xsd:documentation>Podstawowy zestaw danych identyfikacyjnych o osobie fizycznej</xsd:documentation> <fxsd;annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:sequence> <xsd:element name=\"NIP\" type=\"TNiNIP\"> <xsd:annotation> <xsd:documentation>Numer Identyfikacji Podatkowej (NIP) </xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"ImiePierwsze\" type=\"TImie\"> <xsd:annotation> <xsd:documentation>Pierwsze imie</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Nazwisko\" type=\"TNazwisko\"> <xsd:annotation> <xsd:documentation>Nazwisko</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"DataUrodzenia\" type=\"TData\"> <xsd:annotation> <xsd:documentation>Data urodzenia</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"PESEL\" type=\"TNrPESEL\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Numer PESEL</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:complexType name=\"TIdentyfikatorOsobyFizycznejPelny\"> <xsd:annotation> <xsd:documentation>Pełny zestaw danych identyfikacyjnych o osobie fizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"NIP\" type=\"TNrNIP\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Numer Identyfikacji Podatkowej (NIP) </xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"ImiePierwsze\" type=\"Tlmie\"> <xsd:annotation> <xsd:documentation>Pierwsze imie</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Nazwisko\" type=\"TNazwisko\"> <xsd:annotation> <xsd:documentation>Nazwisko</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"DataUrodzenia\" type=\"TData\"> <xsd:annotation> <xsd:documentation>Data urodzenia</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"ImieOjca\" typc=\"TImie\"> <xsd:annotation> <xsd:documentation>lmię ojca</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"ImieMatki\" type=\"TImie\"> <xsd:annotation> <xsd:documentation>Imie matki</xsd:documentation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:element> <xsd:element name=\"PESEL” type=\"TNrPESEL\"> <xsd:annotation> <xsd:documentation>Numer PESEL</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:complexType name=\"TldentyfikatorOsobyFizycznejZagranicznej\"> <xsd:annotation> <xsd:documentation>Zestaw danych identyfikacyjnych dla osoby fizycznej zagranicznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"lmiePierwsze\" type=\" TImie\"> <xsd:annotation> <xsd:documentation>Imie pierwsze [First name}</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Nazwisko\" type=\"TNazwisko\"> <xsd:annotation> <xsd:documentation>Nazwisko [Family name]</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"DataUrodzenia\" type=\"TData\"> <xsd:annotation> <xsd:documentation>Data urodzenia [Date of Birth}</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"MiejsceUrodzenia\" type=\"TMiejscowosc\"> <xsd:annotation> <xsd:documentation>Miejsce urodzenia [Place of Birth]</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"ImieOjca\" type=\"TImie\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>lmię ojca [Father's name]</xsd:documentation> </xsd:annotation> <fxsd:element> <xsd:element name=\"ImieMatki\" type=\"TImie\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Imie matki [Mother’s name]</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NIP\" type=\"TNINIP\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Numer Identyfikacji Podatkowej (NIP) [Tax Identification Number (NIP)|</xsd:documentation> </xsd:annotation> </xsd:element> </xsdisequence> </xsd:complexType> <xsd:complexT ype name=\"TidentyfikatorOsobyNiefizyezej\"> <xsd:annotation> <xsd:documentation>Podstawowy zestaw danych identyfikacyjnych o osobie niefizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"NIP\" type=\"TNrNIP\"> <xsd:annotation> <xsd:documentation>Numer Identyfikacji Podatkowej (NIP) </xsd:documentation> </xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:element> <xsd:element name=\"PelnaNazwa\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Pełna nazwa</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"REGON\" type=\"TNrREGON\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Numer REGON</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complex Type> <xsd:complexType name=\"TidentyfikatorOsobyNiefizycznejPelny\"> <xsd:annotation> <xsd:documentation>Pełny zestaw danych identyfikacyjnych o osobie niefizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"NIP\" type=\"TNINIP\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Numer Identyfikacji Podatkowej (NIP) </xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"PelnaNazwa\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Pełna nazwa</xsd:decumentation> </xsd:annotation> </xsd:element> <xsd:element name=\"SkroconaNazwa\"> <xsd:annotation> <xsd:documentation>Skrécona nazwa</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd-restriction base=\"TZnakowy\"> <xsd:maxLength value=\"70\"/> </xsd:restriction> </xsd.simpleType> </xsd:element> <xsd:element name=\"REGON\" type=\"TNrREGON\"> <xsd:annotation> <xsd:documentation>Numer REGON</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:complexType name=\"TIdentyfikatorOsobyNiefizycznejZagranicznej\"> <xsd:annotation> <xsd:documentation>Zestaw danych identyfikacyjnych dla osoby niefizycznej zagranicznej</xsd:documentation> <fxsd:annotation> <xsdisequence> <xsd:element name=\"PelnaNazwa\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Pelna nazwa [Name}</xsd:documentation> </xsd:annotation> </xsdielement> <xsd:element name=\"SkroconaNazwa\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Nazwa skrócona [Short Name]</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TZnakowy\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:maxLength value=\"70\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"NIP\" type=\"TNrNIP\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Numer Identyfikacji Podatkowej (NIP) [Tax Identification Number (NIP)]</xsd:documentation> </xsd:annotation> </xsd:element> </xsdisequence> </xsd:complexType> <!--Dane podstawowe bez adresu (Do załączników)--> <xsd:complexT ype name=\"TPodmiotDowolnyBezAdresu\"> <xsd:annotation> <xsd:documentation>Skrócony zestaw danych o osobie fizycznej lub niefizycznej</xsd:documentation> </xsd:annotation> <xsd:choice> <xsd:element narme=\"OsobaFizyczna\" type=\"TldentyfikatorOsobyF izycanej\"/> <xsd:element name=\"OsobaNiefizyczna\" type=\"TIdentyfikatorOsobyNiefizycznej\"/> </xsd:choice> </xsd:complexT ype> <!--Dane podstawowe z adresem--> <xsd:complexType name=\"TOsobaFizyczna\"> <xsd:annotation> <xsd:documentation>Podstawowy zestaw danych o osobie fizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"OsobaFizyczna\" type=\"TldentyfikatorOsobyFizycznej\"/> <xsd:element name=\"AdresZamieszkania\"> <xsd:complexType> <xsd:complexContent> <xsd:extension base=\"TAdres\"> <xsd:attribute name=\"rodzajAdresu\" type=\"xsd:string\" use=\"required\" fixed=\"RAD\"/> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:complexT ype> <xsd:complexType name=\"TOsobaNiefizyczna\"> <xsd:annotation> <xsd:documentation>Podstawowy zestaw danych o osobie niefizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element narne=\"OsobaNiefizyczna\" type=\"TldentyfikatorOsobyNiefizycznej\"/> <xsd:element name=\"AdresSiedziby\"> <xsd:complexType> <xsd:complexContent> <xsd:extension base=\"TAdres\"> <xsd:attribute name=\"rodzajAdresu\" type=\"xsd:string\" use=\"required\" fixed=\"RAD\"/> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:complexT ype> <xsd:complexType name=\"TPodmiotDowolny\"> <xsd:annotation> <xsd:documentation>Podstawowy zestaw danych o osobie fizycznej lub niefizycznej</xsd:documentation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> <xsd:complexContent> <xsd:extension base=\"TPodmiotDowolnyBezAdresu\"> <xsd:sequence> <xsd:element name=\" AdresZamieszkaniaSiedziby\"> <xsd.complexType> <xsd:complexContent> <xsd:extension base=\"TAdres\"> <xgd:attribute name=\"rodzaj Adresu\" type=\"xsd:string\" use=\"required\" fixed=\"RAD\"/> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> </xsdisequence> </xsd.extension> </xsd:complexContent> </xsd:complexT ype> <!--Dane pełne z adresem (NIP opcjonałny)--> <xsd:complexType name=\"TOsobaFizycznaPelna\"> <xsd:annotation> <xsd;docummentation>Pełny zestaw danych o osobie fizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"OsobaFizyczna\" typec=\"TldentyfikatorOsobyFizycznejPelny\"/> <xsd:element name=\"AdresZamieszkania\"> <xsd:complexType> <xsd:complexContent> <xgd:extension base=\"TAdres\"> <xsd:attribute name=\"rodzajAdresu\" type=\"xsd:string\" use=\"required\" fixed=\"RAD\"/> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:complexType name=\"TOsobaNiefizycznaPelna\"> <xsd:annotation> <xsd:documentation>Peiny zestaw danych o osobie fizycznej lub niefizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"OsobaNiefizyczna” type=\"TldentyfikatorOsobyNiefizycznejPelny\"/> <xsd:element name=\"AdresSiedziby\"> <xsd:complexType> <xsd:complexContent> <xsd:extension base=\"TAdres\"> <xsd:attribute name=\"rodzajAdtesu\" type=\"xsd:string\" use=\"required\" fixed=\"RAD\"/> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:complex Type name=\"TPodmiotDowolnyPelny\"> <xsd:annotation> <xsd:documentation>Pelny zestaw danych o osobie fizycznej lub niefizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:choice> <xsd:element name=\"OsobaFizyczna\" type=\"TidentyfikatorOsobyFizyeznejPelny\"/> <xsd:element name=\"OsobaNiefizyczna\" type=\"TldentyfikatorOsobyNiefizycznejPelny\"/>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:choice> <xsd:element name=\"AdresZamieszkaniaSiedziby\"> <xsd:complexType> <xsd:complexContent> <xsd:extension base=\"TAdres\"> <xsd:attribute name=\"rodzajAdresu\" type=\"xsd:string\" nse=\"required\" fixed=\"RAD\"/> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:complexT ype> </xsd:schema>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa pliku XSD: hitp://e-deklaracje .mf.gov.pURepozytorium/Slowniki/KodykKrajow_v3-0.xsd"
+    },
+    {
+     "type": "ocr",
+     "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"7> <xsd:schema xmins:xsd=\"hitp://www.w3.org/2001/XMLśŚchema\" elementFormDefault=\"qualified\" attnibuteFormDefault=\"unqualified\" version=\"1.0\" xml:lang=\"PL\"> <xsd:annotation> <xsd:documentation>Słownik krajów</xsd:documentation> </xsd:annotation> <xsd:simpleType name=\"TKodKraju\"> <xsd:annotation> <xsd:documentation>Słownik kodów krajéw</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:normalizedString\"> <xsd:enumeration value=\"AF\"> <xsd:annotation> <xsd:documentation>AFGANIST AN</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration vahie=\"AX\"> <xsd:annotation> <xsd:documentation>ALAND ISLAND</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumetation value=\"AL\"> <xsd:annotation> <xsd:documentation>ALBANIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"DZ\"> <xsd:annotation> <xsd:documentation> 4A LGIERIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"AD\"> <xsd:annotation> <xsd:documentation>ANDORA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value\"\"AO\"> <xsd:annotation> <xsd:documentation>ANGOLA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumetation value=\"AJ\"> <xsd:annotation> <xsd:documentation>ANGUILLA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"AQ\"> <xsd:annotation> <xsd:documentation>ANTARK TYDA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"AG\"> <xsd:annotation> <xsd:documentation>ANTIGUA I BARBUDA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"AN\"> <xsd:annotation> <xsd:documentation>ANTYLE HOLENDERSKIE</xsd:documentation> </xsd:annotation> </xsd:enumeration>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "— 59 — Poz."
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration valuc=\"SA\"> <xsd:annotation> <xsd:documentation>ARABIA SAUDYJSKA </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"AR\"> <xsd:annotation> <xsd:documentation> ARGENT YNA</xsd:documentation> </xsd:annotation> <fxsd:enumeration> <xsd:enumeration value=\"AM\"> <xsd:annotation> <xsd:documentation> ARMENIA </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"A W\"> <xsd:annotation> <xsd:documentation>ARUBA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"AU\"> <xsd:annotation> <xsd:documentation> AUS TRALIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"AT\"> <xsd:annotation> <xsd:documentation> AUSTRIA</xsd:documentation> <fxsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"AZ\"> <xsd:annotation> <xsd:documentation> AZERBEJDZAN</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BS\"> <xsd:annotation> <xsd:documentatipn>BAHAMY </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BH\"> <xsd:annotation> <xsd:documentation>BAHRAJN</xsd:documentation> <fxsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BD\"> <xsd:annotation> <xsd:documentation>BANGLADESZ</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BB\"> <xsd:annotation> <xsd:documentation>BARBADOS</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BE\"> <xsd:annotation> <xsd:documentation>BELGIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BZ\"> <xsd:annotation> <xsd:documentation>BELIZE</xsd:documentation> </xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:enumeration> <xsd:enumeration value=\"BJ\"> <xsd:annotation> <xsd:documentation>BENIN</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BM\"> <xsd:annotation> <xsd:documentation>BERMUDY</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BT\"> <xsd:annotation> <xsd:documentation>BHUTAN</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BY\"> <xsd:annotation> <xsd'documentatton>BIAŁORUŚ</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BO\"> <xsd:annotation> <xsd:documentation>BOLIWIA </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BA\"> <xsd:annotation> <xsd;documentation>BOŚNIA I HERCEGOWINA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BW\"> <xsd:annotation> <xsd:documentation>BOTS WANA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BR\"> <xsd.annotation> <xsd:documentation>BRAZYLIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BN\"> <xsd:annotation> <xsd:documentation>BRUNEI DARUSSALAM</xsd:documentation> <fxsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"JO\"> <xsd:annotation> <xsd:documentation>BRYTYJSKIE TERYTORIUM OCEANU INDYJSKIEGO</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BG\"> <xsd:annotation> <xsd:documentation>BULGARIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BF\"> <xsd:annotation> <xsd:documentation>BURKINA FASO</xsd:decumentation> <fxsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BI\"> <xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 19 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>BURUNDI</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CL\"> <xsd:annotation> <xsd:documentation>CHILE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CN\"> <xsd:annotation> <xsd:documentation>CHINY </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"HR\"> <xsd:annotation> <xsd:documentation>CHOR WACIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CY\"> <xsd:annotation> <xsd:documentation>CYPR</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"TD\"> <xsd:annotation> <xsd:documentation>CZAD</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"ME\"> <xsd:annotation> <xsd:documentation>CZARNOGORA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"DK\"> <xsd:annotation> <xsd:documentation>DANIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"DM\"> <xsd:annotation> <xsd:documentation>DOMINIK A</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"DO\"> <xsd:annotation> <xsd:documentation>DOMINIKANA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"DI\"> <xsd:annotation> <xsd:documentation>DZIBUTI</xsd:documentation> </xad:annotation> </xsd:enumeration> <xsd:enumeration value=\"EG\"> <xsdzannotation>> <xsd:documentation>EGIPT</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"EC\"> <xsd:annotation> <xsd:documentation>EK WADOR</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"ER\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 20 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "— 62 — Poz."
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotatign> <xsd:documentation>ER YTREA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"EE\"> <xsd:annotation> <xsd:documentation>ESTONIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"ET\"> <xsd:annotation> <xsd:documentation>ETIOPIA</xsd:documentation> </xsd:annotation> </xsdzenumeration> <xsd:enumeration value=\"FK\"> <xsd:annotation> <xsd;documentation>FALKLANDY</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"FJ\"> <xsd:annotation> <xsd:documentation>FIDZ] REPUBLIKA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"PH\"> <xsd:annotation> <xsd:documentation>FILIPINY</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration valuc=\"FI\"> <xsd:annotation> <xsd:documentation>FINLANDIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"FR\"> <xsd:annotation> <xsd:documentation>FRANCIJA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"TF\"> <xsdiannotation> <xsd:documentation>FRANCUSKIE TERYTORIUM POLUDNIOWE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GA\"> <xsd:annotation> <xsd:documentation>GABON</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GM\"> <xsd:annotation> <xsd:documentation>GAMBIA</xsd:documentation> <fxsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GH\"> <xsd:annotation> <xsd:documentation>GHANA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GI\"> <xsd:annotation> <xsd:documentation>GIBRALTAR</xsd:documentation> </xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 21 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "— 63 — Poz."
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:enumeration> <xsd:enumeration value=\"GR\"> <xsd:annotation> <xsd:documentation>GRECJA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GD\"> <xsd:annotation> <xsd:documentation>GRENADA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GL\"> <xsd:annotation> <xsd:documentation>GRENLANDIA </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GE\"> <xsd:annotation> <xsd:documentation>GRUZJA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GU\"> <xsd:annotation> <xsd:documentation>GUAM</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GG\"> <xsd:annotation> <xsd:documentation>GUERNSEY </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GY\"> <xsd:annotation> <xsd:documentation>GUJANA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GF\"> <xsd:annotation> <xsd:documentation>GUJANA FRANCUSKA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GP\"> <xsd:annotation> <xsd:documentation>GWADELUPA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GT\"> <xsd:annotation> <xsd:documentation>GWATEMALA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GGN\"> <xsd:annotation> <xsd:documentation>GWINEA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GQ\"> <xsd:annotation> <xsd:documentation>GWINEA RÓWNIKOWA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GW\"> <xsd:annotation> <xsd:documentation>GWINEA-BISSAU</xsd:documentation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"HT\"> <xsd:annotation> <xsd:documentation>HAITT</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"ES\"> <xsd:annotation> <xsd:documentation>HISZP ANIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"NL\"> <xsd:annotation> <xsd:documentation>HOLANDIA (NIDERLANDY)</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"HN\"> <xsd:annotation> <xsd:documentation>HONDURAS</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"HK\"> <xsd:annotation> <xsd:documentation>HONGK ONG</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"IN\"> <xsd:annotation> <xsd:documentation>INDIE</xsd:documentation> </xsdzannotation> </xsd:enumeration> <xsd:enumeration value=\"ID\"> <xsd:annotation> <xsd:documentation>INDONEZJA </xsd:documentation> </xsd:annotation> </xsd:emumeration> <xsd:enumeration value=\"IQ\"> <xsd:annotation> <xsd:documentation>IRAK</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"IR\"> <xsd:annotation> . <xsd:documentation>IRAN</xsd;documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"IE\"> <xsd:annotation> <xsd:documentation>IRLANDIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"IS\"> <xsd:annotation> <xsd:documentation>ISLANDIA </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"IL\"> <xsd:annotation> <xsd:documentation> IZRAEL</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"JM\"> <xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "— 65 — Poz."
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>JAMAJKA</xsd:documentation> </xsd:annotation> <fxsd:enumeration> <xsd:enumeration value=\"JP\"> <xsd:annotation> <xsd;documentation>JAPONIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"YE\"> <xsd:annotation> <xsd:documentation>JEMEN</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"JE\"> <xsd:annotation> <xsd:documentation>JERSEY</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"JO\"> <xsd:annotation> <xsd:documentation>JORDANIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"KY\"> <xsd:annotation> <xsd:documentation>KAJMANY</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"KH\"> <xsd:annotation> <xsd:documentation>KAMBODŻA</xsd:documentation> </xsd:annotation> <fxsd:enumeration> <xsd:enumeration value=\"CM\"> <xsd:annotation> <xsd:documentation>KAMERUN</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CA\"> <xsd:annotation> <xsd:documentation>KANADA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"QA\"> <xsd:armotation> <xsd:documentation>KATAR</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"KZ\"> <xsd:annotation> <xsd:documentation>KAZACHSTAN</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"KE\"> <xsd:annotation> <xsd:documentation>KENIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"KG\"> <xsd:annotation> <xsd:documentation>KIRGISTAN</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"KI\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 24 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "— 66 — Poz."
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation> <xsd:documentation>KIRIBATI</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CO\"> <xsd:annotation> <xsd:documentation>K OLUMBIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"KM\"> <xsd:annotation> <xsd:documentation>KOMORY </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CG\"> <xsd:annotation> <xsd:documentation>KONGO</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CD\"> <xsd:annotation> <xsd:documentation>KONGO, REPUBLIKA DEMOKRATYCZNA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"KP\"> <xsd:annotation> <xsd:documentation>KOREANSKA REPUBLIKA LUDOWO- DEMOKRATYCZNA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"XK\"> <xsd:annotation> <xsd:documentation>KOSOWO</xsd:documentation> </xsd:amnotation> </xsd:enumeration> <xsd:enumeration value=\"CR\"> <xsd:annotation> <xsd:documentation>KOSTAR YKA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CU\"> <xsd:annotation> <xsd:documentation>KUBA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration valne=\"KW\"> <xsd:annotation> <xsd:documentation>KUWEJT</xsd:documentation> <fxsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"LA\"> <xsd:annotation> <xsd:documentation>LAOS</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration valne=\"LS\"> <xsd:annotation> <xsd:documentation>LESOTHO</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"LB\"> <xsd:annotation> <xsd:documentation>LIBAN</xsd:documentation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "— 67 — Poz."
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xed:enumeration> <xsd:enumeration value=\"LR\"> <xsd:annotation> <xsd:documentation>LIBERIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"LY\"> <xsd:annotation> <xsd:documentation>LIBIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"LI\"> <xsd:annotation> <xsd:documentation>LIECHTENSTEIN</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"LT\"> <xsd:annotation> <xsd:documentation>LITW A</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"LV\"> <xsd:annotation> <xsd:documentation>LOTWA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"LU\"> <xsd:annotation> <xsd:documentation> LUKSEMBURG</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MK\"> <xsd:annotation> <xsd:documentation>MACEDONIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MG\"> <xsd:annotation> <xsd:documentation>MADAGASKAR=/xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"YT\"> <xsd:annotation> <xsd:documentation>MAJOTTA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MO\"> <xsd:annotation> <xsd:documentation>MAK AO</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MW\"> <xsd:annotation> <xsd:documentation>MALA WI1</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MV\"> <xsd:annotation> <xsd:documentation>MALEDIWY</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MY\"> <xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 26 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "— 68 — Poz."
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd;documentation>MALEZJA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"ML\"> <xsd:annotation> <xsd:documentation>MALI</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MT\"> <xsd:annotation> <xsd:documentation> MALT A</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MP\"> <xsd:annotation> <xsd:documentation> MARIANY POLNOCNE</xsd:documentation> </xsd:annotation> <fxsd:enumeration> <xsd:enumeration value=\"MA\"> <xsd:annotation> <xsd:documentation> MAROK O</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MQ\"> <xsd:annotation> <xsd:documentation>MARTYNIKA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MR\"> <xsd:annotation> <xsd:documentation>MAURETANIA</xsd:documentation> </xsd:annotation> <fxsd:enumeration> <xsd:enumeration value=\"MU\"> <xsd:annotation> <xsd:documentation>MAURITIUS</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MX\"> <xsd:annotatjon> <xsd:documentation>MEKSYK</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"XL\"> <xsd:annotation> <xsd:documentation>MELILLA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration valuc=\"FM\"> <xsd:annotation> <xsd:documentation>MIKRONEZIJA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"UM\"> <xsd:annotation> <xsd:documentation>MINOR</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MD\"> <xsd:annotation> <xsd:documentation>MOŁDOWA </xsd:documentation> <fxsd;ańnotation> <fxsd:enumeration> <xsd:enumeration value=\"MC\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 27 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "— 69 — Poz."
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation> <xsd:documentation>MONAKO</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration valuc=\"MN\"> <xsd:annotation> <xsd:documentation> MONGOLIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MS\"> <xsd:annotation> <xsd:documentation>MONTSERRAT*/xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MZ\"> <xsd:annotation> <xsd:documentation> MOZAMBIK</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MM\"> <xsd:annotation> <xsd:documentation>MY ANMAR (BURMA)}</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"NA\"> </xsd:annotation> <xsd:documentation>NAMIBIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"NR\"> <xsd:annotation> <xsd:documentation>NAURU</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"NP\"> <xsdzannotation> <xsd:documentation>NEPAL</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"DE\"> <xsd:annotation> <xsd:documentation>NIEMCY </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"NE\"> <xsd:annotation> <xsd:documentation>NIGER</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"NG\"> <xsd:annotation> <xsd:documentation>NIGERIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration valuc=\"NI\"> <xsd:annotation> <xsd:documentation>NIKARAGUA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"NU\"> <xsd:annotation> <xsd:documentation>NIUE</xsd:documentation> </xsd:annotation> </xsd:enumeration>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 28 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "— 70 — Poz."
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"NF\"> <xsd:annotation> <xsd:documentation>NORFOLK</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"NO\"> <xsd:annotation> <xsd:documentation>NOR WEGIA</xsd:documentation> <fxsd:annotatign> </xsd:enumeration> <xsd:enumeration value=\"NC\"> <xsd:annotation> <xsd:documentation>NOWA KALEDONIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"NZ\"> <xsd:annotation> <xsd:documentation>NOWA ZELANDLA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"PS\"> <xsd:annotation> <xsd:documentation>OKUPOWANE TERYTORIUM PALESTYNY </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"OM\"> <xsd:annotation> <xsd:documentation>OMAN</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumetation value=\"PK\"> <xsd:annotation> <xsd:documentation>P AKISTAN</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"PW\"> <xsd:annotation> <xsd:documentation>P ALAU</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"PA\"> <xsd:annotation> <xsd:documentation>P ANAMA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"PG\"> <xsd:annotation> <xsd:documentation>PAPUA NOWA GWINEA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"PY\"> <xsd:annotation> <xsd:documentation>PARAGW AJ</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"PE\"> <xsd:annotation> <xsd;documentation>PERU</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"PN\"> <xsd:annotation> <xsd:documentation>PITCAIRN</xsd:documentation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 29 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"PF\"> <xsd:annotation> <xsd:documentation>POLINEZJA FRANCUSKA </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"PL\"> <xsd:annotation> <xsd:documentation>POLSKA=</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"GS\"> <xsd:annotation> <xsd:documentation>POLUDNIOWA GEORGIA I POŁUD.WYSPY SANDWICH</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"PT\"> <xsd:annotation> <xsd:documentation>POR TUGALIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"PR\"> <xsd:annotation> <xsd:documentation>PUERTO RICO</xsd:documentatton> <fxsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CF\"> <xsd:annotation> <xsd:documentation>REP. SRODKOWOAFRYKANSKA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CZ\"> <xsd:annotation> <xsd:documentation>REPUBLIKA CZESK A</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"KR\"> <xsd:annotation> <xsd:documentation>REPUBLIKA KOREI</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"ZA\"> <xsd:annotaton> <xsd:documentation>REPUBLIKA POŁUDNIOWEJ AFRYKI</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"RE\"> <xsd:annotation> <xsd:documentation>REUNION</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"RU\"> <xsd:annotation> <xsd:documentation>ROSJA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"RO\"> <xsd:annotation> <xsd:documentation>RUMUNIA</xsd:documentation> <fxsd:annotation> </xsd:enumeration>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 30 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"RW\"> <xsd:annotation> <xsd:documentation>RW ANDA </xsd:documentation> <fxsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"EH\"> <xsd:annotation> <xsd:documentation>SAHARA ZACHODNIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BL\"> <xsd:annotation> <xsd:documentation>SAINT BARTHELEMY </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"KN\"> <xsd:annotation> <xsd:documentation>SAINT KITTS I NEVIS</xsd:documentation> <jxsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"LC\"> <xsd:annotation> <xsd:documentation>SAINT LUCIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration valuc=\"MF\"> <xsd:annotation> <xsd:documentation>SAINT MARTIN</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"vC\"> <xsd:annotation> <xsd:documentation>SAINT VINCENT I GRENADYNY </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration vałuc=\"SV\"> <xsd:annotation> <xsd:documentation>SALWADOR</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"WS\"> <xsd:annotation> <xsd:documentation>SAMOA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"A8\"> <xsd:annotation> <xsd:documentation>SAMOA AMER YKANSKIE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"SM\"> <xsd:annotation> <xsd:documentation>SAN MARINO</xsd:documentation> </xsd:annotation> <fxsd:enumeration> <xsd:enumeration value=\"SN\"> <xsd:annotation> <xsd:documentation>SENEGAL</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"RS\"> <xsd:annotation> <xsd:documentation>SERBIA</xsd:documentation> </xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 31 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:enumeration> <xsd:enumeration value=\"SC\"> <xsd:annotation> <xsd:documentation>SESZELE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"SL\"> <xsd:annotation> <xsd:documentation>SIERRA LEONE</xsd:documentation> <fxsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"SG\"> <xsd:annotation> <xsd:documentation>SINGAPUR</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"SK\"> <xsd:annotation> <xsd:documentation>SLOWACIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"SI\"> <xsd:annotation> <xsd:documentation>SLO WENIA</xsd:documentation> </xsd:annotation> <jxsd:enumeration> <xsd:enumeration value=\"$0\"> <xsd:annotation> <xsd:documentation>SOMALIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"LK\"> <xsd:annotation> <xsd:documentation>SRI LANKA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"PM\"> <xsd:annotation> <xsd:documentation>ST, PIERRE I MIQUELON</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"US$\"> <xsd:annotation> <xsd:documentation>STANY ZJEDNOCZONE AMERYKI=</xsd:docurnentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"5Z\"> <xsd:annotation> <xsd:documentation>SUAZI</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"SD\"> <xsd:annotation> <xsd:documentation>SUDAN</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"SR\"> <xsd:annotation> <xsd:documentation>SURINAM</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"$J\"> <xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 32 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>SVALBARD I JAN MAYEN</xsd:documentation> </xsd:annotation> <fxsd:enumeration> <xsd:enumeration value=\"SH\"> <xsd;annotation> <xsd:documentation>S WIETA HELENA </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" Y\"> <xsd:annotation> <xsd:documentation>S YRIA</xsd:documentation> <fxsd:annotatlon> </xsd:enumeration> <xsd:enumeration value=\"CH\"> <xsd:annotation> <xsd:documentation>SZWAJCARIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"SE\"> <xsd:annotation> <xsd:documentation>SZ WECJA </xsd;documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"TJ\"> <xsd:annotation> <xsd:documentation>TADŻYKISTAN</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"TH\"> <xsd:annotation> <xsd:documentation> TAJLANDIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"TW\"> <xsd:annotation> <xsd:documentation>TAJW AN</xsd:documentation> </xsd:annotation> <fxsd:enumeration> <xsd:enumeration value=\"TZ\"> <xsd:annotation> <xsd:documentation>TANZANIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"TG\"> <xsd:annotation> <xsd:documentation>TOGO</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"TK\"> <xsd:annotation> <xsd:documentation> TORELAU</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"TO\"> <xsd:annotation> <xsd:documentation> TONGA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"TT\"> <xsd:annotation> <xsd:documentation>TRYNIDAD I TOBAGO</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"TN\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 33 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "— 75 — Poz."
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation> <xsd:documentation>TUNEZJA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"TR\"> <xsd:annotation> <xsd:docurnentation>TURCJA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"TM\"> <xsd:annotation> <xsd:documentation>TURKMENISTAN</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"TV\"> <xsd:annotation> <xsd:documentation>TUV ALU</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"UG\"> <xsd:annotation> <xsd:documentation>UGANDA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"UA\"> <xsd:annotation> <xsd:documentation> UKRAINA </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"UY\"> <xsd:annotation> <xsd:documentation>URUGW AJ</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration valuc=\"UZ\"> <xsd:annotation> <xsd:documentation>UZBEKISTAN</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"VU\"> <xsdzannotation> <xsd:documentation>VANUATU</xsd:documentation> <fxsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"WF\"> <xsd:annotation> <xsd:documentation>WALLIŚ I FUTUNA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"VA\"> <xsd:annotation> <xsd:documentation> WATYKAN</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"HU\"> <xsd:annotation> <xsd:documentation> WEGR Y</xsd:documentation> </xsd:annotation> </xsd:erumeration> <xsd:enumeration value=\"VE\"> <xsd:annotation> <xsd:documentation> WENEZUELA</xsd:documentation> </xsd:annotation> </xsd:enumeration>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 34 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"GB\"> <xsd:annotation> <xsd:documentation>WIELKA BRYTANIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"VN\"> <xsd:annotation> <xsd:documentation> WIETNAM</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"IT\"> <xsd:annotation> <xsd:documentation> WŁOCHY </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"TL\"> <xsd:annotation> <xsd:documentation> WSCHODNI TIMOR</xsd:documentation> <fxsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CI\"> <xsd:annotation> ; <xsd:documentation> WYBRZEZE KOŚCI SŁONIOWEJ</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BV\"> <xsd:annotation> <xsd:documentation> WY SPA BOUVETA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CX\"> <xsd:annotation> <xsd:documentation>WYSPA BOŻEGO NARODZENIA </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"IM\"> <xsd:annotation> <xsd:documentation>WY SPA MAN</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CK\"> <xsd:annotation> <xsd:documentation>WYSPY COOK A</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration valne=\"VI\"> <xsd:annotation> <xsd:documentation>WYSPY DZIEWICZE-USA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"VG\"> <xsd:annotation> <xsd:documentation>WYSPY DZIEWICZE-W.B.</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enutmeration value=\"HM\"> <xsd.annotation> <xsd:documentation> WY SPY HEARD I MCDONALD</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CC\"> <xsd:annotation> <xsd:documentation>WY SPY KOKOSOWE (KEELINGA)</xsd:documentation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 35 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"MH\"> <xsd:annotation> <xsd:documentation>WYSPY MARSHALLA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"FO\"> <xsd:annotation> <xsd:documentation>WYSPY OWCZE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"SB\"> <xsd:annotation> <xsd:documentation> WYSPY SALOMONA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"ST\"> <xsd:annotation> <xsd:documentation>WYSPY ŚWIĘTEGO TOMASZA I KSIAZECA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration valne=\"TC\"> <xsd:annotation> <xsd:documentation> WYSPY TURKS I CAICOS</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"ZM\"> <xsd:annotation> <xsd:documentation>ZAMBIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"CV\"> <xsd:annotation> <xsd:documentation>ZIELONY PRZYLĄDEK </xsd:documentation> </xsd:annotation> </xsd‘enumeration> <xsd:enumeration value=\"ZW\"> <xsd:annotation> <xsd:documentation>ZIMBAP WE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"AE\"> <xsd:annotation> <xsd:documentation>ZJEDNOCZONE EMIRATY ARABSKIE</xsd:documentation> </xsd:annotation> </xsd:enumeration> </xsd:restriction> </xsd:simpleT ype> </xsd:schema>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 36 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Nazwa pliku XSD:"
+    },
+    {
+     "type": "ocr",
+     "text": "— 78 — Poz."
+    },
+    {
+     "type": "ocr",
+     "text": "http://e-deklaracje.mf.gov.pl/Repozytorium/Slowniki/KodyNaczelnikowUrzedowSkarbowych(1) v1-1.xsd <?xml version=\"1.0\" encoding=\"UTF-8\"7> <xed:schema xmlns:xsd=\"http://www.w3.org/2001/XMLŚchema\" elementFormDefault=\"qualified\" attributeF ormDefault=\"unqualified\" version=\"1.0\" xml:lang=\"PL\"> <xsd:annotation> <xsd:documentation>Słownik naczelników urzędów skarbowych</xsd:documentation> </xsd:annotation> <xsd:simpleType name=\"TKodNUS\"> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"0202 - NACZELNIK URZĘDU SKARBOWEGO W BOLESŁAWCU\"/> KŁODZKIEJ\"/> DZIERZONIOWIE'/>"
+    },
+    {
+     "type": "ocr",
+     "text": "GORZE\"/> GORZE\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "ŚLĄSKIM\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "RUDZIE\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "ŚLĄSKIEJ\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "WALBRZYCHU\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "FABRYCZNA\"/> KRZYKI\"/> POLE'/> MIASTO\"> SRODMIESCIE\"/> WROCLAWIU\"/> SLASKICH\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "POLKOWICACH'/> WE WROCŁAWIU\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"0203 - NACZELNIK URZĘDU SKARBOWEGO W BYSTRZYCY <xsd:enumeration value=\"0204 - NACZELNIK URZĘDU SKARBOWEGO W <xsd:enumeration value=\"0205 - NACZELNIK URZĘDU SKARBOWEGO W GŁOGOWIE\"/> <xsd:enumeration value=\"0206 - NACZELNIK URZĘDU SKARBOWEGO W JAWORZE\"/> <xsd:enumeration value=\"0207 - NACZELNIK URZĘDU SKARBOWEGO W JELENIEJ <xsd:enumeration value=\"0208 - NACZELNIK URZĘDU SKARBOWEGO W KAMIENNEJ <xsd:enumeration value=\"0209 - NACZELNIK URZĘDU SKARBOWEGO W KŁODZKU\" /?> <xsd:enumeration value=\"0210 - NACZELNIK URZĘDU SKARBOWEGO W LEGNICY\"/> <xsd:enumeration value=\"0211 - NACZELNIK URZĘDU SKARBOWEGO W LUBANIU\"/> <xsd:enumeration value=\"0212 - NACZELNIK URZĘDU SKARBOWEGO W LUBINIE\"/> <xsd:enumeration value=\"0213 - NACZELNIK URZĘDU SKARBOWEGO W LWÓWKU <xsd:enumeration value=\"0214 - NACZELNIK URZĘDU SKARBOWEGO W MILICZU\"/> <xsd:enumeration value=\"0215 - NACZELNIK URZĘDU SKARBOWEGO W NOWEJ <xsd:enumeration value=\"0216 - NACZELNIK URZĘDU SKARBOWEGO W OLEŚNICY\"/> <xsd:enumeration value=\"0217 - NACZELNIK URZĘDU SKARBOWEGO W OŁAWIE'/> <xsd:enumeration value=\"0218 - NACZELNIK URZĘDU SKARBOWEGO W STRZELINIE\"/> <xsd:enumeration value=\"0219 - NACZELNIK URZĘDU SKARBOWEGO W ŚRODZIE <xsd:enumeration value=\"0220 - NACZELNIK URZĘDU SKARBOWEGO W SWIDNICY\"/> <xsd:enumeration value=\"0221 - NACZELNIK URZĘDU SKARBOWEGO W TRZEBNICY\"/> <xsd:enumeration value=\"0222 - NACZELNIK URZĘDU SKARBOWEGO W <xsd:enumeration value=\"0223 - NACZELNIK URZĘDU SKARBOWEGO W WOLOWIE\"/> <xsd:enumeration value=\"0224 - NACZELNIK URZĘDU SKARBOWEGO WROCLAW- <xsd:enumeration value=\"0225 - NACZELNIK URZĘDU SKARBOWEGO WROCLAW- <xsd:enumeration value=\"0226 - NACZELNIK URZĘDU SKARBOWEGO WROCLAW-PSIE <xsd:enumeration value=\"0227 - NACZELNIK URZĘDU SKARBOWEGO WROCLAW-STARE <xsd:enumeration value=\"0228 - NACZELNIK URZĘDU SKARBOWEGO WROCLAW- <xsd:enumeration value=\"0229 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO WE <xsd:enumeration value=\"0230 - NACZELNIK URZĘDU SKARBOWEGO W ZĄBKOWICACH <xsd:enumeration value=\"0231 - NACZELNIK URZĘDU SKARBOWEGO W ZGORZELCU\"/> <xsd:enumeration vałue=\"0232 - NACZELNIK URZĘDU SKARBOWEGO W ZŁOTORYT\"> <xsd:enumeration value=\"0233 - NACZELNIK URZĘDU SKARBOWEGO W GORZE”/> <xsd:enumeration vae=\"0234 - NACZELNIK URZĘDU SKARBOWEGO W <xsd:enumeration value=\"0271 - NACZELNIK DOLNOŚLĄSKIEGO URZĘDU SKARBOWEGO <xsd:enutneration value=\"0402 - NACZELNIK URZĘDU SKARBOWEGO W ALEKSANDROWIE KUJAWSKIM\"/>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 37 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "BYDGOSZCZY\"/> BYDGOSZCZY\"/> BYDGOSZCZY\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "INOWROCLAWIU\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "NOTECIA\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "TORUNIU\"/> TORUNIU\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "WLOCLAWKU\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "DOBRZYNIU\"/> KRAJEŃSKIM\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"0403 - NACZELNIK URZĘDU SKARBOWEGO W BRODNICY\"/> <xsd:enumeration value=\"0404 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"0405 - NACZELNIK DRUGIEGO URZĘDU SKARBOWEGO W <xsd:enumeration valne=\"0406 - NACZELNIK TRZECIEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"0407 - NACZELNIK URZĘDU SKARBOWEGO W CHELMNIE\"/> <xsd:enumeration value=\"0408 - NACZELNIK URZĘDU SKARBOWĘGO W GRUDZIADZU\"> <xsd:enumeration value=\"0409 - NACZELNIK URZĘDU SKARBOWEGO W <xsd:enumeration value=\"0410 - NACZELNIK URZĘDU SKARBOWEGO W LIPNIE\"/> <xsd:enumeration value=\"0411 - NACZELNIK URZĘDU SKARBOWEGO W MOGILNIE\"> <xsd:enumeration value=\"0412 - NACZELNIK URZĘDU SKARBOWEGO W NAKLE NAD <xsd:enumeration value=\"0413 - NACZELNIK URZĘDU SKARBOWEGO W RADZIEJOWIE\"/> <xsd:enumeration value=\"0414 - NACZELNIK URZĘDU SKARBOWEGO w RYPINIE\"/> <xsd:enumeration value=\"0415 - NACZELNIK URZĘDU SKARBOWEGO W SWIECIU\"/> <xsd:enumeration value=\"0416 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"0417 - NACZELNIK DRUGIEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"0418 - NACZELNIK URZĘDU SKARBOWEGO W TUCHOLI\"/> <xsd:enumeration value=\"0419 - NACZELNIK URZĘDU SKARBOWEGO W WĄBRZEŹNIE'Y> <xsd:enumeration value=\"0420 - NACZELNIK URZĘDU SKARBOWEGO WE <xsd:enumeration value=\"0421 - NACZELNIK URZĘDU SKARBOWEGO W ŻNINIE”;> <xsd:enumeration value=\"0422 - NACZELNIK URZĘDU SKARBOWEGO W GOLUBIU- <xsd:emumeration value=\"0423 - NACZELNIK URZĘDU SKARBOWEGO W SEPÓLNIE <xsd:enumeration value=\"047] - NACZELNIK KUJAWSKO-POMORSKIEGO URZĘDU SKARBOWEGO W BYDGOSZCZY \"/> PODLASKIEJ\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "HRUBIESZOWIE\"/> LUBELSKIM\"/> KRASNYMSTAWIE\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "LUBLINIE\"/> LUBLINIE\"/> LUBLINIE\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "LUBELSKIM\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "PODLASKIM\"/> LUBELSKIM\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration valye=\"0602 - NACZELNIK URZĘDU SKARBOWEGO W BIAŁEJ <xsd:enumeration value=\"0603 - NACZELNIK URZĘDU SKARBOWEGO W BIŁGORAJU\"/> <xsd:enumeration value=\"0604 - NACZELNIK URZĘDU SKARBOWEGO W CHELMIE\"/> <xsd:enumeration value=\"0605 - NACZELNIK URZĘDU SKARBOWEGO W <xsd:enumeration value=\"0606 - NACZELNIK URZĘDU SKARBOWEGO W JANOWIE <xsd:enumeration value=\"0607 - NACZELNIK URZĘDU SKARBOWEGO W <xsd:enumeration value=\"0608 - NACZELNIK URZĘDU SKARBOWEGO W KRAŚNIKU\"/> <xsd:enumeration value=\"0609 - NACZELNIK URZĘDU SKARBOWEGO W LUBARTOWIE\"/> <xsd:enumeration value=\"0610 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"0611 - NACZELNIK DRUGIEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"0612 - NACZELNIK TRZECIEGO URZĘDU SKARBOWEGO W <xsd:enumeration valuc=\"0613 - NACZELNIK URZĘDU SKARBOWEGO W LUKOWIE'> <xsd:enumeration value=\"0614 - NACZELNIK URZĘDU SKARBOWEGO W OPOLU <xsd:enumeration value=\"0615 - NACZELNIK URZĘDU SKARBOWEGO W PARCZEWIE\"/> <xsd:enumeration value=\"0616 - NACZELNIK URZĘDU SKARBOWEGO W PUŁAWACH\"/> <xsd:enumeration value=\"0617 - NACZELNIK URZEDU SKARBOWEGO W RADZYNIU <xsd:enumeration value=\"0618 - NACZELNIK URZĘDU SKARBOWEGO W TOMASZOWIE <xsd:enumeration value=\"0619 - NACZELNIK URZĘDU SKARBOWEGO WE WŁODAWIE”/> <xsd:enumeration value=\"0620 - NACZELNIK URZĘDU SKARBOWEGO W ZAMOŚCIU\"/> <xsd:enumeration valne=\"062] - NACZELNIK URZĘDU SKARBOWEGO W LECZNEJ\"/> <xsd:enumeration value=\"0622 - NACZELNIK URZĘDU SKARBOWEGO W RYKACH\"/>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 38 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"0671 - NACZELNIK LUBELSKIEGO URZĘDU SKARBOWEGO W LUBLINIE'/> <xsd:enumeration value=\"0802 - NACZELNIK URZĘDU SKARBOWEGO W GORZOWIE WIELKOPOLSKIM\"/> <xsd:enumeration value=\"0803 - NACZELNIK URZĘDU SKARBOWEGO W KROŚNIE ODRZANSKIM\"/> <xsd:enumeration value=\"0804 - NACZELNIK URZĘDU SKARBOWEGO W MIEDZYRZECZU\"/> <xsd:enumeration value=\"0805 - NACZELNIK URZĘDU SKARBOWEGO W NOWEJ SOLI\"/> <xsd:enumeration value=\"0806 - NACZELNIK URZĘDU SKARBOWEGO W SLUBICACH\"/> <xsd:enumeration value=\"0807 - NACZELNIK URZĘDU SKARBOWEGO W ŚWIEBODZINIE\"/> <xsd:enumeration value=\"0808 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO W ZIELONEJ GÓRZE\"/> , <xsd:enumeration value=\"0809 - NACZELNIK DRUGIEGO URZĘDU SKARBOWEGO W ZIELONEJ GORZE\"/> <xsd:enumeration value=\"0810 - NACZELNIK URZĘDU SKARBOWEGO W ŻAGANIU”/> <xsd:enumeration value=\"081 1 - NACZELNIK URZĘDU SKARBOWEGO W ZARACH\"/> <xsd:enumeration value=\"0812 - NACZELNIK URZĘDU SKARBOWEGO W DREZDENKU\"/> <xsd:enumeration value=\"0813 - NACZELNIK URZĘDU SKARBOWEGO W SULECINIE'/> <xsd:enumeration value=\"08 14 - NACZELNIK URZĘDU SKARBOWEGO WE WSCHOWIE\"/> <xsd:enumeration value=\"0871 - NACZELNIK LUBUSKIEGO URZĘDU SKARBOWEGO W ZIELONEJ GÓRZE\"/> <xsd:enumeration value=\" 1002 - NACZELNIK URZĘDU SKARBOWEGO W BEŁCHATOWIE\"/> <xsd:enumeration value=\"1003 - NACZELNIK URZĘDU SKARBOWEGO W BRZEZINACH\"/> <xsd:enumeration value=\" 1004 - NACZELNIK URZĘDU SKARBOWEGO W GLOWNIE\"/> <xsd:enumeration value=\"1005 - NACZELNIK URZĘDU SKARBOWEGO W KUTNIE\"/> <xsd:enumeration value=\" 1006 - NACZELNIK URZĘDU SKARBOWEGO W LASKU\"/> <xsd:enumeration value=\"1007 - NACZELNIK URZĘDU SKARBOWEGO W LOWICZU\"/> <xsd:enumeration vałue=\" 1008 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO ŁÓDŹ-BAŁUTY\"/> _ <xsd:enumeration value=\"]009 - NACZELNIK DRUGIEGO URZĘDU SKARBOWEGO LODZ- BAŁUTY\"/> <xsd:enumeration value=\"1010 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO LODZ-GORNA\"/> i <xsd:enumeration value=\"1011 - NACZELNIK DRUGIEGO URZĘDU SKARBOWEGO ŁÓDŹ- GORNA\"/> <xsd:enumeration value=\"1012 - NACZELNIK URZĘDU SKARBOWEGO ŁÓDŹ-POLESIE'/> <xsd:enumeration value=\"1013 - NACZELNIK URZĘDU SKARBOWEGO ŁÓDŹ- ŚRÓDMIEŚCIE\"/> <xsd:enumeration value=\"1014 - NACZELNIK URZĘDU SKARBOWEGO LODZ-WIDZEW\"/> <xsd:enumeration value=\"1015 - NACZELNIK URZĘDU SKARBOWEGO W OPOCZNIE\"/> <xsd:enumeration value=\"1016 - NACZELNIK URZĘDU SKARBOWEGO W PABIANICACH\"/> <xsd:enumeration value=\"1017 - NACZELNIK URZĘDU SKARBOWEGO W PIOTRKOWIE TRYBUNALSKIM\"> <xsd:enumeration value=\"1018 - NACZELNIK URZĘDU SKARBOWEGO W PODDĘBICACH\"/> <xsd:enumeration value=\"1019 - NACZELNIK URZĘDU SKARBOWEGO W RADOMSKU\"/> <xsd:enumeration value=\"1020 - NACZELNIK URZĘDU SKARBOWEGO W RAWIE MAZOWIECKIET\"/> <xsd:enumeration value=\"1021 - NACZELNIK URZĘDU SKARBOWEGO W SIERADZU\"/> <xsd:enumeration value=\"1022 - NACZELNIK URZĘDU SKARBOWEGO W SKIERNIEWICACH\"/> <xsd:enumeration value=\"1023 - NACZELNIK URZĘDU SKARBOWEGO W TOMASZOWIE MAZOWIECKIM\"/> <xsd:enumeration value=\"1024 - NACZELNIK URZĘDU SKARBOWEGO W WIELUNIU\"/> <xsd:enumeration value=\"1025 - NACZELNIK URZĘDU SKARBOWEGO W ZDUŃSKIEJ WOLI\"/> <xsd:enumeration value=\"1026 - NACZELNIK URZĘDU SKARBOWEGO W ZGIERZU\"/> <xsd:enumeration value=\"1027 - NACZELNIK URZĘDU SKARBOWEGO W WIERUSZOWIE\"/> <xsd:enumeration value=\"1028 - NACZELNIK URZĘDU SKARBOWEGO W ŁĘCZYCY\"/> <xsd:enumeration value=\"1029 - NACZELNIK URZĘDU SKARBOWEGO W PAJECZNIE\"/>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 39 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"1071 - NACZELNIK ŁÓDZKIEGO URZĘDU SKARBOWEGO W LODZI\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"1202 - NACZELNIK URZĘDU SKARBOWEGO W BOCHNI\"/> <xsd:enumeration value=\"1203 - NACZELNIK URZĘDU SKARBOWEGO W BRZESKU\"/> <xsd:enumeration value=\"1204 - NACZELNIK URZĘDU SKARBOWEGO W CHRZANOWIE\"/> <xsd:enumeration value=\"1205 - NACZELNIK URZĘDU SKARBOWEGO W DĄBROWIE TARNOWSKIEJ'/> <xsd:enumeration valne=\"1206 - NACZELNIK URZĘDU SKARBOWEGO W GORLICACH'/> <xsd:enumeration value=\"1207 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO W KRAKOWIE\"/> . <xsd:enumeration value=\"1208 - NACZELNIK URZEDU SKARBOWEGO KRAKOW- KROWODRZA”/> ; <xsdzenumeration value=\"1209 - NACZELNIK URZĘDU SKARBOWEGO KRAKOW-NOWA HUTA*/> <xsd:enumeration value=\"1210 - NACZELNIK URZEDU SKARBOWEGO KRAKOW- PODGORZE\"/> <xsd:enumeration value=\"1211 - NACZELNIK URZEDU SKARBOWEGO KRAKOW- PRADNIK\"/> <xsd:enumeration value=\"1212 - NACZELNIK URZĘDU SKARBOWEGO KRAKOW-STARE MIASTO\"/> <xsd:enumeration value=\"1213 - NACZELNIK URZĘDU SKARBOWEGO KRAKÓW- SRODMIESCIE\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"1214 - NACZELNIK URZĘDU SKARBOWEGO W LIMANOWEJ\"/> <xsd:enumeration value=\"1215 - NACZELNIK URZĘDU SKARBOWEGO W MIECHOWIE\"/> <xsd:enumeration value=\"1216 - NACZELNIK URZĘDU SKARBOWEGO W MYSLENICACH\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"1217 - NACZELNIK URZĘDU SKARBOWEGO W NOWYM SACZU\"/> <xsd:enumeration value=\"1218 - NACZELNIK URZĘDU SKARBOWEGO W NOWYM TARGU\"/> <xsd:enumeration value=\"1219 - NACZELNIK URZĘDU SKARBOWEGO W OLKUSZU\";/> <xsd:enumeration value=\"1220 - NACZELNIK URZĘDU SKARBOWEGO W OŚWIĘCIMIU\"/> <xsdzenumeration value=\"1221 - NACZELNIK URZĘDU SKARBOWEGO W PROSZOWICACH\"/> <xsd:enumeration value=\"1222 - NACZELNIK URZĘDU SKARBOWEGO W SUCHEJ BESKIDZKIEJ\"/> <xsd:enumeration value=\"1223 - NACZELNIK PIERWSZEGO URZEDU SKARBOWEGO W TARNOWIE\"/> <xsd:enumeration value=\"1224 - NACZELNIK DRUGIEGO URZEDU SKARBOWEGO W TARNOWIE\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"1225 - NACZELNIK URZEDU SKARBOWEGO W WADOWICACH\"/> <xsd:enumeration value=\"1226 - NACZELNIK URZĘDU SKARBOWEGO W WIELICZCE\"/> <xsd:enumeration value=\"1227 - NACZELNIK URZĘDU SKARBOWEGO W ZAKOPANEM\"/> <xsd:enumeration value=\"1228 - NACZELNIK DRUGIEGO URZĘDU SKARBOWEGO KRAKÓW\";> <xsd:enumeration value=\"1271 - NACZELNIK MAŁOPOLSKIEGO URZĘDU SKARBOWEGO W KRAKOWIE'/> <xsd:enumeration value=\"1402 - NACZELNIK URZĘDU SKARBOWEGO W BIALOBRZEGACH\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"1403 - NACZELNIK URZEDU SKARBOWEGO W CIECHANOWIE\"/> <xsd:enumeration value=\"1404 - NACZELNIK URZĘDU SKARBOWEGO W GARWOLINIE’> <xsd:enumeration value=\"1405 - NACZELNIK URZĘDU SKARBOWEGO W GOSTYNINIE\"/> <xsd:enumeration value=\"1406 - NACZELNIK URZĘDU SKARBOWEGO W GRODZISKU MAZOWIECKIM\"/> <xsd:enumeration value=\"1407 - NACZELNIK URZĘDU SKARBOWEGO W GRÓJCU\"/> <xsd:enumeration value=\"1408 - NACZELNIK URZĘDU SKARBOWEGO W KOZIENICACH\"/> <xsd:enumeration value=\"1409 - NACZELNIK URZĘDU SKARBOWEGO W LEGIONOWIE\"/> <xsd:enumeration value=\"1410 - NACZELNIK URZĘDU SKARBOWEGO W ŁOSICACH\"/> <xsd:enumeration value=\"141 1 - NACZELNIK URZĘDU SKARBOWEGO W MAKOWIE MAZOWIECKIM '/> <xsd:enumeration value=\"1412 - NĄCZELNIK URZĘDU SKARBOWEGO W MIŃSKU MAZOWIECKIM'/>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 40 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"1413 - NACZELNIK URZĘDU SKARBOWEGO W MŁAWIE”/> <xsd:enumeration value=\" 1414 - NACZELNIK URZĘDU SKARBOWEGO W NOWYM DWORZE MAZOWTECKIM\"/> <xsd:enumeration value=\"1415 - NACZELNIK URZĘDU SKARBOWEGO W OSTROŁĘCE» <xsd:enumeration value=\"1416 - NACZELNIK URZĘDU SKARBOWEGO W OSTROWI MAZOWIECKIEJ\"/:> <xsd:enumeration value=\"1417 - NACZELNIK URZĘDU SKARBOWEGO W OTWOCKU\"/> <xsd:enuimeration value=\"1418 - NACZELNIK URZĘDU SKARBOWEGO W PIASECZNIE\"/> <xsd:enumeration value=\"1419 - NACZELNIK URZĘDU SKARBOWEGO W PLOCKU\"/> <xsd:enumeration value=\"1420 - NACZELNIK URZĘDU SKARBOWEGO W PLONSKU\"> <xsd:enumeration valne=\"142] - NACZELNIK URZĘDU SKARBOWEGO W PRUSZKOWIE'/> <xsd:enumeration value=\" 1422 - NACZELNIK URZĘDU SKARBOWEGO W PRZASNYSZU\"/> <xsd:enumeration value=\"1423 - NACZELNIK URZĘDU SKARBOWEGO W PUŁTUSKU\"/> <xsd:enumeration value=\" 1424 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO w RADOMIU\"/> <xsd:enumeration value=\"1425 - NACZELNIK DRUGIEGO URZEDU SKARBOWEGO W RADOMIU\"/> <xsd:enumeration value=\" 1426 - NACZELNIK URZĘDU SKARBOWEGO W SIEDLCACH\"/> <xsd:enumeration value=\" 1427 - NACZELNIK URZĘDU SKARBOWEGO W SIERPCU\" /> <xsd:enumeration value=\"1428 - NACZELNIK URZĘDU SKARBOWEGO W SOCHACZEWIE\"/> <xsd:enumeratiot value=\" 1429 - NACZELNIK URZĘDU SKARBOWEGO W SOKOŁOWIE PODLASKIM\"/> <xsd:enumeration value=\"1430 - NACZELNIK URZĘDU SKARBOWEGO W SZYDLOWCU\"/> <xsd:enumeration value=\"143] - NACZELNIK URZĘDU SKARBOWEGO WARSZAWA- BEMOWO'/> <xsd:enumeration valne=\"1432 - NACZELNIK URZĘDU SKARBOWEGO WARSZAWA- BIELANY \"> <xsd:enumeration value=\"1433 - NACZELNIK URZĘDU SKARBOWEGO WARSZAWA- MOKOTOW\"/> <xsd:enumeration value=\"1434 - NACZELNIK URZEDU SKARBOWEGO WARSZAWA- PRAGA\"/> <xsd:enumeration value=\"1435 - NACZELNIK PIERWSZEGO URZEDU SKARBOWEGO WARSZAWA-SRODMIESCIE\"/> <xsd:enumeration value=\"1436 - NACZELNIK DRUGIEGO URZĘDU SKARBOWEGO WARSZAWA -ŚRÓDMIEŚCIE\"/> <xsd:enumeration value=\"1437 - NACZELNIK URZĘDU SKARBOWEGO WARSZAWA- TARGOWEK\"/> <xsd:erumeration value=\"1438 - NACZELNIK URZĘDU SKARBOWEGO WARSZAWA- URSYNOW\"/> <xsd:enumeration valne=\"1439 - NACZELNIK URZĘDU SKARBOWEGO WARSZAWA- WAWER\"/> <xsd:enumeration value=\"1440 - NACZELNIK URZĘDU SKARBOWEGO WARSZAWA- WOLA\"/> <xsd:enumeration value=\"1441 - NACZELNIK URZĘDU SKARBOWEGO W WĘGROWIE\"/> <xsd:enumeration value=\"1442 - NACZELNIK URZĘDU SKARBOWEGO W WOLOMINIE\"/> <xsd:enumeration value\" 1443 - NACZELNIK URZĘDU SKARBOWEGO W WYSZKOWIE\"/> <xsd:enumeration value=\" 1444 - NACZELNIK URZĘDU SKARBOWEGO W ZWOLENIU\"/> <xsd:enumeration value=\"1445 - NACZELNIK URZĘDU SKARBOWEGO W ZUROMINIE\"> <xsd:enumeration value=\"1446 - NACZELNIK URZĘDU SKARBOWEGO W ŻYRARDOWIE\"/> <xsd:enumeration value=\"1447 - NACZELNIK URZĘDU SKARBOWEGO W LIPSKU\"/> <xsd:enumeration value=\" 1448 - NACZELNIK URZĘDU SKARBOWEGO W PRZYSUSZE\" /> <xsd:enumeration value=\"1449 - NACZELNIK TRZECIEGO URZĘDU SKARBOWEGO WARSZAWA -ŚRÓDMIEŚCIE\"/> <xsd:enumeration value=\"1471 - NACZELNIK PIERWSZEGO MAZOWIECKIEGO URZĘDU SKARBOWEGO W WARSZAWIE\"/> <xsd:enumeration value=\"1472 - NACZELNIK DRUGIEGO MAZOWIECKIEGO URZĘDU SKARBOWEGO W WARSZA WIĘ\"/> <xsd:enumeration value=\"1473 - NACZELNIK TRZECIEGO MAZOWIECKIEGO URZĘDU SKARBOWEGO W RADOMIU\"/> <xsd:enumeration valuc=\"1602 - NACZELNIK URZĘDU SKARBOWEGO W BRZEGU\"/> <xsd:enumeration value=\"1603 - NACZELNIK URZĘDU SKARBOWEGO W GLUBCZYCACH\"/>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 41 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "KOZLU\">"
+    },
+    {
+     "type": "ocr",
+     "text": "OPOLU\"/> OPOLU\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "OPOLSKICH\"/> KRAPKOWICACH\"/> OPOLU\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "KOLBUSZOWEJ\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "RZESZOWIE\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "WOLI\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "TARNOBRZEGU\"/> DOLNYCH\"/> RZESZOWIE\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "W RZESZOWIE”\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "BIAŁYMSTOKU\"/> BIAŁYMSTOKU\"/> PODLASKIM\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "SIEMIATYCZACH\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "MAZOWIECKIEM\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"1604 - NACZELNIK URZĘDU SKARBOWEGO W KĘDZIERZYNIE- <xsd:enumeration value=\"1605 - NACZELNIK URZĘDU SKARBOWEGO W KLUCZBORKU\"/> <xsd:enumeration value=\" 1606 - NACZELNIK URZĘDU SKARBOWEGO W NAMYSLOWIE\"/> <xsd:enumeration value=\"1607 - NACZELNIK URZĘDU SKARBOWEGO W NYSIE\"/> <xsd:enumeration value=\"1608 - NACZELNIK URZĘDU SKARBOWEGO W OLESNIE\"> <xsd:enumeration value=\" 1609 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO w <xsd:enumeration value=\"16]10 - NACZELNIK DRUGIEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"1611 - NACZELNIK URZĘDU SKARBOWEGO W PRUDNIKU\"/> <xsd:enumeration valne=\"]612 - NACZELNIK URZĘDU SKARBOWEGO W STRZELCACH <xsd:enumeration value=\"1613 - NACZELNIK URZĘDU SKARBOWEGO W <xsd:enumeration value=\"1671 - NACZELNIK OPOLSKIEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"1802 - NACZELNIK URZĘDU SKARBOWEGO W BRZOZOWIE\"/> <xsd:enumeration value=\"1 803 - NACZELNIK URZĘDU SKARBOWEGO W DEBICY\"/> <xsd:enumeration value=\"1804 - NACZELNIK URZĘDU SKARBOWEGO W JAROSŁAWIU\"/> <xsd:enumeration valuc=\"1 805 - NACZELNIK URZĘDU SKARBOWEGO W JASLE\"/> <xsd:enumeration value=\"1806 - NACZELNIK URZĘDU SKARBOWEGO W <xsd:enumeration value=\"1807 - NACZELNIK URZĘDU SKARBOWEGO W KROSNIE\"/> <xsd:enumeration value=\" 1808 - NACZELNIK URZĘDU SKARBOWEGO W LESKU\"/> <xsd:enumeration value=\" | 809 - NACZELNIK URZĘDU SKARBOWEGO W LEŻAJSKU\"/> <xsd:enumeration value=\"1810 - NACZELNIK URZĘDU SKARBOWEGO W LUBACZOWIE\"/> <xsd:enumeration valuc=\"1811 - NACZELNIK URZĘDU SKARBOWEGO W ŁAŃCUCIE*/> <xsd:enumeration value=\"1812 - NACZELNIK URZĘDU SKARBOWEGO W MIELCU\"/> <xsd:enumeration value=\"1813 - NACZELNIK URZĘDU SKARBOWEGO W PRZEMYSLU\"/> <xsd:enumeration value=\"1814 - NACZELNIK URZĘDU SKARBOWEGO W PRZEWORSKU\"/> <xsd:enumeration value=\"1815 - NACZELNIK URZĘDU SKARBOWEGO W ROPCZYCACH\"/> <xsd:enumeration value=\"1816 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"1817 - NACZELNIK URZĘDU SKARBOWEGO W SANOKU\"/> <xsd:enumeration value=\"1818 - NACZELNIK URZĘDU SKARBOWEGO W STALOWEJ <xsd:enumeration value=\"1819 - NACZELNIK URZĘDU SKARBOWEGO W STRZYŻOWIE\"/> <xsd:enumeration value=\"1820 - NACZELNIK URZĘDU SKARBOWEGO W <xsd:enumeration value=\"1821 - NACZELNIK URZĘDU SKARBOWEGO W USTRZYKACH <xsd:enumeration value=\"1822 - NACZELNIK DRUGIEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"1823 - NACZELNIK URZĘDU SKARBOWEGO W NISKU\"/> <xsd:enumeration value=\"1871 - NACZELNIK PODKARPACKIEGO URZĘDU SKARBOWEGO <xsd:enumeration value=\"2002 - NACZELNIK URZĘDU SKARBOWEGO W AUGUSTOWIE'/> <xsd:enumeration value=\"2003 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"2004 - NACZELNIK DRUGIEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"2005 - NACZELNIK URZĘDU SKARBOWEGO W BIELSKU <xsd:enumeration vałne=\"2006 - NACZELNIK URZĘDU SKARBOWEGO W GRAJEWIE”/> <xsd:enumeration value=\"2007 - NACZELNIK URZĘDU SKARBOWEGO W KOLNIE\";/> <xsd:enumeration value=\"2008 - NACZELNIK URZĘDU SKARBOWEGO W LOMZY\"/> <xsd:enumeration value=\"2009 - NACZELNIK URZĘDU SKARBOWEGO W MONKACH\"> <xsd:enumeration value=\"2010 - NACZELNIK URZĘDU SKARBOWEGO W <xsd:enumeration value=\"2011 - NACZELNIK URZĘDU SKARBOWEGO W SOKÓŁCE\"/> <xsd:enumeration valuc=\"2012 - NACZELNIK URZĘDU SKARBOWEGO W SUWAŁKACH /> <xsd:enumeration valuc=\"2013 - NACZELNIK URZĘDU SKARBOWEGO W WYSOKIEM"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 42 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"2014 - NACZELNIK URZĘDU SKARBOWEGO W ZAMBROWIE'/> <xsd:enumeration value=\"2015 - NACZELNIK URZĘDU SKARBOWEGO W HAJNOWCE\"/> <xsd:enumeration value=\"2071 - NACZELNIK PODLASKIEGO URZĘDU SKARBOWEGO Ww BIALYMSTOKU\"/> <xsd:enumeration value=\"2202 - NACZELNIK URZĘDU SKARBOWEGO W BYTOWIE\"'/> <xsd:enumeration value=\"2203 - NACZELNIK URZĘDU SKARBOWEGO W CHOJNICACH'/> <xsd:enumeration value=\"2204 - NACZELNIK URZĘDU SKARBOWEGO W CZLUCHOWIE\"/> <xsd:enumeration value=\"2205 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO W GDANSKU\"/> <xsd:enumeration value=\"2206 - NACZELNIK DRUGIEGO URZEDU SKARBOWEGO W GDANSKU\"/> <xsd:enumeration value=\"2207 - NACZELNIK TRZECIEGO URZEDU SKARBOWEGO W GDANSKU\"> <xsd:enumeration value=\"2208 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO W GDYNT\"/> <xsd:enumeration value=\"2209 - NACZELNIK DRUGIEGO URZĘDU SKARBOWEGO W GDYNI\"/> <xsd:enumeration value=\"2210 - NACZELNIK URZĘDU SKARBOWEGO W KARTUZACH\"/> <xsd:enumeration value=\"2211 - NACZELNIK URZĘDU SKARBOWEGO W KOSCIERZYNIE\"/> <xsd:enumeration value=\"2212 - NACZELNIK URZĘDU SKARBOWEGO W KWIDZYNIE\"/> <xsd:enumeration value=\"2213 - NACZELNIK URZĘDU SKARBOWEGO W LEBORKU\"/> <xsd:enumeration valuc=\"2214 - NACZELNIK URZĘDU SKARBOWEGO W MALBORKU\"/> <xsd:enumeration value=\"2215 - NACZELNIK URZĘDU SKARBOWEGO W PUCKU\"/> <xsd:enumeration valuc=\"2216 - NACZELNIK URZĘDU SKARBOWEGO W SLUPSKU\"/> <xsd:enumeration value=\"2217 - NACZELNIK URZĘDU SKARBOWEGO W SOPOCIE\"/> <xsd:enumeration value=\"2218 - NACZELNIK URZĘDU SKARBOWEGO W STAROGARDZIE GDAŃSKIM\"/> <xsd:enumeration value=\"2219 - NACZELNIK URZĘDU SKARBOWEGO W TCZEWIE'/> <xgd:enumeration value=\"2220 - NACZELNIK URZĘDU SKARBOWEGO W WEJHEROWIE\"/> <xsd:enumeration value=\"2221 - NACZELNIK URZĘDU SKARBOWEGO W PRUSZCZU GDAŃSKIM\"/> <xsd:enumeration value=\"2271 - NACZELNIK POMORSKIEGO URZĘDU SKARBOWEGO W GDAŃSKU\"/> <xsd:enumeration value=\"2402 - NACZELNIK URZĘDU SKARBOWEGO W BEDZINIE\"/> <xsd:enumeration value=\"2403 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO W BIELSKU.BIALEJ'/> <xsd:enumeration value=\"2404 - NACZELNIK DRUGIEGO URZĘDU SKARBOWEGO W BIELSKU-BIALE]\"/> <xsd:enumeration value=\"2405 - NACZELNIK URZĘDU SKARBOWEGO W BYTOMIU\"/> <xsd:enumeration value=\"2406 - NACZELNIK URZĘDU SKARBOWEGO W CHORZOWIE\"'/> <xsd:enumeration value=\"2407 - NACZELNIK URZĘDU SKARBOWEGO W CIESZYNIE\"/> <xsd:enumeration value=\"2408 - NACZELNIK URZĘDU SKARBOWEGO W CZECHOWICACH-DZIEDZICACH\"/> . <xsd:enumeration valne=\"2409 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO Ww CZESTOCHOWIE\"/> <xsd:enumeration value=\"2410 - NACZELNIK DRUGIEGO URZEDU SKARBOWEGO W CZĘSTOCHOWIE\"/> <xsd:enumeration value=\"2411 - NACZELNIK URZĘDU SKARBOWEGO W DĄBROWIE GÓRNICZEJ\"/> <xsd:enumeration value=\"2412 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO W GLIWICACH\"/> <xsd:enumeration value=\"2413 - NACZELNIK DRUGIEGO URZEDU SKARBOWEGO W GLIWICACH\"/> <xsd:enumeration value=\"2414 - NACZELNIK URZĘDU SKARBOWEGO W JASTRZEBIU- ZDROJU\"/> <xsd:enumeration value=\"2415 - NACZELNIK URZĘDU SKARBOWEGO W JAWORZNIE\"/> <xsd:enumeration value=\"2416 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO W KATOWICACH\"/> <xsd:enumeration value=\"2417 - NACZELNIK DRUGIEGO URZĘDU SKARBOWEGO W KATOWICACH\"f> <xsd:enumeration value=\"2418 - NACZELNIK URZĘDU SKARBOWEGO W KŁOBUCKU\"/> <xsd:enumeration value=\"2419 - NACZELNIK URZĘDU SKARBOWEGO W LUBLINCU\"/> <xsd:enumeration value=\"2420 - NACZELNIK URZĘDU SKARBOWEGO W MIKOLOWIE'/>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 43 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "MYSLOWICACH'/>"
+    },
+    {
+     "type": "ocr",
+     "text": "ŚLĄSKICH\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "SLASKIEJ\">"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"2421 - NACZELNIK URZĘDU SKARBOWEGO W <xsd:enumeration value=\"2422 - NACZELNIK URZĘDU SKARBOWEGO W MYSZKOWIE\"/> <xsd:enumeration value=\"2423 - NACZELNIK URZĘDU SKARBOWEGO W PIEKARACH <xsd:enumeration value=\"2424 - NACZELNIK URZĘDU SKARBOWEGO W PSZCZYNIE\"/> <xsd:enumeration value=\"2425 - NACZELNIK URZĘDU SKARBOWEGO W RACIBORZU\"/> <xsd:enumeration value=\"2426 - NACZELNIK URZĘDU SKARBOWEGO W RUDZIE <xsd:enumeration value=\"2427 - NACZELNIK URZĘDU SKARBOWEGO W RYBNIKU\"/> <xsd:enumeration value=\"2428 - NACZELNIK URZĘDU SKARBOWEGO W SIEMIANOWICACH SLASKICH\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "GÓRACH\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "ŚLĄSKIM\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration valuc=\"2429 - NACZELNIK URZĘDU SKARBOWEGO W SOSNOWCU\"/> <xsd:enumeration value=\"2430 - NACZELNIK URZĘDU SKARBOWEGO W TARNOWSKICH <xsd:enumeration value=\"2431 - NACZELNIK URZĘDU SKARBOWEGO W TYCHACH\"> <xsd:enumeration value=\"2432 - NACZELNIK URZĘDU SKARBOWEGO W WODZISŁAWIU <xsd:enumeration value=\"2433 - NACZELNIK URZĘDU SKARBOWEGO W ZABRZU\"/> <xsd:enumeration value=\"2434 - NACZELNIK URZĘDU SKARBOWEGO W ZAWIERCIU\"/> <xsd:enumeration value=\"2435 - NACZELNIK URZĘDU SKARBOWEGO W ŻORACH\" /> <xsd:enumeration valuc=\"2436 - NACZELNIK URZĘDU SKARBOWEGO W ŻYWCU\"”/> <xsd:enumeration value=\"2471 - NACZELNIK PIERWSZEGO ŚLĄSKIEGO URZĘDU SKARBOWEGO W SOSNOWCU\"/> <xsd:enumeration value=\"2472 - NACZELNIK DRUGIEGO ŚLĄSKIEGO URZĘDU SKARBOWEGO W BIELSKU-BIAŁEJ\"/> ZDROJU\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "KIELCACH\"/> KIELCACH\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "SWIETOKRZYSKIM\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "SANDOMIERZU\"/> KAMIENNEJ\"/> STARACHOWICACH\">"
+    },
+    {
+     "type": "ocr",
+     "text": "WTELKIEJ\"/> WLOSZCZOWIE\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"2602 - NACZELNIK URZĘDU SKARBOWEGO W BUSKU- <xsd:enumeration value=\"2603 - NACZELNIK URZĘDU SKARBOWEGO W JĘDRZEJOWIE\"/> <xsd:enumeration value=\"2604 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"2605 - NACZELNIK DRUGIEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"2606 - NACZELNIK URZĘDU SKARBOWEGO W KOŃSKICH\"/> <xsd:enumeration value=\"2607 - NACZELNIK URZĘDU SKARBOWEGO W OPATOWIE”/> <xsd:enumeration value=\"2608 - NACZELNIK URZĘDU SKARBOWEGO W OSTROWCU <xsd:enumeration vałue=\"2609 - NACZELNIK URZĘDU SKARBOWEGO W PINCZOWIE\"/> <xsd:enumeration value=\"2610 - NACZELNIK URZĘDU SKARBOWEGO W <xsd:enumeration value=\"2611 - NACZELNIK URZĘDU SKARBOWEGO W SKARŻYSKU- <xsd:enumeration value=\"2612 - NACZELNIK URZĘDU SKARBOWEGO W <xsd:enumeration value=\"2613 - NACZELNIK URZĘDU SKARBOWEGO W STASZOWIE'/> <xsd:enumeration valuc=\"2614 - NACZELNIK URZĘDU SKARBOWEGO W KAZIMIERZY <xsd:enumeration value=\"2615 - NACZELNIK URZĘDU SKARBOWEGO WE <xsd:enumeration value=\"2671 - NACZELNIK ŚWIĘTOKRZYSKIEGO URZĘDU SKARBOWEGO W KIELCACH\"/> BARTOSZYCACH\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "MIESCIE LUBAWSKIM\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"2802 - NACZELNIK URZEDU SKARBOWEGO W <xsdienumeration value=\"2803 - NACZELNIK URZĘDU SKARBOWEGO W BRANIEWIE\"/> <xsd:enumeration value=\"2804 - NACZELNIK URZĘDU SKARBOWEGO W DZIALDOWIE\"> <xsd:enumeration value=\"2805 - NACZELNIK URZĘDU SKARBOWEGO W ELBLĄGU\"/> <xsd:enumeration valuc=\"2806 - NACZELNIK URZĘDU SKARBOWEGO W EŁKU\"/> <xsd:enumeration value=\"2807 - NACZELNIK URZĘDU SKARBOWEGO W GIŻYCKU\"/> <xsd:enutmeration value=\"2808 - NACZELNIK URZĘDU SKARBOWEGO W IŁAWIE\"/> <xsd:enumeration valuc=\"2809 - NACZELNIK URZĘDU SKARBOWEGO W KETRZYNIE\"/> <xsd:enumeration valuc=\"2810 - NACZELNIK URZĘDU SKARBOWEGO W NIDZICY\"> <xsd:enumeration value=\"2811 - NACZELNIK URZĘDU SKARBOWEGO W NOWYM <xsd:enumeration value=\"2812 - NACZELNIK URZĘDU SKARBOWEGO W OLECKU\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 44 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"2813 - NACZELNIK URZĘDU SKARBOWEGO W OLSZTYNIE\" <xsd:enumeration valuc=\"28 14 - NACZELNIK URZĘDU SKARBOWEGO W OSTRODZIE\"/> <xsd:enumeration value=\"2815 - NACZELNIK URZĘDU SKARBOWEGO W PISZU\"/> <xsd;enumeration value=\"2816 - NACZELNIK URZĘDU SKARBOWEGO W SZCZYTNIE\"/> <xsd:enumeration value=\"2871 - NACZELNIK WARMIŃSKO-MAZURSKIEGO URZĘDU SKARBOWEGO W OLSZTYNIE\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "WIELKOPOLSKIM\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "KALISZU\"/> KALISZU\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "KROTOSZYNIE\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "MIĘDZYCHODZIE\"/> TOMYŚLU\"/> WIELKOPOLSKIM\"/> OSTRZESZOWIE\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "GRUNWALD\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "MIASTO\"/> POZNANIU\"/> ŚRÓDMIEŚCIE'/> WINOGRADY\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "SZAMOTULACH\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "WIELKOPOLSKIEJ\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"3002 - NACZELNIK URZĘDU SKARBOWEGO W CZARNKOWIE\"/> <xsd:enumeration value=\"3003 - NACZELNIK URZĘDU SKARBOWEGO W GNIEŹNIE”/> <xsd:enumeration value=\"3004 - NACZELNIK URZĘDU SKARBOWEGO W GOSTYNIU\"/> <xsd:enumeration value=\"3005 - NACZELNIK URZĘDU SKARBOWEGO W GRODZISKU <xsd:enumeration value=\"3006 - NACZELNIK URZĘDU SKARBOWEGO W JAROCINIE\"> <xsd:enumeration value=\"3007 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"3008 - NACZELNIK DRUGIEGO URZEDU SKARBOWEGO W <xsd:enumeration value=\"3009 - NACZELNIK URZĘDU SKARBOWEGO W KEPNIE\"/> <xsd:enumeration valuc=\"3010 - NACZELNIK URZĘDU SKARBOWEGO W KOLE\"/> <xsd:enumeration value=\"3011 - NACZELNIK URZĘDU SKARBOWEGO W KONINIE\"/> <xsd:enumeration value=\"3012 - NACZELNIK URZĘDU SKARBOWEGO W KOŚCIANIE\"/> <xsd:enumeration value=\"3013 - NACZELNIK URZĘDU SKARBOWEGO W <xsd:enumeration value=\"3014 - NACZELNIK URZĘDU SKARBOWEGO W LESZNIE\"/> <xsd:enumeration value=\"3015 - NACZELNIK URZĘDU SKARBOWEGO W <xsd:enumeration value=\"3016 - NACZELNIK URZĘDU SKARBOWEGO w NOWYM <xsd:enumeration value=\"3017 - NACZELNIK URZĘDU SKARBOWEGO W OSTROWIE <xsd:enumeration value=\"3018 - NACZELNIK URZĘDU SKARBOWEGO W <xsd:enumeration value=\"3019 - NACZELNIK URZĘDU SKARBOWEGO W PILE\"/> <xsd:enumeration value=\"3020 - NACZELNIK URZĘDU SKARBOWEGO POZNAN- <xsd:enumeration value=\"3021 - NACZELNIK URZĘDU SKARBOWEGO POZNAŃ-IEŻYCE\"> <xsd:enumeration value=\"3022 - NACZELNIK URZĘDU SKARBOWEGO POZNAN-NOWE <xsd:enumeration value=\"3023 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"3024 - NACZELNIK URZĘDU SKARBOWEGO POZNAŃ- <xsd:enumeration value=\"3025 - NACZELNIK URZĘDU SKARBOWEGO POZNAŃ- <xsd:enumeration value=\"3026 - NACZELNIK URZĘDU SKARBOWEGO POZNAN-WILDA\"/> <xsd:enumeration value=\"3027 - NACZELNIK URZĘDU SKARBOWEGO W RAWICZU\"/> <xsd:enumeration value=\"3028 - NACZELNIK URZĘDU SKARBOWEGO W SŁUPCY\"/> <xsd:enumeration value=\"3029 - NACZELNIK URZĘDU SKARBOWEGO W <xsd:enumeration value=\"3030 - NACZELNIK URZĘDU SKARBOWEGO W SREMIE\"/> <xsd:enumeration value=\"3031 - NACZELNIK URZĘDU SKARBOWEGO W SRODZIE <xsd:enumeration value=\"3032 - NACZELNIK URZĘDU SKARBOWEGO W TURKU\"/> <xsd:enumeration value=\"3033 - NACZELNIK URZĘDU SKARBOWEGO W WĄGROWCU\"/> <xsd:enumeration value=\"3034 - NACZELNIK URZĘDU SKARBOWEGO W WOLSZTYNIE\"/> <xsd:enumeration value=\"3035 - NACZELNIK URZĘDU SKARBOWEGO WE WRZESNI\"/> <xsd:enumeration value=\"3036 - NACZELNIK URZĘDU SKARBOWEGO W ZŁOTOWIE”/> <xsd:enumeration value=\"3037 - NACZELNIK URZĘDU SKARBOWEGO W CHODZIEZY\"/> <xsd:enumeration value=\"3038 - NACZELNIK URZĘDU SKARBOWEGO W OBORNIKACH\"/> <xsd:enumeration value=\"3039 - NACZELNIK URZĘDU SKARBOWEGO W PLESZEWIE\"/> <xsd:enumeration value=\"3071 - NACZELNIK PIERWSZEGO WIELKOPOLSKIEGO URZĘDU SKARBOWEGO W POZNANIU\"/> <xsd:enumeration value=\"3072 - NACZELNIK DRUGIEGO WIELKOPOLSKIEGO URZĘDU SKARBOWEGO W KALISZU\"/>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 45 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "BIAŁOGARDZIE\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "POMORSKIM\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "POMORSKIM\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "KOSZALINIE\"/> KOSZALINIE\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "SZCZECIŃSKIM\"/> SZCZECINIE\"/> SZCZECINIE\"> SZCZECINIE\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:enumeration value=\"3202 - NACZELNIK URZĘDU SKARBOWEGO W <xsd:enmutneration value=\"3203 - NACZELNIK URZĘDU SKARBOWEGO W CHOSZCZNIE”> <xsd:enumeration value=\"3204 - NACZELNIK URZĘDU SKARBOWEGO W DRAWSKU <xsd:enumeration value=\"3205 - NACZELNIK URZĘDU SKARBOWEGO W GOLENIOWIE\"/> <xsd:enumeration value=\"3206 - NACZELNIK URZĘDU SKARBOWEGO W GRYFICACH\"/> <xsd:enumeration value=\"3207 - NACZELNIK URZĘDU SKARBOWEGO W GRYFINIE\"/> <xsd:enumeration value=\"3208 - NACZELNIK URZĘDU SKARBOWEGO W KAMIENTU <xsd:enumeration valne=\"3209 - NACZELNIK URZĘDU SKARBOWEGO W KOLOBRZEGU\"/> <xsd:enumeration valne=\"3210 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"3211 - NACZELNIK DRUGIEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"3212 - NACZELNIK URZĘDU SKARBOWEGO W MYŚLIBORZU\"/> <xsd:enumeration value=\"3213 - NACZELNIK URZĘDU SKARBOWEGO W PYRZYCACH\"/> <xsd:enumeration value=\"3214 - NACZELNIK URZĘDU SKARBOWEGO W STARGARDZIE <xsd:enumeration value=\"3215 - NACZELNIK PIERWSZEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"3216 - NACZELNIK DRUGIEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"3217 - NACZELNIK TRZECIEGO URZĘDU SKARBOWEGO W <xsd:enumeration value=\"3218 - NACZELNIK URZĘDU SKARBOWEGO W SZCZECINKU\"/> <xsd:enumeration value=\"3219 - NACZELNIK URZĘDU SKARBOWEGO W ŚWINOUJŚCIU\"/> <xsd:enumeration value=\"3220 - NACZELNIK URZĘDU SKARBOWEGO W WALCZU\"/> <xsdienumeration value=\"3271 - NACZELNIK ZACHODNIOPOMORSKIEGO URZĘDU SKARBOWEGO W SZCZECINIE\"/> </xsd:restriction> </xsd:simpleType> </xsd:schema>"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "STRUKTURA LOGICZNA URZĘDOWEGO POŚWIADCZENIA ODBIORU ZGŁOSZENIA"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 46 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 47 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation> <xsd:documentation>Tresé stempla czasu w postaci zakodowane} algorytmem Base64</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NIP 1\" type=\"TNrNIP\"> <xgd:annotation> <xsd:documentation>Numer NIP podmiotu, występującego jako pierwszy na deklaracji lub wniosku</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NIP2\" type=\"TNiNIP\" minOccurs=\"0\"> <xsd:atnotation> <xsd:documentation>Numer NIP podmiotu, występującego jako drugi na deklaracji lub wniosku</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Przyjeto\" type=\"TLogiczny\"/> <xsd:element name=\"Blad\" minOccurs=\"0\" maxOccurs=\"unbounded\"> <xsd:complexT ype> <xsd:simpleContent> <xsd:extension base=\"TZnakowy\"> <xsd:attribute name=\"Kod\" type=\"TZnakowy\"/> </xsd:extension> </xsd:simpleContent> <jxsd:compiex l ype> <fxsdzelement> <fxsd:sequence> </xsd:complexType> </xsd:element> </xsd:schema>"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "SPOSÓB OPATRYWANIA ZGŁOSZEŃ BEZPIECZNYM PODPISEM ELEKTRONICZNYM WERYFIKOWANYM ZA POMOCĄ WAŻNEGO KWALIFIKOWANEGO CERTYFIKATU"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 48 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Przyjmuje się następujące zasady opatrywania zgłoszeń bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) Zgłoszenia opatruje się podpisem elektronicznym z wykorzystaniem jednego z formatów określonych przez:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) specyfikację techniczną ETSI TS 101 903 XML Advanced Electronic Signatures (XAdES Basic Electronic Signature, w skrócie XAdES-BES) wydaną przez European Telecommunications Standards Institute, w którym do przygotowania formy kanonicznej zgłoszenia wykorzystano standardową metodę wyspecyfikowaną w standardzie XMLDSIG oraz treść podpisywanego zgłoszenia została umieszczona w elemencie ds:Object. Atrybut Id dla elementu ds:Object zawierającego zgłoszenie musi przyjmować wartość \"Dokument\","
+    },
+    {
+     "type": "ocr",
+     "text": "b) dokument PKCS#7 Cryptographic Message Syntax Standard wydany przez RSA Security;"
+    },
+    {
+     "type": "ocr",
+     "text": "2) Algorytmem bezpiecznego podpisu elektronicznego jest Sha-1WithRSAEncryption, którego specyfikacja techniczna jest jednoznacznie okreśłona poprzez następujący identyfikator obiektu: identyfikator iso(1) member-body(2) US(840) rsadsi( 1 13549) pkcs(1) 1 5;"
+    },
+    {
+     "type": "ocr",
+     "text": "3) Algorytmem szyfrowania jest RSA, którego specyfikacja techniczna jest jednoznacznie określona poprzez następujący identyfikator obiektu: identyfikator joint-iso-ccitt(2) ds(5) modulefl) algorithm(B) encryptionAlgorithm(1) 1;"
+    },
+    {
+     "type": "ocr",
+     "text": "4) Funkcją skrótu jest SHA-1, którego specyfikacja techniczna jest jednoznacznie określona poprzez następujący identyfikator obiektu: identyfikator iso(l) identifiedOrganization(3) ofW(14) | ofWSecSig(3) oI WSecAlgorithm(2) 26;"
+    },
+    {
+     "type": "ocr",
+     "text": "5) Kwalifikowany certyfikat zawiera w polu identyfikatora podmiotu \"subject\" przynajmniej następujące atrybuty: nazwa kraju, nazwisko, imięfimiona), numer seryjny;"
+    },
+    {
+     "type": "ocr",
+     "text": "6) Wykorzystany zostanie certyfikat kwalifikowany;"
+    },
+    {
+     "type": "ocr",
+     "text": "7) Formaty, o których mowa w pkt 1, zawierają w szczególności: - dla pkt la parametry identyfikujące jednoznacznie certyfikat kwalifikowany podmiotu podpisującego (tj. nazwa wystawcy certyfikam i jego numer seryjny oraz wartość skrótu SHA-1 z certyfikatu), który musi zostać użyty podczas weryfikacji podpisu, są umieszczone w atrybucie podpisanym, którego specyfikacja techniczna jest określona poprzez następujący znacznik: SigningCertificate oraz treść kwalifikowanego certyfikatu X.509 jest umieszczona w elemencie ds:X509Data, zawartym w elemencie Keylnfo, - dla pkt 1b jako podpisany atrybut, \"certyfikat podpisującego\", na który składa się treść kwalifikowanego certyfikatu X.509, służącego do weryfikacji bezpiecznego podpisu elektronicznego osoby składającej zgłoszenie."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "STRUKTURA LOGICZNA ZGŁOSZENIA AKTUALIZACYJNEGO OSOBY FIZYCZNEJ NIEPROWADZĄCEJ SAMODZIELNIE DZIAŁALNOŚCI GOSPODARCZEJ (NIP-3)"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 49 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 50 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation> <xsd:documentation>Naczelnik urzędu skarbowego, do którego adresowane jest zgłoszenie</xsd:documentation> </xsd:annotation> <xsd:complexT ype> <xsd:simpleContent> <xsd:extension base=\"TKodNUS\"/> </xsd:simpleContent> </xsd:complexType> </xsd:element> <xsd:element name=\"PodstawaPrawna\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"Ustawa z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz.U. z 2004 r. Nr 269, poz.2681, z późn. zm.), zwana dalej „ustawą”.\"/> </xsd:restriction> </xsd:simpleType> <J/xsd:element> <xsd:element name=\"Skladajacy\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"Formularz przeznaczony dla osób fizycznych: a) nieprowadzących w ogóle działalności gospodarczej, b) wspólników spółek cywilnych, jawnych, partnerskich, komandytowych i komandytowo-akcyjnych, jeżeli poza uczestnictwem w tych spółkach nie prowadzą innej działalności gospodarczej.\" /> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"TerminSkladania\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration valuc=\"Zgodnie z art.9 ustawy,\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"MiejsceSkladania\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"Zgloszenie składa się do naczelnika urzędu skarbowego właściwego w rozumieniu art.4 ustawy.\"/> </xsd:restriction> </xsd:simpleT ype> </xsd:element> <xsd:element name=*\"Cel\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"Wypelnienie obowiązku ewidencyjnego poprzez złożenie zgłoszenia aktualizacyjnego w przypadku zmiany danych objętych zgłoszeniem, tzn. zmiany danych składającego (w tym po zakończeniu prowadzonej samodzielnie działalności gospodarczej) lub zmiany właściwości w sprawach ewidencji.\" /> </xsd:restriction> </xsd:simpleT ype> </xsd:element> <xsd:sequence minOccurs=\"0\"> <xsd:element name=\"ZmianaWlasciwosci\" type=\"TWyborT\"> <xsd:annotation> <xsd:documentation>Zmiana właściwości naczelnika urzędu skarbowego: T - tak</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"PoprzedniNaczelnikUS\" type=\"TKodNUS\"> <xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 51 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Poprzednio właściwy naczelnik urzędu skarbowego</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> <fxsd:sequence> </xsd:complexType> <xsd:simpleType name=\"TKodFormularza\"> <xsd:annotation> <xsd:documentation>Symbol wzoru formularza</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"NIP-3\"/> </xsd:restnction> </xsd:isimpleType> <xsd:complexType name=\"TOsobaFiz\"> <xsd:annotation> <xsd:documentation>Pełne dane identyfikacyjne osoby fizycznej</xsd:docurnentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"NIP\" type=\"TNrNIP\"> <xsd:annotation> <xsd:documentation>Numer Identyfikacji Podatkowej (NIP)</xsd:documentation> </xsd.annotation> </xsd:element> <xsd:element name=\"Nazwisko\"> <xsd:annotation> <xsd:documentation>Nazwisko</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:simpleContent> <xsd:extension base=\"TNazwiskoNIP\"> <xsd:atiribute name=\"zmiana\" type=\"TWyborT_N\" use=\"required\"> <xsd:annotation> <xsd:documentation>Informacja o zmianie pozycji: T - tak, N - nie</xsd:documentation> </xsd:annotation> </xsd:attribute> </xsd:extension> </xsd:simpleContent> </xsd:complex Type> </xsd:element> <xsd:element name=\"ImiePierwsze\"> <xsd:annotation> <xsd:documentation>Pierwsze imie</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:simpleContent> <xsd:extension base=\"TimieNIP\"> <xsd:attribute name=\"zmiana\" type=\"TWyborT_N\" use=\"required\"> <xsd;annotation> <xsd:documentation>Informacja o zmianie pozycji: T - tak, N - nie</xsd:documentation> </xsd:annotation> </xsd:attribute> </xsd:extension> </xsd:simpleContent> </xsd:complexType> </xsd:element> <xsd:element name=\"Drugielmie\" minOccurs=\"0\"> <xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 52 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Drugie imię</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:simpleContent> <xsd:extension base=\"TImieNIP\"> <xsd:attribute name=\"zmiana\" type=\"TWyborT_N\" usę=\"required\"> <xsd:annotation> <xsd:documentation>Informacja o zmianie pozycji: T - tak, N - nie</xsd:documentation> </xsd:annotation> </xsd:attribute> </xsd:extension> </xsd:simpleContent> </xsd:complexT ype> </xsd:element> <xsd:element name=\"Obywatelstwa\"> <xsd:annotation> <xsd:documentation>Należy podać wszystkie obywatelstwa posiadane w dniu składania zgłoszenia</xsd:documentation> </xsc:annotation> <xsd:complexType> <xsd:choice> <xsd:sequence> <xsd:element name=\"PESEL\"> <xsd:annotation= <xsd:documentation>Numer PESEL</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:simpleContent> <xsd:extension base=\"TNrPESEL\"> <xsd:attribute namne=\"zmiana” typs=\"TWybarT_N\" use=\"required\">"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Informacja o zmianie pozycji: T - tak, N - nie</xsd:documentation>"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:attribute> </xsd:extension> </xsd:simpleContent> </xsd:complexType> </xsd:element> <xsd:element name=\"ObywatelstwoPL\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"PL\"/> <fxsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"KodKrajuObywatelstwoPozostale\" type=\"TKodKrajuRoznyPL\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> </xsd:sequence> <xsd:element name=\"KodKrajuObywatelstwolnneNizPL\" type=\"TKodKrajuRoznyPL\" maxOccurs=\"unbounded\"/> <fxsd;choice> <xsd:attribute name=\"zmiana\" type=\"TWyborT_N\" use=\"required\"> <xsd:annotation> <xsd:documentation>Informacja o zmianie pozycji: T - tak, N- nie</xsd:documentation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 53 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:attribute> </xsd:complex Type> </xsd:element> <xsd:element name=\"ImieOjca\"> <xsd:annotation> <xsd:documentation>Imie ojca</xsd:documentation> </xsd:amnotation> <xsd:complexType> <xsd:simpleContent> <xsd:extension base=\"TImieNIP\"> <xsd:attribute name=\"zmiana\" type=\"TWyborT_N\" use=\"required\"> <xsd:annotation> <xsd:documentation>Informacja o zmianie pożycji: T - tak, N - nie</xsd:documentation> </xsd:annotation> </xsd:atiribute> </xsd:extension> </xsdisimpieContent> </xsd:complexType> </xsd:element> <xsd:element name=\"lmieMatki\"> <xsd:annotation> <xsd:documentation>lmię matki</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:simpleContent> <xsd:extension base=\"TimieNIP\"> <xsd:attribute name=\"zmiana\" type=\"TWyborT_N\" use=\"required\"> <xsd:annotation> <xsd:documentation>Informacja o zmianie pozycji: T - tak, N - nie</xsd:documentation> <fxsd:annotation> </xsd:attribute> </xsd:extension> </xsd:simpleContent> </xsd:complexType> </xsd:element> <xsd:element name=\"DataUrodzenia\"> <xsd:annotation> <xsd:documentation>Data urodzenia</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:simpleContent> <xsd:extension base=\" TData\"> <xsd:attribute name=\"zmiana\" type=\"TWyborT_N\" use=\"required\"> <xsd:annotation> <xsd:documentation>Informacja o zmianie pozycji: T - tak, N - nie</xsd:documentation> </xsd:annotation> </xsd:attribute> </xsd:extension> </xsd:simpleContent> </xsd:complexType> </xsd:element> <xsd:element name=\"MiejsceUrodzenia\"> <xsd:annotation> <xsd:documentation>Miejsce (miejscowość) urodzenia</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:simpleContent>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 54 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:extension base=\" TMiejscowosc\"> <xsd:attribute name=\"zmiana\" type=\"TWyborT_N\" use=\"required\"> <xsd:annotation> <xsd:documentation>Informacja o zmianie pozycji: T - tak, N - nie</xsd:documentation> </xsd:annotation> <fxsd:attribute> </xsd:extension> </xsd:simpleContent> </xsd:complexType> </xsd:element> <xsd:element name=\"Plec\"> <xsd:annotation> <xsd:documentation>Pleć: K - kobieta, M - mężczyzna</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"K\"> <xsd:annotation>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>K obieta</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"M\"> <xsd:annotation>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Mezcezyzna</xsd:documentation> </xsd:annotation> </xsd:enumeration> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element narne=\"NazwiskoRodowe\"> <xsd:annotation> <xsd:documentation>Nazwisko rodowe (według świadectwa urodzenia}</xsd:documentation> </xsd:annotation> <xsd:complexT ype> <xsd:simpleContent> <xsd:extension base=\"TNazwiskoNIP\"> <xsd:attribute name=\"zmiana\" type=\"TWyborT_N\" usę=\"required\"> <xsd:annotation> <xsd:documentation>Informacja o zmianie pozycji: T - tak, N - nie</xsd:documentation> </xsd:annotation> </xsd:attribute> </xsd:extension> </xsd:simpleContent> </xsd:complexType> </xsd:element> <xsd:element name=\"DokumentTozsamosei\"> <xsd:annotation> <xsd:documentation>W przypadku obywateli polskich należy podać dane z dowodu osobistego, a jedynie w przypadku nieposiadania dowodu osobistego, z innego dokumentu stwierdzającego tożsamość <4/xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:annotation> <xsd:documentation/> </xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 55 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:element name=\"RodzajDokumentuTozsamosci\" type=\"TRodzajDokToz\"> <xsd:annotation> <xsd:decumentation>Rodzaj dokumentu stwierdzającego tożsamość</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NrDokumentuTozsamosci\"> <xsd:annotation> <xsd:documentation>Seria i numer dokumentu stwierdzającego tozsamosé</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:whiteSpace value=\"replace\"/> <xsd:maxLenpth value=\"15\"/> <xsd:minLength value=\"1\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> </xsd:sequence> <xsd:attribute name=\"zmiana\" type=\"TWyborT_N\" use=\"required\"> <xsd:annotation> <xsd:documentation>Informacja o zmianie pozycji: T - tak, N - nie</xsd:documentation> </xsd:annotation> </xsd:attribute> </xsd:complexT ype> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:complexT ype name=\"TKontakt\"> <xsd:annotation> <xsd:documentation>Informacje o telefonie, faksie i adresie e-mail</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:annotation> <xsd:documentation/> </xsd:annotation> <xsd:element name=\" Telefon\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Telefon</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"40\"/> </xsd:restriction> </xsd:isimpleType> </xsd:element> <xsd:element name=\"Faks\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Fax</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"40\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"Email\" type=\"TAdresEmail\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Adres e-mail</xsd:documentation> </xsd:annotation> </xsd:element>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 56 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:sequence> </xsd:complexType> <xsd:complexT ype natne=\"TRachunekBankowy\"> <xsd:annotation> <xsd:documentation>Informacje o rachunku bankowym</xsd:documentation> </xsd:annotation> <xsdisequence> <xsd:annotation> <xsd:documentation/> </xsd:annotation> <xsd:element name=\"NazwaBanku\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Pełna nazwa banku (oddziału)</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"PosiadaczRachunku\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Posiadacz rachunku</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:choice> <xsd:element name=\"NrRachunkuPL\"> <xsd:annotation> <xsd:documentation>Pełny numer rachunku bankowego, gdy rachunek jest prowadzony w Rzeczypospolitej Polskiej</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:length value=\"26\"/> <xsd:pattern value=\"\\d {26} \"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:sequence> <xsd:element name=\"KrajSiedzibyBanku\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Kraj siedziby (oddziału)</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NrRachunkuZagr\"> <xsd:annotation> <xsd:documentation>Pelny numer rachunku bankowego, gdy rachunek jest prowadzony poza granicą Rzeczypospolitej Polskiej</xsd:documentation> , </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\" TZnakowy\"> <xsd:maxLength valuc=\"28\"/> <xsd:pattern value=\"P[A-KM-Z]\\d{26}\"/> <xsd:pattern value=\"[A-OR-Z][A-Z]\\d {26} \"/> </xsd:restriction> </xsd:simpleType> </xsd:element> </xsd:sequence> </xsd:choice> </xsd:sequence> </xsd:complex Type> <xsd:simple Type name=\"TWyborT_N\"> <xsd:annotation> <xsd:documentation>Informacja o zmianie pozycji:T - tak, N - nie</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"N\"> <xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 57 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>nie</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"T\"> <xsd:annotation> <xsd:documentation>tak</xsd:documentation> </xsd:annotation> </xsd:enumeration> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TWyborT\"> <xsd:annotation> <xsd:documentation>Informacja o wartości pozycji: - tak</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"T\"> <xsd:annotation> <xsd:documentation>tak</xsd:documentation> </xsd:annotation> </xsd:enumeration> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TNazwiskoNIP\"> <xsd:annotation> <xsd:documentation>Nazwisko</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:normalizedString\"> <xsd:minLength value=\"1\"/> <xsd:maxLength value=\"81\"/> <xsd:whiteSpace value=\"replace\"/> <xsd:pattern value=\"[“\\p (LE}] {1,81} \"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TImieNIP\"> <xsd:annotation> <xsd:documentation>Imie</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:normalizedString\"> <xsd:minLength value=\"l\"/> <xsd:maxLength value=\"30\"/> <xsd:whiteSpace value=\"replace\"/> <xsd:pattern value=\"[“\\p {Li} ] {1 ,30}\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TKodKrajuRoznyPL\"> <xsd:annotation> <xsd:documentation>Kod kraju inny niż PL</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TKodKraju\"> <xsd:pattem value=\"P[A-KM-Z]\"/> <xsd:pattem value=\"[A-OR-Z][A-Z]\"/> </xsd:restriction> </xsd:simpleT ype> <xsd:simpleType name=\"TRodzajDokToz\"> <xsd:annotation> <xsd:documentation>Rodzaj dokumentu tozsamosci</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"DOW\"> <xsd:annotation> <xsd:documentation>Dowód osobisty</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration valus=\"PASZ\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 58 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation> <xsd;docutmentation>Paszport polski</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"KSTP\"> <xsd:annotation> <xsd:documentation>Karta pobytu cudzoziemca</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"PZAG\"> <xsd:annotation> <xsd:documentation>Dokument tożsamości cudzoziemca</xsd:documentation> </xsd:annotation> </xsd:enumeration> </xsd:restriction> </xsd:simpleT ype> <xsd:simpieType name=\"TRodzajld\"> <xsd:annotation> <xsd:documentation>Rodzaj numeru identyfikacyjnego służącego identyfikacji dla celów podatkowych w innych krajach</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"P\"> <xsd:annotation> <xsd:documentation>numer podatkowy</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"0\"> <xsd:annotation> <xsd:documentation>numer podatkowy i ubezpieczeniowy</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"U\"> <xsd:annotation> <xsd:documentation>numer ubezpieczeniowy</xsd:documentation> </xsd:annotation> </xsd:enumeration> <jxsd:restriction> </xsd:simpleType> <xsd:element name=\"ZgloszenieNIP\"> <xsd:annotation> <xsd:documentation>ZGŁOSZENIE IDENTYFIKACYJNE / ZGŁOSZENIE AKTUALIZACYJNE OSOBY FIZYCZNEJ NIEPROWADZĄCEJ SAMODZIELNIE DZIALALNOSCI</xsd:documentation> </xsdzannotation> ‘ <xsd:complexT ype> <xsd:sequence> <xsd:element name=\"Naglowek\" type=\"TNaglowek\"> <xsd:annotation> <xsd:documentation>Nagłówek zgloszenia</xsd:documentation> <fxsd:annotation> </xsd:element> <xsd:element name=\"Podrniotl \"> <xsd:annotation> <xsd:documentation>B, DANE SKLADAJACEGO</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"OsobaFizyczna\"> <xsd:annotation> <xsd:documentation>B.1. DANE IDENTYFIKACYJNE</xsd:documentation> </xsd:annotation>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 59 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:complexType> <xsd:complexContent> <xsd:extension base=\"TOsobaFiz\"> <xsd:sequence minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>B.3. INFORMACJA O NUMERACH IDENTYFIKACYJNYCH UZYSKANYCH W INNYCH KRAJACH=/xsd:documentation> </xsd:annotation> <xsd:element name=\"NrldWInnychKrajach” maxOccurs=\"unbounded\"> <xsd.annotation> <xsd:documentation>Numery służące identyfikacji dla cełów podatkowych w innych krajach</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"KodkrajuW ydaniaNild\" type=\"TKodKrajuRoznyPL\"> <xsd:annotation> <xsd:documentation>Kod Kraju Wydania numeru identyfikacyjnego</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Nrid\"> <xsd:annotation> <xsd:documentation>Numer identyfikacyjny dla celów podatkowych</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:minLength value=\"1\"/> <xsd:maxLength value=\"30\"/> <xsd:whiteSpace value=\"replace\"/> <fxsd:restriction> <j/xsd:simpleType> </xsd:element> <xsd:element name=\"RodzajNrid\">"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 60 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Rodzaj numeru identyfikacyjnego</xsd:documentation>"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:complexType>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:simpleContent>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:extension base=\"TRodzajld\"/>"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:simpleContent>"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:complexType>"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:element>"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsdisequence>"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:complexT ype>"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:element> </xsdisequence> <xsd:extension > <fxsd:compiexContent> </xsd:complexType> </xsd:elemeni> <xsd:element name=\"InfoAdresZamieszkania” type=\"xsd:string\" fixed=\"Na podstawie tego adresu ustala się właściwość w sprawach ewidencji. Adres ten będzie równocześnie adresem do korespondencji, chyba że składający wskaże do korespondencji adres zameldowania. \"/> <xsd:element name=\"AdresZamieszkania\"> <xsd:annotation> <xsd:documentation>B.4. ADRES MIEJSCA ZAMIESZKANIA</xsd:documentation> </xsd:annotation> <xsd:complex Type> <xsd:complexContent> <xsd:extension base=\"TAdres\"> <xsd:sequehce>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:element name=\"DataZamieszkania\" type=\"TData\" minOccurs=\"0\">"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Data zamieszkania Jeżeli nie nastąpiła zmiana właściwości naczelnika urzędu skarbowego i nie nastąpiła zmiana adresu miejsca zamieszkania, data zamieszkania nie musi być wypełniona. </xsd:documentation>"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation>"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:element> </xsd:sequence> <xsd:attribute name=\"rodzajAdresu\" type=\"xsd:string\" use=\"required\" fixed=\"RAD\">"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:annotation>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Adres zamieszkania</xsd:documentation>"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:annotation> </xsd:attribute> </xsd:extension>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 61 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:complexContent> </xsd:complexT ype> </xsd:element> <xsd:choice> <xsd:annotation> <xsd:documentation>B.5. ADRES MIEJSCA ZAMELDOWANIA </xsd:documentation> </xsd:annotation> <xsd:element name=\"AdresZameldowania\"> <xsd:annotation> <xsd:documentation>A dres miejsca zameldowania (stałego lub czasowepo, jeżeli brak jest stałego)</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:complexContent> <xsd:extension base=\"TAdres\"> <xsd:sequence> <xsd:element name=\"Korespondencja\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>K orespondencja ma być wysyłana na adres miejsca zameldowania</xsd:documentation> </xsd:annotation> <xsd:simpleT ype> <xsd:restriction base=\"TWyborT\"> <xsd:enumeration value=\"T\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"DataZameldowania\" type=\"TData\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Data zameldowania Jeżeli nie nastąpiła zmiana właściwości naczelnika urzędu skarbowego i nie nastąpiła zmiana adresu miejsca zameldowania, data zameldowania nie musi być wypełniona. </xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> <xsd:attribute name=\"rodzajAdresu\" type=\"xsd:string\" use=\"required\" fixed=\"SAD\"> <xsd:annotation> <xsd:documentation>Adres zameldowania</xsd:documentation> </xsd:annotation> </xsd:attribute> </xsd:extension>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 62 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:complexContent> </xsd:complexType> </xsd:element> <xsd:element name=\"BrakAdresuZameldowania\"> <xsd:annotation>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd;documentation>Składający nie posiada adresu miejsca zameldowania</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TWyborT\"> <xsd-enumeration value=\"T\"/> </xsd:restriction> <fxsd:simpleType> </xsd:element> </xsd:choice> </xsd:sequence> <xsd:attribute name=\"rola\" type=\"xsd:string\" use=\"required\" fixed=\"Składający\"/> </xsd:complexT ype> </xsd:element> <xsd:element name=\"Kontakt\" type=\"TKontakt\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>B.6. KONTAKT</xsd:documentation> <xsd:annotation> </xsd:element> <xsd:choice minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>B.7. OSOBISTY RACHUNEK BANKOWY </xsd:documentation> </xsd:annotation> <xsd:element name=\"RachunekBankowy\"> <xsd:annotation> <xsd:documentation>Osobisty rachunek bankowy Na wskazany rachunek będą dokonywane ewentualne zwroty nadpłaty podatku dochodowego. Składający musi być właścicielem tub współwłaścicielem rachunku. Wpisane dane dotyczące rachunku aktualizują poprzedni stan danych.</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:complexContent> <xsd:extension base>\"TRachunekBankowy\"> <xed attribute name=\"typRachunku\" type=\"xsd:string\" use=\"required\" fixed=\"0\"> <xsd:annotation>"
+    },
+    {
+     "type": "ocr",
+     "text": "<xsd:documentation>Osobisty rachunek bankowy</xsd:documentation> </xsd:annotation> <f/xsd:attribute> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> <xsd:element name=\"Rezygnacja\"> <xsd:annotation> <xsd:documentation>Rezygnacja (również z powodu likwidacji rachunku bankowego) z otrzymywania ewentualnego zwrotu nadpłaty na rachunek bankowy: T - Tak</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TWyborT\"> <xsd:enumeration value=\"T\"/> <fxsd:restriction> </xsd:simpleType> </xsdielement>"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 63 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "</xsd:choice> <xsd:element name=\"DataZakonczenia\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>C. INFORMACJE DODATKOWE Data zakończenia działalności gospodarczej</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TData\"> <xsd:minInclusive value=\"2008-01-01\"/> </xsd:restriction> <fxsd:simpleType> </xsd:element> <xsd:element name=\"Pouczenie\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsdzenumeration value=\"Za wykroczenia skarbowe dotyczące obowiązków ewidencyjnych, o których mowa w art.81 Kodeksu karnego skarbowego, grozi sankcja karna.\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> </xsd:sequence> </xsd:complexType> </xsd:element> </xsd:schema>"
+    },
+    {
+     "type": "text",
+     "text": "— 106 —"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 64 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "— 107 —"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 65 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Finansów kieruje działem administracji rządowej — finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 216, poz. 1592).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 14, poz. 113, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 112, poz. 769 oraz z 2008 r. Nr 209, poz. 1318.",
+  "3": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 64, poz. 565 oraz z 2006 r. Nr 145, poz. 1050."
+ }
+}
