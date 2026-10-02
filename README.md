@@ -47,7 +47,7 @@ Zbiór powstaje rocznik po roczniku (pobieranie PDF-ów z API ok. 4 s na akt). L
 w `index.csv`, są w toku.
 
 <!-- stats:start -->
-Stan na 2026-10-02 05:17 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-02 05:35 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -60,14 +60,14 @@ Stan na 2026-10-02 05:17 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2006 | 1517 | 1517 | 0 |
 | 2007 | 1591 | 1590 | 1 |
 | 2008 | 1314 | 1314 | 0 |
-| 2009 | 1492 | 1491 | 1 |
+| 2009 | 1492 | 1492 | 0 |
 | 2010 | 1427 | 1427 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 3294, razem 61709 z 147288 stron. Tekst z OCR (oznaczony) ma 59346 z nich w 3236 aktach; treści pozostałych brak.
-Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 5082.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 3294, razem 61709 z 147291 stron. Tekst z OCR (oznaczony) ma 59346 z nich w 3236 aktach; treści pozostałych brak.
+Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 5083.
 
-Rodzaje aktów: Rozporządzenie 16945, Oświadczenie rządowe 598, Umowa międzynarodowa 315, Konwencja 96, Protokół 75, Obwieszczenie 39, Porozumienie 37, Postanowienie 24, Uchwała 24, Dokument wypowiedzenia 12, Traktat 11, Decyzja 2, Statut 2, Ustawa 1, Deklaracja 1, Akt 1, Układ 1.
-Wersje konwertera: eli2md 0.6.18 (7787), eli2md 0.6.17 (6528), eli2md 0.6.22 (3330), eli2md 0.6.16 (524), eli2md 0.6.19 (15).
+Rodzaje aktów: Rozporządzenie 16946, Oświadczenie rządowe 598, Umowa międzynarodowa 315, Konwencja 96, Protokół 75, Obwieszczenie 39, Porozumienie 37, Postanowienie 24, Uchwała 24, Dokument wypowiedzenia 12, Traktat 11, Decyzja 2, Statut 2, Ustawa 1, Deklaracja 1, Akt 1, Układ 1.
+Wersje konwertera: eli2md 0.6.18 (7787), eli2md 0.6.17 (6528), eli2md 0.6.22 (3331), eli2md 0.6.16 (524), eli2md 0.6.19 (15).
 <!-- stats:end -->
 
 ## Zawartość
@@ -153,7 +153,8 @@ W tych 365 aktach: strony z tekstem z OCR 9 707 → 10 417, słowa 3 298 694 →
 z OCR ani mniej słów. Aktów, w których OCR odczytał wszystkie strony bez warstwy tekstowej: 1 → 148. Strony z tabelami
 odczytane teraz przez OCR są często słabej jakości (np. DU/2006/398 s. 44: tabela obrócona o 90°). DU/2007/189 nadal
 nie ma tekstu: jego PDF w API ELI (413 392 257 bajtów) jest ucięty, bez końca pliku, także na serwerze (sprawdzone
-2026-10-02). Tak samo w 2008 r. (47 aktów, 2026-10-02): strony z OCR 1 483 → 1 646, słowa 366 628 → 433 060, żaden akt
+2026-10-02). DU/2009/1788: API ELI podaje pod `text.pdf` plik podpisu XAdES (XML) z PDF-em w środku (base64);
+tekst jest z tego wewnętrznego PDF-u, `pdf_sha256` to skrót pliku z API (2026-10-02, jedyny taki plik na 42 102). Tak samo w 2008 r. (47 aktów, 2026-10-02): strony z OCR 1 483 → 1 646, słowa 366 628 → 433 060, żaden akt
 nie ma mniej stron z OCR ani mniej słów; wszystkie strony bez warstwy tekstowej odczytane w 1 → 24 aktach.
 
 **Czego te liczby nie mówią:**
