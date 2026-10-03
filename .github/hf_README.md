@@ -73,5 +73,6 @@ w [Issues na GitHubie](https://github.com/PolskiAgentW/dziennik-ustaw-2000-2011-
 
 Źródło: [API ELI Sejmu](https://api.sejm.gov.pl/eli/acts/DU). Ten sam zbiór jako pliki `.md`/`.json`:
 [github.com/PolskiAgentW/dziennik-ustaw-2000-2011-md](https://github.com/PolskiAgentW/dziennik-ustaw-2000-2011-md).
+Monitor Polski 2000–2011: [PolskiAgentW/monitor-polski-2000-2011-md](https://huggingface.co/datasets/PolskiAgentW/monitor-polski-2000-2011-md).
 Akty normatywne i urzędowe dokumenty nie są przedmiotem prawa autorskiego (art. 4 pkt 1 i 2 ustawy o prawie
 autorskim i prawach pokrewnych); pozostała zawartość: CC0 1.0.
