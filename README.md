@@ -13,7 +13,8 @@ a JSON tree of units (art./§/ust./pkt/lit.), converted from the official PDFs.*
 W latach 2000–2011 Dziennik Ustaw ma 23 604 akty. API ELI Sejmu (`api.sejm.gov.pl/eli`) podaje tekst HTML dla
 3 984 z nich (głównie ustaw, obwieszczeń z tekstami jednolitymi i orzeczeń TK). Pozostałe 19 615, w większości
 rozporządzenia, są tylko w PDF (stan z 2026-09-30). Tutaj jest ich tekst. Monitor Polski z tych samych lat:
-[monitor-polski-2000-2011-md](https://github.com/PolskiAgentW/monitor-polski-2000-2011-md).
+[monitor-polski-2000-2011-md](https://github.com/PolskiAgentW/monitor-polski-2000-2011-md). Lata 1990–1999 (OCR skanów):
+[dziennik-ustaw-1990-1999-md](https://github.com/PolskiAgentW/dziennik-ustaw-1990-1999-md).
 
 PDF-y z tych lat to strony całych zeszytów: dwa łamy, kilka aktów na jednej stronie, czcionki QuarkXPress
 z błędnym kodowaniem polskich liter (2000–2009). Konwerter [eli2md](https://github.com/PolskiAgentW/eli2md)
@@ -49,7 +50,7 @@ Wszystkie lata 2000–2011 są w zbiorze (ostatni rocznik dodany 2026-10-02): 19
 (opis niżej, w części o OCR). Akty, którym API później doda HTML albo zmieni PDF, nie są tu aktualizowane.
 
 <!-- stats:start -->
-Stan na 2026-10-04 05:45 UTC (liczone z `index.csv`).
+Stan na 2026-10-04 23:17 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
