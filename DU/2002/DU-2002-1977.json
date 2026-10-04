@@ -1,7 +1,7 @@
 {
  "eli": "DU/2002/1977",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 18 grudnia 2002 r. w sprawie wzorów zgłoszeń rejestrowych do Rejestru Wytwórców i Wyrobów medycznych oraz wysokości opłat rejestrowych.",
- "converter": "eli2md 0.6.17",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2002/1977/text.pdf",
  "body": [
   {
@@ -603,6 +603,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz B. Dane wyrobu lub grupy wyrobów wprowadzanych do obrotu NE Numery nadane w rejestrze 1) Nazwa wyrobu lub rodziny wyrobów w języku polskim 2 (podać nazwę i oznaczenie handlowe)"
+    },
+    {
+     "type": "ocr",
      "text": "Podać, czy jest to pierwszy wpis do rejestru, zmiana wpisu, wykreślenie z rejestru 01 Pierwsza rejestracja 02 Zmiana rejestracji ” _ 03 Wykreślenie z rejestru W przypadku zmiany (02) lub wykreślenia z rejestru (03) podać poprzedni numer rejestru Krótki opis wyrobu i przewidziane przeznaczenie (podać podstawowe funkcje i dane, opis budowy i działania)"
     },
     {
@@ -668,6 +672,10 @@
     },
     {
      "type": "ocr",
+     "text": ". Dane autoryzowanego przedstawiciela a o identification of the authorized representative 10 02 Autoryzowany przedstawiciel/ Authorized representative _ Numer identyfikacyjny autoryzowanego przedstawiciela / Authorized representative code ' azwa/ nazwisko autoryzowanego przedstawiciela / Name of the authorized representative, full"
+    },
+    {
+     "type": "ocr",
      "text": "aństwo / Country 3) d Kraj związkowy / Federal State 4 Kod pocztowy /Postal code lica, nr domu, nr lokalu / Street, house no, apartment no Skrytka poczt./ PO Box soba wskazana do kontaktu / Contact person’? Numery telefonów / Telephone numbers | |"
     },
     {
@@ -681,6 +689,10 @@
     {
      "type": "note",
      "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "B. Nazwa wyrobu medycznego będącego systemem lub zestawem zabiegowym 2)"
     },
     {
      "type": "ocr",
@@ -770,6 +782,10 @@
     {
      "type": "note",
      "text": "[Strona 20 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "B. Numery nadane w | rejestrze PLICA01"
     },
     {
      "type": "ocr",

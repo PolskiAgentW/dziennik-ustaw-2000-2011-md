@@ -1,7 +1,7 @@
 {
  "eli": "DU/2006/1641",
  "title": "Rozporządzenie Ministra Finansów z dnia 4 grudnia 2006 r. w sprawie formatu i trybu przekazywania przez banki i spółdzielcze kasy oszczędnościowo-kredytowe comiesięcznych informacji o założonych i zlikwidowanych rachunkach związanych z prowadzeniem działalności gospodarczej",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2006/1641/text.pdf",
  "body": [
   {
@@ -225,6 +225,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "<xs:element name=\"Podmiot\"> <xs:annotation> <xs:documentation>Podmiot prowadzący działalność gospodarczą.</xs:documentation> </xs:annotation> <xs:complexT ype> <xs:sequence> <xs:element name=\"Nip\" type=\"TNrNIP\"/> <xs:choice> <xs:element name=\"OsobaFizycznaDzialalnosc\" type=\"TOsobaFizycznaDzialalnosc\"/> <xs:element name=\"NieOsobaFizyczna\" type=\"TNieOsobaFizyczna\"/> </xs:choice> <xs:choice maxOccurs=\"unbounded\"> <xs:element name=\"RachunekOtwarty\"> <xs:complexT ype> <xs:complexContent> <xs:extension base=\"T RachunekBankowy\"> <xs:attribute name=\"dataOtwarcia\" type=\"xs:date\" use=\"required\"/> </xs:extension> </xs:complexContent> </xs:complexT ype> </xs:element> <xs:element name=\"RachunekZamkniety\"> <xs:complexType> <xs:complexContent> <xs:extension base=\"TRachunekBankowy\"> <xs:attribute name=\"dataOtwarcia\" type=\"xs:date\" use=\"required\"/> <xs:attribute name=\"dataZamkniecia\" type=\"xs:date” use=\"required\"/> </xs:extension> </xs:complexContent> </xs:complexT ype> </xs:element> </xs:choice> </xs:sequence> <xs:attribute name=\"id\" type=\"xs:integer\" use=\"required\"> <xs:annotation> <xs:documentation>Unikainy identyfikator podmiotu</xs:documentation> </xs:annotation> </xs:aitribute> <xs:attribute name=\"rodzajOperacji\" use=\"required\"> <xs:simpleType> <xs:restriction base=\"xs:string\"> <xs:enumeration value=\"INSERT\"/> <xs:enumeration value=\"UPDATE\"/> <xs:enumeration value=\"DELETE\"/> </xs:restriction> </xs:simpleType> </xs:attribute> </xs:complexType> </xs:element> <xs:element name=\"PodmiotZobowiazany\"> <xs:annotation> <xs:documentation>Podmiot zobowiązany do przekazywania informacji o rachunkach.</xs:documentation> </xs:annotation> <xs:complexT ype>"
     },
     {
@@ -233,11 +237,19 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "<xs:choice> <xs:element name=\"ldSKOK\" fixed=\"79999995\"> <xs:complexType> <xs:simpleContent> <xs:extension base=\"TNrOddzialuBanku\"> <xs:attribute name=\"nrJednostki\" use=\"required\"> <xs:simpleType> <xs:restriction base=\"xs:string\"> <xs:pattern value=\"ldf3]\"/> </xs:restriction> </xs:simpleType> </xs:attribute> </xs:extension> </xs:simpleContent> </xs:complexT ype> </xs:element> <xs:element name=\"ldBank\" type=\"TNrOddzialuBanku\"/> </xs:choice> <xs:attribute name=\"nazwa\" type=\"TZnakowy\" use=\"required\"/> </xs:complexT ype> </xs:element> <xs:complexType name=\"TNieOsobaFizyczna\"> <xs:annotation> <xs:documentation>Typ definiujący podmiot nie będący osobą fizyczną</xs:documentation> </xs:annotation> <xs:sequence> <xs:element name=\"NazwaPelna\" type=\"TNazwaPelna\"/> <xs:element name=\"NazwaSkrocona\" type=\"TNazwaSkrocona\" minOccurs=\"0\"/> <xs:element name=\"Regon\" type=\"TNrREGON 14\"/> <xs:choice> <xs:element name=\"AdresSiedziby\" type=\"TAdresPolski\"/> <xs:element name=\"AdresSiedzibyZagr\" type=\"TAdresZagraniczny\"/> </xs:choice> </xs:sequence> </xs:complexT ype> <xs:complexType name=\"TOsobaFizycznaDzialalnosc\"> <xs:annotation> <xs:documentation>TYp definiujący podmiot będący osobą fizyczną</xs:documentation> </xs:annotation> <xs:sequence> <xs:element name=\"NazwiskoCzion\" type=\"TNazwiskoCzion” maxOccurs=\"2\"> <xs:annotation> <xs:documentation>Poszczególne człony i przedrostki w oddzielnych elementach</xs:documentation> </xs:annotation> </xs:element> <xs:element name=\"Imie\" type=\"TIlmie\"/> <xs:element name=\"NazwaPelna\" type=\"TNazwaPelna\"/> <xs:element name=\"NazwaSkrocona\" type=\"TNazwaSkrocona\" minOccurs=\"0\"/> <xs:element name=\"Regon\" type=\"TNrREGON9\"/> <xs:element name=\"Pesel\" type=\"TNrPESEL\" minOccurs=\"0\"/> <xs:choice> <xs:element name=\"DowodOsobisty\" type=\"TDokumentTozsamosci\"/> <xs:element name=\"PrawoJazdy\" type=\"TDokumentTozsamosci'/> <xs:element name=\"Paszport\">"
     },
     {
      "type": "note",
      "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -257,6 +269,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "type=\"TNrRachinny\"/> </xs:choice> </xs:complexT ype> </xs:element> </xs:choice> </xs:complexT ype> <xs:complexType name=\"TNrRachinny\"> <xs:annotation> <xs:documentation>Typ definiujacy inny rachunek</xs:documentation> </xs:annotation> <xs:sequence> <xs:element name=\"Nr\"> <xs:simpleType> <xs:restriction base=\"TZnakowy\"> <xs:maxLength value=\"40\"/> </xs:restriction> </xs:simpleType> </xs:element> <xs:element name=\"NrRozlOddzBanku\"> <xs:annotation> <xs:documentation>Numer Rozliczeniowy Oddziału Banku</xs:documentation> </xs:annotation> <xs:simpleType> <xs:restriction base=\"xs:string\"> <xs:pattern value=\"\\d{8}\"/> </xs:restriction> </xs:simpleType> </xs:element> </xs:sequence> </xs:complexType> <xs:complexType name=\"TAdres\"> <xs:annotation> <xs:documentation>Typ definiujący adres.</xs:documentation> </xs:annotation>"
     },
     {
@@ -266,6 +282,10 @@
     {
      "type": "note",
      "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -281,11 +301,19 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "</xs:extension> </xs:complexContent> </xs:complexT ype> <xs:simple Type name=\"TDokumentTozsamosci\"> <xs:annotation> <xs:documentation>Typ definiujacy dokument tozsamosci</xs:documentation> </xs:annotation> <xs:restriction base=\"TZnakowy\"> <xs:maxLength value=\"16\"/> </xs:restriction> </xs:simpleT ype> <xs:simple Type name=\"TPaszport\"> <xs:annotation> <xs:documentation>Typ definiujący numer paszportu.</xs:documentation> </xs:annotation> <xs:restriction base=\"TZnakowy\"> <xs:minLength value=\"1\"/> <xs:maxLength value=\"60\"/> <xs:whiteSpace value=\"replace\"/> </xs:restriction> </xs:simpleType> <xs:simpleType name=\"TNazwiskoCzlon\"> <xs:annotation> <xs:documentation>Typ definiujący człon nazwiska.</xs:documentation> </xs:annotation> <xs:restriction base=\"TZnakowy\"> <xs:maxLength value=\"40\"/> </xs:restriction> </xs:simpleType> <xs:simpleType name=\"Tlmie\"> <xs:annotation> <xs:documentation>Typ definiujący pierwsze imie.</xs:documentation> </xs:annotation> <xs:restriction base=\"TZnakowy\"> <xs:maxLength value=\"30\"/> </xs:restriction> </xs:simpleType> <xs:simpleType name=\"T Data\" id=\"TData\"> <xs:annotation> <xs:documentation>Typ daty.</xs:documentation> </xs:annotation> <xs:restriction base=\"xs:date\"> <xs:mininclusive value=\"1800-01-01'/> <xs:whiteSpace value=\"collapse\"/> </xs:restriction> </xs:simpleType> <xs:simpleType name=\"TNazwaPelna\"> <xs:annotation> <xs:documentation>Typ definiujący nazwę pełną.</xs:documentation> </xs:annotation> <xs:restriction base=\"TZnakowy\"/> </xs:simpleT ype> <xs:simple Type name=\"TNazwaSkrocona\"> <xs:annotation> <xs:documentation>Typ definiujący nazwę skróconą.</xs:documentation> </xs:annotation> <xs:restriction base=\"TZnakowy\"> <xs:maxLength value=\"70\"/> </xs:restriction> </xs:simpleType> <xs:simpleType name=\"TKodkraju\"> <xs:annotation> <xs:documentation>Typ definiujący kod kraju. Kod kraju zgodny z ISO"
     },
     {
      "type": "note",
      "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",

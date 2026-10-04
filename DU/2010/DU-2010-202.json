@@ -1,7 +1,7 @@
 {
  "eli": "DU/2010/202",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 10 lutego 2010 r. w sprawie wzoru wniosku o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2010/202/text.pdf",
  "body": [
   {
@@ -143,6 +143,14 @@
     {
      "type": "note",
      "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "(podpis) (imię i nazwisko”) (stanowisko) (miejscowość) (data (rrrr-mm-dd)) * Aależy dołączyć pełnomocnictwo do występowania w imieniu podmiotu odpowiedzialnego załącznik 5 4. ** Ponrierdzenie ujszczefie opłaty nadezy dołączyć jako zudtjcznik 5.1."
     },
     {
      "type": "note",
@@ -2580,6 +2588,14 @@
     },
     {
      "type": "note",
+     "text": "[Strona 58 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "W imieniu podmiotu odpowiedzialnego (podpis) (imię i nazwiska}* (stanowisko) (miejscowość) (data) * [|] Należy dołączyć pelnomocnietwo do występowania w imieniu podmion: odpowiedzialnego (załącznik 4.4). eA] Potwierdzenie wniesienia opiaty należy dołączyć jako załącznik 4.1"
+    },
+    {
+     "type": "note",
      "text": "[Strona 59 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
@@ -2601,6 +2617,10 @@
     {
      "type": "note",
      "text": "[Strona 60 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "W przypadku kolejnych procedur należy skopiować poniższe pola:"
     },
     {
      "type": "ocr",
@@ -2769,6 +2789,10 @@
     {
      "type": "note",
      "text": "[Strona 64 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "2.2.2. Droga podania (należy użyć terminologii zgodnej z wydawnictwem Standard Terms Farmakopei Europejskiej):"
     },
     {
      "type": "ocr",

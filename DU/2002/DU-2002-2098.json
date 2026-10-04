@@ -1,7 +1,7 @@
 {
  "eli": "DU/2002/2098",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 24 grudnia 2002 r. w sprawie warunków stosowania promieniowania jonizującego w celach medycznych oraz sposobu wykonywania kontroli wewnętrznej nad przestrzeganiem tych warunków.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2002/2098/text.pdf",
  "body": [
   {
@@ -3536,6 +3536,14 @@
     {
      "type": "note",
      "text": "[Na stronie 24 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "16 | Ocena rozdzielczości wysokokontrastowej Ocena rozdzielczości niskokontrastowej i poziomu sżumu Pomiar grubości warstwy Ocena dokładności i powtarzalności ustawienia (ruchu) stała Ocena dokładności świetlnych wskaźników położenia"
     }
    ]
   },

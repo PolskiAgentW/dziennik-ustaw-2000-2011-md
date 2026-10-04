@@ -49,7 +49,7 @@ Wszystkie lata 2000–2011 są w zbiorze (ostatni rocznik dodany 2026-10-02): 19
 (opis niżej, w części o OCR). Akty, którym API później doda HTML albo zmieni PDF, nie są tu aktualizowane.
 
 <!-- stats:start -->
-Stan na 2026-10-02 11:30 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-04 05:45 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -66,11 +66,11 @@ Stan na 2026-10-02 11:30 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2010 | 1427 | 1427 | 0 |
 | 2011 | 1429 | 1429 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 3483, razem 66479 z 160308 stron. Tekst z OCR (oznaczony) ma 63997 z nich w 3425 aktach; treści pozostałych brak.
-Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 5404.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 3483, razem 66483 z 160308 stron. Tekst z OCR (oznaczony) ma 64001 z nich w 3425 aktach; treści pozostałych brak.
+Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 5402.
 
 Rodzaje aktów: Rozporządzenie 18305, Oświadczenie rządowe 633, Umowa międzynarodowa 342, Konwencja 98, Protokół 78, Obwieszczenie 39, Porozumienie 37, Uchwała 26, Postanowienie 25, Dokument wypowiedzenia 12, Traktat 11, Decyzja 2, Statut 2, Ustawa 1, Deklaracja 1, Akt 1, Układ 1.
-Wersje konwertera: eli2md 0.6.18 (7787), eli2md 0.6.17 (6528), eli2md 0.6.22 (4760), eli2md 0.6.16 (524), eli2md 0.6.19 (15).
+Wersje konwertera: eli2md 0.6.18 (6723), eli2md 0.6.17 (5435), eli2md 0.6.22 (3704), eli2md 0.6.24 (3425), eli2md 0.6.16 (327).
 <!-- stats:end -->
 
 ## Zawartość
@@ -159,6 +159,23 @@ nie ma tekstu: jego PDF w API ELI (413 392 257 bajtów) jest uszkodzony, także 
 część pliku jest przesunięta o 4 bity (po cofnięciu przesunięcia koniec pliku jest poprawny; sprawdzone 2026-10-02). DU/2009/1788: API ELI podaje pod `text.pdf` plik podpisu XAdES (XML) z PDF-em w środku (base64);
 tekst jest z tego wewnętrznego PDF-u, `pdf_sha256` to skrót pliku z API (2026-10-02, jedyny taki plik na 42 102). Tak samo w 2008 r. (47 aktów, 2026-10-02): strony z OCR 1 483 → 1 646, słowa 366 628 → 433 060, żaden akt
 nie ma mniej stron z OCR ani mniej słów; wszystkie strony bez warstwy tekstowej odczytane w 1 → 24 aktach.
+
+Zmiana 2026-10-04 (eli2md 0.6.24, wszystkie 3 425 aktów ze stronami z OCR przeliczone ponownie; wcześniej miały wersje
+0.6.16–0.6.22; porównanie `index.csv` przed i po):
+- 0.6.23: gdy OCR skleił nagłówek strony zeszytu („Dziennik Ustaw Nr 186 — 10061 — Poz. 1149”) z dalszym tekstem
+  w jeden akapit, konwerter usuwał cały akapit. Teraz usuwa tylko nagłówek. Np. w DU/2005/1016 (poprawki do konwencji
+  SOLAS, s. 71–191 to skan) 26 stron odczytanych przez OCR nie miało w wyniku żadnego tekstu, teraz ma (+9 916 słów);
+  w DU/2008/1149 wrócił pierwszy wiersz tabeli ze s. 12 („11 Zakręcie”, „12 Zażółkiew”; sprawdzone z PDF).
+- 0.6.24: na stronach z OCR akt jest wycinany także wtedy, gdy OCR zgubił polskie litery w rodzaju aktu
+  („ROZPORZADZENIE PREZESA RADY MINISTROW”). Mniej słów ma 5 aktów z 2000 r. (DU/2000/71, 89, 90, 101, 1343, razem
+  −1 209): wcześniej plik zawierał też tekst sąsiednich pozycji ze wspólnej strony (np. w DU/2000/90 koniec załącznika
+  poz. 89), teraz kończy się podpisem pod własnym aktem. Dla DU/2000/71 i 89 sprawdzone, że 0.6.23 dawał jeszcze stary
+  wynik. W DU/2000/138 i 886 zniknął tylko numer pozycji (po 1 słowie).
+- Skutek dla 3 425 aktów: więcej słów w 939 (razem +80 341), tyle samo w 2 479, mniej w 7 (razem −1 211). Stron
+  odczytanych przez OCR jest o 4 więcej: w DU/2000/1047 (24 → 26) i DU/2002/337 (16 → 18) OCR czyta teraz strony
+  formularzy, których warstwa tekstowa nie ma kodów Unicode (wcześniej w wyniku były z nich śmieci). DU/2007/189 nadal
+  bez tekstu (uszkodzony PDF, opis wyżej). Pozostałe akty (bez stron z OCR) mają w polu `converter` wcześniejsze
+  wersje: zmiany 0.6.23 i 0.6.24 dotyczą tylko stron z OCR.
 
 **Czego te liczby nie mówią:**
 

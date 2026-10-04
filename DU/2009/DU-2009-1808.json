@@ -1,7 +1,7 @@
 {
  "eli": "DU/2009/1808",
  "title": "Rozporządzenie Ministra Finansów z dnia 29 grudnia 2009 r. zmieniające rozporządzenie w sprawie struktury logicznej deklaracji i podań, sposobu ich przesyłania oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2009/1808/text.pdf",
  "body": [
   {
@@ -397,6 +397,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "</xsd:simpleType> <xsd:element name=\"Deklaracja\"> <xsd:annotation> <xsd:documentation>DEKLARACJA DLA PODATKU OD TOWARÓW I USLUG</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"Naglowek\" type=\"TNaglowek\"> <xsd:annotation> <xsd:documentation> Nagléwek deklaracji</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Podmiot1\"> <xsd:complexType> <xsd:complexContent> <xsd:extension base=\"TPodmiotDowolny\"> <xsd:attribute name=\"roła\" type=\"xsdistring\" use=\"required\" fixed=\"Podatnik\"/> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsdielement> <xsd:element ref=\"PozycjeSzczegołowe\"> <xsdzannotation> <xsd:documentation>Rozliczenic podatku należnego, rozliczenie podatku naliczonego, obliczenie wysokości zobowiązania podatkowego lub kwoty zwrotu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Pouczenie\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration valuc=\"W przypadku niewpłacenia w obowiązującym terminie kwoty z poz.58 lub wpłacenia jej w niepełnej wysokości, niniejsza deklaracja stanowi podstawę do wystawienia tytułu wykonawczego, zgodnie z przepisami ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz.U. z 2005 r, Nr 229, poz.1954, z późn. zm.).\"/> </xsdirestriction> </xsdisimpleType> </xsd:element> <xsd:element name=\"Oswiadezenie\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration valuc=\"Oświadczam, że są mi znane przepisy Kodeksu karnego skarbowego o odpowiedzialności za podanie danych niezgodnych z rzeczywistością.\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"Zalaczniki” minOccurs=\"0\"> <xsd:complex Type> <xsd:sequence> <xsd:element ref=\"Wniosek_VAT-ZT\" minOccurs=\"0\"/> <xsd:element ref=\"Wniosek_VAT-ZZ\" minOccurs=\"0\"/> <xsd:element ref=\"Zalacznik ORD-ZU\" minOccurs=\"0\"/> </xsdisequence> </xsd:complex Type> </xsd:element> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"PozycjeSzczegolowe\"> <xsd:complexType> <xsd:sequence> <xsd:ełement name=\"P_20\" type=\" TKwotaC\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Podstawa opodatkowania - Dostawa towarów oraz świadczenie usług, na terytorium kraju, zwolnione od podatku</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_21\" type=\"TK wotaC” minOccurs=\"0\">"
     },
     {
@@ -413,6 +417,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:documentation>Podstawa opodatkowania - Wcwnątrzwspólnotowa dostawa towaréw</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_ 32” type=\"TK wotaC” minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Podstawa opodatkowania - Eksport towarów</xsd:documentation> </xsd:annotation> <fxsd:element> <xsd:sequence minOccurs=\"0\"> <xsd:element name=\"P_33\" type=\"TK wotaC\"> <xsd:annotation> <xsd:documentation>Podstawa opodatkowania - Wewnątrzwspólnotowe nabycie towarów=/xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_34\" type=\" TKwotaC\"> <xsd:annotation> <xsd:documentation>Podatek należny - Wewnątrzwspólnotowe nabycie towarów</xsd:documentation> <¢xsd:annotation> </xsd:element> </xsdisequence> <xsd:sequence minOccurs=\"0\"> <xsd:element name=\"P_35\" type=\" TKwotaC\"> <xsd:annotation> <xsd:documentation>Podstawa opodatkowania - Import towarów, podlegający rozliczeniu zgodnie z art.33a ustawy</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_36\" type=\"TKwotaC\"> <xsd:annotation> <xsd:documentation>Podatek należny - Import towarów, podlegający rozliczeniu zgodnie z art.33a ustawy</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> <xsd: sequence minOccurs=\"0\"> <xsd:element name=\"P_37\" type=\"TKwotaC\"> <xsd:annotation> <xsd:documentation>Podstawa opodatkowania - Import ustug</xsd:documentation> <łxsd:annotation> </xsd:element> <xsd:element name=\"P_38\" type=\"TK wotaC\"> <xsd:annotation> <xsd:documentation>Podatek należny - Import uslug</xsd:documentation> </xsd:annotation> </xsd:element> </xsdisequence> <xsd:sequence minOccurs=\"0\"> <xsd:element name=\"P_39\" type=\"TK wotaC\"> <xsd:annotation> <xsd:documentation>Podstawa opodatkowania - w tym nabycie od podatników podatku od wartości dodanej usług, do których stosuje się art.28b ustawy</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_40\" type=\"TK wotaC\"> <xsd:annotation> <xsd:documentation>Podatek należny - w tym nabycie od podatników podatku od wartości dodanej usług, do których stosuje się art.28b ustawy</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> <xsd:sequence minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Wypełnia nabywca towarów=/xsd:documentation> </xsd:annotation>"
     },
     {
@@ -426,6 +434,10 @@
     {
      "type": "note",
      "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -489,6 +501,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "<fxsd:schema>"
     },
     {
@@ -502,6 +518,10 @@
     {
      "type": "note",
      "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -602,6 +622,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "<jxsd:enumeration> <xsdzenumeration value=\"4\"> <xsd:annotation> <xsd:documentation>w innych przypadkach niż wymienione w pkt 1 — 3, jeżeli wniosck o zwrot składany jest zgodnie z przepisami o podatku od towarów i usług, wraz z deklaracją podatkową, a kwota wnioskowanego zwrotu stanowi kwotę podatku naliczonego lub kwotę różnicy podatku, wynikającą z tej deklaracji</xsd:documentation> </xsd;annotation> </xsd:enumeration> </xsd:restriction> </xsd:simpleT ype> <xsd:element name=\"Wniosek_WAT-ZZ\"> <xsd:annotatton> <xsd:documentation> WNIOSEK O ZWROT PODATKU VAT</xsd:documentation> <fxsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"Naglowek\" type=\"TNaglowek_VAT-ZZ\"/> <xsd:element name=\"PozycjeSzczegolowe\"> <xsd:complexType> <xsdisequence> <xsd:element name=\"P_8\" type=\"TPowodZwrotu\"> <xsd:annotation> <xsd:documentation>Powód zwrotu</xsd:documentation> </xsd:annotation> </xsdiclement> <xsd:element name=\"P_9\" type=\"TKwota2Nieujemna\"> <xsd:annotation> <xsd:documentation> Wnioskowana kwota podatku do zwrotu</xsd:documentation> </xsd:annotation> </xsdiclement> <xsd:element name=\"P_10\"> <xsd:annotation> <xsd:documentation>Uzasadnienie złożenia wniosku</xsd:documentation> </xsd:annotation> <xsd:complex Type> <xsd:simpleContent> <xsd:extension base=\"TTekstowy\"/> </xsd:simpleContent> </xsd:complexType> </xsd:element> </xsdisequence> </xsd:complex Type> <fxsdzelement> </xsd:sequence> </xsd:compicxType> </xsd:element> </xsd:schema>"
     }
    ]
@@ -672,6 +696,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:element name=\"P_47\" type=\"TK wotaCNieujemna\"> <xsd:annotation> <xsd:documentation>Wartość umowy w zł</xsd:documentation> </xsd:annotation> </xsdielement> </xsd:sequence> <xsd:sequence minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Dane dotyczące umowy 5</xsd:documentation> </xsd:annotation> <xsd:element name=\"P_49\" type=\"TData\"> <xsd:annotation> <xsd:documentation>Data zawarcia umowy</xsd:documentation> </xsd:annotation> </xsdielement> <xsd:element name=\"P_50\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Przedmiot (rodzaj) umowy</xsd:documentation> <fxsd:annotation> </xsd:element> <xsd:element name=\"P_51\" typc=\"TKwotaCNieujcmna\"> <xsd:annotation> <xsd:documentation>Wartosé umowy w zł</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:sequence> </xsd:complex Type> </xsd:element> </xsdischema>"
     }
    ]
@@ -735,6 +763,10 @@
     {
      "type": "note",
      "text": "[Strona 40 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -807,6 +839,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "</xsd:extension> </xsd:simpleContent> </xsd:complexType> </xsd:element> <xsd:element name=\"WariantFormularza\"> <xsd:simpleType> <xsd:restriction base=\"xsd:byte\"> <xsd:enumeration value=\"3\"/> </xsd:restriction> </xsd:simpleT ype> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:simple Type name=\"TKodFormularza_ZG\"> <xsd:annotation> <xsd:documentation>Symbol wzoru formularza</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"PIT/ZG\"/> </xsd:restriction> </xsd:simpleT ype> <xsd:element name=\"Zalacznik PIT ZG\"> <xsd:annotation> <xsd:documentation>Informacja a wysokości dochodów z zagranicy i zapłaconym podatku w roku podatkowym</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"Naglowek\" types\"TNaglowek_PIT_ZG\"/> <xsd:element name=\"PozycjeSzczegolowe\"> <xsd:annotation> <xsd:documentation> Dochody i podatek rozliczane w zeznaniu podatkowym PIT- 38</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"P_8\" type=\"TKodKraju\"> <xsd:annotation> <xsd:documentation>Kod kraju uzyskania dochodu</xsd:documentation> </xsd:annotation> <fxsd:element> <xsd:element name=\"P_32\" type=\"TKwota2Nieujemna\"> <xsd:annotation> <xsd:documentation>Dochód, o którym mowa w art. 30b ust. Sai Sb ustawy</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_33\" type=\"TKwota2Nieujemna\"> <xsd:annotation> <xsd:documentation>Podatck zapłacony za granicą</xsd:documentation> </xsd:annotation> <jxsd:element> </xsd:sequence> </xsd:complex Type> </xsd:element> <fxsd:sequence> </xsd:complexType> </xsd:element> </xsd:schema>"
     },
     {
@@ -876,11 +912,19 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:documentation>Miejscowość</xsd:documentation> <fgsd:annotation> </xsd-element> <xsd:element name=\"P_49\" type=\"TKodPocztowy\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Kod pocztowy</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_50\" type=\"TMiejscowosc\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Poczta</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> <xsd:sequence> <xsd:annotation> <xsd:documentation>D. | .</xsd:documentation> <fxsd:annotation> <xsd:element name=\"P_51\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Rodzaj produkeji</xsd:documentation> </xsd:annotation> </xsd:element> <xsdielement name=\"P_52\" typc=\"TNrDzialu\"> <xsd:annotation> <xsd:documentation>Numer działu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_53\"> <xsd:annotation> <xsd:documentation>Rozmiar</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TNaturalny\"> <xsd:minIneclusive value=\"0\"/> </xsdirestriction> </xsd:simpleType> </xsd:element> </xsdisequence> <xsd:sequence minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>D.2.</xsd:documentation> </xsd:annotation> <xsd:element name=\"P_56\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Rodzaj produkcji</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_57\" type=\"TNrDzialu\"> <xsdzannotation> <xsd:documentation>Numer działu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_58\"> <xsd:annotation> <xsd:documentation>Rozmiar</xsd:documentation> </xsd:annotation> <xsd:simpleTypc> <xsd:restriction base=\"TNaturalny\"> <xsd:minInclusive value=\"0\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> </xsd:sequence> <xsd:sequence minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>D.3.</xsd:documentation>"
     },
     {
      "type": "note",
      "text": "[Strona 54 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -924,11 +968,19 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "</xsdrelement> <xsd:element name=\"P_128\"> <xsd:annotation> <xsd:documentation>Rozmiar</xsd:documentation> <fxsd:annotation> <xsd:simpleType> <xsd:restriction bascH\" FNaturalny\"> <xsd:minInclusive value=\"0\"/> </xsd:restriction> </xsd:simpleType> </xsdrelement> </xsd:sequence> <xsd:sequence minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>D. | 7.</xsd:documentation> </xsd:annotation> <xsd:element name=\"P_ 131\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Rodzaj produkeji</xsd:documentation> </xsdiannotation> </xsd:element> <xsd:element name=\"P_132\" type=\"TNrDzialu\"> <xsd:annotation> <xsd:documentation>Numer działu</xsd:documentation> </xsd:annotation> </xsd:element> <xsdiclement name=\"P_133\"> <xsd:annotation> <xsd:documentation>Rozmiar</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TNaturalny\"> <xsd:minIinclusive value=\"0\"/> </xsdcrestriction> </xsdzsimpleType> </xsd:clement> </xsd:sequence> <xsdisequence minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>D. 18.</xsd:documentation> </xsd:annotation> <xsd:element name=\"P_136\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Rodzaj produkcji</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_137\" type=\"TNrDzialu\"> <xsd:ańnotation> <xsd:documentation>Numer dzialu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_138\"> <xsd:annotation> <xsd:documentation>Rozmiar</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TNaturalny\"> <xsd;minlnclusive value=\"0\"/> </xsd:restriction> </xsd:simpleType> </xsdrelement> </xsd:sequence> <xsd:sequence minOccurs=\"0\"> <xsdrannotation> <xsd:documentation>Ustalenie wysokości dochodów na podstawie prowadzonych ksiąg</xsd:documentation> </xsd:annotation>"
     },
     {
      "type": "note",
      "text": "[Strona 60 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "/777 — Poz. 1808"
     },
     {
      "type": "ocr",
@@ -948,11 +1000,19 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "</xsd:element> <xsd:element name=\"CelZlozenia\"> <xsd:complexType> <xsd:simpleContent> <xsd:cxtension base=\"TCelZlozenia\"> <xsd: attribute name=\"poz\" type=\"xsd;string\" use=\"required\" fixed=\"P_6\"/> </xsdiextension> </xsd:simpleContent> </xsd:complexType> </xsd:element> <xsd:element name=\"Rok\"> <xsd:simpleType> <xsd:restriction base=\"TRok\"> <xsd:minlnclusive value=\"2009\"/> <fxsd:restriction> </xsd:stmpleType> </xsd:element> <xsd:element name=\"KodUrzedu\" type=\"TKodUS\"/> </xsdisequence> </xsd:complexType> <xsd:simpleType name=\"TKodFormularza\"> <xsd:annotation> <xsd:documentation>Symbol wzoru formularza</xsd:documentation> </xsd:annotation> <xsd:resiriction base=\"xsd:string\"> <xsd:enumeration value=\"PIT-6/PIT-6L\"/> </xsd:restriction> </xsd:simpleType> <xsd:element name=\"Deklaracja\"> <xsd:annotation> <xsd:documentation>DEKŁARACJA DO WYMIARU ZALICZEK PODATKU DOCHODOWEGO OD DOCHODÓW Z DZIAŁÓW SPECJALNYCH PRODUKCH ROLNEJ</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"Naglowek\" type=\"TNaglowek\"> <xsd:annotation> <xsd:documentation>Nagłówek deklaracji</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Podmiotl\"> <xsd:complex Type> <xsd:complexContent> <xsd:extension base=\" TOsobaFizyczna”> <xsd:attribute name=\"rola\" type=\"xsd:string\" use=\"required\" fixed=\"Podatnik\"/> </xsd:extension> </xsd:complexContent> </xsd:complex Type> </xsd:element> <xsd:element ref=\"PozycjeSzczegolowe\"> <xsd:annotation> <xsd;documentation>Miejsca prowadzenia działów specjalnych produkcji rolnej, obliczenie dochodu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Oswiadezenie\"> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration valuc=\"Oświadczam, że są mi znane przepisy Kodeksu karnego skarbowego 0 odpowiedzialności za podanie danych niezgodnie z rzeczywistością i przez to narażenie na uszczuplenie podatku.\"/> </xsd:restriction> </xsd:simpleT ype> </xsd:element> <xsd:element name=\"Zalaczniki\" minOccurs=\"0\"> <xsd:complex Type> <xsdisequence> <xsd:element ref=\"Zalacznik_ORD-ZU\" minOccurs=\"0\"/>"
     },
     {
      "type": "note",
      "text": "[Strona 62 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -980,6 +1040,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "</xsd:sequence> <xsd:sequence minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>D.2.</xsd:documentation> </xsd:annotation> <xsd:element name=\"P_56\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Rodzaj produkeji</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_57\" type=\"TNrDzialu\"> <xsd:annotation> <xsd:documentation>Numer działu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_58\"> <xsd:annotation> <xsd:documentation>Rozmiar</xsd:documentation> </xsd:annotation> <xsdisimpleType> <xsd:restriction base=\"TNaturalny\"> <xsd:mininclusive value=\"0\"/> </xsd:restriction> </xsd:isimpleType> </xsd:element> </xsd:sequence> <xsd:sequence minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>D.3.</xsd:documentation> <fxsd:annotation> <xsd:element name=\"P_ 61\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Rodzaj produkcji</xsd:documentation> <fxsd:annotation> </xsdrelement> <xsd:element name=\"P_62\" type=\"TNrDzialu\"> <xsd:annotation> <xsd:documentation>Numer działu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_63\"> <xsd:annotation> <xsd:documentation> Rozmiar</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TNaturalny\"> <xsd:minlnclusive value=\"0\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> </xsd:sequence> <xsd:sequence minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>D.4.</xsd:documentation> </xsdtannotation> <xsd:element name=\"P_66\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Rodzaj produkcji</xsd:documentation> </xsdiannotation> </xsd:element> <xsd:element name=\"P_67\" type=\"TNrDzialu\"> <xsd:annotation> <xsd:documentation>Numer dziatu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_68\"> <xsd:annotation>"
     },
     {
@@ -988,11 +1052,19 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:documentation> Rozmiar</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TNaturalny\"> <xsd:minlnclusive value=\"0\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> </xsdisequence> <xsd:sequence minOceurs=\"0\"> <xsd:annotation> <xsd:documentation>D.5.</xsd:documentation> </xsd:annotation> <xsd:element name=\"P_71\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Rodzaj produkeji</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_72\" type=\"TNrDzialu\"> <xsd:annotation> <xsd:documentation>Numer dziatu</xsd:documentation> </xsd:annotation> <fxsd:element> <xsd:element name=\"P_73\"> <xsd:annotation> <xsd:documentation>Rozmiar</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TNaturalny\"> <xsd:minInclusive value=\"0\"/> </xsd:restriction> </xsdisimpleType> </xsdielement> </xsdisequence> <xsd:sequence minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>D.6.</xsd:documentation> </xsd:annotation> <xsd:element name=\"P_76\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Rodzaj produkcji</xsd:documentation> </xsd:annotation> <fxsd:element> <xsd:element name=\"P_77\" type=\"TNrDzialu\"> <xsd:annotation> <xsd:documentation>Numer działu</xsd;documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_78\"> <xsd:annotation> <xsd:documentation>Rozmiar</xsd:documentation> </xsd:annotation> <xsd.simpleType> <xsd:restriction base=\"TNaturalny\"> <xsd:mininelusive value=\"0\"/> </xsd:restriction> </xsd:simpleType> <fxsd:element> </xsd:sequence> <xsd:sequence minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>D.7.</xsd:documentation> </xsd:annotation> <xsdiclement name=\"P_81\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Rodzaj produkcji</xsd:documentation> </xsd:annotation>"
     },
     {
      "type": "note",
      "text": "[Strona 67 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -1017,6 +1089,10 @@
     {
      "type": "note",
      "text": "[Strona 70 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -1060,6 +1136,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:documentation>Drób nieśny (stado reprodukcyjne), Indyki</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"60\"> <xsd:annotation> <xsd:documentation>Drób nieśny - kury (produkcja jaj konsumpcyjnych)</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"61\"> <xsd:annotation> <xsd:documentation> Wylegarnie drobiu, Kurezeta</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"62\"> <xsd:annotation> <xsd:documentation> Wylegarnie drobiu, Gesi</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"63\"> <xsdzannotation> <xsd:documentation>Wylęgarnie drobiu, Kaczki</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"64\"> <xsd:annotation> <xsd:documentation> Wylegamie drobiu, Indyki</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"71\"> <xsdzannotation> <xsd:documentation>Zwierzęta futerkowe, Lisy</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"72\"> <xsd:annotation> <xsd:documentation>Zwierzęta futerkowe, Jenoty</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"73\"> <xsd:annotation> <xsd:documentation>Z wierzęta futerkowe, Norki</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"74\"> <xsd:annotation> <xsd:documentation>Zwierzeta futerkowe, Tchérze</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"75\"> <xsd:annotation> <xsd:documentation>Zwierzęta futerkowe, Szynszyle</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"76\"> <xsd:annatation> <xsd:documentation>Zwierzęta futerkowe, Nutrie</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"77\"> <xsd:annotation> <xsd:documentation>Zwierzęta futerkowe, Króliki</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"78\"> <xsd:annotation> <xsd:documentation>Zwierzęta laboratoryjne, Szczury białe</xsd:documentation> </xsd:annotation>"
     },
     {
@@ -1097,6 +1177,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:element ref=\"Zalacznik_PIT-28_A\" minOccurs=\"0\"/> <xsd:element ref=\"Zalacznik_PIT-28_B\" minOccurs=\"0\" maxOccurs=\"unbounded\"/> <xsd:element ref=\"Zalacznik_ORD-ZU\" minOccurs=\"0\"/> </xsd:sequence> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:complex Type> <fxsdzelement> <xsd:element name=\"PozycjeSzczegolowe\"> <xsd:complexType> <xsd:sequence> <xsd:sequence minOccurs=\"0\"> <xsd:annotation> <xsd:documentation> |. Przychody z działalności prowadzonej na własne nazwisko</xsd:documentation> </xsd:annotation> <xsd:element name=\"P_21\" type=\"TKwota2Nieujemna” minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>według stawki 3,0%</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_22\" type=\"TK wota2Nieujemna” minOceurs=\"0\"> <xsd:annotation> <xsd:documentation>według stawki 5,5%</xsd:documentation> </xsd:annotation> </xsd:clement> <xsd:element name=\"P_23\" type=\"TKwota2Nieujemna\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>wedlug stawki 8,5%</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_24\" type=\"TKwota2Nieujemna\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>według stawki 10,0%</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_25\" type=\"TK wota2Nieujemna\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>według stawki 17,0%</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_26\" type=\"TKwota2Nieujemna\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>według stawki 20,0%</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_27\" type=\"TK wota2Nieujemna\"> <xsd:annotation> <xsd:documentation>Ogółem przychody</xsd:documentation> </xsd:annotation> </xsd:element> </xsdisequence> <xsdisequence minOccurs=\"0\"> <xsd:annotation> <xsd.documentation>2. Z działalności prowadzonej w formie spółki(ek) osób fizycznych, w której(ych) podatnik jest wspólnikiem</xsd:documentation> </xsd:annotation> <xsd:element name=\"P_ 28\" type=\"TK wota2Nieujemna\"” minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>według stawki 3,0%</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_29\" type=\"TK wota2Nieujemna™ minOccurs=\"0\"> <xsdiannotation> <xsd:documentation>wedlug stawki 5,5%</xsd:documentation> </xsd:annotation>"
     },
     {
@@ -1126,6 +1210,10 @@
     {
      "type": "note",
      "text": "[Strona 82 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -1169,11 +1257,19 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:documentation>Kwota wpłaconego ryczałtu za miesiące od stycznia do listopada roku podatkowego lub za I, II i III kwartał roku podatkowego</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:choice minOccurs=\"0\"> <xsd:element name=\"P_114\" type=\"TK wotaCNieujemna\"> <xsd:annotation> <xsd:documentation>K WOTA DO ZAPLATY</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_115\" type=\"TK wotaCNieujemna\"> <xsd:annotation> <xsd:decumentation>NADPLATA</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:choice> <xsd:sequence minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Kwota ryezaltu</xsd:documentation> </xsd:annotation> <xsd:element name=\"P_ 116\" type=\"TKwotaCNieujemna\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Miesiac I</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_117\" type=\"TKwotaCNieujemna\" minQccurs=\"0\"> <xsd:annotation> <xsd:documentation>Miesiąc Il</xsd:documentation> </xsd:annotation> </xsd:element> <xsdielement name=\"P_118\" type=\"TKwotaCNieujemna\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Miesiąc III / I kwartał</xsd:documentation> </xsd:annotation> </xsd:clement> <xsd:element name=\"P_119\" typc=\"TKwotaCNieujemna\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentatiton>Miesiąc TV</xsd:documentation> <fxsd:annotation> </xsd:element> <xsd:element name=\"P_ 120° type=\"TKwotaCNieujemna\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Miesiąc V</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_121\" type=\" TKwotaCNieujemna” minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Miesiąc VI / II kwartal</xsd:documentation> </xsd:annotation> <fxsd:element> <xsd:element name=\"P_122\" type=\"TK wotaCNieujemna” minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Miesiąc Vil</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_ 123\" type=\"TKwotaCNieujemna” minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Miesiąc VIIT</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_ 124\" type=\"TKwotaCNieujemna\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Miesiac [X / III kwartat</xsd:documentation> </xsd:annotation> </xsdielement> <xsd:element name=\"P_ 125\" type=\"TK wotaCNieujemna” minOccurs=\"0\"> <xsd:annotation>"
     },
     {
      "type": "note",
      "text": "[Strona 88 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -1203,6 +1299,10 @@
     {
      "type": "note",
      "text": "[Strona 91 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -1247,6 +1347,10 @@
     {
      "type": "note",
      "text": "[Strona 96 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -1523,6 +1627,10 @@
     {
      "type": "note",
      "text": "[Strona 131 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -2735,6 +2843,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "</xsd:annotation> </xsdiclement> </xsd:sequence> <xsd:element name=\"P_31\" type=\"TKwotaC\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Podstawa opodatkowania - Wewnątrzwspólnotowa dostawa towarów</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_32\" type=\"TKwotaC\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Podstawa opodatkowania - Eksport towaréw</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:sequence minOccurs=\"0\"> <xsd:element name=\"P_33\" type=\"TKwotaC\"> <xsd:annotation> <xsdidocumentation>Podstawa opodatkowania - Wewnątrzwspólnotowe nabycie towarów</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_34\" type=\"TK wotaC\"> <xsd:annotation> <xsd:documentation>Podatek należny - Wewnątrzwspólnotowe nabycie towarów </xsd:documentation> </xsd:annotation> </xsd:element> </xsdisequence> <xsd:sequence minOceurs=\"0\"> <xsd:element name=\"P_35\" type=\"TK wotaC\"> <xsd:annotation> <xsd:documentation>Podstawa opodatkowania - Import towarów, podlegający rozliczeniu zgodnie z art.33a ustawy</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_ 36\" type=\"TKwotaC\"> <xsd:annotation> <xsd:documentation>Podatek należny - Import towarów, podlegający rozliczeniu zgodnie z art.33a ustawy</xsd:documentation> </xsd:annotation> </xsdielement> </xsd:sequence> <xsd:sequence minOccurs=\"0\"> <xsd:element name=\"P_37\" type=\"TKwotaC\"> <xsd:annotation> <xsd:documentation>Podstawa opodatkowania - Import usług</xsd:documentation> </xsd:annotation> </xsd:iclement> <xsd:element name=\"P_38\" type=\"TK wotaC\"> <xsd:annotation> <xsd:documentation>Podatek należny - Import ustug</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> <xsd:sequence minOccurs=\"0\"> <xsd:element name=\"P_39\" type=\"TKwożaC\"> <xsd;annotation> <xsd:documentation>Podstawa opodatkowania - w tym nabycie od podatników podatku od wartości dodanej usług, do których stosuje się art.28b ustawy</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_40\" type=\"TK wotaC\"> <xsd:annotation> <xsd:documentation>Podatek należny - w tym nabycie od podamików podatku od wartości dodanej usług, do których stosuje się art.28b ustawy</xsd:documentation> </xsd:annotation> </xsd:element>"
     },
     {
@@ -2780,6 +2892,10 @@
     {
      "type": "note",
      "text": "[Strona 290 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -2868,6 +2984,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "</xsd:element> <xsd:element name=\"P_45\" type=\"TK wotaCNieujemna” minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Miesiąc VII</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_46\" type=\" TKwotaCNieujemna\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Miesiąc VIII</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_47\" type=\"Tk wotaCNicujemna\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Miesiąc [X</xsd:documentation> </xsd:annotation> <jxsd:element> <xsd:element namc=\"P_48\" typec=\"TKwotaCNieujemna\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Miesiąc X</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_49\" type=\"TKwotaCNieujemna\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Miesiac XI</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_50\" type=\"TKwotaCNieujemna\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentalion>Miesigc XII</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> <xsd:sequence minOccurs=\"0\"> <xsd:annotation> <xsd:documentation> Wniosek o przekazanie 1% podatku należnego na rzecz Organizacji Pożytku Publicznego (OPP)</xsd:documentation> </xsd:annotation> <xsd:element name=\"P_41\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Nazwa OPP</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_52\" type=\"TNrK RS\"> <xsd:annotation> <xsd:documentation>Numer KRS</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_53\"> <xsd:annotation> <xsd:documentation>Wnioskowana kwota</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TK wota2 Nieujemna\"> <xsd:fractionDigits value=\"1\"/> </xsd:restriction> </xsd:simpleT ype> </xsd:element> </xsdisequence> <xsd:element name=\"P_54\" type=\"TZnakowy\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Informacje uzupełniające, w tym ułatwiające kontakt z podatnikiem</xsd:documentation> </xsdtannotation> </xsd:element> <xsd:element name=\"P_55\" type=\" FZnakowy\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Cel szczegółowy 1%</xsd:documentation>"
     },
     {
@@ -2945,6 +3065,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:documentation>Rok wyboru lub rezygnacji z opodatkowania w formic ryczattu</xsd:documentation> </xsd:annotation> <xsd:stmpleType> <xsd:restriction base=\"TRok\"> <xsd:minlnclusive vałuc=\"2009\"/> </xsd:restriction> </xsdisimpleType> </xsdielement> </xsd:sequence> </xsdisequence> <xsdisequence minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Informacje dotyczące składania deklaracji</xsd;documentation> </xsd:annotation> <xsd:element name=\"P_ 50\" typc=\"TWyborl\" minOccurs-\"0\"> <xsdzannotation> <xsd:documentation>Podatnik będzie składał deklaracje VAT-7</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element namc=\"P_51\" type=\"TWybor!\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Podatnik będzie składał deklaracje VAT-7K, w przypadkach, o których mowa w art.99 ust.2 lub 3 ustawy</xsd:documentation> </xsd:annotation> </xsdielement> <xsdzelement namc=\"P_52\" type=\"TWyborl\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Podatnik będzie składał deklaracje VAT-7D, w przypadkach, o których mowa w art.99 ust.3 ustawy</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element namc=\"P_53\" typc=\"TWybor1\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Podatnik będzie składał deklaracje VA/[-8, w zakresie dokonywanych nabyć zgodnie z art.99 ust.8 ustawy</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_ 54” typc=\"TWybor1\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Podatnik będzie składał deklaracje VAT-12, w przypadkach, o których mowa w art. 1 4 ust.3 ustawy</xsd:documentation> </xsd:annotation> <jxsd:element> <xsd:choice> <xsdisequence> <xsd:element name=\"P_ 55\" type=\"TK wartal\"> <xsd:annotation> <xsd:documentation>K wartał, zu który podatnik złoży pierwszą deklarację wymienioną w poz. od 50 do 54</xsd:documentation> </xsd:annotation> </xsd:clement> <xsd:element name=\"P_56\"> <xsd:annotation> <xsd:documentation>Rok, za który podatnik złoży pierwszą dęklarację wymienioną w poz. od 50 do 54</xsd:documentation> </xsd:annotation> <xsd:simpleT ype> <xsd:restriction base-\"TRok\"> <xsd:minlnctusive value=\" 1993\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <jxsd:sequence> <xsdisequence> <xsd:element name=\"P_57\" type=\"TMiesiac\"> <xsdiannotation>"
     },
     {
@@ -2987,6 +3111,10 @@
     {
      "type": "note",
      "text": "[Strona 312 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -3113,6 +3241,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "towarów lub świadczenia usług na rzecz osoby zobowiązanej do zapłaty podatku od wartości dodanej zgodnie z przepisami państwa członkowskiego zwrotu implementującymi przepisy art. 194 — 197 i art. 199 dyrektywy 2006/112/WE\"/> <f/xsdzrestriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"Zgoda\"> <xsdisimpleType> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"Wyrazam zgodę na otrzymywanie pism (informacji) w sprawie wniosku o zwrot podatku od wartości dodanej za pomocą środków komunikacji elektronicznej, na podany we wniosku adres poczty elektronicznej, \">> </xsd:restriction> </xsd:simpleType> </xsd:clement> <xsd:element name=\"Oswiadczenie2\"> <xsd:shnpleType> <xsd;restriction basc=\"xsd:string\"> <xsd:enumeration valuc=\"Oświadczam, że są mi znane przepisy Kodeksu karnego skarbowego 0 odpowiędzialności za podanie danych niezgodnych z rzeczywistością.\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> </xsdisequence> </xsd:complexType> <jxsd:element> <xsd:element name=\"Details\"> <xsd:complexTypc> <xsd:sequencc> <xsd:element name=\"VATRefundApplication\" type=\"VATRefundApplication_Type\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Danc wniosku o zwrot podatku VAT</xsd:documentation> </xsd:annotation> <xsdzunique name=\"SequenceNumber_Unique\"> <xsd:selector xpath=\".//*\"/> <xsd:field xpath=\"ScquenceNumber\"/> </xsd;unique> <xsdzunique namc=\"BusinessActivity_ Unique\"> <xsd:selector xpath=\".//BusinessDescription/BusinessActivity\"/> <xsd:field xpath=\".\"/> <jxsd:unique> <xsd:utique name=\"TextualDescrLanguage Unique\"> <xsd:selector xpath=\".//BusinessDescription/Textual Description\"/> <xsd:field xpath=\"./@language\"/> <f/xsd:unique> <!-- ensure the supplier country code is the same as the refunding country code --> <xsd:key name=\"RefundingCountrykcy\"> <xsd:selector xpath=\".\"/> <xsd:field xpath=\"RefundingCountryCode\"/> </xsd:key> <xsd:keyref name=\"RefundingCountryToSupplier\" refer=\"RefundingCountryKey\"> <xsd:seleetor xpath=\"_//PurchaseInformation'/> <xsd:field xpath—\"EUSuppfier/EUTraderlD/V A TldentificationNumber/@issuedBy\"/> </xsd:keyref> <xsd:keyref name=\"RefundingCountryToSupplier2\" refer=\"RefundingCountryKey\"> <xsd:selector xpath=\".//Purchaselnformation\"/> <xsd:field xpath=\"EUSupplicr/EU Traderl D/TaxReferenceNumber/(@issuedBy\"/> /xsdikcyrcf> <|-- ensure the currency code is the same in whole application --> <fxsd:element> <xsd:clement name=\"ProRataRateAdjustment\" type”\"ProRataRateAdjustmentBody_ Type\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Amiana proporcji, o której mowa w art. 89 ust. 11) ustawy. Informacja moze zostać ostatecznie zadeklarowana tylko raz za dany okres i jest przekazywana do wszystkich państw członkowskich zwrotu</xsd:documentation= </xsdiannotation> </xsd:element> </xsd:sequencc>"
     },
     {
@@ -3126,6 +3258,10 @@
     {
      "type": "note",
      "text": "[Strona 327 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -3145,11 +3281,19 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "</xsd:complexType> <xsd:complexType name=\"Deduction_Type\"> <xsd:sequence> <xsd:element name=\"ProRataRate\" type=\"ProRataRate_Type\" minQceurs=\"0\"> <xsd:annotation> <xsd:documentation>Wysokość proporcji (w %) w przypadku stosowania proporcji, o której mowa w art. 89 ust. Ik) ustawy</xsd:documentation> </xsd:annotation> </xsdielement> <xsdtelement name=\"DeductibleV ATAmount\" type=\"SignedAmount_Type\"> <xsd:annotation> <xsd:documentation>K wota podatku VAT do zwrotu.</xsd:documentation> <xsd'documentation>W przypadku stosowania proporcji kwota zwrotu winna być obliczona z uwzględnieniem tej proporcji. </xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complex Type> <xsd:complexType name=\"DetailedBankAccount_Type\"> <xsdisequence> <xsd:element name=\"OwnerName\" type=\"AccountName_Type\"> <xsd:annotation> <xsd:documentation>Nazwa właściciela rachunku </xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"OwnerType\" type=\"BankAccountOwnerType_Type\"> <xsd:annotation> <xsd:documentation>Rodzaj właściciela rachunku (wnioskodawca/reprezentant)</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"IBAN\" type=\"MSIBAN Type\"> <xsd:annotation> <xsd:documentation>Numer IBAN</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"BIC\" type=\"BIC_Type\"> <xsdzannotation> <xsd:documentation>Kod BIC</xsd:documentation> </xsd:annotation> <fxsd:element> <xsd:element name=\"Currency” type=\"currCode_Type\"> <xsdiannotation> <xsd:documentation>Kod waluty rachunku</xsd:documentation> </xsd;annotation> </xsd:element> </xsd:sequence> </xsd:complex Type> <xsd:complexType name=\"EUSupplier_Type\"> <xsd:complexContent> <xsd:extension base=\"BaseTrader_Type\"> <xsdisequence> <xsd:element name=\"CountryCode\" type=\"CountryCode_Type\"> <xsd:annotation> <xsd:documentation>Kod kraju dostawcy towarów i ustug</xsd:documentation> <jxsdzannotation> </xsd:element> <xsdielement name=\"EUTraderID” type=\"EUTraderID_ Type\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Identyfikator dostawcy (obowiązkowy jeśli nie jest to faktura uproszczona)j</xsd:documentation> </xsd:annotation> </xsd:element> </xsdisequence> </xsdextension> </xsd:complexContent> </xsd:complex Type> <xsd:complexType name=\"EUTraderlD_Type\">"
     },
     {
      "type": "note",
      "text": "[Strona 329 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -3161,11 +3305,19 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "</xsd:sequence> </xsd:complexT ype> <xsd:complexType name=\"lmportlnformation_Type\"> <xsd:sequence> <xsd:element name=\"SequenceNumber\" type=\"SequenceNumber_Type\"> <xsd:annotation> <xsd:documentation> Numer pozycji zwrotu we wniosku</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:choice> «<xsd:element name=\"ReferenceNumber\" type=\"ReferenceNumber18_Type\"> <xsd:annotation> <xsd:documentation>Numer dokumentu celnego (elektroniczny dokument SAD)</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Referencelnformation\"> <xsd:annotation> <xsd:documentation>Numer dokumentu celnego (papierowy dokument 5AD)</xsd:documentation> <fxsd:annotation> <asd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:max Length value=\"256'/> <xsd:minLength value=\"E\"/> <fxsd:restriction> </xsd:simpleT ype> </xsd:element> </xsd:choice> <xsd:element name=\"IssuingDate\"> <xsdzannotation> <xsd:documentation>Data dokumentu celnego</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"RestrictedDate_Typc\"> <xsd:minInclusive value=\"2008-01-01°/> </xsd:restriction> </xsd:simpleType> </xsd:clement> <xsd:element name=\"Suppher\" type=\"Trader_ Type\"> <xsd:annotation> <xsd:documentation>Sprzedawca towarow</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"GoodsDescription\" type=\"GoodsDescription_Type” maxOccurs=\"unbounded\"> <xsd:annotation> <xsd:documentation>Rodzaj towaréw</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Currency\" type\"\"MSCurrCodeExPLN_Type\"> <xsd:annotation> <xsd:documentation>Waluta państwa członkowskiego zwrotu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"TransactionDescription\" type=\"TransactionDescription_Type\"/> <xsd:element name=\"Deduction\" type=\"Deduction_Typc\"/> </xsd:sequence> </xsd:complexType> <xsd:complex Type name=\"PositiveMoneyAmount_Type\"> <xsd:annotation> <xsd:documentation xmilang=\"en\">An amount: a value with a currency attribute</xsd:documentation> </xsd:annotation> <xsd:simpleContent> <xsd:extension base=\" Amount_Type\"> <xsd:attribute name=\"currency\" type=\"MSCurrCode_Type\" use=\"required\"/> <fksd:extension> </xsd:simpleContent>"
     },
     {
      "type": "note",
      "text": "[Strona 331 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -3201,6 +3353,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "</xsd:simpleType> <xsd:simpleType name=\"Representativel DT ype_Type\"> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"NV AT\"> <xsdzannotation> <xsd:documentation xml:lang=\"pl\">Numer VA T</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"TIN\"> <xsd:annotation> <xsd:documentation xml:lang=\"pl\">Numer identyfikacji podatkowej</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration valuc=\"other\"> <xsd:annotation> <xsd:documentation xml:lang=\"pl\">Inny numer identyfikacyjny</xsd:documentation> </xsd:annotation> </xsd:enumeration> </xsd:restriction> </xsd:simpleType> <xsd:simplc Type name=\"RestrictedDate_Type\"> <xsd;restriction base=\"xsd:date\"> <xsd:pattern value=\"id44;-1d12] -1d42)\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"RestrictedDateTime_Type\"> <xsdzrestriction base=\"xsd:dateTime\"> <xsd:pattern value=\"\\d {4}-\\d{2} Ad {2} Tad {2 td {2} Ad {2 p'/> </xsd:restriction> </xsd:simple Type> <xsd:simpleType name=\"SequenceNumber_Type\"> <xsd:restriction basc=\"xsd:integer\"> <xsd:minlinclusive value=\"1\"/> <xsd;maxlnclusive valuc=\"999999\"/> </xsd:restriction> </xsd:simpleT ype> <xsdisimpleType name=\"SignedAmount_Type\"> <xsd:annotation> <xsd:documentation xml:lang=\"en\">A decimal amount, resticted to two decimal places</xsd:documentation> <fxsdzannotation> <xsd:restriction basc=\" xsd:decimal\"> <xsd:fractionDigits value=\"2\"/> <xsd:totalDigits value=\"12\"/> </xsdzrestrietion> </xsd:simpleT ype> <xsd:complexType name=\"FileAttachment_Type\"> <xsdisequence> <xsd:element name=\"TypPliku\" type=\"OfficialCopyFileType_Type\"> <xsd:annotation> <xsd:documentation>Typ pliku</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NazwaPliku\"> <xsdiannotation> <xsd:documentation>Nazwa pliku (bez ścieżki)</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"xsd:token\"> <xsd:minLength value=\"I\"/> <xsd:maxLength value=\"40\"/> <jxsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"OpisPliku\" minOccurs=\"0\"> <xsd;annotation> <xsd:documentation>Opis pliku</xsd:documentation>"
     },
     {
@@ -3222,6 +3378,10 @@
     {
      "type": "note",
      "text": "[Strona 338 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -3377,6 +3537,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "<xs:documentation xmi:lang=\"pl\">Wydatki związane ze środkami transportu, w odniesiemiu do których istnicją ograniczenia prawa do odliczenia</xs:documentation> </xs:annotation> </xs:enumeration> <xsienumeration valuc=\"3.15\"> <xs:annotation> <xs;documentation xml:lang=\"pl\">Konserwacja środków transportu osób innych niż samochody osobowe i kombivany, motocykke, przyczepy kempingowe i łodzie rekreacyjno-sportowe oraz statki powietrzne o masie powyżej 1550 kg</xs:documentation> </xs:annotation> <fxsienumeration> <xs;enumeration value=\"3.16\"> <xs:annotation> <xs:documentation xml:lang=\"pl\">Garażowanie lub parkowanie środków transportu osób</xs:dacumentation> </xs:annotation> </xs:enumeration> <xs:enumcration valuc=\"3.17\"> <xszannotation> <xs:documentation xmł:lang=\"pl\"> Wydatki inne niż na konserwację, garazowanie lub parkowanie środków transportu innych niż samochody osobowe i kombivany, motocykle, przyczepy kempingowe i łodzie rekreacyjnosportowe oraz statki powietrzne o masie powyżej 1550 kg</xs:documentation> </xs:annotation> </xstenumeration> <xs:enumeracion valuc=\"4. [\"> <xs:annotation> <xsidocumentation xml:lang=\"pl\">Oplaty drogowe za środki transportu o masie powyżej 3500 kg. inne niż środki transportu dla pasażerów uiszczających opłatę</xs:documentation> </xs:annotation> </xs:enumeration> <xs:enumeration value=\"4.2\"> <xs:annotation> <xs:documentation xmi:lang środki transportu dia pasażerów uiszczających optat¢</xs:documentation> </xs:annotation> </xs:enumeration> <xszenumcration value=\"4.2.1\"> <xs:annotation> <xsidocumentation xml:lang=\"pl\">PK W</xs:documentation> </xsiannotation> </xs:cnumeration> <xs;enumeration value=\"4,2,2\"> <xs:annotation> <xsidocumentation xmi:lang=\"pl\">LK W</xs:documentation> </xsiannotation> </xs:enumeration> <xs:enumeration valuc=\"4.3\"> <xsiannotation> <xs:documentation xml:lang=\"pl\">Oplaty drogowe za środki transportu dla pasażerów uiszczających opłatę</xs:documentation> </xs;annotation> </xs:enumeration> <xsienumeration value—\"4.4\"> <xsiannotation> <xs; documentation xml:lang=\"pt\">Opłaty drogowe za śradki transportu przejeżdżające przez most nad Wielkim Better</xs:documentation> </xs:annotation> </xs:enumeration> <xsienumeration value=\"4,5\"> <xs:annotation> <xsidocumentation xml:lang most nad ciesning Sund</xs:documentation> </xs:annotation> </xstenumeration> <xscenumeration value=\"4.6\"> <xs:annotation>"
     },
     {
@@ -3405,6 +3569,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "</xs:enumeration= <xsienumeration value=\"6.3\"> <xs:annotation> <xs:documentation xmt:lang=\"pl\">Wydatki na zakwaterowanie podatnika lub osoby zatrudnionej przez podatnika uczestniczącej w konferencjach związanych z prowadzeniem działalności gospodarezej</xs:documentation> </xs:annotation> </xs:enumeration> <xs:enumeration value=\"6.4\"> <xs:annotation> <xs:documentation xml:Jang=\"pl\">W ydatki na zakwaterowanie podatnika lub osoby zatrudnionej przez podatnika w ramach konferencji, targów, wystaw lub kongresow</xs:documentation> <jxs;annotation> <fxsienumeration> <xstenumeration value\" \"6.4.|\"> <xszannotation> <xs;documentation xml:łang=\"pl\">Ponoszone przez organizatora imprezy</xs:documentation> </xs:annotation> </xs:enumeration> <xs:enumeration value=\"6,4.2°> <xs;annotation> <xs:documentation aml:lang=\"pl\">Ponoszone przez uczestnika imprezy, w przypadku gdy opłata pobierana jest bezpośrednio przez organizatora</xs:documentation> </xs:annotation> <fxszehnumeration> <xs:enumeration valuc=\"6.5\"> <xs:annotation> <xs:documentation xml:lang=\"pl\">Wydatki na zakwaterowanie osoby zatrudnionej przez podatnika, dostarczającej towary lub świadczącej ustugi</xs:documentation> </xs:annotation> </xs:enumeration> <xs:etrumetation value—\"6.6\"> <xszannotation> <xs: documentation xml:lang=\"pl\">Wydatki na zakwaterowanie zakupione w celu dalszej odsprzedaży tej usługi</xszdocumentalion> <fxs;annotation:> </xs:enumeration> <xs:enumeration valuc=\"ó.7\"> <xs:annotation> <xs:documentation xnl:lang=\"pl\">Wydatki na zakwaterowanie inne niż wymienione w pkt 6.5 lub 6.6</xs:documentation> </xs:annotation> </xs:enumeration> <xsienumeration valuc=\"7.1\"> <xs:annotation> <xs:documentation xml:lang=\"pl\">Żywność i napoje dostarczane w hotelach, barach. restauracjach. pensjonatach, w tym śniadania</xs:documcntation> <fxs;annotation> </xs:enumeration> <xs:enumeration value -\"7.1.1\"> <xs:annotation> <xs:documentation xml:lang=\"pl\">Na rzecz podatnika lub osoby zatrudnionej przez podatnika</xs:documentation> </xsannotation> </xs:enumeration> <xszenumeration valuc=\"7.1.2\"> <xsiannotation> <xs:documentation xml:lang=\"pl\">Na rzecz osoby niebędącej podatnikiem ani osobą zatrudnioną przez podatnika</xs:documentation> </xsrannotation> </xs:enumeration> <xs:enumeration value=\"7,2\"> <xs:annotation> <xszdocumentation xml:lang=\"pl\">Żywność i napoje dostarczane w ramach konferencji, targów, wyslaw lub kongres6w</xs:documentation> </xszannotation> </xs:enumeration> <xs:enumeration value=\"7.2.1\">"
     },
     {
@@ -3418,6 +3586,10 @@
     {
      "type": "note",
      "text": "[Strona 355 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -3594,6 +3766,10 @@
     {
      "type": "note",
      "text": "[Strona 374 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -3786,6 +3962,10 @@
     {
      "type": "note",
      "text": "[Strona 402 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",

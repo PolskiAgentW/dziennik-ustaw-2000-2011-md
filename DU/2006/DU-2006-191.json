@@ -1,7 +1,7 @@
 {
  "eli": "DU/2006/191",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 2 lutego 2006 r. w sprawie badań do celów sanitarno-epidemiologicznych",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2006/191/text.pdf",
  "body": [
   {
@@ -261,6 +261,10 @@
     },
     {
      "type": "ocr",
+     "text": "imię i nazwisko .........ueu eee aaa eee aaa aaa nett eee eee t ene ee ees"
+    },
+    {
+     "type": "ocr",
      "text": "BADANIA LABORATORYJNE DLA CELÓW EPIDEMIOLOGICZNYCH data badania rodzaj badania wynik"
     },
     {
@@ -270,6 +274,14 @@
     {
      "type": "ocr",
      "text": "TREŚĆ WYDANYCH ORZECZEŃ data wydania a , , treść orzeczenia orzeczenia"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "imię i nazwisko ..........muuu eee ea ee aaa anawa nana aa aaa nania ic DANE Z WYWIADU LEKARSKIEGO | BADANIA PRZEDMIOTOWEGO data badania obserwacje"
     }
    ]
   },

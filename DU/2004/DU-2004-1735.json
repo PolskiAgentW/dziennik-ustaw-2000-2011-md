@@ -1,7 +1,7 @@
 {
  "eli": "DU/2004/1735",
  "title": "Konwencja Nr 16 dotycząca wydawania wielojęzycznych odpisów skróconych aktów stanu cywilnego, sporządzona w Wiedniu dnia 8 września 1976 r.",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/1735/text.pdf",
  "body": [
   {
@@ -906,6 +906,10 @@
   },
   {
    "type": "ocr",
+   "text": "FORMULE A [a ETAT: 2 | SERVICE DE L'ETAT CIVIL DE | 3 | EXTRAIT DE LACTE DE NAISSANCE ne DATE ET LIEU DE NAISSANCE NOM PRENOMS"
+  },
+  {
+   "type": "ocr",
    "text": "DATE DE DELIVRANCE, _*© Mo"
   },
   {
@@ -978,6 +982,10 @@
   },
   {
    "type": "ocr",
+   "text": "FORMULE B U ETAT: 2 | SERVICE DE L'ETAT CIVIL DE B EXTRAIT DE L'ACTE DE MARIAGE no"
+  },
+  {
+   "type": "ocr",
    "text": "NOM AVANT LE MARIAGE PRENOMS: DATE ET LIEU DE NAISSANCE"
   },
   {
@@ -1047,6 +1055,10 @@
   {
    "type": "note",
    "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "ETAT: 2 | SERVICE DE L'ETAT CIVIL DE EXTRAIT DE LACTE DE DECES ne"
   },
   {
    "type": "ocr",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2008/336",
  "title": "Rozporządzenie Ministra Finansów z dnia 28 marca 2008 r. zmieniające rozporządzenie w sprawie struktury logicznej deklaracji i podań, sposobu ich przesyłania oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2008/336/text.pdf",
  "body": [
   {
@@ -592,6 +592,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz."
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:enumeration value=\"1005\"> <xsd:annotation> <xsd:documentation>URZĄD SKARBOWY W KUTNIE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" 1006'> <xsd:annotation> <xsd:documentation>URZĄD SKARBOWY W LASKU</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1007\"> <xsd:annotation> <xsd:documentation>URZAD SKARBOWY W LOWICZU</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1008\"> <xsd:annotation> <xsd:documentation>PIERWSZY URZAD SKARBOWY LODZ- BALUTY</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1009\"> <xsd:annotation> <xsd:documentation>DRUGI URZAD SKARBOWY LODZ-BALUTY</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1010\"> <xsd:annotation> <xsd:documentation>PIERWSZY URZAD SKARBOWY LODZ- GORNA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1011\"> <xsd:annotation> <xsd:documentation>DRUGI URZĄD SKARBOWY LODZ-GORNA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1012\"> <xsd:annotation> <xsd:documentation> URZĄD SKARBOWY LODZ-POLESIE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1013\"> <xsd:annotation> <xsd:documentation> URZĄD SKARBOWY LODZ-SRODMIESCIE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1014\"> <xsd:annotation> <xsd:documentation>URZĄD SKARBOWY ŁÓDŹ-WIDZEW</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1015\"> <xsd:annotation> <xsd:documentation>URZĄD SKARBOWY W OPOCZNIE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1016\"> <xsd:annotation> <xsd:documentation>URZAD SKARBOWY W PABIANICACH</xsd:documentation>"
     },
     {
@@ -645,6 +649,10 @@
     {
      "type": "note",
      "text": "[Strona 56 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz."
     },
     {
      "type": "ocr",

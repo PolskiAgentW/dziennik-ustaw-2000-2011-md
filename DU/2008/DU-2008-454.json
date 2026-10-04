@@ -1,7 +1,7 @@
 {
  "eli": "DU/2008/454",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 30 kwietnia 2008 r. w sprawie kontroli w zakresie przewozu drogowego",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2008/454/text.pdf",
  "body": [
   {
@@ -616,6 +616,14 @@
      "text": "[Na stronie 5 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
     },
     {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "miejsce pochodzenia ładunku : miejsce przeznaczenia ładunku : imię i nazwisko załadowcy: adres załadowcy (odbiorcy):"
+    },
+    {
      "type": "text",
      "text": "Strona 2"
     },
@@ -656,6 +664,14 @@
     {
      "type": "note",
      "text": "[Na stronie 9 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "imię i nazwisko załadowcy: adres załadowcy (odbiorcy): *Wpisać odpowiednio: krajowa (w tym: autostrada), wojewódzka, powiatowa, gminna."
     },
     {
      "type": "text",
@@ -815,6 +831,14 @@
     {
      "type": "ocr",
      "text": "(data i podpis adresata decyzji) >"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Objaśnienia: 0 Zgodnie z wykazem naruszeń w załączniku do ustawy z dnia 6 września 2001 r. o transporcie drogowym. g wy a y Pp gowy 9 Przedsiębiorca /podmiot krajowy uiszcza nałożoną karę pieniężną w terminie 21 dni od dnia jej wymierzenia i przekazuje dowód uiszczenia kary pieniężnej organowi, który ją nałożył (art. 93 ust. 4 ustawy z dnia 6 września 2001 r. o transporcie drogowym). % Niepotrzebne skreślić. ” Dotyczy właściwego organu Policji, Inspekcji Transportu Drogowego, organu celnego, Straży Granicznej, zarządcy dróg, Państwowej Inspekcji Pracy. W przypadku, gdy kierowca jest jednocześnie przedsiębiorcą/podmiotem (adresatem decyzji), otrzymuje Pp J LJ oryginał decyzji za pokwitowaniem odbioru."
     }
    ]
   },

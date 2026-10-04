@@ -1,7 +1,7 @@
 {
  "eli": "DU/2006/1197",
  "title": "Rozporządzenie Ministra Finansów z dnia 11 września 2006 r. w sprawie struktury logicznej deklaracji, sposobu ich przesyłania oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2006/1197/text.pdf",
  "body": [
   {
@@ -314,11 +314,19 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "</xsd:restriction> </xsd:simpleType> </xsd:union> </xsd:simpleType> <xsd:simpleType name=\"TImie\"> <xsd:annotation> <xsd:documentation>Pierwsze imie</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\" 30\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TNazwisko\"> <xsd:annotation> <xsd:documentation>Nazwisko</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\" 40\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TMiejscowosc\"> <xsd:annotation> <xsd:documentation>Typ okreslajacy nazwe miejscowości</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\" 60\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TJednAdmin\"> <xsd:annotation> <xsd:documentation>Typ określający nazwę województwa, nazwę powiatu lub nazwę gminy</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\" 60\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TUlica\"> <xsd:annotation> <xsd:documentation>Nazwa ulicy</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\" 65\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\" TNrBudynku\" > <xsd:annotation> <xsd:documentation>Numer budynku</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:pattern value=\"\\wi 1,4} (/Awt 0,4} )?\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TNrLokalu\"> <xsd:annotation> <xsd:documentation>Numer lokalu</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\" 10\" /> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TKodPocztowy\"> <xsd:annotation> <xsd:documentation>Kod pocztowy</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"8\" /> </xsd:restriction>"
     },
     {
      "type": "note",
      "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -474,11 +482,19 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "</xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> </xsd:element> </xsd:sequence> <xsd:sequence> <xsd:element name=\"AdresZagr\"> <xsd:complexType> <xsd:sequence> <xsd:element name=\"KodKraju\"> <xsd:annotation> <xsd:documentation>Kraj</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TKodKraju\"> <xsd:pattern value=\" P[ A-KM-2]\" /> <xsd:pattern value=\"[ A-OR-Z][A-2]\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"KodPocztowy\" type=\"TKodPocztowy\"> <xsd:annotation> <xsd:documentation>Kod pocztowy</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Miejscowosc\" type=\"TMiejscowosc\"> <xsd:annotation> <xsd:documentation>Nazwa miejscowości</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Ulica\" type=\"TUlica\" minOccurs=\" (\"> <xsd:annotation> <xsd:documentation>Nazwa ulicy</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NrDomu\" type=\" TNrBudynku\" minOccurs=\" 0\"> <xsd:annotation> <xsd:documentation>Numer budynku</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NrLokalu\" type=\"TNrLokalu\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Numer lokalu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Pietro\" type=\"TNrLokalu\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Piętro</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NazwaRegionu\" type=\"TMiejscowosc\" minOccurs=\" 0\"> <xsd:annotation> <xsd:documentation>Nazwa regionu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"SkrzynkaPocztowa\" type=\" TNrLokalu\" minOccurs=\" 0\"> <xsd:annotation> <xsd:documentation>Skrzynka Pocztowa</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:choice> </xsd:complexType>"
     },
     {
      "type": "note",
      "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -498,11 +514,19 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "</xsd:complexType> <xsd:complexType name=\" TOsobaFizyczna'> <xsd:annotation> <xsd:documentation>Podstawowy zestaw danych o osobie fizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"OsobaFizyczna\" type=\" TIdentyfikatorOsobyFizycznej\" /> <xsd:element name=\"AdresZamieszkania\"> <xsd:complexType> <xsd:complexContent> <xsd:extension base=\"TAdres\"> <xsd:attribute name=\"rodzajAdresu\" type=\" xsd:strinqg\" use=\" required\" fixed=\" RAD\" /> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:complexType name=\"TOsobaNiefizyczna\"> <xsd:annotation> <xsd:documentation>Podstawowy zestaw danych o osobie niefizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"OsobaNiefizyczna\" types\" TIdentyfikatorOsobyNiefizycznej\" /> <xsd:element name=\"AdresSiedziby\"> <xsd:complexType> <xsd:complexContent> <xsd:extension base=\"TAdres\"> <xsd:attribute name=\"rodzajAdresu\" type=\"xsd:string\" use=\" required\" fixed=\"RAD\" /> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> </xsd: sequence> </xsd:complexType> <xsd:complexType name=\" TPodmiotDowolny\"> <xsd:annotation> <xsd:documentation>Podstawowy zestaw danych o osobie fizycznej lub niefizycznej</xsd:documentation> </xsd:annotation> <xsd:complexContent> <xsd:extension base=\"TPodmiotDowolnyBezAdresu\"> <xsd:sequence> <xsd:element name=\"AdresZamieszkaniaSiedziby\"> <xsd:complexType> <xsd:complexContent> <xsd:extension base=\"TAdres\"> <xsd:attribute name=\"rodzajAdresu\" type=\" xsd:string\" use=\" required\" fixed=\" RAD\" /> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:extension> </xsd:complexContent> </xsd:complexType> <xsd:complexType name=\"TOsobaFizycznaPelna\"> <xsd:annotation> <xsd:documentation>Petny zestaw danych o osobie fizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence>"
     },
     {
      "type": "note",
      "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -738,6 +762,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:documentation>Dania</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" DM'> <xsd:annotation> <xsd:documentation>Dominika</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" DO\"> <xsd:annotation> <xsd:documentation>Republika Dominikańska</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" DZz\"> <xsd:annotation> <xsd:documentation>Algieria</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" EC\"> <xsd:annotation> <xsd:documentation>Ekwador</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"EE\"> <xsd:annotation> <xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"EG\"> <xsd:annotation> <xsd:documentation>Egipt</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"EH\"> <xsd:annotation> <xsd:documentation>Sahara Zachodnia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"ER\"> <xsd:annotation> <xsd:documentation>Erytrea</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"ES\"> <xsd:annotation> <xsd:documentation>Hiszpania</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"ET\"> <xsd:annotation> <xsd:documentation>Etiopia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"FI\"> <xsd:annotation> <xsd:documentation>Finlandia</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"FJ\"> <xsd:annotation> <xsd:documentation>Fidżi</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" FK\"> <xsd:annotation> <xsd:documentation>Falklandy (Malwiny)</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\" FM'>"
     },
     {
@@ -759,6 +787,10 @@
     {
      "type": "note",
      "text": "[Strona 19 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -1585,11 +1617,19 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "</xsd:element> <xsd:element name=\"P _ 36\" type=\" TKwotaCNieujemna\"> <xsd:annotation> <xsd:documentation>Należne zaliczki - Należności za pracę przypadające tymczasowo aresztowanym lub skazanym</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> <xsd:sequence minOccurs=\"0\"> <xsd:element name=\"P 37\" type=\" TNaturalny\"> <xsd:annotation> <xsd:documentation>Liczba podatników - Świadczenia wypłacone z Funduszu Pracy oraz z Funduszu Gwarantowanych Świadczeń Pracowniczych</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_368\" type=\"TKwota2Nieujemna\"> <xsd:annotation> <xsd:documentation>Suma wypłat - Świadczenia wypłacone z Funduszu Pracy oraz z Funduszu Gwarantowanych Świadczeń Pracowniczych</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_ 39\" type=\" TKwotaCNieujemna\"> <xsd:annotation> <xsd:documentation>Nalezne zaliczki - Świadczenia wypłacone z Funduszu Pracy oraz z Funduszu Gwarantowanych Świadczeń Pracowniczych </xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> <xsd:sequence minOccurs=\"0\"> <xsd:element name=\"P _ 40\" type=\" TNaturalny\"> <xsd:annotation> <xsd:documentation>Liczba podatników - Inne przychody</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_41\" type=\" TKwota2Nieujemna\"> <xsd:annotation> <xsd:documentation>Suma wypłat - Inne przychody</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_ 42\" type=\" TKwotaCNieujemna\"> <xsd:annotation> <xsd:documentation>Należne zaliczki - Inne przychody</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> <xsd:element name=\"P_43\" type=\" TKwotaCNieujemna\"> <xsd:annotation> <xsd:documentation>Należne zaliczki - RAZEM</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_ 44\" type=\" TKwotaCNieujemna\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Kwota zaliczek, których pobór został ograniczony na podstawie art.32 ust.2 ustawy</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_45\" type=\" TKwotaCNieujemna\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Kwota przypadająca do pobrania w związku z ograniczeniem poboru zaliczek w poprzednich miesiącach, dokonanym na podstawie art.32 ust.2 ustawy</xsd:documentation> </xsd:annotation> </xsd:element>"
     },
     {
      "type": "note",
      "text": "[Strona 41 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -1619,6 +1659,10 @@
     {
      "type": "note",
      "text": "[Strona 44 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",

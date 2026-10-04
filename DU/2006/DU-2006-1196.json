@@ -1,7 +1,7 @@
 {
  "eli": "DU/2006/1196",
  "title": "Rozporządzenie Ministra Finansów z dnia 11 września 2006 r. w sprawie trybu składania oraz struktury logicznej zgłoszenia upoważnienia podatnika lub osoby upoważnionej przez podatnika do składania deklaracji w formie elektronicznej i podpisywania deklaracji podpisem elektronicznym",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2006/1196/text.pdf",
  "body": [
   {
@@ -194,6 +194,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "</xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"Faks\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\" 40\" /> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\" Email\" type=\"TAdresEmail\" minOccurs=\" 0\" /> </xsd:sequence> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> <xsd:element name=\"Podmiot2\"> <xsd:annotation> <xsd:documentation>Dane osoby fizycznej upoważnionej do podpisywania deklaracji</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:complexContent> <xsd:extension base=\"TOsobaFizyczna\"> <xsd:sequence> <xsd:element name=\"Kontakt\" minOccurs=\"0\"> <xsd:complexType> <xsd:sequence> <xsd:element name=\"Telefon\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\" 40\" /> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"Faks\" minOccurs=\"0\"> <xsd:simpleType> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\" 40\" /> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"Email\" type=\"TAdresEmail\" minOccurs=\" 0\" /> </xsd:sequence> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> <xsd:element name=\"ZakresTerminuUprawnien\" > <xsd:annotation> <xsd:documentation>Zakres terminu uprawnien do podpisu deklaracji</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd: sequence> <xsd:element name=\"WaznyOd\" type=\" TData\" /> <xsd:element name=\"WaznyDo\" type=\"TData™ minOccurs=\" 0\" />"
     },
     {
@@ -303,6 +307,10 @@
     {
      "type": "note",
      "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -439,6 +447,10 @@
     {
      "type": "note",
      "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -731,6 +743,10 @@
     {
      "type": "note",
      "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -1135,6 +1151,10 @@
     {
      "type": "note",
      "text": "[Strona 32 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",

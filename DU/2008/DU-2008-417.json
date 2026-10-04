@@ -1,7 +1,7 @@
 {
  "eli": "DU/2008/417",
  "title": "Rozporządzenie Ministra Finansów z dnia 22 kwietnia 2008 r. zmieniające rozporządzenie w sprawie trybu składania oraz struktury logicznej zgłoszenia upoważnienia podatnika lub osoby upoważnionej przez podatnika do składania deklaracji w formie elektronicznej i podpisywania deklaracji podpisem elektronicznym",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2008/417/text.pdf",
  "body": [
   {
@@ -118,6 +118,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:element name=\"Miejscowosc\" tvpe=\" TMiejscowosc\"> <xsd:annotation> <xsd:documentation>Nazwa miejscowości [City]</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Ulica\" type=\"TUlica\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Nazwa ulicy [Street]</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NrDomu\" type=\"TNrBudynku\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Numer budynku [Building number|</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NrLokalu\" type=\"TNrLokalu\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Numer lokalu [Flat number]</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> <!--Identyfikatory--> <xsd:complexType name=\"TIdentyfikatorOsobyFizycznej\"> <xsd:annotation> <xsd:documentation>Podstawowy zestaw danych identyfikacyjnych o osobie fizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"NIP\" type=\"TNrNIP\"> <xsd:annotation> <xsd:documentation>Numer Identyfikacji Podatkowej (NIP) </xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"ImiePierwsze\" type=\"TImie\"> <xsd:annotation> <xsd:documentation>Pierwsze imie</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Nazwisko\" type=\"TNazwisko\"> <xsd:annotation> <xsd:documentation>Nazwisko</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"DataUrodzenia\" type=\"TData\"> <xsd:annotation> <xsd:documentation>Data urodzenia</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"PESEL\" type=\"TNrPESEL\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Numer PESEL</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:complexType name=\"TIdentyfikatorOsobyFizycznejPelny\"> <xsd:annotation> <xsd:documentation>Pełny zestaw danych identyfikacyjnych o osobie fizycznej</xsd:documentation>"
     },
     {
@@ -150,11 +154,19 @@
     },
     {
      "type": "ocr",
+     "text": "Poz."
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:complexType name=\"TOsobaFizyczna\"> <xsd:annotation> <xsd:documentation>Podstawowy zestaw danych o osobie fizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"OsobaFizyczna\" type=\" TldentyfikatorOsobyFizycznej\"/> <xsd:element name=\"AdresZamieszkania\"> <xsd:complexType> <xsd:complexContent> <xsd:extension base=\"TAdres\"> <xsd:attribute name=\"rodzajAdresu\" type=\"xsd:string\" use=\"required\" fixed=\"RAD\"/> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:complexT ype> <xsd:complexType name=\"TOsobaNiefizyczna\"> <xsd:annotation> . <xsd:documentation>Podstawowy zestaw danych o osobie niefizycznej</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"OsobaNiefizyczna\" type=\"TidentyfikatorOsobyNiefizycznej\"/> <xsd:element name=\"AdresSiedziby\"> <xsd:complexType> <xsd:complexContent> <xsd:extension base=\"TAdres\"> <xsd:attribute name=\"rodzajAdresu\" type=\"xsd:string\" use=\"required\" fixed=\"RAD\"/> </xsd:extension> </xsd:complexContent> /xsd:complexType> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:complexType name=\"TPodmiotDowolny\"> <xsd:annotation> <xsd:documentation>Podstawowy zestaw danych o osobie fizycznej lub niefizycznej</xsd:documentation> </xsd:annotation> <xsd:complexContent> <xsd:extension base=\"TPodmiotDowolnyBezAdresu\"> <xsd:sequence> <xsd:element name=\"AdresZamieszkaniaSiedziby\"> <xsd:complexType> <xsd:complexContent> <xsd:extension base=\"TAdres\"> <xsd:attribute name=\"rodzajAdresu\" type=\"xsd:string\" use=\"required\" fixed=\"RAD\"/> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:extension> </xsd:complexContent> </xsd:complexT ype> <!--Dane pełne z adresem (NIP opcjonalny)--> <xsd:complexType name=\"TOsobaFizycznaPelna'>"
     },
     {
      "type": "note",
      "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz."
     },
     {
      "type": "ocr",
@@ -414,6 +426,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz."
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:documentation>URZAD SKARBOWY W GLOWNIE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1005\"> <xsd:annotation> <xsd:documentation>URZAD SKARBOWY W KUTNIE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1006\"> <xsd:annotation> <xsd:documentation>URZAD SKARBOWY W LASKU</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1007\"> <xsd:annotation> <xsd:documentation>URZAD SKARBOWY W LOWICZU</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1008\"> <xsd:annotation> <xsd:documentation>PIERWSZY URZĄD SKARBOWY ŁÓDŹ- BAŁUTY</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1009\"> <xsd:annotation> <xsd:documentation>DRUGI URZĄD SKARBOWY ŁÓDŹ- BAŁUTY </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1010\"> <xsd:annotation> <xsd:documentation>PIERWSZY URZĄD SKARBOWY ŁÓDŹ- GORNA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1011\"> <xsd:annotation> <xsd:documentation>DRUGI URZAD SKARBOWY LODZ- GORNA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1012\"> <xsd:annotation> <xsd:documentation>URZĄD SKARBOWY ŁÓDŹ-POLESIE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1013\"> <xsd:annotation> <xsd:documentation> URZĄD SKARBOWY ŁÓDŹ- ŚRÓDMIEŚCIE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1014\"> <xsd:annotation> <xsd:documentation> URZĄD SKARBOWY LODZ-WIDZEW</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1015\"> <xsd:annotation>"
     },
     {
@@ -542,6 +558,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz."
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:annotation> <xsd:documentation> URZĄD SKARBOWY W WEJHEROWIE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"2221\"> <xsd:annotation> <xsd:documentation>URZĄD SKARBOWY W PRUSZCZU GDANSKIM</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"2271\"> <xsd:annotation> <xsd:documentation>POMORSKI URZAD SKARBOWY W GDANSKU</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"2402\"> <xsd:annotation> <xsd:documentation>URZAD SKARBOWY W BEDZINIE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"2403\"> <xsd:annotation> <xsd:documentation>PIERWSZY URZAD SKARBOWY W BIELSKU- BIAŁEJ</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"2404\"> <xsd:annotation> <xsd:documentation>DRUGI URZĄD SKARBOWY W BIELSKU- BIAŁEJ </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"2405\"> <xsd:annotation> <xsd:documentation> URZĄD SKARBOWY W BYTOMIU</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"2406\"> <xsd:annotation> _ <xsd:documentation>URZAD SKARBOWY W CHORZOWIE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"2407\"> <xsd:annotation> <xsd:documentation>URZAD SKARBOWY W CIESZYNIE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"2408\"> <xsd:annotation> <xsd:documentation>URZAD SKARBOWY W CZECHOWICACH- DZIEDZICACH</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"2409\"> <xsd:annotation> <xsd:documentation>PIERWSZY URZAD SKARBOWY W CZESTOCHOWIE</xsd:documentation> </xsd:annotation> </xsd:enumeration>"
     },
     {
@@ -635,6 +655,10 @@
     {
      "type": "note",
      "text": "[Strona 74 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",

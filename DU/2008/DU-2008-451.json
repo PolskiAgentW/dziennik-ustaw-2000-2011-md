@@ -1,7 +1,7 @@
 {
  "eli": "DU/2008/451",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 25 kwietnia 2008 r. w sprawie wymagań technicznych dokumentów elektronicznych zawierających akty normatywne i inne akty prawne, elektronicznej formy dzienników urzędowych oraz środków komunikacji elektronicznej i informatycznych danych",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2008/451/text.pdf",
  "body": [
   {
@@ -1673,6 +1673,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz."
+    },
+    {
+     "type": "ocr",
      "text": "Model Model mieszany — zawartość tekstowa, w której mogą wystąpić podelementy: zawartości - <nl>: przedstawiające łamanie linii, - <sup>: obudowujące tekst w indeksie górnym, - <definicja>: obudowujące tekst definicji, - <obraz>: obraz w bieżącym rozumieniu umożliwia włączenie do tekstu ustawy elementu zewnętrznego (wykresu, obrazka, tabeli z zewnętrznego dokumentu) jako załącznika, - <przypis>: przedstawiający odwołanie do przypisu końcowego o danym numerze, - <dodaj>, <uchyl> i <zastap> — znaczniki nowelizacyjne. Atrybuty: - obowiazuje-od: - opcjonalny - podawany tylko wówczas, gdy dany element wchodzi w życie z datą inną niż data wydania aktu prawnego; - obowiazuje-do: - opcjonalny - podawany tylko wówczas, gdy dany element obowiązuje tylko do określonego momentu."
     },
     {
@@ -2689,6 +2693,10 @@
     },
     {
      "type": "ocr",
+     "text": "Po elemencie"
+    },
+    {
+     "type": "ocr",
      "text": "Diagram"
     },
     {
@@ -2770,6 +2778,10 @@
     {
      "type": "note",
      "text": "[Strona 55 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Tekst"
     },
     {
      "type": "ocr",

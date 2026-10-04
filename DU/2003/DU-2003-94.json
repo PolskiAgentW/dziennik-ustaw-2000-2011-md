@@ -1,7 +1,7 @@
 {
  "eli": "DU/2003/94",
  "title": "Rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 20 grudnia 2002 r. w sprawie wzoru formularzy składanych w postępowaniu o uznanie kwalifikacji do wykonywania zawodów regulowanych",
- "converter": "eli2md 0.6.17",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/94/text.pdf",
  "body": [
   {
@@ -177,6 +177,10 @@
     },
     {
      "type": "ocr",
+     "text": "Iv. Dane o zakazie wykonywania zawodu | Czy kiedykolwiek miał/a Pan/Pani zakaz wykonywania zawodu"
+    },
+    {
+     "type": "ocr",
      "text": "| | | Czy kiedykolwiek zawieszono Panu/Pani prawo wykonywania zawodu TAK NIE*"
     },
     {
@@ -186,6 +190,10 @@
     {
      "type": "note",
      "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Vv. informacja o zaświadczeniu lekarskim uprawniającym do wykonywania danego zawodu"
     },
     {
      "type": "ocr",

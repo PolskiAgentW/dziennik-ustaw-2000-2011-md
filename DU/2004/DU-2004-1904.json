@@ -1,7 +1,7 @@
 {
  "eli": "DU/2004/1904",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 3 sierpnia 2004 r. w sprawie szczegółowego trybu wydawania dyplomów, świadectw, książeczek nurka i dziennika prac podwodnych oraz wzorów tych dokumentów",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/1904/text.pdf",
  "body": [
   {
@@ -955,6 +955,14 @@
     {
      "type": "ocr",
      "text": "VOG6L “20d"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Wykonane prace podwodne wdniu ................---::211---212- 200.. r. Godzina Wykonane czynności i prace podwodne"
     },
     {
      "type": "text",

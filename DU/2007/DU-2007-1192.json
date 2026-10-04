@@ -1,7 +1,7 @@
 {
  "eli": "DU/2007/1192",
  "title": "Rozporządzenie Ministra Finansów z dnia 3 września 2007 r. zmieniające rozporządzenie w sprawie struktury logicznej deklaracji i podań, sposobu ich przesyłania oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2007/1192/text.pdf",
  "body": [
   {
@@ -904,6 +904,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "</xsd:element> <xsd:element name=\"Podmiotl\"> <xsd:complexType> <xsd: complexContent> <xsd:extension base=\"TPodmiotDowolny\"> <xsd:attribute name=\"rola\" type=\"xsd:string\" use=\"required\" fixed=\"Składającylnformację\"/> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> <xsd:element name=\"Podmiot2\"> <xsd:complexType> <xsd:sequence> <xsd:annotation> <xsd:documentation>Dane nierezydenta Swiadczacego ustugi (wykonującego pracę)</xsd:documentation> </xsd:annotation> <xsd:element name=\"OsobaFizyczna\"> <xsd:annotation> <xsd:documentation>Numer Identyfikacji Podatkowej</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:complexContent> <xsd:extension base=\"TIdentyfikatorOsobyFizycznej\"> <xsd:sequence minOccurs=\"0\"> <xsd:element name=\"ImieOjca\" type=\"TImie\"> <xsd:annotation> <xsd:documentation>Imie ojca</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"ImieMatki\" type=\"TImie\"> <xsd:annotation> <xsd:documentation>Imie matki</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> <xsd:element name=\"AdresPobytuNaTerytoriumRP\"> <xsd:annotation> <xsd:documentation/> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"KodKraju\" type=\"TKodkKraju\" fixed=\"PL\"> <xsd:annotation> <xsd:documentation>Kraj</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Wojewodztwo\" type=\"TJednAdmin\"> <xsd:annotation>"
     },
     {
@@ -1269,6 +1273,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz"
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:complexType> <xsd:simpleContent> <xsd:extension base=\"xsd:string\"> <xsd:attribute name=\"kodSystemowy\" type=\"xsd:string\" use=\"required\" fixed=\"CIT-D (2)\"/> </xsd:extension> </xsd:simpleContent> </xsd:complexType> </xsd:element> <xsd:element name=\"WariantFormularza\" type=\"xsd:byte\" fixed=\"2\"/> <xsd:element name=\"OkresOd\"> <xsd:complexType> <xsd:simpleContent> <xsd:extension base=\"TLData0d3\"> <xsd:attribute name=\"poz\" type=\"xsd:string\" use=\"required\" fixed=\"P_4\"/> </xsd:extension> </xsd:simpleContent> </xsd:complexType> </xsd:element> <xsd:element name=\"OkresDo\"> <xsd:complexType> <xsd:simpleContent> <xsd:extension base=\"TLDataDo3\"> <xsd:attribute name=\"poz\" type=\"xsd:string\" use=\"required\" fixed=\"P_5\"/> </xsd:extension> </xsd:simpleContent> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:simpleType name=\"TLData0d3\"> <xsd:annotation> <xsd:documentation>Ograniczenie dla daty od</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:date\"> <xsd:minInclusive value=\"2004-01-01\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TLDataDo3\"> <xsd:annotation> <xsd:documentation>Ograniczenie dla daty do</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:date\"> <xsd:minInclusive value=\"2006-01-01\"/> </xsd:restriction> </xsd:simpleType> <xsd:element name=\"Zalacznik CIT-D\"> <xsd:annotation> <xsd:documentation>INFORMACJA PODATNIKA PODATKU DOCHODOWEGO OD OSÓB PRAWNYCH © OTRZYMANYCH/PRZEKAZANYCH DAROWIZNACH </xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"Naglowek\" type=\"TNaglowek CIT-D\"/> <xsd:element name=\"PozycjeSzczegolowe\"> <xsd:annotation> <xsd:documentation>Informacja o otrzymanych darowiznach, informacja podatnika (darczyńcy) korzystającego z odliczenia o przekazanych darowiznach</xsd:documentation>"
     },
     {
@@ -1354,6 +1362,10 @@
     {
      "type": "note",
      "text": "[Strona 38 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -1574,6 +1586,10 @@
     {
      "type": "note",
      "text": "[Strona 40 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",

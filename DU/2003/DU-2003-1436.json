@@ -1,7 +1,7 @@
 {
  "eli": "DU/2003/1436",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 5 sierpnia 2003 r. w sprawie wzoru formularza wniosku o udzielenie zezwolenia na osiedlenie się oraz fotografii dołączanych do wniosku",
- "converter": "eli2md 0.6.17",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/1436/text.pdf",
  "body": [
   {
@@ -406,6 +406,10 @@
     },
     {
      "type": "ocr",
+     "text": "F. ADNOTACJE URZĘDOWE / OFFICIAL NOTES / ANNOTATIONS DE L'OFFICE (wypełnia organ przyjmujący wniosek) / (completed by the authority reviewing the application) / (4 remplir par I'organe qui regoit la emande) Opinia organu przyjmującego wniosek / Opinion of the authority accepting the application / L'opinion de I organe qui recoit la demande:"
+    },
+    {
+     "type": "ocr",
      "text": "Data, imię, nazwisko, stanowisko służbowe i podpis osoby przyjmującej wniosek / Date, name, / / surname, position and signature of the individual accepting the application / Date, nom, prénom, fonction et rok / year / année miesiąc / month / mois dzień / signature de la personne qui recoit la demande: day / jour (podpis) / (signature) / (signature)"
     },
     {
@@ -479,6 +483,10 @@
     {
      "type": "note",
      "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "H. WZÓR PODPISU SIGNATURE SPECIMEN / MODELE DE LA SIGNATURE"
     },
     {
      "type": "ocr",

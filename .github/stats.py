@@ -8,7 +8,7 @@ rows = list(csv.DictReader(open("index.csv", encoding="utf-8")))
 ok = [r for r in rows if r["status"] == "ok"]
 years = sorted({r["year"] for r in rows})
 lines = [f"Stan na {dt.datetime.now(dt.timezone.utc):%Y-%m-%d %H:%M} UTC "
-         f"(liczone z `index.csv`, aktualizowane automatycznie).", "",
+         f"(liczone z `index.csv`).", "",
          "| rok | aktów w indeksie | przekonwertowanych | błędów |", "|---|---:|---:|---:|"]
 for y in years:
     ry = [r for r in rows if r["year"] == y]

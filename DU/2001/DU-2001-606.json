@@ -1,7 +1,7 @@
 {
  "eli": "DU/2001/606",
  "title": "Oświadczenie rządowe z dnia 31 stycznia 2001 r. w sprawie mocy obowiązującej Decyzji Wspólnego Komitetu RP-EFTA Nr 7 z 1999 r., przyjętej w dniu 23 listopada 1999 r. w Genewie, wprowadzającej zmiany w Protokole B dotyczącym definicji pojęcia \"produkty pochodzące\" i metod współpracy administracyjnej.",
- "converter": "eli2md 0.6.17",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2001/606/text.pdf",
  "body": [
   {
@@ -384,7 +384,16 @@
      "num": "5",
      "path": "ust_5",
      "text": "The Secretary-General of the European Free Trade Association shall deposit the text of this Decision with the Depositary.",
-     "children": []
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "IN WITNESS WHEREOF the undersigned plenipotentiaries have signed this Joint Committee Decision. DONE at Geneva, this 23 Day of November 1999."
+      }
+     ]
     }
    ]
   }

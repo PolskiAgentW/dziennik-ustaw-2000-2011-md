@@ -1,7 +1,7 @@
 {
  "eli": "DU/2008/488",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 29 kwietnia 2008 r. zmieniające rozporządzenie w sprawie szczegółowego trybu wydawania dyplomów, świadectw, książeczek nurka i dziennika prac podwodnych oraz wzorów tych dokumentów",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2008/488/text.pdf",
  "body": [
   {
@@ -590,11 +590,19 @@
     },
     {
      "type": "ocr",
+     "text": "DZIENNIK PRAC PODWODNYCH (nazwa i adres organizatora prac podwodnych (przedsiębiorcy))"
+    },
+    {
+     "type": "ocr",
      "text": "Numer dziennika prac podwodnych: (miejsce i data dokonania rejestracji dziennika, pieczęć organu rejestrującego oraz podpis upoważnionej osoby)"
     },
     {
      "type": "note",
      "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "TELEFONY ALARMOWE W przypadku wystąpienia u nurka objawów choroby dekompresyjnej lub wypadku natychmiast zawiadomić: lekarza:"
     },
     {
      "type": "ocr",
@@ -655,6 +663,10 @@
     {
      "type": "note",
      "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Wykonane prace podwodne w dniu .......---..--...---s:ss::ee---s> 20 r. Godzina* Wykonane czynności i prace podwodne"
     },
     {
      "type": "ocr",

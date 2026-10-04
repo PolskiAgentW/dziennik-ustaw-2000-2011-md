@@ -1,7 +1,7 @@
 {
  "eli": "DU/2008/794",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 19 czerwca 2008 r. w sprawie opłat za lokale mieszkalne zarządzane przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2008/794/text.pdf",
  "body": [
   {
@@ -436,6 +436,14 @@
     {
      "type": "note",
      "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "1 2 f podatek od nieruchomości i opłaty za trwały zarząd g opłaty za antenę zbiorczą lub telewizję kablową h opłaty z tytułu legalizacji przyrządów pomiarowych i opłaty za użytkowanie dźwigu j koszty konserwacji urządzeń domofonowych 2 Miesięczny koszt utrzymania 1 m” powierzchni użytkowej lokali mieszkalnych (Ip. 1: powierzchnię użytkową lokali mieszkalnych : liczbę miesięcy) 3 Miesięczna stawka odpisu na fundusz remontowy (zł/1 m? powierzchni użytkowej) 4 Łączny miesięczny koszt utrzymania 1 m” powierzchni użytkowej lokali mieszkalnych (lp. 2 + Ip. 3) 5 3 % wartości odtworzeniowej 1 m” powierzchni użytkowej, o której mowa w art. 47 ust. 1 pkt 3 ustawy, w skali miesiąca 6 Opłata miesięczna za używanie | m” powierzchni użytkowej lokalu mieszkalnego a dotychczasowa obowiązującaod __do__ b opłata obowiązująca od |"
     }
    ]
   },

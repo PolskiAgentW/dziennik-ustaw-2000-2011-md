@@ -1,7 +1,7 @@
 {
  "eli": "DU/2009/10",
  "title": "Rozporządzenie Ministra Finansów z dnia 31 grudnia 2008 r. w sprawie struktury logicznej zgłoszeń, sposobu ich przesyłania oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2009/10/text.pdf",
  "body": [
   {
@@ -202,11 +202,19 @@
     },
     {
      "type": "ocr",
+     "text": "Poz."
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:annotation> <xsd:documentation>Liczby naturalne</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:nonNegativelnteger\"> <xsd:whiteSpace valne=\"collapse\"/> <xsd:totalDigits value=\"14\"/> <fxsdzrestriction> </xsd:simpleType> <xsd:simpleType name=\"TRzeczywisty\"> <xsd:annotation> <xsd:documentation>Liczby wykazywane z dokładnością do dwóch miejsc po przecinku</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TK wota2\"> <xsd:minInclusive value=\"0\"/> </xsd:restriction> </xsd:simpleType> <xsdisimpleType name=\"TKwota2\"> <xsd:annotation> <xsd:documentation>Wartość kwotowa wykazana w zł i gr</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:decimal\"> <xsd:totalDigits value=\"16'/> <xsd:whiteSpace value=\"collapse\"/> <xsd:fractionDigits value=\"2\"/> </xsd-restriction> </xsd:simpleType> <xsd:simpleType name=\"TKwotaC\"> <xsd:annotation> <xsd:documentation> Wartość kwotowa wykazana w zi</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:decimal\"> <xsd:totalDigits value=\"14\"/> <xsd:fractionDigits value=\"0\"/> <xsd:whiteSpace value=\"collapse\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TK wota2Nieujemna\"> <xsd:annotation> <xsd:documentation> Wartosé kwotowa nieujemna wykazana w zł i gr</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TKwota2\"> <xsd:minInclusive value=\"0\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TK wotaCNieujemna\"> <xsd:annotation> <xsd:documentation> Wartosé kwotowa nieujemna wykazana w zi</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TKwotaC\"> <xsd:minInclusive value=\"0\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TData\" id=\"TData\"> <xsd:annotation> <xsd:documentation>Typ daty</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:date\"> <xsd:minInclusive value=\"1900-01-01\"/> <xsd:whiteSpace value=\"collapse\"/> </xsd:restrichion> </xsd:simpleType> <xsd:simpleType name=\"TDataCzas\" id=\"TDataCzas\"> <xsd:annotation>"
     },
     {
      "type": "note",
      "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz."
     },
     {
      "type": "ocr",
@@ -218,11 +226,19 @@
     },
     {
      "type": "ocr",
+     "text": "Poz."
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"\\d {9}\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"\\d {14} \"/> </xsd-restriction> </xsd:simpleType> </xsd:union> <fxsd:simpleType> <xsd:simpleType name=\"TNrAKC\"> <xsd:annotation> <xsd:docurnentation>Numer akcyzowy</xsd:documentation> </xsd:annotation> <xsdzrestriction base=\"xsd:string\"> <xsd:pattern value=\"[A-Z]{2}\\d {11} \"> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TNrKRS\"> <xsd:annotation> <xsd:documentation>Numer Krajowego Rejestru Sądowego</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:strinp\"> <xsd:pattern value=\"\\d{10}\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"T NridentyfikacjiP odatkowej\"> <xsd:annotation> <xsd:documentation>Numer służący identyfikacji dla celów podatkowych </xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:string\"> <xsd:whiteSpace vahie=\"replace\"/> <xsd:minLength value=\"1\"/> <xsd:maxLength value=\"30\"/> </xsd:restriction> </xsd:simpleT ype> <xsd:simpleType name=\"TNrDokumentuStwierdzajacegoTozsamosc\"> <xsd:annotation> <xsd:documentation>Numer dokumentu stwierdzającego tożsamość</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:string\"> <xsd:minLength value=\"1\"/> <xsd:maxLength value=\"50\"/> <xsd:whiteSpace value=\"replace\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"Timie\"> <xsd:annotation> <xsd:documentation>Pierwsze imie</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"30\"/> </xsd:restriction> </xsd:simpleT ype> <xsd:simpleType name=\"TNazwisko\"> <xsd:annotation> <xsd:documentation>Nazwisko</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength valne=\"81\"/> </xsd:restriction> </xsd:simpleT ype> <xsd:simpieType name=\"TMiejscowosc\">"
     },
     {
      "type": "note",
      "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz."
     },
     {
      "type": "ocr",
@@ -302,11 +318,19 @@
     },
     {
      "type": "ocr",
+     "text": "Poz."
+    },
+    {
+     "type": "ocr",
      "text": "</xsd:choice> <xsd:element name=\"AdresZamieszkaniaSiedziby\"> <xsd:complexType> <xsd:complexContent> <xsd:extension base=\"TAdres\"> <xsd:attribute name=\"rodzajAdresu\" type=\"xsd:string\" nse=\"required\" fixed=\"RAD\"/> </xsd:extension> </xsd:complexContent> </xsd:complexType> </xsd:element> </xsd:sequence> </xsd:complexT ype> </xsd:schema>"
     },
     {
      "type": "note",
      "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -371,6 +395,10 @@
     {
      "type": "note",
      "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz."
     },
     {
      "type": "ocr",
@@ -462,6 +490,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz."
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:enumeration value=\"RW\"> <xsd:annotation> <xsd:documentation>RW ANDA </xsd:documentation> <fxsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"EH\"> <xsd:annotation> <xsd:documentation>SAHARA ZACHODNIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"BL\"> <xsd:annotation> <xsd:documentation>SAINT BARTHELEMY </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"KN\"> <xsd:annotation> <xsd:documentation>SAINT KITTS I NEVIS</xsd:documentation> <jxsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"LC\"> <xsd:annotation> <xsd:documentation>SAINT LUCIA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration valuc=\"MF\"> <xsd:annotation> <xsd:documentation>SAINT MARTIN</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"vC\"> <xsd:annotation> <xsd:documentation>SAINT VINCENT I GRENADYNY </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration vałuc=\"SV\"> <xsd:annotation> <xsd:documentation>SALWADOR</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"WS\"> <xsd:annotation> <xsd:documentation>SAMOA</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"A8\"> <xsd:annotation> <xsd:documentation>SAMOA AMER YKANSKIE</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"SM\"> <xsd:annotation> <xsd:documentation>SAN MARINO</xsd:documentation> </xsd:annotation> <fxsd:enumeration> <xsd:enumeration value=\"SN\"> <xsd:annotation> <xsd:documentation>SENEGAL</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"RS\"> <xsd:annotation> <xsd:documentation>SERBIA</xsd:documentation> </xsd:annotation>"
     },
     {
@@ -475,6 +507,10 @@
     {
      "type": "note",
      "text": "[Strona 32 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",
@@ -503,6 +539,10 @@
     {
      "type": "note",
      "text": "[Strona 35 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "] — Poz. 10"
     },
     {
      "type": "ocr",
@@ -945,6 +985,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz."
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:documentation>Poprzednio właściwy naczelnik urzędu skarbowego</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> <fxsd:sequence> </xsd:complexType> <xsd:simpleType name=\"TKodFormularza\"> <xsd:annotation> <xsd:documentation>Symbol wzoru formularza</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"NIP-3\"/> </xsd:restnction> </xsd:isimpleType> <xsd:complexType name=\"TOsobaFiz\"> <xsd:annotation> <xsd:documentation>Pełne dane identyfikacyjne osoby fizycznej</xsd:docurnentation> </xsd:annotation> <xsd:sequence> <xsd:element name=\"NIP\" type=\"TNrNIP\"> <xsd:annotation> <xsd:documentation>Numer Identyfikacji Podatkowej (NIP)</xsd:documentation> </xsd.annotation> </xsd:element> <xsd:element name=\"Nazwisko\"> <xsd:annotation> <xsd:documentation>Nazwisko</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:simpleContent> <xsd:extension base=\"TNazwiskoNIP\"> <xsd:atiribute name=\"zmiana\" type=\"TWyborT_N\" use=\"required\"> <xsd:annotation> <xsd:documentation>Informacja o zmianie pozycji: T - tak, N - nie</xsd:documentation> </xsd:annotation> </xsd:attribute> </xsd:extension> </xsd:simpleContent> </xsd:complex Type> </xsd:element> <xsd:element name=\"ImiePierwsze\"> <xsd:annotation> <xsd:documentation>Pierwsze imie</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:simpleContent> <xsd:extension base=\"TimieNIP\"> <xsd:attribute name=\"zmiana\" type=\"TWyborT_N\" use=\"required\"> <xsd;annotation> <xsd:documentation>Informacja o zmianie pozycji: T - tak, N - nie</xsd:documentation> </xsd:annotation> </xsd:attribute> </xsd:extension> </xsd:simpleContent> </xsd:complexType> </xsd:element> <xsd:element name=\"Drugielmie\" minOccurs=\"0\"> <xsd:annotation>"
     },
     {
@@ -981,6 +1025,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz."
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:extension base=\" TMiejscowosc\"> <xsd:attribute name=\"zmiana\" type=\"TWyborT_N\" use=\"required\"> <xsd:annotation> <xsd:documentation>Informacja o zmianie pozycji: T - tak, N - nie</xsd:documentation> </xsd:annotation> <fxsd:attribute> </xsd:extension> </xsd:simpleContent> </xsd:complexType> </xsd:element> <xsd:element name=\"Plec\"> <xsd:annotation> <xsd:documentation>Pleć: K - kobieta, M - mężczyzna</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:enumeration value=\"K\"> <xsd:annotation>"
     },
     {
@@ -997,6 +1045,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz."
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:element name=\"RodzajDokumentuTozsamosci\" type=\"TRodzajDokToz\"> <xsd:annotation> <xsd:decumentation>Rodzaj dokumentu stwierdzającego tożsamość</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"NrDokumentuTozsamosci\"> <xsd:annotation> <xsd:documentation>Seria i numer dokumentu stwierdzającego tozsamosé</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:whiteSpace value=\"replace\"/> <xsd:maxLenpth value=\"15\"/> <xsd:minLength value=\"1\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> </xsd:sequence> <xsd:attribute name=\"zmiana\" type=\"TWyborT_N\" use=\"required\"> <xsd:annotation> <xsd:documentation>Informacja o zmianie pozycji: T - tak, N - nie</xsd:documentation> </xsd:annotation> </xsd:attribute> </xsd:complexT ype> </xsd:element> </xsd:sequence> </xsd:complexType> <xsd:complexT ype name=\"TKontakt\"> <xsd:annotation> <xsd:documentation>Informacje o telefonie, faksie i adresie e-mail</xsd:documentation> </xsd:annotation> <xsd:sequence> <xsd:annotation> <xsd:documentation/> </xsd:annotation> <xsd:element name=\" Telefon\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Telefon</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"40\"/> </xsd:restriction> </xsd:isimpleType> </xsd:element> <xsd:element name=\"Faks\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Fax</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TZnakowy\"> <xsd:maxLength value=\"40\"/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"Email\" type=\"TAdresEmail\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Adres e-mail</xsd:documentation> </xsd:annotation> </xsd:element>"
     },
     {
@@ -1010,6 +1062,10 @@
     {
      "type": "note",
      "text": "[Strona 57 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz"
     },
     {
      "type": "ocr",

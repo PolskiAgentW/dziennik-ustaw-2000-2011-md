@@ -1,7 +1,7 @@
 {
  "eli": "DU/2009/969",
  "title": "Rozporządzenie Ministra Finansów z dnia 9 lipca 2009 r. zmieniające rozporządzenie w sprawie wzoru i sposobu przekazywania informacji o dokonaniu wypłaty z indywidualnego konta emerytalnego",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2009/969/text.pdf",
  "body": [
   {
@@ -110,6 +110,14 @@
     {
      "type": "note",
      "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "POLA JASNE WYPEŁNIA INSTYTUCJA FINANSOWA LUB SYNDYK. WYPEŁNIĆ NA MASZYNIE, KOMPUTEROWO LUB RĘCZNIE, DUŻYMI, DRUKOWANYMI LITERAMI, CZARNYM LUB NIEBIESKIM KOLOREM. Wysokość przyjętej Data przyjęcia wypłaty wypłaty Rodzaj i ilość papierów wartościowych 3) transferowej transferowej zł, gr . Data (dzień - miesiąc - rok) A Nazwa instyt ucji finansowej j dokonuj jącej wypłaty transferowej . Data (dzień - miesiąc - rok) . Nazwa instyt ucji fi fi nansowej dokonującej wypłaty transferowej . Data (dzień - miesiąc - rok) . Nazwa instytuc] ji fi inan sowej dokonuj jącej wypłaty transferowej . Data (dzień - miesiąc - rok) . Nazwa instyt ucji finan sowej dokonującej wypłaty transferowej . Data (dzień - miesiąc - rok) . Nazwa instytucji finansowej dokonującej wypłaty transferowej . Data (dzień - miesiąc - rok) : Nazwa instytucji finan sowej dokonującej wypłaty transferowej „ Data (dzień - miesiąc - rok) . Nazwa instytucji fi inansowej |ókona jącej wypłaty transferowej"
     }
    ]
   },
@@ -123,6 +131,10 @@
     {
      "type": "note",
      "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "POLA JASNE WYPEŁNIA INSTYTUCJA FINANSOWA LUB SYNDYK. WYPEŁNIĆ NA MASZYNIE, KOMPUTEROWO LUB RĘCZNIE, DUŻYMI, DRUKOWANYMI LITERAMI, CZARNYM LUB NIEBIESKIM KOLOREM, | Data dokonania częściowego zwrotu Wysokość dokonanego częściowego zwrotu zł, gr"
     },
     {
      "type": "ocr",

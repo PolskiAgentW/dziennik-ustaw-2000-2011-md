@@ -1,7 +1,7 @@
 {
  "eli": "DU/2005/525",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 marca 2005 r. w sprawie wzorów wniosków o rejestrację nazw i oznaczeń produktów rolnych lub środków spożywczych oraz wzoru wniosku o zmianę specyfikacji",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/525/text.pdf",
  "body": [
   {
@@ -256,6 +256,10 @@
     {
      "type": "note",
      "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Czy wszystkie wymienione etapy produkcji odbywają się na obszarze geograficznym określonym w pkt 5?"
     },
     {
      "type": "ocr",
@@ -652,6 +656,10 @@
     },
     {
      "type": "ocr",
+     "text": "Czy metoda produkcji produktu rolnego lub środka spożywczego ulegała zmianom w ciągu ostatnich lat? TAK NIE Należy napisać, czy zmiany miały wpływ na specyficzny, tradycyjny charakter produktu rolnego lub środka spożywczego."
+    },
+    {
+     "type": "ocr",
      "text": "Jeżeli to konieczne, należy powiększyć ramkę."
     },
     {
@@ -1014,6 +1022,10 @@
     {
      "type": "note",
      "text": "[Strona 34 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Czy wszystkie wymienione etapy produkcji odbywają się na obszarze geograficznym określonym w pkt 5? TAK"
     },
     {
      "type": "ocr",

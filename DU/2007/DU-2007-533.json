@@ -1,7 +1,7 @@
 {
  "eli": "DU/2007/533",
  "title": "Rozporządzenie Ministra Finansów z dnia 2 kwietnia 2007 r. w sprawie deklaracji na podatek od środków transportowych składanych za pomocą środków komunikacji elektronicznej",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2007/533/text.pdf",
  "body": [
   {
@@ -174,6 +174,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz."
+    },
+    {
+     "type": "ocr",
      "text": "</xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"3\"> <xsd:annotation> <xsd:documentation>wygaśnięcie obowiązku podatkowego</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"4\"> <xsd:annotation> <xsd:documentation>zmiana miejsca zamieszkania lub siedziby</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"5\"> <xsd:annotation> <xsd:documentation>korekta deklaracji</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"6\"> <xsd:annotation> <xsd:documentation>przedłużenie okresu czasowego wycofania pojazdu z ruchu</xsd:documentation> </xsd:annotation> </xsd:enumeration> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"MiejsceSkladania\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Nazwa i adres siedziby organu podatkowego</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"PoprzednieMiejsceSkladania\" type=\"TZnakowy\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Nazwa i adres siedziby organu podatkowego, w którym poprzednio składano deklarację lub wykaz WT-1 na podatek od środków transportowych</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> <!-- Typy danych --> <xsd:simpleType name=\"TMasa\"> <xsd:annotation> <xsd:documentation>Masa pojazdu w tonach</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:decimal\"> <xsd:fractionDigits value=\"1\"/> <xsd:totalDigits value=\"3\"/> <xsd:minExclusive value=\"0\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TWybor\"> <xsd:annotation> <xsd:documentation>Zaznaczenie właściwego wyboru lub brak zaznaczenia wyboru</xsd:documentation> </xsd:annotation> <xsd:restriction base=\"xsd:byte\"> <xsd:enumeration value=\"0\"> <xsd:annotation> <xsd:documentation>brak zaznaczenia </xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"1\"> <xsd:annotation> <xsd:documentation>zaznaczenie</xsd:documentation> </xsd:annotation> </xsd:enumeration> </xsd:restriction>"
     },
     {
@@ -195,6 +199,10 @@
     {
      "type": "note",
      "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz."
     },
     {
      "type": "ocr",
@@ -222,6 +230,10 @@
     },
     {
      "type": "ocr",
+     "text": "Poz."
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:annotation> <xsd:documentation>Numer PESEL </xsd:documentation> </xsd:annotation> <xsd:restriction base=\"TZnakowy\"> <xsd:pattern value=\"\\d{11}\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType name=\"TNrREGON\"> <xsd:annotation> <xsd:documentation>Numer REGON </xsd:documentation> </xsd:annotation> <xsd:union> <xsd:simple Type> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"\\d{9}\"/> </xsd:restriction> </xsd:simpleType> <xsd:simpleType> <xsd:restriction base=\"xsd:string\"> <xsd:pattern value=\"\\d{14}\"/> </xsd:restriction> </xsd:simpleType> </xsd:union> </xsd:simpleType> <!-- Deklaracja --> <xsd:element name=\"Deklaracja\"> <xsd:annotation> <xsd:documentation>Element główny deklaracji</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"Naglowek\" type=\"TNaglowek\"> <xsd:annotation> <xsd:documentation>Nagłówek deklaracji</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"Podatnik\"> <xsd:annotation> <xsd:documentation>Dane podatnika</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:choice> <xsd:element name=\"OsobaFizyczna\" type=\"TldOsobyFizycznejPelny\"> <xsd:annotation> <xsd:documentation>Osoba fizyczna</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"OsobaPrawna\" type=\"TldOsobyNiefizycznejPelny\"> <xsd:annotation> <xsd:documentation>Osoba prawna</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"JednostkaOrganizacyjna\" type=\"TIdOsobyNiefizycznejPelny\"> <xsd:annotation> <xsd:documentation>Jednostka organizacyjna nieposiadająca osobowości prawnej</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:choice> <xsd:element name=\"AdresSiedzibyZamieszkania\" type=\"TAdresPolski\"> <xsd:annotation> <xsd:documentation>Adres siedziby / Adres zamieszkania</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence>"
     },
     {
@@ -246,11 +258,19 @@
     },
     {
      "type": "ocr",
+     "text": "Poz."
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:documentation>Data czasowego wycofania z ruchu</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TData\"> <xsd:minlnclusive value=\"2007-01-01'/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"P_11\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Data ponownego dopuszczenia do ruchu</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TData\"> <xsd:minlnclusive value=\"2007-01-01'/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:element name=\"P_12\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Data wyrejestrowania</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TData\"> <xsd:minInclusive value=\"2007-01-01'/> </xsd:restriction> </xsd:simpleType> </xsd:element> <xsd:choice> <xsd:annotation> <xsd:documentation>Rodzaj Srodka transportowego</xsd:documentation> </xsd:annotation> <xsd:element name=\"P_2_1'> <xsd:annotation> <xsd:documentation>Samochód ciężarowy</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:annotation> <xsd:documentation>samochod ciezarowy</xsd:documentation> </xsd:annotation> <xsd:element name=\"P_13\" type=\"TMasa\"> <xsd:annotation> <xsd:documentation>Dopuszczalna masa całkowita pojazdu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_16\" type=\"TLiczbaOsi\"> <xsd:annotation> <xsd:documentation>Liczba osi pojazdu</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_17\" type=\"TRodzajZawieszenia\"> <xsd:annotation> <xsd:documentation>Rodzaj zawieszenia</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_20\" type=\"TWplywPojazdu\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Wpływ pojazdu silnikowego na środowisko naturalne</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:sequence> </xsd:complexType> </xsd:element>"
     },
     {
      "type": "note",
      "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz."
     },
     {
      "type": "ocr",
@@ -278,11 +298,19 @@
     },
     {
      "type": "ocr",
+     "text": "Poz."
+    },
+    {
+     "type": "ocr",
      "text": "<xsd:annotation> <xsd:documentation>Autobusy z liczbą miejsc do siedzenia mniejszą niż 30</xsd:documentation> </xsd:annotation> <xsd:complexT ype> <xsd:sequence> <xsd:element name=\"P_42\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_43\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_44\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_45\" type=\"TKwota\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"D.7\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Autobusy z liczbą miejsc do siedzenia równą i wyższą niż 30</xsd:documentation> </xsd:annotation> <xsd:complexT ype> <xsd:sequence> <xsd:element name=\"P_46\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_47\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_48\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_49\" type=\"TKwota\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"D.8\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Dwie osie</xsd:documentation> </xsd:annotation> <xsd:complexT ype> <xsd:sequence> <xsd:element name=\"P_50\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_51\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_52\" type=\"TLiczbyNaturalne\" minOccurs=\"0'/> <xsd:element name=\"P_53\" type=\"TKwota\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"D.9\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Trzy osie</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"P_54\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_55\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_56\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_57\" type=\"TKwota\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"D.10\" minOccurs=\"0\"> <xsd:annotation> <xsd:documentation>Cztery osie i więcej</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> <xsd:element name=\"P_58\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_59\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_60\" type=\"TLiczbyNaturalne\" minOccurs=\"0\"/> <xsd:element name=\"P_61\" type=\"TKwota\"/> </xsd:sequence> </xsd:complexType> </xsd:element> <xsd:element name=\"D.11\" minOccurs=\"0\">"
     },
     {
      "type": "note",
      "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Poz."
     },
     {
      "type": "ocr",

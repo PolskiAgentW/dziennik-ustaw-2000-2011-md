@@ -1,7 +1,7 @@
 {
  "eli": "DU/2009/1147",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 30 sierpnia 2009 r. w sprawie świadczeń gwarantowanych z zakresu świadczeń pielęgnacyjnych i opiekuńczych w ramach opieki długoterminowej",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2009/1147/text.pdf",
  "body": [
   {
@@ -778,7 +778,19 @@
     },
     {
      "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "0 = nie jest w stanie wykonać żadnych czynności higienicznych 5 = potrzebuje pomocy przy wykonywaniu czynności higienicznych 10 = samodzielny przy myciu twarzy, czesaniu się, myciu zębów, także z zapewnionymi pomocami Korzystanie z toalety (WC) 0 = nie korzysta w ogóle z toalety 5 = potrzebuje pomocy przy korzystaniu z toalety 10 = samodzielny w dotarciu do toalety oraz w zdejmowaniu i zakładaniu części garderoby Mycie i kąpiel całego ciała 0 = kąpany w wannie przy pomocy podnośnika 5 = wymaga pomocy 10 = samodzielny Poruszanie się po powierzchniach płaskich 0 =w ogóle nie porusza się 5 = porusza się na odległość do 50 m za pomocą sprzętu wspomagającego i z pomocą co najmniej jednej osoby 10 = samodzielny, niezależny w poruszaniu się na odległość powyżej 50 m, także z użyciem sprzętu wspomagającego Wchodzenie i schodzenie po schodach 0 = nie jest w stanie wchodzić i schodzić po schodach nawet z pomocą innej osoby 5 = potrzebuje pomocy fizycznej i asekuracji 10 = samodzielny"
+    },
+    {
+     "type": "note",
      "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Ubieranie i rozbieranie się 0 = potrzebuje kompletnej pomocy innej osoby 5 = potrzebuje częściowej pomocy innej osoby 10 = samodzielny, niezależny, także w zapinaniu guzików, zamka, zawiązywaniu sznurowadeł Kontrolowanie stolca / zwieracza odbytu 0 = nie panuje nad oddawaniem stolca 5 = sporadycznie bezwiednie oddaje stolec 10 = kontroluje oddawanie stolca Kontrolowanie moczu / zwieracza pęcherza moczowego 0 =nie panuje nad oddawaniem moczu 5 = sporadycznie bezwiednie oddaje mocz 10 = kontroluje oddawanie moczu Wynik kwalifikacji”"
     },
     {
      "type": "ocr",
