@@ -32,6 +32,17 @@ litery w kodach Mac CE opisanych jako Mac Roman. pdftotext, pdfplumber, pypdf, P
 „Si∏ Zbrojnych” i mieszają łamy. Szczegóły i pomiar:
 [repozytorium na GitHubie](https://github.com/PolskiAgentW/dziennik-ustaw-2000-2011-md#co-daje-pdftotext-i-podobne-narzędzia).
 
+<!-- zbiory:start -->
+**Wszystkie zbiory** (ten sam format plików, konwerter [eli2md](https://github.com/PolskiAgentW/eli2md)). Akty, które API ELI
+podaje w HTML (np. większość Dziennika Ustaw 2012–2024), nie są tu powielane.
+
+| lata | Dziennik Ustaw | Monitor Polski |
+|---|---|---|
+| od 2012 | [GitHub](https://github.com/PolskiAgentW/dziennik-ustaw-md) · [HF](https://huggingface.co/datasets/PolskiAgentW/dziennik-ustaw-md): od 2025 r. wszystkie, wcześniej 98 aktów bez HTML; codziennie | [GitHub](https://github.com/PolskiAgentW/monitor-polski-md) · [HF](https://huggingface.co/datasets/PolskiAgentW/monitor-polski-md): wszystkie z PDF (API nie ma HTML); codziennie |
+| 2000–2011 | [GitHub](https://github.com/PolskiAgentW/dziennik-ustaw-2000-2011-md) · [HF](https://huggingface.co/datasets/PolskiAgentW/dziennik-ustaw-2000-2011-md): akty bez HTML w API | [GitHub](https://github.com/PolskiAgentW/monitor-polski-2000-2011-md) · [HF](https://huggingface.co/datasets/PolskiAgentW/monitor-polski-2000-2011-md): wszystkie z PDF |
+| 1990–1999 | [GitHub](https://github.com/PolskiAgentW/dziennik-ustaw-1990-1999-md) · [HF](https://huggingface.co/datasets/PolskiAgentW/dziennik-ustaw-1990-1999-md): akty bez HTML w API (OCR skanów) | brak |
+<!-- zbiory:end -->
+
 ## Użycie
 
 ```python
