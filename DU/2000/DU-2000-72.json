@@ -1,43 +1,51 @@
 {
  "eli": "DU/2000/72",
  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 24 stycznia 2000 r. zmieniające rozporządzenie w sprawie zasad oceniania, klasyfikowania i promowania uczniów i słuchaczy oraz przeprowadzania egzaminów i sprawdzianów w szkołach publicznych.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/72/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 24 stycznia 2000 r."
   },
   {
-   "type": "ocr",
-   "text": "zmieniające rozporządzenie w sprawie zasad oceniania, klasyfikowania i promowania uczniów i stuchaczy oraz przeprowadzania egzaminów i sprawdzianów w szkołach publicznych."
+   "type": "text",
+   "text": "zmieniające rozporządzenie w sprawie zasad oceniania, klasyfikowania i promowania uczniów i słuchaczy oraz przeprowadzania egzaminów i sprawdzianów w szkołach publicznych."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 22 ust. 2 pkt 4 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 1996 r. Nr 67, poz. 329 i Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153 i Nr 141, poz. 943 oraz z 1998 r. Nr 117, poz. 759 i Nr 162, poz. 1126) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "8 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 19 kwietnia 1999 r. w sprawie zasad oceniania, klasyfikowania i promowania uczniów i słuchaczy oraz przeprowadzania egzaminów i sprawdzianów w szkołach publicznych (Dz. U. Nr 41, poz. 413) po $ 62 dodaje się $ 62a w brzmieniu:"
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Ministra Edukacji Narodowej z dnia 19 kwietnia 1999 r. w sprawie zasad oceniania, klasyfikowania i promowania uczniów i słuchaczy oraz przeprowadzania egzaminów i sprawdzianów w szkołach publicznych (Dz. U. Nr 41, poz. 413) po § 62 dodaje się § 62a w brzmieniu:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„3 62a. Ilekroć w odrębnych przepisach jest mowa o ocenie miernej, należy przez to rozumieć ocenę dopuszczającą, o której mowa w niniejszym rozporządzeniu.”",
+     "quoted": true
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "„3 62a. Ilekroć w odrębnych przepisach jest mowa o ocenie miernej, należy przez to rozumieć ocenę dopuszczającą, o której mowa w niniejszym rozporządzeniu.”"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Edukacji Narodowej: M. Handke"
   }
  ],

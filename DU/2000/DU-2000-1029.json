@@ -1,115 +1,166 @@
 {
  "eli": "DU/2000/1029",
  "title": "Rozporządzenie Rady Ministrów z dnia 24 października 2000 r. zmieniające rozporządzenie w sprawie podziału rezerwy na podwyżki wynagrodzeń w 2000 r. dla pracowników państwowej sfery budżetowej.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/1029/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 24 października 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "zmieniające rozporządzenie w sprawie podziału rezerwy na podwyżki wynagrodzeń w 2000 r. dla pracowników państwowej sfery budżetowej."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 23 ust. 6 ustawy budżetowej na rok 2000 z dnia 21 stycznia 2000 r. (Dz. U. Nr 7, poz. 85) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "§ 1. W rozporządzeniu Rady Ministrów z dnia 28 marca 2000 r. w sprawie podziału rezerwy na podwyżki wynagrodzeń w 2000 r. dla pracowników państwowej sfery budżetowej (Dz. U. Nr 24, poz. 298) w załączniku nr 3 do rozporządzenia w rubrykach 1 „Wyszczególnienie” oraz 2 „Jednostki budżetowe” wprowadza się następujące zmiany:"
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Rady Ministrów z dnia 28 marca 2000 r. w sprawie podziału rezerwy na podwyżki wynagrodzeń w 2000 r. dla pracowników państwowej sfery budżetowej (Dz. U. Nr 24, poz. 298) w załączniku nr 3 do rozporządzenia w rubrykach 1 „Wyszczególnienie” oraz 2 „Jednostki budżetowe” wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w części 20 „— Gospodarka” w dziale 91 „— Administracja państwowa”:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "w grupie „— członkowie korpusu służby cywilnej” liczbę „1276832” zastępuje się liczbą 1236832\",",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "dodaje się drugą grupę „— pozostali pracownicy” oraz liczbę „40000”,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w części 45 „— Sprawy zagraniczne” w dziale 91 „— Administracja państwowa”:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "w grupie „— członkowie korpusu służby cywilnej” w rozdziale 9111 „— Jednostki centralne” liczbę „2300745” zastępuje się liczbą „,2295666”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "dodaje się drugą grupę „— pozostali pracownicy” oraz liczbę „5079”,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w części 59 „— Główny Urząd Cet” w dziale 91 „— Administracja państwowa”:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "w grupie „— członkowie korpusu służby cywilnej” w rozdziale 9111 „— Jednostki centralne” liczbę „259282” zastępuje się liczbą „543071”, a w rozdziale 9131 „— Jednostki terenowe podległe organom centralnym” liczbę „2649042” zastępuje się liczbą ,,7261713\",",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "w grupie „— funkcjonariusze Służby Celnej” w rozdziale 9111 „— Jednostki centralne” liczbę „829941” zastępuje się liczbą „542772”, a w rozdziale 9131 „— Jednostki terenowe podległe organom centralnym” liczbę ,,11711124” zastępuje się liczbą „7101833”,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w części 85/10 „— Województwo łódzkie” w dziale 91 „— Administracja państwowa”:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_4/lit_a",
+       "text": "w grupie „— członkowie korpusu służby cywilnej” liczbę „1870975” zastępuje się liczbą „1851105”, b)w grupie „— pozostali pracownicy” liczbę „95948” zastępuje się liczbą „115818”,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "w części 85/24 „— Województwo śląskie” w dziale 91 „— Administracja państwowa”:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_5/lit_a",
+       "text": "w grupie „— członkowie korpusu służby cywilnej” liczbę „2927694\" zastępuje się liczbą „2942547\", b)w grupie „— pozostali pracownicy” liczbę 125236” zastępuje się liczbą „110383”,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "w części 85/30 „— Województwo wielkopolskie” w dziale 91 „— Administracja państwowa”:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_6/lit_a",
+       "text": "w grupie „— członkowie korpusu służby cywilnej” liczbę „2205857” zastępuje się liczbą 12231622\",",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "b)w grupie „— pozostali pracownicy” liczbę „170128” zastępuje się liczbą „144363\"."
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) w części 20 „— Gospodarka” w dziale 91 „— Administracja państwowa”:"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "a) w grupie „— członkowie korpusu służby cywilnej” liczbę „1276832” zastępuje się liczbą 1236832\","
-  },
-  {
-   "type": "ocr",
-   "text": "b) dodaje się drugą grupę „— pozostali pracownicy” oraz liczbę „40000”,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) w części 45 „— Sprawy zagraniczne” w dziale 91 „— Administracja państwowa”:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) w grupie „— członkowie korpusu służby cywilnej” w rozdziale 9111 „— Jednostki centralne” liczbę „2300745” zastępuje się liczbą „,2295666”,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) dodaje się drugą grupę „— pozostali pracownicy” oraz liczbę „5079”,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) w części 59 „— Główny Urząd Cet” w dziale 91 „— Administracja państwowa”:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) w grupie „— członkowie korpusu służby cywilnej” w rozdziale 9111 „— Jednostki centralne” liczbę „259282” zastępuje się liczbą „543071”, a w rozdziale 9131 „— Jednostki terenowe podlegte organom centralnym” liczbę „2649042” zastępuje się liczbą ,,7261713\","
-  },
-  {
-   "type": "ocr",
-   "text": "b) w grupie „— funkcjonariusze Służby Celnej” w rozdziale 9111 „— Jednostki centralne” liczbę „829941” zastępuje się liczbą „542772”, a w rozdziale 9131 „— Jednostki terenowe podlegte organom centralnym” liczbę ,,11711124” zastępuje się liczbą „7101833”,"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 2 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "4) w części 85/10 „— Województwo łódzkie” w dziale 91 „— Administracja państwowa”:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) w grupie „— cztonkowie korpusu służby cywilnej” liczbę „1870975” zastępuje się liczbą „1851105”, b)w grupie „— pozostali pracownicy” liczbę „95948” zastępuje się liczbą „115818”,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) w części 85/24 „— Województwo śląskie” w dziale 91 „— Administracja państwowa”:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) w grupie „— członkowie korpusu służby cywilnej” liczbę „2927694\" zastępuje się liczbą „2942547\","
-  },
-  {
-   "type": "ocr",
-   "text": "Poz. 1029, 1030 i 1031"
-  },
-  {
-   "type": "ocr",
-   "text": "b)w grupie „— pozostali pracownicy” liczbę 125236” zastępuje się liczbą „110383”,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) w części 85/30 „— Województwo wielkopolskie” w dziale 91 „— Administracja państwowa”:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) w grupie „— członkowie korpusu stużby cywilnej” liczbę „2205857” zastępuje się liczbą 12231622\","
-  },
-  {
-   "type": "ocr",
-   "text": "b)w grupie „— pozostali pracownicy” liczbę „170128” zastępuje się liczbą „144363\"."
-  },
-  {
-   "type": "ocr",
-   "text": "$ 2. Rozporządzenie wchodzi w życie z dniem ogtoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Prezes Rady Ministrów: J. Buzek"
   }
  ],

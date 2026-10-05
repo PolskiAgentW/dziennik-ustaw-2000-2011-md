@@ -1,87 +1,127 @@
 {
  "eli": "DU/2000/768",
  "title": "Rozporządzenie Ministra Gospodarki z dnia 27 lipca 2000 r. zmieniające rozporządzenie w sprawie pozwoleń na przywóz towarów na polski obszar celny lub wywóz towarów z polskiego obszaru celnego.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/768/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 27 lipca 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "zmieniające rozporządzenie w sprawie pozwoleń na przywóz towarów na polski obszar celny lub wywóz towarów z polskiego obszaru celnego."
   },
   {
-   "type": "ocr",
-   "text": "Na podstawie art. 20 ust. 1 ustawy z dnia 11 grudnia 1997 r. o administrowaniu obrotem z zagranicą towarami i ustugami oraz o obrocie specjalnym (Dz. U. Nr 157, poz. 1026 oraz z 1999 r. Nr 55, poz. 587 i Nr 101, poz. 1178) zarządza się, co następuje:"
+   "type": "text",
+   "text": "Na podstawie art. 20 ust. 1 ustawy z dnia 11 grudnia 1997 r. o administrowaniu obrotem z zagranicą towarami i usługami oraz o obrocie specjalnym (Dz. U. Nr 157, poz. 1026 oraz z 1999 r. Nr 55, poz. 587 i Nr 101, poz. 1178) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "8 1. W rozporządzeniu Ministra Gospodarki z dnia 24 grudnia 1997 r. w sprawie pozwoleń na przywóz towarów na polski obszar celny lub wywóz towarów z polskiego obszaru celnego (Dz. U. Nr 162, poz. 1126) wprowadza się następujące zmiany:"
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Ministra Gospodarki z dnia 24 grudnia 1997 r. w sprawie pozwoleń na przywóz towarów na polski obszar celny lub wywóz towarów z polskiego obszaru celnego (Dz. U. Nr 162, poz. 1126) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 2 dodaje się ust. 3 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Wnioski, o których mowa w ust. 1, są przyjmowane od dnia wejścia w życie przepisów, na podstawie których ustanawia się ograniczenie obrotu towarami lub kontyngent taryfowy, chyba że przepisy te określają inny termin.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 3 ust. 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Do wniosku o udzielenie pozwolenia na przywóz towaru objętego kontyngentem taryfowym, oprócz dokumentów wymienionych w ust. 1 i 2, nałeży dołączyć pisemne oświadczenie wnioskodawcy o niezaleganiu z wpłatami należności celnych i podatkami pobieranymi przez urzędy celne.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "po § 4 dodaje się § 4a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„8 4a. Dokumenty, o których mowa w § 3 ust. 1 pkt 1 i ust. 2 pkt 1 i 2, mogą być uwierzytelnionymi kopiami.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w § 5:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_4/lit_a",
+       "text": "w ust. 2 dodaje się pkt 3 w brzmieniu: „3) przywóz albo wywóz towaru w ilości lub o wartości przekraczającej 30% wielkości określonych w poprzednio udzielonym pozwoleniu.”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_4/lit_b",
+       "text": "dodaje się ust. 3 w brzmieniu: „3. Jeżeli osoba ubiega się o kolejne pozwolenie na towar określony tym samym kodem PCN, poświadczona przez urząd celny kopia poprzednio udzielonego pozwolenia powinna być złożona w Ministerstwie Gospodarki nie później niż w dniu złożenia wniosku o kolejne pozwolenie. Przepisy § 9 ust. 1i 2 stosuje się odpowiednio.”;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "w § 7 wyrazy „maksymalnie 3 miesiące od dnia jego wydania” zastępuje się wyrazami „3 miesiące od daty jego wydania, chyba że w pozwoleniu określono inny termin jego ważności”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "w załączniku nr 1 do rozporządzenia umieszczona na końcu wniosku uwaga otrzymuje następujące brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Uwaga: Uprzedza się o odpowiedzialności karnej z art. 233 8 1 oraz art. 270 8 1 Kodeksu karnego, a także art. 85 Kodeksu karnego skarbowego.”",
+       "quoted": true
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) w § 2 dodaje się ust. 3 w brzmieniu:"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "„3. Wnioski, o których mowa w ust. 1, są przyjmowane od dnia wejścia w życie przepisów, na podstawie których ustanawia się ograniczenie obrotu towarami lub kontyngent taryfowy, chyba że przepisy te określają inny termin.”;"
-  },
-  {
-   "type": "ocr",
-   "text": "2) w $ 3 ust. 3 otrzymuje brzmienie:"
-  },
-  {
-   "type": "ocr",
-   "text": "„3. Do wniosku o udzielenie pozwolenia na przywóz towaru objętego kontyngentem taryfowym, oprócz dokumentów wymienionych w ust. 1 i 2, nałeży dołączyć pisemne oświadczenie wnioskodawcy o niezaleganiu z wpłatami należności celnych i podatkami pobieranymi przez urzędy celne.”;"
-  },
-  {
-   "type": "ocr",
-   "text": "3) po $ 4 dodaje się $ 4a w brzmieniu:"
-  },
-  {
-   "type": "ocr",
-   "text": "„8 4a. Dokumenty, o których mowa w 8 3 ust. 1 pkt 1 i ust. 2 pkt 1 i 2, mogą być uwierzytelnionymi kopiami.”;"
-  },
-  {
-   "type": "ocr",
-   "text": "4) w 85:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) w ust. 2 dodaje się pkt 3 w brzmieniu: „3) przywóz albo wywóz towaru w ilości lub o wartości przekraczającej 30% wielkości określonych w poprzednio udzielonym pozwoleniu.”,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) dodaje sie ust. 3 w brzmieniu: „3. Jeżeli osoba ubiega się o kolejne pozwolenie na towar określony tym samym kodem PCN, poświadczona przez urząd celny kopia poprzednio udzielonego pozwolenia powinna być złożona w Ministerstwie Gospodarki nie później niż w dniu złożenia wniosku o kolejne pozwolenie. Przepisy $ 9 ust. 1i 2 stosuje się odpowiednio.”;"
-  },
-  {
-   "type": "ocr",
-   "text": "5) w § 7 wyrazy „maksymalnie 3 miesiące od dnia jego wydania” zastępuje się wyrazami „3 miesiące od daty jego wydania, chyba że w pozwoleniu określono inny termin jego ważności”;"
-  },
-  {
-   "type": "ocr",
-   "text": "6) w załączniku nr 1 do rozporządzenia umieszczona na końcu wniosku uwaga otrzymuje następujące brzmienie:"
-  },
-  {
-   "type": "ocr",
-   "text": "„Uwaga: Uprzedza się o odpowiedzialności karnej z art. 233 8 1 oraz art. 270 8 1 Kodeksu karnego, a także art. 85 Kodeksu karnego skarbowego.”"
-  },
-  {
-   "type": "ocr",
-   "text": "8 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Gospodarki: J. Steinhoff"
   }
  ],

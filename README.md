@@ -61,7 +61,7 @@ Wszystkie lata 2000–2011 są w zbiorze (ostatni rocznik dodany 2026-10-02): 19
 (opis niżej, w części o OCR). Akty, którym API później doda HTML albo zmieni PDF, nie są tu aktualizowane.
 
 <!-- stats:start -->
-Stan na 2026-10-04 23:17 UTC (liczone z `index.csv`).
+Stan na 2026-10-05 10:27 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -82,7 +82,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 3483, razem 66483 z 160
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 5402.
 
 Rodzaje aktów: Rozporządzenie 18305, Oświadczenie rządowe 633, Umowa międzynarodowa 342, Konwencja 98, Protokół 78, Obwieszczenie 39, Porozumienie 37, Uchwała 26, Postanowienie 25, Dokument wypowiedzenia 12, Traktat 11, Decyzja 2, Statut 2, Ustawa 1, Deklaracja 1, Akt 1, Układ 1.
-Wersje konwertera: eli2md 0.6.18 (6723), eli2md 0.6.17 (5435), eli2md 0.6.22 (3704), eli2md 0.6.24 (3425), eli2md 0.6.16 (327).
+Wersje konwertera: eli2md 0.6.18 (6723), eli2md 0.6.17 (5435), eli2md 0.6.22 (3704), eli2md 0.6.24 (3125), eli2md 0.6.16 (327), eli2md 0.6.37 (300).
 <!-- stats:end -->
 
 ## Zawartość
@@ -96,7 +96,7 @@ Wersje konwertera: eli2md 0.6.18 (6723), eli2md 0.6.17 (5435), eli2md 0.6.22 (37
 - Cały zbiór w jednym pliku: `dziennik-ustaw-2000-2011-md.jsonl.gz` w wydaniu
   [„dane”](https://github.com/PolskiAgentW/dziennik-ustaw-2000-2011-md/releases/tag/dane) (jeden akt w wierszu)
   i Parquet na Hugging Face: [PolskiAgentW/dziennik-ustaw-2000-2011-md](https://huggingface.co/datasets/PolskiAgentW/dziennik-ustaw-2000-2011-md).
-  Stan obu plików: 2026-10-02, 19 614 aktów.
+  Stan obu plików: 2026-10-05, 19 614 aktów.
 - `index.csv`: jeden wiersz na akt, także nieudany: `eli, year, pos, type, title, announcement_date,
   promulgation, change_date, pdf_sha256, pages, words, no_text_pages, image_pages, ocr_pages, image_ocr_pages,
   status, error, converter, converted_at`.
@@ -104,7 +104,9 @@ Wersje konwertera: eli2md 0.6.18 (6723), eli2md 0.6.17 (5435), eli2md 0.6.22 (37
 Strony bez warstwy tekstowej czyta OCR (tesseract). Takich aktów jest dużo w 2000 r. (15 z pierwszych 50
 przekonwertowanych: PDF-y „Distiller 4.0 for Macintosh; modified using iText” bez fontów). Tekst z OCR jest
 oznaczony: przed stroną stoi notka `> [Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR …]`,
-a akapity OCR są cytatami blokowymi (`> …`); w JSON to węzły `ocr`, bez podziału na jednostki.
+a akapity OCR są cytatami blokowymi (`> …`); w JSON to węzły `ocr`, bez podziału na jednostki. Wyjątek: 300 aktów,
+których wszystkie strony są skanami (`no_text_pages` = `pages`; 297 z 2000 r.), od 2026-10-05 w eli2md 0.6.37: tekst
+z OCR ma w nich jednostki (`##### § N.`, ust., pkt) i podpis, a w JSON drzewo jednostek, jak tekst z warstwy PDF.
 
 ## Jak dobre jest
 
@@ -188,6 +190,17 @@ Zmiana 2026-10-04 (eli2md 0.6.24, wszystkie 3 425 aktów ze stronami z OCR przel
   formularzy, których warstwa tekstowa nie ma kodów Unicode (wcześniej w wyniku były z nich śmieci). DU/2007/189 nadal
   bez tekstu (uszkodzony PDF, opis wyżej). Pozostałe akty (bez stron z OCR) mają w polu `converter` wcześniejsze
   wersje: zmiany 0.6.23 i 0.6.24 dotyczą tylko stron z OCR.
+
+Zmiana 2026-10-05 (eli2md 0.6.37, 300 aktów, których wszystkie strony są skanami: 297 z 2000 r., DU/2005/312, 779,
+DU/2008/599; wcześniej 0.6.24). Od 0.6.26 eli2md czyta skany zeszytów sprzed 2012 r. inaczej: układa wiersze OCR
+w kolejności łamów, wycina akt spośród sąsiednich na tych samych stronach i rozpoznaje jednostki, załączniki i podpis
+(opis w README eli2md, wpisy 0.6.26–0.6.37).
+- Pomiar na wszystkich 54 skanach wśród 205 pobranych aktów DU 2000 z HTML (`eval/scans_2000` w eli2md): treść
+  R 0,946 → 0,981, P 0,592 → 0,952 (0.6.24 → 0.6.37); w żadnym z 54 aktów R ani P nie spadło o więcej niż 0,01.
+- W 300 aktach (bez notek o OCR): słowa 331 640 → 330 254, wspólne 325 276. O ponad 30% mniej słów mają 3 akty:
+  w DU/2000/57 i 159 nie ma już początku następnej pozycji (poz. 58, 160), w DU/2000/56 nie ma poz. 57, a fragment
+  statutu z poz. 56, który był w pliku poz. 57, wrócił do poz. 56. Strony odczytane przez OCR: bez zmian.
+- Struktura (z 300 aktów): z rozpoznanymi § lub artykułami 0 → 288, z podpisem 0 → 291, z załącznikiem 0 → 93.
 
 **Czego te liczby nie mówią:**
 

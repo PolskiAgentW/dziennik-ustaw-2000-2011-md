@@ -1,267 +1,513 @@
 {
  "eli": "DU/2000/1033",
  "title": "Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 18 października 2000 r. w sprawie zasad i trybu udzielania i cofania zezwoleń na prowadzenie prac konserwatorskich, archeologicznych i wykopaliskowych oraz warunków ich prowadzenia i kwalifikacji osób uprawnionych do wykonywania tych prac.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/1033/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 18 października 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "w sprawie zasad i trybu udzielania i cofania zezwoleń na prowadzenie prac konserwatorskich, archeologicznych i wykopaliskowych oraz warunków ich prowadzenia i kwalifikacji osób uprawnionych do wykonywania tych prac."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 21 ust. 2 ustawy z dnia 15 lutego 1962 r. o ochronie dóbr kultury (Dz. U. z 1999 r. Nr 98, poz. 1150) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "§ 1. Rozporządzenie określa zasady i tryb udzielania i cofania zezwoleń na prowadzenie prac konserwatorskich przy zabytkach nieruchomych i ruchomych, wykonywanych w celu zabezpieczenia, zachowania i utrwalenia oryginalnej substancji zabytku lub uzupetnienia jego zniszczonej części, a także na prowadzenie prac archeologicznych i wykopaliskowych, polegających na rozpoznaniu, badaniu, udokumentowaniu i zabezpieczeniu dobra kultury przy zastosowaniu metod archeologicznych, oraz określa warunki prowadzenia tych prac i kwalifikacje osób uprawnionych do ich wykonywania."
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa zasady i tryb udzielania i cofania zezwoleń na prowadzenie prac konserwatorskich przy zabytkach nieruchomych i ruchomych, wykonywanych w celu zabezpieczenia, zachowania i utrwalenia oryginalnej substancji zabytku lub uzupełnienia jego zniszczonej części, a także na prowadzenie prac archeologicznych i wykopaliskowych, polegających na rozpoznaniu, badaniu, udokumentowaniu i zabezpieczeniu dobra kultury przy zastosowaniu metod archeologicznych, oraz określa warunki prowadzenia tych prac i kwalifikacje osób uprawnionych do ich wykonywania.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "8 2. 1. Właściciel lub użytkownik zabytku przed przystąpieniem do prac konserwatorskich przy zabytku bądź właściciel lub użytkownik gruntu, na którym mają być przeprowadzone prace archeologiczne i wykopaliskowe, jest zobowiązany uzyskać zezwolenie wojewódzkiego konserwatora zabytków, zwanego dalej „konserwatorem ”, na ich prowadzenie."
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Właściciel lub użytkownik zabytku przed przystąpieniem do prac konserwatorskich przy zabytku bądź właściciel lub użytkownik gruntu, na którym mają być przeprowadzone prace archeologiczne i wykopaliskowe, jest zobowiązany uzyskać zezwolenie wojewódzkiego konserwatora zabytków, zwanego dalej „konserwatorem ”, na ich prowadzenie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Przepis ust. 1 stosuje się odpowiednio do jednostek organizacyjnych, których zakres działania obejmuje prowadzenie prac archeologicznych i wykopaliskowych, oraz wykonawców takich prac.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Prowadzenie prac archeologicznych i wykopaliskowych na terenie parku narodowego lub rezerwatu przyrody wymaga uzyskania zgody właściwego organu ochrony przyrody.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2. Przepis ust. 1 stosuje się odpowiednio do jednostek organizacyjnych, których zakres działania obejmuje prowadzenie prac archeologicznych i wykopaliskowych, oraz wykonawców takich prac."
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Wniosek o udzielenie zezwolenia na prowadzenie prac konserwatorskich przy zabytku zawiera w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "imię, nazwisko i adres zamieszkania wnioskodawcy lub nazwę i siedzibę jednostki organizacyjnej, będącej wnioskodawcą,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "wskazanie zabytku, z uwzględnieniem miejsca jego położenia bądź przechowywania albo miejsca prowadzonych prac, z określeniem współrzędnych geodezyjnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "uzasadnienie podjęcia prac,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "program planowanych prac i sposób ich prowadzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "imię, nazwisko i adres zamieszkania wykonawcy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_1/pkt_6",
+       "text": "wskazanie przewidywanego terminu rozpoczęcia i zakończenia prac.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Wniosek o udzielenie zezwolenia na prowadzenie prac archeologicznych i wykopaliskowych oprócz danych, o których mowa w ust. 1, ponadto zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "opis technicznego zabezpieczenia wykopów w czasie wykonywania tych prac,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "opis sposobu uporządkowania terenu po zakończeniu prac,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_2/pkt_3",
+       "text": "zgodę właściciela lub użytkownika gruntu na prowadzenie prac, jeżeli nie jest on wnioskodawcą.",
+       "children": []
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "3. Prowadzenie prac archeologicznych i wykopaliskowych na terenie parku narodowego lub rezerwatu przyrody wymaga uzyskania zgody właściwego organu ochrony przyrody."
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Konserwator może uzależnić rozpatrzenie wniosku, o którym mowa w § 3, od przedłożenia przez wnioskodawcę dokumentacji niezbędnej dla prawidłowego przeprowadzenia prac konserwatorskich przy zabytku lub prac archeologicznych i wykopaliskowych, a także decyzji, uzgodnień lub opinii innych organów, wymaganych na podstawie odrębnych przepisów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W trakcie postępowania o wydanie zezwolenia na prowadzenie prac konserwatorskich przy zabytku nieruchomym konserwator może zalecić wnioskodawcy wykonanie prac archeologicznych i wykopaliskowych przy tym zabytku i przedłożenie dokumentacji z ich wykonania, jeżeli okaże się to niezbędne dla rozpatrzenia tego wniosku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Na podstawie przedłożonej przez wnioskodawcę dokumentacji, o której mowa w ust. 1 i 2, konserwator może wskazać wnioskodawcy na konieczność wprowadzenia odpowiednich zmian w programie planowanych prac oraz w sposobie ich prowadzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Wnioskodawca składa konserwatorowi dla celów archiwalnych jeden egzemplarz dokumentacji, o której mowa w ust. 1i2.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "§ 3. 1. Wniosek o udzielenie zezwolenia na prowadzenie prac konserwatorskich przy zabytku zawiera w szczególności:"
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Zezwolenie na prowadzenie prac konserwatorskich przy zabytku lub prac archeologicznych i wykopaliskowych zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "imię, nazwisko i adres zamieszkania wnioskodawcy lub nazwę i siedzibę jednostki organizacyjnej, będącej wnioskodawcą,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "określenie zabytku, przy którym będą prowadzone prace konserwatorskie, lub gruntu, na którym będą prowadzone prace archeologiczne i wykopaliskowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "zakres i sposób prowadzenia prac,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "imię, nazwisko i adres zamieszkania wykonawcy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_1/pkt_5",
+       "text": "określenie warunków prowadzenia przez wykonawcę dokumentacji przebiegu prac i ich wyników, w sposób umożliwiający jednoznaczną identyfikację i dokładną przestrzenną lokalizację wszystkich czynności oraz dokonanych odkryć,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_1/pkt_6",
+       "text": "określenie warunków opracowania przez wykonawcę wniosków i zaleceń konserwatorskich, dotyczących użytkowania zabytku lub gruntu po zakończeniu prac,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_5/ust_1/pkt_7",
+       "text": "określenie warunków, pod którymi zezwolenie może być cofnięte lub zmienione w razie ujawnienia, po jego wydaniu, okoliczności, które mają znaczenie dla zabytku i mogą mieć wpływ na zakres prowadzenia prac konserwatorskich przy tym zabytku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_5/ust_1/pkt_8",
+       "text": "termin rozpoczęcia i zakończenia prac.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Zezwolenie na prowadzenie prac archeologicznych i wykopaliskowych, oprócz danych, o których mowa w ust. 1, ponadto zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "wymóg dokonania szczegółowego rozpoznania terenowego i sporządzenia planu sytuacyjno-wysokościowego dla archeologicznego dobra kultury, zwłaszcza gdy to dobro kultury posiada własną formę krajobrazową,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "określenie warunków prowadzenia doraźnej konserwacji pozyskanych dóbr kultury,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "określenie warunków prowadzenia inwentaryzacji polowej pozyskanych dóbr kultury i ich dokumentacji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_2/pkt_4",
+       "text": "opis technicznego zabezpieczenia wykopów w czasie wykonywania prac,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_2/pkt_5",
+       "text": "opis sposobu uporządkowania terenu po zakończeniu prac, a w przypadku gruntów rolnych i leśnych — ustalenie kierunku i sposobu przeprowadzenia rekultywacji tych gruntów, zgodnie z przepisami o ochronie gruntów rolnych i leśnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_2/pkt_6",
+       "text": "imię, nazwisko i adres zamieszkania kierownika prac.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Konserwator może w zezwoleniu nałożyć na wykonawcę obowiązek zawiadomienia go o terminie podjęcia określonych czynności związanych z wydanym zezwoleniem, przynajmniej na 3 dni przed ich rozpoczęciem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Wykonawca jest zobowiązany przekazać konserwatorowi dokumentację, o której mowa w ust. 1 pkt5, w terminie 3 miesięcy od dnia zakończenia prac konserwatorskich przy zabytku, a w przypadku prac archeologicznych i wykopaliskowych — w terminie 6 miesięcy od dnia ich zakończenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "Wnioski i zalecenia konserwatorskie, o których mowa w ust. 1 pkt 6, wykonawca jest zobowiązany przekazać konserwatorowi w terminie 3 miesięcy od dnia zakończenia prac konserwatorskich przy zabytku lub prac archeologicznych i wykopaliskowych.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) imię, nazwisko i adres zamieszkania wnioskodawcy lub nazwę i siedzibę jednostki organizacyjnej, będącej wnioskodawcą,"
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "O rozpoczęciu i zakończeniu prac konserwatorskich przy zabytku lub prac archeologicznych i wykopaliskowych wykonawca jest zobowiązany zawiadomić",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "konserwatora na 7 dni przed zamierzonym terminem ich rozpoczęcia i zakończenia tych prac."
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2) wskazanie zabytku, z uwzględnieniem miejsca jego położenia bądź przechowywania albo miejsca prowadzonych prac, z określeniem współrzędnych geodezyjnych,"
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Wykonawca jest zobowiązany niezwłocznie zawiadomić konserwatora o wszelkich zagrożeniach lub nowych okolicznościach ujawnionych w toku prac konserwatorskich przy zabytku, które mogą mieć wpływ na stan zachowania zabytku, lub o wszelkich nowych okolicznościach ujawnionych w toku prac archeologicznych i wykopaliskowych, które mogą mieć wpływ na zakres i sposób ich prowadzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "O przerwach w pracach archeologicznych i wykopaliskowych bezzwłocznie zawiadamia się konserwatora.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "W przypadkach, o których mowa w ust. 1, konserwator jest zobowiązany wydać wykonawcy odpowiednie zalecenia w terminie nie późniejszym niż 7 dni od dnia przyjęcia zawiadomienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Konserwator może, jeżeli jest to uzasadnione zagrożeniami lub okolicznościami, o których mowa w ust. 1, wydane zezwolenie zmienić lub je cofnąć.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "3) uzasadnienie podjęcia prac,"
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "W razie stwierdzenia, że prace konserwatorskie przy zabytku lub prace archeologiczne i wykopaliskowe są prowadzone niezgodnie z zezwoleniem udzielonym na ich prowadzenie, konserwator może zobowiązać osobę prowadzącą te prace do usunięcia stwierdzonych uchybień w określonym terminie lub cofnąć udzielone zezwolenie, jeżeli zalecenia konserwatora nie zostaną wykonane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "W przypadku cofnięcia zezwolenia na prowadzenie prac archeologicznych i wykopaliskowych, prowadzący te prace jest zobowiązany przywrócić teren do stanu poprzedniego.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "4) program planowanych prac i sposób ich prowadzenia,"
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Konserwator uczestniczy w odbiorze częściowym i końcowym wykonanych prac konserwatorskich przy zabytku lub prac archeologicznych i wykopaliskowych, sprawdzając zgodność ich przeprowadzenia z udzielonym zezwoleniem.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "5) imię, nazwisko i adres zamieszkania wykonawcy,"
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Przy kierowaniu robotami budowlanymi i wykonywaniu nadzoru inwestorskiego mogą być zatrudniane osoby, które posiadają odpowiednie uprawnienia budowlane, określone przepisami Prawa budowlanego, i wykażą się co najmniej 2-letnią praktyką na budowie przy zabytkach nieruchomych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Pracami konserwatorskimi, polegającymi na zabezpieczeniu, uzupełnieniu, rekonstrukcji lub konserwacji parków zabytkowych albo innego rodzaju zorganizowanej zieleni zabytkowej, mogą kierować osoby, które posiadają dyplom ukończenia wyższych studiów na kierunkach architektury krajobrazu, ogrodnictwa lub leśnictwa i tytuf zawodowy magistra oraz odbyty po uzyskaniu dyplomu co najmniej 12-miesięczną praktykę przy konserwacji i pielęgnacji tego rodzaju zabytków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Prace o charakterze technicznym w zakresie, o którym mowa w ust. 2, mogą być prowadzone przez osoby, które posiadają średnie wykształcenie w zakresie pielęgnacji zieleni albo praktyczne przygotowanie do prowadzenia takich prac.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "6) wskazanie przewidywanego terminu rozpoczęcia i zakończenia prac."
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Prace konserwatorskie przy zabytkach ruchomych mogą prowadzić osoby, które posiadają dyplom ukończenia wyższych studiów na kierunku konserwacja i restauracja dzieł sztuki tub wyższych studiów zawodowych na specjalności w zakresie konserwacji zabytków i tytuł zawodowy magistra oraz odbyły po uzyskaniu dyplomu co najmniej 12-miesięczną praktykę w zakresie konserwacji tych zabytków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "W dziedzinach nie objętych programem wyższych studiów, o których mowa w ust. 1, prace konserwatorskie przy zabytkach ruchomych mogą prowadzić osoby posiadające przynajmniej średnie wykształcenie w danej dziedzinie i co najmniej 5-letnią praktykę w tym zakresie.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "note",
-   "text": "[Strona 2 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Prace archeologiczne i wykopaliskowe mogą być prowadzone przez osoby, które posiadają dyplom ukończenia wyższych studiów na kierunku archeologia i tytuł zawodowy magistra oraz odbyły po uzyskaniu dyplomu co najmniej 12-miesięczną archeologiczną praktykę wykopaliskową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Do praktyki, o której mowa w ust. 1, nie zalicza się uczestnictwa w pracach archeologicznych prowadzonych metodą powierzchniową, nadzorów archeologicznych oraz rozpoznawania archeologicznych dóbr kultury za pomocą odwiertów.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2. Wniosek o udzielenie zezwolenia na prowadzenie prac archeologicznych i wykopaliskowych oprócz danych, o których mowa w ust. 1, ponadto zawiera:"
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Do spraw wszczętych przed dniem wejścia w życie rozporządzenia, a nie zakończonych wydaniem decyzji ostatecznej, stosuje się przepisy niniejszego rozporządzenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "1) opis technicznego zabezpieczenia wykopów w czasie wykonywania tych prac,"
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Osoby, które uzyskały zaświadczenie o kwalifikacjach na podstawie 8 19 rozporządzenia Ministra Kultury i Sztuki z dnia 24 sierpnia 1964 r. w sprawie zezwoleń na prowadzenie prac konserwatorskich przy zabytkach i archeologicznych prac wykopaliskowych (Dz. U. Nr 31, poz. 197) oraz § 17—19 rozporządzenia Ministra Kultury i Sztuki z dnia 11 stycznia 1994 r. o zasadach i trybie udzielania zezwoleń na prowadzenie prac konserwatorskich przy zabytkach oraz prac archeologicznych i wykopaliskowych, warunkach ich prowadzenia i kwalifikacjach osób, które mają prawo prowadzenia tej działalności (Dz. U. Nr 16, poz. 55), zachowują uprawnienia w dotychczasowym zakresie.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "2) opis sposobu uporządkowania terenu po zakończeniu prac,"
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "3) zgodę właściciela lub użytkownika gruntu na prowadzenie prac, jeżeli nie jest on wnioskodawcą."
-  },
-  {
-   "type": "ocr",
-   "text": "8 4. 1. Konserwator może uzależnić rozpatrzenie wniosku, o którym mowa w 8 3, od przedłożenia przez wnioskodawcę dokumentacji niezbędnej dla prawidłowego przeprowadzenia prac konserwatorskich przy zabytku lub prac archeologicznych i wykopaliskowych, a także decyzji, uzgodnień lub opinii innych organów, wymaganych na podstawie odrębnych przepisów."
-  },
-  {
-   "type": "ocr",
-   "text": "2. W trakcie postępowania o wydanie zezwolenia na prowadzenie prac konserwatorskich przy zabytku nieruchomym konserwator może zalecić wnioskodawcy wykonanie prac archeologicznych i wykopaliskowych przy tym zabytku i przedłożenie dokumentacji z ich wykonania, jeżeli okaże się to niezbędne dla rozpatrzenia tego wniosku."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Na podstawie przedłożonej przez wnioskodawcę dokumentacji, o której mowa w ust. 1 i 2, konserwator może wskazać wnioskodawcy na konieczność wprowadzenia odpowiednich zmian w programie planowanych prac oraz w sposobie ich prowadzenia."
-  },
-  {
-   "type": "ocr",
-   "text": "4. Wnioskodawca składa konserwatorowi dla celów archiwalnych jeden egzemplarz dokumentacji, o której mowa w ust. 1i2."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 5. 1. Zezwolenie na prowadzenie prac konserwatorskich przy zabytku lub prac archeologicznych i wykopaliskowych zawiera:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) imię, nazwisko i adres zamieszkania wnioskodawcy lub nazwę i siedzibę jednostki organizacyjnej, będącej wnioskodawcą,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) określenie zabytku, przy którym będą prowadzone prace konserwatorskie, lub gruntu, na którym będą prowadzone prace archeologiczne i wykopaliskowe,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) zakres i sposób prowadzenia prac,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) imię, nazwisko i adres zamieszkania wykonawcy,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) określenie warunków prowadzenia przez wykonawcę dokumentacji przebiegu prac i ich wyników, w sposób umożliwiający jednoznaczną identyfikację i dokładną przestrzenną lokalizację wszystkich czynności oraz dokonanych odkryć,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) określenie warunków opracowania przez wykonawcę wniosków i zaleceń konserwatorskich, dotyczących użytkowania zabytku lub gruntu po zakończeniu prac,"
-  },
-  {
-   "type": "ocr",
-   "text": "7) określenie warunków, pod którymi zezwolenie może być cofnięte lub zmienione w razie ujawnienia, po jego wydaniu, okoliczności, które mają znaczenie dla zabytku i mogą mieć wpływ na zakres prowadzenia prac konserwatorskich przy tym zabytku,"
-  },
-  {
-   "type": "ocr",
-   "text": "8) termin rozpoczęcia i zakończenia prac."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Zezwolenie na prowadzenie prac archeologicznych i wykopaliskowych, oprócz danych, o których mowa w ust. 1, ponadto zawiera:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) wymóg dokonania szczegółowego rozpoznania terenowego i sporządzenia planu sytuacyjno-wysokościowego dla archeologicznego dobra kultury, zwłaszcza gdy to dobro kultury posiada własną formę krajobrazową,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) określenie warunków prowadzenia doraźnej konserwacji pozyskanych dóbr kultury,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) określenie warunków prowadzenia inwentaryzacji polowej pozyskanych dóbr kultury i ich dokumentacji,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) opis technicznego zabezpieczenia wykopów w czasie wykonywania prac,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) opis sposobu uporządkowania terenu po zakończeniu prac, a w przypadku gruntów rolnych i leśnych — ustalenie kierunku i sposobu przeprowadzenia rekultywacji tych gruntów, zgodnie z przepisami o ochronie gruntów rolnych i leśnych,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) imię, nazwisko i adres zamieszkania kierownika prac."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Konserwator może w zezwoleniu nałożyć na wykonawcę obowiązek zawiadomienia go o terminie podjęcia określonych czynności związanych z wydanym zezwoleniem, przynajmniej na 3 dni przed ich rozpoczęciem."
-  },
-  {
-   "type": "ocr",
-   "text": "4. Wykonawca jest zobowiązany przekazać konserwatorowi dokumentację, o której mowa w ust. 1 pkt5, w terminie 3 miesięcy od dnia zakończenia prac konserwatorskich przy zabytku, a w przypadku prac archeologicznych i wykopaliskowych — w terminie 6 miesięcy od dnia ich zakończenia."
-  },
-  {
-   "type": "ocr",
-   "text": "5. Wnioski i zalecenia konserwatorskie, o których mowa w ust. 1 pkt 6, wykonawca jest zobowiązany przekazać konserwatorowi w terminie 3 miesięcy od dnia zakończenia prac konserwatorskich przy zabytku lub prac archeologicznych i wykopaliskowych."
-  },
-  {
-   "type": "ocr",
-   "text": "8 6. O rozpoczęciu i zakończeniu prac konserwatorskich przy zabytku lub prac archeologicznych i wykopaliskowych wykonawca jest zobowiązany zawiadomić"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "konserwatora na 7 dni przed zamierzonym terminem ich rozpoczęcia i zakończenia tych prac."
-  },
-  {
-   "type": "ocr",
-   "text": "8 7. 1. Wykonawca jest zobowiązany niezwłocznie zawiadomić konserwatora o wszelkich zagrożeniach lub nowych okolicznościach ujawnionych w toku prac konserwatorskich przy zabytku, które mogą mieć wpływ na stan zachowania zabytku, lub o wszelkich nowych okolicznościach ujawnionych w toku prac archeologicznych i wykopaliskowych, które mogą mieć wpływ na zakres i sposób ich prowadzenia."
-  },
-  {
-   "type": "ocr",
-   "text": "2. O przerwach w pracach archeologicznych i wykopaliskowych bezzwtocznie zawiadamia się konserwatora."
-  },
-  {
-   "type": "ocr",
-   "text": "3. W przypadkach, o których mowa w ust. 1, konserwator jest zobowiązany wydać wykonawcy odpowiednie zalecenia w terminie nie późniejszym niż 7 dni od dnia przyjęcia zawiadomienia."
-  },
-  {
-   "type": "ocr",
-   "text": "4. Konserwator może, jeżeli jest to uzasadnione zagrożeniami lub okolicznościami, o których mowa w ust. 1, wydane zezwolenie zmienić lub je cofnąć."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 8. 1. W razie stwierdzenia, że prace konserwatorskie przy zabytku lub prace archeologiczne i wykopaliskowe są prowadzone niezgodnie z zezwoleniem udzielonym na ich prowadzenie, konserwator może zobowiązać osobę prowadzącą te prace do usunięcia stwierdzonych uchybień w określonym terminie lub cofnąć udzielone zezwolenie, jeżeli zalecenia konserwatora nie zostaną wykonane."
-  },
-  {
-   "type": "ocr",
-   "text": "2. W przypadku cofnięcia zezwolenia na prowadzenie prac archeologicznych i wykopaliskowych, prowadzący te prace jest zobowiązany przywrócić teren do stanu poprzedniego."
-  },
-  {
-   "type": "ocr",
-   "text": "8 9. Konserwator uczestniczy w odbiorze częściowym i końcowym wykonanych prac konserwatorskich przy zabytku lub prac archeologicznych i wykopaliskowych, sprawdzając zgodność ich przeprowadzenia z udzielonym zezwoleniem."
-  },
-  {
-   "type": "ocr",
-   "text": "8 10. 1. Przy kierowaniu robotami budowlanymi i wykonywaniu nadzoru inwestorskiego mogą być zatrudniane osoby, które posiadają odpowiednie uprawnienia budowlane, określone przepisami Prawa budowlanego, i wykażą się co najmniej 2-letnią praktyką na budowie przy zabytkach nieruchomych."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Pracami konserwatorskimi, polegającymi na zabezpieczeniu, uzupełnieniu, rekonstrukcji lub konserwacji parków zabytkowych albo innego rodzaju zorganizowanej zieleni zabytkowej, mogą kierować osoby, które posiadają dyplom ukończenia wyższych studiów na kierunkach architektury krajobrazu, ogrodnictwa lub leśnictwa i tytuf zawodowy magistra oraz odbyty po uzyskaniu dyplomu co najmniej 12-miesięczną praktykę przy konserwacji i pielęgnacji tego rodzaju zabytków."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Prace o charakterze technicznym w zakresie, o którym mowa w ust. 2, mogą być prowadzone przez osoby, które posiadają średnie wykształcenie w zakresie pielęgnacji zieleni albo praktyczne przygotowanie do prowadzenia takich prac."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 11. 1. Prace konserwatorskie przy zabytkach ruchomych mogą prowadzić osoby, które posiadają dyplom ukończenia wyższych studiów na kierunku konserwacja i restauracja dziet sztuki tub wyższych studiów zawodowych na specjalności w zakresie konserwacji zabytków i tytuł zawodowy magistra oraz odbyły po uzyskaniu dyplomu co najmniej 12-miesięczną praktykę w zakresie konserwacji tych zabytków."
-  },
-  {
-   "type": "ocr",
-   "text": "2. W dziedzinach nie objętych programem wyższych studiów, o których mowa w ust. 1, prace konserwatorskie przy zabytkach ruchomych mogą prowadzić osoby posiadające przynajmniej średnie wykształcenie w danej dziedzinie i co najmniej 5-letnią praktykę w tym zakresie."
-  },
-  {
-   "type": "ocr",
-   "text": "8 12. 1. Prace archeologiczne i wykopaliskowe mogą być prowadzone przez osoby, które posiadają dyplom ukończenia wyższych studiów na kierunku archeologia i tytut zawodowy magistra oraz odbyły po uzyskaniu dyplomu co najmniej 12-miesięczną archeologiczną praktykę wykopaliskową."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Do praktyki, o której mowa w ust. 1, nie zalicza się uczestnictwa w pracach archeologicznych prowadzonych metodą powierzchniową, nadzorów archeologicznych oraz rozpoznawania archeologicznych dóbr kultury za pomocą odwiertów."
-  },
-  {
-   "type": "ocr",
-   "text": "8 13. Do spraw wszczętych przed dniem wejścia w życie rozporządzenia, a nie zakończonych wydaniem decyzji ostatecznej, stosuje się przepisy niniejszego rozporządzenia."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 14. Osoby, które uzyskały zaświadczenie o kwalifikacjach na podstawie 8 19 rozporządzenia Ministra Kultury i Sztuki z dnia 24 sierpnia 1964 r. w sprawie zezwoleń na prowadzenie prac konserwatorskich przy zabytkach i archeologicznych prac wykopaliskowych (Dz. U. Nr 31, poz. 197) oraz 8 17—19 rozporządzenia Ministra Kultury i Sztuki z dnia 11 stycznia 1994 r. o zasadach i trybie udzielania zezwoleń na prowadzenie prac konserwatorskich przy zabytkach oraz prac archeologicznych i wykopaliskowych, warunkach ich prowadzenia i kwalifikacjach osób, które mają prawo prowadzenia tej działalności (Dz. U. Nr 16, poz. 55), zachowują uprawnienia w dotychczasowym zakresie."
-  },
-  {
-   "type": "ocr",
-   "text": "8 15. Rozporządzenie wchodzi w życie po uptywie 14 dni od dnia ogłoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Kultury i Dziedzictwa Narodowego: K. M. Ujazdowski"
   }
  ],

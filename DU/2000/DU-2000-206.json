@@ -1,107 +1,159 @@
 {
  "eli": "DU/2000/206",
  "title": "Rozporządzenie Rady Ministrów z dnia 7 marca 2000 r. zmieniające rozporządzenie w sprawie określenia przypadków oraz warunków i sposobów użycia przez policjantów środków przymusu bezpośredniego.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/206/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 7 marca 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "zmieniające rozporządzenie w sprawie określenia przypadków oraz warunków i sposobów użycia przez policjantów środków przymusu bezpośredniego."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 16 ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. Nr 30, poz. 179, z 1991 r. Nr 94, poz. 422 i Nr 107, poz. 461, z 1992 r. Nr 54, poz. 254, z 1994 r. Nr 53, poz. 214, z 1995 r. Nr 4, poz. 17, Nr 34, poz. 163 i Nr 104, poz. 515, z 1996 r. Nr 59, poz. 269 i Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153, Nr 80, poz. 499, Nr 88, poz. 554, Nr 106, poz. 680, Nr 123, poz. 779 i Nr 141, poz. 943, z 1998 r. Nr 106, poz. 668 oraz z 1999 r. Nr 110, poz. 1255) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "8 1. W rozporządzeniu Rady Ministrów z dnia 17 września 1990 r. w sprawie określenia przypadków oraz warunków i sposobów użycia przez policjantów środków przymusu bezpośredniego (Dz. U. Nr 70, poz. 410 i z 1996 r. Nr 10, poz. 58) wprowadza się następujące zmiany:"
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Rady Ministrów z dnia 17 września 1990 r. w sprawie określenia przypadków oraz warunków i sposobów użycia przez policjantów środków przymusu bezpośredniego (Dz. U. Nr 70, poz. 410 i z 1996 r. Nr 10, poz. 58) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 1 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Policjant może odstąpić od wzywania osoby do zachowania zgodnego z prawem oraz od uprzedzenia o zastosowaniu środków przymusu bezpośredniego lub oddania strzału ostrzegawczego pociskami niepenetracyjnymi, jeżeli zwtoka groziłaby niebezpieczeństwem dla życia lub zdrowia ludzkiego, a także mienia.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 14 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Wodne środki obezwładniające można stosować w przypadkach:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) odpierania czynnej napaści,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) pokonywania czynnego i biernego oporu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) przeciwdziałania niszczeniu mienia.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "po § 15 dodaje się § 15a w brzmieniu: 8 15a. 1. Pociski niepenetracyjne mogą być wyłącznie pociskami gumowymi miotanymi z broni palnej gładkolufowej albo broni alarmowej i sygnałowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Pociski niepenetracyjne można stosować, z zastrzeżeniem ust. 3, w przypadkach:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "odpierania czynnej napaści,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "odpierania gwałtownego zamachu na mienie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_2/pkt_3",
+       "text": "odpierania bezpośredniego bezprawnego zamachu przeciwko życiu lub zdrowiu ludzkiemu albo w pościgu za sprawcą takiego zamachu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_2/pkt_4",
+       "text": "zbiorowego zakłócenia porządku publicznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "Pociski niepenetracyjne mogą być stosowane w budynkach, w przypadkach, o których mowa w ust. 2 pkt 1—3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_1/ust_4",
+     "text": "Pociski niepenetracyjne stosuje się: 1)oddając strzał ostrzegawczy (salwę ostrzegawczą) w górę,",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_4/pkt_2",
+       "text": "celując w dolną część ciała, do wysokości pasa osoby.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_1/ust_5",
+     "text": "W przypadku działań sit zwartych w sytuacjach zbiorowego zakłócenia porządku publicznego, przepisy 8 12 ust. 2 i 3 stosuje się odpowiednio.”",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) w 8 1 ust. 2 otrzymuje brzmienie:"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "„2. Policjant może odstąpić od wzywania osoby do zachowania zgodnego z prawem oraz od uprzedzenia o zastosowaniu środków przymusu bezpośredniego lub oddania strzału ostrzegawczego pociskami niepenetracyjnymi, jeżeli zwtoka groziłaby niebezpieczeństwem dla życia lub zdrowia ludzkiego, a także mienia.”;"
-  },
-  {
-   "type": "ocr",
-   "text": "2) w § 14 ust. 1 otrzymuje brzmienie:"
-  },
-  {
-   "type": "ocr",
-   "text": "„1. Wodne środki obezwtadniajace można stosować w przypadkach:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) odpierania czynnej napaści,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) pokonywania czynnego i biernego oporu,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) przeciwdziałania niszczeniu mienia.”;"
-  },
-  {
-   "type": "ocr",
-   "text": "3) po 8 15 dodaje się $ 15a w brzmieniu: 8 15a. 1. Pociski niepenetracyjne mogą być wytącznie pociskami gumowymi miotanymi z broni palnej gładkolufowej albo broni alarmowej i sygnałowej."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Pociski niepenetracyjne można stosować, z zastrzeżeniem ust. 3, w przypadkach:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) odpierania czynnej napaści,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) odpierania gwattownego zamachu na mienie,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) odpierania bezpośredniego bezprawnego zamachu przeciwko życiu lub zdrowiu ludzkiemu albo w pościgu za sprawcą takiego zamachu,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) zbiorowego zakłócenia porządku publicznego."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Pociski niepenetracyjne mogą być stosowane w budynkach, w przypadkach, o których mowa w ust. 2 pkt 1—3."
-  },
-  {
-   "type": "ocr",
-   "text": "4. Pociski niepenetracyjne stosuje się: 1)oddając strzał ostrzegawczy (salwę ostrzegawczą) w górę,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) celując w dolną część ciała, do wysokości pasa osoby."
-  },
-  {
-   "type": "ocr",
-   "text": "5. W przypadku działań sit zwartych w sytuacjach zbiorowego zakłócenia porządku publicznego, przepisy 8 12 ust. 2 i 3 stosuje się odpowiednio.”"
-  },
-  {
-   "type": "ocr",
-   "text": "8 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Prezes Rady Ministrów: w z. L. Balcerowicz"
   }
  ],

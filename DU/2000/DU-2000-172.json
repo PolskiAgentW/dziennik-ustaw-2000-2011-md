@@ -1,171 +1,284 @@
 {
  "eli": "DU/2000/172",
  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 14 lutego 2000 r. w sprawie wzywania osób podlegających powszechnemu obowiązkowi obrony przez organy wojskowe.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/172/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 14 lutego 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "w sprawie wzywania osób podlegających powszechnemu obowiązkowi obrony przez organy wojskowe."
   },
   {
-   "type": "ocr",
-   "text": "Na podstawie art. 52 ust. 5 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 1992 r. Nr 4, poz. 16, Nr 40, poz. 174: Nr 54, poz. 254, z 1994 r. Nr 43, poz. 165, z 1996 r. Nr 7, poz. 44, Nr 10, poz. 56 i Nr 106, poz. 496, z 1997 r. Nr 6, poz. 31, Nr 28, poz. 153, Nr 80, poz. 495, Nr 88, poz. 554, Nr 121, poz. 770 i Nr 141, poz. 944,"
+   "type": "text",
+   "text": "Na podstawie art. 52 ust. 5 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 1992 r. Nr 4, poz. 16, Nr 40, poz. 174: Nr 54, poz. 254, z 1994 r. Nr 43, poz. 165, z 1996 r. Nr 7, poz. 44, Nr 10, poz. 56 i Nr 106, poz. 496, z 1997 r. Nr 6, poz. 31, Nr 28, poz. 153, Nr 80, poz. 495, Nr 88, poz. 554, Nr 121, poz. 770 i Nr 141, poz. 944, z 1998 r. Nr 162, poz. 1114 i 1126, z 1999 r. Nr 50, poz. 500 oraz z 2000 r. Nr 12, poz. 136) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "z 1998 r. Nr 162, poz. 1114 i 1126, z 1999 r. Nr 50, poz. 500 oraz z 2000 r. Nr 12, poz. 136) zarządza się, co następuje:"
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "przypadki, w których osoby podlegające powszechnemu obowiązkowi obrony są obowiązane do oso-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "bistego stawienia się na wezwanie organów wojskowych,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "tryb wzywania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "organy wojskowe właściwe w tych sprawach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "wzór wezwania.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "§ 1. Rozporządzenie określa:"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Organami właściwymi do wzywania osób podlegających powszechnemu obowiązkowi obrony do osobistego stawienia się są:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "wojskowy komendant uzupełnień,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "szef wojewódzkiego sztabu wojskowego.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) przypadki, w których osoby podlegające powszechnemu obowiązkowi obrony są obowiązane do oso-"
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Wojskowy komendant uzupełnień wzywa osobę podlegającą powszechnemu obowiązkowi obrony do osobistego stawienia się w wojskowej komendzie uzupełnień lub w miejscu określonym w wezwaniu, w celu:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "powołania do pełnienia czynnej służby wojskowej lub służby w obronie cywilnej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "wręczenia lub wycofania karty skierowania do pełnienia służby w formacjach uzbrojonych nie wchodzących w skład Sit Zbrojnych, określonych w odrębnych przepisach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "wręczenia, wycofania lub zmiany karty mobilizacyjnej albo nadania lub uchylenia przydziału mobilizacyjnego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "nadania lub uchylenia przydziału organizacyjno- -mobilizacyjnego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "skierowania do wojskowej komisji lekarskiej, wtym na specjalistyczne badania lekarskie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "założenia lub uzupełnienia ewidencji wojskowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_3/pkt_7",
+     "text": "przeniesienia do rezerwy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_3/pkt_8",
+     "text": "odebrania, wymiany lub wydania nowej książeczki wojskowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_3/pkt_9",
+     "text": "uregulowania stosunku do powszechnego obowiązku obrony, w przypadku, o którym mowa w art. 34 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "note",
-   "text": "[Strona 2 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Szef wojewódzkiego sztabu wojskowego wzywa osobę podlegającą powszechnemu obowiązkowi obrony do osobistego stawienia się w siedzibie wojewódzkiego sztabu wojskowego lub w miejscu określonym w wezwaniu, jeżeli osoba ta jest stroną postępowania w sprawie o ustalenie prawa do odszkodowania i jego wysokości lub w sprawie prowadzonej przed szefem wojewódzkiego sztabu wojskowego jako organem Il instancji.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "bistego stawienia się na wezwanie organów wojskowych,"
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "W przypadkach, o których mowa w § 3 i 4, mają zastosowanie przepisy Kodeksu postępowania administracyjnego.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "2) tryb wzywania,"
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "W razie konieczności wezwania, w przypadkach, o których mowa w § 3, większej liczby:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "pracowników zatrudnionych u jednego pracodawcy, wojskowy komendant uzupełnień, za zgodą pracodawcy, może dokonać czynności będących powodem wezwania w jego siedzibie lub innym wskazanym przez niego miejscu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "żołnierzy rezerwy lub innych osób podlegających powszechnemu obowiązkowi obrony, wojskowy komendant uzupełnień, za zgodą lub na wniosek właściwego dowódcy jednostki wojskowej, może dokonać czynności będących powodem wezwania w jednostce wojskowej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "osób podlegających powszechnemu obowiązkowi obrony, wojskowy komendant uzupełnień, za zgodą wójta lub burmistrza (prezydenta miasta), może dokonać czynności będących powodem wezwania w urzędzie gminy lub innym wskazanym przez niego miejscu.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "3) organy wojskowe właściwe w tych sprawach,"
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Wezwanie osoby podlegającej powszechnemu obowiązkowi obrony do osobistego stawienia się następuje, z zastrzeżeniem § 8, za pomocą wezwania w sprawie powszechnego obowiązku obrony, zwanego dalej „wezwaniem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Wezwanie jest drukiem ścisłego zarachowania. Kopie wykorzystanych wezwań przechowuje się przez okres dwóch lat, a następnie protokolarnie niszczy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Wezwanie uprawnia osobę wezwaną do bezpłatnego przejazdu pociągiem osobowym lub pospiesznym przedsiębiorstwa państwowego Polskie Koleje Państwowe w klasie drugiej albo autobusem przedsiębiorstwa Państwowej Komunikacji Samochodowej, najkrótszą drogą z miejsca zamieszkania do miejsca stawienia się i z powrotem, jeżeli organ wzywający nadał klauzulę uprawniającą do tego przejazdu i potwierdził ją podpisem oraz pieczęcią urzędową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "W razie braku możliwości skorzystania ze Srodków komunikacji państwowej osoba wezwana odbywa przejazd innym publicznym środkiem komunikacji, a koszty przejazdu zwraca organ wzywający na podstawie udokumentowanego oświadczenia tej osoby.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "Wzór wezwania określa załącznik do rozporządzenia.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "4) wzór wezwania."
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "W przypadku wręczania odznaczeń lub aktów mianowania na wyższe stopnie wojskowe albo obchodów świąt i innych uroczystości, stosuje się formę zaproszenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Jeżeli osoba podlegająca powszechnemu obowiązkowi obrony jest obowiązana uzyskać zwolnienie z pracy, to stosuje się wezwanie.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "8 2. Organami właściwymi do wzywania osób podlegających powszechnemu obowiązkowi obrony do osobistego stawienia się są:"
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "1) wojskowy komendant uzupełnień,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) szef wojewódzkiego sztabu wojskowego."
-  },
-  {
-   "type": "ocr",
-   "text": "8 3. Wojskowy komendant uzupełnień wzywa osobę podlegającą powszechnemu obowiązkowi obrony do osobistego stawienia się w wojskowej komendzie uzupełnień lub w miejscu określonym w wezwaniu, w celu:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) powołania do pełnienia czynnej służby wojskowej lub służby w obronie cywilnej,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) wręczenia lub wycofania karty skierowania do petnienia stużby w formacjach uzbrojonych nie wchodzących w skład Sit Zbrojnych, określonych w odrębnych przepisach,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) wręczenia, wycofania lub zmiany karty mobilizacyjnej albo nadania lub uchylenia przydziału mobilizacyjnego,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) nadania lub uchylenia przydziału organizacyjno- -mobilizacyjnego,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) skierowania do wojskowej komisji lekarskiej, wtym na specjalistyczne badania lekarskie,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) założenia lub uzupełnienia ewidencji wojskowej,"
-  },
-  {
-   "type": "ocr",
-   "text": "7) przeniesienia do rezerwy,"
-  },
-  {
-   "type": "ocr",
-   "text": "8) odebrania, wymiany lub wydania nowej książeczki wojskowej,"
-  },
-  {
-   "type": "ocr",
-   "text": "9) uregulowania stosunku do powszechnego obowiązku obrony, w przypadku, o którym mowa w art. 34 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej."
-  },
-  {
-   "type": "ocr",
-   "text": "8 4. Szef wojewódzkiego sztabu wojskowego wzywa osobę podlegającą powszechnemu obowiązkowi obrony do osobistego stawienia się w siedzibie wojewódzkiego sztabu wojskowego lub w miejscu określonym w wezwaniu, jeżeli osoba ta jest stroną postępowania w sprawie o ustalenie prawa do odszkodowania i jego wysokości lub w sprawie prowadzonej przed szefem wojewódzkiego sztabu wojskowego jako organem Il instancji."
-  },
-  {
-   "type": "ocr",
-   "text": "8 5. W przypadkach, o których mowa w 8 3 i 4, mają zastosowanie przepisy Kodeksu postępowania administracyjnego."
-  },
-  {
-   "type": "ocr",
-   "text": "8 6. W razie konieczności wezwania, w przypadkach, o których mowa w 8 3, większej liczby:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) pracowników zatrudnionych u jednego pracodawcy, wojskowy komendant uzupełnień, za zgodą pracodawcy, może dokonać czynności będących powodem wezwania w jego siedzibie lub innym wskazanym przez niego miejscu;"
-  },
-  {
-   "type": "ocr",
-   "text": "2) żołnierzy rezerwy lub innych osób podlegających powszechnemu obowiązkowi obrony, wojskowy komendant uzupełnień, za zgodą lub na wniosek właściwego dowódcy jednostki wojskowej, może dokonać czynności będących powodem wezwania w jednostce wojskowej;"
-  },
-  {
-   "type": "ocr",
-   "text": "3) osób podlegających powszechnemu obowiązkowi obrony, wojskowy komendant uzupełnień, za zgodą wójta lub burmistrza (prezydenta miasta), może dokonać czynności będących powodem wezwania w urzędzie gminy lub innym wskazanym przez niego miejscu."
-  },
-  {
-   "type": "ocr",
-   "text": "8 7. 1. Wezwanie osoby podlegającej powszechnemu obowiązkowi obrony do osobistego stawienia się następuje, z zastrzeżeniem $ 8, za pomocą wezwania w sprawie powszechnego obowiązku obrony, zwanego dalej „wezwaniem”."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Wezwanie jest drukiem ścisłego zarachowania. Kopie wykorzystanych wezwań przechowuje się przez okres dwóch lat, a następnie protokolarnie niszczy."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Wezwanie uprawnia osobę wezwaną do bezpłatnego przejazdu pociągiem osobowym lub pospiesznym przedsiębiorstwa państwowego Polskie Koleje Państwowe w klasie drugiej albo autobusem przedsiębiorstwa Państwowej Komunikacji Samochodowej, najkrótszą drogą z miejsca zamieszkania do miejsca stawienia się i z powrotem, jeżeli organ wzywający nadał klauzulę uprawniającą do tego przejazdu i potwierdzit ją podpisem oraz pieczęcią urzędową."
-  },
-  {
-   "type": "ocr",
-   "text": "4. W razie braku możliwości skorzystania ze Srodków komunikacji państwowej osoba wezwana odbywa przejazd innym publicznym środkiem komunikacji, a koszty przejazdu zwraca organ wzywający na podstawie udokumentowanego oświadczenia tej osoby."
-  },
-  {
-   "type": "ocr",
-   "text": "5. Wzór wezwania określa załącznik do rozporządzenia."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 8. 1. W przypadku wręczania odznaczeń lub aktów mianowania na wyższe stopnie wojskowe albo obchodów świąt i innych uroczystości, stosuje się formę zaproszenia."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Jeżeli osoba podlegająca powszechnemu obowiązkowi obrony jest obowiązana uzyskać zwolnienie z pracy, to stosuje się wezwanie."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 9. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Obrony Narodowej: J. Onyszkiewicz"
   },
   {

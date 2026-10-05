@@ -1,191 +1,377 @@
 {
  "eli": "DU/2000/884",
  "title": "Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 14 września 2000 r. w sprawie sposobu sporządzania i aktualizacji spisu wyborców dla obwodów głosowania utworzonych na polskich statkach morskich w wyborach Prezydenta Rzeczypospolitej Polskiej.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/884/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA TRANSPORTU I GOSPODARKI MORSKIEJ"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 14 września 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "w sprawie sposobu sporządzania i aktualizacji spisu wyborców dla obwodów głosowania utworzonych na polskich statkach morskich w wyborach Prezydenta Rzeczypospolitej Polskiej."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 35 ust. 3 ustawy z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej (Dz. U. z 2000 r. Nr 47, poz. 544) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "8 1. 1. Spis wyborców dla obwodu głosowania utworzonego na polskim statku morskim sporządza kapitan statku, zwany dalej „kapitanem”."
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Spis wyborców dla obwodu głosowania utworzonego na polskim statku morskim sporządza kapitan statku, zwany dalej „kapitanem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Spis wyborców sporządza się w dwóch egzemplarzach.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2. Spis wyborców sporządza się w dwóch egzemplarzach."
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Spis wyborców, o którym mowa w § 1, sporządza się na formularzach, których wzory określa rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 sierpnia 2000 r. w sprawie spisu wyborców oraz wydawania zaświadczeń o prawie do głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej (Dz. U. Nr 72, poz. 849).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Spis wyborców sporządza się zgodnie z rubrykami formularza, z tym że w rubryce „adres zamieszkania” wpisuje się adres stałego zamieszkania wyborcy w kraju, w odniesieniu zaś do obywateli polskich stale zamieszkałych za granicą wpisuje się adres zamieszkania wyborcy za granicą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Spis wyborców sporządza się w kolejności alfabetycznej nazwisk wyborców.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "§ 2. 1. Spis wyborców, o którym mowa w $ 1, sporządza się na formularzach, których wzory określa rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 sierpnia 2000 r. w sprawie spisu wyborców oraz wydawania zaświadczeń o prawie do gtosowania w wyborach Prezydenta Rzeczypospolitej Polskiej (Dz. U. Nr 72, poz. 849)."
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Spis wyborców sporządza się pismem maszynowym lub w formie wydruku komputerowego albo pismem ręcznym — atramentem lub długopisem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Formularz spisu wyborców zapisuje się dwustronnie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "W razie sporządzania spisu w formie wydruku komputerowego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_3/pkt_1",
+       "text": "można przyjąć układ formularza odmienny od określonego we wzorze, pod warunkiem zamieszczenia wszystkich danych przewidzianych w tym wzorze,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_3/pkt_2",
+       "text": "formularz spisu wyborców zapisuje się dwustronnie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_3/pkt_3",
+       "text": "nie stosuje się warunku określonego w ust. 2.",
+       "children": []
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2. Spis wyborców sporządza się zgodnie z rubrykami formularza, z tym że w rubryce „adres zamieszkania” wpisuje się adres stałego zamieszkania wyborcy w kraju, w odniesieniu zaś do obywateli polskich stale zamieszkałych za granicą wpisuje się adres zamieszkania wyborcy za granicą."
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Kapitan na podstawie spisu wyborców sporządza wykaz osób wpisanych do spisu i niezwłocznie przekazuje go armatorowi, wskazując w wykazie wszystkie dane o osobach wymienionych w spisie wyborców.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Na podstawie wykazu, o którym mowa w ust. 1, armator zawiadamia niezwłocznie urzędy gmin właściwe ze względu na miejsce zamieszkania osób ujętych w wykazie o wpisaniu ich do spisu wyborców w obwodzie głosowania utworzonym na polskim statku morskim.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "3. Spis wyborców sporządza się w kolejności alfabetycznej nazwisk wyborców."
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Kapitan podpisuje spis wyborców i opatruje go swoją pieczęcią.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "$ 3. 1. Spis wyborców sporządza się pismem maszynowym lub w formie wydruku komputerowego albo pismem ręcznym — atramentem lub długopisem."
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Kapitan przekazuje jeden egzemplarz spisu wyborców przewodniczącemu obwodowej komisji wyborczej najpóźniej w przeddzień wyborów, a drugi egzemplarz zabezpiecza.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "2. Formularz spisu wyborców zapisuje się dwustronnie."
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Kapitan powiadamia wyborców o sporządzeniu spisu wyborców oraz o miejscu i czasie jego udostępnienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Podczas udostępnienia spisu wyborców do publicznego wglądu każda osoba uprawniona do głosowania może żądać sprawdzenia prawidłowości sporządzenia spisu wyborców.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "3. W razie sporządzania spisu w formie wydruku komputerowego:"
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Po wydaniu zaświadczeń, o których mowa w art. 33 ust. 1 i 2 ustawy z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej, zwanej dalej „ustawą”, kapitan skreśla wyborcę ze spisu wyborców, umieszczając w rubryce spisu „uwagi” adnotację „zaświadczenie”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Wzory zaświadczeń o prawie do głosowania w dniu pierwszego głosowania i o prawie do giosowania w dniu ponownego głosowania określa rozporządzenie, o którym mowa w § 2 ust. 1.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) można przyjąć uktad formularza odmienny od określonego we wzorze, pod warunkiem zamieszczenia wszystkich danych przewidzianych w tym wzorze,"
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Spis wyborców jest aktualizowany do dnia przekazania przewodniczącemu obwodowej komisji wyborczej przez wpisanie wyborcy na dodatkowym formularzu spisu lub skreślenie ze spisu już sporządzonego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Aktualizacji, o której mowa w ust. 1, podlegają obydwa egzemplarze spisu wyborców.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Przepisy 8 2 i § 3 stosuje się odpowiednio.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2) formularz spisu wyborców zapisuje się dwustronnie,"
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Po sporządzeniu spisu wyborców przed dniem pierwszego głosowania, na dodatkowym formularzu spisu wyborców wpisuje się osoby, które:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "zostały pominięte w spisie, jeżeli reklamacja w sprawie ich wpisania do spisu została uwzględniona przez kapitana,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_1/pkt_2",
+       "text": "zostały pominięte w spisie w wyniku oczywistego błędu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Że spisu wyborców skreśla się osoby:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_2/pkt_1",
+       "text": "wobec których kapitan wydał decyzję o ich skreśleniu ze spisu w wyniku reklamacji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_2/pkt_2",
+       "text": "które zostały umieszczone w spisie w wyniku oczywistego błędu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_2/pkt_3",
+       "text": "którym wydano zaświadczenia o prawie do głosowania, o których mowa w art. 33 ust. 1 ustawy.",
+       "children": []
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "3) nie stosuje się warunku określonego w ust. 2."
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "W okresie między dniem pierwszego głosowania a dniem ponownego głosowania, na dodatkowym formularzu spisu wyborców wpisuje się osoby, które w okresie pomiędzy dniem wyborów a datą ponownego głosowania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_1/pkt_1",
+       "text": "uzyskały prawo wybierania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_1/pkt_2",
+       "text": "uzyskały decyzję kapitana o wpisaniu ich do spisu wyborców w wyniku reklamacji wniesionej przed dniem wyborów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_1/pkt_3",
+       "text": "zostały pominięte w spisie wyborców w wyniku oczywistego błędu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Ze spisu wyborców w okresie, o którym mowa w ust. 1, skreśla się osoby:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_2/pkt_1",
+       "text": "wobec których kapitan wydał decyzję o ich skreśleniu ze spisu wyborców w wyniku reklamacji,",
+       "children": [
+        {
+         "type": "text",
+         "text": "2)które zostały umieszczone w spisie wyborców w wyniku oczywistego błędu,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_2/pkt_3",
+       "text": "którym wydano zaświadczenie o prawie do głosowania, o którym mowa w art. 33 ust. 2 ustawy.",
+       "children": []
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "§ 4. 1. Kapitan na podstawie spisu wyborców sporządza wykaz osób wpisanych do spisu i niezwłocznie przekazuje go armatorowi, wskazując w wykazie wszystkie dane o osobach wymienionych w spisie wyborców."
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia. '",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "2. Na podstawie wykazu, o którym mowa w ust. 1, armator zawiadamia niezwłocznie urzędy gmin właściwe ze względu na miejsce zamieszkania osób ujętych w wykazie o wpisaniu ich do spisu wyborców w obwodzie głosowania utworzonym na polskim statku morskim."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 5. Kapitan podpisuje spis wyborców i opatruje go swoją pieczęcią."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 6. Kapitan przekazuje jeden egzemplarz spisu wyborców przewodniczącemu obwodowej komisji wyborczej najpóźniej w przeddzień wyborów, a drugi egzemplarz zabezpiecza."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 7. 1. Kapitan powiadamia wyborców o sporządzeniu spisu wyborców oraz o miejscu i czasie jego udostępnienia."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Podczas udostępnienia spisu wyborców do publicznego wglądu każda osoba uprawniona do głosowania może żądać sprawdzenia prawidłowości sporządzenia spisu wyborców."
-  },
-  {
-   "type": "note",
-   "text": "[Strona 2 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "8 8. 1. Po wydaniu zaświadczeń, o których mowa w art. 33 ust. 1 i 2 ustawy z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej, zwanej dalej „ustawą”, kapitan skreśla wyborcę ze spisu wyborców, umieszczając w rubryce spisu „uwagi” adnotację „zaświadczenie”."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Wzory zaświadczeń o prawie do głosowania w dniu pierwszego głosowania i o prawie do giosowania w dniu ponownego głosowania określa rozporządzenie, o którym mowa w 8 2 ust. 1."
-  },
-  {
-   "type": "ocr",
-   "text": "8 9. 1. Spis wyborców jest aktualizowany do dnia przekazania przewodniczącemu obwodowej komisji wyborczej przez wpisanie wyborcy na dodatkowym formularzu spisu lub skreślenie ze spisu już sporządzonego."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Aktualizacji, o której mowa w ust. 1, podlegają obydwa egzemplarze spisu wyborców."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Przepisy 8 2 i § 3 stosuje się odpowiednio."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 10. 1. Po sporządzeniu spisu wyborców przed dniem pierwszego głosowania, na dodatkowym formularzu spisu wyborców wpisuje się osoby, które:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) zostaty pominięte w spisie, jeżeli reklamacja w sprawie ich wpisania do spisu została uwzględniona przez kapitana,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) zostały pominięte w spisie w wyniku oczywistego błędu."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Że spisu wyborców skreśla się osoby:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) wobec których kapitan wydał decyzję o ich skreśleniu ze spisu w wyniku reklamacji,"
-  },
-  {
-   "type": "ocr",
-   "text": "Poz. 884 i 885"
-  },
-  {
-   "type": "ocr",
-   "text": "2) które zostaty umieszczone w spisie w wyniku oczywistego błędu,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) którym wydano zaświadczenia o prawie do głosowania, o których mowa w art. 33 ust. 1 ustawy."
-  },
-  {
-   "type": "ocr",
-   "text": "8 11. 1. W okresie między dniem pierwszego głosowania a dniem ponownego głosowania, na dodatkowym formularzu spisu wyborców wpisuje się osoby, które w okresie pomiędzy dniem wyborów a datą ponownego głosowania:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) uzyskały prawo wybierania,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) uzyskały decyzję kapitana o wpisaniu ich do spisu wyborców w wyniku reklamacji wniesionej przed dniem wyborów,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) zostaty pominięte w spisie wyborców w wyniku oczywistego btedu."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Ze spisu wyborców w okresie, o którym mowa w ust. 1, skreśla się osoby:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) wobec których kapitan wydał decyzję o ich skreśleniu ze spisu wyborców w wyniku reklamacji,"
-  },
-  {
-   "type": "ocr",
-   "text": "2)które zostały umieszczone w spisie wyborców w wyniku oczywistego błędu,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) którym wydano zaświadczenie o prawie do głosowania, o którym mowa w art. 33 ust. 2 ustawy."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 12. Rozporządzenie wchodzi w życie z dniem ogłoszenia. '"
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Transportu i Gospodarki Morskiej: w z. K.J. Tchórzewski"
   }
  ],

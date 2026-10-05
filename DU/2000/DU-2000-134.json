@@ -1,7 +1,7 @@
 {
  "eli": "DU/2000/134",
  "title": "Rozporządzenie Ministra Finansów z dnia 31 stycznia 2000 r. w sprawie określenia wzorów legitymacji pracowników jednostek organizacyjnych kontroli skarbowej oraz ustalenia zasad ich wydawania i wymiany.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/134/text.pdf",
  "body": [
   {
@@ -86,229 +86,315 @@
   },
   {
    "type": "note",
-   "text": "[Strona 2 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
-   "text": "1) Generalny Inspektor Kontroli Skarbowej — inspektorom i pracownikom komórki organizacyjnej Ministerstwa Finansów, o której mowa w art. 10 ust. 3 ustawy, oraz inspektorom powołanym na stanowiska dyrektorów lub wicedyrektorów urzędów kontroli skarbowej,"
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Generalny Inspektor Kontroli Skarbowej — inspektorom i pracownikom komórki organizacyjnej Ministerstwa Finansów, o której mowa w art. 10 ust. 3 ustawy, oraz inspektorom powołanym na stanowiska dyrektorów lub wicedyrektorów urzędów kontroli skarbowej,",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "2) dyrektor urzędu kontroli skarbowej — inspektorom oraz, z zastrzeżeniem pkt 3, pracownikom zatrudnionym w tym urzędzie,"
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "dyrektor urzędu kontroli skarbowej — inspektorom oraz, z zastrzeżeniem pkt 3, pracownikom zatrudnionym w tym urzędzie,",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "3) dyrektor komórki organizacyjnej, wyodrębnionej w strukturze Ministerstwa Finansów dla realizacji celów dokumentacji skarbowej — pracownikom wywiadu skarbowego zatrudnionym w urzędach kontroli skarbowej."
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "dyrektor komórki organizacyjnej, wyodrębnionej w strukturze Ministerstwa Finansów dla realizacji celów dokumentacji skarbowej — pracownikom wywiadu skarbowego zatrudnionym w urzędach kontroli skarbowej.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "8 6. 1. Inspektor obowiązany jest oddać wystawcy legitymację stużbową do depozytu albo dokonać jej zwrotu w przypadku:"
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Inspektor obowiązany jest oddać wystawcy legitymację służbową do depozytu albo dokonać jej zwrotu w przypadku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "otrzymania urlopu bezpłatnego w wymiarze dłuższym niż jeden miesiąc lub urlopu wychowawczego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "zawieszenia w czynnościach służbowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_1/pkt_3",
+       "text": "nieobecności w pracy z powodu choroby trwającej dłużej niż jeden miesiąc,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_1/pkt_4",
+       "text": "ustania stosunku pracy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_6/ust_1/pkt_5",
+       "text": "odwołania ze stanowiska inspektora.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Przepis ust. 1 pkt 1—4 stosuje się odpowiednio do pracowników.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) otrzymania urlopu bezpłatnego w wymiarze dłuższym niż jeden miesiąc lub urlopu wychowawczego,"
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Legitymacja służbowa podlega wymianie w przypadku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "zmiany nazwiska,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "uszkodzenia lub zniszczenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_1/pkt_3",
+       "text": "zmiany stanowiska.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Wymiany legitymacji służbowych dokonują organy określone w §5.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2) zawieszenia w czynnosciach stuzbowych,"
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Dotychczas wydane legitymacje służbowe zachowują ważność do dnia 31 grudnia 2001 r.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "3) nieobecnosci w pracy z powodu choroby trwajacej dtuzej niz jeden miesiac,"
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Traci moc zarządzenie Ministra Finansów z dnia 15 lipca 1997 r. w sprawie określenia wzorów legitymacji pracowników jednostek organizacyjnych kontroli skarbowej oraz ustalenia zasad ich wydawania i wymiany (Monitor Polski Nr 49, poz. 473).",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "4) ustania stosunku pracy,"
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "5) odwotania ze stanowiska inspektora."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Przepis ust. 1 pkt 1—4 stosuje sie odpowiednio do pracowników."
-  },
-  {
-   "type": "ocr",
-   "text": "8 7. 1. Legitymacja służbowa podlega wymianie w przypadku:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) zmiany nazwiska,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) uszkodzenia lub zniszczenia,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) zmiany stanowiska."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Wymiany legitymacji stużbowych dokonują organy określone w $5."
-  },
-  {
-   "type": "ocr",
-   "text": "8 8. Dotychczas wydane legitymacje służbowe zachowują ważność do dnia 31 grudnia 2001 r."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 9. Traci moc zarządzenie Ministra Finansów z dnia 15 lipca 1997 r. w sprawie określenia wzorów legitymacji pracowników jednostek organizacyjnych kontroli skarbowej oraz ustalenia zasad ich wydawania i wymiany (Monitor Polski Nr 49, poz. 473)."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 10. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Finansów: w z. J. Bauc"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "Zatączniki do rozporządzenia Ministra Finansów z dnia 31 stycznia 2000 r. (poz. 134)"
-  },
-  {
-   "type": "ocr",
-   "text": "Załącznik nr 1"
-  },
-  {
-   "type": "ocr",
-   "text": "WZÓR LEGITYMACJI SŁUŻBOWEJ INSPEKTORA KONTROLI SKARBOWEJ ZATRUDNIONEGO W MINISTERSTWIE FINANSÓW"
-  },
-  {
-   "type": "ocr",
-   "text": "anes służbowa ep =kter= kontroll s a 1 _ zatrudnionego w Departamencie Kontrol Su w Ministerstwie Finansów"
-  },
-  {
-   "type": "ocr",
-   "text": "dobe om"
-  },
-  {
-   "type": "ocr",
-   "text": "Wy. dnia 28 września ro kontroli Hbr £ 1999 r. Nr 54, b 572 z późn. zm.). AN."
-  },
-  {
-   "type": "ocr",
-   "text": "Legitymacja ma kolor niebieski i jest dwustronnie foliowana. Strona przednia legitymacji zawiera: — wizerunek orła w kolorze biatym, na tle biato-czerwonej wstęgi, — napisy koloru czarnego. Strona odwrotna legitymacji zawiera: — napisy koloru czarnego, — zdjęcie, umieszczone w zaznaczonej ramce."
-  },
-  {
-   "type": "note",
-   "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "Załącznik nr 2"
-  },
-  {
-   "type": "ocr",
-   "text": "WZÓR LEGITYMACJI SŁUŻBOWEJ INSPEKTORA KONTROLI SKARBOWEJ ZATRUDNIONEGO W URZĘDZIE KONTROLI SKARBOWEJ"
-  },
-  {
-   "type": "ocr",
-   "text": "(podpis wystawcy)"
-  },
-  {
-   "type": "ocr",
-   "text": "Nazwisko"
-  },
-  {
-   "type": "ocr",
-   "text": "Imiona fotografia Okaziciel niniejszej jlejgityjnącji, jako organ kontroli skarbowej, jest upr do prowadzenia samo-"
-  },
-  {
-   "type": "ocr",
-   "text": "abezpieczania dowodów, Wania cen, skin inaestuchiwania świadków oraz osób kontrolowanych, wstępu i pojerenie jednostki kontrolowanej bez potrzeby uzyskiwania przep odlega rewizji osobistej. Ma również prawo do A."
-  },
-  {
-   "type": "ocr",
-   "text": "Legitymacja ma kolor niebieski i jest dwustronnie foliowana. Strona przednia legitymacji zawiera: — wizerunek orła w kolorze białym, na tle biało-czerwonej wstęgi, — napisy koloru czarnego. Strona odwrotna legitymacji zawiera: — napisy koloru czarnego, — zdjęcie, umieszczone w zaznaczonej ramce."
-  },
-  {
-   "type": "note",
-   "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "Załącznik nr 3"
-  },
-  {
-   "type": "ocr",
-   "text": "WZÓR LEGITYMACJI SŁUŻBOWEJ PRACOWNIKA JEDNOSTKI ORGANIZACYJNEJ KONTROLI SKARBOWEJ WYKONUJĄCEGO OSOBIŚCIE CZYNNOŚCI KONTROLNE"
-  },
-  {
-   "type": "ocr",
-   "text": "(podpis wystawcy)"
-  },
-  {
-   "type": "ocr",
-   "text": "Nazwisko"
-  },
-  {
-   "type": "ocr",
-   "text": "fotografia Imiona"
-  },
-  {
-   "type": "ocr",
-   "text": "onych mu przez inspektora i pod jego nadzorem, a także do szania się po terenie jednostki kontrolowanej bez potrzeby uzyki, nie podlega również kontroli osobistej."
-  },
-  {
-   "type": "ocr",
-   "text": "Legitymacja ma kolor zielony i jest dwustronnie foliowana. Strona przednia legitymacji zawiera: — wizerunek orła w kolorze białym, na tle biato-czerwonej wstęgi, — napisy koloru czarnego. Strona odwrotna legitymacji zawiera: — napisy koloru czarnego, — zdjęcie, umieszczone w zaznaczonej ramce."
-  },
-  {
-   "type": "note",
-   "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "Załącznik nr 4"
-  },
-  {
-   "type": "ocr",
-   "text": "WZÓR LEGITYMACJI SŁUŻBOWEJ PRACOWNIKA JEDNOSTKI ORGANIZACYJNEJ KONTROLI SKARBOWEJ NIE WYKONUJĄCEGO OSOBIŚCIE CZYNNOŚCI KONTROLNYCH"
-  },
-  {
-   "type": "ocr",
-   "text": "(podpis wystawcy)"
-  },
-  {
-   "type": "ocr",
-   "text": "fotografia"
-  },
-  {
-   "type": "ocr",
-   "text": "Legitymacja ma kolor żółty i jest dwustronnie foliowana. Strona przednia legitymacji zawiera: — wizerunek orta w kolorze białym, na tle biato-czerwonej wstęgi, — napisy koloru czarnego. Strona odwrotna legitymacji zawiera: — napisy koloru czarnego, — zdjęcie, umieszczone w zaznaczonej ramce."
-  },
-  {
-   "type": "note",
-   "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "Załącznik nr 5 OLITA POLSKA"
-  },
-  {
-   "type": "ocr",
-   "text": "IMIĘ"
-  },
-  {
-   "type": "ocr",
-   "text": "WZÓR LEGITYMACJI SŁUŻBOWEJ PRACOWNIKA WYWIADU SKARBOWEGO"
-  },
-  {
-   "type": "ocr",
-   "text": "Legitymacja dwustronnie zadrukowana siatką giloszową w kolorach oranzowym i brązowym, zafoliowana; składa- 0 4 FEISCR FE iS AE BBĘ E Ses oN n RNR OX > © 20383858 = faa 78 0 an —_ Se. 5 . Q zc „e >| ŻĘ se 5 też a R NS 5 < > ga 8 Oo © Bae ł ; EXoS |©) oO BO =] —- Og [—} 25 O sf << >O0O0eC 4 o EDC: 4 o £50 = © SĄ : a P28 as oO [e] Lege © BEA Ró D NU Oo BOA Zm O ESSE és) OFS ai o o orl? „aj fo}"
-  },
-  {
-   "type": "ocr",
-   "text": "es SE: 3 ~ $0260 zł EBSĄ a N ZEŻŃ 8 ko) Dac N co N QN = = O's 80 BEEN G N e Ol] |"
   }
  ],
- "annexes": [],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Finansów z dnia 31 stycznia 2000 r. (poz. 134) Załącznik nr 1",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR LEGITYMACJI SŁUŻBOWEJ INSPEKTORA KONTROLI SKARBOWEJ ZATRUDNIONEGO W MINISTERSTWIE FINANSÓW"
+    },
+    {
+     "type": "text",
+     "text": "anes służbowa ep =kter= kontroll s a 1 _ zatrudnionego w Departamencie Kontrol Su w Ministerstwie Finansów"
+    },
+    {
+     "type": "text",
+     "text": "dobę om"
+    },
+    {
+     "type": "text",
+     "text": "Wy. dnia 28 września ro kontroli Hbr £ 1999 r. Nr 54, b 572 z późn. zm.). AN."
+    },
+    {
+     "type": "text",
+     "text": "Legitymacja ma kolor niebieski i jest dwustronnie foliowana. Strona przednia legitymacji zawiera: — wizerunek orła w kolorze białym, na tle biało-czerwonej wstęgi, — napisy koloru czarnego. Strona odwrotna legitymacji zawiera: — napisy koloru czarnego, — zdjęcie, umieszczone w zaznaczonej ramce."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR LEGITYMACJI SŁUŻBOWEJ INSPEKTORA KONTROLI SKARBOWEJ ZATRUDNIONEGO W URZĘDZIE KONTROLI SKARBOWEJ"
+    },
+    {
+     "type": "text",
+     "text": "(podpis wystawcy)"
+    },
+    {
+     "type": "text",
+     "text": "Nazwisko"
+    },
+    {
+     "type": "text",
+     "text": "Imiona fotografia Okaziciel niniejszej jlejgityjnącji, jako organ kontroli skarbowej, jest upr do prowadzenia samo-"
+    },
+    {
+     "type": "text",
+     "text": "abezpieczania dowodów, Wania cen, skin inaestuchiwania świadków oraz osób kontrolowanych, wstępu i pojerenie jednostki kontrolowanej bez potrzeby uzyskiwania przep odlega rewizji osobistej. Ma również prawo do A."
+    },
+    {
+     "type": "text",
+     "text": "Legitymacja ma kolor niebieski i jest dwustronnie foliowana. Strona przednia legitymacji zawiera: — wizerunek orła w kolorze białym, na tle biało-czerwonej wstęgi, — napisy koloru czarnego. Strona odwrotna legitymacji zawiera: — napisy koloru czarnego, — zdjęcie, umieszczone w zaznaczonej ramce."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR LEGITYMACJI SŁUŻBOWEJ PRACOWNIKA JEDNOSTKI ORGANIZACYJNEJ KONTROLI SKARBOWEJ WYKONUJĄCEGO OSOBIŚCIE CZYNNOŚCI KONTROLNE"
+    },
+    {
+     "type": "text",
+     "text": "(podpis wystawcy)"
+    },
+    {
+     "type": "text",
+     "text": "Nazwisko"
+    },
+    {
+     "type": "text",
+     "text": "fotografia Imiona"
+    },
+    {
+     "type": "text",
+     "text": "onych mu przez inspektora i pod jego nadzorem, a także do szania się po terenie jednostki kontrolowanej bez potrzeby uzyki, nie podlega również kontroli osobistej."
+    },
+    {
+     "type": "text",
+     "text": "Legitymacja ma kolor zielony i jest dwustronnie foliowana. Strona przednia legitymacji zawiera: — wizerunek orła w kolorze białym, na tle biało-czerwonej wstęgi, — napisy koloru czarnego. Strona odwrotna legitymacji zawiera: — napisy koloru czarnego, — zdjęcie, umieszczone w zaznaczonej ramce."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR LEGITYMACJI SŁUŻBOWEJ PRACOWNIKA JEDNOSTKI ORGANIZACYJNEJ KONTROLI SKARBOWEJ NIE WYKONUJĄCEGO OSOBIŚCIE CZYNNOŚCI KONTROLNYCH"
+    },
+    {
+     "type": "text",
+     "text": "(podpis wystawcy)"
+    },
+    {
+     "type": "text",
+     "text": "fotografia"
+    },
+    {
+     "type": "text",
+     "text": "Legitymacja ma kolor żółty i jest dwustronnie foliowana. Strona przednia legitymacji zawiera: — wizerunek orta w kolorze białym, na tle biało-czerwonej wstęgi, — napisy koloru czarnego. Strona odwrotna legitymacji zawiera: — napisy koloru czarnego, — zdjęcie, umieszczone w zaznaczonej ramce."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5 OLITA POLSKA WZÓR LEGITYMACJI SŁUŻBOWEJ PRACOWNIKA WYWIADU SKARBOWEGO 4 FEISCR iS AE BBĘ Ses oN RNR OX © 20383858 faa 78 0",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "—_ Se. Q >| ŻĘ też a R < Oo © Bae |©) oO BO [—} 25 O 4 o EDC: = © SĄ as oO © BEA Ró Oo BOA Zm"
+    },
+    {
+     "type": "text",
+     "text": "és) OFS ai es SE: „aj zł EBSĄ"
+    },
+    {
+     "type": "text",
+     "text": "Legitymacja dwustronnie zadrukowana siatką giloszową w kolorach oranżowym i brązowym, zafoliowana; składa- IMIĘ"
+    },
+    {
+     "type": "text",
+     "text": "0 FE E n > = an"
+    },
+    {
+     "type": "text",
+     "text": "5 . zc „e se 5 NS 5 > ga 8 ł ; EXoS =] —- Og sf << >O0O0eC 4 o £50 : a P28 [e] Lege D NU O ESSE"
+    },
+    {
+     "type": "text",
+     "text": "o o orl? 3 ~ §0260 fo} a N ZEŻŃ"
+    },
+    {
+     "type": "text",
+     "text": "8 ko) Dac N co N QN = = O's 80 BEEN G N e Ol] |"
+    }
+   ]
+  }
+ ],
  "footnotes": {}
 }

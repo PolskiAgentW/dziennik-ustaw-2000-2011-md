@@ -1,144 +1,218 @@
 {
  "eli": "DU/2000/4",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 29 grudnia 1999 r. w sprawie warunków organizacyjnych, kadrowych i technicznych, jakie powinny zostać spełnione przez gminy wnioskujące o przyjęcie zadań i kompetencji starosty w zakresie geodezji i kartografii.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/4/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 29 grudnia 1999 r."
   },
   {
-   "type": "ocr",
-   "text": "w sprawie warunków organizacyjnych, kadrowych i technicznych, jakie powinny zostać spetnione przez gminy wnioskujące o przejęcie zadań i kompetencji starosty w zakresie geodezji i kartografii."
+   "type": "text",
+   "text": "w sprawie warunków organizacyjnych, kadrowych i technicznych, jakie powinny zostać spełnione przez gminy wnioskujące o przejęcie zadań i kompetencji starosty w zakresie geodezji i kartografii."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 6a ust. 6 ustawy z dnia 17 maja 1989 r. — Prawo geodezyjne i kartograficzne (Dz. U. Nr 30, poz. 163 i Nr 43, poz. 241, z 1990 r. Nr 34, poz. 198, z 1991 r. Nr 103, poz. 446, z 1996 r. Nr 106, poz. 496 i Nr 156, poz. 775, z 1997 r. Nr 54, poz. 349, Nr 115, poz. 741i Nr 121, poz. 770 oraz z 1998 r. Nr 106, poz. 668 i Nr 162, poz. 1126) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "§ 1. Ilekroć w rozporządzeniu jest mowa o ustawie, rozumie się przez to ustawę z dnia 17 maja 1989 r. — Prawo geodezyjne i kartograficzne (Dz. U. Nr 30, poz. 163 i Nr 43, poz. 241, z 1990 r. Nr 34, poz. 198, z 1991 r. Nr 103, poz. 446, z 1996 r. Nr 106, poz. 496 i Nr 156, poz. 775, z 1997 r. Nr 54, poz. 349, Nr 115, poz. 741i Nr 121, poz. 770 oraz z 1998 r. Nr 106, poz. 668 i Nr 162, poz. 1126)."
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ilekroć w rozporządzeniu jest mowa o ustawie, rozumie się przez to ustawę z dnia 17 maja 1989 r. — Prawo geodezyjne i kartograficzne (Dz. U. Nr 30, poz. 163 i Nr 43, poz. 241, z 1990 r. Nr 34, poz. 198, z 1991 r. Nr 103, poz. 446, z 1996 r. Nr 106, poz. 496 i Nr 156, poz. 775, z 1997 r. Nr 54, poz. 349, Nr 115, poz. 741i Nr 121, poz. 770 oraz z 1998 r. Nr 106, poz. 668 i Nr 162, poz. 1126).",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "8 2. Warunkami organizacyjnymi, jakie powinny zostać spełnione przez gminy wnioskujące o przejęcie zadań i kompetencji starosty w zakresie geodezji i kartografii, są:"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Warunkami organizacyjnymi, jakie powinny zostać spełnione przez gminy wnioskujące o przejęcie zadań i kompetencji starosty w zakresie geodezji i kartografii, są:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "zatwierdzenie przez radę gminy planu finansowego, zapewniającego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_1/lit_a",
+       "text": "przejęcie do prowadzenia przez gminę pełnego zakresu zadań i kompetencji starosty,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_1/lit_b",
+       "text": "sporządzenie niezbędnych wtórników materiałów państwowego zasobu geodezyjnego i kartograficznego,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "c)zakup sprzętu i programów informatycznych niezbędnych do prowadzenia, gromadzenia i udostępniania państwowego zasobu geodezyjnego i kartograficznego, w tym ewidencji gruntów i budynków, geodezyjnej ewidencji sieci uzbrojenia terenu, a także do uzgadniania usytuowania projektowanych sieci uzbrojenia terenu,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "utworzenie jednostek organizacyjnych urzędu gminy pod nazwą:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_2/lit_a",
+       "text": "Gminny Ośrodek Dokumentacji",
+       "children": [
+        {
+         "type": "text",
+         "text": "Geodezyjnej i Kartograficznej,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_2/lit_b",
+       "text": "Zespół Uzgadniania Dokumentacji Projektowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_2/lit_c",
+       "text": "Oddział Katastru Nieruchomości,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_2/lit_d",
+       "text": "Oddział Geodezji,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "określenie siedziby jednostek organizacyjnych, o których mowa w pkt 2,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "uzgodnienie ze starostą terminu przejęcia zadań,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "lokalizacja w miejscowości będącej siedzibą gminy co najmniej trzech jednostek zarządzających sieciami uzbrojenia terenu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "zapewnienie, że zadania powierzone przez starostę nie będą przez gminę przekazywane do prowadzenia innym osobom lub jednostkom organizacyjnym,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "uzyskanie pozytywnej opinii wojewódzkiego inspektora nadzoru geodezyjnego i kartograficznego w zakresie przygotowania organizacyjnego i technicznego gminy do przejęcia zadań.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) zatwierdzenie przez radę gminy planu finansowego, zapewniającego:"
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Warunkami kadrowymi, jakie powinny zostać spełnione przez gminy wnioskujące o przejęcie zadań i kompetencji starosty w zakresie geodezji i kartografii, są:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "przyrzeczenie zatrudnienia na stanowisku geodety gminnego osoby, która spełnia wymagania określone w § 5 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 10 maja 1999 r. w sprawie określenia wymagań, jakim powinni odpowiadać wojewódzcy inspektorzy nadzoru geodezyjnego i kartograficznego, geodeci województw, geodeci powiatowi i geodeci gminni (Dz. U. Nr 49, poz. 492),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "przyrzeczenie zatrudnienia na stanowisku przewodniczącego Zespołu Uzgadniania Dokumentacji Projektowej osoby posiadającej uprawnienia zawodowe do wykonywania samodzielnych funkcji w dziedzinie geodezji i kartografii w zakresie, o którym mowa w art. 43 pkt 1 ustawy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "przyrzeczenie zatrudnienia na stanowisku kierownika Gminnego Ośrodka Dokumentacji Geodezyjnej i Kartograficznej osoby posiadającej uprawnienia zawodowe do wykonywania samodzielnych funkcji w dziedzinie geodezji i kartografii w zakresach, o których mowa w art. 43 pkt 1 i 2 ustawy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "przyrzeczenie zatrudnienia do kontrolowania opracowań przyjmowanych do państwowego zasobu geodezyjnego i kartograficznego osoby posiadają-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "cej uprawnienia zawodowe do wykonywania samodzielnych funkcji w dziedzinie geodezji i kartografii, o których mowa w art. 43 ustawy, w zakresach odpowiadających zakresom kontrolowanych opracowań."
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "a) przejęcie do prowadzenia przez gminę pełnego zakresu zadań i kompetencji starosty,"
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Warunkami technicznymi, jakie powinny zostać spełnione przez gminy wnioskujące o przejęcie zadań i kompetencji starosty w zakresie geodezji i kartografii, są:",
+   "children": [
+    {
+     "type": "text",
+     "text": "1 żenię Gmi Ośrodka Dokumentacji oraz specjalistyczne urządzenia i szafy do przechowywania danych cyfrowych,"
+    },
+    {
+     "type": "text",
+     "text": "— wyposażenie Zespołu Uzgadniania Dokumentacji 2 Projektowej w urządzenia do kopiowania i powielania dokumentów metodami klasycznymi i cyfrowymi, sprzęt komputerowy i niezależną instalację zasilającą, stoty podświetleniowe oraz szafy i regaty przystosowane do przechowywania map i projektów."
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "b) sporządzenie niezbędnych wtórników materiatów państwowego zasobu geodezyjnego i kartograficznego,"
-  },
-  {
-   "type": "ocr",
-   "text": "c)zakup sprzętu i programów informatycznych niezbędnych do prowadzenia, gromadzenia i udostępniania państwowego zasobu geodezyjnego i kartograficznego, w tym ewidencji gruntów i budynków, geodezyjnej ewidencji sieci uzbrojenia terenu, a także do uzgadniania usytuowania projektowanych sieci uzbrojenia terenu,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) utworzenie jednostek organizacyjnych urzędu gminy pod nazwą:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) Gminny Ośrodek Dokumentacji i Kartograficznej,"
-  },
-  {
-   "type": "ocr",
-   "text": "Geodezyjnej"
-  },
-  {
-   "type": "ocr",
-   "text": "b) Zespół Uzgadniania Dokumentacji Projektowej,"
-  },
-  {
-   "type": "ocr",
-   "text": "c) Oddziat Katastru Nieruchomości,"
-  },
-  {
-   "type": "ocr",
-   "text": "d) Oddział Geodezji,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) określenie siedziby jednostek organizacyjnych, o których mowa w pkt 2,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) uzgodnienie ze starostą terminu przejęcia zadań,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) lokalizacja w miejscowości będącej siedzibą gminy co najmniej trzech jednostek zarządzających sieciami uzbrojenia terenu,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) zapewnienie, że zadania powierzone przez starostę nie będą przez gminę przekazywane do prowadzenia innym osobom lub jednostkom organizacyjnym,"
-  },
-  {
-   "type": "ocr",
-   "text": "7) uzyskanie pozytywnej opinii wojewódzkiego inspektora nadzoru geodezyjnego i kartograficznego w zakresie przygotowania organizacyjnego i technicznego gminy do przejęcia zadań."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 3. Warunkami kadrowymi, jakie powinny zostać spełnione przez gminy wnioskujące o przejęcie zadań i kompetencji starosty w zakresie geodezji i kartografii, są:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) przyrzeczenie zatrudnienia na stanowisku geodety gminnego osoby, która spełnia wymagania określone w 8 5 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 10 maja 1999 r. w sprawie określenia wymagań, jakim powinni odpowiadać wojewódzcy inspektorzy nadzoru geodezyjnego i kartograficznego, geodeci województw, geodeci powiatowi i geodeci gminni (Dz. U. Nr 49, poz. 492),"
-  },
-  {
-   "type": "ocr",
-   "text": "2) przyrzeczenie zatrudnienia na stanowisku przewodniczącego Zespołu Uzgadniania Dokumentacji Projektowej osoby posiadającej uprawnienia zawodowe do wykonywania samodzielnych funkcji w dziedzinie geodezji i kartografii w zakresie, o którym mowa w art. 43 pkt 1 ustawy,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) przyrzeczenie zatrudnienia na stanowisku kierownika Gminnego Ośrodka Dokumentacji Geodezyjnej i Kartograficznej osoby posiadającej uprawnienia zawodowe do wykonywania samodzielnych funkcji w dziedzinie geodezji i kartografii w zakresach, o których mowa w art. 43 pkt 1 i 2 ustawy,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) przyrzeczenie zatrudnienia do kontrolowania opracowań przyjmowanych do państwowego zasobu geodezyjnego i kartograficznego osoby posiadają-"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 2 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "cej uprawnienia zawodowe do wykonywania sa- oraz specjalistyczne urządzenia i szafy do przechomodzielnych funkcji w dziedzinie geodezji i karto- wywania danych cyfrowych, grafii, o których mowa w art. 43 ustawy, w zakresach odpowiadających zakresom kontrolowanych opracowań."
-  },
-  {
-   "type": "ocr",
-   "text": "2"
-  },
-  {
-   "type": "ocr",
-   "text": "—"
-  },
-  {
-   "type": "ocr",
-   "text": "wyposażenie Zespołu Uzgadniania Dokumentacji Projektowej w urządzenia do kopiowania i powielania dokumentów metodami klasycznymi i cyfrowymi, sprzęt komputerowy i niezależną instalację zasilającą, stoty podświetleniowe oraz szafy i regaty przystosowane do przechowywania map i projektów."
-  },
-  {
-   "type": "ocr",
-   "text": "8 4. Warunkami technicznymi, jakie powinny zostać spełnione przez gminy wnioskujące o przejęcie zadań i kompetencji starosty w zakresie geodezji i kartografii, są:"
-  },
-  {
-   "type": "ocr",
-   "text": "§ 5. Rozporządzenie wchodzi w życie po upływie 1 żenie Gmi Ośrodka Dokumentacji ) wyposażeni minnego rodka Dokumentacji 14 dni od dnia ogłoszenia. Geodezyjnej i Kartograficznej w urządzenia służące do kopiowania i powielania dokumentów metodami klasycznymi i cyfrowymi, sprzęt komputerowy i niezależną instalację zasilającą, urządzenia przeciwwtamaniowe, urządzenia klimatyzacyjne, szafy Minister Spraw Wewnętrznych i Administracji: i regały przystosowane do gromadzenia zasobu M. Biernacki"
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Rozporządzenie wchodzi w życie po upływie ) wyposażeni minnego rodka Dokumentacji 14 dni od dnia ogłoszenia. Geodezyjnej i Kartograficznej w urządzenia służące do kopiowania i powielania dokumentów metodami klasycznymi i cyfrowymi, sprzęt komputerowy i niezależną instalację zasilającą, urządzenia przeciwwłamaniowe, urządzenia klimatyzacyjne, szafy Minister Spraw Wewnętrznych i Administracji: i regały przystosowane do gromadzenia zasobu",
+   "children": [
+    {
+     "type": "text",
+     "text": "M. Biernacki"
+    }
+   ]
   }
  ],
  "annexes": [],

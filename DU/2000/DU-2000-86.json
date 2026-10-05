@@ -1,59 +1,66 @@
 {
  "eli": "DU/2000/86",
  "title": "Rozporządzenie Rady Ministrów z dnia 20 stycznia 2000 r. zmieniające rozporządzenie w sprawie ustanowienia Pełnomocnika Rządu do Spraw Konwencji Klimatycznej.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/86/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 20 stycznia 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "zmieniające rozporządzenie w sprawie ustanowienia Pełnomocnika Rządu do Spraw Konwencji Klimatycznej."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 10 ust. 1 i 4 ustawy z dnia 8 sierpnia 1996 r. o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów (Dz. U. z 1999 r. Nr 82, poz. 929) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "8 1. W rozporządzeniu Rady Ministrów z dnia 21 października 1999 r. w sprawie ustanowienia Pełnomocnika Rządu do Spraw Konwencji Klimatycznej (Dz. U. Nr 86, poz. 957) w 8 2 ust. 1 otrzymuje brzmienie: „1. Do zadań Pełnomocnika należą sprawy związane z udziałem Rzeczypospolitej Polskiej w Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu, a w szczególności:"
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Rady Ministrów z dnia 21 października 1999 r. w sprawie ustanowienia Pełnomocnika Rządu do Spraw Konwencji Klimatycznej (Dz. U. Nr 86, poz. 957) w § 2 ust. 1 otrzymuje brzmienie: „1. Do zadań Pełnomocnika należą sprawy związane z udziałem Rzeczypospolitej Polskiej w Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu, a w szczególności:",
+   "children": [
+    {
+     "type": "text",
+     "text": "1) prowadzenie przygotowań do udziału w V Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu, zwanej dalej „Konferencją”,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) reprezentowanie Rzeczypospolitej Polskiej na Konferencji,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) prezydencja Konferencji,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4) opiniowanie projektów aktów normatywnych i innych dokumentów rządowych związanych z realizacją wynikających z Konferencji zobowiązań Rzeczypospolitej Polskiej.”",
+     "quoted": true
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) prowadzenie przygotowań do udziału w V Konferencji Stron Ramowej konwencji Na-"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "rodów Zjednoczonych w sprawie zmian klimatu, zwanej dalej „Konferencją”,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) reprezentowanie Rzeczypospolitej Polskiej na Konferencji,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) prezydencja Konferencji,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) opiniowanie projektów aktów normatywnych i innych dokumentów rządowych związanych z realizacją wynikających z Konferencji zobowiązań Rzeczypospolitej Polskiej.”"
-  },
-  {
-   "type": "ocr",
-   "text": "8 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Prezes Rady Ministrów: J. Buzek"
   }
  ],

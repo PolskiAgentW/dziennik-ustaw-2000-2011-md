@@ -1,267 +1,496 @@
 {
  "eli": "DU/2000/880",
  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 7 sierpnia 2000 r. w sprawie szczegółowych warunków i trybu postępowania leczniczego, rehabilitacyjnego i readaptacyjnego w stosunku do osób uzależnionych, umieszczonych w zakładach karnych i aresztach śledczych.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/880/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 7 sierpnia 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "w sprawie szczegółowych warunków i trybu postępowania leczniczego, rehabilitacyjnego i readaptacyjnego w stosunku do osób uzależnionych, umieszczonych w zakładach karnych i aresztach śledczych."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 16 pkt 2 ustawy z dnia 24 kwietnia 1997 r. o przeciwdziałaniu narkomanii (Dz. U. Nr 75, poz. 468, z 1998 r. Nr 106, poz. 668, Nr 113, poz. 715 oraz z 2000 r. Nr 20, poz. 256) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "8 1. W zakładach karnych i aresztach śledczych, zwanych dalej „zakładami”, prowadzi się leczenie, rehabilitację i readaptację osób umieszczonych w tych zakładach, uzależnionych od środków odurzających, substancji psychotropowych lub środków zastępczych, zwanych dalej „osobami uzależnionymi”."
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zakładach karnych i aresztach śledczych, zwanych dalej „zakładami”, prowadzi się leczenie, rehabilitację i readaptację osób umieszczonych w tych zakładach, uzależnionych od środków odurzających, substancji psychotropowych lub środków zastępczych, zwanych dalej „osobami uzależnionymi”.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "8 2. Uzależnienie od środków odurzających, substancji psychotropowych lub środków zastępczych osób umieszczonych w zaktadach ustala się na podstawie:"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uzależnienie od środków odurzających, substancji psychotropowych lub środków zastępczych osób umieszczonych w zakładach ustala się na podstawie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "rozmów i obserwacji zachowania od chwili przyjęcia do zakładu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "wyników badań lekarskich,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "wyników badań psychologicznych.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) rozmów i obserwacji zachowania od chwili przyjęcia do zakładu,"
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W toku wstępnych badań lekarskich i psychologicznych oraz rozmów przeprowadzonych z osobami umieszczonymi w zakładach, a także obserwacji tych osób, ustala się w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "fakt używania środków odurzających, substancji psychotropowych lub środków zastępczych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "dane dotyczące leczenia i rehabilitacji w związku z używaniem środków odurzających, substancji psychotropowych lub środków zastępczych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "dane zawarte w treści podlegającego wykonaniu wyroku sądu i jego uzasadnieniu, jeżeli zostało sporządzone,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "dane zawarte w wykazie informacji dotyczących osoby skazanego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "dane zawarte w innych dokumentach i wynikach badań osobopoznawczych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W razie stwierdzenia faktu używania środków odurzających, substancji psychotropowych lub środków zastępczych osoby, o których mowa w ust. 1, poddaje się szczegółowym badaniom lekarskim w celu stwierdzenia uzależnienia od tych środków oraz potrzeby leczenia w warunkach szpitalnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Osoby uzależnione obejmuje się badaniami psychologicznymi w celu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_3/pkt_1",
+       "text": "oceny stanu uzależnienia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_3/pkt_2",
+       "text": "wyjaśnienia procesu uzależnienia i jego uwarunkowań,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_3/pkt_3",
+       "text": "ustalenia związku uzależnienia z działalnością przestępczą,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_3/pkt_4",
+       "text": "oceny stosunku osoby uzależnionej do leczenia, rehabilitacji i readaptacji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_3/pkt_5",
+       "text": "określenia potrzeby i zakresu stosowania oddziaływania specjalistycznego w zakresie opieki psychologicznej, lekarskiej lub rehabilitacyjnej.",
+       "children": []
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2) wyników badań lekarskich,"
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Leczeniem i rehabilitacją obejmuje się umieszczone w zakładach osoby uzależnione:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "zobowiązane przez sąd orzekający lub penitencjarny do poddania się takim oddziaływaniom w toku odbywania kary pozbawienia wolności oraz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "te, które wyraziły zgodę na poddanie się takiemu oddziaływaniu i współdziałają w wykonaniu programu leczenia i rehabilitacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Z wnioskiem o orzeczenie przez sąd penitencjarny obowiązku poddania się leczeniu i rehabilitacji występują dyrektorzy zaktadéw, uwzględniając fakt skazania osób uzależnionych za przestępstwa pozostające w związku z używaniem środków odurzających, substancji psychotropowych lub środków zastępczych oraz wyniki dotychczasowego leczenia, rehabilitacji i readaptacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Jeżeli osoby uzależnione uporczywie odmawiają współdziałania w wykonaniu programu leczenia i rehabilitacji, dyrektorzy zakładów zawiadamiają o tym sądy, które orzekły o obowiązku poddania się osób uzależnionych leczeniu i rehabilitacji w toku odbywania kary pozbawienia wolności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Brak współdziałania osób uzależnionych w wykonaniu programu leczenia i rehabilitacji uwzględnia się w szczególności przy dokonywaniu ocen okresowych postępów skazanych w resocjalizacji, opiniowaniu oraz udzielaniu nagród.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "3) wyników badań psychologicznych."
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Leczenie, rehabilitację i readaptację osób uzależnionych w zakładach prowadzi się w:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "ambulatoriach zakładów wraz z izbami chorych, zwanych dalej „ambulatoriami”,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "pododdziałach detoksykacyjnych zakładów opieki zdrowotnej dla osób pozbawionych wolności,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "oddziałach terapeutycznych zakładów.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "$ 3. 1. W toku wstępnych badań lekarskich i psychologicznych oraz rozmów przeprowadzonych z osobami umieszczonymi w zakładach, a także obserwacji tych osób, ustala się w szczególności:"
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Lekarze ambulatoriów w zakresie postępowania z osobami uzależnionymi w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "rozpoznają u osób umieszczonych w zakładach uzależnienia od środków odurzających, substancji psychotropowych lub środków zastępczych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "informują osoby uzależnione o możliwościach i warunkach poddania się leczeniu i rehabilitacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "kierują w razie potrzeby osoby uzależnione do pododdziałów detoksykacyjnych zakładów opieki zdrowotnej dla osób pozbawionych wolności,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_6/pkt_4",
+     "text": "opracowują w razie potrzeby opinie w sprawie skierowania osób uzależnionych do oddziałów terapeutycznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_6/pkt_5",
+     "text": "opracowują opinie do wniosków o orzeczenie przez sąd penitencjarny obowiązku poddania się osób uzależnionych leczeniu i rehabilitacji w toku odbywania przez te osoby kary pozbawienia wolności.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) fakt używania środków odurzających, substancji psychotropowych lub środków zastępczych,"
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Pododdziały detoksykacyjne zakładów opieki zdrowotnej dla osób pozbawionych wolności prowadzą detoksykację, udzielają innych świadczeń zdrowotnych, a także nawiązują z tymi osobami kontakt terapeutyczny.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "2) dane dotyczące leczenia i rehabilitacji w związku z używaniem środków odurzających, substancji psychotropowych lub środków zastępczych,"
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Do pododdziałów detoksykacyjnych zakładów opieki zdrowotnej dla osób pozbawionych wolno- Ści lekarze ambulatoriów kierują osoby uzależnione, będące w stanie zatrucia lub odstawienia środka odurzającego, substancji psychotropowej lub środka zastępczego, wymagające leczenia odtruwającego. O skierowaniu tymczasowo aresztowanych do pododdziałów detoksykacyjnych zakładów opieki zdrowotnej dla osób pozbawionych wolności zawiadamia się organy, do których dyspozycji tymczasowo aresztowani pozostają.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Jeżeli tymczasowo aresztowani wymagają natychmiastowego leczenia odtruwającego, organy, o których mowa w ust. 1, na wniosek lekarzy i w uzgodnieniu z dyrektorami zakładów opieki zdrowotnej dla osób pozbawionych wolności, mogą skierować osoby uzależnione bezpośrednio do pododdziałów detoksykacyjnych tych zakładów.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "3) dane zawarte w treści podlegającego wykonaniu wyroku sądu i jego uzasadnieniu, jeżeli zostało sporządzone,"
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Karę pozbawienia wolności wobec skazanych uzależnionych od środków odurzających, substancji psychotropowych lub środków zastępczych wykonuje się w systemie terapeutycznym, w oddziałach terapeutycznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Do oddziałów terapeutycznych kieruje się osoby uzależnione, nie wymagające leczenia detoksykacyjnego, ale wymagające terapeutycznych metod oddziaływania, w tym specjalistycznego oddziaływania psychologicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Skierowanie tymczasowo aresztowanych uzależnionych do oddziałów terapeutycznych następuje w uzasadnionych wypadkach, wyłącznie na wniosek tymczasowo aresztowanych oraz za zgodą organów, do których dyspozycji tymczasowo aresztowani pozostają.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "4) dane zawarte w wykazie informacji dotyczących osoby skazanego,"
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Do zadań oddziałów terapeutycznych należy zwłaszcza:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "prowadzenie badań psychologicznych osób uzależnionych,",
+       "children": [
+        {
+         "type": "text",
+         "text": "2)przygotowanie osób uzależnionych do udziału w procesie terapii,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_1/pkt_3",
+       "text": "kształtowanie u osób uzależnionych motywacji do powstrzymywania się od używania środków odurzających, substancji psychotropowych lub środków zastępczych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_10/ust_1/pkt_4",
+       "text": "prowadzenie psychoterapii indywidualnej osób uzależnionych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_10/ust_1/pkt_5",
+       "text": "prowadzenie psychoterapii grupowej osób uzależnionych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_10/ust_1/pkt_6",
+       "text": "przekazywanie osobom uzależnionym wiedzy dotyczącej szkód mogących powstać w przypadku powrotu do używania środków odurzających, substancji psychotropowych lub środków zastępczych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_10/ust_1/pkt_7",
+       "text": "rozwijanie umiejętności współżycia społecznego i przygotowywanie osób uzależnionych do samodzielnego życia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_10/ust_1/pkt_8",
+       "text": "ułatwianie osobom uzależnionym kształcenia zawodowego i pracy zarobkowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_10/ust_1/pkt_9",
+       "text": "udzielanie osobom uzależnionym pomocy w kontynuowaniu leczenia, rehabilitacji i readaptacji po zwolnieniu z zakładu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Zadania wymienione w ust. 1 realizuje się w ramach indywidualnego programu terapeutycznego.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "5) dane zawarte w innych dokumentach i wynikach badań osobopoznawczych."
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Kierownicy jednostek organizacyjnych, o których mowa w §5, organizują kontakty z rodzinami osób uzależnionych, mające na celu zwłaszcza:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_11/pkt_1",
+     "text": "przekazanie rodzinom niezbędnych informacji dotyczących narkomanii i jej skutków, zalecanych sposobów postępowania z osobą uzależnioną oraz informacji o grupach samopomocy osób uzależnionych i ich rodzin,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_11/pkt_2",
+     "text": "wykorzystanie pozytywnego wpływu rodzin w procesie leczenia, rehabilitacji i readaptacji osób uzależnionych.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2. W razie stwierdzenia faktu używania środków odurzających, substancji psychotropowych lub środków zastępczych osoby, o których mowa w ust. 1, poddaje się szczegółowym badaniom lekarskim w celu stwierdzenia uzależnienia od tych środków oraz potrzeby leczenia w warunkach szpitalnych."
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Jednostki organizacyjne, o których mowa w § 5, zwracają się do zakładu opieki zdrowotnej lub innej placówki, która prowadziła leczenie, rehabilitację lub readaptację osoby uzależnionej, przed jej umieszczeniem w zakładzie, o udzielenie informacji z przebiegu leczenia, rehabilitacji lub readaptacji.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "3. Osoby uzależnione obejmuje się badaniami psychologicznymi w celu:"
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "W razie potrzeby kontynuowania leczenia, rehabilitacji lub readaptacji po zwolnieniu z zakładu, jednostki organizacyjne, o których mowa w § 5, wskazują osobom uzależnionym na potrzebę podjęcia starań o uzyskanie miejsca w odpowiednim zakładzie opieki zdrowotnej albo w innej placówce prowadzącej rehabilitację lub readaptację osób uzależnionych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "W wypadku nieskuteczności starań, o których mowa w ust. 1, zakłady podejmują, za zgodą osób uzależnionych, działania zmierzające do umieszczenia ich w odpowiednich zakładach opieki zdrowotnej albo innych placówkach prowadzących rehabilitację lub readaptację osób uzależnionych.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) oceny stanu uzależnienia,"
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "2) wyjaśnienia procesu uzależnienia i jego uwarunkowań,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) ustalenia związku uzależnienia z działalnością przestępczą,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) oceny stosunku osoby uzależnionej do leczenia, rehabilitacji i readaptacji,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) określenia potrzeby i zakresu stosowania oddziaływania specjalistycznego w zakresie opieki psychologicznej, lekarskiej lub rehabilitacyjnej."
-  },
-  {
-   "type": "ocr",
-   "text": "$ 4. 1. Leczeniem i rehabilitacją obejmuje się umieszczone w zakładach osoby uzależnione:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) zobowiązane przez sąd orzekający lub penitencjarny do poddania się takim oddziaływaniom w toku odbywania kary pozbawienia wolności oraz"
-  },
-  {
-   "type": "ocr",
-   "text": "2) te, które wyraziły zgodę na poddanie się takiemu oddziaływaniu i współdziałają w wykonaniu programu leczenia i rehabilitacji."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Z wnioskiem o orzeczenie przez sąd penitencjarny obowiązku poddania się leczeniu i rehabilitacji występują dyrektorzy zaktadéw, uwzględniając fakt skazania osób uzależnionych za przestępstwa pozostające w związku z używaniem środków odurzających, substancji psychotropowych lub środków zastępczych oraz wyniki dotychczasowego leczenia, rehabilitacji i readaptacji."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Jeżeli osoby uzależnione uporczywie odmawiają współdziałania w wykonaniu programu leczenia i rehabilitacji, dyrektorzy zakładów zawiadamiają o tym sądy, które orzekły o obowiązku poddania się osób uzaleznionych leczeniu i rehabilitacji w toku odbywania kary pozbawienia wolności."
-  },
-  {
-   "type": "ocr",
-   "text": "4. Brak współdziałania osób uzależnionych w wykonaniu programu leczenia i rehabilitacji uwzględnia się w szczególności przy dokonywaniu ocen okresowych postępów skazanych w resocjalizacji, opiniowaniu oraz udzielaniu nagród."
-  },
-  {
-   "type": "ocr",
-   "text": "$ 5. Leczenie, rehabilitację i readaptację osób uzależnionych w zakładach prowadzi się w:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) ambulatoriach zakładów wraz z izbami chorych, zwanych dalej „ambulatoriami”,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) pododdziatach detoksykacyjnych zakładów opieki zdrowotnej dla osób pozbawionych wolności,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) oddziałach terapeutycznych zakładów."
-  },
-  {
-   "type": "note",
-   "text": "[Strona 2 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "8 6. Lekarze ambulatoriów w zakresie postępowania z osobami uzależnionymi w szczególności:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) rozpoznają u osób umieszczonych w zakładach uzależnienia od środków odurzających, substancji psychotropowych lub środków zastępczych,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) informują osoby uzależnione o możliwościach i warunkach poddania się leczeniu i rehabilitacji,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) kierują w razie potrzeby osoby uzależnione do pododdziałów detoksykacyjnych zakładów opieki zdrowotnej dla osób pozbawionych wolności,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) opracowują w razie potrzeby opinie w sprawie skierowania osób uzależnionych do oddziałów terapeutycznych,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) opracowują opinie do wniosków o orzeczenie przez sąd penitencjarny obowiązku poddania się osób uzależnionych leczeniu i rehabilitacji w toku odbywania przez te osoby kary pozbawienia wolności."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 7. Pododdziały detoksykacyjne zakładów opieki zdrowotnej dla osób pozbawionych wolności prowadzą detoksykację, udzielają innych świadczeń zdrowotnych, a także nawiązują z tymi osobami kontakt terapeutyczny."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 8. 1. Do pododdziałów detoksykacyjnych zaktadów opieki zdrowotnej dla osób pozbawionych wolno- Ści lekarze ambulatoriów kierują osoby uzależnione, będące w stanie zatrucia lub odstawienia środka odurzającego, substancji psychotropowej lub środka zastępczego, wymagające leczenia odtruwajacego. O skierowaniu tymczasowo aresztowanych do pododdziałów detoksykacyjnych zakładów opieki zdrowotnej dla osób pozbawionych wolności zawiadamia się organy, do których dyspozycji tymczasowo aresztowani pozostają."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Jeżeli tymczasowo aresztowani wymagają natychmiastowego leczenia odtruwającego, organy, o których mowa w ust. 1, na wniosek lekarzy i w uzgodnieniu z dyrektorami zakładów opieki zdrowotnej dla osób pozbawionych wolności, mogą skierować osoby uzależnione bezpośrednio do pododdziatów detoksykacyjnych tych zakładów."
-  },
-  {
-   "type": "ocr",
-   "text": "8 9. 1. Karę pozbawienia wolności wobec skazanych uzależnionych od środków odurzających, substancji psychotropowych lub środków zastępczych wykonuje się w systemie terapeutycznym, w oddziałach terapeutycznych."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Do oddziałów terapeutycznych kieruje się osoby uzależnione, nie wymagające leczenia detoksykacyjnego, ale wymagające terapeutycznych metod oddziatywania, w tym specjalistycznego oddziaływania psychologicznego."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Skierowanie tymczasowo aresztowanych uzależnionych do oddziałów terapeutycznych następuje w uzasadnionych wypadkach, wyłącznie na wniosek tymczasowo aresztowanych oraz za zgodą organów, do których dyspozycji tymczasowo aresztowani pozostają."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 10. 1. Do zadań oddziałów terapeutycznych należy zwłaszcza:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) prowadzenie badań psychologicznych osób uzależnionych,"
-  },
-  {
-   "type": "ocr",
-   "text": "2)przygotowanie osób uzależnionych do udziału w procesie terapii,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) kształtowanie u osób uzależnionych motywacji do powstrzymywania się od używania środków odurzających, substancji psychotropowych lub środków zastępczych,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) prowadzenie psychoterapii indywidualnej osób uzależnionych,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) prowadzenie psychoterapii grupowej osób uzależnionych,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) przekazywanie osobom uzależnionym wiedzy dotyczącej szkód mogących powstać w przypadku powrotu do używania środków odurzających, substancji psychotropowych lub środków zastępczych,"
-  },
-  {
-   "type": "ocr",
-   "text": "7) rozwijanie umiejętności współżycia społecznego i przygotowywanie osób uzależnionych do samodzielnego życia,"
-  },
-  {
-   "type": "ocr",
-   "text": "8) ułatwianie osobom uzależnionym kształcenia zawodowego i pracy zarobkowej,"
-  },
-  {
-   "type": "ocr",
-   "text": "9) udzielanie osobom uzależnionym pomocy w kontynuowaniu leczenia, rehabilitacji i readaptacji po zwolnieniu z zakładu."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Zadania wymienione w ust. 1 realizuje się w ramach indywidualnego programu terapeutycznego."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 11. Kierownicy jednostek organizacyjnych, o których mowa w $5, organizują kontakty z rodzinami osób uzależnionych, mające na celu zwłaszcza:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) przekazanie rodzinom niezbędnych informacji dotyczących narkomanii i jej skutków, zalecanych sposobów postępowania z osobą uzależnioną oraz informacji o grupach samopomocy osób uzależnionych i ich rodzin,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) wykorzystanie pozytywnego wpływu rodzin w procesie leczenia, rehabilitacji i readaptacji osób uzaleznionych."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 12. Jednostki organizacyjne, o których mowa w 8 5, zwracają się do zakładu opieki zdrowotnej lub innej placówki, która prowadziła leczenie, rehabilitację lub readaptację osoby uzależnionej, przed jej umieszczeniem w zakładzie, o udzielenie informacji z przebiegu leczenia, rehabilitacji lub readaptacji."
-  },
-  {
-   "type": "ocr",
-   "text": "8 13. 1. W razie potrzeby kontynuowania leczenia, rehabilitacji lub readaptacji po zwolnieniu z zakładu, jednostki organizacyjne, o których mowa w 8 5, wskazują osobom uzależnionym na potrzebę podjęcia staran o uzyskanie miejsca w odpowiednim zakładzie opieki zdrowotnej albo w innej placówce prowadzącej rehabilitację lub readaptację osób uzależnionych."
-  },
-  {
-   "type": "ocr",
-   "text": "2. W wypadku nieskuteczności starań, o których mowa w ust. 1, zakłady podejmują, za zgodą osób uzależnionych, działania zmierzające do umieszczenia ich w odpowiednich zakładach opieki zdrowotnej albo innych placówkach prowadzących rehabilitację lub readaptację osób uzależnionych."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 14. Rozporządzenie wchodzi w życie po uptywie 14 dni od dnia ogłoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Sprawiedliwości: w z. J. Niedziela"
   }
  ],

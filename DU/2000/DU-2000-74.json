@@ -1,51 +1,66 @@
 {
  "eli": "DU/2000/74",
  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 27 stycznia 2000 r. zmieniające rozporządzenie w sprawie zasad podziału części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/74/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 27 stycznia 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "zmieniające rozporządzenie w sprawie zasad podziału części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 35 ustawy z dnia 26 listopada 1998 r. o dochodach jednostek samorządu terytorialnego w latach 1999 i 2000 (Dz. U. Nr 150, poz. 983 i Nr 162, poz. 1119) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 16 grudnia 1999 r. w sprawie zasad podziatu części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego (Dz. U. Nr 111, poz. 1284) w załączniku do rozporządzenia wprowadza się następujące zmiany:"
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Ministra Edukacji Narodowej z dnia 16 grudnia 1999 r. w sprawie zasad podziału części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego (Dz. U. Nr 111, poz. 1284) w załączniku do rozporządzenia wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w ust. 2 wyrazy „N 1 do N 14 przypisane wagom liczebności uczniów w jednostce samorządu terytorialnego z indeksem i = 1-2813,” zastępuje się wyrazami „N 1 do N 14 przypisane wagom rzeczywiste — w warunkach ustalonych jak w symbolu Ur,i — liczebności uczniów w jednostce samorządu terytorialnego z indeksem i = 1-2813,”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "ust. 11 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„11. Określone w ust. 8 kwoty części oświatowej subwencji (SOi) zostają zwiększone wskaźnikiem 1,0401 (o 4,01%) o środki na wdrożenie od dnia 1 stycznia 2000 r. nowego wykazu stanowisk nauczycielskich oraz na 1% realny wzrost wynagrodzeń nauczycieli od dnia 1 stycznia 2000 r.”",
+       "quoted": true
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) w ust. 2 wyrazy „N 1 do N 14 przypisane wagom liczebności uczniów w jednostce samorządu terytorialnego z indeksem i = 1-2813,” zastępuje się wyrazami „N 1 do N 14 przypisane wagom rzeczywiste — w warunkach ustalonych jak w symbolu Ur,i — liczebności uczniów w jednostce samorządu terytorialnego z indeksem i = 1-2813,”;"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "2) ust. 11 otrzymuje brzmienie:"
-  },
-  {
-   "type": "ocr",
-   "text": "„11. Określone w ust. 8 kwoty części oświatowej subwencji (SOi) zostają zwiększone wskaźnikiem 1,0401 (o 4,01%) o środki na wdrożenie od dnia 1 stycznia 2000 r. nowego wykazu stanowisk nauczycielskich oraz na 1% realny wzrost wynagrodzeń nauczycieli od dnia 1 stycznia 2000 r.”"
-  },
-  {
-   "type": "ocr",
-   "text": "8 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Edukacji Narodowej: M. Handke"
   }
  ],

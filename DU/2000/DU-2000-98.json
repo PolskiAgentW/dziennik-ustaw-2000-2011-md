@@ -1,27 +1,31 @@
 {
  "eli": "DU/2000/98",
  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 4 lutego 2000 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu działania Ministra Pracy i Polityki Społecznej.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/98/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
-   "text": "ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 4 lutego 2000 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu działania Ministra Pracy i Polityki Spotecznej. Na podstawie art. 33 ust. 1 i la ustawy z dnia 8 sierpnia 1996 r. o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów (Dz. U. z 1999 r. Nr 82, poz. 929) zarządza się, co następuje:"
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 4 lutego 2000 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu działania Ministra Pracy i Polityki Społecznej. Na podstawie art. 33 ust. 1 i la ustawy z dnia 8 sierpnia 1996 r. o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów (Dz. U. z 1999 r. Nr 82, poz. 929) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 10 listopada 1999 r. w sprawie szczegółowego zakresu działania Ministra Pracy i Polityki Społecznej"
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Prezesa Rady Ministrów z dnia 10 listopada 1999 r. w sprawie szczegółowego zakresu działania Ministra Pracy i Polityki Społecznej",
+   "children": [
+    {
+     "type": "text",
+     "text": "(Dz. U. Nr91, poz. 1033) w § 1 ust. 3 otrzymuje brzmienie: „3. Minister jest dysponentem części 31 i 44 budżetu państwa.\" 8 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 2000 r."
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "(Dz. U. Nr91, poz. 1033) w § 1 ust. 3 otrzymuje brzmienie: „3. Minister jest dysponentem części 31 i 44 budżetu państwa.\" 8 2. Rozporządzenie wchodzi w życie z dniem ogtoszenia z mocą od dnia 1 stycznia 2000 r."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Prezes Rady Ministrów: J. Buzek"
   }
  ],

@@ -1,139 +1,213 @@
 {
  "eli": "DU/2000/202",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 17 lutego 2000 r. zmieniające w sprawie wykazu chorób oraz leków, preparatów diagnostycznych i sprzętu jednorazowego użytku, które ze względu na te choroby mogą być przepisywane bezpłatnie, za opłatą ryczałtową lub częściową odpłatnością.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/202/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA ZDROWIA"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 17 lutego 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "zmieniające rozporządzenie w sprawie wykazu chorób oraz wykazu leków, preparatów diagnostycznych i sprzętu jednorazowego użytku, które ze względu na te choroby mogą być przepisywane bezpłatnie, za opłatą ryczałtową lub częściową odpłatnością."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 39 ust. 2 ustawy z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. Nr 28, poz. 153 i Nr 75, poz. 468, z 1998 r. Nr 117, poz. 756, Nr 137, poz. 887, Nr 144, poz. 929 i Nr 162, poz. 1116, z 1999 r. Nr 45, poz. 439, Nr 49, poz. 483, Nr 63, poz. 700, Nr 70, poz. 777, Nr 72, poz. 802, Nr 109, poz. 1236 i Nr 110, poz. 1255 i 1256 oraz z 2000 r. Nr 12, poz. 136) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "8 1. W rozporządzeniu Ministra Zdrowia i Opieki Społecznej z dnia 9 grudnia 1998 r. w sprawie wykazu chorób oraz wykazu leków, preparatów diagnostycznych i sprzętu jednorazowego użytku, które ze względu na te choroby mogą być przepisywane bezpłatnie, za opłatą ryczattową lub częściową odpłatnością (Dz. U. Nr 156, poz. 1028 oraz z 1999 r. Nr 53, poz. 569, Nr 70, poz. 795 i Nr 108 poz. 1229), wprowadza się następujące zmiany:"
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Ministra Zdrowia i Opieki Społecznej z dnia 9 grudnia 1998 r. w sprawie wykazu chorób oraz wykazu leków, preparatów diagnostycznych i sprzętu jednorazowego użytku, które ze względu na te choroby mogą być przepisywane bezpłatnie, za opłatą ryczałtową lub częściową odpłatnością (Dz. U. Nr 156, poz. 1028 oraz z 1999 r. Nr 53, poz. 569, Nr 70, poz. 795 i Nr 108 poz. 1229), wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "text",
+     "text": "A. W § 1 w ust. 1 skreśla się pkt 14."
+    },
+    {
+     "type": "text",
+     "text": "B. W załączniku nr 1 do rozporządzenia „Wykaz leków do przepisywania bezpłatnego na recepty — chorym w leczeniu”:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "pod ip. 3 w rubryce „Opakowanie” dodaje się wyrazy „(1 zestaw)”,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "pod ip. 36:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "w odniesieniu do leku o nazwie Metotrexat- -Knoll 2,5: — w rubryce „Nazwa” wyrazy „Metotrexat- TEFL Ee",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "skreśla się Ip. 99.",
+     "children": [
+      {
+       "type": "text",
+       "text": "C. W załączniku nr 2 do rozporządzenia „Wykaz leków oraz testów diagnostycznych do przepisywania na recepty po wniesieniu opłaty ryczałtowej — chorym w leczeniu”:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "pod Ip. 129 w odniesieniu do leku o nazwie Torecan tabl. powl. 6,5 mg w rubryce „Opakowanie, na które ustalono ryczałt” wyrazy „50 tabl.” zastępuje się wyrazami „50 tabl. powl.”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "pod tp. 147:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "w odniesieniu do leku o nazwie Selgres tabl. powi. 5 mg w rubryce „Opakowanie, na które ustalono ryczałt” wyrazy „50 tabl.” zastępuje się wyrazami „50 tabl. powi.”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "w odniesieniu do leku o nazwie Selgres tabl. powl. 10 mg w rubryce „Opakowanie, na które ustalono ryczałt” wyrazy „40 tabl.”zastepuje się wyrazami „40 tabl. powl.”,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "pod ip. 154 w odniesieniu do leku o nazwie P-AM Uniwersał w rubryce „Nazwa” wyrazy „P-AM",
+     "children": [
+      {
+       "type": "text",
+       "text": "-Knoll 2,5” zastępuje się wyrazami „Metotreksat-Knoll 2,5”, — w rubryce „Opakowanie” wyrazy „50 tabl.” zastępuje się wyrazami „100 tabl.”,"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "w odniesieniu do leku o nazwie Metotrexat- -Knoll 5:",
+       "children": [
+        {
+         "type": "text",
+         "text": "— w rubryce „Nazwa” wyrazy „Metotrexat- -Knoll 5” zastępuje się wyrazami „Metotreksat-Knoll 5”, — w rubryce „Opakowanie” wyrazy „50 tabl.” zastępuje się wyrazami „100 tabi.”,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_3/lit_c",
+       "text": "w odniesieniu do leku o nazwie Metotrexat- -Knoll 10:",
+       "children": [
+        {
+         "type": "text",
+         "text": "— w rubryce „Nazwa” wyrazy „Metotrexat- -Knoll 10” zastępuje się wyrazami „Metotreksat-Knoll 10”, — w rubryce ,,Opakowanie” wyrazy „50 tabi.” zastępuje się wyrazami „100 tabl.”,"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "pod Ip. 70:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "w odniesieniu do leku o nazwie Trilafon tabl. powl. 2 mg w rubryce „Opakowanie” wyrazy „100 tabl.” zastępuje się wyrazami „100 tabl. powl.”, '",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "w odniesieniu do leku o nazwie Trilafon tabl. powl. 4 mg w rubryce „Opakowanie” wyrazy „30 tabl.” zastępuje się wyrazami „30 tabl. powl.”,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "pod Ip. 93 na końcu dodaje się wyrazy:",
+     "children": [
+      {
+       "type": "text",
+       "text": "ewa] m"
+      },
+      {
+       "type": "text",
+       "text": "Uniwersał” zastępuje się wyrazami „P-AM Universal”,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "pod Ip. 158:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_4/lit_a",
+       "text": "w odniesieniu do leku o nazwie Becodisks krążki do inh. 100 mcg/dawkę w rubryce „Opakowanie, na które ustalono ryczałt” wyrazy „15 x 8 krążków (120 dawek)” zastępuje się wyrazami „120 dawek (15 krążków po 8 dawek)”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_4/lit_b",
+       "text": "w odniesieniu do leku o nazwie Becodisks krążki do inh. 200 mcg/dawkę w rubryce „Opakowanie, na które ustalono ryczałt” wyrazy „15 x 8 krążków (120 dawek)” zastępuje się wyrazami „120 dawek (15 krążków po 8 dawek)”.",
+       "children": []
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "A. W § 1 w ust. 1 skreśla się pkt 14."
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogfoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "B. W załączniku nr 1 do rozporządzenia „Wykaz leków do przepisywania bezpłatnego na recepty — chorym w leczeniu”:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) pod ip. 3 w rubryce „Opakowanie” dodaje się wyrazy „(1 zestaw)”,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) pod ip. 36:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) w odniesieniu do leku o nazwie Metotrexat- -Knoll 2,5: — w rubryce „Nazwa” wyrazy „Metotrexat-"
-  },
-  {
-   "type": "ocr",
-   "text": "-Knoll 2,5” zastępuje się wyrazami „Metotreksat-Knoll 2,5”, — w rubryce „Opakowanie” wyrazy „50 tabl.” zastępuje się wyrazami „100 tabl.”,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) w odniesieniu do leku o nazwie Metotrexat- -Knoll 5:"
-  },
-  {
-   "type": "ocr",
-   "text": "— w rubryce „Nazwa” wyrazy „Metotrexat- -Knoll 5” zastępuje się wyrazami „Metotreksat-Knoll 5”, — w rubryce „Opakowanie” wyrazy „50 tabl.” zastępuje się wyrazami „100 tabi.”,"
-  },
-  {
-   "type": "ocr",
-   "text": "c) w odniesieniu do leku o nazwie Metotrexat- -Knoll 10:"
-  },
-  {
-   "type": "ocr",
-   "text": "— w rubryce „Nazwa” wyrazy „Metotrexat- -Knoll 10” zastępuje się wyrazami „Metotreksat-Knoll 10”, — w rubryce ,,Opakowanie” wyrazy „50 tabi.” zastępuje się wyrazami „100 tabl.”,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) pod Ip. 70:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) w odniesieniu do leku o nazwie Trilafon tabl. powl. 2 mg w rubryce „Opakowanie” wyrazy „100 tabl.” zastępuje się wyrazami „100 tabl. powl.”, '"
-  },
-  {
-   "type": "ocr",
-   "text": "b) w odniesieniu do leku o nazwie Trilafon tabl. powl. 4 mg w rubryce „Opakowanie” wyrazy „30 tabl.” zastępuje się wyrazami „30 tabl. powl.”,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) pod Ip. 93 na końcu dodaje się wyrazy: TEFL Ee ewa] m"
-  },
-  {
-   "type": "ocr",
-   "text": "5) skreśla się Ip. 99."
-  },
-  {
-   "type": "ocr",
-   "text": "C. W załączniku nr 2 do rozporządzenia „Wykaz leków oraz testów diagnostycznych do przepisywania na recepty po wniesieniu opłaty ryczałtowej — chorym w leczeniu”:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) pod Ip. 129 w odniesieniu do leku o nazwie Torecan tabl. powl. 6,5 mg w rubryce „Opakowanie, na które ustalono ryczałt” wyrazy „50 tabl.” zastępuje się wyrazami „50 tabl. powl.”;"
-  },
-  {
-   "type": "ocr",
-   "text": "2) pod tp. 147:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) w odniesieniu do leku o nazwie Selgres tabl. powi. 5 mg w rubryce „Opakowanie, na które ustalono ryczałt” wyrazy „50 tabl.” zastępuje się wyrazami „50 tabl. powi.”,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) w odniesieniu do leku o nazwie Selgres tabl. powl. 10 mg w rubryce „Opakowanie, na które ustalono ryczałt” wyrazy „40 tabl.”zastepuje się wyrazami „40 tabl. powl.”,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) pod ip. 154 w odniesieniu do leku o nazwie P-AM Uniwersal w rubryce „Nazwa” wyrazy „P-AM"
-  },
-  {
-   "type": "ocr",
-   "text": "Uniwersal” zastępuje się wyrazami „P-AM Universal”,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) pod Ip. 158:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) w odniesieniu do leku o nazwie Becodisks krążki do inh. 100 mcg/dawke w rubryce „Opakowanie, na które ustalono ryczałt” wyrazy „15 x 8 krążków (120 dawek)” zastępuje się wyrazami „120 dawek (15 krążków po 8 dawek)”,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) w odniesieniu do leku o nazwie Becodisks krążki do inh. 200 mcg/dawke w rubryce „Opakowanie, na które ustalono ryczałt” wyrazy „15 x 8 krążków (120 dawek)” zastępuje się wyrazami „120 dawek (15 krążków po 8 dawek)”."
-  },
-  {
-   "type": "ocr",
-   "text": "8 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogfoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Zdrowia: w z. M. Piróg"
   }
  ],

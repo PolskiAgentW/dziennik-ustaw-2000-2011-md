@@ -1,59 +1,89 @@
 {
  "eli": "DU/2000/767",
  "title": "Rozporządzenie Ministra Gospodarki z dnia 27 lipca 2000 r. w sprawie wykazu dokumentów, które powinny być dołączone do wniosku o wydanie pozwolenia na przywóz odzieży używanej i innych artykułów używanych.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/767/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 27 lipca 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "w sprawie wykazu dokumentów, które powinny być dołączone do wniosku o wydanie pozwolenia na przywóz odzieży używanej i innych artykułów używanych."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 20 ust. 1 pkt 2 ustawy z dnia 11 grudnia 1997 r. o administrowaniu obrotem z zagranicą towarami i usługami oraz o obrocie specjalnym (Dz. U. Nr 157, poz. 1026 oraz z 1999 r. Nr 55, poz. 587 i Nr 101, poz. 1178) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "§ 1. 1. Przedsiębiorca ubiegający się o wydanie pozwolenia na przywóz odzieży używanej oprócz wymogów, o których mowa w rozporządzeniu Ministra Gospodarki z dnia 24 grudnia 1997 r. w sprawie pozwoleń na przywóz towarów na polski obszar celny lub wywóz towarów z polskiego obszaru celnego (Dz. U. Nr 162, poz. 1126), jest obowiązany przedłożyć kopię dokumentu potwierdzającego poddanie przez kontrahenta zagranicznego odzieży używanej dezynfekcji i dezynsekcji."
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Przedsiębiorca ubiegający się o wydanie pozwolenia na przywóz odzieży używanej oprócz wymogów, o których mowa w rozporządzeniu Ministra Gospodarki z dnia 24 grudnia 1997 r. w sprawie pozwoleń na przywóz towarów na polski obszar celny lub wywóz towarów z polskiego obszaru celnego (Dz. U. Nr 162, poz. 1126), jest obowiązany przedłożyć kopię dokumentu potwierdzającego poddanie przez kontrahenta zagranicznego odzieży używanej dezynfekcji i dezynsekcji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Dokument, o którym mowa w ust. 1, powinien zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "nazwę i siedzibę lub imię i nazwisko oraz adres kontrahenta zagranicznego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "wielkość ładunku poddanego dezynfekcji i dezynsekcji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_2/pkt_3",
+       "text": "określenie metody przeprowadzenia dezynfekcji i dezynsekcji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "Dokument powinien być opatrzony czytelną pieczęcią odpowiedniego organu lub instytucji, które przeprowadziły dezynfekcję i dezynsekcję.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2. Dokument, o którym mowa w ust. 1, powinien zawierać:"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "1) nazwę i siedzibę lub imię i nazwisko oraz adres kontrahenta zagranicznego,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) wielkość ładunku poddanego dezynfekcji i dezynsekcji,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) określenie metody przeprowadzenia dezynfekcji i dezynsekcji."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Dokument powinien być opatrzony czytelną pieczęcią odpowiedniego organu lub instytucji, które przeprowadzity dezynfekcję i dezynsekcję."
-  },
-  {
-   "type": "ocr",
-   "text": "8 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Gospodarki: J. Steinhoff"
   }
  ],

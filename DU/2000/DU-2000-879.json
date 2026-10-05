@@ -1,131 +1,150 @@
 {
  "eli": "DU/2000/879",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 sierpnia 2000 r. zmieniające rozporządzenie w sprawie zwalczania organizmów szkodliwych.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/879/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 8 sierpnia 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "zmieniające rozporządzenie w sprawie zwalczania organizmów szkodliwych."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 6 i art. 13 ustawy z dnia 12 lipca 1995 r. o ochronie roślin uprawnych (Dz. U. z 1999 r. Nr 66, poz. 751 i Nr 101, poz. 1178) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "8 1. W rozporządzeniu Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 6 lutego 1996 r. w sprawie"
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 6 lutego 1996 r. w sprawie",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "Rośliny, produkty roślinne, przedmioty",
+     "children": [
+      {
+       "type": "text",
+       "text": "„g) Produkty roślinne stanowiące odpady w rozumieniu odrębnych przepisów, z wyjątkiem przeznaczonych do wykorzystania w celach” przemysłowych jako surowce wtórne",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w załączniku nr 4 do rozporządzenia:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "w dziale I Rośliny: — w ust. 1 w pkt 1.1 w kolumnie „Roślina, produkt roślinny, przedmiot” po wyrazie „Rośliny” dodaje się wyrazy „z korzeniami”,",
+       "children": [
+        {
+         "type": "text",
+         "text": "Roślina, produkt roślinny, zwalczania organizmów szkodliwych (Dz. U. Nr 15, poz. 81 i z 2000 r. Nr 16, poz. 211) wprowadza się następujące zmiany:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w załączniku nr 2 do rozporządzenia w pkt 1 lit. g) otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Pochodzenie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wszystkie kraje”;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— w ust. 2 w pkt 2.3 — 2 w kolumnie „Wymagania specjalne” wyraz „i” zastępuje się wyrazem „lub”,"
+      },
+      {
+       "type": "text",
+       "text": "— w ust. 2 pkt 2.3 — 3 otrzymuje brzmienie:"
+      },
+      {
+       "type": "text",
+       "text": "z krajów, w których występuje Heli-"
+      },
+      {
+       "type": "text",
+       "text": "DD — Rośliny pochodzą z uprawy, coverpa armigera lub Helicoverpa | na której nie stwierdzono, podczas zea ostatnich trzech miesięcy przed wysyłką, występowania Helicoverpa armigera lub Helicoverpa zea\""
+      },
+      {
+       "type": "text",
+       "text": "— w ust. 5 w pkt 5.1 w kolumnie „Wymagania specjalne” wyraz „lub” zastępuje się wyrazem „i”, — w ust. 5 pkt 5.2 otrzymuje brzmienie:"
+      },
+      {
+       "type": "text",
+       "text": "Roślina, produkt roślinny, . . .",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "ze wszystkich krajów „5.2. Beta vulgaris",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "DD — Materiał pochodzi z uprawy, na której beet necrotic yellow vein furovirus nie występuje”",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "w dziale Il Produkty roślinne w pkt 1.1 — 3 w kolumnie „Wymagania specjalne” skreśla się wyraz „Państwowej”;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w załączniku nr 6 do rozporządzenia w Ip. 20 w kolumnie 2 wyraz „Boboszów” zastępuje się wyrazami „Kudowa-Słone”.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) Rośliny, produkty roślinne, przedmioty"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "„g) Produkty roślinne stanowiące odpady w rozumieniu odrębnych przepisów, z wyjątkiem przeznaczonych do wykorzystania w celach” przemysłowych jako surowce wtórne"
-  },
-  {
-   "type": "ocr",
-   "text": "2) w załączniku nr 4 do rozporządzenia:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) w dziale I Rośliny: — w ust. 1 w pkt 1.1 w kolumnie „Roślina, produkt roślinny, przedmiot” po wyrazie „Rośliny” dodaje się wyrazy „z korzeniami”,"
-  },
-  {
-   "type": "ocr",
-   "text": "zea"
-  },
-  {
-   "type": "ocr",
-   "text": "Roślina, produkt roślinny,"
-  },
-  {
-   "type": "ocr",
-   "text": "z krajów, w których występuje Helicoverpa armigera lub Helicoverpa | na której nie stwierdzono, podczas"
-  },
-  {
-   "type": "ocr",
-   "text": "zwalczania organizmów szkodliwych (Dz. U. Nr 15, poz. 81 i z 2000 r. Nr 16, poz. 211) wprowadza się następujące zmiany:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) w załączniku nr 2 do rozporządzenia w pkt 1 lit. g) otrzymuje brzmienie:"
-  },
-  {
-   "type": "ocr",
-   "text": "Pochodzenie"
-  },
-  {
-   "type": "ocr",
-   "text": "Wszystkie kraje”;"
-  },
-  {
-   "type": "ocr",
-   "text": "— w ust. 2 w pkt 2.3 — 2 w kolumnie „Wymagania specjalne” wyraz „i” zastępuje się wyrazem „lub”,"
-  },
-  {
-   "type": "ocr",
-   "text": "— w ust. 2 pkt 2.3 — 3 otrzymuje brzmienie:"
-  },
-  {
-   "type": "ocr",
-   "text": "DD — Rośliny pochodzą z uprawy,"
-  },
-  {
-   "type": "ocr",
-   "text": "ostatnich trzech miesięcy przed wysytką, występowania Helicoverpa armigera lub Helicoverpa zea\""
-  },
-  {
-   "type": "ocr",
-   "text": "— w ust. 5 w pkt 5.1 w kolumnie „Wymagania specjalne” wyraz „lub” zastępuje się wyrazem „i”, — w ust. 5 pkt 5.2 otrzymuje brzmienie:"
-  },
-  {
-   "type": "ocr",
-   "text": "„5.2. Beta vulgaris"
-  },
-  {
-   "type": "ocr",
-   "text": "Roślina, produkt roślinny, . . ."
-  },
-  {
-   "type": "ocr",
-   "text": "ze wszystkich krajów"
-  },
-  {
-   "type": "ocr",
-   "text": "DD — Materiat pochodzi z uprawy, na której beet necrotic yellow vein furovirus nie występuje”"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 2 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "b) w dziale Il Produkty roślinne w pkt 1.1 — 3 w kolumnie „Wymagania specjalne” skreśla się wyraz „Państwowej”;"
-  },
-  {
-   "type": "ocr",
-   "text": "3) w załączniku nr 6 do rozporządzenia w Ip. 20 w kolumnie 2 wyraz „Boboszów” zastępuje się wyrazami „Kudowa-Słone”."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Rolnictwa i Rozwoju Wsi: A. Balazs"
   }
  ],

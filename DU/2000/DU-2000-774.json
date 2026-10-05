@@ -1,51 +1,61 @@
 {
  "eli": "DU/2000/774",
  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 17 maja 2000 r. zmieniające rozporządzenie w sprawie wysokości należności świadków i stron w postępowaniu sądowym.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/774/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 17 maja 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "zmieniające rozporządzenie w sprawie wysokości należności świadków i stron w postępowaniu sądowym."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 16 dekretu z dnia 26 października 1950 r. o należnościach świadków, biegłych i stron w postępowaniu sądowym (Dz. U. Nr 49, poz. 445) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "8 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 4 lipca 1990 r. w sprawie wysokości należności świadków i stron w postępowaniu sądowym (Dz. U. Nr 48, poz. 284 i z 1991 r. Nr 36, poz. 159) $ 1 otrzymuje brzmienie:"
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Ministra Sprawiedliwości z dnia 4 lipca 1990 r. w sprawie wysokości należności świadków i stron w postępowaniu sądowym (Dz. U. Nr 48, poz. 284 i z 1991 r. Nr 36, poz. 159) § 1 otrzymuje brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„§ 1.1. Górną granicę należności za utracony dzienny zarobek, o którym mowa w art. 2 ust. 2 dekretu z dnia 26 października 1950 r. o należnościach świadków, biegiych i stron w postępowaniu sądowym, którą sąd może przyznać, ustala się w wysokości 4,6% kwoty bazowej dla osób, o których mowa w art. 5 pkt 1 lit. a) ustawy z dnia 23 grudnia",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. Nr 110, poz. 1255 i z 2000 r. Nr 19, poz. 239), której wysokość, ustaloną według odrębnych zasad, określa ustawa budżetowa, z zastrzeżeniem ust. 2.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. W przypadku gdy ogłoszenie ustawy budżetowej nastąpi po dniu 1 stycznia roku, którego dotyczy ustawa budżetowa, podstawę obliczenia należności za okres od 1 stycznia do dnia ogłoszenia ustawy budżetowej stanowi kwota bazowa w wysokości obowiązującej w grudniu roku poprzedniego.”",
+     "quoted": true
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "„$ 1.1. Górną granicę należności za utracony dzienny zarobek, o którym mowa w art. 2 ust. 2 dekretu z dnia 26 października 1950 r. o należnościach świadków, biegiych i stron w postępowaniu sądowym, którą sąd może przyznać, ustala się w wysokości 4,6% kwoty bazowej dla osób, o których mowa w art. 5 pkt 1 lit. a) ustawy z dnia 23 grudnia"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. Nr 110, poz. 1255 i z 2000 r. Nr 19, poz. 239), której wysokość, ustaloną według odrębnych zasad, określa ustawa budżetowa, z zastrzeżeniem ust. 2."
-  },
-  {
-   "type": "ocr",
-   "text": "2. W przypadku gdy ogłoszenie ustawy budżetowej nastąpi po dniu 1 stycznia roku, którego dotyczy ustawa budżetowa, podstawę obliczenia należności za okres od 1 stycznia do dnia ogłoszenia ustawy budżetowej stanowi kwota bazowa w wysokości obowiązującej w grudniu roku poprzedniego.”"
-  },
-  {
-   "type": "ocr",
-   "text": "8 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Sprawiedliwości: H. Suchocka"
   }
  ],

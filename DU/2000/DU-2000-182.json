@@ -1,71 +1,103 @@
 {
  "eli": "DU/2000/182",
  "title": "Rozporządzenie Ministra Finansów z dnia 18 lutego 2000 r. w sprawie ogólnego zezwolenia na lokowanie aktywów funduszy emerytalnych poza granicami kraju.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/182/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 18 lutego 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "w sprawie ogólnego zezwolenia na lokowanie aktywów funduszy emerytalnych poza granicami kraju."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 143 ust. 1 ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. Nr 139, poz. 934, z 1998 r. Nr 98, poz. 610, Nr 106, poz. 668 i Nr 162, poz. 1118 oraz z 1999 r. Nr 110, poz. 1256) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "8 1. Zezwala się na lokowanie aktywów funduszu emerytalnego, na warunkach określonych w rozporządzeniu, w państwach będących członkami Organizacji Współpracy Gospodarczej i Rozwoju (OECD) oraz w innych państwach, z którymi Rzeczpospolita Polska zawarła umowy o popieraniu i wzajemnej ochronie inwestycji."
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Zezwala się na lokowanie aktywów funduszu emerytalnego, na warunkach określonych w rozporządzeniu, w państwach będących członkami Organizacji Współpracy Gospodarczej i Rozwoju (OECD) oraz w innych państwach, z którymi Rzeczpospolita Polska zawarła umowy o popieraniu i wzajemnej ochronie inwestycji.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "§ 2. 1. W państwach, o których mowa w $ 1, aktywa funduszu emerytalnego mogą być lokowane w:"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "W państwach, o których mowa w § 1, aktywa funduszu emerytalnego mogą być lokowane w:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "papierach wartościowych emitowanych przez spółki notowane na podstawowych giełdach rynków kapitałowych tych państw,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "papierach skarbowych emitowanych przez rządy lub banki centralne tych państw,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "tytułach uczestnictwa emitowanych przez instytucje wspólnego inwestowania mające siedzibę w tych państwach, jeżeli instytucje te oferują publicznie tytuły uczestnictwa i umarzają je na żądanie uczestnika.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Lokaty, o których mowa w ust. 1, powinny posiadać ocenę na poziomie inwestycyjnym nadaną przez wyspecjalizowaną agencję oceniającą ryzyko inwestycyjne związane z określonym papierem wartościowym lub zdolnością emitenta do terminowej spłaty zaciągniętych zobowiązań, zwaną dalej „agencją ratingową”.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) papierach wartościowych emitowanych przez spółki notowane na podstawowych gietdach rynków kapitałowych tych państw,"
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Ocena, o której mowa w § 2 ust. 2, powinna być nadana przez agencję ratingową uznaną na międzynarodowym rynku kapitałowym.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "2) papierach skarbowych emitowanych przez rządy lub banki centralne tych państw,"
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Fundusz emerytalny może lokować poza granicami kraju nie więcej niż 5% wartości swoich aktywów.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "3) tytułach uczestnictwa emitowanych przez instytucje wspólnego inwestowania mające siedzibę"
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "w tych państwach, jeżeli instytucje te oferują publicznie tytuły uczestnictwa i umarzają je na żądanie uczestnika."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Lokaty, o których mowa w ust. 1, powinny posiadać ocenę na poziomie inwestycyjnym nadaną przez wyspecjalizowaną agencję oceniającą ryzyko inwestycyjne związane z określonym papierem wartościowym lub zdolnością emitenta do terminowej spłaty zaciągniętych zobowiązań, zwaną dalej „agencją ratingową”."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 3. Ocena, o której mowa w 8 2 ust. 2, powinna być nadana przez agencję ratingową uznaną na międzynarodowym rynku kapitałowym."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 4. Fundusz emerytalny może lokować poza granicami kraju nie więcej niż 5% wartości swoich aktywów."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 5. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Finansów: w z. J. Bauc"
   }
  ],

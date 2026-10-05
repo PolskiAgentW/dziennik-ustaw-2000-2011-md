@@ -1,1003 +1,1681 @@
 {
  "eli": "DU/2000/877",
  "title": "Rozporządzenie Ministra Gospodarki z dnia 24 sierpnia 2000 r. w sprawie szczegółowych warunków przyłączenia podmiotów do sieci gazowych, obrotu paliwami gazowymi, świadczeniami usług przesyłowych, ruchu sieciowego i eksploatacji sieci gazowych oraz standardów jakościowych obsługi odbiorców.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/877/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 24 sierpnia 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "w sprawie szczegółowych warunków przyłączenia podmiotów do sieci gazowych, obrotu paliwami gazowymi, świadczenia usług przesyłowych, ruchu sieciowego i eksploatacji sieci gazowych oraz standardów jakościowych obsługi odbiorców."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 9 ust. 1 ustawy z dnia 10 kwietnia 1997 r. — Prawo energetyczne (Dz. U. Nr 54, poz. 348 i Nr 158, poz. 1042, z 1998 r. Nr 94, poz. 594, Nr 106, poz. 668 i Nr 162, poz. 1126, z 1999 r. Nr 88, poz. 980 i Nr 110, poz. 1255 oraz z 2000 r. Nr 43, poz. 489 i Nr 48, poz. 555) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "Rozdział 1"
-  },
-  {
-   "type": "ocr",
+   "type": "heading",
+   "label": "Rozdział 1",
    "text": "Przepisy ogólne"
   },
   {
-   "type": "ocr",
-   "text": "§ 1. Rozporządzenie określa szczegółowe warunki:"
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa szczegółowe warunki:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "przyłączenia podmiotów do sieci gazowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "obrotu paliwami gazowymi,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "świadczenia usług przesyłowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "ruchu sieciowego i eksploatacji sieci gazowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "standardów jakościowych obsługi odbiorców paliw gazowych.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) przyłączenia podmiotów do sieci gazowych,"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "przedsiębiorstwie gazowniczym — należy przez to rozumieć przedsiębiorstwo energetyczne zajmujące się przesyłaniem, dystrybucją i obrotem paliwami gazowymi oraz magazynowaniem paliw gazowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "sieci gazowej — należy przez to rozumieć gazociągi wraz ze stacjami gazowymi, układami pomiarowymi i tłoczniami gazu, połączone i współpracujące ze sobą, służące do przesyłania i dystrybucji paliw gazowych, należące do przedsiębiorstwa gazowniczego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "sieci przesyłowej — należy przez to rozumieć sieć gazową służącą do przesyłania i dystrybucji paliw gazowych o ciśnieniu wyższym niż 0,5 MPa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "sieci rozdzielczej — należy przez to rozumieć sieć gazową stuzaca do przesyłania i dystrybucji paliw gazowych o ciśnieniu nie wyższym niż 0,5 MPa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "operatorze sieci przesyłowej — należy przez to rozumieć jednostkę organizacyjną przedsiębiorstwa gazowniczego posiadającego koncesję na przesyłanie i dystrybucję paliw gazowych siecią przesyłową odpowiedzialną za ruch sieciowy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "operatorze sieci rozdzielczej — należy przez to rozumieć jednostkę organizacyjną przedsiębiorstwa gazowniczego, posiadającego koncesję na przesyłanie i dystrybucję paliw gazowych siecią rozdzielczą, odpowiedzialną za ruch sieciowy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "operatorze sieci — należy przez to rozumieć operatora sieci przesyłowej lub operatora sieci rozdzielczej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "układzie pomiarowym — należy przez to rozumieć gazomierze i inne urządzenia pomiarowe lub rozliczeniowo-pomiarowe, a także układy połączeń między nimi, służące do pomiaru ilości pobranych paliw gazowych i dokonywania rozliczeń,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "przyłączu — należy przez to rozumieć odcinek sieci gazowej od gazociągu zasilającego do kurka gt6wnego wraz z zabezpieczeniem włącznie, służący do przyłączania instalacji gazowej znajdującej się na terenie i w obiekcie odbiorcy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "instalacji gazowej — należy przez to rozumieć urządzenia gazowe z układami połączeń między nimi, zasilane z sieci gazowej, znajdujące się na terenie i w obiekcie odbiorcy.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2) obrotu paliwami gazowymi,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) świadczenia usług przesyłowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) ruchu sieciowego i eksploatacji sieci gazowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) standardów jakościowych obsługi odbiorców paliw gazowych."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 2. Ilekroć w rozporządzeniu jest mowa o:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) przedsiębiorstwie gazowniczym — należy przez to rozumieć przedsiębiorstwo energetyczne zajmujące się przesyłaniem, dystrybucją i obrotem paliwami gazowymi oraz magazynowaniem paliw gazowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) sieci gazowej — należy przez to rozumieć gazociągi wraz ze stacjami gazowymi, układami pomiarowymi i tłoczniami gazu, połączone i współpracujące ze sobą, służące do przesyłania i dystrybucji paliw gazowych, należące do przedsiębiorstwa gazowniczego,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) sieci przesyłowej — należy przez to rozumieć sieć gazową służącą do przesyłania i dystrybucji paliw gazowych o ciśnieniu wyższym niż 0,5 MPa,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) sieci rozdzielczej — należy przez to rozumieć sieć gazową stuzaca do przesyłania i dystrybucji paliw gazowych o ciśnieniu nie wyższym niż 0,5 MPa,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) operatorze sieci przesyłowej — należy przez to rozumieć jednostkę organizacyjną przedsiębiorstwa gazowniczego posiadającego koncesję na przesytanie i dystrybucję paliw gazowych siecią przesytową odpowiedzialną za ruch sieciowy,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) operatorze sieci rozdzielczej — należy przez to rozumieć jednostkę organizacyjną przedsiębiorstwa gazowniczego, posiadającego koncesję na przesytanie i dystrybucję paliw gazowych siecią rozdzielczą, odpowiedzialną za ruch sieciowy,"
-  },
-  {
-   "type": "ocr",
-   "text": "7) operatorze sieci — należy przez to rozumieć operatora sieci przesyłowej lub operatora sieci rozdzielczej,"
-  },
-  {
-   "type": "ocr",
-   "text": "8) układzie pomiarowym — należy przez to rozumieć gazomierze i inne urządzenia pomiarowe lub rozliczeniowo-pomiarowe, a także układy połączeń między nimi, stużące do pomiaru ilości pobranych paliw gazowych i dokonywania rozliczeń,"
-  },
-  {
-   "type": "ocr",
-   "text": "9) przytaczu — należy przez to rozumieć odcinek sieci gazowej od gazociągu zasilającego do kurka gt6wnego wraz z zabezpieczeniem włącznie, służący do przyłączania instalacji gazowej znajdującej się na terenie i w obiekcie odbiorcy,"
-  },
-  {
-   "type": "ocr",
-   "text": "10) instalacji gazowej — należy przez to rozumieć urządzenia gazowe z układami połączeń między nimi, zasilane z sieci gazowej, znajdujące się na terenie i w obiekcie odbiorcy."
-  },
-  {
-   "type": "ocr",
-   "text": "Rozdział 2"
-  },
-  {
-   "type": "ocr",
+   "type": "heading",
+   "label": "Rozdział 2",
    "text": "Przyłączenie podmiotów do sieci gazowej"
   },
   {
-   "type": "ocr",
-   "text": "§ 3. 1. Przyłączenie do sieci gazowej następuje na podstawie umowy o przyłączenie, po spetnieniu technicznych warunków przyłączenia określonych przez przedsiębiorstwo gazownicze, zwanych dalej „warunkami przyłączenia”."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Umowę, o której mowa w ust. 1, przedsiębiorstwo gazownicze zawiera z podmiotem ubiegającym się o przyłączenie do sieci gazowej, który posiada tytuł prawny do korzystania z obiektu przytaczanego do tej sieci."
-  },
-  {
-   "type": "ocr",
-   "text": "8 4. Podmioty albo odbiorcy przyłączani do sieci gazowej dzielą się na następujące grupy przyłączeniowe, zwane dalej „grupami przytaczeniowymi”:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) grupa I — podmioty albo odbiorcy pobierający paliwo gazowe w ilości do 10 m*/h w przeliczeniu na gaz ziemny wysokometanowy i do 25 m*/h w przeliczeniu na gaz ziemny zaazotowany,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) grupa Il — podmioty albo odbiorcy pobierający paliwo gazowe w ilości powyżej 10 m°/h w przeliczeniu na gaz ziemny wysokometanowy i powyżej 25 m*/h w przeliczeniu na gaz ziemny zaazotowany."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 5. 1. Podmiot ubiegający się o przyłączenie do sieci gazowej, który posiada tytuł prawny do korzystania z obiektu, o którym mowa w 8 3 ust. 2, może wystąpić z wnioskiem o określenie warunków przyłączenia."
-  },
-  {
-   "type": "ocr",
-   "text": "2. W przypadku gdy wniosek, o którym mowa w ust. 1, nie spełnia wymogów określonych w 8 6, przedsiębiorstwo gazownicze w terminie 7 dni od daty wpłynięcia wniosku zawiadomi wnioskodawcę, wyznaczając termin do uzupełnienia wniosku nie krótszy"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 2 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "niż 14 dni. Jeżeli wniosek nie zostanie uzupełniony w wyznaczonym terminie, przedsiębiorstwo gazownicze pozostawia wniosek bez rozpoznania."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Wzór wniosku, o którym mowa w ust. 1, ustala przedsiębiorstwo gazownicze."
-  },
-  {
-   "type": "ocr",
-   "text": "4. Podmiot ubiegający się o przyłączenie do sieci gazowej, który nie posiada tytułu prawnego do korzystania z obiektu przyłączanego do tej sieci, może wystąpić do przedsiębiorstwa gazowniczego o przedstawienie możliwości przyłączenia."
-  },
-  {
-   "type": "ocr",
-   "text": "5. Przedsiębiorstwo gazownicze udziela odpowiedzi o istniejących możliwościach przyłączenia w terminie 21 dni od dnia wpływu wystąpienia, o którym mowa w ust. 4."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 6. 1. Wniosek o określenie warunków przytaczenia, dla wnioskodawcy zaliczanego do | grupy przytaczeniowej, powinien zawierać w szczególności:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) oznaczenie wnioskodawcy,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) określenie rodzaju paliwa gazowego, zgodnie z wymaganiami, o których mowa w 8 23,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) określenie:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) terminu rozpoczęcia odbioru paliwa gazowego,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) celu wykorzystania paliwa gazowego,"
-  },
-  {
-   "type": "ocr",
-   "text": "c) maksymalnego godzinowego odbioru paliwa gazowego."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Do wniosku, o którym mowa w ust. 1, należy załączyć:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) dokument potwierdzający tytuł prawny wnioskodawcy do korzystania z obiektu budowlanego lub nieruchomości, w którym będą użytkowane urządzenia i instalacje,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) mapę zasadniczą terenu do celów projektowych z zaznaczonym miejscem odbioru paliwa gazowego."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Wniosek, o którym mowa w ust. 1, dla wnioskodawcy zaliczanego do I! grupy przytaczeniowej powinien zawierać dodatkowo:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) określenie:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) minimalnego i maksymalnego godzinowego, dobowego oraz rocznego zapotrzebowania na paliwo gazowe,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) wymaganego ciśnienia w punkcie dostawy i odbioru paliwa gazowego,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) opis wymagań dotyczących warunków pracy przytączanych urządzeń i instalacji gazowych w okresie rozruchu tych urządzeń,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) określenie możliwości korzystania z innych źródeł energii w przypadku przerw lub ograniczeń w dostarczaniu paliwa gazowego,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) opis wymagań dotyczących odmiennych od standardów jakościowych parametrów paliwa gazowego lub warunków jego dostarczania."
-  },
-  {
-   "type": "ocr",
-   "text": "4. W przypadku gdy o przyłączenie do sieci gazowej ubiega się podmiot zajmujący się przesyłaniem, dys-"
-  },
-  {
-   "type": "ocr",
-   "text": "trybucją albo magazynowaniem paliw gazowych, wniosek o określenie warunków przyłączenia powinien zawierać w szczególności:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) oznaczenie wnioskodawcy,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) określenie:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) rodzaju paliwa gazowego,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) terminu rozpoczęcia przesyłania lub magazynowania paliw gazowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) określenie mocy umownej,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) przewidywaną ilość odbioru paliwa gazowego,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) parametry ciśnienia paliw gazowych oraz charakterystykę pracy magazynu,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) wymagane ciśnienia w punkcie dostawy i odbioru paliw gazowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "7) opis wymagań w okresie rozruchu podiączonej sieci gazowej lub podłączonego magazynu."
-  },
-  {
-   "type": "ocr",
-   "text": "8 7. 1. Jeżeli istnieją techniczne i ekonomiczne warunki dostarczania paliwa gazowego, przedsiębiorstwo gazownicze określa warunki przytączenia w terminie:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) 30 dni od dnia złożenia wniosku, o którym mowa w § 6 ust. 1,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) 60 dni od dnia ztozenia wniosku, o kt6rym mowa w $ 6 ust. 3,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) 90 dni od dnia złożenia wniosku, o którym mowa w 8 6 ust. 4."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Warunki przyłączenia są ważne przez okres dwóch lat od dnia ich wydania."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 8. Warunki w szczególności:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) miejsce podtączenia gazociągów lub instalacji gazowych do sieci gazowej i jej parametry techniczne, w tym średnicę gazociągu,"
-  },
-  {
-   "type": "ocr",
-   "text": "przyłączenia powinny określać"
-  },
-  {
-   "type": "ocr",
-   "text": "2) zakres niezbędnej budowy lub rozbudowy sieci gazowej w związku z przyłączeniem,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) parametry techniczne przyłącza,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) rodzaj paliwa gazowego zgodnie z wymaganiami, o których mowa w 8 23,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) minimalne i maksymalne ciśnienie dostawy i odbioru paliw gazowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) wymagania dotyczące dokonywania pomiaru i kontroli dostawy i odbioru paliw gazowych oraz miejsce zainstalowania uktadu pomiarowego,"
-  },
-  {
-   "type": "ocr",
-   "text": "7)charakterystykę dostawy i odbioru paliw gazowych, w tym minimalne i maksymalne godzinowe, dobowe oraz roczne zapotrzebowanie na paliwa gazowe, a także charakterystykę pracy magazynu,"
-  },
-  {
-   "type": "ocr",
-   "text": "8) miejsce dostawy i odbioru paliw gazowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "9) granicę własności sieci przedsiębiorstwa gazowniczego i instalacji gazowej,"
-  },
-  {
-   "type": "ocr",
-   "text": "10) zasady korzystania przez odbiorcę z innych źródeł energii w przypadku przerw lub ograniczeń w dostarczaniu paliwa gazowego,"
-  },
-  {
-   "type": "ocr",
-   "text": "11) projektowany koszt wykonania przyłączenia,"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "12) wymagania dotyczące wyposażenia stacji gazowej, rodzaju układu pomiarowego i warunków technicznych ochrony antykorozyjnej."
-  },
-  {
-   "type": "ocr",
-   "text": "8 9. Umowa o przyłączenie, o której mowa w 8 3 ust. 1, powinna określać w szczególności:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) strony zawierające umowę,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) termin realizacji przyłączenia,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) wysokość opłaty za przyłączenie,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) granicę własności sieci przedsiębiorstwa gazowniczego i instalacji gazowej,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) warunki udostępnienia przez podmiót przytaczany przedsiębiorstwu gazowniczemu należącej do tego podmiotu nieruchomości w celu budowy lub rozbudowy sieci niezbędnej do realizacji przytączenia,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) przewidywany termin zawarcia umowy sprzedaży paliw gazowych lub umowy o świadczenie usługi przesyłowej,"
-  },
-  {
-   "type": "ocr",
-   "text": "7) odpowiedzialność stron za niedotrzymanie warunków umowy o przyłączenie, a w szczególności za opóźnienie terminu realizacji prac w stosunku do ustalonych w umowie."
-  },
-  {
-   "type": "ocr",
-   "text": "Rozdział 3"
-  },
-  {
-   "type": "ocr",
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Przyłączenie do sieci gazowej następuje na podstawie umowy o przyłączenie, po spełnieniu technicznych warunków przyłączenia określonych przez przedsiębiorstwo gazownicze, zwanych dalej „warunkami przyłączenia”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Umowę, o której mowa w ust. 1, przedsiębiorstwo gazownicze zawiera z podmiotem ubiegającym się o przyłączenie do sieci gazowej, który posiada tytuł prawny do korzystania z obiektu przytaczanego do tej sieci.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Podmioty albo odbiorcy przyłączani do sieci gazowej dzielą się na następujące grupy przyłączeniowe, zwane dalej „grupami przyłączeniowymi”:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "grupa I — podmioty albo odbiorcy pobierający paliwo gazowe w ilości do 10 m*/h w przeliczeniu na gaz ziemny wysokometanowy i do 25 m*/h w przeliczeniu na gaz ziemny zaazotowany,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "grupa Il — podmioty albo odbiorcy pobierający paliwo gazowe w ilości powyżej 10 m°/h w przeliczeniu na gaz ziemny wysokometanowy i powyżej 25 m*/h w przeliczeniu na gaz ziemny zaazotowany.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Podmiot ubiegający się o przyłączenie do sieci gazowej, który posiada tytuł prawny do korzystania z obiektu, o którym mowa w § 3 ust. 2, może wystąpić z wnioskiem o określenie warunków przyłączenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W przypadku gdy wniosek, o którym mowa w ust. 1, nie spełnia wymogów określonych w § 6, przedsiębiorstwo gazownicze w terminie 7 dni od daty wpłynięcia wniosku zawiadomi wnioskodawcę, wyznaczając termin do uzupełnienia wniosku nie krótszy",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "niż 14 dni. Jeżeli wniosek nie zostanie uzupełniony w wyznaczonym terminie, przedsiębiorstwo gazownicze pozostawia wniosek bez rozpoznania."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Wzór wniosku, o którym mowa w ust. 1, ustala przedsiębiorstwo gazownicze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Podmiot ubiegający się o przyłączenie do sieci gazowej, który nie posiada tytułu prawnego do korzystania z obiektu przyłączanego do tej sieci, może wystąpić do przedsiębiorstwa gazowniczego o przedstawienie możliwości przyłączenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "Przedsiębiorstwo gazownicze udziela odpowiedzi o istniejących możliwościach przyłączenia w terminie 21 dni od dnia wpływu wystąpienia, o którym mowa w ust. 4.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Wniosek o określenie warunków przyłączenia, dla wnioskodawcy zaliczanego do | grupy przyłączeniowej, powinien zawierać w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "oznaczenie wnioskodawcy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "określenie rodzaju paliwa gazowego, zgodnie z wymaganiami, o których mowa w § 23,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_1/pkt_3",
+       "text": "określenie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_6/ust_1/pkt_3/lit_a",
+         "text": "terminu rozpoczęcia odbioru paliwa gazowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_6/ust_1/pkt_3/lit_b",
+         "text": "celu wykorzystania paliwa gazowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_6/ust_1/pkt_3/lit_c",
+         "text": "maksymalnego godzinowego odbioru paliwa gazowego.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Do wniosku, o którym mowa w ust. 1, należy załączyć:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_2/pkt_1",
+       "text": "dokument potwierdzający tytuł prawny wnioskodawcy do korzystania z obiektu budowlanego lub nieruchomości, w którym będą użytkowane urządzenia i instalacje,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_2/pkt_2",
+       "text": "mapę zasadniczą terenu do celów projektowych z zaznaczonym miejscem odbioru paliwa gazowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Wniosek, o którym mowa w ust. 1, dla wnioskodawcy zaliczanego do I! grupy przyłączeniowej powinien zawierać dodatkowo:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_3/pkt_1",
+       "text": "określenie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_6/ust_3/pkt_1/lit_a",
+         "text": "minimalnego i maksymalnego godzinowego, dobowego oraz rocznego zapotrzebowania na paliwo gazowe,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_6/ust_3/pkt_1/lit_b",
+         "text": "wymaganego ciśnienia w punkcie dostawy i odbioru paliwa gazowego,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_3/pkt_2",
+       "text": "opis wymagań dotyczących warunków pracy przyłączanych urządzeń i instalacji gazowych w okresie rozruchu tych urządzeń,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_3/pkt_3",
+       "text": "określenie możliwości korzystania z innych źródeł energii w przypadku przerw lub ograniczeń w dostarczaniu paliwa gazowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_3/pkt_4",
+       "text": "opis wymagań dotyczących odmiennych od standardów jakościowych parametrów paliwa gazowego lub warunków jego dostarczania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "W przypadku gdy o przyłączenie do sieci gazowej ubiega się podmiot zajmujący się przesyłaniem, dystrybucją albo magazynowaniem paliw gazowych, wniosek o określenie warunków przyłączenia powinien zawierać w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_4/pkt_1",
+       "text": "oznaczenie wnioskodawcy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_4/pkt_2",
+       "text": "określenie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_6/ust_4/pkt_2/lit_a",
+         "text": "rodzaju paliwa gazowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_6/ust_4/pkt_2/lit_b",
+         "text": "terminu rozpoczęcia przesyłania lub magazynowania paliw gazowych,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_4/pkt_3",
+       "text": "określenie mocy umownej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_4/pkt_4",
+       "text": "przewidywaną ilość odbioru paliwa gazowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_6/ust_4/pkt_5",
+       "text": "parametry ciśnienia paliw gazowych oraz charakterystykę pracy magazynu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_6/ust_4/pkt_6",
+       "text": "wymagane ciśnienia w punkcie dostawy i odbioru paliw gazowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_6/ust_4/pkt_7",
+       "text": "opis wymagań w okresie rozruchu podiączonej sieci gazowej lub podłączonego magazynu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Jeżeli istnieją techniczne i ekonomiczne warunki dostarczania paliwa gazowego, przedsiębiorstwo gazownicze określa warunki przyłączenia w terminie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "30 dni od dnia złożenia wniosku, o którym mowa w § 6 ust. 1,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "60 dni od dnia złożenia wniosku, o kt6rym mowa w § 6 ust. 3,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_1/pkt_3",
+       "text": "90 dni od dnia złożenia wniosku, o którym mowa w § 6 ust. 4.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Warunki przyłączenia są ważne przez okres dwóch lat od dnia ich wydania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Warunki przyłączenia powinny określać w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "miejsce podłączenia gazociągów lub instalacji gazowych do sieci gazowej i jej parametry techniczne, w tym średnicę gazociągu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "zakres niezbędnej budowy lub rozbudowy sieci gazowej w związku z przyłączeniem,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_8/pkt_3",
+     "text": "parametry techniczne przyłącza,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_8/pkt_4",
+     "text": "rodzaj paliwa gazowego zgodnie z wymaganiami, o których mowa w § 23,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_8/pkt_5",
+     "text": "minimalne i maksymalne ciśnienie dostawy i odbioru paliw gazowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_8/pkt_6",
+     "text": "wymagania dotyczące dokonywania pomiaru i kontroli dostawy i odbioru paliw gazowych oraz miejsce zainstalowania układu pomiarowego,",
+     "children": [
+      {
+       "type": "text",
+       "text": "7)charakterystykę dostawy i odbioru paliw gazowych, w tym minimalne i maksymalne godzinowe, dobowe oraz roczne zapotrzebowanie na paliwa gazowe, a także charakterystykę pracy magazynu,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_8/pkt_8",
+     "text": "miejsce dostawy i odbioru paliw gazowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_8/pkt_9",
+     "text": "granicę własności sieci przedsiębiorstwa gazowniczego i instalacji gazowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_8/pkt_10",
+     "text": "zasady korzystania przez odbiorcę z innych źródeł energii w przypadku przerw lub ograniczeń w dostarczaniu paliwa gazowego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_8/pkt_11",
+     "text": "projektowany koszt wykonania przyłączenia,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_8/pkt_12",
+     "text": "wymagania dotyczące wyposażenia stacji gazowej, rodzaju układu pomiarowego i warunków technicznych ochrony antykorozyjnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Umowa o przyłączenie, o której mowa w § 3 ust. 1, powinna określać w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_9/pkt_1",
+     "text": "strony zawierające umowę,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_9/pkt_2",
+     "text": "termin realizacji przyłączenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_9/pkt_3",
+     "text": "wysokość opłaty za przyłączenie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_9/pkt_4",
+     "text": "granicę własności sieci przedsiębiorstwa gazowniczego i instalacji gazowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_9/pkt_5",
+     "text": "warunki udostępnienia przez podmiót przytaczany przedsiębiorstwu gazowniczemu należącej do tego podmiotu nieruchomości w celu budowy lub rozbudowy sieci niezbędnej do realizacji przyłączenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_9/pkt_6",
+     "text": "przewidywany termin zawarcia umowy sprzedaży paliw gazowych lub umowy o świadczenie usługi przesyłowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_9/pkt_7",
+     "text": "odpowiedzialność stron za niedotrzymanie warunków umowy o przyłączenie, a w szczególności za opóźnienie terminu realizacji prac w stosunku do ustalonych w umowie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
    "text": "Obrót paliwami gazowymi"
   },
   {
-   "type": "ocr",
-   "text": "8 10. Przedsiębiorstwo gazownicze prowadzi obrót paliwami gazowymi na warunkach określonych w koncesji oraz umowie sprzedaży paliw gazowych."
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Przedsiębiorstwo gazownicze prowadzi obrót paliwami gazowymi na warunkach określonych w koncesji oraz umowie sprzedaży paliw gazowych.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "8 11. Umowa sprzedaży paliw gazowych powinna określać w szczególności:"
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Umowa sprzedaży paliw gazowych powinna określać w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_11/pkt_1",
+     "text": "strony zawierające umowę,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_11/pkt_2",
+     "text": "ilość paliwa gazowego niezbędną do utrzymania ruchu technologicznego urządzeń gazowych znajdujących się w obiekcie odbiorcy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_11/pkt_3",
+     "text": "grupę taryfową, według której będą dokonywane rozliczenia z tytułu sprzedaży paliw gazowych, sposoby prowadzenia rozliczeń i obliczania należności oraz terminy regulowania należności,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_11/pkt_4",
+     "text": "terminy rozpoczęcia dostarczania paliw gazowych do obiektu oraz odczytów wskazań urządzeń pomiarowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_11/pkt_5",
+     "text": "szczegółowe warunki ustalania terminów przerywania dostarczania paliw gazowych i rozpoczynania dostarczania tych paliw po przerwie w dostarczaniu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_11/pkt_6",
+     "text": "odpowiedzialność stron za niedotrzymanie warunków umowy, a w szczególności standardów jakościowych obsługi odbiorców,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_11/pkt_7",
+     "text": "termin ważności umowy oraz postanowienia dotyczące zmiany warunków umowy i jej wypowiedzenia.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) strony zawierające umowę,"
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Przedsiębiorstwo gazownicze prowadzące obrót paliwami gazowymi jest obowiązane do:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_12/pkt_1",
+     "text": "uwzględniania w przypadku zakupu paliw gazowych:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_12/pkt_1/lit_a",
+       "text": "źródeł oferujących najkorzystniejsze warunki,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_12/pkt_1/lit_b",
+       "text": "maksymalnego poziomu dostaw tych paliw z zagranicy, określonego w odrębnych przepisach,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_12/pkt_2",
+     "text": "dostarczania paliwa gazowego na warunkach określonych w umowie sprzedaży lub w umowie o świadczenie usługi przesyłowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_12/pkt_3",
+     "text": "uzgadniania z odbiorcą:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_12/pkt_3/lit_a",
+       "text": "zmian warunków dostarczania paliwa gazowego, w szczególności gdy urządzenia gazowe wymagają przystosowania do nowych warunków,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_12/pkt_3/lit_b",
+       "text": "planowanych przerw lub ograniczeń w dostarczaniu paliwa gazowego, wprowadzanych na podstawie odrębnych przepisów lub umowy,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_12/pkt_4",
+     "text": "udzielania odbiorcom informacji o przewidywanych terminach przywrócenia normalnych warunków dostarczania paliwa gazowego w przypadku zakłóceń w jego dostarczaniu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_12/pkt_5",
+     "text": "niezwłocznego likwidowania przerw i zakłóceń w dostarczaniu paliwa gazowego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_12/pkt_6",
+     "text": "umożliwiania odbiorcy dostępu do układu pomiarowego oraz kontroli prawidłowości wskazań układu pomiarowego.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2) ilość paliwa gazowego niezbędną do utrzymania ruchu technologicznego urządzeń gazowych znajdujących się w obiekcie odbiorcy,"
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Odbiorca paliw gazowych jest obowiązany do:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_13/pkt_1",
+     "text": "odbioru i użytkowania paliwa gazowego zgodnie z obowiązującymi przepisami i warunkami umowy sprzedaży paliw gazowych lub umowy o świadczenie usługi przesyłowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_13/pkt_2",
+     "text": "zapewnienia:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_13/pkt_2/lit_a",
+       "text": "przedstawicielom przedsiębiorstwa gazowniczego dostępu do instalacji, układu pomiarowego oraz możliwości kontroli prawidłowości wskazań układu pomiarowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_13/pkt_2/lit_b",
+       "text": "możliwości wykonywania prac związanych z eksploatacją urządzeń i instalacji gazowych przedsiębiorstwa gazowniczego, znajdujących się w obiekcie odbiorcy,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_13/pkt_3",
+     "text": "prawidłowego wykonywania poleceń w zakresie przerw i ograniczeń w odbiorze paliwa gazowego, wprowadzanych na podstawie odrębnych przepisów lub umowy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_13/pkt_4",
+     "text": "zabezpieczenia przed uszkodzeniem plomb w układzie pomiarowym,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_13/pkt_5",
+     "text": "niezwłocznego informowania przedsiębiorstwa gazowniczego o zauważonych wadach lub usterkach w układzie pomiarowym, a także o stwierdzonych przerwach i zakłóceniach w odbiorze paliwa gazowego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_13/pkt_6",
+     "text": "terminowego regulowania należności.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "3) grupę taryfową, według której będą dokonywane rozliczenia z tytutu sprzedaży paliw gazowych, sposoby prowadzenia rozliczeń i obliczania należności oraz terminy regulowania należności,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) terminy rozpoczęcia dostarczania paliw gazowych do obiektu oraz odczytów wskazań urządzeń pomiarowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) szczegółowe warunki ustalania terminów przerywania dostarczania paliw gazowych i rozpoczynania dostarczania tych paliw po przerwie w dostarczaniu,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) odpowiedzialność stron za niedotrzymanie warunków umowy, a w szczególności standardów jakościowych obsługi odbiorców,"
-  },
-  {
-   "type": "ocr",
-   "text": "7) termin ważności umowy oraz postanowienia dotyczące zmiany warunków umowy i jej wypowiedzenia."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 12. Przedsiębiorstwo gazownicze prowadzące obrót paliwami gazowymi jest obowiązane do:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) uwzględniania w przypadku zakupu paliw gazowych:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) źródet oferujących najkorzystniejsze warunki,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) maksymalnego poziomu dostaw tych paliw z zagranicy, określonego w odrębnych przepisach,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) dostarczania paliwa gazowego na warunkach określonych w umowie sprzedaży lub w umowie o świadczenie ustugi przesytowej,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) uzgadniania z odbiorcą:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) zmian warunków dostarczania paliwa gazowego, w szczególności gdy urządzenia gazowe wymagają przystosowania do nowych warunków,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) planowanych przerw lub ograniczeń w dostarczaniu paliwa gazowego, wprowadzanych na podstawie odrębnych przepisów lub umowy,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) udzielania odbiorcom informacji o przewidywanych terminach przywrócenia normalnych warunków dostarczania paliwa gazowego w przypadku zakłóceń w jego dostarczaniu,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) niezwłocznego likwidowania przerw i zakłóceń w dostarczaniu paliwa gazowego,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) umożliwiania odbiorcy dostępu do układu pomiarowego oraz kontroli prawidłowości wskazań uktadu pomiarowego."
-  },
-  {
-   "type": "ocr",
-   "text": "8 13. Odbiorca paliw gazowych jest obowiązany do:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) odbioru i użytkowania paliwa gazowego zgodnie z obowiązującymi przepisami i warunkami umowy sprzedaży paliw gazowych lub umowy o świadczenie ustugi przesyłowej,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) zapewnienia:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) przedstawicielom przedsiębiorstwa gazowniczego dostępu do instalacji, układu pomiarowego oraz możliwości kontroli prawidłowości wskazań układu pomiarowego,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) możliwości wykonywania prac związanych z eksploatacją urządzeń i instalacji gazowych przedsiębiorstwa gazowniczego, znajdujących się w obiekcie odbiorcy,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) prawidłowego wykonywania poleceń w zakresie przerw i ograniczeń w odbiorze paliwa gazowego, wprowadzanych na podstawie odrębnych przepisów lub umowy,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) zabezpieczenia przed uszkodzeniem plomb w uktadzie pomiarowym,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) niezwłocznego informowania przedsiębiorstwa gazowniczego o zauważonych wadach lub usterkach w układzie pomiarowym, a także o stwierdzonych przerwach i zaktóceniach w odbiorze paliwa gazowego,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) terminowego regulowania należności."
-  },
-  {
-   "type": "ocr",
-   "text": "Rozdziat 4"
-  },
-  {
-   "type": "ocr",
+   "type": "heading",
+   "label": "Rozdział 4",
    "text": "Świadczenie usług przesyłowych"
   },
   {
-   "type": "ocr",
-   "text": "8 14. Przedsiębiorstwo gazownicze realizuje usługi przesyłowe na warunkach określonych w koncesji oraz umowie o świadczenie usług przesyłowych."
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Przedsiębiorstwo gazownicze realizuje usługi przesyłowe na warunkach określonych w koncesji oraz umowie o świadczenie usług przesyłowych.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
   },
   {
-   "type": "note",
-   "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Umowa o świadczenie usług przesyłowych powinna określać w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_15/pkt_1",
+     "text": "strony zawierające umowę,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_15/pkt_2",
+     "text": "rodzaj paliwa gazowego, zgodnie z wymaganiami, o których mowa w § 23,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_15/pkt_3",
+     "text": "termin rozpoczęcia świadczenia usługi przesyłowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_15/pkt_4",
+     "text": "miejsce dostarczania i odbioru paliwa gazowego przeznaczonego do przesyłania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_15/pkt_5",
+     "text": "ilość paliwa gazowego przewidzianego do przesyłania, w tym przeznaczonego na potrzeby technologiczne i straty sieciowe, oraz zasady pomiaru paliwa gazowego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_15/pkt_6",
+     "text": "jakość, niezawodność i terminowość dostaw i odbioru paliwa gazowego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_15/pkt_7",
+     "text": "grupę taryfową, według której będą dokonywane rozliczenia za sprzedaż paliw gazowych, warunki wprowadzania zmian tych stawek, sposoby prowadzenia rozliczeń i obliczania należności oraz terminy regulowania należności,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_15/pkt_8",
+     "text": "wielkość godzinowej lub dobowej mocy zamówionej oraz warunki i terminy jej zmiany,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_15/pkt_9",
+     "text": "określenie punktu, w którym następuje przekazanie paliwa gazowego do przesyłu przez dostawcę gazu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_15/pkt_10",
+     "text": "odpowiedzialność stron za niedotrzymanie warunków umowy, w szczególności przekroczenie mocy umownej oraz niedostarczenie paliwa przez dostawcę,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_15/pkt_11",
+     "text": "termin ważności umowy oraz postanowienia dotyczące zmiany warunków umowy i jej wypowiedzenia.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "§ 15. Umowa o świadczenie ustug przesyłowych powinna określać w szczególności:"
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Przedsiębiorstwo gazownicze za świadczenie usługi przesyłowej pobiera opłaty na podstawie stawek opłat określonych w taryfie lub umowie o świadczenie usługi przesyłowej.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "1) strony zawierające umowę,"
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Przedsiębiorstwo gazownicze nie może odmówić zawarcia umowy, o której mowa w § 14, jeżeli spełnione są równocześnie następujące warunki:",
+   "children": [
+    {
+     "type": "text",
+     "text": "1)odbiorca uzyskał prawo do korzystania z usług przesyłowych na zasadach określonych w rozporządzeniu,"
+    },
+    {
+     "type": "text",
+     "text": "istnieją techniczne możliwości przesyłania paliwa 2"
+    },
+    {
+     "type": "text",
+     "text": "— gazowego istniejącą siecią gazową, bez pogorszenia, poniżej poziomu określonego odrębnymi przepisami, niezawodności oraz jakości dostarczanego paliwa gazowego, do odbiorców przyłączonych do sieci,"
+    },
+    {
+     "type": "text",
+     "text": "istnieją układy pomiarowe umożliwiające określę- 3"
+    },
+    {
+     "type": "text",
+     "text": "— nie ilości paliwa dostarczanego i odbieranego z sieci gazowej,"
+    },
+    {
+     "type": "text",
+     "text": "— świadczenie usług przesyłowych przez przedsię- 4 biorstwo gazownicze nie będzie powodowało niekorzystnej zmiany opłat za dostarczanie paliwa gazowego, ponoszonych przez odbiorców przyłączonych do sieci gazowej."
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2) rodzaj paliwa gazowego, zgodnie z wymaganiami, o których mowa w 8 23,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) termin rozpoczęcia świadczenia usługi przesyłowej,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) miejsce dostarczania i odbioru paliwa gazowego przeznaczonego do przesyłania,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) ilość paliwa gazowego przewidzianego do przesytania, w tym przeznaczonego na potrzeby technologiczne i straty sieciowe, oraz zasady pomiaru paliwa gazowego,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) jakość, niezawodność i terminowość dostaw i odbioru paliwa gazowego,"
-  },
-  {
-   "type": "ocr",
-   "text": "7) grupę taryfową, wedtug której będą dokonywane rozliczenia za sprzedaż paliw gazowych, warunki wprowadzania zmian tych stawek, sposoby prowadzenia rozliczeń i obliczania należności oraz terminy regulowania należności,"
-  },
-  {
-   "type": "ocr",
-   "text": "8) wielkość godzinowej lub dobowej mocy zamówionej oraz warunki i terminy jej zmiany,"
-  },
-  {
-   "type": "ocr",
-   "text": "9) określenie punktu, w którym następuje przekazanie paliwa gazowego do przesyłu przez dostawcę gazu,"
-  },
-  {
-   "type": "ocr",
-   "text": "10) odpowiedzialność stron za niedotrzymanie warunków umowy, w szczególności przekroczenie mocy umownej oraz niedostarczenie paliwa przez dostawcę,"
-  },
-  {
-   "type": "ocr",
-   "text": "11) termin ważności umowy oraz postanowienia dotyczące zmiany warunków umowy i jej wypowiedzenia."
-  },
-  {
-   "type": "ocr",
-   "text": "$ 16. Przedsiębiorstwo gazownicze za świadczenie ustugi przesyłowej pobiera opłaty na podstawie stawek opłat określonych w taryfie lub umowie o świadczenie ustugi przesytowej."
-  },
-  {
-   "type": "ocr",
-   "text": "8 17. Przedsiębiorstwo gazownicze nie może odmówić zawarcia umowy, o której mowa w $ 14, jeżeli spełnione są równocześnie następujące warunki:"
-  },
-  {
-   "type": "ocr",
-   "text": "1)odbiorca uzyskał prawo do korzystania z usług przesyłowych na zasadach określonych w rozporządzeniu,"
-  },
-  {
-   "type": "ocr",
-   "text": "2"
-  },
-  {
-   "type": "ocr",
-   "text": "—"
-  },
-  {
-   "type": "ocr",
-   "text": "istnieją techniczne możliwości przesyłania paliwa gazowego istniejącą siecią gazową, bez pogorszenia, poniżej poziomu określonego odrębnymi przepisami, niezawodności oraz jakości dostarczanego paliwa gazowego, do odbiorców przyłączonych do sieci,"
-  },
-  {
-   "type": "ocr",
-   "text": "3"
-  },
-  {
-   "type": "ocr",
-   "text": "—"
-  },
-  {
-   "type": "ocr",
-   "text": "istnieją układy pomiarowe umożliwiające określenie ilości paliwa dostarczanego i odbieranego z sieci gazowej,"
-  },
-  {
-   "type": "ocr",
-   "text": "4"
-  },
-  {
-   "type": "ocr",
-   "text": "—"
-  },
-  {
-   "type": "ocr",
-   "text": "świadczenie ustug przesytowych przez przedsiębiorstwo gazownicze nie będzie powodowało niekorzystnej zmiany opłat za dostarczanie paliwa gazowego, ponoszonych przez odbiorców przytaczonych do sieci gazowej."
-  },
-  {
-   "type": "ocr",
-   "text": "Rozdział 5"
-  },
-  {
-   "type": "ocr",
+   "type": "heading",
+   "label": "Rozdział 5",
    "text": "Prowadzenie ruchu sieciowego i eksploatacja sieci"
   },
   {
-   "type": "ocr",
-   "text": "8 18. 1. Prowadzenie ruchu sieciowego należy do obowiązków przedsiębiorstwa gazowniczego, które powinno wyznaczyć operatora sieci."
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Prowadzenie ruchu sieciowego należy do obowiązków przedsiębiorstwa gazowniczego, które powinno wyznaczyć operatora sieci.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Ruch sieci:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_2/pkt_1",
+       "text": "przesyłowej — prowadzi operator sieci przesyłowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_2/pkt_2",
+       "text": "rozdzielczej — prowadzi operator sieci rozdzielczej.",
+       "children": []
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2. Ruch sieci:"
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Do obowiązków operatora sieci przesyłowej należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_19/pkt_1",
+     "text": "sterowanie przepływem paliw gazowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_19/pkt_2",
+     "text": "dysponowanie paliwami gazowymi w źródłach i magazynach przyłączonych do sieci przesyłowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_19/pkt_3",
+     "text": "sporządzanie bilansu paliwa gazowego w sieci,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_19/pkt_4",
+     "text": "decydowanie o terminie i czasie trwania planowanych robót w sieci przesyłowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_19/pkt_5",
+     "text": "przekazywanie innym operatorom sieci informacji o pracy sieci przesyłowej zgodnie z zawartymi umowami,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_19/pkt_6",
+     "text": "opracowywanie planów ograniczeń dostaw gazu dla operatorów sieci rozdzielczej oraz odbiorców przyłączonych bezpośrednio do sieci przesyłowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_19/pkt_7",
+     "text": "wprowadzanie ograniczeń w dostawach paliw gazowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_19/pkt_8",
+     "text": "prowadzenie optymalizacji pracy sieci przesyłowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_19/pkt_9",
+     "text": "sporządzanie raportów przepływu paliw gazowych w sieci przesyłowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_19/pkt_10",
+     "text": "zbieranie informacji dotyczących zdarzeń występujących w sieci przesyłowej.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) przesyłowej — prowadzi operator sieci przesytowej,"
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Do obowiązków operatora sieci rozdzielczej należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_20/pkt_1",
+     "text": "sterowanie przepfywem paliw gazowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_20/pkt_2",
+     "text": "dysponowanie paliwami gazowymi w źródłach i magazynach gazu przyłączonych do sieci rozdzielczej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_20/pkt_3",
+     "text": "sporządzanie bilansu paliwa gazowego w sieci,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_20/pkt_4",
+     "text": "decydowanie o terminie i czasie trwania planowanych robót w sieci rozdzielczej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_20/pkt_5",
+     "text": "przekazywanie operatorowi sieci przesyłowej informacji dotyczącej pracy sieci rozdzielczej, zgodnie z zawartymi umowami,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_20/pkt_6",
+     "text": "opracowywanie planów ograniczeń dostaw gazu dla odbiorców przyłączonych bezpośrednio do sieci rozdzielczej i przekazywanie tych planów operatorowi sieci przesyłowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_20/pkt_7",
+     "text": "wprowadzanie ograniczeń w dostawach paliw gazowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_20/pkt_8",
+     "text": "prowadzenie optymalizacji pracy sieci rozdzielczej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_20/pkt_9",
+     "text": "sporządzanie raportów przepływu paliw gazowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_20/pkt_10",
+     "text": "zbieranie informacji dotyczących zdarzeń występujących w sieci rozdzielczej.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2) rozdzielczej — prowadzi operator sieci rozdzielczej."
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Plany remontów urządzeń mających wpływ na ruch sieci, do której urządzenia są przyłączone, wymagają uzgodnienia z operatorem sieci.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "8 19. Do obowiązków operatora sieci przesyłowej należy:"
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Przedsiębiorstwo gazownicze eksploatuje sieć gazową i zapewnia utrzymanie zdolności sieci gazowej do realizacji dostaw gazu, w sposób ciągły i niezawodny, przy zachowaniu obowiązujących wymagań jakościowych gazu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Eksploatację sieci, o której mowa w ust. 1, przedsiębiorstwo energetyczne prowadzi na warunkach określonych w odrębnych przepisach.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) sterowanie przepływem paliw gazowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) dysponowanie paliwami gazowymi w źródłach i magazynach przyłączonych do sieci przesytowej,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) sporządzanie bilansu paliwa gazowego w sieci,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) decydowanie o terminie i czasie trwania planowanych robót w sieci przesyłowej,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) przekazywanie innym operatorom sieci informacji o pracy sieci przesyłowej zgodnie z zawartymi umowami,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) opracowywanie planów ograniczeń dostaw gazu dla operatorów sieci rozdzielczej oraz odbiorców przyłączonych bezpośrednio do sieci przesyłowej,"
-  },
-  {
-   "type": "ocr",
-   "text": "7) wprowadzanie ograniczeń w dostawach paliw gazowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "8) prowadzenie optymalizacji pracy sieci przesyłowej,"
-  },
-  {
-   "type": "ocr",
-   "text": "9) sporządzanie raportów przepływu paliw gazowych w sieci przesyłowej,"
-  },
-  {
-   "type": "ocr",
-   "text": "10) zbieranie informacji dotyczących zdarzeń występujących w sieci przesytowej."
-  },
-  {
-   "type": "ocr",
-   "text": "8 20. Do obowiązków operatora sieci rozdzielczej należy:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) sterowanie przepfywem paliw gazowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) dysponowanie paliwami gazowymi w źródłach i magazynach gazu przyłączonych do sieci rozdzielczej,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) sporządzanie bilansu paliwa gazowego w sieci,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) decydowanie o terminie i czasie trwania planowanych robót w sieci rozdzielczej,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) przekazywanie operatorowi sieci przesyłowej informacji dotyczącej pracy sieci rozdzielczej, zgodnie z zawartymi umowami,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) opracowywanie planów ograniczeń dostaw gazu dla odbiorców przyłączonych bezpośrednio do sieci rozdzielczej i przekazywanie tych planów operatorowi sieci przesyłowej,"
-  },
-  {
-   "type": "ocr",
-   "text": "7) wprowadzanie ograniczeń w dostawach paliw gazowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "8) prowadzenie optymalizacji pracy sieci rozdzielczej,"
-  },
-  {
-   "type": "ocr",
-   "text": "9) sporządzanie raportów przepływu paliw gazowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "10) zbieranie informacji dotyczących zdarzeń występujących w sieci rozdzielczej."
-  },
-  {
-   "type": "note",
-   "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "§ 21. Plany remontów urządzeń mających wptyw na ruch sieci, do której urządzenia są przyłączone, wymagają uzgodnienia z operatorem sieci."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 22. 1. Przedsiębiorstwo gazownicze eksploatuje sieć gazową i zapewnia utrzymanie zdolności sieci gazowej do realizacji dostaw gazu, w sposób ciągły i niezawodny, przy zachowaniu obowiązujących wymagań jakościowych gazu."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Eksploatację sieci, o której mowa w ust. 1, przedsiębiorstwo energetyczne prowadzi na warunkach określonych w odrębnych przepisach."
-  },
-  {
-   "type": "ocr",
-   "text": "Rozdział 6"
-  },
-  {
-   "type": "ocr",
+   "type": "heading",
+   "label": "Rozdział 6",
    "text": "Standardy jakościowe obsługi odbiorców"
   },
   {
-   "type": "ocr",
-   "text": "§ 23. 1. Przedsiębiorstwo gazownicze jest zobowiązane do dostarczania paliw gazowych spełniających następujące parametry jakościowe:"
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Przedsiębiorstwo gazownicze jest zobowiązane do dostarczania paliw gazowych spełniających następujące parametry jakościowe:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_23/ust_1/pkt_1",
+       "text": "zawartość siarkowodoru nie powinna przekraczać 7,0 mg/m,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_23/ust_1/pkt_2",
+       "text": "zawartość siarki całkowitej nie powinna przekraczać 40,0 mg/m,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_23/ust_1/pkt_3",
+       "text": "zawartość par rtęci nie powinna przekraczać 30,0 Hg/m3,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_23/ust_1/pkt_4",
+       "text": "intensywność zapachu gazu powinna być wyczuwalna w powietrzu po osiągnięciu stężenia:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_23/ust_1/pkt_4/lit_a",
+         "text": "1,5% V/V — dla nominalnej liczby Wobbego wynoszącej 25-35,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_23/ust_1/pkt_4/lit_b",
+         "text": "1,0% V/V — dla nominalnej liczby Wobbego wynoszącej 41-50,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_23/ust_1/pkt_5",
+       "text": "ciepło spalania powinno wynosić nie mniej niż:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_23/ust_1/pkt_5/lit_a",
+         "text": "18 MJ/m? — dla nominalnej liczby Wobbego 25,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_23/ust_1/pkt_5/lit_b",
+         "text": "22 MJ/m? — dla nominalnej liczby Wobbego 30,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_23/ust_1/pkt_5/lit_c",
+         "text": "26 MJ/m? — dla nominalnej liczby Wobbego 35,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_23/ust_1/pkt_5/lit_d",
+         "text": "30 MJ/m3 — dla nominalnej liczby Wobbego 41,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_23/ust_1/pkt_5/lit_e",
+         "text": "34 MJ/m3 — dla nominalnej liczby Wobbego 50.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "Liczbę Wobbego, o której mowa w ust. 1, określa się jako stosunek ciepła spalania paliwa gazowego [MJ/m3] do pierwiastka kwadratowego gęstości względnej tego paliwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_23/ust_3",
+     "text": "Parametry określone w ust. 1 wynoszą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_23/ust_3/pkt_1",
+       "text": "dla procesu spalania:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_23/ust_3/pkt_1/lit_a",
+         "text": "ciśnienie — 101,325 kPa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_23/ust_3/pkt_1/lit_b",
+         "text": "temperatura — 298,15 K (25°C),",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_23/ust_3/pkt_2",
+       "text": "dla pomiaru objętości:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_23/ust_3/pkt_2/lit_a",
+         "text": "ciśnienie — 101,325 kPa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_23/ust_3/pkt_2/lit_b",
+         "text": "temperatura — 273,15 K (0°C).",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_23/ust_4",
+     "text": "Przedsiębiorstwo gazownicze wykonuje badania poszczególnych parametrów jakościowych, o których mowa w ust. 1, w zakresie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_23/ust_4/pkt_1",
+       "text": "zawartości siarkowodoru — raz na 12 miesięcy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_23/ust_4/pkt_2",
+       "text": "zawartości siarki całkowitej — raz na 12 miesięcy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_23/ust_4/pkt_3",
+       "text": "zawartości par rtęci — tylko dla złóż paliwa gazowego zawierających rtęć — raz na 6 miesięcy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_23/ust_4/pkt_4",
+       "text": "intensywności zapachu — raz na 14 dni,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_23/ust_4/pkt_5",
+       "text": "ciepła spalania — raz na 3 miesiące.",
+       "children": [
+        {
+         "type": "text",
+         "text": "§ 24, W razie zastrzeżeń dotyczących jakości dostarczanych paliw gazowych, o której mowa w § 23, odbiorca może zażądać wykonania badania ich jakości w niezależnym laboratorium badawczym posiadającym akredytację jednostki certyfikującej, uzyskaną zgodnie z odrębnymi przepisami."
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) zawartość siarkowodoru nie powinna przekraczać 7,0 mg/m,"
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Przedsiębiorstwo gazownicze, w zakresie standardów jakościowych obsługi odbiorców, jest zobowiążane do:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_25/pkt_1",
+     "text": "udzielania odbiorcom informacji o przewidywanym terminie wznowienia dostawy paliw gazowych, przerwanej z powodu awarii sieci,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_25/pkt_2",
+     "text": "powiadamiania odbiorców o terminach i czasie planowanych przerw w dostawie paliw gazowych w formie: ogłoszeń prasowych, komunikatów radiowych lub telewizyjnych lub w inny sposób zwyczajowo przyjęty na danym terenie, lub indywidualnych zawiadomień pisemnych, telefonicznych bądź za pomocą innego środka telekomunikacji, co najmniej na 14 dni przed datą planowanej przerwy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_25/pkt_3",
+     "text": "uwzględniania propozycji odbiorcy dotyczącej rodzaju przyłącza i jego usytuowania, jeśli propozycja ta jest zgodna z obowiązującymi przepisami i warunkami technicznymi,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_25/pkt_4",
+     "text": "odpłatnego podjęcia stosownych czynności w sieci w celu umożliwienia bezpiecznego wykonania przez odbiorcę lub inny podmiot prac w obszarze tej sieci,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_25/pkt_5",
+     "text": "pokrycia kosztów badań, o których mowa w § 24, oraz wypłacenia odbiorcy odszkodowania w wysokości ustalonej w taryfie lub umowie, w przypadku stwierdzenia niezgodności jakości paliw gazowych, o której mowa w 3 23,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_25/pkt_6",
+     "text": "nieodpłatnego udzielania informacji dotyczących rozliczeń oraz aktualnych taryf,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_25/pkt_7",
+     "text": "rozpatrzenia wniosku lub reklamacji odbiorcy w Sprawie rozliczeń i udzielenia odpowiedzi, nie później niż w terminie 30 dni od dnia złożenia wniosku lub zgłoszenia reklamacji.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2) zawartość siarki całkowitej nie powinna przekraczać 40,0 mg/m,"
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Rodzaj układów pomiarowych oraz wymagania związane z ich stosowaniem ustala przedsiębiorstwo gazownicze.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "3) zawartość par rtęci 30,0 Hg/m3,"
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "W przypadku odbiorców zaliczanych do I grupy przyłączeniowej obowiązek instalowania gazomierza i ponoszenia kosztów z tym związanych spoczywa na przedsiębiorstwie gazowniczym.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "4) intensywność zapachu gazu powinna być wyczuwalna w powietrzu po osiągnięciu stężenia:"
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_28/ust_1",
+     "text": "Przedsiębiorstwo gazownicze może zainstalować gazomierz na monety wrzutowe lub kartę magnetyczną, jeżeli odbiorca:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_28/ust_1/pkt_1",
+       "text": "nie uregulował w terminie należności związanych z dostarczaniem paliw gazowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_28/ust_1/pkt_2",
+       "text": "nie jest właścicielem obiektu, w którym prowadzi działalność gospodarczą,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_28/ust_1/pkt_3",
+       "text": "użytkuje obiekt dorywczo w sposób uniemożliwiający sprawdzanie stanu wskazań układu pomia-",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "rowego w terminach określonych w umowie o świadczenie usług przesyłowych."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_28/ust_2",
+     "text": "Koszty zakupu gazomierza i jego zainstalowania, w przypadkach, o których mowa w ust. 1, ponosi odbiorca. .",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_28/ust_3",
+     "text": "W razie nieuzasadnionej odmowy odbiorcy dotyczącej zainstałowania gazomierza i pokrycia kosztów, o których mowa w ust. 2, przedsiębiorstwo gazownicze może wstrzymać dostawę paliwa gazowego lub rozwiązać umowę sprzedaży paliw gazowych.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "a) 1,5% V/V — dla nominalnej liczby Wobbego wynoszącej 25-35,"
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_29/ust_1",
+     "text": "Po zakończeniu dostarczania paliw gazowych, a także w razie wymiany układu pomiarowego w trakcie dostaw paliw gazowych, przedsiębiorstwo gazownicze jest zobowiązane wydać odbiorcy dokument zawierający dane identyfikujące układ pomiarowy i stany wskazań liczydeł w chwili zakończenia dostarczania paliw gazowych lub demontażu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_29/ust_2",
+     "text": "Odbiorca może uczestniczyć przy odczycie wskazań urządzenia pomiarowego przed jego demontażem.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "b) 1,0% V/V — dla nominalnej liczby Wobbego wynoszącej 41-50,"
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_30/ust_1",
+     "text": "Na żądanie odbiorcy zaliczanego do I grupy przyłączeniowej przedsiębiorstwo gazownicze jest zobowiązane dokonać sprawdzenia prawidłowości działania gazomierza nie później niż w ciągu 30 dni od dnia zgłoszenia żądania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_30/ust_2",
+     "text": "Odbiorca ma prawo żądać laboratoryjnego sprawdzenia prawidłowości działania gazomierza. Badanie laboratoryjne przeprowadza się w ciągu 30 dni od dnia poinformowania odbiorcy o wyniku sprawdzenia, o którym mowa w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_30/ust_3",
+     "text": "Odbiorca pokrywa koszty sprawdzenia prawidłowości działania gazomierza oraz badania laboratoryjnego tylko w przypadku, gdy w wyniku badania laboratoryjnego nie stwierdzono nieprawidłowości w działaniu gazomierza.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_30/ust_4",
+     "text": "W każdym przypadku stwierdzenia nieprawidłowości w działaniu gazomierza przedsiębiorstwo gazownicze zobowiązane jest dokonać korekty uprzednio wystawionych faktur, na zasadach i w terminach określonych w taryfach.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "nie powinna przekraczać"
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "W stosunku do odbiorców zaliczanych do II grupy przyłączeniowej szczegółowe wymagania i obowiązki stron dotyczące układu pomiarowego określa umowa sprzedaży paliw gazowych lub umowa o świadczenie usługi przesyłowej.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "5) ciepło spalania powinno wynosić nie mniej niż:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) 18 MJ/m? — dla nominalnej liczby Wobbego 25,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) 22 MJ/m? — dla nominalnej liczby Wobbego 30,"
-  },
-  {
-   "type": "ocr",
-   "text": "c) 26 MJ/m? — dla nominalnej liczby Wobbego 35,"
-  },
-  {
-   "type": "ocr",
-   "text": "d) 30 MJ/m3 — dla nominalnej liczby Wobbego 41,"
-  },
-  {
-   "type": "ocr",
-   "text": "e) 34 MJ/m3 — dla nominalnej liczby Wobbego 50."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Liczbę Wobbego, o której mowa w ust. 1, określa się jako stosunek ciepła spalania paliwa gazowego [MJ/m3] do pierwiastka kwadratowego gęstości względnej tego paliwa."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Parametry określone w ust. 1 wynoszą:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) dla procesu spalania:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) ciśnienie — 101,325 kPa,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) temperatura — 298,15 K (25°C),"
-  },
-  {
-   "type": "ocr",
-   "text": "2) dla pomiaru objętości:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) ciśnienie — 101,325 kPa,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) temperatura — 273,15 K (0°C)."
-  },
-  {
-   "type": "ocr",
-   "text": "4. Przedsiębiorstwo gazownicze wykonuje badania poszczególnych parametrów jakościowych, o których mowa w ust. 1, w zakresie:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) zawartości siarkowodoru — raz na 12 miesięcy,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) zawartości siarki całkowitej — raz na 12 miesięcy,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) zawartości par rtęci — tylko dla ztóż paliwa gazowego zawierających rtęć — raz na 6 miesięcy,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) intensywności zapachu — raz na 14 dni,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) ciepła spalania — raz na 3 miesiące."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 24, Wrazie zastrzeżeń dotyczących jakości dostarczanych paliw gazowych, o której mowa w $ 23, odbiorca może zażądać wykonania badania ich jakości w niezależnym laboratorium badawczym posiadającym akredytację jednostki certyfikującej, uzyskaną zgodnie z odrębnymi przepisami."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 25. Przedsiębiorstwo gazownicze, w zakresie standardów jakościowych obsługi odbiorców, jest zobowiążane do:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) udzielania odbiorcom informacji o przewidywanym terminie wznowienia dostawy paliw gazowych, przerwanej z powodu awarii sieci,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) powiadamiania odbiorców o terminach i czasie planowanych przerw w dostawie paliw gazowych w formie: ogłoszeń prasowych, komunikatów radiowych lub telewizyjnych lub w inny sposób zwyczajowo przyjęty na danym terenie, lub indywidualnych zawiadomień pisemnych, telefonicznych bądź za pomocą innego środka telekomunikacji, co najmniej na 14 dni przed datą planowanej przerwy,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) uwzględniania propozycji odbiorcy dotyczącej rodzaju przyłącza i jego usytuowania, jeśli propozycja ta jest zgodna z obowiązującymi przepisami i warunkami technicznymi,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) odpłatnego podjęcia stosownych czynności w sieci w celu umożliwienia bezpiecznego wykonania przez odbiorcę lub inny podmiot prac w obszarze tej sieci,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) pokrycia kosztów badań, o których mowa w 8 24, oraz wypłacenia odbiorcy odszkodowania w wysokości ustalonej w taryfie lub umowie, w przypadku stwierdzenia niezgodności jakości paliw gazowych, o której mowa w 3 23,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) nieodpłatnego udzielania informacji dotyczących rozliczeń oraz aktualnych taryf,"
-  },
-  {
-   "type": "ocr",
-   "text": "7) rozpatrzenia wniosku lub reklamacji odbiorcy w Sprawie rozliczeń i udzielenia odpowiedzi, nie później niż w terminie 30 dni od dnia złożenia wniosku lub zgłoszenia reklamacji."
-  },
-  {
-   "type": "ocr",
-   "text": "8 26. Rodzaj układów pomiarowych oraz wymagania związane z ich stosowaniem ustala przedsiębiorstwo gazownicze."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 27. W przypadku odbiorców zaliczanych do I grupy przyłączeniowej obowiązek instalowania gazomierza i ponoszenia kosztów z tym związanych spoczywa na przedsiębiorstwie gazowniczym."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 28. 1. Przedsiębiorstwo gazownicze może zainstalować gazomierz na monety wrzutowe lub kartę magnetyczną, jeżeli odbiorca:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) nie uregulował w terminie należności związanych z dostarczaniem paliw gazowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) nie jest właścicielem obiektu, w którym prowadzi dziatalność gospodarczą,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) użytkuje obiekt dorywczo w sposób uniemożliwiający sprawdzanie stanu wskazań układu pomia-"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "rowego w terminach określonych w umowie o świadczenie ustug przesyłowych."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Koszty zakupu gazomierza i jego zainstalowania, w przypadkach, o których mowa w ust. 1, ponosi odbiorca. ."
-  },
-  {
-   "type": "ocr",
-   "text": "3. W razie nieuzasadnionej odmowy odbiorcy dotyczącej zainstałowania gazomierza i pokrycia kosztów, o których mowa w ust. 2, przedsiębiorstwo gazownicze może wstrzymać dostawę paliwa gazowego lub rozwiązać umowę sprzedaży paliw gazowych."
-  },
-  {
-   "type": "ocr",
-   "text": "8 29. 1. Po zakończeniu dostarczania paliw gazowych, a także w razie wymiany układu pomiarowego w trakcie dostaw paliw gazowych, przedsiębiorstwo gazownicze jest zobowiązane wydać odbiorcy dokument zawierający dane identyfikujące układ pomiarowy i stany wskazań liczydet w chwili zakończenia dostarczania paliw gazowych lub demontażu."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Odbiorca może uczestniczyć przy odczycie wskazań urządzenia pomiarowego przed jego demontażem."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 30. 1. Na żądanie odbiorcy zaliczanego do I grupy przytączeniowej przedsiębiorstwo gazownicze jest zobowiązane dokonać sprawdzenia prawidłowości dziatania gazomierza nie później niż w ciągu 30 dni od dnia zgłoszenia żądania."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Odbiorca ma prawo żądać laboratoryjnego sprawdzenia prawidłowości działania gazomierza. Badanie laboratoryjne przeprowadza się w ciągu 30 dni od dnia poinformowania odbiorcy o wyniku sprawdzenia, o którym mowa w ust. 1."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Odbiorca pokrywa koszty sprawdzenia prawidłowości działania gazomierza oraz badania laboratoryjnego tylko w przypadku, gdy w wyniku badania labo-"
-  },
-  {
-   "type": "ocr",
-   "text": "Poz. 877 i 878"
-  },
-  {
-   "type": "ocr",
-   "text": "ratoryjnego nie stwierdzono nieprawidłowości w dziataniu gazomierza."
-  },
-  {
-   "type": "ocr",
-   "text": "4. W każdym przypadku stwierdzenia nieprawidtowości w działaniu gazomierza przedsiębiorstwo gazownicze zobowiązane jest dokonać korekty uprzednio wystawionych faktur, na zasadach i w terminach określonych w taryfach."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 31. W stosunku do odbiorców zaliczanych do II grupy przytaczeniowej szczegółowe wymagania i obowiązki stron dotyczące uktadu pomiarowego określa umowa sprzedaży paliw gazowych lub umowa o świadczenie usługi przesyłowej."
-  },
-  {
-   "type": "ocr",
-   "text": "Rozdział 7"
-  },
-  {
-   "type": "ocr",
+   "type": "heading",
+   "label": "Rozdział 7",
    "text": "Przepisy przejściowe i końcowe"
   },
   {
-   "type": "ocr",
-   "text": "8 32. Warunki przyłączenia wydane przed dniem wejścia w życie rozporządzenia zachowują ważność przez okres w nich oznaczony w zakresie, w jakim nie są sprzeczne z przepisami niniejszego rozporządzenia."
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "Warunki przyłączenia wydane przed dniem wejścia w życie rozporządzenia zachowują ważność przez okres w nich oznaczony w zakresie, w jakim nie są sprzeczne z przepisami niniejszego rozporządzenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "§ 33. Traci moc rozporządzenie Ministra Gospodarki z dnia 14 lipca 1998 r. w sprawie szczegółowych warunków przyłączenia podmiotów do sieci gazowych, pokrywania kosztów przyłączenia, obrotu paliwami gazowymi, świadczenia usług przesyłowych, ruchu sieciowego i eksploatacji sieci gazowych oraz standardów jakościowych obstugi odbiorców (Dz. U. Nr 93, poz. 588)."
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "Traci moc rozporządzenie Ministra Gospodarki z dnia 14 lipca 1998 r. w sprawie szczegółowych warunków przyłączenia podmiotów do sieci gazowych, pokrywania kosztów przyłączenia, obrotu paliwami gazowymi, świadczenia usług przesyłowych, ruchu sieciowego i eksploatacji sieci gazowych oraz standardów jakościowych obsługi odbiorców (Dz. U. Nr 93, poz. 588).",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "§ 34. Rozporządzenie wchodzi w życie po uptywie 14 dni od dnia ogłoszenia."
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Gospodarki: w z. B. Błaszczyk"
   }
  ],

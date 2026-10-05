@@ -1,7 +1,7 @@
 {
  "eli": "DU/2000/47",
  "title": "Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 19 stycznia 2000 r. w sprawie określenia wzoru rocznej deklaracji rozliczeniowej za rok 1999 i zasad jej sporządzania.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/47/text.pdf",
  "body": [
   {
@@ -66,629 +66,784 @@
   },
   {
    "type": "note",
-   "text": "[Strona 2 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "i imiennych raportów miesięcznych, w rocznej deklaracji rozliczeniowej uwzględnia również dane dotyczące tych miesięcy, za które przysługiwało zwolnienie."
   },
   {
-   "type": "ocr",
-   "text": "4. W przypadku gdy za miesiące od dnia 1 stycznia 1999 r. do dnia 30 listopada 1999 r. powinny być ztozone deklaracje rozliczeniowe korygujące i imienne raporty miesięczne korygujące, roczną deklarację rozliczeniową sporządza się na podstawie danych wykazanych w deklaracji i raportach oznaczonych najwyższym numerem identyfikatora."
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "W przypadku gdy za miesiące od dnia 1 stycznia 1999 r. do dnia 30 listopada 1999 r. powinny być złożone deklaracje rozliczeniowe korygujące i imienne raporty miesięczne korygujące, roczną deklarację rozliczeniową sporządza się na podstawie danych wykazanych w deklaracji i raportach oznaczonych najwyższym numerem identyfikatora.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "5. Powiatowe urzędy pracy składają odrębną roczną deklarację rozliczeniową za:"
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "Powiatowe urzędy pracy składają odrębną roczną deklarację rozliczeniową za:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_5/pkt_1",
+     "text": "podlegających ubezpieczeniom społecznym lub ubezpieczeniu zdrowotnemu bezrobotnych i absolwentów pobierających stypendium w okresie odbywania szkolenia lub stażu, na które zostali skierowani przez powiatowy urząd pracy, oraz osoby pobierające zasiłek przedemerytalny lub świadczenie przedemerytalne,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_5/pkt_2",
+     "text": "ubezpieczonych innych niż wymienieni w pkt 1.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) podlegających ubezpieczeniom społecznym lub ubezpieczeniu zdrowotnemu bezrobotnych i absolwentów pobierających stypendium w okresie odbywania szkolenia lub stażu, na które zostali skierowani przez powiatowy urząd pracy, oraz osoby pobierające zasiłek przedemerytalny lub świadczenie przedemerytalne,"
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "Płatnik składek, który w miesiącach przypadających w okresie od dnia 1 stycznia 1999 r. do dnia 30 listopada 1999 r. został postawiony w stan upadłości, powinien złożyć jedną roczną deklarację rozliczeniową obejmującą okres do dnia i po dniu ogłoszenia upadło-",
+   "children": [
+    {
+     "type": "text",
+     "text": "ści."
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2) ubezpieczonych innych niż wymienieni w pkt 1."
+   "type": "ust",
+   "num": "7",
+   "path": "ust_7",
+   "text": "Płatnik składek, który w miesiącach przypadających w okresie od dnia 1 stycznia 1999 r. do dnia 30 listopada 1999 r. uzyskał albo utracił status zakładu pracy chronionej lub aktywności zawodowej, powinien złożyć jedną roczną deklarację rozliczeniową za cały okres przed i po uzyskaniu lub utracie tego statusu.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "6. Płatnik składek, który w miesiącach przypadających w okresie od dnia 1 stycznia 1999 r. do dnia 30 listopada 1999 r. został postawiony w stan upadtosci, powinien złożyć jedną roczną deklarację rozliczeniową obejmującą okres do dnia i po dniu ogłoszenia upadto-"
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "Jeżeli płatnik składek popełnił błąd w rocznej deklaracji rozliczeniowej, zobowiązany jest złożyć roczną deklarację rozliczeniową zawierającą poprawne dane w ciągu 7 dni od stwierdzenia błędu.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "ści."
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "W rocznej deklaracji rozliczeniowej jako liczbę ubezpieczonych płatnik składek powinien podać liczbę osób, które podlegały ubezpieczeniom emerytalnemu i rentowym w dniu 30 listopada 1999 r., z zastrzeżeniem ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Jeżeli w dniu 30 listopada 1999 r. ubezpieczony podlegał ubezpieczeniom emerytalnemu i rentowym u danego płatnika składek z kilku tytułów, powinien być wykazany w liczbie ubezpieczonych tylko raz.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "7. Płatnik składek, który w miesiącach przypadających w okresie od dnia 1 stycznia 1999 r. do dnia 30 listopada 1999 r. uzyskał albo utracił status zaktadu pracy chronionej lub aktywności zawodowej, powinien złożyć jedną roczną deklarację rozliczeniową za cały okres przed i po uzyskaniu lub utracie tego statusu."
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "W rocznej deklaracji rozliczeniowej, w kwocie wpłaconych należności z tytułu poszczególnych składek, płatnik składek powinien uwzględnić:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "składki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "odsetki za zwłokę,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "składki, odsetki za zwłokę i opłatę prolongacyjną, wpłacane w ramach układu ratalnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "składki i opłatę prolongacyjną, wpłacane w ramach odroczenia terminu płatności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_1/pkt_5",
+       "text": "wpłaty dotyczące przypisu pokontrolnego,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "wpłacone do dnia składania rocznej deklaracji rozliczeniowej za miesiące przypadające w okresie od dnia 1 stycznia 1999 r. do dnia 30 listopada 1999 r."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Jeżeli do dnia składania rocznej deklaracji rozliczeniowej Zakład dokonał zwrotu należności z tytułu poszczególnych składek wpłaconych za miesiące przypadające w okresie od dnia 1 stycznia 1999 r. do dnia 30 listopada 1999 r., należności z tytułu tych składek wykazywane w deklaracji należy pomniejszyć o kwotę otrzymanego zwrotu.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "8. Jeżeli płatnik składek popełnił błąd w rocznej deklaracji rozliczeniowej, zobowiązany jest złożyć roczną deklarację rozliczeniową zawierającą poprawne dane w ciągu 7 dni od stwierdzenia błędu."
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "$ 4. 1. W rocznej deklaracji rozliczeniowej jako liczbę ubezpieczonych płatnik składek powinien podać liczbę osób, które podlegaty ubezpieczeniom emerytalnemu i rentowym w dniu 30 listopada 1999 r., z zastrzeżeniem ust. 2."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Jeżeli w dniu 30 listopada 1999 r. ubezpieczony podlegał ubezpieczeniom emerytalnemu i rentowym u danego płatnika składek z kilku tytułów, powinien być wykazany w liczbie ubezpieczonych tylko raz."
-  },
-  {
-   "type": "ocr",
-   "text": "$ 5. 1. W rocznej deklaracji rozliczeniowej, w kwocie wpłaconych należności z tytułu poszczególnych składek, płatnik składek powinien uwzględnić:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) składki,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) odsetki za zwłokę,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) składki, odsetki za zwłokę i opłatę prolongacyjną, wpłacane w ramach układu ratalnego,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) składki i opłatę prolongacyjną, wptacane w ramach odroczenia terminu płatności,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) wpłaty dotyczące przypisu pokontrolnego,"
-  },
-  {
-   "type": "ocr",
-   "text": "wpłacone do dnia składania rocznej deklaracji rozliczeniowej za miesiące przypadające w okresie od dnia 1 stycznia 1999 r. do dnia 30 listopada 1999 r."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Jeżeli do dnia składania rocznej deklaracji rozliczeniowej Zakład dokonat zwrotu należności z tytułu poszczególnych sktadek wpłaconych za miesiące przypadające w okresie od dnia 1 stycznia 1999 r. do dnia 30 listopada 1999 r., należności z tytułu tych składek wykazywane w deklaracji należy pomniejszyć o kwotę otrzymanego zwrotu."
-  },
-  {
-   "type": "ocr",
-   "text": "8 6. Rozporządzenie wchodzi w życie z dniem ogłoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Pracy i Polityki Społecznej: w z. E. Lewicka"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "Zatączniki do rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 19 stycznia 2000 r. (poz. 47) PŁATNIK WYPEŁNIA TYLKO POLA EAT W WYZNACZONYCH KRATKACH KOMPUTEROWO, NA MASZYNIE LUB RĘCZNIE DUŻYMI DRI KONAN ! LITERAMI, LUB (e) ZAEO)"
-  },
-  {
-   "type": "ocr",
-   "text": "C SIĘ Z"
-  },
-  {
-   "type": "ocr",
-   "text": "JASNIEN"
-  },
-  {
-   "type": "ocr",
-   "text": "Zatacznik nr 1"
-  },
-  {
-   "type": "ocr",
-   "text": "II. DANE IDENTYFIKACYJNE | a | | PŁATNIKA SKŁADEK a a"
-  },
-  {
-   "type": "ocr",
-   "text": "a . | a : | = |"
-  },
-  {
-   "type": "ocr",
-   "text": ": i GAJĄCYCH EEEE WNE SKŁADEK NA UBEZPIECZENI )DKÓW PRACODAWCY I"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "PŁATNIK WYPEŁNIA TYLKO POLA JASNE W WYZNACZONYCH KRATKACH KOMPUTEROWO, NA MASZYNIE LUB RĘCZNIE DUŻYMI DRUKOWANYMI LITERAMI, CZARNYM LUB NIEBIESKIM KOLOREM. PRZED WYPEŁNIENIEM ZAPOZNAĆ SIĘ Z OBJAŚNIENIAMI"
-  },
-  {
-   "type": "ocr",
-   "text": "złągi złągi złą gr, złą gr,"
-  },
-  {
-   "type": "ocr",
-   "text": "02. Podpis płatnika składek lub osoby przez niego upoważnionej oraz pieczątka adresowa płatnika składek"
-  },
-  {
-   "type": "ocr",
-   "text": "XII. ADNOTACJE ZUS"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "Załącznik nr 2"
-  },
-  {
-   "type": "ocr",
-   "text": "KODY TERYTORIALNE JEDNOSTEK TERENOWYCH ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
-  },
-  {
-   "type": "ocr",
-   "text": "Kod terytorialny jednostki terenowej Zaktadu składa się z 4 znaków, które oznaczają: + Oddział Zakładu — 2 znaki, + inspektorat Oddziału Zakładu — 2 znaki."
-  },
-  {
-   "type": "ocr",
-   "text": "Biatystok Oddział 01 00 Gdańsk Oddziat 10 00 Augustów Inspektorat 0101 Gdańsk-Śródmieście _ Inspektorat 10 01 Bielsk Podlaski Inspektorat 01 02 Gdańsk-Wrzeszcz Inspektorat 10 02 Hajnówka Inspektorat 01 03 Gdynia inspektorat 10 03 Siemiatycze inspektorat 01 04 Kartuzy Inspektorat 10 04 Sokółka Inspektorat 01 05 Kościerzyna Inspektorat 10 05 Suwałki Inspektorat 01 06 Kwidzyn Inspektorat 10 06 Malbork Inspektorat 10 07 Bielsko-Biała Oddział 02 00 Pruszcz Gdański Inspektorat 10 08 Cieszyn Inspektorat 02 01 Puck Inspektorat 10 09 Żywiec Inspektorat 02 02 Sopot Inspektorat 10 10 Starogard Gdański Inspektorat 10 11 Biłgoraj Oddział 03 00 Sztum Inspektorat 10 12 Zamość Inspektorat 03 01 Tczew Inspektorat 10 13 Tomaszów Lubelski Inspektorat 03 02 Wejherowo Inspektorat 10 14 Hrubieszów Inspektorat 03 03 Gorzów Wielkopolski Oddział 11 00 Bydgoszcz Oddział 04 00 Słubice Inspektorat 1101 Bydgoszcz Inspektorat 04 01 Sulęcin Inspektorat: 1102 Inowroctaw Inspektorat 04 02 , ; Nakto n. Notecią Inspektorat 04 03 Grudziądz Oddział 12 00 Świecie n. Wisłą Inspektorat 0404 Brodnica Inspektorat 1201 Żnin Inspektorat 04 05 Toruń inspektorat 12 02"
-  },
-  {
-   "type": "ocr",
-   "text": ". Jasło Oddział 13 00 Chetm Oddział 05 00 Brzozów Inspektorat 13 01 Chorzów Oddział 06 00 Dębica Inspektorat 13 02 . . Krosno Inspektorat 13 03 Katowice Inspektorat 06 01 Sanok Inspektorat 13 04 Ruda Sląska Inspektorat 06 02"
-  },
-  {
-   "type": "ocr",
-   "text": "; ; Kamienna Gora Oddziat 14 00 Chrzanów Oddział 07 00 Bolesławiec Inspektorat 1401 Olkusz. Inspektorat 07 01 Jelenia Góra Inspektorat 1402 Oświęcim | Inspektorat 07 02 Lubań Inspektorat 14 03 Sucha Beskidzka Inspektorat 07 03 Lwówek Śląski Inspektorat 14 04 Wadowice Inspektorat 07 04 Kielce Oddział 15 00 Ciechanów Oddział 08 00 Busko-Zdrój Inspektorat 15 01 Mtawa Inspektorat 08 01 Końskie Inspektorat 15 02 Płońsk Inspektorat 08 02 Opatów Inspektorat 15 03 Puttusk Inspektorat 08 03 Ostrowiec Świętokrzyski Inspektorat 15 04 Skarżysko-Kamienna Inspektorat 15 05 Częstochowa Oddział 09 00 Starachowice Inspektorat 15 06 Częstochowa Inspektorat 09 01 Kłobuck Inspektorat 09 02 Konin Oddział 16 00 Koniecpol Inspektorat 09 03 Koło Inspektorat 16 01 Lubliniec Inspektorat 09 04 Słupca Inspektorat 16 02 Myszków Inspektorat 09 05 Turek 16 03 Inspektorat"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "Koszalin Białogard Drawsko Pomorskie Kotobrzeg Szczecinek Świdwin Wałcz"
-  },
-  {
-   "type": "ocr",
-   "text": "Kraków Kraków-Krowodrza Kraków-Nowa Huta Kraków-Podgórze"
-  },
-  {
-   "type": "ocr",
-   "text": "Legnica Głogów Jawor Lubin Złotoryja"
-  },
-  {
-   "type": "ocr",
-   "text": "Lublin Kraśnik Lubartów Putawy"
-  },
-  {
-   "type": "ocr",
-   "text": "Łódź Kutno Łódź Łowicz Pabianice Zgierz"
-  },
-  {
-   "type": "ocr",
-   "text": "Nowy Sącz Gorlice Limanowa Nowy Targ"
-  },
-  {
-   "type": "ocr",
-   "text": "Olsztyn Bartoszyce Itawa Ketrzyn Lidzbark Warmiński Ostróda Szczytno Giżycko Etk Braniewo Elbląg Działdowo"
-  },
-  {
-   "type": "ocr",
-   "text": "Opole Brzeg Głubczyce Kędzierzyn-Koźle"
-  },
-  {
-   "type": "ocr",
-   "text": "Miejski"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat Inspektorat * Inspektorat Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddziat Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "17 00 17 01 17 02 17 03 17 04 17 05 17 06"
-  },
-  {
-   "type": "ocr",
-   "text": "18 00 18 01 18 02 18 03"
-  },
-  {
-   "type": "ocr",
-   "text": "19 00 19 01 19 02 19 03 19 04"
-  },
-  {
-   "type": "ocr",
-   "text": "20 00 20 01 20 02 20 03"
-  },
-  {
-   "type": "ocr",
-   "text": "2100 2101 2102 2103 2104 2105"
-  },
-  {
-   "type": "ocr",
-   "text": "22 00 22 01 22 02 22 03"
-  },
-  {
-   "type": "ocr",
-   "text": "23 00 23 01 23 02 23 03 23 04 23 05 23 06 23 07 23 08 23 09 23 10 23 11"
-  },
-  {
-   "type": "ocr",
-   "text": "24 00 2401 24 02 24 03"
-  },
-  {
-   "type": "ocr",
-   "text": "Kluczbork Nysa Olesno Prudnik Strzelce Opolskie"
-  },
-  {
-   "type": "ocr",
-   "text": "Ostroteka Ostrów Mazowiecka Przasnysz Wyszków Maków Mazowiecki"
-  },
-  {
-   "type": "ocr",
-   "text": "Ostrów Wielkopolski Jarocin Kalisz Kępno"
-  },
-  {
-   "type": "ocr",
-   "text": "Piła Chodzież Czarnków Wągrowiec Złotów"
-  },
-  {
-   "type": "ocr",
-   "text": "Płock Gostynin Sierpc"
-  },
-  {
-   "type": "ocr",
-   "text": "Poznań Poznań Poznań Września Grodzisk Wielkopolski Gniezno Oborniki Wielkopolskie Szamotuły Nowy Tomyśl Środa Wielkopolska Śrem Międzychód"
-  },
-  {
-   "type": "ocr",
-   "text": "Przeworsk Jarosław Przemyśl"
-  },
-  {
-   "type": "ocr",
-   "text": "Radom Grójec Kozienice Przysucha Szydłowiec Zwoleń"
-  },
-  {
-   "type": "ocr",
-   "text": "Radzyń Podlaski Biata Podlaska Łuków"
-  },
-  {
-   "type": "ocr",
-   "text": "Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat inspektorat ."
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział ll Miejski Inspektorat tll Miejski Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddziat Inspektorat Inspektorat Inspektorat Inspektorat inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddziat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "24 04 24 05 24 06 2407 24 08"
-  },
-  {
-   "type": "ocr",
-   "text": "25 00 25 01 25 02 25 03 25 04"
-  },
-  {
-   "type": "ocr",
-   "text": "26 00 26 01 26 02 26 03"
-  },
-  {
-   "type": "ocr",
-   "text": "27 00 2701 27 02 27 03 27 04"
-  },
-  {
-   "type": "ocr",
-   "text": "28 00 28 01 28 02"
-  },
-  {
-   "type": "ocr",
-   "text": "29 00 29 02 29 03 29 04 29 05 29 06 29 07 29 08 29 09 29 10 29 11 29 12"
-  },
-  {
-   "type": "ocr",
-   "text": "30 00 30 01 30 02"
-  },
-  {
-   "type": "ocr",
-   "text": "31 00 3101 31 02 31 03 31 04 3105"
-  },
-  {
-   "type": "ocr",
-   "text": "32 00 32 01 32 02"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "Rawicz Gostyń Kościan Leszno Wolsztyn"
-  },
-  {
-   "type": "ocr",
-   "text": "Rybnik Jastrzębie-Zdrój Pszczyna Racibórz Tychy Wodzisław Śląski"
-  },
-  {
-   "type": "ocr",
-   "text": "Rzeszów Leżajsk Mielec Stalowa Wola Tarnobrzeg"
-  },
-  {
-   "type": "ocr",
-   "text": "Siedlce Garwolin Mińsk Mazowiecki Sokołów Podlaski Węgrów"
-  },
-  {
-   "type": "ocr",
-   "text": "Słupsk Bytów Chojnice Człuchów Lębork Miastko"
-  },
-  {
-   "type": "ocr",
-   "text": "Sosnowiec Dąbrowa Górnicza Jaworzno Zawiercie"
-  },
-  {
-   "type": "ocr",
-   "text": "Szczecin Międzyzdroje Gryfice Łobez Stargard Szczeciński Pyrzyce Gryfino Choszczno Myślibórz"
-  },
-  {
-   "type": "ocr",
-   "text": "Tarnowskie Góry Bytom"
-  },
-  {
-   "type": "ocr",
-   "text": "Tarnów Bochnia"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddziat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat Inspektorat inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Tomaszów Mazowiecki Oddział Bełchatów Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "33 00 33 01 33 02 33 03 33 04"
-  },
-  {
-   "type": "ocr",
-   "text": "34 00 34 01 34 02 34 03 34 04 34 05"
-  },
-  {
-   "type": "ocr",
-   "text": "35 00 35 01 35 02 35 03 35 04"
-  },
-  {
-   "type": "ocr",
-   "text": "36 00 36 01 36 02 36 03 36 04"
-  },
-  {
-   "type": "ocr",
-   "text": "37 00 37 01 37 02 37 03 37 04 37 05"
-  },
-  {
-   "type": "ocr",
-   "text": "38 00 38 01 38 02 38 03"
-  },
-  {
-   "type": "ocr",
-   "text": "39 00 39 01 39 02 39 03 39 04 39 05 39 06 39 07 39 08"
-  },
-  {
-   "type": "ocr",
-   "text": "40 00 40 01"
-  },
-  {
-   "type": "ocr",
-   "text": "41 00 4101"
-  },
-  {
-   "type": "ocr",
-   "text": "42 00 42 01"
-  },
-  {
-   "type": "ocr",
-   "text": "Opoczno Piotrków Trybunalski Radomsko | Skierniewice"
-  },
-  {
-   "type": "ocr",
-   "text": "Wałbrzych Dzierżoniów Kłodzko Świdnica"
-  },
-  {
-   "type": "ocr",
-   "text": "Warszawa Warszawa-Śródmieście Warszawa-Zoliborz Warszawa-Wola Pruszków Warszawa-Ochota Piaseczno Warszawa-Mokotów Żyrardów Sochaczew"
-  },
-  {
-   "type": "ocr",
-   "text": "Warszawa Legionowo Nowy Dwór Mazowiecki Otwock Warszawa-Praga Północ Wołomin"
-  },
-  {
-   "type": "ocr",
-   "text": "Włocławek Aleksandrów Kujawski Lipno"
-  },
-  {
-   "type": "ocr",
-   "text": "Wrocław Wrocław Oleśnica Oława Trzebnica"
-  },
-  {
-   "type": "ocr",
-   "text": "Zabrze Gliwice"
-  },
-  {
-   "type": "ocr",
-   "text": "Zambrów Łomża Wysokie Mazowieckie"
-  },
-  {
-   "type": "ocr",
-   "text": "Zduńska Wola Sieradz Wieluń"
-  },
-  {
-   "type": "ocr",
-   "text": "Zielona Góra Krosno Odrzańskie Nowa Sól Świebodzin Żary"
-  },
-  {
-   "type": "ocr",
-   "text": "Miejski"
-  },
-  {
-   "type": "ocr",
-   "text": "Inspektorat Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "I Oddział Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Ii Oddziat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddziat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat Inspektorat Inspektorat inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddziat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "Oddział Inspektorat Inspektorat Inspektorat Inspektorat"
-  },
-  {
-   "type": "ocr",
-   "text": "42 02 42 03 42 04 42 05"
-  },
-  {
-   "type": "ocr",
-   "text": "43 00 43 01 43 02 43 03"
-  },
-  {
-   "type": "ocr",
-   "text": "44 00 44 01 44 02 44 03 44 04 44 05 44 06 44 07 44 08 44 09"
-  },
-  {
-   "type": "ocr",
-   "text": "45 00 45 01 45 02 45 03 45 04 45 05"
-  },
-  {
-   "type": "ocr",
-   "text": "46 00 46 01 46 02"
-  },
-  {
-   "type": "ocr",
-   "text": "47 00 47 01 47 02 47 03 47 04"
-  },
-  {
-   "type": "ocr",
-   "text": "48 00 48 01"
-  },
-  {
-   "type": "ocr",
-   "text": "49 00 \"4901 49 02"
-  },
-  {
-   "type": "ocr",
-   "text": "50 00 50 01 50 02"
-  },
-  {
-   "type": "ocr",
-   "text": "51 00 51 01 51 02 51 03 51 04"
   }
  ],
- "annexes": [],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 19 stycznia 2000 r. (poz. 47) PŁATNIK WYPEŁNIA TYLKO POLA EAT W WYZNACZONYCH KRATKACH KOMPUTEROWO, NA MASZYNIE LUB RĘCZNIE DUŻYMI DRI KONAŃ ! LITERAMI, LUB (e) ZAEO)",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "C SIĘ Z"
+    },
+    {
+     "type": "text",
+     "text": "JAŚNIEŃ"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "II. DANE IDENTYFIKACYJNE | a | | PŁATNIKA SKŁADEK a a a . | a : | = |"
+    },
+    {
+     "type": "text",
+     "text": ": i GAJĄCYCH EEEE WNE SKŁADEK NA UBEZPIECZENI )DKÓW PRACODAWCY I"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "PŁATNIK WYPEŁNIA TYLKO POLA JASNE W WYZNACZONYCH KRATKACH KOMPUTEROWO, NA MASZYNIE LUB RĘCZNIE DUŻYMI DRUKOWANYMI LITERAMI, CZARNYM LUB NIEBIESKIM KOLOREM. PRZED WYPEŁNIENIEM ZAPOZNAĆ SIĘ Z OBJAŚNIENIAMI"
+    },
+    {
+     "type": "text",
+     "text": "złągi złągi złą gr, złą gr,"
+    },
+    {
+     "type": "ust",
+     "num": "02",
+     "path": "ust_02",
+     "text": "Podpis płatnika składek lub osoby przez niego upoważnionej oraz pieczątka adresowa płatnika składek",
+     "children": [
+      {
+       "type": "text",
+       "text": "XII. ADNOTACJE ZUS"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "KODY TERYTORIALNE JEDNOSTEK TERENOWYCH ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+    },
+    {
+     "type": "text",
+     "text": "Kod terytorialny jednostki terenowej Zakładu składa się z 4 znaków, które oznaczają: + Oddział Zakładu — 2 znaki, + inspektorat Oddziału Zakładu — 2 znaki."
+    },
+    {
+     "type": "text",
+     "text": "Białystok Oddział 01 00 Augustów Inspektorat 0101 Bielsk Podlaski Inspektorat 01 02 Hajnówka Inspektorat 01 03 Siemiatycze inspektorat 01 04 Sokółka Inspektorat 01 05 Suwałki Inspektorat 01 06"
+    },
+    {
+     "type": "text",
+     "text": "Bielsko-Biała Oddział 02 00 Cieszyn Inspektorat 02 01 Żywiec Inspektorat 02 02"
+    },
+    {
+     "type": "text",
+     "text": "Biłgoraj Oddział 03 00 Zamość Inspektorat 03 01 Tomaszów Lubelski Inspektorat 03 02 Hrubieszów Inspektorat 03 03"
+    },
+    {
+     "type": "text",
+     "text": "Bydgoszcz Oddział 04 00 Bydgoszcz Inspektorat 04 01 Inowrocław Inspektorat 04 02 Nakło n. Notecią Inspektorat 04 03 Świecie n. Wisłą Inspektorat 0404 Żnin Inspektorat 04 05"
+    },
+    {
+     "type": "text",
+     "text": "Chełm Oddział 05 00 ."
+    },
+    {
+     "type": "text",
+     "text": "Chorzów Oddział 06 00 . . Katowice Inspektorat 06 01 Ruda Sląska Inspektorat 06 02"
+    },
+    {
+     "type": "text",
+     "text": "Chrzanów Oddział 07 00 ; ; Olkusz. Inspektorat 07 01 Oświęcim | Inspektorat 07 02 Sucha Beskidzka Inspektorat 07 03 Wadowice Inspektorat 07 04"
+    },
+    {
+     "type": "text",
+     "text": "Ciechanów Oddział 08 00 Mtawa Inspektorat 08 01 Płońsk Inspektorat 08 02 Pułtusk Inspektorat 08 03"
+    },
+    {
+     "type": "text",
+     "text": "Częstochowa Oddział 09 00 Częstochowa Inspektorat 09 01 Kłobuck Inspektorat 09 02 Koniecpol Inspektorat 09 03 Lubliniec Inspektorat 09 04 Myszków Inspektorat 09 05"
+    },
+    {
+     "type": "text",
+     "text": "Gdańsk Oddział 10 00 Gdańsk-Śródmieście _ Inspektorat 10 01 Gdańsk-Wrzeszcz Inspektorat 10 02 Gdynia inspektorat 10 03 Kartuzy Inspektorat 10 04 Kościerzyna Inspektorat 10 05 Kwidzyn Inspektorat 10 06 Malbork Inspektorat 10 07 Pruszcz Gdański Inspektorat 10 08 Puck Inspektorat 10 09 Sopot Inspektorat 10 10 Starogard Gdański Inspektorat 10 11 Sztum Inspektorat 10 12 Tczew Inspektorat 10 13 Wejherowo Inspektorat 10 14"
+    },
+    {
+     "type": "text",
+     "text": "Gorzów Wielkopolski Oddział 11 00 Słubice Inspektorat 1101 Sulęcin Inspektorat: 1102"
+    },
+    {
+     "type": "text",
+     "text": "Grudziądz Oddział 12 00 , ;"
+    },
+    {
+     "type": "text",
+     "text": "Brodnica Inspektorat 1201 Toruń inspektorat 12 02"
+    },
+    {
+     "type": "text",
+     "text": "Jasło Oddział 13 00 Brzozów Inspektorat 13 01 Dębica Inspektorat 13 02 Krosno Inspektorat 13 03 Sanok Inspektorat 13 04"
+    },
+    {
+     "type": "text",
+     "text": "Kamienna Gora Oddział 14 00 Bolesławiec Inspektorat 1401 Jelenia Góra Inspektorat 1402 Lubań Inspektorat 14 03 Lwówek Śląski Inspektorat 14 04"
+    },
+    {
+     "type": "text",
+     "text": "Kielce Oddział 15 00 Busko-Zdrój Inspektorat 15 01 Końskie Inspektorat 15 02 Opatów Inspektorat 15 03 Ostrowiec Świętokrzyski Inspektorat 15 04 Skarżysko-Kamienna Inspektorat 15 05 Starachowice Inspektorat 15 06"
+    },
+    {
+     "type": "text",
+     "text": "Konin Oddział 16 00 Koło Inspektorat 16 01 Słupca Inspektorat 16 02 Turek 16 03 Inspektorat"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Koszalin Białogard Drawsko Pomorskie Kołobrzeg Szczecinek Świdwin Wałcz"
+    },
+    {
+     "type": "text",
+     "text": "Kraków Kraków-Krowodrza Kraków-Nowa Huta Kraków-Podgórze"
+    },
+    {
+     "type": "text",
+     "text": "Legnica Głogów Jawor Lubin Złotoryja"
+    },
+    {
+     "type": "text",
+     "text": "Lublin Kraśnik Lubartów Puławy"
+    },
+    {
+     "type": "text",
+     "text": "Łódź Kutno Łódź Łowicz Pabianice Zgierz"
+    },
+    {
+     "type": "text",
+     "text": "Nowy Sącz Gorlice Limanowa Nowy Targ"
+    },
+    {
+     "type": "text",
+     "text": "Olsztyn Bartoszyce Itawa Ketrzyn Lidzbark Warmiński Ostróda Szczytno Giżycko Ełk Braniewo Elbląg Działdowo"
+    },
+    {
+     "type": "text",
+     "text": "Opole Brzeg Głubczyce Kędzierzyn-Koźle"
+    },
+    {
+     "type": "text",
+     "text": "Miejski"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat * Inspektorat Inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat Inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "text",
+     "text": "Oddział inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat Inspektorat"
+    },
+    {
+     "type": "text",
+     "text": "17 00 17 01 17 02 17 03 17 04 17 05 17 06"
+    },
+    {
+     "type": "text",
+     "text": "18 00 18 01 18 02 18 03"
+    },
+    {
+     "type": "text",
+     "text": "19 00 19 01 19 02 19 03 19 04"
+    },
+    {
+     "type": "text",
+     "text": "20 00 20 01 20 02 20 03"
+    },
+    {
+     "type": "text",
+     "text": "2100 2101 2102 2103 2104 2105"
+    },
+    {
+     "type": "text",
+     "text": "22 00 22 01 22 02 22 03"
+    },
+    {
+     "type": "text",
+     "text": "23 00 23 01 23 02 23 03 23 04 23 05 23 06 23 07 23 08 23 09 23 10 23 11"
+    },
+    {
+     "type": "text",
+     "text": "24 00 2401 24 02 24 03"
+    },
+    {
+     "type": "text",
+     "text": "Kluczbork Nysa Olesno Prudnik Strzelce Opolskie"
+    },
+    {
+     "type": "text",
+     "text": "Ostrołęka Ostrów Mazowiecka Przasnysz Wyszków Maków Mazowiecki"
+    },
+    {
+     "type": "text",
+     "text": "Ostrów Wielkopolski Jarocin Kalisz Kępno"
+    },
+    {
+     "type": "text",
+     "text": "Piła Chodzież Czarnków Wągrowiec Złotów"
+    },
+    {
+     "type": "text",
+     "text": "Płock Gostynin Sierpc"
+    },
+    {
+     "type": "text",
+     "text": "Poznań Poznań Poznań Września Grodzisk Wielkopolski Gniezno Oborniki Wielkopolskie Szamotuły Nowy Tomyśl Środa Wielkopolska Śrem Międzychód"
+    },
+    {
+     "type": "text",
+     "text": "Przeworsk Jarosław Przemyśl"
+    },
+    {
+     "type": "text",
+     "text": "Radom Grójec Kozienice Przysucha Szydłowiec Zwoleń"
+    },
+    {
+     "type": "text",
+     "text": "Radzyń Podlaski Biata Podlaska Łuków"
+    },
+    {
+     "type": "text",
+     "text": "Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "inspektorat ."
+    },
+    {
+     "type": "text",
+     "text": "Oddział ll Miejski Inspektorat tll Miejski Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat Inspektorat Inspektorat inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat"
+    },
+    {
+     "type": "text",
+     "text": "24 04 24 05 24 06 2407 24 08"
+    },
+    {
+     "type": "text",
+     "text": "25 00 25 01 25 02 25 03 25 04"
+    },
+    {
+     "type": "text",
+     "text": "26 00 26 01 26 02 26 03"
+    },
+    {
+     "type": "text",
+     "text": "27 00 2701 27 02 27 03 27 04"
+    },
+    {
+     "type": "text",
+     "text": "28 00 28 01 28 02"
+    },
+    {
+     "type": "text",
+     "text": "29 00 29 02 29 03 29 04 29 05 29 06 29 07 29 08 29 09 29 10 29 11 29 12"
+    },
+    {
+     "type": "text",
+     "text": "30 00 30 01 30 02"
+    },
+    {
+     "type": "text",
+     "text": "31 00 3101 31 02 31 03 31 04 3105"
+    },
+    {
+     "type": "text",
+     "text": "32 00 32 01 32 02"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rawicz Gostyń Kościan Leszno Wolsztyn"
+    },
+    {
+     "type": "text",
+     "text": "Rybnik Jastrzębie-Zdrój Pszczyna Racibórz Tychy Wodzisław Śląski"
+    },
+    {
+     "type": "text",
+     "text": "Rzeszów Leżajsk Mielec Stalowa Wola Tarnobrzeg"
+    },
+    {
+     "type": "text",
+     "text": "Siedlce Garwolin Mińsk Mazowiecki Sokołów Podlaski Węgrów"
+    },
+    {
+     "type": "text",
+     "text": "Słupsk Bytów Chojnice Człuchów Lębork Miastko"
+    },
+    {
+     "type": "text",
+     "text": "Sosnowiec Dąbrowa Górnicza Jaworzno Zawiercie"
+    },
+    {
+     "type": "text",
+     "text": "Szczecin Międzyzdroje Gryfice Łobez Stargard Szczeciński Pyrzyce Gryfino Choszczno Myślibórz"
+    },
+    {
+     "type": "text",
+     "text": "Tarnowskie Góry Bytom"
+    },
+    {
+     "type": "text",
+     "text": "Tarnów Bochnia"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat Inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat Inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": ""
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Tomaszów Mazowiecki Oddział Bełchatów Inspektorat"
+    },
+    {
+     "type": "text",
+     "text": "33 00 33 01 33 02 33 03 33 04"
+    },
+    {
+     "type": "text",
+     "text": "34 00 34 01 34 02 34 03 34 04 34 05"
+    },
+    {
+     "type": "text",
+     "text": "35 00 35 01 35 02 35 03 35 04"
+    },
+    {
+     "type": "text",
+     "text": "36 00 36 01 36 02 36 03 36 04"
+    },
+    {
+     "type": "text",
+     "text": "37 00 37 01 37 02 37 03 37 04 37 05"
+    },
+    {
+     "type": "text",
+     "text": "38 00 38 01 38 02 38 03"
+    },
+    {
+     "type": "text",
+     "text": "39 00 39 01 39 02 39 03 39 04 39 05 39 06 39 07 39 08"
+    },
+    {
+     "type": "text",
+     "text": "40 00 40 01"
+    },
+    {
+     "type": "text",
+     "text": "41 00 4101"
+    },
+    {
+     "type": "text",
+     "text": "42 00 42 01"
+    },
+    {
+     "type": "text",
+     "text": "Opoczno Piotrków Trybunalski Radomsko | Skierniewice"
+    },
+    {
+     "type": "text",
+     "text": "Wałbrzych Dzierżoniów Kłodzko Świdnica"
+    },
+    {
+     "type": "text",
+     "text": "Warszawa Warszawa-Śródmieście Warszawa-Zoliborz Warszawa-Wola Pruszków Warszawa-Ochota Piaseczno Warszawa-Mokotów Żyrardów Sochaczew"
+    },
+    {
+     "type": "text",
+     "text": "Warszawa Legionowo Nowy Dwór Mazowiecki Otwock Warszawa-Praga Północ Wołomin"
+    },
+    {
+     "type": "text",
+     "text": "Włocławek Aleksandrów Kujawski Lipno"
+    },
+    {
+     "type": "text",
+     "text": "Wrocław Wrocław Oleśnica Oława Trzebnica"
+    },
+    {
+     "type": "text",
+     "text": "Zabrze Gliwice"
+    },
+    {
+     "type": "text",
+     "text": "Zambrów Łomża Wysokie Mazowieckie"
+    },
+    {
+     "type": "text",
+     "text": "Zduńska Wola Sieradz Wieluń"
+    },
+    {
+     "type": "text",
+     "text": "Zielona Góra Krosno Odrzańskie Nowa Sól Świebodzin Żary"
+    },
+    {
+     "type": "text",
+     "text": "Miejski"
+    },
+    {
+     "type": "text",
+     "text": "Inspektorat Inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "text",
+     "text": "Oddział inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "text",
+     "text": "I Oddział Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "text",
+     "text": "Ii Oddział Inspektorat Inspektorat Inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat Inspektorat inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": ""
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział Inspektorat",
+     "text": "Inspektorat Inspektorat Inspektorat"
+    },
+    {
+     "type": "text",
+     "text": "42 02 42 03 42 04 42 05"
+    },
+    {
+     "type": "text",
+     "text": "43 00 43 01 43 02 43 03"
+    },
+    {
+     "type": "text",
+     "text": "44 00 44 01 44 02 44 03 44 04 44 05 44 06 44 07 44 08 44 09"
+    },
+    {
+     "type": "text",
+     "text": "45 00 45 01 45 02 45 03 45 04 45 05"
+    },
+    {
+     "type": "text",
+     "text": "46 00 46 01 46 02"
+    },
+    {
+     "type": "text",
+     "text": "47 00 47 01 47 02 47 03 47 04"
+    },
+    {
+     "type": "text",
+     "text": "48 00 48 01"
+    },
+    {
+     "type": "text",
+     "text": "49 00 \"4901 49 02"
+    },
+    {
+     "type": "text",
+     "text": "50 00 50 01 50 02"
+    },
+    {
+     "type": "text",
+     "text": "51 00 51 01 51 02 51 03 51 04"
+    }
+   ]
+  }
+ ],
  "footnotes": {}
 }

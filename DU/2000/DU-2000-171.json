@@ -1,51 +1,67 @@
 {
  "eli": "DU/2000/171",
  "title": "Rozporządzenie Ministra Finansów z dnia 23 lutego 2000 r. w sprawie ustalenia urzędowej ceny detalicznej spirytusu luksusowego w butelkach o pojemności jednego litra.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/171/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 23 lutego 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "w sprawie ustalenia urzędowej ceny detalicznej spirytusu luksusowego w butelkach o pojemności jednego litra."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 18 ust. 1 ustawy z dnia 26 lutego 1982 r. o cenach (Dz. U. z 1988 r. Nr 27, poz. 195, z 1990 r. Nr 34, poz. 198, z 1991 r. Nr 100, poz. 442, z 1993 r. Nr 11, poz. 50, z 1994 r. Nr 111, poz. 536, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 54, poz. 348 i Nr 160, poz. 1085, z 1998 r. Nr 106, poz. 668 oraz z 2000 r. Nr 12, poz. 136) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "8 1. Ustala się urzędową cenę detaliczną spirytusu rektyfikowanego luksusowego w butelce o pojemności 1,0 | w wysokości, w okresie:"
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się urzędową cenę detaliczną spirytusu rektyfikowanego luksusowego w butelce o pojemności 1,0 | w wysokości, w okresie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "od 1 marca 2000 r. do 31 sierpnia 2000 r. — 93,00 zt,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "od 1 września 2000 r. — 97,00 zł.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) od 1 marca 2000 r. do 31 sierpnia 2000 r. — 93,00 zt,"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc rozporządzenie Ministra Finansów z dnia 30 sierpnia 1999 r. w sprawie ustalenia urzędowej ceny detalicznej spirytusu luksusowego w butelkach o pojemności jednego litra (Dz. U. Nr 72, poz. 811).",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "2) od 1 września 2000 r. — 97,00 zł."
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 marca 2000 r.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "8 2. Traci moc rozporządzenie Ministra Finansów z dnia 30 sierpnia 1999 r. w sprawie ustalenia urzędowej ceny detalicznej spirytusu luksusowego w butelkach o pojemności jednego litra (Dz. U. Nr 72, poz. 811)."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 3. Rozporządzenie wchodzi w życie z dniem 1 marca 2000 r."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Finansów: w z. J. Bauc"
   }
  ],

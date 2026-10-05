@@ -1,91 +1,115 @@
 {
  "eli": "DU/2000/1211",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 1 grudnia 2000 r. w sprawie wysokości opłaty będącej warunkiem wyrejestrowania pojazdu w przypadku udokumentowanej trwałej i zupełnej utraty pojazdu.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/1211/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 1 grudnia 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "w sprawie wysokości opłaty będącej warunkiem wyrejestrowania pojazdu w przypadku udokumentowanej trwałej i zupełnej utraty pojazdu."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 79 ust. 3 ustawy z dnia 20 czerwca 1997 r. — Prawo o ruchu drogowym (Dz. U. Nr 98, poz. 602, Nr 123, poz. 779 i Nr 160, poz. 1086, z 1998 r. Nr 106, poz. 668 i Nr 133, poz. 872, z 1999 r. Nr 106, poz. 1216 oraz z 2000 r. Nr 12, poz. 136, Nr 43, poz. 483 i Nr 53, poz. 649) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "8 1. Opłatę będącą warunkiem wyrejestrowania pojazdu, w przypadku udokumentowanej trwałej i zupetnej utraty pojazdu, ustala się według następującego wzoru algorytmu:"
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Opłatę będącą warunkiem wyrejestrowania pojazdu, w przypadku udokumentowanej trwałej i zupełnej utraty pojazdu, ustala się według następującego wzoru algorytmu:",
+   "children": [
+    {
+     "type": "text",
+     "text": "O=WxR+10xS"
+    },
+    {
+     "type": "text",
+     "text": "gdzie znaczenie poszczególnych symboli jest następujące:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "0 — łączna kwota opłaty będąca warunkiem wyrejestrowania pojazdu w przypadku udokumentowanej trwałej i zupełnej utraty pojazdu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "W — współczynnik będący mnożnikiem opłaty za wydanie dowodu rejestracyjnego, uzależniony od rodzaju pojazdu i wynoszący:",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "1,5 — dla motorowerów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "2,0 — dla motocykli i przyczep,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "4,0 — dla ciągników rolniczych i pojazdów samochodowych o masie własnej poniżej 3,5 tony,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_2/lit_d",
+       "text": "6,0 — dla pojazdów samochodowych o masie własnej powyżej 3,5 tony,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "R — równowartość opłaty pobieranej za wydanie dowodu rejestracyjnego pojazdu, określonej na podstawie odrębnych przepisów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "S — stawka opłaty za umieszczenie pojazdu wycofanego z eksploatacji na składowisku odpadów, określona na podstawie odrębnych przepisów.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "O=WxR+10xS"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "gdzie znaczenie poszczególnych symboli jest następujące:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) 0 — taczna kwota opłaty będąca warunkiem wyrejestrowania pojazdu w przypadku udokumentowanej trwałej i zupetnej utraty pojazdu,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) W — współczynnik będący mnożnikiem opłaty za wydanie dowodu rejestracyjnego, uzależniony od rodzaju pojazdu i wynoszący:"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 2 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "Poz. 1211i 1212"
-  },
-  {
-   "type": "ocr",
-   "text": "Dziennik Ustaw Nr 115"
-  },
-  {
-   "type": "ocr",
-   "text": "a) 1,5 — dla motorowerów,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) 2,0 — dla motocykli i przyczep,"
-  },
-  {
-   "type": "ocr",
-   "text": "c) 4,0 — dla ciągników rolniczych i pojazdów samochodowych o masie własnej poniżej 3,5 tony,"
-  },
-  {
-   "type": "ocr",
-   "text": "d) 6,0 — dla pojazdów samochodowych o masie własnej powyżej 3,5 tony,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) R — równowartość opłaty pobieranej za wydanie dowodu rejestracyjnego pojazdu, określonej na podstawie odrębnych przepisów,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) S — stawka opłaty za umieszczenie pojazdu wycofanego z eksploatacji na składowisku odpadów, określona na podstawie odrębnych przepisów."
-  },
-  {
-   "type": "ocr",
-   "text": "8 2. Rozporządzenie wchodzi w życie po uptywie 14 dni od dnia ogłoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Spraw Wewnętrznych i Administracji: M. Biernacki"
   }
  ],

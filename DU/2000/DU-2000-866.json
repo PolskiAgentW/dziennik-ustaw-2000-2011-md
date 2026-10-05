@@ -1,394 +1,595 @@
 {
  "eli": "DU/2000/866",
  "title": "Rozporządzenie Ministra Gospodarki z dnia 11 sierpnia 2000 r. w sprawie przeprowadzania kontroli przez przedsiębiorstwa energetyczne.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/866/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 11 sierpnia 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "w sprawie przeprowadzania kontroli przez przedsiębiorstwa energetyczne."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 6 ust. 4 ustawy z dnia 10 kwietnia 1997 r. — Prawo energetyczne (Dz. U. Nr 54, poz. 348 i Nr 158, poz. 1042, z 1998 r. Nr 94, poz. 594, Nr 106, poz. 668 i Nr 162, poz. 1126, z 1999 r. Nr 88, poz. 980 i Nr 110, poz. 1255 oraz z 2000 r. Nr 43, poz. 489 i Nr 48, poz. 555) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "8 1. Rozporządzenie określa szczegółowe zasady przeprowadzania przez przedsiębiorstwa energetyczne, zajmujące się przesytaniem i dystrybucją paliw gazowych, energii elektrycznej lub ciepła, kontroli uktadów pomiarowych, dotrzymywania zawartych umów i prawidtowości rozliczeń, a także wzory protokołów kontroli i upoważnień do przeprowadzania kontroli oraz wzór legitymacji."
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa szczegółowe zasady przeprowadzania przez przedsiębiorstwa energetyczne, zajmujące się przesyłaniem i dystrybucją paliw gazowych, energii elektrycznej lub ciepła, kontroli układów pomiarowych, dotrzymywania zawartych umów i prawidłowości rozliczeń, a także wzory protokołów kontroli i upoważnień do przeprowadzania kontroli oraz wzór legitymacji.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "8 2. Ilekroć w rozporządzeniu jest mowa o układach pomiarowych, należy przez to rozumieć gazomierze,"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o układach pomiarowych, należy przez to rozumieć gazomierze, liczniki energii elektrycznej lub ciepła albo inne przyrządy pomiarowe lub rozliczeniowo-pomiarowe wraz z układami połączeń między nimi, służące do pomiaru i rozliczeń zużycia paliw gazowych, energii elektrycznej lub ciepła.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "liczniki energii elektrycznej lub ciepła albo inne przyrządy pomiarowe lub rozliczeniowo-pomiarowe wraz z układami połączeń między nimi, służące do pomiaru i rozliczeń zużycia paliw gazowych, energii elektrycznej lub ciepła."
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Kontrola, o której mowa w § 1, ma na celu:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "sprawdzenie prawidłowości eksploatacji i działania układów pomiarowych oraz rozliczeń zużycia paliw gazowych, energii elektrycznej lub ciepła, a w przypadku stwierdzonych nieprawidłowości — wyjaśnienie przyczyn ich powstania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "ustalenie, czy miało miejsce pobieranie paliw lub energii bez zawarcia umowy albo z częściowym lub całkowitym pominięciem układu pomiarowego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "sprawdzenie dotrzymywania warunków zawartej umowy, w szczególności zgodności sposobu wy-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "korzystywania paliw gazowych, energii elektrycznej lub ciepta z warunkami określonymi w umowie."
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "8 3. Kontrola, o której mowa w 8 1, ma na celu:"
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Przedsiębiorstwo energetyczne przeprowadza kontrolę z własnej inicjatywy lub na wniosek odbiorcy. Kontrolę na wniosek odbiorcy przedsiębiorstwo energetyczne przeprowadza w terminie 7 dni od dnia złożenia wniosku.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "1) sprawdzenie prawidłowości eksploatacji i działania układów pomiarowych oraz rozliczeń zużycia paliw gazowych, energii elektrycznej lub ciepła, a w przypadku stwierdzonych nieprawidłowości — wyjaśnienie przyczyn ich powstania,"
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Kontrolę przeprowadzają upoważnieni przedstawiciele przedsiębiorstw energetycznych, zwani dalej „kontrolującymi”, w zespole liczącym co najmniej dwie osoby.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Kontrolujący przeprowadzają kontrole na podstawie imiennego upoważnienia i legitymacji, wydanych przez właściwy organ przedsiębiorstwa energetycznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Wzór upoważnienia, o którym mowa w ust. 2, określa załącznik nr 1 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Wzór legitymacji, o której mowa w ust. 2, określa załącznik nr 2 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "Przedsiębiorstwo energetyczne jest obowiązane do prowadzenia ewidencji przeprowadzonych kontroli i wydanych upoważnień oraz legitymacji.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2) ustalenie, czy miało miejsce pobieranie paliw lub energii bez zawarcia umowy albo z częściowym lub całkowitym pominięciem układu pomiarowego,"
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Przedsiębiorstwo energetyczne, zlecając kontrolującym przeprowadzenie kontroli, ustala:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "miejsce kontroli, ze wskazaniem odbiorcy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "termin przeprowadzenia kontroli,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "osoby upoważnione do przeprowadzania kontroli,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_6/pkt_4",
+     "text": "szczegółowy zakres kontroli.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "3) sprawdzenie dotrzymywania warunków zawartej umowy, w szczególności zgodności sposobu wy-"
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Kontrolę przeprowadza się w dniach i godzinach pracy, obowiązujących u odbiorcy, w sposób nie zakłócający pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Kontrolę w lokalu mieszkalnym przeprowadza się w godzinach od 709 do 20°, z wyłączeniem dni ustawowo wolnych od pracy.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "note",
-   "text": "[Strona 2 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "W ramach kontroli:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "odbiorcy lub osoby przez nich upoważnione:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_8/pkt_1/lit_a",
+       "text": "zapewniają kontrolującym dostęp do urządzeń technicznych oraz wgląd do dokumentów i materiałów mających związek z przeprowadzaną kontrolą,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_8/pkt_1/lit_b",
+       "text": "udzielają kontrolującym niezbędnych wyjaśnień,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "kontrolujący mają prawo:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_8/pkt_2/lit_a",
+       "text": "wglądu do dokumentów i materiałów mających związek z przeprowadzaną kontrolą,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_8/pkt_2/lit_b",
+       "text": "przeprowadzania oględzin i prób układów pomiarowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_8/pkt_2/lit_c",
+       "text": "przeprowadzania niezbędnych przeglądów urządzeń, będących własnością przedsiębiorstwa energetycznego, wykonywania prac związanych z ich eksploatacją lub naprawą oraz badań i pomiarów.",
+       "children": []
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "korzystywania paliw gazowych, energii elektrycznej lub ciepta z warunkami określonymi w umowie."
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Kontrola obejmuje w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_9/pkt_1",
+     "text": "oględziny układów pomiarowych i ich zabezpieczeń przed uszkodzeniem, zniszczeniem lub zmianą wskazań,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_9/pkt_2",
+     "text": "sprawdzenie prawidłowości wskazań poszczegó|- nych układów pomiarowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_9/pkt_3",
+     "text": "sprawdzenie właściwości metrologicznych układów pomiarowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_9/pkt_4",
+     "text": "ocenę poprawności działania elementów układu pomiarowego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_9/pkt_5",
+     "text": "dokonanie badań i pomiarów w zakresie przedmiotu kontroli,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_9/pkt_6",
+     "text": "przeprowadzanie niezbędnych prac związanych z eksploatacją lub naprawą układów pomiarowych należących do przedsiębiorstwa energetycznego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_9/pkt_7",
+     "text": "zebranie i zabezpieczenie materiałów dotyczących naruszenia przez odbiorcę warunków umowy zawartej z przedsiębiorstwem energetycznym, w szczególności warunków eksploatacji układów pomiarowych.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "8 4. Przedsiębiorstwo energetyczne przeprowadza kontrolę z własnej inicjatywy lub na wniosek odbiorcy. Kontrolę na wniosek odbiorcy przedsiębiorstwo energetyczne przeprowadza w terminie 7 dni od dnia złożenia wniosku."
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Wejście na teren nieruchomości lub do pomieszczeń w celu przeprowadzenia kontroli oraz sama kontrola odbywa się w obecności odbiorcy bądź osób przez odbiorcę upoważnionych.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "8 5. 1. Kontrolę przeprowadzają upoważnieni przedstawiciele przedsiębiorstw energetycznych, zwani dalej „kontrolującymi”, w zespole liczącym co najmniej dwie osoby."
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Kontrołujący dokonują ustaleń stanu faktycznego na podstawie wyników oględzin, zabezpieczonych urządzeń, instalacji lub ich części, materiałów, o których mowa w § 9, oraz pisemnych wyjaśnień.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "2. Kontrolujący przeprowadzają kontrole na podstawie imiennego upoważnienia i legitymacji, wydanych przez właściwy organ przedsiębiorstwa energetycznego."
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Kontrolujący informują odbiorcę bądź osobę przez odbiorcę upoważnioną o ustaleniach wskazujących na ujawnione w trakcie prowadzonej kontroli nieprawidłowości w eksploatacji układów pomiarowych i prowadzonych rozliczeniach.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "3. Wzór upoważnienia, o którym mowa w ust. 2, określa załącznik nr 1 do rozporządzenia."
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Z przeprowadzonej kontroli kontrolujący sporządzają protokół, w którym zamieszczają ustalenia dokonane w trakcie kontroli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Protokół kontroli, o którym mowa w ust. 1, sporządza się w dwóch egzemplarzach, z których jeden otrzymuje odbiorca bądź osoba przez odbiorcę upoważniona.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Wzór protokołu kontroli, o którym mowa w ust. 1, określa załącznik nr 3 do rozporządzenia.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "4. Wzór legitymacji, o której mowa w ust. 2, określa załącznik nr 2 do rozporządzenia."
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Odbiorcy albo osobie przez odbiorcę upoważnionej przysługuje prawo zgłoszenia, przed podpisaniem protokotu kontroli, umotywowanych zastrzeżeń co do ustaleń zawartych w protokole.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Zastrzeżenia zgłasza się na piśmie w terminie 7 dni od dnia otrzymania protokołu kontroli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_14/ust_3",
+     "text": "W razie zgłoszenia zastrzeżeń, o których mowa w ust. 2, kontrolujący jest obowiązany niezwłocznie",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "dokonać ich analizy i, w miarę potrzeby, podjąć dodatkowe czynności kontrolne, a w razie:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_3/pkt_1",
+       "text": "stwierdzenia zasadności zastrzeżeń — odpowiednio zmienić lub uzupełnić odpowiednią część protokotu kontroli,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_3/pkt_2",
+       "text": "nieuwzględnienia zastrzeżeń — przedstawić odbiorcy lub osobie przez odbiorcę upoważnionej pisemne uzasadnienie swojego stanowiska.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_14/ust_4",
+     "text": "W przypadku, o którym mowa w ust. 3 pkt 2, właściwy organ przedsiębiorstwa energetycznego, w terminie 14 dni od dnia otrzymania protokołu kontroli wraz z zastrzeżeniami i stanowiskiem kontrolujących, informuje na piśmie odbiorcę albo osobę przez odbiorcę upoważnioną o zajętym stanowisku wobec nieuwzględnionych przez kontrolujących zastrzeżeń.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "5. Przedsiębiorstwo energetyczne jest obowiązane do prowadzenia ewidencji przeprowadzonych kontroli i wydanych upoważnień oraz legitymacji."
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Protokół kontroli podpisują kontrolujący i odbiorca, a w razie jego nieobecności — osoba przez odbiorcę upoważniona.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Odbiorca albo osoba przez odbiorcę upoważniona może odmówić podpisania protokołu kontroli, składając, w terminie 7 dni roboczych od dnia jego otrzymania, pisemne wyjaśnienie przyczyn tej odmowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_15/ust_3",
+     "text": "O odmowie podpisania protokołu kontroli i złożeniu wyjaśnienia kontrolujący czynią wzmiankę w protokole.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "§ 6. Przedsiębiorstwo energetyczne, zlecając kontrolującym przeprowadzenie kontroli, ustala:"
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "W przypadku stwierdzenia w wyniku kontroli nieprawidłowości w zakresie, o którym mowa w § 3, właściwy organ przedsiębiorstwa energetycznego, w terminie 14 dni od dnia otrzymania protokołu kontroli, zawiadamia na piśmie odbiorcę lub osobę przez odbiorcę upoważnioną o terminie i sposobie usunięcia stwierdzonych nieprawidłowości.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "1) miejsce kontroli, ze wskazaniem odbiorcy,"
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Informacje uzyskane w trakcie przeprowadzonej kontroli nie mogą być udostępniane osobom trzecim bez pisemnej zgody odbiorcy, u którego przeprowadzono kontrolę.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "2) termin przeprowadzenia kontroli,"
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Traci moc rozporządzenie Ministra Gospodarki z dnia 6 sierpnia 1998 r. w sprawie szczegółowych zasad przeprowadzania kontroli przez przedsiębiorstwa energetyczne oraz wzorów protokołu kontroli i upoważnień do przeprowadzania kontroli (Dz. U. Nr 107, poz. 672).",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "3) osoby upoważnione do przeprowadzania kontroli,"
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "4) szczegółowy zakres kontroli."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 7. 1. Kontrolę przeprowadza się w dniach i godzinach pracy, obowiązujących u odbiorcy, w sposób nie zaktócający pracy."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Kontrolę w lokalu mieszkalnym przeprowadza się w godzinach od 709 do 20°, z wyłączeniem dni ustawowo wolnych od pracy."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 8. W ramach kontroli:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) odbiorcy lub osoby przez nich upoważnione:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) zapewniają kontrolującym dostęp do urządzeń technicznych oraz wgląd do dokumentów i materiałów mających związek z przeprowadzaną kontrolą,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) udzielają kontrolującym śnień,"
-  },
-  {
-   "type": "ocr",
-   "text": "niezbędnych wyja-"
-  },
-  {
-   "type": "ocr",
-   "text": "2) kontrolujący mają prawo:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) wglądu do dokumentów i materiałów mających związek z przeprowadzaną kontrolą,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) przeprowadzania oględzin i prób układów pomiarowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "c) przeprowadzania niezbędnych przeglądów urządzeń, będących własnością przedsiębiorstwa energetycznego, wykonywania prac związanych z ich eksploatacją lub naprawą oraz badań i pomiarów."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 9. Kontrola obejmuje w szczególności:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) oględziny układów pomiarowych i ich zabezpieczeń przed uszkodzeniem, zniszczeniem lub zmianą wskazań,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) sprawdzenie prawidłowości wskazań poszczegó|- nych układów pomiarowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) sprawdzenie właściwości metrologicznych układów pomiarowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) ocenę poprawności działania elementów układu pomiarowego,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) dokonanie badań i pomiarów w zakresie przedmiotu kontroli,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) przeprowadzanie niezbędnych prac związanych z eksploatacją lub naprawą układów pomiarowych należących do przedsiębiorstwa energetycznego,"
-  },
-  {
-   "type": "ocr",
-   "text": "7) zebranie i zabezpieczenie materiatów dotyczących naruszenia przez odbiorcę warunków umowy zawartej z przedsiębiorstwem energetycznym, w szczególności warunków eksploatacji układów pomiarowych."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 10. Wejście na teren nieruchomości lub do pomieszczeń w celu przeprowadzenia kontroli oraz sama kontrola odbywa się w obecności odbiorcy bądź osób przez odbiorcę upoważnionych."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 11. Kontrołujący dokonują ustaleń stanu faktycznego na podstawie wyników oględzin, zabezpieczonych urządzeń, instalacji lub ich części, materiatów, o których mowa w 8 9, oraz pisemnych wyjaśnień."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 12. Kontrolujący informują odbiorcę bądź osobę przez odbiorcę upoważnioną o ustaleniach wskazujących na ujawnione w trakcie prowadzonej kontroli nieprawidłowości w eksploatacji układów pomiarowych i prowadzonych rozliczeniach."
-  },
-  {
-   "type": "ocr",
-   "text": "8 13. 1. Z przeprowadzonej kontroli kontrolujący sporządzają protokół, w którym zamieszczają ustalenia dokonane w trakcie kontroli."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Protokół kontroli, o którym mowa w ust. 1, sporządza się w dwóch egzemplarzach, z których jeden otrzymuje odbiorca bądź osoba przez odbiorcę upoważniona."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Wzór protokołu kontroli, o którym mowa w ust. 1, określa załącznik nr 3 do rozporządzenia."
-  },
-  {
-   "type": "ocr",
-   "text": "8 14. 1. Odbiorcy albo osobie przez odbiorcę upoważnionej przysługuje prawo zgłoszenia, przed podpisaniem protokotu kontroli, umotywowanych zastrzeżeń co do ustaleń zawartych w protokole."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Zastrzeżenia zgłasza się na piśmie w terminie 7 dni od dnia otrzymania protokołu kontroli."
-  },
-  {
-   "type": "ocr",
-   "text": "3. W razie zgłoszenia zastrzeżeń, o których mowa w ust. 2, kontrolujący jest obowiązany niezwłocznie"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "dokonać ich analizy i, w miarę potrzeby, podjąć dodatkowe czynności kontrolne, a w razie:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) stwierdzenia zasadności zastrzeżeń — odpowiednio zmienić lub uzupełnić odpowiednią część protokotu kontroli,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) nieuwzględnienia zastrzeżeń — przedstawić odbiorcy lub osobie przez odbiorcę upoważnionej pisemne uzasadnienie swojego stanowiska."
-  },
-  {
-   "type": "ocr",
-   "text": "4. W przypadku, o którym mowa w ust. 3 pkt 2, wtaściwy organ przedsiębiorstwa energetycznego, w terminie 14 dni od dnia otrzymania protokołu kontroli wraz z zastrzeżeniami i stanowiskiem kontrolujących, informuje na piśmie odbiorcę albo osobę przez odbiorcę upoważnioną o zajętym stanowisku wobec nieuwzględnionych przez kontrolujących zastrzeżeń."
-  },
-  {
-   "type": "ocr",
-   "text": "8 15. 1. Protokół kontroli podpisują kontrolujący i odbiorca, a w razie jego nieobecności — osoba przez odbiorcę upoważniona."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Odbiorca albo osoba przez odbiorcę upoważniona może odmówić podpisania protokołu kontroli, sktadając, w terminie 7 dni roboczych od dnia jego otrzymania, pisemne wyjaśnienie przyczyn tej odmowy."
-  },
-  {
-   "type": "ocr",
-   "text": "3. O odmowie podpisania protokołu kontroli i złożeniu wyjaśnienia kontrolujący czynią wzmiankę w protokole."
-  },
-  {
-   "type": "ocr",
-   "text": "8 16. W przypadku stwierdzenia w wyniku kontroli nieprawidłowości w zakresie, o którym mowa w 8 3, właściwy organ przedsiębiorstwa energetycznego, w terminie 14 dni od dnia otrzymania protokołu kontroli, zawiadamia na piśmie odbiorcę lub osobę przez odbiorcę upoważnioną o terminie i sposobie usunięcia stwierdzonych nieprawidłowości."
-  },
-  {
-   "type": "ocr",
-   "text": "8 17. Informacje uzyskane w trakcie przeprowadzonej kontroli nie mogą być udostępniane osobom trzecim bez pisemnej zgody odbiorcy, u którego przeprowadzono kontrolę."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 18. Traci moc rozporządzenie Ministra Gospodarki z dnia 6 sierpnia 1998 r. w sprawie szczegółowych zasad przeprowadzania kontroli przez przedsiębiorstwa energetyczne oraz wzorów protokołu kontroli i upowaznien do przeprowadzania kontroli (Dz. U. Nr 107, poz. 672)."
-  },
-  {
-   "type": "ocr",
-   "text": "8 19. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Gospodarki: J. Steinhoff"
-  },
-  {
-   "type": "ocr",
-   "text": "Załączniki do rozporządzenia Ministra Gospodarki z dnia 11 sierpnia 2000 r. (poz. 866)"
-  },
-  {
-   "type": "ocr",
-   "text": "Załącznik nr 1"
-  },
-  {
-   "type": "ocr",
-   "text": "WZÓR UPOWAŻNIENIA DO PRZEPROWADZENIA KONTROLI*"
-  },
-  {
-   "type": "ocr",
-   "text": "(termin kontroli)"
-  },
-  {
-   "type": "ocr",
-   "text": "Upoważnienie do przeprowadzenia kontroli nr ......"
-  },
-  {
-   "type": "ocr",
-   "text": "Na podstawie art. 6 ustawy z dnia 10 kwietnia 1997 r. — Prawo energetyczne (Dz. U. Nr 54, poz. 348 i Nr 158, poz. 1042, z 1998 r. Nr 94, poz. 594, Nr 106, poz. 668 i Nr 162, poz. 1126, z 1999 r. Nr 88, poz. 980 i Nr 110, poz. 1255 oraz z 2000 r. Nr 43, poz. 489 i Nr 48, poz. 555) upoważnia się: A legitymacja nr oer A legitymacja nr oo... eee AA legitymacja nr ......uaaaaaaaaaaaaaazana (imiona i nazwiska upoważnionych przedstawicieli przedsiębiorstwa energetycznego i cechy dokumentu tożsamości) do przeprowadzenia kontroli ...........--usaa aaa aaa aaa ananasa"
-  },
-  {
-   "type": "ocr",
-   "text": "Przedmiotem kontroli jest ...........:c:cccsscsscseseseceesessssesesseeers (oznaczenie celu i zakresu kontroli) Upoważnienie jest ważne za okazaniem legitymacji."
-  },
-  {
-   "type": "ocr",
-   "text": "* Wypetnić pismem maszynowym."
-  },
-  {
-   "type": "ocr",
-   "text": "(podpis, stanowisko stuzbowe i numer telefonu służbowego osoby wystawiającej upoważnienie)"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "Załącznik nr 2"
-  },
-  {
-   "type": "ocr",
-   "text": "WZÓR LEGITYMACJI PRZEDSTAWICIELA PRZEDSIĘBIORSTWA ENERGETYCZNEGO Strona przednia"
-  },
-  {
-   "type": "ocr",
-   "text": "ee : Legitymacja Rajd: do przeprowadzania kontroli energe- . seen tycznego (oznaczenie przedsiębiorstwa energetycznego)"
-  },
-  {
-   "type": "ocr",
-   "text": "Numer legitymacji Termin ważności"
-  },
-  {
-   "type": "ocr",
-   "text": "(pieczęć wystawcy) (data i podpis wystawcy)"
-  },
-  {
-   "type": "ocr",
-   "text": "Strona odwrotna"
-  },
-  {
-   "type": "ocr",
-   "text": "Nazwisko"
-  },
-  {
-   "type": "ocr",
-   "text": "imiona"
-  },
-  {
-   "type": "ocr",
-   "text": "Okaziciel niniejszej legitymacji jest upoważniony do wstępu na teren nieruchomości lub do pomieszczeń, gdzie przeprowadzana jest kontrola, i przeprowadzenia postępowania kontrolnego w zakresie układów pomiarowych, dotrzymywania zawartych umów i prawidiowości rozliczeń, na podstawie przepisów ustawy z dnia 10 kwietnia 1997 r. — Prawo energetyczne (Dz. U. Nr 54, poz. 348 z późn. zm.)."
-  },
-  {
-   "type": "ocr",
-   "text": "Legitymacja ma kolor jasnozielony i jest dwustronnie foliowana. Format legitymacji 6 x 12 cm. Strona przednia legitymacji zawiera: — wizerunek logo przedsiębiorstwa energetycznego na tle białym, — poniżej wstęga koloru żółto-czarnego, — napisy koloru czarnego. Strona odwrotna legitymacji zawiera: — napisy koloru czarnego, — zdjęcie, umieszczone w zaznaczonej ramce."
-  },
-  {
-   "type": "note",
-   "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "Zatacznik nr 3 (pieczęć przedsiębiorstwa energetycznego)"
-  },
-  {
-   "type": "ocr",
-   "text": "WZÓR PROTOKOŁU KONTROLI"
-  },
-  {
-   "type": "ocr",
-   "text": "Protokół kontroli nr ....."
-  },
-  {
-   "type": "ocr",
-   "text": "Na podstawie art. 6 ustawy z dnia 10 kwietnia 1997 r. — Prawo energetyczne (Dz. U. Nr 54, poz. 348 i Nr 158, poz. 1042, z 1998 r. Nr 94, poz. 594, Nr 106, poz. 668 i Nr 162, poz. 1126, z 1999 r. Nr 88, poz. 980 i Nr 110, poz. 1255 oraz z 2000 r. Nr 43, poz. 489 i Nr 48, poz. 555) w dniu .... upoważnieni przedstawiciele"
-  },
-  {
-   "type": "ocr",
-   "text": "(imiona i nazwiska kontrolujących) na podstawie upoważnienia do kontroli nr Z dnia L....aaaaaa aaa aa ac nans przeprowadzili kontrolę u"
-  },
-  {
-   "type": "ocr",
-   "text": "(oznaczenie odbiorcy i miejsca kontroli) Oprócz kontrolujących przy wykonywaniu kontroli obecni byli:"
-  },
-  {
-   "type": "ocr",
-   "text": "(określenie zakresu i celu kontroli) Kontrolę rozpoczęto o godz. ......cccccceesseesseteees , a zakończono o godz. ........-:2:.-2:s111:11 Kontrolujący dokonali następujących czynności kontrolnych:"
-  },
-  {
-   "type": "ocr",
-   "text": "(podpis odbiorcy lub osoby przez niego upoważnionej) (podpisy kontrolujących)"
-  },
-  {
-   "type": "ocr",
-   "text": "1 Niepotrzebne skreślić."
   }
  ],
- "annexes": [],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Gospodarki z dnia 11 sierpnia 2000 r. (poz. 866) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR UPOWAŻNIENIA DO PRZEPROWADZENIA KONTROLI*"
+    },
+    {
+     "type": "text",
+     "text": "(termin kontroli)"
+    },
+    {
+     "type": "text",
+     "text": "Upoważnienie do przeprowadzenia kontroli nr ......"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 6 ustawy z dnia 10 kwietnia 1997 r. — Prawo energetyczne (Dz. U. Nr 54, poz. 348 i Nr 158, poz. 1042, z 1998 r. Nr 94, poz. 594, Nr 106, poz. 668 i Nr 162, poz. 1126, z 1999 r. Nr 88, poz. 980 i Nr 110, poz. 1255 oraz z 2000 r. Nr 43, poz. 489 i Nr 48, poz. 555) upoważnia się: A legitymacja nr oer A legitymacja nr oo... eee AA legitymacja nr ......uaaaaaaaaaaaaaazana (imiona i nazwiska upoważnionych przedstawicieli przedsiębiorstwa energetycznego i cechy dokumentu tożsamości) do przeprowadzenia kontroli ...........--usaa aaa aaa aaa ananasa"
+    },
+    {
+     "type": "text",
+     "text": "Przedmiotem kontroli jest ...........:c:cccsscsscseseseceesessssesesseeers (oznaczenie celu i zakresu kontroli) Upoważnienie jest ważne za okazaniem legitymacji."
+    },
+    {
+     "type": "text",
+     "text": "* Wypełnić pismem maszynowym."
+    },
+    {
+     "type": "text",
+     "text": "(podpis, stanowisko służbowe i numer telefonu służbowego osoby wystawiającej upoważnienie)"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR LEGITYMACJI PRZEDSTAWICIELA PRZEDSIĘBIORSTWA ENERGETYCZNEGO Strona przednia"
+    },
+    {
+     "type": "text",
+     "text": "ee : Legitymacja Rajd: do przeprowadzania kontroli energe- . seen tycznego (oznaczenie przedsiębiorstwa energetycznego)"
+    },
+    {
+     "type": "text",
+     "text": "Numer legitymacji Termin ważności"
+    },
+    {
+     "type": "text",
+     "text": "(pieczęć wystawcy) (data i podpis wystawcy)"
+    },
+    {
+     "type": "text",
+     "text": "Strona odwrotna"
+    },
+    {
+     "type": "text",
+     "text": "Nazwisko"
+    },
+    {
+     "type": "text",
+     "text": "imiona"
+    },
+    {
+     "type": "text",
+     "text": "Okaziciel niniejszej legitymacji jest upoważniony do wstępu na teren nieruchomości lub do pomieszczeń, gdzie przeprowadzana jest kontrola, i przeprowadzenia postępowania kontrolnego w zakresie układów pomiarowych, dotrzymywania zawartych umów i prawidiowości rozliczeń, na podstawie przepisów ustawy z dnia 10 kwietnia 1997 r. — Prawo energetyczne (Dz. U. Nr 54, poz. 348 z późn. zm.)."
+    },
+    {
+     "type": "text",
+     "text": "Legitymacja ma kolor jasnozielony i jest dwustronnie foliowana. Format legitymacji 6 x 12 cm. Strona przednia legitymacji zawiera: — wizerunek logo przedsiębiorstwa energetycznego na tle białym, — poniżej wstęga koloru żółto-czarnego, — napisy koloru czarnego. Strona odwrotna legitymacji zawiera: — napisy koloru czarnego, — zdjęcie, umieszczone w zaznaczonej ramce."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 3 (pieczęć przedsiębiorstwa energetycznego)"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR PROTOKOŁU KONTROLI"
+    },
+    {
+     "type": "text",
+     "text": "Protokół kontroli nr ....."
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 6 ustawy z dnia 10 kwietnia 1997 r. — Prawo energetyczne (Dz. U. Nr 54, poz. 348 i Nr 158, poz. 1042, z 1998 r. Nr 94, poz. 594, Nr 106, poz. 668 i Nr 162, poz. 1126, z 1999 r. Nr 88, poz. 980 i Nr 110, poz. 1255 oraz z 2000 r. Nr 43, poz. 489 i Nr 48, poz. 555) w dniu .... upoważnieni przedstawiciele"
+    },
+    {
+     "type": "text",
+     "text": "(imiona i nazwiska kontrolujących) na podstawie upoważnienia do kontroli nr Z dnia L....aaaaaa aaa aa ac nans przeprowadzili kontrolę u"
+    },
+    {
+     "type": "text",
+     "text": "(oznaczenie odbiorcy i miejsca kontroli) Oprócz kontrolujących przy wykonywaniu kontroli obecni byli:"
+    },
+    {
+     "type": "text",
+     "text": "(określenie zakresu i celu kontroli) Kontrolę rozpoczęto o godz. ......cccccceesseesseteees , a zakończono o godz. ........-:2:.-2:s111:11 Kontrolujący dokonali następujących czynności kontrolnych:"
+    },
+    {
+     "type": "text",
+     "text": "(podpis odbiorcy lub osoby przez niego upoważnionej) (podpisy kontrolujących)"
+    },
+    {
+     "type": "text",
+     "text": "1 Niepotrzebne skreślić."
+    }
+   ]
+  }
+ ],
  "footnotes": {}
 }

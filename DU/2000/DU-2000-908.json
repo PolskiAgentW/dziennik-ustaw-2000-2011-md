@@ -1,83 +1,113 @@
 {
  "eli": "DU/2000/908",
  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 21 września 2000 r. zmieniające rozporządzenie w sprawie szczegółowych zasad trybu i kryteriów udzielania, spłacania oraz umarzania kredytów studenckich i pożyczek studenckich, wysokości kredytu studenckiego i pożyczki studenckiej, warunków i trybu rozliczeń z tytułu pokrywania odsetek należnych bankom od kredytów studenckich oraz wysokości oprocentowania pożyczki i kredytu studenckiego spłaconego przez pożyczkobiorcę lub kredytobiorcę.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/908/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 21 września 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "zmieniające rozporządzenie w sprawie szczegółowych zasad, trybu i kryteriów udzielania, spłacania oraz umarzania kredytów studenckich i pożyczek studenckich, wysokości kredytu studenckiego i pożyczki studenckiej, warunków i trybu rozliczeń z tytułu pokrywania odsetek należnych bankom od kredytów studenckich oraz wysokości oprocentowania pożyczki i kredytu studenckiego spłacanego przez pożyczkobiorcę lub kredytobiorcę."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 15 ust. 1 pkt 1—4 ustawy z dnia 17 lipca 1998 r. o pożyczkach i kredytach studenckich (Dz. U. Nr 108, poz. 685 i z 2000 r. Nr 48, poz. 550) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "8 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 30 września 1998 r. w sprawie szczegółowych zasad, trybu i kryteriów udzielania, spłacania oraz umarzania kredytów studenckich i pożyczek studenckich, wysokości kredytu studenckiego i pożyczki studenckiej, warunków i trybu rozliczeń z tytutu pokrywania odsetek należnych bankom od kredytów studenckich oraz wysokości oprocentowania pożyczki i kredytu studenckiego sptacanego przez pozyczkobiorcę lub kredytobiorcę (Dz. U. Nr 126, poz. 835 i Nr 139, poz. 899 oraz z 1999 r. Nr 80, poz. 907) wprowadza się następujące zmiany:"
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Ministra Edukacji Narodowej z dnia 30 września 1998 r. w sprawie szczegółowych zasad, trybu i kryteriów udzielania, spłacania oraz umarzania kredytów studenckich i pożyczek studenckich, wysokości kredytu studenckiego i pożyczki studenckiej, warunków i trybu rozliczeń z tytułu pokrywania odsetek należnych bankom od kredytów studenckich oraz wysokości oprocentowania pożyczki i kredytu studenckiego spłacanego przez pożyczkobiorcę lub kredytobiorcę (Dz. U. Nr 126, poz. 835 i Nr 139, poz. 899 oraz z 1999 r. Nr 80, poz. 907) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 10 ust. 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. W przypadku, o którym mowa w ust. 3 pkt 1, wysokość miesięcznej spłaty pożyczki lub kredytu może zostać na wniosek kredytobiorcy zmniejszona do 20% jego przeciętnego miesięcznego dochodu, ustalonego na podstawie:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) zaświadczenia właściwego urzędu skarbowego o dochodach uzyskanych w ostatnim roku podatkowym, podłegających opodatkowaniu podatkiem dochodowym od osób fizycznych na zasadach ogólnych, a w przypadku uzyskiwania dochodów wymienionych w § 5 ust. 2 pkt 2—11 oraz ust. 3 i 4 — na podstawie innego dowodu określonego przez bank,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) zaświadczenia z miejsca zatrudnienia kredytobiorcy o wysokości miesięcznego dochodu w bieżącym roku lub innego dowodu określonego przez bank, w przypadku braku dochodów wymienionych w § 5 ust. 2—4 w ostatnim roku podatkowym. ”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 11 dodaje się ust. 5 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„5.W przypadku ujawnienia, iż kredytobiorca przedstawił nieprawdziwe informacje, na podstawie których podjęto decyzję o udzieleniu pożyczki lub kredytu, a także o warunkach spłaty i umorzenia, właściwy bank wypowiada umowę pożyczki lub kredytu i z dniem terminu wypowiedzenia żąda spłaty pożyczki lub kredytu wraz z kwotą dopłat do odsetek nienależnie wypłaconych ze środków Funduszu na pokrycie pełnego lub częściowego oprocentowania kredytu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 13 dodaje się ust. 3a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3a. Kredytobiorcy, którym wypowiedziano umowę pożyczki lub kredytu zgodnie z § 11 ust.5, spłacają odpowiednio pożyczkę lub kwotę dopłat do odsetek od kredytów nienależnie wypłaconych ze środków Funduszu, powiększone o odsetki ustawowe naliczone od dnia dokonania nieuzasadnionej wypłaty przez Bank Gospodarstwa Krajowego.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "§ 16 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 16.1. Wysokość miesięcznej raty pożyczki lub kredytu na rok akademicki 2000/2001 wynosi 400 zł, z zastrzeżeniem ust. 2.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Wysokość miesięcznej raty kredytu na rok akademicki 2000/2001 poręczonego przez Bank Gospodarstwa Krajowego ze środków Funduszu Poręczeń Kredytowych wynosi 330 zł.”",
+       "quoted": true
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) w 8 10 ust. 4 otrzymuje brzmienie:"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "„4. W przypadku, o którym mowa w ust. 3 pkt 1, wysokość miesięcznej spłaty pożyczki lub kredytu może zostać na wniosek kredytobiorcy zmniejszona do 20% jego przeciętnego miesięcznego dochodu, ustalonego na podstawie:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) zaświadczenia właściwego urzędu skarbowego o dochodach uzyskanych w ostatnim roku podatkowym, podłegających opodatkowaniu podatkiem dochodowym od osób fizycznych na zasadach ogólnych, a w przypadku uzyskiwania dochodów wymienionych w 8 5 ust. 2 pkt 2—11 oraz ust. 3 i 4 — na podstawie innego dowodu określonego przez bank,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) zaświadczenia z miejsca zatrudnienia kredytobiorcy o wysokości miesięcznego dochodu w bieżącym roku lub innego dowodu określonego przez bank, w przypadku braku dochodów wymienionych w $ 5 ust. 2—4 w ostatnim roku podatkowym. ”;"
-  },
-  {
-   "type": "ocr",
-   "text": "2) w § 11 dodaje się ust. 5 w brzmieniu:"
-  },
-  {
-   "type": "ocr",
-   "text": "„5.W przypadku ujawnienia, iż kredytobiorca przedstawit nieprawdziwe informacje, na podstawie których podjęto decyzję o udzieleniu pożyczki lub kredytu, a także o warunkach spłaty i umorzenia, właściwy bank wypowiada umowę pożyczki lub kredytu i z dniem terminu wypowiedzenia żąda spłaty pożyczki lub kredytu wraz z kwotą dopłat do odsetek nienależnie wypłaconych ze środków Funduszu na pokrycie petnego lub częściowego oprocentowania kredytu.”;"
-  },
-  {
-   "type": "ocr",
-   "text": "3) w § 13 dodaje sie ust. 3a w brzmieniu:"
-  },
-  {
-   "type": "ocr",
-   "text": "„3a. Kredytobiorcy, którym wypowiedziano umowę pożyczki lub kredytu zgodnie z $ 11 ust.5, spłacają odpowiednio pożyczkę lub kwotę dopłat do odsetek od kredytów nienależnie wyptaconych ze środków Funduszu, powiększone o odsetki ustawowe naliczone od dnia dokonania nieuzasadnionej wypłaty przez Bank Gospodarstwa Krajowego.”;"
-  },
-  {
-   "type": "ocr",
-   "text": "4) § 16 otrzymuje brzmienie:"
-  },
-  {
-   "type": "ocr",
-   "text": "„$ 16.1. Wysokość miesięcznej raty pożyczki lub kredytu na rok akademicki 2000/2001 wynosi 400 zł, z zastrzeżeniem ust. 2."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Wysokość miesięcznej raty kredytu na rok akademicki 2000/2001 poręczonego przez Bank Gospodarstwa Krajowego ze środków Funduszu Poręczeń Kredytowych wynosi 330 zł.”"
-  },
-  {
-   "type": "ocr",
-   "text": "§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Edukacji Narodowej: E. Wittbrodt"
   }
  ],

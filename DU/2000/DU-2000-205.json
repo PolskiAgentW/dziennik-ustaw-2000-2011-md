@@ -1,7 +1,7 @@
 {
  "eli": "DU/2000/205",
  "title": "Rozporządzenie Rady Ministrów z dnia 6 marca 2000 r. w sprawie komisji lekarskich i komisji poborowych oraz wynagradzania za udział w ich pracy.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/205/text.pdf",
  "body": [
   {
@@ -54,793 +54,1330 @@
   },
   {
    "type": "note",
-   "text": "[Strona 2 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
-   "text": "3. W wypadkach, o których mowa w ust. 1 i 2, przewodniczący komisji może wezwać poborowego do „zgłoszenia się przed komisją. Wzór wezwania określaja przepisy rozporządzenia Ministrów Spraw Wewnętrznych i Administracji oraz Obrony Narodowej w sprawie przygotowania i przeprowadzenia poboru."
+   "type": "text",
+   "text": "Poz. 205. Dziennik Ustaw Nr 16"
   },
   {
-   "type": "ocr",
-   "text": "8 4. Przewodniczący wojewódzkiej komisji lekar- \"skiej i wojewódzkiej komisji poborowej zarządza dziatanie komisji w terminach właściwych do realizacji ich zadań. Przepis § 3 ust. 3 stosuje się odpowiednio."
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "W wypadkach, o których mowa w ust. 1 i 2, przewodniczący komisji może wezwać poborowego do „zgłoszenia się przed komisją. Wzór wezwania określają przepisy rozporządzenia Ministrów Spraw Wewnętrznych i Administracji oraz Obrony Narodowej w sprawie przygotowania i przeprowadzenia poboru.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "8 5. 1. Powiatowa komisja lekarska i powiatowa komisja poborowa działają, z zastrzeżeniem ust. 5, na obszarze powiatu (miasta na prawach powiatu)."
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Przewodniczący wojewódzkiej komisji lekar- \"skiej i wojewódzkiej komisji poborowej zarządza działanie komisji w terminach właściwych do realizacji ich zadań. Przepis § 3 ust. 3 stosuje się odpowiednio.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "2. Wojewoda określa siedziby powiatowych komisji lekarskich i powiatowych komisji poborowych oraz terytorialny zasięg ich działania."
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Powiatowa komisja lekarska i powiatowa komisja poborowa działają, z zastrzeżeniem ust. 5, na obszarze powiatu (miasta na prawach powiatu).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Wojewoda określa siedziby powiatowych komisji lekarskich i powiatowych komisji poborowych oraz terytorialny zasięg ich działania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Przy określaniu siedziby komisji, o których mowa w ust. 2, uwzględnia się w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_3/pkt_1",
+       "text": "możliwość zapewnienia odpowiednich warunków lokalowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_3/pkt_2",
+       "text": "połączenia komunikacyjne z sąsiednimi gminami i miastami, umożliwiające terminowy dojazd poborowych do komisji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_3/pkt_3",
+       "text": "liczbę poborowych przewidzianych do zgłoszenia się przed komisjami,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_3/pkt_4",
+       "text": "możliwość przeprowadzenia badań specjalistycznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Wojewoda, uwzględniając okoliczności, o których mowa w ust. 3, może powołać na obszarze powiatu więcej niż jedną powiatową komisję lekarską lub powiatową komisję poborową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "W wypadkach uzasadnionych okolicznościami, o których mowa w ust. 3, oraz względami ekonomicznymi wojewoda może powołać powiatową komisję lekarską i powiatową komisję poborową na obszarze obejmującym dwa lub więcej powiatów.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "3. Przy określaniu siedziby komisji, o których mowa w ust. 2, uwzględnia się w szczególności:"
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Posiedzenia powiatowej komisji lekarskiej i powiatowej komisji poborowej, w dniach określonych w wojewódzkim planie poboru, powinny odbywać się w tym samym budynku.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "1) możliwość zapewnienia odpowiednich warunków lokalowych,"
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Skład komisji lekarskich"
   },
   {
-   "type": "ocr",
-   "text": "2) połączenia komunikacyjne z sąsiednimi gminami i miastami, umożliwiające terminowy dojazd poborowych do komisji,"
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "W skład wojewódzkiej komisji lekarskiej wchodzi 3 lekarzy posiadających specjalizację li stopnia albo tytuł specjalisty w podstawowej dziedzinie medycyny (w tym chorób wewnętrznych i chirurgii ogólnej), spośród których wojewoda wyznacza przewodniczącego, oraz sekretarz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "W skład powiatowej komisji lekarskiej wchodzi 3 lekarzy (w tym chirurg i internista), spośród których wojewoda wyznacza przewodniczącego, sekretarz oraz 2 osoby średniego personelu medycznego.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "3) liczbę poborowych przewidzianych do zgłoszenia się przed komisjami,"
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Na sekretarza wojewódzkiej komisji lekarskiej powołuje się pracownika komórki organizacyjnej urzędu wojewódzkiego właściwej w sprawach obywatelskich, a na sekretarza powiatowej komisji lekarskiej pracownika starostwa powiatowego (urzędu miasta na prawach powiatu) właściwego ze względu na siedzibę komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "W wypadku, o którym mowa w § 5 ust. 4, na sekretarza powiatowej komisji lekarskiej powołuje się pracownika urzędu gminy właściwego ze względu na siedzibę komisji.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "4) możliwość przeprowadzenia badań specjalistycznych."
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Powołując komisję lekarską w składzie określonym w § 7 i8, uwzględnia się jednocześnie osoby, które, w razie niemożności pełnienia funkcji przez przewodniczącego lub członków komisji, petnia te funkcje zastępczo.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "4. Wojewoda, uwzględniając okoliczności, o których mowa w ust. 3, może powołać na obszarze powiatu więcej niż jedną powiatową komisję lekarską lub powiatową komisję poborową."
-  },
-  {
-   "type": "ocr",
-   "text": "5. W wypadkach uzasadnionych okolicznościami, o których mowa w ust. 3, oraz względami ekonomicznymi wojewoda może powołać powiatową komisję lekarską i powiatową komisję poborową na obszarze obejmującym dwa lub więcej powiatów."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 6. Posiedzenia powiatowej komisji lekarskiej i powiatowej komisji poborowej, w dniach określonych w wojewódzkim planie poboru, powinny odbywać się w tym samym budynku."
-  },
-  {
-   "type": "ocr",
-   "text": "Rozdział 2"
-  },
-  {
-   "type": "ocr",
-   "text": "Sktad komisji lekarskich"
-  },
-  {
-   "type": "ocr",
-   "text": "8 7. 1. W skład wojewódzkiej komisji lekarskiej wchodzi 3 lekarzy posiadających specjalizację li stopnia albo tytuł specjalisty w podstawowej dziedzinie medycyny (w tym chorób wewnętrznych i chirurgii ogólnej), spośród których wojewoda wyznacza przewodniczącego, oraz sekretarz."
-  },
-  {
-   "type": "ocr",
-   "text": "2. W skład powiatowej komisji lekarskiej wchodzi 3 lekarzy (w tym chirurg i internista), spośród których wojewoda wyznacza przewodniczącego, sekretarz oraz 2 osoby średniego personelu medycznego."
-  },
-  {
-   "type": "ocr",
-   "text": "Poz. 205."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 8. 1. Na sekretarza wojewódzkiej komisji lekarskiej powołuje się pracownika komórki organizacyjnej urzędu wojewódzkiego właściwej w sprawach obywatelskich, a na sekretarza powiatowej komisji lekarskiej pracownika starostwa powiatowego (urzędu miasta na prawach powiatu) właściwego ze względu na siedzibę komisji."
-  },
-  {
-   "type": "ocr",
-   "text": "2. W wypadku, o którym mowa w 8 5 ust. 4, na sekretarza powiatowej komisji lekarskiej powołuje się pracownika urzędu gminy właściwego ze względu na siedzibę komisji."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 9. Powołując komisję lekarską w sktadzie określonym w $ 7 i8, uwzględnia się jednocześnie osoby, które, w razie niemożności pełnienia funkcji przez przewodniczącego lub członków komisji, petnia te funkcje zastępczo."
-  },
-  {
-   "type": "ocr",
-   "text": "Rozdziat 3"
-  },
-  {
-   "type": "ocr",
+   "type": "heading",
+   "label": "Rozdział 3",
    "text": "Tryb postępowania komisji lekarskich"
   },
   {
-   "type": "ocr",
-   "text": "§ 10. 1. Komisja lekarska określa zdolność poborowego do czynnej służby wojskowej na podstawie badania stanu jego zdrowia."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Komisja dokumentuje badanie stanu zdrowia poborowych w księdze orzeczeń lekarskich, w której odnotowuje się wyniki badania poborowego, wyniki badań specjalistycznych lub obserwacji szpitalnej poborowego oraz informacje, które wynikają z zaświadczeń lekarskich i innych dokumentów dotyczących stanu zdrowia, przedstawionych komisji przez poborowego."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Księgę orzeczeń lekarskich, o której mowa w ust. 2, w powiatowej komisji lekarskiej prowadzi średni personel medyczny, a w wojewódzkiej komisji lekarskiej — wyznaczony członek tej komisji."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 11. 1. Pracą komisji lekarskiej kieruje jej przewodniczący."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Do przewodniczącego komisji należy:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) przewodniczenie posiedzeniom komisji,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) organizowanie i nadzorowanie pracy członków komisji,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) reprezentowanie komisji na zewnątrz,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) podejmowanie decyzji o wyłączeniu członka komisji,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) kierowanie do wojewody wniosków o odwołanie członka komisji,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) zwalnianie z obowiązku osobistego zgłoszenia się poborowego przed komisją,"
-  },
-  {
-   "type": "ocr",
-   "text": "7) kierowanie poborowych na badania specjalistyczne lub obserwację szpitalną,"
-  },
-  {
-   "type": "ocr",
-   "text": "8) formułowanie propozycji dotyczących orzeczeń komisji,"
-  },
-  {
-   "type": "ocr",
-   "text": "9) składanie sprawozdań z działalności komisji."
-  },
-  {
-   "type": "note",
-   "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "3. Do lekarzy — członków komisji należy:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) badanie stanu zdrowia poborowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) występowanie, w uzasadnionych wypadkach, z wnioskami o skierowanie poborowych na badania specjalistyczne, obserwację szpitalną lub na badania psychologiczne,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) opiniowanie podań o zwolnienie z obowiązku osobistego zgłoszenia się poborowego przed komisją i przedstawianie opinii w tej sprawie przewodniczącemu komisji,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) propagowanie oświaty sanitarnej i honorowego krwiodawstwa wśród poborowych."
-  },
-  {
-   "type": "ocr",
-   "text": "4. Do sekretarza komisji należy:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) prowadzenie dokumentacji związanej z orzecznictwem komisji,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) prowadzenie listy obecności osób biorących udział w pracach komisji,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) przekazywanie orzeczeń komisji poborowym oraz właściwym wojskowym komendantom uzupetnień."
-  },
-  {
-   "type": "ocr",
-   "text": "5. Do sekretarza powiatowej komisji tekarskiej należy ponadto dokonywanie wpisów na liście poborowych."
-  },
-  {
-   "type": "ocr",
-   "text": "6. Do średniego personelu medycznego należy wykonywanie czynności, o których mowa w $ 10 ust. 3, oraz pomoc medyczna, zgodnie z zadaniami określonymi przez przewodniczącego powiatowej komisji lekarskiej."
-  },
-  {
-   "type": "ocr",
-   "text": "8 12. 1. Badanie lekarskie poborowych odbywa się w obecności całego składu komisji lekarskiej. Sekretarz komisji oraz średni personel medyczny nie biorą udziatu w głosowaniu przy orzekaniu o stanie zdrowia poborowych."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Komisja lekarska może uwzgłędnić prośbę poborowego o przeprowadzenie badania tylko w obecności lekarzy."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Lekarze wchodzący w skład komisji, nie mogąc ustalić, po dokonaniu badań, stanu zdrowia poborowego i jego zdolności do stużby wojskowej, występują do przewodniczącego komisji z wnioskiem o skierowanie poborowego do zakładu opieki zdrowotnej na nieodpłatne: badania specjalistyczne, obserwację szpitalną lub na badania psychologiczne. Wzór karty skierowania stanowi załącznik nr 1 do rozporządzenia."
-  },
-  {
-   "type": "ocr",
-   "text": "4. W wypadku, o którym mowa w ust. 3, wydanie orzeczenia o stopniu zdolności do służby wojskowej może nastąpić, z uwzględnieniem wyników badań specjalistycznych lub obserwacji szpitalnej, w czasie ponownego stawienia się poborowego przed komisją."
-  },
-  {
-   "type": "ocr",
-   "text": "8 13. Wojewoda zleca zakładom opieki zdrowotnej przeprowadzanie badań specjalistycznych, obserwacji"
-  },
-  {
-   "type": "ocr",
-   "text": "szpitalnej oraz badań psychologicznych poborowych na potrzeby wojewódzkiej i powiatowych komisji lekarskich."
-  },
-  {
-   "type": "ocr",
-   "text": "$ 14. 1. Poborowy niezdolny do osobistego stawienia się przed komisją wskutek kalectwa lub ułomności ałbo osoba sprawująca opiekę nad poborowym mogą wnieść do komisji podanie o zwolnienie poborowego z obowiązku osobistego stawienia się przed nią, podając rodzaj kalectwa lub utomności, potwierdzony zaświadczeniem lekarza."
-  },
-  {
-   "type": "ocr",
-   "text": "2. W podaniu, o którym mowa w ust. 1, do celów ewidencji wojskowej należy podać:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) nazwisko,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) imię (imiona),"
-  },
-  {
-   "type": "ocr",
-   "text": "3) imię ojca,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) datę i miejsce urodzenia,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) adres zamieszkania,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) wykształcenie,"
-  },
-  {
-   "type": "ocr",
-   "text": "7) zawód,"
-  },
-  {
-   "type": "ocr",
-   "text": "8) numer i serię dowodu osobistego,"
-  },
-  {
-   "type": "ocr",
-   "text": "9) nazwę i siedzibę organu, który go wydał,"
-  },
-  {
-   "type": "ocr",
-   "text": "10) numer PESEL."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Przewodniczący komisji lekarskiej uwzględnia podanie, o którym mowa w ust. 1, jeżeli rodzaj kalectwa lub ułomności poborowego, potwierdzony zaświadczeniem lekarza, uzasadnia zwolnienie poborowego z obowiązku osobistego stawienia się przed komisją."
-  },
-  {
-   "type": "ocr",
-   "text": "4. W wypadku, o którym mowa w ust. 3, komisja lekarska orzeka o stopniu zdolności poborowego do czynnej służby wojskowej na podstawie zaświadczenia lekarza potwierdzającego rodzaj kalectwa lub ułomności. Jeżeli na tej podstawie komisja nie może orzec o stopniu zdolności poborowego do czynnej służby wojskowej, przewodniczący komisji zarządza przeprowadzenie badania poborowego w miejscu jego pobytu przez lekarzy wchodzących w skład komisji."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 15. 1. Wojewódzkie i powiatowe komisje lekarskie orzekają większością głosów. W razie równej liczby głosów decyduje głos przewodniczącego."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Orzeczenia komisji, o których mowa w ust. 1, podpisuje ich przewodniczący, członkowie komisji będący lekarzami oraz sekretarz."
-  },
-  {
-   "type": "ocr",
-   "text": "8 16. Orzeczenie wojewódzkiej komisji lekarskiej doręcza się poborowemu i wojskowemu komendantowi uzupełnień."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 17. Przepisy niniejszego rozdziału stosuje się odpowiednio do poboru kobiet, które zostały poddane obowiązkowi stawienia się do poboru, z tym że w cza-"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "sie przeprowadzania poboru kobiet nie mogą być wzywani do stawienia się przed komisją lekarską mezczyzni."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 18. Przepisy niniejszego rozdziału stosuje się również do badania ochotników zgłaszających się do poboru, z tym że niestawienie się ochotnika przed powiatową komisją lekarską jest traktowane jako rezygnacja z ubiegania się o ochotnicze odbycie zasadniczej stuzby wojskowej."
-  },
-  {
-   "type": "ocr",
-   "text": "Rozdziat 4"
-  },
-  {
-   "type": "ocr",
-   "text": "Sktad komisji poborowych"
-  },
-  {
-   "type": "ocr",
-   "text": "8 19. 1. W sktad wojewódzkiej komisji poborowej wchodzą:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) przewodniczący — wicewojewoda albo dyrektor generalny urzędu wojewódzkiego,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) członek — szef wojewódzkiego sztabu wojskowego albo jego przedstawiciel,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) sekretarz — pracownik komórki organizacyjnej urzędu wojewódzkiego właściwej w sprawach obywatelskich."
-  },
-  {
-   "type": "ocr",
-   "text": "2. W skład powiatowej komisji poborowej wchodzą:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) przewodniczący — starosta (prezydent miasta na prawach powiatu) właściwy ze względu na siedzibę komisji albo jego przedstawiciel,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) członkowie:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) wojskowy komendant uzupełnień albo jego przedstawiciel,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) wójt lub burmistrz (prezydent miasta) właściwy ze względu na miejsce pobytu poborowego albo jego przedstawiciel,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) sekretarz — pracownik komórki organizacyjnej starostwa powiatowego (urzędu miasta na prawach powiatu) właściwej w sprawach obywatelskich."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Członkowie komisji, o których mowa w ust. 2 pkt 2 lit. b), biorą udział w posiedzeniach powiatowej komisji poborowej w dniach rozpatrywania podań poborowych z danej gminy o odroczenie służby wojskowej oraz rozpatrywania wniosków tych poborowych o skierowanie do stużby zastępczej."
-  },
-  {
-   "type": "ocr",
-   "text": "4. W wypadku gdy na obszarze powiatu (miasta na prawach powiatu) zostanie powołana więcej niż jedna powiatowa komisja poborowa, wojewoda może powołać na przewodniczącego komisji burmistrza (prezydenta miasta) albo jego przedstawiciela właściwego ze względu na siedzibę komisji, a na sekretarza — pracownika urzędu gminy."
-  },
-  {
-   "type": "ocr",
-   "text": "8 20. 1. Powołując komisję w sktadzie określonym w $ 19, uwzględnia się jednocześnie osoby, które w razie niemożności pełnienia funkcji przez przewodniczą-"
-  },
-  {
-   "type": "ocr",
-   "text": "cego, członków lub sekretarza komisji, petnią te funkcje zastępczo."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Wojewoda może powołać do zastępczego petnienia funkcji przewodniczącego:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) wojewódzkiej komisji poborowej — w szczególności kierownika komórki organizacyjnej urzędu wojewódzkiego właściwej w sprawach obywatelskich,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) powiatowej komisji poborowej — w szczególności kierownika komórki organizacyjnej starostwa powiatowego (urzędu miasta na prawach powiatu) właściwej w sprawach obywatelskich, a w wypadku, o którym mowa w $ 19 ust. 4 — zastępcę burmistrza (prezydenta miasta) lub kierownika komórki organizacyjnej urzędu gminy właściwej w sprawach obywatelskich."
-  },
-  {
-   "type": "ocr",
-   "text": "Rozdział 5"
-  },
-  {
-   "type": "ocr",
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Komisja lekarska określa zdolność poborowego do czynnej służby wojskowej na podstawie badania stanu jego zdrowia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Komisja dokumentuje badanie stanu zdrowia poborowych w księdze orzeczeń lekarskich, w której odnotowuje się wyniki badania poborowego, wyniki badań specjalistycznych lub obserwacji szpitalnej poborowego oraz informacje, które wynikają z zaświadczeń lekarskich i innych dokumentów dotyczących stanu zdrowia, przedstawionych komisji przez poborowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Księgę orzeczeń lekarskich, o której mowa w ust. 2, w powiatowej komisji lekarskiej prowadzi średni personel medyczny, a w wojewódzkiej komisji lekarskiej — wyznaczony członek tej komisji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Pracą komisji lekarskiej kieruje jej przewodniczący.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Do przewodniczącego komisji należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_2/pkt_1",
+       "text": "przewodniczenie posiedzeniom komisji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_2/pkt_2",
+       "text": "organizowanie i nadzorowanie pracy członków komisji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_2/pkt_3",
+       "text": "reprezentowanie komisji na zewnątrz,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_11/ust_2/pkt_4",
+       "text": "podejmowanie decyzji o wyłączeniu członka komisji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_11/ust_2/pkt_5",
+       "text": "kierowanie do wojewody wniosków o odwołanie członka komisji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_11/ust_2/pkt_6",
+       "text": "zwalnianie z obowiązku osobistego zgłoszenia się poborowego przed komisją,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_11/ust_2/pkt_7",
+       "text": "kierowanie poborowych na badania specjalistyczne lub obserwację szpitalną,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_11/ust_2/pkt_8",
+       "text": "formułowanie propozycji dotyczących orzeczeń komisji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_11/ust_2/pkt_9",
+       "text": "składanie sprawozdań z działalności komisji.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Do lekarzy — członków komisji należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_3/pkt_1",
+       "text": "badanie stanu zdrowia poborowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_3/pkt_2",
+       "text": "występowanie, w uzasadnionych wypadkach, z wnioskami o skierowanie poborowych na badania specjalistyczne, obserwację szpitalną lub na badania psychologiczne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_3/pkt_3",
+       "text": "opiniowanie podań o zwolnienie z obowiązku osobistego zgłoszenia się poborowego przed komisją i przedstawianie opinii w tej sprawie przewodniczącemu komisji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_11/ust_3/pkt_4",
+       "text": "propagowanie oświaty sanitarnej i honorowego krwiodawstwa wśród poborowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_11/ust_4",
+     "text": "Do sekretarza komisji należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_4/pkt_1",
+       "text": "prowadzenie dokumentacji związanej z orzecznictwem komisji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_4/pkt_2",
+       "text": "prowadzenie listy obecności osób biorących udział w pracach komisji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_4/pkt_3",
+       "text": "przekazywanie orzeczeń komisji poborowym oraz właściwym wojskowym komendantom uzupełnień.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_11/ust_5",
+     "text": "Do sekretarza powiatowej komisji tekarskiej należy ponadto dokonywanie wpisów na liście poborowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_11/ust_6",
+     "text": "Do średniego personelu medycznego należy wykonywanie czynności, o których mowa w § 10 ust. 3, oraz pomoc medyczna, zgodnie z zadaniami określonymi przez przewodniczącego powiatowej komisji lekarskiej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Badanie lekarskie poborowych odbywa się w obecności całego składu komisji lekarskiej. Sekretarz komisji oraz średni personel medyczny nie biorą udziału w głosowaniu przy orzekaniu o stanie zdrowia poborowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Komisja lekarska może uwzgłędnić prośbę poborowego o przeprowadzenie badania tylko w obecności lekarzy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Lekarze wchodzący w skład komisji, nie mogąc ustalić, po dokonaniu badań, stanu zdrowia poborowego i jego zdolności do służby wojskowej, występują do przewodniczącego komisji z wnioskiem o skierowanie poborowego do zakładu opieki zdrowotnej na nieodpłatne: badania specjalistyczne, obserwację szpitalną lub na badania psychologiczne. Wzór karty skierowania stanowi załącznik nr 1 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_12/ust_4",
+     "text": "W wypadku, o którym mowa w ust. 3, wydanie orzeczenia o stopniu zdolności do służby wojskowej może nastąpić, z uwzględnieniem wyników badań specjalistycznych lub obserwacji szpitalnej, w czasie ponownego stawienia się poborowego przed komisją.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Wojewoda zleca zakładom opieki zdrowotnej przeprowadzanie badań specjalistycznych, obserwacji szpitalnej oraz badań psychologicznych poborowych na potrzeby wojewódzkiej i powiatowych komisji lekarskich.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Poborowy niezdolny do osobistego stawienia się przed komisją wskutek kalectwa lub ułomności ałbo osoba sprawująca opiekę nad poborowym mogą wnieść do komisji podanie o zwolnienie poborowego z obowiązku osobistego stawienia się przed nią, podając rodzaj kalectwa lub ułomności, potwierdzony zaświadczeniem lekarza.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "W podaniu, o którym mowa w ust. 1, do celów ewidencji wojskowej należy podać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_2/pkt_1",
+       "text": "nazwisko,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_2/pkt_2",
+       "text": "imię (imiona),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_14/ust_2/pkt_3",
+       "text": "imię ojca,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_14/ust_2/pkt_4",
+       "text": "datę i miejsce urodzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_14/ust_2/pkt_5",
+       "text": "adres zamieszkania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_14/ust_2/pkt_6",
+       "text": "wykształcenie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_14/ust_2/pkt_7",
+       "text": "zawód,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_14/ust_2/pkt_8",
+       "text": "numer i serię dowodu osobistego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_14/ust_2/pkt_9",
+       "text": "nazwę i siedzibę organu, który go wydał,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_14/ust_2/pkt_10",
+       "text": "numer PESEL.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_14/ust_3",
+     "text": "Przewodniczący komisji lekarskiej uwzględnia podanie, o którym mowa w ust. 1, jeżeli rodzaj kalectwa lub ułomności poborowego, potwierdzony zaświadczeniem lekarza, uzasadnia zwolnienie poborowego z obowiązku osobistego stawienia się przed komisją.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_14/ust_4",
+     "text": "W wypadku, o którym mowa w ust. 3, komisja lekarska orzeka o stopniu zdolności poborowego do czynnej służby wojskowej na podstawie zaświadczenia lekarza potwierdzającego rodzaj kalectwa lub ułomności. Jeżeli na tej podstawie komisja nie może orzec o stopniu zdolności poborowego do czynnej służby wojskowej, przewodniczący komisji zarządza przeprowadzenie badania poborowego w miejscu jego pobytu przez lekarzy wchodzących w skład komisji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Wojewódzkie i powiatowe komisje lekarskie orzekają większością głosów. W razie równej liczby głosów decyduje głos przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Orzeczenia komisji, o których mowa w ust. 1, podpisuje ich przewodniczący, członkowie komisji będący lekarzami oraz sekretarz.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Orzeczenie wojewódzkiej komisji lekarskiej doręcza się poborowemu i wojskowemu komendantowi uzupełnień.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Przepisy niniejszego rozdziału stosuje się odpowiednio do poboru kobiet, które zostały poddane obowiązkowi stawienia się do poboru, z tym że w cza-",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "się przeprowadzania poboru kobiet nie mogą być wzywani do stawienia się przed komisją lekarską mezczyzni."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Przepisy niniejszego rozdziału stosuje się również do badania ochotników zgłaszających się do poboru, z tym że niestawienie się ochotnika przed powiatową komisją lekarską jest traktowane jako rezygnacja z ubiegania się o ochotnicze odbycie zasadniczej służby wojskowej.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Skład komisji poborowych"
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "W skład wojewódzkiej komisji poborowej wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_1/pkt_1",
+       "text": "przewodniczący — wicewojewoda albo dyrektor generalny urzędu wojewódzkiego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_1/pkt_2",
+       "text": "członek — szef wojewódzkiego sztabu wojskowego albo jego przedstawiciel,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_19/ust_1/pkt_3",
+       "text": "sekretarz — pracownik komórki organizacyjnej urzędu wojewódzkiego właściwej w sprawach obywatelskich.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "W skład powiatowej komisji poborowej wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_2/pkt_1",
+       "text": "przewodniczący — starosta (prezydent miasta na prawach powiatu) właściwy ze względu na siedzibę komisji albo jego przedstawiciel,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_2/pkt_2",
+       "text": "członkowie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_19/ust_2/pkt_2/lit_a",
+         "text": "wojskowy komendant uzupełnień albo jego przedstawiciel,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_19/ust_2/pkt_2/lit_b",
+         "text": "wójt lub burmistrz (prezydent miasta) właściwy ze względu na miejsce pobytu poborowego albo jego przedstawiciel,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_19/ust_2/pkt_3",
+       "text": "sekretarz — pracownik komórki organizacyjnej starostwa powiatowego (urzędu miasta na prawach powiatu) właściwej w sprawach obywatelskich.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Członkowie komisji, o których mowa w ust. 2 pkt 2 lit. b), biorą udział w posiedzeniach powiatowej komisji poborowej w dniach rozpatrywania podań poborowych z danej gminy o odroczenie służby wojskowej oraz rozpatrywania wniosków tych poborowych o skierowanie do służby zastępczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_19/ust_4",
+     "text": "W wypadku gdy na obszarze powiatu (miasta na prawach powiatu) zostanie powołana więcej niż jedna powiatowa komisja poborowa, wojewoda może powołać na przewodniczącego komisji burmistrza (prezydenta miasta) albo jego przedstawiciela właściwego ze względu na siedzibę komisji, a na sekretarza — pracownika urzędu gminy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Powołując komisję w składzie określonym w § 19, uwzględnia się jednocześnie osoby, które w razie niemożności pełnienia funkcji przez przewodniczącego, członków lub sekretarza komisji, pełnią te funkcje zastępczo.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Wojewoda może powołać do zastępczego pełnienia funkcji przewodniczącego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_20/ust_2/pkt_1",
+       "text": "wojewódzkiej komisji poborowej — w szczególności kierownika komórki organizacyjnej urzędu wojewódzkiego właściwej w sprawach obywatelskich,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_20/ust_2/pkt_2",
+       "text": "powiatowej komisji poborowej — w szczególności kierownika komórki organizacyjnej starostwa powiatowego (urzędu miasta na prawach powiatu) właściwej w sprawach obywatelskich, a w wypadku, o którym mowa w § 19 ust. 4 — zastępcę burmistrza (prezydenta miasta) lub kierownika komórki organizacyjnej urzędu gminy właściwej w sprawach obywatelskich.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
    "text": "Tryb postępowania komisji poborowych"
   },
   {
-   "type": "ocr",
-   "text": "8 21. 1. Komisja poborowa rozpatruje sprawy poborowych, ubiegających się o odroczenie stużby wojskowej lub o skierowanie do służby zastępczej, na posiedzeniach."
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Komisja poborowa rozpatruje sprawy poborowych, ubiegających się o odroczenie służby wojskowej lub o skierowanie do służby zastępczej, na posiedzeniach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Posiedzenia powiatowej komisji poborowej odbywają się w terminach określonych w wojewódzkim planie poboru, z zastrzeżeniem ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_21/ust_3",
+     "text": "Przewodniczący powiatowej komisji poborowej może zwołać posiedzenie komisji w terminie dodatkowym, w celu rozpatrzenia wniosków złożonych w czasie poboru.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2. Posiedzenia powiatowej komisji poborowej odbywają się w terminach określonych w wojewódzkim planie poboru, z zastrzeżeniem ust. 3."
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Wojewódzkie i powiatowe komisje poborowe orzekają większością głosów. W razie równej liczby głosów decyduje głos przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Orzeczenia komisji, o których mowa w ust. 1, podpisuje ich przewodniczący, członkowie oraz sekretarz.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "3. Przewodniczący powiatowej komisji poborowej może zwołać posiedzenie komisji w terminie dodatkowym, w celu rozpatrzenia wniosków złożonych w czasie poboru."
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Orzeczenie wojewódzkiej komisji poborowej doręcza się poborowemu i wojskowemu komendantowi uzupełnień, a orzeczenie w sprawie skierowania poborowego do służby zastępczej — również dyrektorowi wojewódzkiego urzędu pracy.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "8 22. 1. Wojewódzkie i powiatowe komisje poborowe orzekają większością głosów. W razie równej liczby głosów decyduje głos przewodniczącego."
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Pracą komisji poborowej kieruje jej przewodniczący.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "Do przewodniczącego komisji należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_2/pkt_1",
+       "text": "przewodniczenie posiedzeniom komisji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_2/pkt_2",
+       "text": "reprezentowanie komisji na zewnątrz,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_24/ust_2/pkt_3",
+       "text": "organizowanie i nadzorowanie pracy członków komisji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_24/ust_2/pkt_4",
+       "text": "podejmowanie decyzji o wyłączeniu członka komisji,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_24/ust_2/pkt_5",
+       "text": "kierowanie do wojewody wniosków o odwołanie członka komisji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_24/ust_2/pkt_6",
+       "text": "formułowanie propozycji dotyczących orzeczeń komisji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_24/ust_2/pkt_7",
+       "text": "składanie sprawozdań z działalności komisji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_24/ust_3",
+     "text": "Do członków komisji poborowej należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_3/pkt_1",
+       "text": "analizowanie dokumentacji związanej z wnioskami o odroczenie służby wojskowej lub skierowanie do służby zastępczej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_3/pkt_2",
+       "text": "wyjaśnianie stanów faktycznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_24/ust_3/pkt_3",
+       "text": "referowanie spraw na polecenie przewodniczącego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_24/ust_3/pkt_4",
+       "text": "wyrażanie opinii i stanowisk w rozpatrywanych sprawach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_24/ust_4",
+     "text": "Do sekretarza należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_4/pkt_1",
+       "text": "prowadzenie dokumentacji związanej z orzecznictwem komisji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_4/pkt_2",
+       "text": "prowadzenie listy obecności osób biorących udział w pracach komisji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_24/ust_4/pkt_3",
+       "text": "sporządzanie sprawozdań z pracy komisji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_24/ust_4/pkt_4",
+       "text": "przekazywanie poborowym oraz właściwym wojskowym komendantom uzupełnień orzeczeń komisji, a w wypadku orzeczenia o skierowaniu poborowego do służby zastępczej — również dyrektorowi wojewódzkiego urzędu pracy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_24/ust_5",
+     "text": "Do sekretarza powiatowej komisji poborowej należy ponadto:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_5/pkt_1",
+       "text": "pełnienie stałego dyżuru w lokalu komisji w dniach, w których komisja poborowa nie odbywa posiedzeń,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_5/pkt_2",
+       "text": "przyjmowanie od poborowych, w czasie poboru, wniosków o odroczenie zasadniczej służby wojskowej albo o skierowanie do służby zastępczej.",
+       "children": []
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2. Orzeczenia komisji, o których mowa w ust. 1, podpisuje ich przewodniczący, członkowie oraz sekretarz."
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "Komisja poborowa prowadzi wykaz spraw, w którym odnotowuje się datę wpływu wniosku do komisji, podstawowe dane osobowe poborowego, przedmiot sprawy, datę wydania orzeczenia i sposób rozstrzygnięcia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Wykaz, o którym mowa w ust. 1, zakłada i prowadzi sekretarz komisji poborowej.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "8 23. Orzeczenie wojewódzkiej komisji poborowej doręcza się poborowemu i wojskowemu komendantowi uzupełnień, a orzeczenie w sprawie skierowania poborowego do służby zastępczej — również dyrektorowi wojewódzkiego urzędu pracy."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 24. 1. Pracą komisji poborowej kieruje jej przewodniczący."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Do przewodniczącego komisji należy:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) przewodniczenie posiedzeniom komisji,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) reprezentowanie komisji na zewnątrz,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) organizowanie i nadzorowanie pracy członków komisji,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) podejmowanie decyzji o wytączeniu cztonka komisji,"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "5) kierowanie do wojewody wniosków o odwołanie członka komisji,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) formutowanie propozycji dotyczących orzeczeń komisji,"
-  },
-  {
-   "type": "ocr",
-   "text": "7) składanie sprawozdań z dziatalności komisji."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Do członków komisji poborowej należy:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) analizowanie dokumentacji związanej z wnioskami o odroczenie służby wojskowej lub skierowanie do służby zastępczej,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) wyjaśnianie stanów faktycznych,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) referowanie spraw na polecenie przewodniczącego,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) wyrażanie opinii i stanowisk w rozpatrywanych sprawach."
-  },
-  {
-   "type": "ocr",
-   "text": "4. Do sekretarza należy:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) prowadzenie dokumentacji związanej z orzecznictwem komisji,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) prowadzenie listy obecności osób biorących udział w pracach komisji,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) sporządzanie sprawozdań z pracy komisji,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) przekazywanie poborowym oraz właściwym wojskowym komendantom uzupetnień orzeczeń komisji, a w wypadku orzeczenia o skierowaniu poborowego do służby zastępczej — również dyrektorowi wojewódzkiego urzędu pracy."
-  },
-  {
-   "type": "ocr",
-   "text": "5. Do sekretarza powiatowej komisji poborowej należy ponadto:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) petnienie stałego dyżuru w lokalu komisji w dniach, w których komisja poborowa nie odbywa posiedzeń,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) przyjmowanie od poborowych, w czasie poboru, wniosków o odroczenie zasadniczej służby wojskowej albo o skierowanie do służby zastępczej."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 25. 1. Komisja poborowa prowadzi wykaz spraw, w którym odnotowuje się datę wpływu wniosku do komisji, podstawowe dane osobowe poborowego, przedmiot sprawy, datę wydania orzeczenia i sposób rozstrzygnięcia."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Wykaz, o którym mowa w ust. 1, zakłada i prowadzi sekretarz komisji poborowej."
-  },
-  {
-   "type": "ocr",
-   "text": "Rozdział 6"
-  },
-  {
-   "type": "ocr",
+   "type": "heading",
+   "label": "Rozdział 6",
    "text": "Sprawozdawczość komisji lekarskich i komisji poborowych"
   },
   {
-   "type": "ocr",
-   "text": "§ 26. 1. Przewodniczący powiatowej komisji lekarskiej oraz powiatowej komisji poborowej przekazują sprawozdania z wyników prac tych komisji przewodni-"
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_26/ust_1",
+     "text": "Przewodniczący powiatowej komisji lekarskiej oraz powiatowej komisji poborowej przekazują sprawozdania z wyników prac tych komisji przewodniczącym komisji wojewódzkich w / terminie 14 dni od zakończenia poboru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "Wzór sprawozdania z wyników pracy komisji lekarskiej stanowi załącznik nr 2, a wzór sprawozdania z wyników pracy komisji poborowej — załącznik nr 3 do rozporządzenia.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "czącym komisji wojewódzkich w / terminie 14 dni od zakończenia poboru."
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "Przewodniczący właściwych komisji wojewódzkich przesyłają ministrowi właściwemu do spraw wewnętrznych zbiorcze sprawozdania z terenu województwa według wzorów, o których mowa w § 26 ust. 2, w terminie miesiąca od zakończenia poboru na terenie województwa.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "2. Wzór sprawozdania z wyników pracy komisji lekarskiej stanowi załącznik nr 2, a wzór sprawozdania z wyników pracy komisji poborowej — załącznik nr 3 do rozporządzenia."
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Dane zawarte w sprawozdaniach, o których mowa w § 26 ust. 2 i § 27, są informacjami niejawnymi, stanowiącymi tajemnicę służbową.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "8 27. Przewodniczący właściwych komisji wojewódzkich przesyłają ministrowi właściwemu do spraw wewnętrznych zbiorcze sprawozdania z terenu województwa według wzorów, o których mowa w $ 26 ust. 2, w terminie miesiąca od zakończenia poboru na terenie województwa."
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "Przewodniczący wojewódzkich komisji lekarskich i wojewódzkich komisji poborowych przesyłają ministrowi właściwemu do spraw wewnętrznych, nie później niż do dnia ogłoszenia nowego poboru, sprawozdania wediug wzorów, o których mowa w § 26 ust. 2, dotyczące działalności powiatowych komisji poza wojewódzkim planem poboru. Przepis § 28 stosuje się odpowiednio.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "8 28. Dane zawarte w sprawozdaniach, o których mowa w $ 26 ust. 2 i 8 27, są informacjami niejawnymi, stanowiącymi tajemnicę służbową."
-  },
-  {
-   "type": "ocr",
-   "text": "8 29. Przewodniczący wojewódzkich komisji lekarskich i wojewódzkich komisji poborowych przesyłają ministrowi właściwemu do spraw wewnętrznych, nie później niż do dnia ogłoszenia nowego poboru, sprawozdania wediug wzorów, o których mowa w 8 26 ust. 2, dotyczące działalności powiatowych komisji poza wojewódzkim planem poboru. Przepis $ 28 stosuje się odpowiednio."
-  },
-  {
-   "type": "ocr",
-   "text": "Rozdział 7"
-  },
-  {
-   "type": "ocr",
+   "type": "heading",
+   "label": "Rozdział 7",
    "text": "Wynagradzanie za udział w pracach komisji lekarskich, komisji poborowych oraz średniego personelu medycznego i personelu pomocniczego"
   },
   {
-   "type": "ocr",
-   "text": "§ 30. 1. Osobom wchodzącym w skład komisji przysługuje dodatkowe wynagrodzenie, którego podstawę obliczania stanowi przeciętne wynagrodzenie za kwartat poprzedzający wypłatę wynagrodzenia, ogłaszane przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie przepisów ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Spotecznych."
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_30/ust_1",
+     "text": "Osobom wchodzącym w skład komisji przysługuje dodatkowe wynagrodzenie, którego podstawę obliczania stanowi przeciętne wynagrodzenie za kwartał poprzedzający wypłatę wynagrodzenia, ogłaszane przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie przepisów ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_30/ust_2",
+     "text": "Wynagrodzenie, o którym mowa w ust. 1, wynosi za każdy dzień pracy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_30/ust_2/pkt_1",
+       "text": "dla przewodniczącego komisji lekarskiej — 3,0%,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_30/ust_2/pkt_2",
+       "text": "dla lekarza — członka komisji lekarskiej oraz sekretarza tej komisji — 2,5%,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_30/ust_2/pkt_3",
+       "text": "dla średniego personelu medycznego — 2,0%,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_30/ust_2/pkt_4",
+       "text": "dla przewodniczącego komisji poborowej — 2,5%,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_30/ust_2/pkt_5",
+       "text": "dla członka komisji poborowej oraz sekretarza tej komisji — 2,0%",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "podstawy obliczania."
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2. Wynagrodzenie, o którym mowa w ust. 1, wynosi za każdy dzień pracy:"
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "Osobom zatrudnionym przez starostę (prezydenta miasta na prawach powiatu), na podstawie przepisów rozporządzenia Ministrów Spraw Wewnętrznych i Administracji oraz Obrony Narodowej w spra-",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "wie przygotowania i przeprowadzenia poboru, do prac związanych z wprowadzaniem danych do ewidencji wojskowej i wypełnianiem książeczek wojskowych oraz do prowadzenia zajęć świetlicowych przysługuje wynagrodzenie według stawek przewidzianych dla referentów z wykształceniem średnim, określonych w przepisach o wynagradzaniu pracowników samorządowych."
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) dla przewodniczącego komisji lekarskiej — 3,0%,"
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "Osoby wchodzące w skład komisji, zamieszkałe i zatrudnione poza miejscowością, w której działa komisja, otrzymują diety i inne należności przysługujące pracownikom z tytułu podróży służbowych na obszarze kraju, określone w odrębnych przepisach.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "2) dla lekarza — członka komisji lekarskiej oraz sekretarza tej komisji — 2,5%,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) dla średniego personelu medycznego — 2,0%,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) dla przewodniczącego komisji poborowej — 2,5%,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) dla członka komisji poborowej oraz sekretarza tej komisji — 2,0%"
-  },
-  {
-   "type": "ocr",
-   "text": "podstawy obliczania."
-  },
-  {
-   "type": "ocr",
-   "text": "$ 31. Osobom zatrudnionym przez starostę (prezydenta miasta na prawach powiatu), na podstawie przepisów rozporządzenia Ministrów Spraw Wewnetrznych i Administracji oraz Obrony Narodowej w spra-"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "wie przygotowania i przeprowadzenia poboru, do prac związanych z wprowadzaniem danych do ewidencji wojskowej i wypetnianiem książeczek wojskowych oraz do prowadzenia zajęć świetlicowych przysługuje wynagrodzenie według stawek przewidzianych dla referentów z wykształceniem średnim, określonych w przepisach o wynagradzaniu pracowników samorządowych."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 32. Osoby wchodzące w skład komisji, zamieszkate i zatrudnione poza miejscowością, w której dziata komisja, otrzymują diety i inne należności przystugujące pracownikom z tytułu podróży służbowych na obszarze kraju, określone w odrębnych przepisach."
-  },
-  {
-   "type": "ocr",
-   "text": "Rozdział 8"
-  },
-  {
-   "type": "ocr",
+   "type": "heading",
+   "label": "Rozdział 8",
    "text": "Przepisy końcowe"
   },
   {
-   "type": "ocr",
-   "text": "8 33. Traci moc rozporządzenie Rady Ministrów z dnia 5 czerwca 1992 r. w sprawie komisji lekarskich i komisji poborowych, wynagradzania za udział w ich pracy oraz odpłatności za badania specjalistyczne (Dz. U. z 1998 r. Nr 64, poz. 415)."
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "Traci moc rozporządzenie Rady Ministrów z dnia 5 czerwca 1992 r. w sprawie komisji lekarskich i komisji poborowych, wynagradzania za udział w ich pracy oraz odpłatności za badania specjalistyczne (Dz. U. z 1998 r. Nr 64, poz. 415).",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "§ 34. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
+   "type": "signature",
    "text": "Prezes Rady Ministrów: J. Buzek"
-  },
-  {
-   "type": "ocr",
-   "text": "Załączniki do rozporządzenia Rady Ministrów z dnia 6 marca 2000 r. (poz. 205)."
-  },
-  {
-   "type": "ocr",
-   "text": "Załącznik nr 1"
-  },
-  {
-   "type": "ocr",
-   "text": "Wzór"
-  },
-  {
-   "type": "ocr",
-   "text": "Strona 1"
-  },
-  {
-   "type": "ocr",
-   "text": "(pieczęć nagłówkowa)"
-  },
-  {
-   "type": "ocr",
-   "text": "KARTA SKIEROWANIA na badania specjalistyczne (obserwację szpitalną)*"
-  },
-  {
-   "type": "ocr",
-   "text": "Na podstawie § 12 ust. 3 rozporządzenia Rady Ministrów z dnia 6 marca 2000 r. w sprawie komisji lekarskich i komisji poborowych oraz wynagradzania za udział w ich pracy (Dz. U. Nr 16, poz. 205) kieruję"
-  },
-  {
-   "type": "ocr",
-   "text": "* Niepotrzebne skreślić."
-  },
-  {
-   "type": "ocr",
-   "text": "Strona 2"
-  },
-  {
-   "type": "ocr",
-   "text": "(data i podpis przewodniczącego komisji lekarskiej)"
-  },
-  {
-   "type": "ocr",
-   "text": "Rozpoznanie lekarskie"
-  },
-  {
-   "type": "ocr",
-   "text": "(podpis i pieczęć)"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "Załącznik nr 2 Wzór"
-  },
-  {
-   "type": "ocr",
-   "text": "SPRAWOZDANIE Z WYNIKÓW PRACY KOMISJI LEKARSKIEJ"
-  },
-  {
-   "type": "ocr",
-   "text": "NA TERENIE .....cssctsssesesetsesseeserstereneses"
-  },
-  {
-   "type": "ocr",
-   "text": "PE Rocznik Roczniki"
-  },
-  {
-   "type": "ocr",
-   "text": "A"
-  },
-  {
-   "type": "ocr",
-   "text": "1 A. Wpisano do list B. Dopisano po sporządzeniu list C. Skreślono po sporządzeniu list D. Ostatecznie figuruje w listach 2"
-  },
-  {
-   "type": "ocr",
-   "text": "3 4"
-  },
-  {
-   "type": "ocr",
-   "text": "Nie stawito się — nie usprawiedliwieni Nie stawiło się — usprawiedliwieni"
-  },
-  {
-   "type": "ocr",
-   "text": "a) zakład karny"
-  },
-  {
-   "type": "ocr",
-   "text": "b) zakład lecznictwa zamkniętego"
-  },
-  {
-   "type": "ocr",
-   "text": "c) inne przyczyny"
-  },
-  {
-   "type": "ocr",
-   "text": "1) skierowano na badania dodatkowe"
-  },
-  {
-   "type": "ocr",
-   "text": "2) nie powróciło z badań"
-  },
-  {
-   "type": "ocr",
-   "text": "1) uznano za zdolnych (kat. A)"
-  },
-  {
-   "type": "ocr",
-   "text": "2) uznano za niezdolnych:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) w czasie pokoju (kat. D)"
-  },
-  {
-   "type": "ocr",
-   "text": "b) trwale (kat. E)"
-  },
-  {
-   "type": "ocr",
-   "text": "3) uznano za czasowo niezdolnych (kat. B) 7 1) pominięto przy sporządzaniu listy Przyczyny | 2) przybyli po sporządzeniu listy dopisania | 3) wykazani dodatkowo przez WKU do list 4) zgłosili się samorzutnie po raz pierwszy"
-  },
-  {
-   "type": "ocr",
-   "text": "8 Przyczyny"
-  },
-  {
-   "type": "ocr",
-   "text": "1) stawali przed inną powiatową komisją lekarską"
-  },
-  {
-   "type": "ocr",
-   "text": "2) na podstawie zawiadomienia WKU"
-  },
-  {
-   "type": "ocr",
-   "text": "3) błędy przy sporządzaniu listy skreślenia z list"
-  },
-  {
-   "type": "ocr",
-   "text": "Uznano za niezdolnych Wyszczególnienie Uznano za zdolnych Uznano za czasowo kat. A niezdolnych (kat. B (kat. A) (kat. D) (kat. E) iezdolnych (kat. B) e PE [0 nome |"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "Załącznik nr 3 Wzór SPRAWOZDANIE Z WYNIKÓW PRACY KOMISJI POBOROWEJ NA TERENIE ...........-.1-1211-12. A. Zestawienie dotyczące liczby odroczeń służby wojskowej z tytutu sprawowania opieki nad członkiem rodziny | Wyszczególnienie Liczba wniesionych podań Liczba udzielonych odroczeń Rocznik podstawowy Roczniki starsze"
-  },
-  {
-   "type": "ocr",
-   "text": "B.Żestawienie dotyczące liczby poborowych ubiegających się i skierowanych do stużby zastępczej Liczba złożonych w tym z powodów: wniosków ; y p ,"
-  },
-  {
-   "type": "ocr",
-   "text": "Wyszczególnienie"
-  },
-  {
-   "type": "ocr",
-   "text": "Rocznik podstawowy Roczniki starsze"
-  },
-  {
-   "type": "ocr",
-   "text": "(przewodniczący komisji poborowej)"
   }
  ],
- "annexes": [],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Rady Ministrów z dnia 6 marca 2000 r. (poz. 205). Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wzór"
+    },
+    {
+     "type": "text",
+     "text": "Strona 1"
+    },
+    {
+     "type": "text",
+     "text": "(pieczęć nagłówkowa)"
+    },
+    {
+     "type": "text",
+     "text": "KARTA SKIEROWANIA na badania specjalistyczne (obserwację szpitalną)*"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie § 12 ust. 3 rozporządzenia Rady Ministrów z dnia 6 marca 2000 r. w sprawie komisji lekarskich i komisji poborowych oraz wynagradzania za udział w ich pracy (Dz. U. Nr 16, poz. 205) kieruję"
+    },
+    {
+     "type": "text",
+     "text": "* Niepotrzebne skreślić."
+    },
+    {
+     "type": "text",
+     "text": "Strona 2"
+    },
+    {
+     "type": "text",
+     "text": "(data i podpis przewodniczącego komisji lekarskiej)"
+    },
+    {
+     "type": "text",
+     "text": "Rozpoznanie lekarskie"
+    },
+    {
+     "type": "text",
+     "text": "(podpis i pieczęć)"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 2 Wzór"
+    },
+    {
+     "type": "text",
+     "text": "SPRAWOZDANIE Z WYNIKÓW PRACY KOMISJI LEKARSKIEJ"
+    },
+    {
+     "type": "text",
+     "text": "NA TERENIE .....cssctsssesesetsesseeserstereneses"
+    },
+    {
+     "type": "text",
+     "text": "PE Rocznik Roczniki"
+    },
+    {
+     "type": "text",
+     "text": "A"
+    },
+    {
+     "type": "text",
+     "text": "1 A. Wpisano do list B. Dopisano po sporządzeniu list C. Skreślono po sporządzeniu list D. Ostatecznie figuruje w listach 2"
+    },
+    {
+     "type": "text",
+     "text": "3 4"
+    },
+    {
+     "type": "text",
+     "text": "Nie stawito się — nie usprawiedliwieni Nie stawiło się — usprawiedliwieni"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "zakład karny",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "zakład lecznictwa zamkniętego",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "inne przyczyny",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "skierowano na badania dodatkowe",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "nie powróciło z badań",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "uznano za zdolnych (kat. A)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "uznano za niezdolnych:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_2/lit_a",
+       "text": "w czasie pokoju (kat. D)",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_2/lit_b",
+       "text": "trwale (kat. E)",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "uznano za czasowo niezdolnych (kat. B) 7 1) pominięto przy sporządzaniu listy Przyczyny | 2) przybyli po sporządzeniu listy dopisania | 3) wykazani dodatkowo przez WKU do list 4) zgłosili się samorzutnie po raz pierwszy",
+     "children": [
+      {
+       "type": "text",
+       "text": "8 Przyczyny"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "stawali przed inną powiatową komisją lekarską",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "na podstawie zawiadomienia WKU",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "błędy przy sporządzaniu listy skreślenia z list",
+     "children": [
+      {
+       "type": "text",
+       "text": "Uznano za niezdolnych Wyszczególnienie Uznano za zdolnych Uznano za czasowo kat. A niezdolnych (kat. B (kat. A) (kat. D) (kat. E) iezdolnych (kat. B) e PE [0 nome |"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Załącznik nr 3 Wzór SPRAWOZDANIE Z WYNIKÓW PRACY KOMISJI POBOROWEJ NA TERENIE ...........-.1-1211-12. A. Zestawienie dotyczące liczby odroczeń służby wojskowej z tytułu sprawowania opieki nad członkiem rodziny | Wyszczególnienie Liczba wniesionych podań Liczba udzielonych odroczeń Rocznik podstawowy Roczniki starsze"
+      },
+      {
+       "type": "text",
+       "text": "B.Żestawienie dotyczące liczby poborowych ubiegających się i skierowanych do służby zastępczej Liczba złożonych w tym z powodów: wniosków ; y p ,"
+      },
+      {
+       "type": "text",
+       "text": "Wyszczególnienie"
+      },
+      {
+       "type": "text",
+       "text": "Rocznik podstawowy Roczniki starsze"
+      },
+      {
+       "type": "text",
+       "text": "(przewodniczący komisji poborowej)"
+      }
+     ]
+    }
+   ]
+  }
+ ],
  "footnotes": {}
 }

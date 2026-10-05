@@ -1,80 +1,133 @@
 {
  "eli": "DU/2000/84",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 27 stycznia 2000 r. zmieniające rozporządzenie w sprawie specjalizacji lekarzy i lekarzy stomatologów.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/84/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA ZDROWIA"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 27 stycznia 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "zmieniające rozporządzenie w sprawie specjalizacji lekarzy i lekarzy stomatologów."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 16 ust. 2 ustawy z dnia 5 grudnia 1996 r. o zawodzie lekarza (Dz. U. z 1997 r. Nr 28, poz. 152 i Nr 88, poz. 554, z 1998 r. Nr 106, poz. 668 i Nr 162, poz. 1115 oraz z 1999 r. Nr 60, poz. 636 i Nr 64, poz. 729) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "8 1. W rozporządzeniu Ministra Zdrowia i Opieki Społecznej z dnia 25 marca 1999 r. w sprawie specjalizacji lekarzy i lekarzy stomatologów (Dz. U. Nr 31, poz. 302 i Nr 61, poz. 676) wprowadza się następujące zmiany:"
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Ministra Zdrowia i Opieki Społecznej z dnia 25 marca 1999 r. w sprawie specjalizacji lekarzy i lekarzy stomatologów (Dz. U. Nr 31, poz. 302 i Nr 61, poz. 676) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 11 ust. 1 i 2 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Postępowanie kwalifikacyjne obejmuje:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) ocenę formalną wniosku o rozpoczęcie specjalizacji oraz rozmowę z wnioskodawcą albo",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) ocenę formalną wniosku o rozpoczęcie specjalizacji oraz postępowanie konkursowe, jeżeli specjalizacja ma być odbywana w ramach rezydentury albo gdy liczba wnioskodawców o przystąpienie do specjalizacji w inny sposób niż rezydentura przekracza liczbę ustalonych miejsc szkoleniowych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Postępowanie konkursowe obejmuje:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) w przypadku gdy lekarz występuje o rozpoczęcie specjalizacji w podstawowych dziedzinach medycyny:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) rozmowę kwalifikacyjną oraz egzamin testowy w przypadku, gdy lekarz składający wniosek o rozpoczęcie specjalizacji ukończył tylko roczny staż podyplomowy lub praktykę przygotowawczą lekarsko-dentystyczną albo gdy okres od daty złożenia przez lekarza państwowego egzaminu kończącego staż podyplomowy jest dłuższy niż 5 lat,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) rozmowę kwalifikacyjną uwzględniającą wynik państwowego egzaminu kończącego staż podyplomowy w przypadku, gdy lekarz składa wniosek o rozpoczęcie specjalizacji w okresie krótszym niż 5 lat od daty złożenia tego egzaminu,",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "c) rozmowę kwalifikacyjną, uwzględniającą:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— wynik egzaminu w zakresie specjalizacji | stopnia — w przypadku gdy wniosek składa lekarz posiadający | stopień odpowiedniej specjalizacji, albo",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— wynik egzaminu w zakresie specjalizacji Il stopnia — w przypadku gdy wniosek składa lekarz, o którym mowa w § 30 ust. 1 pkt 2,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a liczba wnioskodawców o przystąpienie do specjalizacji w podstawowej dziedzinie medycyny w inny sposób niż rezydentura przekracza ustaloną liczbę miejsc szkoleniowych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w przypadku gdy lekarz występuje o rozpoczęcie specjalizacji w szczegółowych dziena nach sora kastowy © kwalifikacyj- ‘",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "skreśla się § 32,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 37 w ust. 2 wyrazy „31 stycznia 2000 r.” zastepuje się wyrazami „29 lutego 2000 r.”",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) w 8 11 ust. 1 i 2 otrzymują brzmienie:"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "„1. Postępowanie kwalifikacyjne obejmuje:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) ocenę formalną wniosku o rozpoczęcie specjalizacji oraz rozmowę z wnioskodawcą albo"
-  },
-  {
-   "type": "ocr",
-   "text": "2) ocenę formalną wniosku o rozpoczęcie specjalizacji oraz postępowanie konkursowe, jeżeli specjalizacja ma być odbywana w ramach rezydentury albo gdy liczba wnioskodawców o przystąpienie do specjalizacji"
-  },
-  {
-   "type": "ocr",
-   "text": "w inny sposób niż rezydentura przekracza liczbę ustalonych miejsc szkoleniowych."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Postępowanie konkursowe obejmuje:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) w przypadku gdy lekarz występuje o rozpoczęcie specjalizacji w podstawowych dziedzinach medycyny:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) rozmowę kwalifikacyjną oraz egzamin testowy w przypadku, gdy lekarz składający wniosek o rozpoczęcie specjalizacji ukończył tylko roczny staż podyplomowy lub praktykę przygotowawczą lekarsko-dentystyczną albo gdy okres od daty złożenia przez lekarza państwowego egzaminu kończącego staż podyplomowy jest dłuższy niż 5 lat,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) rozmowę kwalifikacyjną uwzględniającą wynik państwowego egzaminu kończącego staż podyplomowy w przypadku, gdy lekarz składa wniosek o rozpoczęcie specjalizacji w okresie krótszym niż 5 lat od daty złożenia tego egzaminu,"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 2 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "c) rozmowę kwalifikacyjną, uwzględniającą: 2) w przypadku gdy lekarz występuje o rozpo- — wynik egzaminu w zakresie specjaliza- częcie specjalizacji w szczegółowych dziecji | stopnia — w przypadku gdy wnio- na nach sora kastowy © kwalifikacyjsek sktada lekarz posiadający | stopień ‘ odpowiedniej specjalizacji, albo 2) skreśla się $ 32, — wynik egzaminu w zakresie specjalizacji Il stopnia — w przypadku gdy wniosek składa lekarz, o którym mowa w $ 30 ust. 1 pkt 2, § 2. Rozporządzenie wchodzi w życie z dniem ogtoa liczba wnioskodawców o przystąpienie do szenia. specjalizacji w podstawowej dziedzinie medycyny w inny sposób niż rezydentura przekracza ustaloną liczbę miejsc szkoleniowych, Minister Zdrowia: w z. M. Piróg"
-  },
-  {
-   "type": "ocr",
-   "text": "3) w $ 37 w ust. 2 wyrazy „31 stycznia 2000 r.” zastepuje się wyrazami „29 lutego 2000 r.”"
+   "type": "signature",
+   "text": "Minister Zdrowia: w z. M. Piróg"
   }
  ],
  "annexes": [],

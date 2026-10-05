@@ -1,119 +1,212 @@
 {
  "eli": "DU/2000/785",
  "title": "Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 6 lipca 2000 r. w sprawie sposobu sponsorowania audycji lub innych przekazów.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/785/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE KRAJOWEJ RADY RADIOFONII I TELEWIZJI"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 6 lipca 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "w sprawie sposobu sponsorowania audycji lub innych przekazów."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "Na podstawie art. 17 ust. 8 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 1993 r. Nr 7, poz. 34, z 1995 r. Nr 66, poz. 335 i Nr 142, poz. 701, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 90, poz. 999 oraz z 2000 r. Nr 29, poz. 356 i 358) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "§ 1. Sponsor audycji nie może być wskazany w czasie trwania audycji, z zastrzeżeniem przepisów 8 3 ust. 3 i 8 4 ust. 1."
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Sponsor audycji nie może być wskazany w czasie trwania audycji, z zastrzeżeniem przepisów 8 3 ust. 3 i § 4 ust. 1.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "8 2. 1. Jednorazowe wskazanie sponsora może być emitowane nie dłużej niż 8 sekund w przypadku jednego sponsora, 15 sekund — w przypadku dwóch sponsorów i 25 sekund — w innych przypadkach."
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Jednorazowe wskazanie sponsora może być emitowane nie dłużej niż 8 sekund w przypadku jednego sponsora, 15 sekund — w przypadku dwóch sponsorów i 25 sekund — w innych przypadkach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Wskazanie sponsora może być zawarte w zapowiedzi audycji. Zapowiedź audycji ze wskazaniem sponsora może być rozpowszechniana wyłącznie przed pierwszym nadaniem tej audycji przez nadawcę, nie więcej niż 15 razy w programie telewizyjnym i nie więcej niż 25 razy w programie radiowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Wskazanie sponsora w zapowiedzi audycji może być rozpowszechniane także przed ponownym nadaniem danej audycji, jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_3/pkt_1",
+       "text": "audycja byta nadawana poprzednio wyłącznie jako audycja niesponsorowana lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_3/pkt_2",
+       "text": "ponowne nadanie tej samej audycji przez nadawcę następuje na podstawie innej umowy ze sponsorem niż ta, na podstawie której nadawca nadał tę audycję jako audycję sponsorowang po raz ostatni, a od tej chwili upłynął jeden rok.",
+       "children": []
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2. Wskazanie sponsora może być zawarte w zapowiedzi audycji. Zapowiedź audycji ze wskazaniem sponsora może być rozpowszechniana wyłącznie przed pierwszym nadaniem tej audycji przez nadawcę, nie więcej niż 15 razy w programie telewizyjnym i nie więcej niż 25 razy w programie radiowym."
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W przypadku sponsorowania audycji lub innego przekazu przez udostępnienie towarów lub usług wykorzystywanych przy ich tworzeniu, informacje o pochodzeniu towarów lub usług mogą być podawane wyłącznie po zakończeniu audycji lub innego przekazu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Do podawania informacji, o których mowa w ust. 1, stosuje się odpowiednio przepis § 2 ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "W przypadku sponsorowania audycji lub innego przekazu przez udostępnienie usług polegających na pomiarze czasu lub przetwarzaniu danych, wskazania sponsora mogą być emitowane wyłącznie jednocześnie z prezentacją wyniku, czasu lub przetwarzanych danych w zakresie uzasadnionym celowością prezentacji tych informacji. Wskazanie sponsora nie może trwać dłużej niż 8 sekund i zajmować więcej niż 1/16 ekranu odbiornika telewizyjnego.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "3. Wskazanie sponsora w zapowiedzi audycji może być rozpowszechniane także przed ponownym nadaniem danej audycji, jeżeli:"
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "W przypadku sponsorowania audycji lub innego przekazu przez udostępnienie nagród dla uczestników konkursu, gry lub innej formy współzawodnictwa, dopuszcza się dwukrotne wskazanie sponsora, który udostępnił nagrody, oraz wskazanie nazwy towaru lub usługi stanowiącej nagrodę w czasie trwania audycji lub innego przekazu. Przepis 8 2 ust. 1 stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Nagrodami, o których mowa w ust. 1, nie mogą być towary lub usługi, których reklama jest zakazana.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) audycja byta nadawana poprzednio wyłącznie jako audycja niesponsorowana lub"
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Nadawca prowadzi ewidencję sponsorowanych audycji lub innych przekazów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Ewidencja sponsorowanych audycji lub innych przekazów powinna zawierać następujące dane:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "tytuł audycji lub oznaczenie innego przekazu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "gatunek audycji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "datę emisji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_2/pkt_4",
+       "text": "godzinę rozpoczęcia emisji i czas trwania audycji lub innego przekazu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_2/pkt_5",
+       "text": "nazwę sponsora oraz przedmiot jego zasadniczej działalności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_2/pkt_6",
+       "text": "liczbę emisji zapowiedzi audycji, zawierających wskazanie sponsora, z podaniem daty i godziny emisji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Nadawca przechowuje ewidencję, o której mowa w ust. 1, przez okres jednego roku od zakończenia roku kalendarzowego, w którym audycja lub inny przekaz zostały rozpowszechnione.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2) ponowne nadanie tej samej audycji przez nadawcę następuje na podstawie innej umowy ze sponsorem niż ta, na podstawie której nadawca nadał tę audycję jako audycję sponsorowang po raz ostatni, a od tej chwili upłynął jeden rok."
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "§ 3. 1. W przypadku sponsorowania audycji lub innego przekazu przez udostępnienie towarów lub usług wykorzystywanych przy ich tworzeniu, informacje o pochodzeniu towarów lub usług mogą być podawane wyłącznie po zakończeniu audycji lub innego przekazu."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Do podawania informacji, o których mowa w ust. 1, stosuje się odpowiednio przepis $ 2 ust. 1."
-  },
-  {
-   "type": "ocr",
-   "text": "3. W przypadku sponsorowania audycji lub innego przekazu przez udostępnienie usług polegających na pomiarze czasu lub przetwarzaniu danych, wskazania sponsora mogą być emitowane wyłącznie jednocześnie z prezentacją wyniku, czasu lub przetwarzanych"
-  },
-  {
-   "type": "ocr",
-   "text": "danych w zakresie uzasadnionym celowością prezentacji tych informacji. Wskazanie sponsora nie może trwać dłużej niż 8 sekund i zajmować więcej niż 1/16 ekranu odbiornika telewizyjnego."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 4. 1. W przypadku sponsorowania audycji lub innego przekazu przez udostępnienie nagród dla uczestników konkursu, gry lub innej formy współzawodnictwa, dopuszcza się dwukrotne wskazanie sponsora, który udostępnił nagrody, oraz wskazanie nazwy towaru lub usługi stanowiącej nagrodę w czasie trwania audycji lub innego przekazu. Przepis 8 2 ust. 1 stosuje sie odpowiednio."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Nagrodami, o których mowa w ust. 1, nie mogą być towary lub usługi, których reklama jest zakazana."
-  },
-  {
-   "type": "ocr",
-   "text": "8 5. 1. Nadawca prowadzi ewidencję sponsorowanych audycji lub innych przekazów."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Ewidencja sponsorowanych audycji lub innych przekazów powinna zawierać następujące dane:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) tytuł audycji lub oznaczenie innego przekazu,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) gatunek audycji,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) datę emisji,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) godzinę rozpoczęcia emisji i czas trwania audycji lub innego przekazu,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) nazwę sponsora oraz przedmiot jego zasadniczej działalności,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) liczbę emisji zapowiedzi audycji, zawierających wskazanie sponsora, z podaniem daty i godziny emisji."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Nadawca przechowuje ewidencję, o której mowa w ust. 1, przez okres jednego roku od zakończenia roku kalendarzowego, w którym audycja lub inny przekaz zostały rozpowszechnione."
-  },
-  {
-   "type": "ocr",
-   "text": "8 6. Rozporządzenie wchodzi w życie z dniem ogłoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Przewodniczący Krajowej Rady Radiofonii i Telewizji: J. Braun"
   }
  ],

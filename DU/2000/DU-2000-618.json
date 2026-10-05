@@ -1,43 +1,47 @@
 {
  "eli": "DU/2000/618",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 czerwca 2000 r. zmieniające rozporządzenie w sprawie wzorcowego regulaminu strzelnic.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/618/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 15 czerwca 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "zmieniające rozporządzenie w sprawie wzorcowego regulaminu strzelnic. Na podstawie art. 46 ust. 3 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. Nr 53, poz. 549) zarządza się, co następuje:"
   },
   {
-   "type": "ocr",
-   "text": "$ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 15 marca 2000 r. w sprawie wzorcowego regulaminu strzelnic (Dz. U. Nr 18, poz. 234) w $ 2 pkt 2 otrzymuje brzmienie:"
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 15 marca 2000 r. w sprawie wzorcowego regulaminu strzelnic (Dz. U. Nr 18, poz. 234) w § 2 pkt 2 otrzymuje brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„2) prowadzący strzelanie — osobę, która odbyła przeszkolenie w zakresie prowadzenia strzelania oraz udzielania pomocy medycznej w jednostkach organizacyjnych Policji, Sit Zbrojnych Rzeczypospolitej Polskiej, Polskiego Związku Strzelectwa Sportowego, Ligi Obrony Kraju iub Polskiego Związku Łowieckiego.”",
+     "quoted": true
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "„2) prowadzący strzelanie — osobę, która odbyła przeszkolenie w zakresie prowadzenia strzela-"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "nia oraz udzielania pomocy medycznej w jednostkach organizacyjnych Policji, Sit Zbrojnych Rzeczypospolitej Polskiej, Polskiego Związku Strzelectwa Sportowego, Ligi Obrony Kraju iub Polskiego Związku Łowieckiego.”"
-  },
-  {
-   "type": "ocr",
-   "text": "§ 2. Rozporządzenie wchodzi w życie z dniem ogtoszenia."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Minister Spraw Wewnętrznych i Administracji: M. Biernacki"
   }
  ],

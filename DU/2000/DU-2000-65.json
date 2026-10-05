@@ -1,532 +1,855 @@
 {
  "eli": "DU/2000/65",
  "title": "Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 19 stycznia 2000 r. w sprawie nadania statutu Polskiej Organizacji Turystycznej.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/65/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
-   "text": "Rozdział 2"
-  },
-  {
-   "type": "ocr",
+   "type": "heading",
+   "label": "Rozdział 2",
    "text": "Cel, zadania, sposób ich realizacji oraz szczegółowy zakres działania POT"
   },
   {
-   "type": "ocr",
-   "text": "§ 5. 1. Celem POT jest promocja oraz tworzenie pozytywnego wizerunku Polski w dziedzinie turystyki w kraju i za granicą oraz tworzenie warunków współpracy organów administracji rządowej, samorządu terytorialnego i organizacji zrzeszających przedsiębiorców z dziedziny turystyki, w tym samorządu gospodarczego i zawodowego, a także stowarzyszeń działających w tej dziedzinie."
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Celem POT jest promocja oraz tworzenie pozytywnego wizerunku Polski w dziedzinie turystyki w kraju i za granicą oraz tworzenie warunków współpracy organów administracji rządowej, samorządu terytorialnego i organizacji zrzeszających przedsiębiorców z dziedziny turystyki, w tym samorządu gospodarczego i zawodowego, a także stowarzyszeń działających w tej dziedzinie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Zadaniami POT są w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "zapewnienie funkcjonowania i rozwijania polskiego systemu informacji turystycznej w kraju i na świecie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "inicjowanie, opiniowanie, wspomaganie planów i wieloletnich programów rozwoju oraz modernizacji infrastruktury turystycznej, zwłaszcza pod kątem podniesienia jakości usług turystycznych i rozwoju produktów turystycznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "stwarzanie instytucjonalnych warunków współpracy podmiotów, o których mowa w ust. 1, w zakresie ich działań na rzecz promocji Polski w dziedzinie turystyki w kraju i za granicą, w tym inspirowanie tworzenia regionalnych i lokalnych organizacji turystycznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_2/pkt_4",
+       "text": "wykonywanie innych zadań powierzonych przez organy i jednostki, o których mowa w art. 3 ust. 2 pkt 1 i 2 ustawy, na podstawie umów zawieranych przez POT z tymi organami i jednostkami.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Cele i zadania POT realizowane są przez:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_3/pkt_1",
+       "text": "przygotowywanie i publikowanie materiałów promocyjnych oraz organizowanie stoisk narodowych na targach turystycznych, wystaw, pokazów, kongresów i seminariów, jak również upowszechnianie wiedzy o Polsce jako kraju atrakcyjnym turystycznie, w szczególności za pośrednictwem POIT,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_3/pkt_2",
+       "text": "przeprowadzanie analiz statystycznych i marketingowych, ekspertyz i studiów prognostycznych z zakresu turystyki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_3/pkt_3",
+       "text": "inicjowanie oraz wspieranie organizacyjne działań podejmowanych przez właściwe organy administracji rządowej i państwowe jednostki organizacyjne, jednostki samorządu terytorialnego oraz organizacje zrzeszające przedsiębiorców z dziedziny turystyki na rzecz rozwoju i modernizacji infrastruktury turystycznej pod kątem podniesienia jakości usług turystycznych i rozwoju produktów turystycznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_3/pkt_4",
+       "text": "zapewnienie funkcjonowania i rozwijania polskiego systemu informacji turystycznej w kraju i na świecie oraz wspomaganie prac nad utworzeniem i rozwojem systemu rezerwacji usług turystycznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_3/pkt_5",
+       "text": "wyrażanie opinii w przedmiocie strategicznych z punktu widzenia interesów Polski planów przygotowywanych przez właściwego ministra, jednostki samorządu terytorialnego oraz organizacje zrzeszające przedsiębiorców z dziedziny turystyki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_3/pkt_6",
+       "text": "inspirowanie tworzenia regionalnych i lokalnych organizacji turystycznych, o których mowa w art. 4 ustawy.",
+       "children": []
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2. Zadaniami POT są w szczególności:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) zapewnienie funkcjonowania i rozwijania polskiego systemu informacji turystycznej w kraju i na świecie,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) inicjowanie, opiniowanie, wspomaganie planów i wieloletnich programów rozwoju oraz modernizacji infrastruktury turystycznej, zwłaszcza pod kątem podniesienia jakości usług turystycznych i rozwoju produktów turystycznych,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) stwarzanie instytucjonalnych warunków współpracy podmiotów, o których mowa w ust. 1, w zakresie ich działań na rzecz promocji Polski w dziedzinie turystyki w kraju i za granicą, w tym inspirowanie tworzenia regionalnych i lokalnych organizacji turystycznych,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) wykonywanie innych zadań powierzonych przez organy i jednostki, o których mowa w art. 3 ust. 2 pkt 1 i 2 ustawy, na podstawie umów zawieranych przez POT z tymi organami i jednostkami."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Cele i zadania POT realizowane są przez:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) przygotowywanie i publikowanie materiałów promocyjnych oraz organizowanie stoisk narodowych na targach turystycznych, wystaw, pokazów, kongresów i seminariów, jak również upowszechnianie wiedzy o Polsce jako kraju atrakcyjnym turystycznie, w szczególności za pośrednictwem POIT,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) przeprowadzanie analiz statystycznych i marketingowych, ekspertyz i studiów prognostycznych z zakresu turystyki,"
-  },
-  {
-   "type": "ocr",
-   "text": "3) inicjowanie oraz wspieranie organizacyjne działań podejmowanych przez właściwe organy administracji rządowej i państwowe jednostki organizacyjne, jednostki samorządu terytorialnego oraz organizacje zrzeszające przedsiębiorców z dziedziny turystyki na rzecz rozwoju i modernizacji infrastruktury turystycznej pod kątem podniesienia jakości usług turystycznych i rozwoju produktów turystycznych,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) zapewnienie funkcjonowania i rozwijania polskiego systemu informacji turystycznej w kraju i na świecie oraz wspomaganie prac nad utworzeniem i rozwojem systemu rezerwacji ustug turystycznych,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) wyrażanie opinii w przedmiocie strategicznych z punktu widzenia interesów Polski planów przygotowywanych przez właściwego ministra, jednostki samorządu terytorialnego oraz organizacje zrzeszające przedsiębiorców z dziedziny turystyki,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) inspirowanie tworzenia regionalnych i lokalnych organizacji turystycznych, o których mowa wart. 4 ustawy."
-  },
-  {
-   "type": "ocr",
-   "text": "Rozdział 3"
-  },
-  {
-   "type": "ocr",
+   "type": "heading",
+   "label": "Rozdział 3",
    "text": "Organy POT"
   },
   {
-   "type": "ocr",
-   "text": "§ 6. Organami POT są:"
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Organami POT są:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "Rada POT, zwana dalej „Radą”,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "Prezes POT, zwany dalej „Prezesem”.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Rada POT"
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) Rada POT, zwana dalej „Radą”,"
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Kadencja Rady trwa trzy lata.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Pierwszą kadencję Rady liczy się od dnia powołania pierwszego składu Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Kadencja Rady kończy się z upływem okresu wskazanego w ust. 1, niezależnie od dnia powołania poszczególnych jej członków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Rada pełni swoje funkcje do dnia powołania nowego składu Rady.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2) Prezes POT, zwany dalej „Prezesem”."
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Rada wykonuje swoje czynności kolegialnie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Członkowie Rady wykonują swoje prawa i obowiązki osobiście i nie mogą ustanawiać pełnomocników.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Rada uchwala swój regulamin bezwzględną większością głosów statutowego składu.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "Rada POT"
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Właściwy minister zwołuje, otwiera i przewodniczy pierwszemu posiedzeniu nowo wybranej Rady do chwiłi wyboru jej Przewodniczącego.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "8 7. 1. Kadencja Rady trwa trzy lata."
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Wyboru Przewodniczącego Rady, zastępcy Przewodniczącego oraz Sekretarza Rady dokonuje Rada spośród członków Rady w głosowaniu tajnym, bezwzględną większością głosów członków Rady obecnych na posiedzeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Rada może odwołać z pełnionej funkcji Przewodniczącego, zastępcę Przewodniczącego i Sekretarza Rady w głosowaniu tajnym, bezwzględną większością głosów członków Rady obecnych na posiedzeniu.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2. Pierwszą kadencję Rady liczy się od dnia powotania pierwszego sktadu Rady."
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Posiedzenia Rady odbywają się w razie potrzeby, nie rzadziej jednak niż raz na kwartał.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Posiedzenia zwołuje Przewodniczący Rady. W razie niemożliwości zwołania posiedzenia przez Przewodniczącego, posiedzenie Rady zwołuje zastępca Przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Posiedzenie Rady zwołuje się także na pisemny wniosek przynajmniej trzech członków Rady lub Prezesa, złożony na ręce Przewodniczącego Rady lub zastępcy Przewodniczącego. Wniosek powinien zawierać proponowany porządek obrad.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_11/ust_4",
+     "text": "Posiedzenie, o którym mowa w ust. 3, powinno odbyć się najpóźniej w ciągu 21 dni od daty zgłoszenia wniosku Przewodniczącemu Rady lub zastępcy Przewodniczącego.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_11/ust_5",
+     "text": "Posiedzeniu Rady przewodniczy Przewodniczący bądź osoba przez niego wskazana.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_11/ust_6",
+     "text": "Z ważnych przyczyn planowe posiedzenie Rady może być odwołane po uprzednim powiadomieniu członków Rady co najmniej na 7 dni przed datą planowanego posiedzenia.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "3. Kadencja Rady kończy się z upływem okresu wskazanego w ust. 1, niezależnie od dnia powołania poszczególnych jej członków."
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Zawiadomienie o posiedzeniu Rady powinno być przesłane członkom Rady listem poleconym lub za pomocą faksu albo dostarczone osobiście członkowi Rady co najmniej na 14 dni przed terminem posiedzenia Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Z ważnych powodów termin, o którym mowa w ust. 1, może ulec skróceniu, nie może być jednak krótszy niż 7 dni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Zawiadomienie powinno określać termin, miejsce posiedzenia oraz porządek obrad.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_12/ust_4",
+     "text": "Rada może odbyć posiedzenie bez formalnego zwołania, jeżeli wszyscy członkowie Rady są obecni i nikt nie wnosi sprzeciwu.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "4. Rada pełni swoje funkcje do dnia powołania nowego składu Rady."
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Rada podejmuje decyzje na posiedzeniu w formie uchwał.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Uchwały Rady zapadają zwykłą większością głosów przy obecności co najmniej potowy składu Rady. W razie równej liczby głosów — decyduje głos Przewodniczącego Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "W przedmiocie nie objętym porządkiem obrad uchwały powziąć nie można, chyba że obecni są wszyscy członkowie Rady i nikt nie wniesie sprzeciwu.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "§ 8. 1. Rada wykonuje swoje czynności kolegialnie."
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Głosowanie jest jawne, z zastrzeżeniem ust. 2—4 oraz § 12.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Głosowanie tajne zarządza się w sprawach opiniowania kandydatów na stanowiska:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_2/pkt_1",
+       "text": "Prezesa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_2/pkt_2",
+       "text": "wiceprezesów POT.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_14/ust_3",
+     "text": "Tajne głosowanie zarządza się również w sprawie wyrażania opinii o odwołaniu Prezesa i wiceprezesów POT.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_14/ust_4",
+     "text": "Tajne głosowanie zarządza się także na żądanie choćby jednego z obecnych członków Rady.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2. Członkowie Rady wykonują swoje prawa i obowiązki osobiście i nie mogą ustanawiać pełnomocników."
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "W posiedzeniach Rady ma prawo uczestniczyć Prezes lub wiceprezesi oraz osoby zaproszone przez Przewodniczącego Rady.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "3. Rada uchwala swój regulamin bezwzględną większością głosów statutowego sktadu."
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Z posiedzeń Rady sporządza się protokół, który podpisują Przewodniczący Rady oraz Sekretarz Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Protokół powinien zawierać w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_2/pkt_1",
+       "text": "datę i miejsce odbycia posiedzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_2/pkt_2",
+       "text": "listę obecnych członków Rady (imiona i nazwiska),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_16/ust_2/pkt_3",
+       "text": "listę innych osób uczestniczących w posiedzeniu (imiona i nazwiska),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_16/ust_2/pkt_4",
+       "text": "stwierdzenie przez Przewodniczącego Rady prawidłowości zwołania posiedzenia Rady,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_16/ust_2/pkt_5",
+       "text": "przyjęty porządek obrad,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_16/ust_2/pkt_6",
+       "text": "przebieg obrad, wraz z treścią uchwał i liczbą oddanych głosów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_16/ust_2/pkt_7",
+       "text": "zdania odrębne zgłoszone do protokołu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Protokoły przechowuje się w Biurze Prezesa.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Prezes POT"
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "§ 9. Właściwy minister zwołuje, otwiera i przewodniczy pierwszemu posiedzeniu nowo wybranej Rady do chwiłi wyboru jej Przewodniczącego."
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Kadencja Prezesa trwa 4 lata.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Kadencja Prezesa upływa z dniem zatwierdzenia przez właściwego ministra rocznego sprawozdania finansowego za ostatni rok urzędowania Prezesa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Pierwsza kadencja Prezesa liczy się od dnia jego powołania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_17/ust_4",
+     "text": "Prezes pełni swoją funkcję do dnia powołania nowego Prezesa.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "8 10. 1. Wyboru Przewodniczącego Rady, zastępcy Przewodniczącego oraz Sekretarza Rady dokonuje Rada spośród członków Rady w głosowaniu tajnym, bezwzględną większością głosów członków Rady obecnych na posiedzeniu."
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Prezes kieruje POT oraz reprezentuje ją na zewnątrz.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "2. Rada może odwołać z pełnionej funkcji Przewodniczącego, zastępcę Przewodniczącego i Sekretarza Rady w głosowaniu tajnym, bezwzględną większością głosów członków Rady obecnych na posiedzeniu."
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Wiceprezesi POT działają w granicach umocowania udzielonego im przez Prezesa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Wiceprezesi POT sprawują nadzór nad wyznaczonymi przez Prezesa obszarami działalności i są uprawnieni do podejmowania w jego imieniu decyzji i zajmowania stanowiska — w zakresie wynikającym z udzielonego przez Prezesa umocowania.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "§ 11. 1. Posiedzenia Rady odbywają się w razie potrzeby, nie rzadziej jednak niż raz na kwartał."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Posiedzenia zwołuje Przewodniczący Rady. W razie niemożliwości zwołania posiedzenia przez Przewodniczącego, posiedzenie Rady zwołuje zastępca Przewodniczącego."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Posiedzenie Rady zwołuje się także na pisemny wniosek przynajmniej trzech członków Rady lub Prezesa, złożony na ręce Przewodniczącego Rady lub zastępcy Przewodniczącego. Wniosek powinien zawierać proponowany porządek obrad."
-  },
-  {
-   "type": "ocr",
-   "text": "4. Posiedzenie, o którym mowa w ust. 3, powinno odbyć się najpóźniej w ciągu 21 dni od daty zgłoszenia wniosku Przewodniczącemu Rady lub zastępcy Przewodniczącego."
-  },
-  {
-   "type": "note",
-   "text": "[Strona 2 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "5. Posiedzeniu Rady przewodniczy Przewodniczący bądź osoba przez niego wskazana."
-  },
-  {
-   "type": "ocr",
-   "text": "6. Z ważnych przyczyn planowe posiedzenie Rady może być odwołane po uprzednim powiadomieniu członków Rady co najmniej na 7 dni przed datą planowanego posiedzenia."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 12. 1. Zawiadomienie o posiedzeniu Rady powinno być przesłane członkom Rady listem poleconym lub za pomocą faksu albo dostarczone osobiście cztonkowi Rady co najmniej na 14 dni przed terminem posiedzenia Rady."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Z ważnych powodów termin, o którym mowa w ust. 1, może ulec skróceniu, nie może być jednak krótszy niż 7 dni."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Zawiadomienie powinno określać termin, miejsce posiedzenia oraz porządek obrad."
-  },
-  {
-   "type": "ocr",
-   "text": "4. Rada może odbyć posiedzenie bez formalnego zwołania, jeżeli wszyscy członkowie Rady są obecni i nikt nie wnosi sprzeciwu."
-  },
-  {
-   "type": "ocr",
-   "text": "8 13. 1. Rada podejmuje decyzje na posiedzeniu w formie uchwał."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Uchwały Rady zapadają zwykłą większością głosów przy obecności co najmniej potowy składu Rady. W razie równej liczby głosów — decyduje głos Przewodniczącego Rady."
-  },
-  {
-   "type": "ocr",
-   "text": "3. W przedmiocie nie objętym porządkiem obrad uchwały powziąć nie można, chyba że obecni są wszyscy członkowie Rady i nikt nie wniesie sprzeciwu."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 14. 1. Głosowanie jest jawne, z zastrzeżeniem ust. 2—4 oraz 8 12."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Głosowanie tajne zarządza sie w sprawach opiniowania kandydatów na stanowiska:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) Prezesa,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) wiceprezesów POT."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Tajne głosowanie zarządza się również w sprawie wyrażania opinii o odwołaniu Prezesa i wiceprezesów POT."
-  },
-  {
-   "type": "ocr",
-   "text": "4. Tajne głosowanie zarządza się także na żądanie choćby jednego z obecnych członków Rady."
-  },
-  {
-   "type": "ocr",
-   "text": "8 15. W posiedzeniach Rady ma prawo uczestniczyć Prezes lub wiceprezesi oraz osoby zaproszone przez Przewodniczącego Rady."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 16. 1. Z posiedzeń Rady sporządza się protokół, który podpisują Przewodniczący Rady oraz Sekretarz Rady."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Protokół powinien zawierać w szczególności:"
-  },
-  {
-   "type": "ocr",
-   "text": "1) datę i miejsce odbycia posiedzenia,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) listę obecnych członków Rady (imiona i nazwiska),"
-  },
-  {
-   "type": "ocr",
-   "text": "3) listę innych osób uczestniczących w posiedzeniu (imiona i nazwiska),"
-  },
-  {
-   "type": "ocr",
-   "text": "4) stwierdzenie przez Przewodniczącego Rady prawidłowości zwołania posiedzenia Rady,"
-  },
-  {
-   "type": "ocr",
-   "text": "5) przyjęty porządek obrad,"
-  },
-  {
-   "type": "ocr",
-   "text": "6) przebieg obrad, wraz z treścią uchwał i liczbą oddanych głosów,"
-  },
-  {
-   "type": "ocr",
-   "text": "7) zdania odrębne zgłoszone do protokołu."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Protokoły przechowuje się w Biurze Prezesa."
-  },
-  {
-   "type": "ocr",
-   "text": "Prezes POT"
-  },
-  {
-   "type": "ocr",
-   "text": "§ 17. 1. Kadencja Prezesa trwa 4 lata."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Kadencja Prezesa upływa z dniem zatwierdzenia przez właściwego ministra rocznego sprawozdania finansowego za ostatni rok urzędowania Prezesa."
-  },
-  {
-   "type": "ocr",
-   "text": "3. Pierwsza kadencja Prezesa liczy się od dnia jego powołania."
-  },
-  {
-   "type": "ocr",
-   "text": "4. Prezes petni swoją funkcję do dnia powołania nowego Prezesa."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 18. Prezes kieruje POT oraz reprezentuje ją na zewnatrz."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 19. 1. Wiceprezesi POT działają w granicach umocowania udzielonego im przez Prezesa."
-  },
-  {
-   "type": "ocr",
-   "text": "2. Wiceprezesi POT sprawują nadzór nad wyznaczonymi przez Prezesa obszarami działalności i są uprawnieni do podejmowania w jego imieniu decyzji i zajmowania stanowiska — w zakresie wynikającym z udzielonego przez Prezesa umocowania."
-  },
-  {
-   "type": "ocr",
-   "text": "Rozdział 4"
-  },
-  {
-   "type": "ocr",
+   "type": "heading",
+   "label": "Rozdział 4",
    "text": "Organizacja i zadania Biura Prezesa POT"
   },
   {
-   "type": "ocr",
-   "text": "§ 20. W skład Biura Prezesa wchodzą następujące komórki organizacyjne:"
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "W skład Biura Prezesa wchodzą następujące komórki organizacyjne:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_20/pkt_1",
+     "text": "Gabinet Prezesa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_20/pkt_2",
+     "text": "Dyrekcja Administracyjno-Budżetowa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_20/pkt_3",
+     "text": "Dyrekcja Marketingu i Promocji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_20/pkt_4",
+     "text": "Dyrekcja Współpracy Regionalnej.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) Gabinet Prezesa,"
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Prezes nadaje regulamin organizacyjny POT.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "2) Dyrekcja Administracyjno-Budżetowa,"
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Dyrekcjami oraz Gabinetem Prezesa kierują dyrektorzy.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "3) Dyrekcja Marketingu i Promocji,"
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Do zadań Biura Prezesa należy obstuga Prezesa i wiceprezesów w zakresie realizacji zadań wynikających z ustawy i niniejszego statutu.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "4) Dyrekcja Współpracy Regionalnej."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 21. Prezes nadaje regulamin organizacyjny POT."
-  },
-  {
-   "type": "ocr",
-   "text": "8 22. Dyrekcjami oraz Gabinetem Prezesa kierują dyrektorzy."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 23. Do zadań Biura Prezesa należy obstuga Prezesa i wiceprezesów w zakresie realizacji zadań wynikających z ustawy i niniejszego statutu."
-  },
-  {
-   "type": "ocr",
-   "text": "Rozdział 5"
-  },
-  {
-   "type": "ocr",
+   "type": "heading",
+   "label": "Rozdział 5",
    "text": "Polskie ośrodki informacji turystycznej za granicą"
   },
   {
-   "type": "ocr",
-   "text": "§ 24. 1. Jednostkami organizacyjnymi realizującymi zadania POT za granicą są w szczególności polskie ośrodki informacji turystycznej, zapewniające bezpośrednią realizację zadań POT za granicą, w zakresie określonym w statucie POIT."
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Jednostkami organizacyjnymi realizującymi zadania POT za granicą są w szczególności polskie ośrodki informacji turystycznej, zapewniające bezpośrednią realizację zadań POT za granicą, w zakresie określonym w statucie POIT.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "POIT jest samodzielnie bilansującą się jednostką organizacyjną POT i nie prowadzi działalności gospodarczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_24/ust_3",
+     "text": "Siedzibami POIT są:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_3/pkt_1",
+       "text": "Amsterdam (Niderlandy),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_3/pkt_2",
+       "text": "Bruksela (Belgia),",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_24/ust_3/pkt_3",
+       "text": "Nowy Jork (Stany Zjednoczone Ameryki),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_24/ust_3/pkt_4",
+       "text": "Berlin (Republika Federalna Niemiec),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_24/ust_3/pkt_5",
+       "text": "Sztokholm (Szwecja),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_24/ust_3/pkt_6",
+       "text": "Londyn (Wielka Brytania),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_24/ust_3/pkt_7",
+       "text": "Rzym (Włochy),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_24/ust_3/pkt_8",
+       "text": "Paryż (Francja) z filią w Madrycie (Hiszpania),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_24/ust_3/pkt_9",
+       "text": "Wiedeń (Austria) z filią w Budapeszcie (Węgry).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_24/ust_4",
+     "text": "Dyrektorów POIT powołuje i odwołuje Prezes.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_24/ust_5",
+     "text": "Prezes nadaje poszczególnym POIT statuty.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "2. POIT jest samodzielnie bilansującą się jednostką organizacyjną POT i nie prowadzi działalności gospodarczej."
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Działalność gospodarcza POT"
   },
   {
-   "type": "ocr",
-   "text": "3. Siedzibami POIT są:"
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "POT może prowadzić działalność gospodarczą w rozmiarach niezbędnych do realizacji jej zadań, a zakres tej działalności obejmuje w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_25/pkt_1",
+     "text": "działalność wydawniczą,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_25/pkt_2",
+     "text": "świadczenie usług:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_25/pkt_2/lit_a",
+       "text": "konsultingowych i doradczych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_25/pkt_2/lit_b",
+       "text": "szkoleniowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_25/pkt_2/lit_c",
+       "text": "informacyjnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_25/pkt_2/lit_d",
+       "text": "badania rynku i analiz gospodarczych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_25/pkt_2/lit_e",
+       "text": "reklamowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_25/pkt_2/lit_f",
+       "text": "wystawienniczych, w tym organizowanie imprez targowo-wystawienniczych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_25/pkt_2/lit_g",
+       "text": "w zakresie obsługi krajowych i zagranicznych misji gospodarczych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_25/pkt_2/lit_h",
+       "text": "w zakresie współpracy handlowej krajowej i zagranicznej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "par_25/pkt_2/lit_i",
+       "text": "informatycznych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "par_25/pkt_2/lit_j",
+       "text": "dystrybucji materiałów.",
+       "children": []
+      }
+     ]
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) Amsterdam (Niderlandy),"
-  },
-  {
-   "type": "ocr",
-   "text": "2) Bruksela (Belgia),"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "ocr",
-   "text": "3) Nowy Jork (Stany Zjednoczone Ameryki),"
-  },
-  {
-   "type": "ocr",
-   "text": "4) Berlin (Republika Federalna Niemiec),"
-  },
-  {
-   "type": "ocr",
-   "text": "5) Sztokholm (Szwecja),"
-  },
-  {
-   "type": "ocr",
-   "text": "6) Londyn (Wielka Brytania),"
-  },
-  {
-   "type": "ocr",
-   "text": "7) Rzym (Włochy),"
-  },
-  {
-   "type": "ocr",
-   "text": "8) Paryż (Francja) z filią w Madrycie (Hiszpania),"
-  },
-  {
-   "type": "ocr",
-   "text": "9) Wiedeń (Austria) z filią w Budapeszcie (Węgry)."
-  },
-  {
-   "type": "ocr",
-   "text": "4. Dyrektorów POIT powołuje i odwołuje Prezes."
-  },
-  {
-   "type": "ocr",
-   "text": "5. Prezes nadaje poszczególnym POIT statuty."
-  },
-  {
-   "type": "ocr",
-   "text": "Rozdział 6"
-  },
-  {
-   "type": "ocr",
-   "text": "Dziatalność gospodarcza POT"
-  },
-  {
-   "type": "ocr",
-   "text": "$ 25. POT może prowadzić działalność gospodarczą w rozmiarach niezbędnych do realizacji jej zadań, a zakres tej działalności obejmuje w szczególności:"
-  },
-  {
-   "type": "ocr",
-   "text": "Poz. 65, 66 i 67"
-  },
-  {
-   "type": "ocr",
-   "text": "1) dziatalność wydawniczą,"
-  },
-  {
-   "type": "ocr",
-   "text": "2) świadczenie usług:"
-  },
-  {
-   "type": "ocr",
-   "text": "a) konsultingowych i doradczych,"
-  },
-  {
-   "type": "ocr",
-   "text": "b) szkoleniowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "c) informacyjnych,"
-  },
-  {
-   "type": "ocr",
-   "text": "d) badania rynku i analiz gospodarczych,"
-  },
-  {
-   "type": "ocr",
-   "text": "e) reklamowych,"
-  },
-  {
-   "type": "ocr",
-   "text": "f) wystawienniczych, w tym organizowanie imprez targowo-wystawienniczych,"
-  },
-  {
-   "type": "ocr",
-   "text": "g) w zakresie obstugi krajowych i zagranicznych misji gospodarczych,"
-  },
-  {
-   "type": "ocr",
-   "text": "h) w zakresie współpracy handlowej krajowej i zagranicznej,"
-  },
-  {
-   "type": "ocr",
-   "text": "i) informatycznych,"
-  },
-  {
-   "type": "ocr",
-   "text": "j) dystrybucji materiałów."
-  },
-  {
-   "type": "ocr",
-   "text": "8 26. POT może tworzyć spółki prawa handlowego oraz nabywać udziały i akcje w takich spółkach."
-  },
-  {
-   "type": "ocr",
-   "text": "66"
-  },
-  {
-   "type": "ocr",
-   "text": "ROZPORZĄDZENIE MINISTRA ZDROWIA"
-  },
-  {
-   "type": "ocr",
-   "text": "z dnia 23 grudnia 1999 r."
-  },
-  {
-   "type": "ocr",
-   "text": "zmieniające rozporządzenie w sprawie trybu postępowania dotyczącego stwierdzania prawa wykonywania zawodu pielęgniarki i zawodu położnej oraz sposobu prowadzenia rejestru pielęgniarek i rejestru położnych."
-  },
-  {
-   "type": "ocr",
-   "text": "Na podstawie art. 24 ust. 4 i 5 ustawy z dnia 19 kwietnia 1991 r. o samorządzie pielęgniarek i potoznych (Dz. U. Nr 41, poz. 178, z 1996 r. Nr 24, poz. 110 i Nr 91, poz. 410 oraz z 1998 r. Nr 106, poz. 668) zarządza się, co następuje:"
-  },
-  {
-   "type": "ocr",
-   "text": "8 1. W rozporządzeniu Ministra Zdrowia i Opieki Społecznej z dnia 17 czerwca 1992 r. w sprawie trybu postępowania dotyczącego stwierdzania prawa wykonywania zawodu pielęgniarki i zawodu położnej oraz sposobu prowadzenia rejestru pielęgniarek i rejestru położnych (Dz. U. Nr 52, poz. 248 i z 1997 r. Nr 73, poz. 464) w 8 3 w ust. 2 pkt 2 otrzymuje brzmienie:"
-  },
-  {
-   "type": "ocr",
-   "text": "„2)dokument o uznaniu świadectwa ukończenia szkoły uzyskanego za granicą za równoważne z odpowiednim świadectwem ukończenia szkoły pielęgniarskiej lub potoznych, określonej w ustawie z dnia 5 lipca 1996 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 91, poz. 410 oraz z 1998 r. Nr 106, poz. 668 i Nr 162, poz. 1115).”"
-  },
-  {
-   "type": "ocr",
-   "text": "$ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
-  },
-  {
-   "type": "ocr",
-   "text": "Minister Zdrowia: F. Cegielska"
-  },
-  {
-   "type": "ocr",
-   "text": "67"
-  },
-  {
-   "type": "ocr",
-   "text": "WYROK TRYBUNAŁU KONSTYTUCYJNEGO"
-  },
-  {
-   "type": "ocr",
-   "text": "z dnia 18 stycznia 2000 r."
-  },
-  {
-   "type": "ocr",
-   "text": "sygn. akt K. 17/99."
-  },
-  {
-   "type": "ocr",
-   "text": "Trybunał Konstytucyjny w składzie: Jerzy Ciemniewski — przewodniczący, Zdzisław Czeszejko-Sochacki — sprawozdawca, Andrzej Mączyński, Ferdynand Rymarz,"
-  },
-  {
-   "type": "ocr",
-   "text": "Jadwiga Skórzewska-Łosiak, protokolant: Joanna Szymczak,"
-  },
-  {
-   "type": "ocr",
-   "text": "po rozpoznaniu na rozprawie w dniu 18 stycznia 2000 r. sprawy z wniosku Rzecznika Praw Obywatelskich, z udziałem umocowanych przedstawicieli"
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "POT może tworzyć spółki prawa handlowego oraz nabywać udziały i akcje w takich spółkach.",
+   "children": []
   }
  ],
  "annexes": [],

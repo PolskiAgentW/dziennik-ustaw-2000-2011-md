@@ -1,55 +1,71 @@
 {
  "eli": "DU/2000/606",
  "title": "Rozporządzenie Rady Ministrów z dnia 20 czerwca 2000 r. zmieniające rozporządzenie w sprawie ustanowienia kontyngentu taryfowego na przywóz kukurydzy pochodzącej z Republiki Węgierskiej.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/606/text.pdf",
  "body": [
   {
    "type": "note",
-   "text": "[Strona 1 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "z dnia 20 czerwca 2000 r."
   },
   {
-   "type": "ocr",
+   "type": "text",
    "text": "zmieniające rozporządzenie w sprawie ustanowienia kontyngentu taryfowego na przywóz kukurydzy pochodzącej z Republiki Węgierskiej."
   },
   {
-   "type": "ocr",
-   "text": "Na podstawie art. 14 8 3 pkt 2 i 8 4 ustawy z dnia 9 stycznia 1997 r. — Kodeks celny (Dz. U. Nr 23, poz. 117, Nr 64, poz. 407, Nr 121, poz. 770, Nr 157, poz. 1026 i Nr 160, poz. 1084, z 1998 r. Nr 106, poz. 668 i Nr 160, poz. 1063, z 1999 r. Nr 40, poz. 402 i Nr 72, poz. 802 oraz z 2000 r. Nr 22, poz. 269) zarzadza sie, co nastepuje:"
+   "type": "text",
+   "text": "Na podstawie art. 14 8 3 pkt 2 i § 4 ustawy z dnia 9 stycznia 1997 r. — Kodeks celny (Dz. U. Nr 23, poz. 117, Nr 64, poz. 407, Nr 121, poz. 770, Nr 157, poz. 1026 i Nr 160, poz. 1084, z 1998 r. Nr 106, poz. 668 i Nr 160, poz. 1063, z 1999 r. Nr 40, poz. 402 i Nr 72, poz. 802 oraz z 2000 r. Nr 22, poz. 269) zarzadza się, co nastepuje:"
   },
   {
-   "type": "ocr",
-   "text": "§ 1. W rozporządzeniu Rady Ministrów z dnia 18 stycznia 2000 r. w sprawie ustanowienia kontyngentu taryfowego na przywóz kukurydzy pochodzącej z Republiki Węgierskiej (Dz. U. Nr 3, poz. 32 i Nr 22, poz. 279) wprowadza się następujące zmiany:"
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Rady Ministrów z dnia 18 stycznia 2000 r. w sprawie ustanowienia kontyngentu taryfowego na przywóz kukurydzy pochodzącej z Republiki Węgierskiej (Dz. U. Nr 3, poz. 32 i Nr 22, poz. 279) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 4 w ust. 2 pkt 3 i 4 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3) lil kwartał — 37 500 ton,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) IV kwartał — 37 500 ton.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w załączniku do rozporządzenia w kolumnie „Ilość (w tonach)” liczbę „115 000” zastępuje się liczbą „140 000”.",
+     "children": []
+    }
+   ]
   },
   {
-   "type": "ocr",
-   "text": "1) w $ 4 w ust. 2 pkt 3 i 4 otrzymują brzmienie:"
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 lipca 2000 r.",
+   "children": []
   },
   {
-   "type": "ocr",
-   "text": "„3) lil kwartał — 37 500 ton,"
-  },
-  {
-   "type": "ocr",
-   "text": "4) IV kwartat — 37 500 ton.”;"
-  },
-  {
-   "type": "ocr",
-   "text": "2) w załączniku do rozporządzenia w kolumnie „Ilość (w tonach)” liczbę „115 000” zastępuje się liczbą „140 000”."
-  },
-  {
-   "type": "ocr",
-   "text": "§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2000 r."
-  },
-  {
-   "type": "ocr",
+   "type": "signature",
    "text": "Prezes Rady Ministrów: J. Buzek"
   }
  ],
