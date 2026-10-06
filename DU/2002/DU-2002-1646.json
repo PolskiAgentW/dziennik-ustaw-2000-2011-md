@@ -26,207 +26,210 @@
    "text": "Postanowienia ogólne"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 1. Dla celów stosowania niniejszego Porozumienia Administracyjnego:"
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "termin „Konwencja” oznacza Konwencję w sprawie zabezpieczenia społecznego między Rzecząpospolitą Polską a Wielkim Księstwem Luksemburga, podpisaną w Warszawie dnia 1 lipca 1996 r.;",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "termin „Porozumienie” oznacza niniejsze Porozumienie Administracyjne.",
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Paragraf 1. Dla celów stosowania niniejszego Porozumienia Administracyjnego:",
    "children": [
     {
-     "type": "text",
-     "text": "Paragraf 2. Inne terminy użyte w niniejszym Porozumieniu mają takie znaczenie, jakie zostało im nadane w artykule 1 Konwencji."
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "termin „Konwencja” oznacza Konwencję w sprawie zabezpieczenia społecznego między Rzecząpospolitą Polską a Wielkim Księstwem Luksemburga, podpisaną w Warszawie dnia 1 lipca 1996 r.;",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 2"
-    },
-    {
-     "type": "text",
-     "text": "Paragraf 1. Dla celów stosowania Konwencji instytucje łącznikowe wyznaczone w artykule 39 Konwencji mogą kontaktować się bezpośrednio między sobą, jak również z osobami zainteresowanymi lub ich pełnomocnikami."
-    },
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "termin „Porozumienie” oznacza niniejsze Porozumienie Administracyjne.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Paragraf 2. Inne terminy użyte w niniejszym Porozumieniu mają takie znaczenie, jakie zostało im nadane w artykule 1 Konwencji."
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Paragraf 1. Dla celów stosowania Konwencji instytucje łącznikowe wyznaczone w artykule 39 Konwencji mogą kontaktować się bezpośrednio między sobą, jak również z osobami zainteresowanymi lub ich pełnomocnikami.",
+   "children": [
     {
      "type": "text",
      "text": "Paragraf 2. Instytucje łącznikowe ustanawiają, za obopólną zgodą, wspólne procedury i formularze niezbędne dla stosowania Konwencji i niniejszego Porozumienia."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "W celu stosowania ustawodawstw wymienionych w paragrafie 1 artykułu 2 Konwencji wyznacza się jako instytucje właściwe:"
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "w przypadku Luksemburga:",
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "W celu stosowania ustawodawstw wymienionych w paragrafie 1 artykułu 2 Konwencji wyznacza się jako instytucje właściwe:",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "pkt_1/lit_a",
-     "text": "w zakresie ubezpieczenia na wypadek choroby i macierzyństwa:",
+     "type": "pkt",
+     "num": "1",
+     "path": "art_3/pkt_1",
+     "text": "w przypadku Luksemburga:",
      "children": [
       {
-       "type": "text",
-       "text": "L’union des caisses de maladie (Związek Kas Chorych),"
+       "type": "lit",
+       "num": "a",
+       "path": "art_3/pkt_1/lit_a",
+       "text": "w zakresie ubezpieczenia na wypadek choroby i macierzyństwa:",
+       "children": [
+        {
+         "type": "text",
+         "text": "L’union des caisses de maladie (Związek Kas Chorych),"
+        },
+        {
+         "type": "text",
+         "text": "Les caisses de maladie (Kasy Chorych),"
+        }
+       ]
       },
       {
-       "type": "text",
-       "text": "Les caisses de maladie (Kasy Chorych),"
-      }
-     ]
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "pkt_1/lit_b",
-     "text": "w zakresie wypadków przy pracy i chorób zawodowych:",
-     "children": [
-      {
-       "type": "text",
-       "text": "L’association d’assurance contre les accidents (Towarzystwo Ubezpieczeniowe Wypadkowe),"
-      }
-     ]
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "pkt_1/lit_c",
-     "text": "w zakresie świadczeń rodzinnych:",
-     "children": [
-      {
-       "type": "text",
-       "text": "La caisse nationale des prestations familiales (Krajowa Kasa Świadczeń Socjalnych),"
-      }
-     ]
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "pkt_1/lit_d",
-     "text": "w zakresie emerytur, rent inwalidzkich i rodzinnych:",
-     "children": [
-      {
-       "type": "text",
-       "text": "Les caisses de pension (Kasy emerytalno-rentowe),"
-      }
-     ]
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "pkt_1/lit_e",
-     "text": "w zakresie ustalania inwalidztwa:",
-     "children": [
-      {
-       "type": "text",
-       "text": "Le contrôle médical de sécurité sociale (Kontrola Medyczna Zabezpieczenia Społecznego),"
-      }
-     ]
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "pkt_1/lit_f",
-     "text": "w zakresie ubezpieczenia fakultatywnego kontynuowanego (artykuł 5 Konwencji):",
-     "children": [
-      {
-       "type": "text",
-       "text": "Le centre commun de la sécurité sociale (Centrum Powszechne Zabezpieczenia Społecznego),"
-      }
-     ]
-    },
-    {
-     "type": "lit",
-     "num": "g",
-     "path": "pkt_1/lit_g",
-     "text": "w zakresie określania ustawodawstwa właściwego (tytuł II Konwencji):",
-     "children": [
-      {
-       "type": "text",
-       "text": "instytucje wyznaczone pod literami a, b i c,"
+       "type": "lit",
+       "num": "b",
+       "path": "art_3/pkt_1/lit_b",
+       "text": "w zakresie wypadków przy pracy i chorób zawodowych:",
+       "children": [
+        {
+         "type": "text",
+         "text": "L’association d’assurance contre les accidents (Towarzystwo Ubezpieczeniowe Wypadkowe),"
+        }
+       ]
       },
       {
-       "type": "text",
-       "text": "L’administration de l’emploi (Administracja Zatrudnienia),"
+       "type": "lit",
+       "num": "c",
+       "path": "art_3/pkt_1/lit_c",
+       "text": "w zakresie świadczeń rodzinnych:",
+       "children": [
+        {
+         "type": "text",
+         "text": "La caisse nationale des prestations familiales (Krajowa Kasa Świadczeń Socjalnych),"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_3/pkt_1/lit_d",
+       "text": "w zakresie emerytur, rent inwalidzkich i rodzinnych:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Les caisses de pension (Kasy emerytalno-rentowe),"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_3/pkt_1/lit_e",
+       "text": "w zakresie ustalania inwalidztwa:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Le contrôle médical de sécurité sociale (Kontrola Medyczna Zabezpieczenia Społecznego),"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_3/pkt_1/lit_f",
+       "text": "w zakresie ubezpieczenia fakultatywnego kontynuowanego (artykuł 5 Konwencji):",
+       "children": [
+        {
+         "type": "text",
+         "text": "Le centre commun de la sécurité sociale (Centrum Powszechne Zabezpieczenia Społecznego),"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_3/pkt_1/lit_g",
+       "text": "w zakresie określania ustawodawstwa właściwego (tytuł II Konwencji):",
+       "children": [
+        {
+         "type": "text",
+         "text": "instytucje wyznaczone pod literami a, b i c,"
+        },
+        {
+         "type": "text",
+         "text": "L’administration de l’emploi (Administracja Zatrudnienia),"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_3/pkt_2",
+     "text": "w przypadku Polski:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_3/pkt_2/lit_a",
+       "text": "w zakresie świadczeń rzeczowych:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Kasy Chorych,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_3/pkt_2/lit_b",
+       "text": "w zakresie świadczeń pieniężnych w razie choroby i macierzyństwa, z tytułu wypadków przy pracy i chorób zawodowych oraz świadczeń rodzinnych, emerytur i rent, a także w celu stosowania artykułu 5 Konwencji:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Zakład Ubezpieczeń Społecznych — ZUS,"
+        },
+        {
+         "type": "text",
+         "text": "Kasa Rolniczego Ubezpieczenia Społecznego — KRUS,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_3/pkt_2/lit_c",
+       "text": "w zakresie stosowania tytułu II Konwencji:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Zakład Ubezpieczeń Społecznych — ZUS."
+        }
+       ]
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "w przypadku Polski:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "pkt_2/lit_a",
-     "text": "w zakresie świadczeń rzeczowych:",
-     "children": [
-      {
-       "type": "text",
-       "text": "Kasy Chorych,"
-      }
-     ]
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "pkt_2/lit_b",
-     "text": "w zakresie świadczeń pieniężnych w razie choroby i macierzyństwa, z tytułu wypadków przy pracy i chorób zawodowych oraz świadczeń rodzinnych, emerytur i rent, a także w celu stosowania artykułu 5 Konwencji:",
-     "children": [
-      {
-       "type": "text",
-       "text": "Zakład Ubezpieczeń Społecznych — ZUS,"
-      },
-      {
-       "type": "text",
-       "text": "Kasa Rolniczego Ubezpieczenia Społecznego — KRUS,"
-      }
-     ]
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "pkt_2/lit_c",
-     "text": "w zakresie stosowania tytułu II Konwencji:",
-     "children": [
-      {
-       "type": "text",
-       "text": "Zakład Ubezpieczeń Społecznych — ZUS."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 4"
-      },
-      {
-       "type": "text",
-       "text": "Dla celów stosowania artykułu 5 Konwencji instytucja właściwa Umawiającej się Strony, w której został złożony wniosek o przyjęcie do ubezpieczenia kontynuowanego, może zwrócić się, bezpośrednio lub za pośrednictwem instytucji łącznikowych, do właściwej instytucji drugiej Umawiającej się Strony, aby zażądać zaświadczenia o okresach ubezpieczenia przebytych pod działaniem ustawodawstwa tej Strony."
-      }
-     ]
-    }
-   ]
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Dla celów stosowania artykułu 5 Konwencji instytucja właściwa Umawiającej się Strony, w której został złożony wniosek o przyjęcie do ubezpieczenia kontynuowanego, może zwrócić się, bezpośrednio lub za pośrednictwem instytucji łącznikowych, do właściwej instytucji drugiej Umawiającej się Strony, aby zażądać zaświadczenia o okresach ubezpieczenia przebytych pod działaniem ustawodawstwa tej Strony.",
+   "children": [],
+   "label": "Artykuł 4"
   },
   {
    "type": "heading",
@@ -234,60 +237,61 @@
    "text": "Postanowienia określające ustawodawstwo właściwe"
   },
   {
-   "type": "text",
-   "text": "Artykuł 5"
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 1. W przypadkach wymienionych w artykule 9 litera a Konwencji instytucja Umawiającej się Strony, której ustawodawstwo ma zastosowanie, wydaje pracownikowi, na wniosek pracodawcy, zaświadczenie potwierdzające, że pozostaje on nadal pod działaniem tego ustawodawstwa."
-  },
-  {
-   "type": "text",
-   "text": "Zaświadczenie podaje okres oddelegowania i wymienia również członków rodziny, którzy towarzyszą pracownikowi."
-  },
-  {
-   "type": "text",
-   "text": "Zaświadczenie jest sporządzane:"
-  },
-  {
-   "type": "text",
-   "text": "jeśli ma zastosowanie ustawodawstwo polskie,"
-  },
-  {
-   "type": "text",
-   "text": "przez Zakład Ubezpieczeń Społecznych;"
-  },
-  {
-   "type": "text",
-   "text": "jeśli ma zastosowanie ustawodawstwo luksemburskie,"
-  },
-  {
-   "type": "text",
-   "text": "przez Le centre commun de la sécurité sociale (Centrum Powszechne Zabezpieczenia Społecznego)."
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 2. Instytucja wyznaczona w poprzednim paragrafie wydaje potwierdzony egzemplarz zaświadczenia pracownikowi i jego pracodawcy. Pracownicy zobowiązani są zachować zaświadczenie podczas pobytu na terytorium drugiej Umawiającej się Strony, aby okazać je, o ile to konieczne, instytucji właściwej tej Umawiającej się Strony."
-  },
-  {
-   "type": "text",
-   "text": "Instytucja Umawiającej się Strony, która wydaje zaświadczenie wymienione w paragrafie 1, przesyła jego kopię instytucji drugiej Umawiającej się Strony."
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 3. W przypadku wcześniejszego zakończenia początkowo przewidzianego okresu oddelegowania pracodawca zobowiązany jest poinformować o tym instytucję Umawiającej się Strony, na terytorium której pracownik jest oddelegowany, za pośrednictwem instytucji, która wydała zaświadczenie."
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 4. W przypadku przedłużenia zatrudnienia ponad okres dwunastu miesięcy, o zgodę przewidzianą w artykule 9 litera a Konwencji pracodawca zobowiązany jest wystąpić do instytucji Umawiającej się Strony, na terytorium której pracownik jest oddelegowany, przed datą wygaśnięcia okresu, na który początkowo udzielono zezwolenia."
-  },
-  {
-   "type": "text",
-   "text": "Zgoda ta udzielana jest na zaświadczeniu o przedłużeniu oddelegowania, które jest przekazywane pracownikowi, pracodawcy i instytucji drugiej Umawiającej się Strony."
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 5. Wnioski dotyczące wyjątków, o których mowa w artykule 10 Konwencji, należy składać do odpowiednich instytucji łącznikowych."
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Paragraf 1. W przypadkach wymienionych w artykule 9 litera a Konwencji instytucja Umawiającej się Strony, której ustawodawstwo ma zastosowanie, wydaje pracownikowi, na wniosek pracodawcy, zaświadczenie potwierdzające, że pozostaje on nadal pod działaniem tego ustawodawstwa.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Zaświadczenie podaje okres oddelegowania i wymienia również członków rodziny, którzy towarzyszą pracownikowi."
+    },
+    {
+     "type": "text",
+     "text": "Zaświadczenie jest sporządzane:"
+    },
+    {
+     "type": "text",
+     "text": "jeśli ma zastosowanie ustawodawstwo polskie,"
+    },
+    {
+     "type": "text",
+     "text": "przez Zakład Ubezpieczeń Społecznych;"
+    },
+    {
+     "type": "text",
+     "text": "jeśli ma zastosowanie ustawodawstwo luksemburskie,"
+    },
+    {
+     "type": "text",
+     "text": "przez Le centre commun de la sécurité sociale (Centrum Powszechne Zabezpieczenia Społecznego)."
+    },
+    {
+     "type": "text",
+     "text": "Paragraf 2. Instytucja wyznaczona w poprzednim paragrafie wydaje potwierdzony egzemplarz zaświadczenia pracownikowi i jego pracodawcy. Pracownicy zobowiązani są zachować zaświadczenie podczas pobytu na terytorium drugiej Umawiającej się Strony, aby okazać je, o ile to konieczne, instytucji właściwej tej Umawiającej się Strony."
+    },
+    {
+     "type": "text",
+     "text": "Instytucja Umawiającej się Strony, która wydaje zaświadczenie wymienione w paragrafie 1, przesyła jego kopię instytucji drugiej Umawiającej się Strony."
+    },
+    {
+     "type": "text",
+     "text": "Paragraf 3. W przypadku wcześniejszego zakończenia początkowo przewidzianego okresu oddelegowania pracodawca zobowiązany jest poinformować o tym instytucję Umawiającej się Strony, na terytorium której pracownik jest oddelegowany, za pośrednictwem instytucji, która wydała zaświadczenie."
+    },
+    {
+     "type": "text",
+     "text": "Paragraf 4. W przypadku przedłużenia zatrudnienia ponad okres dwunastu miesięcy, o zgodę przewidzianą w artykule 9 litera a Konwencji pracodawca zobowiązany jest wystąpić do instytucji Umawiającej się Strony, na terytorium której pracownik jest oddelegowany, przed datą wygaśnięcia okresu, na który początkowo udzielono zezwolenia."
+    },
+    {
+     "type": "text",
+     "text": "Zgoda ta udzielana jest na zaświadczeniu o przedłużeniu oddelegowania, które jest przekazywane pracownikowi, pracodawcy i instytucji drugiej Umawiającej się Strony."
+    },
+    {
+     "type": "text",
+     "text": "Paragraf 5. Wnioski dotyczące wyjątków, o których mowa w artykule 10 Konwencji, należy składać do odpowiednich instytucji łącznikowych."
+    }
+   ],
+   "label": "Artykuł 5"
   },
   {
    "type": "heading",
@@ -303,244 +307,255 @@
    "text": "Choroba, macierzyństwo i śmierć (zasiłek pogrzebowy)"
   },
   {
-   "type": "text",
-   "text": "Artykuł 6"
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Paragraf 1. W celu stosowania artykułu 11 Konwencji zainteresowana osoba zobowiązana jest do przedstawienia instytucji właściwej Umawiającej się Strony, na której terytorium się udała, zaświadczenia dotyczącego okresów przebytych na mocy ustawodawstwa drugiej Umawiającej się Strony przed datą swojego ostatniego przybycia na terytorium pierwszej Umawiającej się Strony.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Paragraf 2. Jeśli zainteresowana osoba nie przedstawi zaświadczenia, instytucja właściwa Umawiającej się Strony, na której terytorium się udała, zażąda od instytucji właściwej drugiej Umawiającej się Strony wystawienia i przesłania jej zaświadczenia."
+    }
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "text",
-   "text": "Paragraf 1. W celu stosowania artykułu 11 Konwencji zainteresowana osoba zobowiązana jest do przedstawienia instytucji właściwej Umawiającej się Strony, na której terytorium się udała, zaświadczenia dotyczącego okresów przebytych na mocy ustawodawstwa drugiej Umawiającej się Strony przed datą swojego ostatniego przybycia na terytorium pierwszej Umawiającej się Strony."
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "W celu skorzystania ze świadczeń rzeczowych na mocy paragrafu 1 artykułu 12 Konwencji zainteresowana osoba zobowiązana jest do przedłożenia instytucji miejsca pobytu zaświadczenia potwierdzającego, że ma prawo do tych świadczeń. Zaświadczenie to, wydane przez instytucję właściwą, o ile możliwe przed rozpoczęciem czasowego pobytu osoby zainteresowanej, podaje zwłaszcza długość okresu, podczas którego świadczenia te mogą być udzielane. Jeśli osoba zainteresowana nie przedstawi wymienionego zaświadczenia, instytucja miejsca pobytu zwraca się do instytucji właściwej w celu jego otrzymania.",
+   "children": [],
+   "label": "Artykuł 7"
   },
   {
-   "type": "text",
-   "text": "Paragraf 2. Jeśli zainteresowana osoba nie przedstawi zaświadczenia, instytucja właściwa Umawiającej się Strony, na której terytorium się udała, zażąda od instytucji właściwej drugiej Umawiającej się Strony wystawienia i przesłania jej zaświadczenia."
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Paragraf 1. W celu skorzystania ze świadczeń pieniężnych podczas pobytu czasowego na terytorium drugiej Umawiającej się Strony osoba zainteresowana zobowiązana jest do natychmiastowego zwrócenia się do instytucji miejsca pobytu, przedstawiając jej zaświadczenie o niezdolności do pracy wydane przez lekarza prowadzącego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "W ciągu trzech dni od daty przedłożenia przez osobę zainteresowaną instytucji miejsca pobytu zaświadczenia o niezdolności do pracy instytucja ta przystępuje do kontroli lekarskiej pracownika zgodnie z zasadami stosowanymi wobec własnych ubezpieczonych."
+    },
+    {
+     "type": "text",
+     "text": "Orzeczenie lekarza podające przewidywany okres niezdolności do pracy jest przesyłane przez instytucję miejsca pobytu instytucji właściwej w ciągu pięciu dni od daty kontroli."
+    },
+    {
+     "type": "text",
+     "text": "W ciągu ośmiu dni od otrzymania tego orzeczenia przez instytucję właściwą wspomniana instytucja informuje instytucję miejsca pobytu, czy osoba zainteresowana może korzystać ze świadczeń pieniężnych."
+    },
+    {
+     "type": "text",
+     "text": "Paragraf 2. Jeżeli lekarz stwierdzi, że osoba zainteresowana jest zdolna wznowić zatrudnienie, instytucja miejsca pobytu zawiadamia tę osobę o zakończeniu okresu jej niezdolności do pracy i przesyła bezzwłocznie kopię tego zawiadomienia instytucji właściwej. Jeśli chodzi o pracowników innych niż wymienieni w ustępie a artykułu 9 Konwencji, o ile lekarz stwierdzi, że ich stan zdrowia nie przeszkadza, aby powrócili do kraju właściwego, instytucja miejsca pobytu zawiadamia ich natychmiast o opinii lekarza i przesyła kopię tego zawiadomienia instytucji właściwej."
+    },
+    {
+     "type": "text",
+     "text": "Paragraf 3. Instytucja miejsca pobytu przystępuje do kontroli administracyjnej osoby zainteresowanej, tak jakby chodziło o jej własnego ubezpieczonego."
+    },
+    {
+     "type": "text",
+     "text": "Paragraf 4. Instytucja właściwa wypłaca bezpośrednio osobie zainteresowanej świadczenia pieniężne i zawiadamia o tym instytucję miejsca pobytu."
+    }
+   ],
+   "label": "Artykuł 8"
   },
   {
-   "type": "text",
-   "text": "Artykuł 7"
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "W celu skorzystania ze świadczeń rzeczowych zgodnie z paragrafem 1 artykułu 13 Konwencji członkowie rodziny zobowiązani są zgłosić się do instytucji ich miejsca zamieszkania, przedstawiając:",
+   "children": [
+    {
+     "type": "text",
+     "text": "— zaświadczenie wydane przez instytucję właściwą i potwierdzające istnienie prawa do świadczeń rzeczowych. Zaświadczenie to ważne jest dopóty, dopóki instytucja właściwa nie zawiadomi instytucji miejsca zamieszkania o jego anulowaniu;"
+    },
+    {
+     "type": "text",
+     "text": "— dokumenty dowodowe zwyczajowo wymagane przez ustawodawstwo kraju zamieszkania przy przyznawaniu świadczeń rzeczowych członkom rodziny."
+    },
+    {
+     "type": "text",
+     "text": "Instytucja miejsca zamieszkania informuje instytucję właściwą, czy członkowie rodziny mają lub nie prawo do świadczeń zgodnie ze stosowanym przez nią ustawodawstwem."
+    }
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "text",
-   "text": "W celu skorzystania ze świadczeń rzeczowych na mocy paragrafu 1 artykułu 12 Konwencji zainteresowana osoba zobowiązana jest do przedłożenia instytucji miejsca pobytu zaświadczenia potwierdzającego, że ma prawo do tych świadczeń. Zaświadczenie to, wydane przez instytucję właściwą, o ile możliwe przed rozpoczęciem czasowego pobytu osoby zainteresowanej, podaje zwłaszcza długość okresu, podczas którego świadczenia te mogą być udzielane. Jeśli osoba zainteresowana nie przedstawi wymienionego zaświadczenia, instytucja miejsca pobytu zwraca się do instytucji właściwej w celu jego otrzymania."
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Paragraf 1. Jeśli, w przypadkach wymienionych w paragrafie 2 artykułu 13 i paragrafie 3 artykułu 15 Konwencji, ustawodawstwo stosowane przez instytucję właściwą przewiduje maksymalny okres, za który przysługują świadczenia, to brany jest pod uwagę okres udzielania tych świadczeń bezpośrednio przed zmianą miejsca zamieszkania.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Paragraf 2. W celu stosowania paragrafu 1 instytucja właściwa zwraca się do instytucji ostatniego miejsca zamieszkania każdego członka rodziny i każdego emeryta lub rencisty, który przeniósł miejsce swego zamieszkania na terytorium kraju właściwego, o dostarczenie jej informacji dotyczących okresu udzielania świadczeń bezpośrednio przed tym przeniesieniem."
+    }
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "text",
-   "text": "Artykuł 8"
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Paragraf 1. W celu skorzystania ze świadczeń rzeczowych w kraju miejsca swego zamieszkania emeryt lub rencista wymieniony w paragrafie 2 artykułu 15 Konwencji zobowiązany jest do zgłoszenia się w instytucji miejsca zamieszkania, przedstawiając zaświadczenie, w którym instytucja właściwa poświadcza, że emeryt lub rencista ma prawo, dla siebie i dla członków swojej rodziny, zgodnie z ustawodawstwem Strony wypłacającej emeryturę lub rentę, do świadczeń rzeczowych. Instytucja, która wydała zaświadczenie, przekazuje jego kopię instytucji drugiej Umawiającej się Strony.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Paragraf 2. Instytucja miejsca zamieszkania zawiadamia instytucję, która wydała zaświadczenie przewidziane w paragrafie 1, o wszelkich dokonanych przez nią wpisach."
+    },
+    {
+     "type": "text",
+     "text": "Paragraf 3. Instytucja, która wydała zaświadczenie przewidziane w paragrafie 1, zawiadamia instytucję drugiej Umawiającej się Strony o ustaniu prawa do świadczeń rzeczowych emeryta lub rencisty i członków jego rodziny."
+    }
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "text",
-   "text": "Paragraf 1. W celu skorzystania ze świadczeń pieniężnych podczas pobytu czasowego na terytorium drugiej Umawiającej się Strony osoba zainteresowana zobowiązana jest do natychmiastowego zwrócenia się do instytucji miejsca pobytu, przedstawiając jej zaświadczenie o niezdolności do pracy wydane przez lekarza prowadzącego."
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "W celu stosowania artykułu 16 Konwencji zainteresowana osoba zobowiązana jest do udzielenia instytucji właściwej Umawiającej się Strony, pod działaniem ustawodawstwa której wnioskuje o przyznanie świadczeń rzeczowych, niezbędnych informacji dotyczących świadczeń rzeczowych przyznanych uprzednio na mocy ustawodawstwa drugiej Umawiającej się Strony. Jeśli instytucja właściwa uzna to za konieczne, może zwrócić się, bezpośrednio lub za pośrednictwem instytucji łącznikowych, do instytucji właściwej drugiej Umawiającej się Strony, aby zażądać informacji dotyczących świadczeń rzeczowych uprzednio przyznanych.",
+   "children": [],
+   "label": "Artykuł 12"
   },
   {
-   "type": "text",
-   "text": "W ciągu trzech dni od daty przedłożenia przez osobę zainteresowaną instytucji miejsca pobytu zaświadczenia o niezdolności do pracy instytucja ta przystępuje do kontroli lekarskiej pracownika zgodnie z zasadami stosowanymi wobec własnych ubezpieczonych."
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Paragraf 1. W celu skorzystania z zasiłku pogrzebowego zgodnie z ustawodawstwem Umawiającej się Strony wnioskodawca mieszkający na terytorium drugiej Umawiającej się Strony zobowiązany jest przesłać swój wniosek bądź do instytucji właściwej, bądź do instytucji miejsca zamieszkania.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Paragraf 2. Do wniosku należy dołączyć dokumenty dowodowe wymagane przez ustawodawstwo stosowane przez instytucję właściwą."
+    },
+    {
+     "type": "text",
+     "text": "Paragraf 3. Zgodność informacji podanych przez wnioskodawcę musi być ustalona na podstawie urzędowych dokumentów dołączonych do wniosku lub potwierdzona przez właściwe organy Umawiającej się Strony, na której terytorium zamieszkuje wnioskodawca."
+    },
+    {
+     "type": "text",
+     "text": "Rozdział drugi"
+    },
+    {
+     "type": "text",
+     "text": "Inwalidztwo, starość i śmierć (emerytury i renty)"
+    }
+   ],
+   "label": "Artykuł 13"
   },
   {
-   "type": "text",
-   "text": "Orzeczenie lekarza podające przewidywany okres niezdolności do pracy jest przesyłane przez instytucję miejsca pobytu instytucji właściwej w ciągu pięciu dni od daty kontroli."
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Paragraf 1. W celu skorzystania ze świadczeń zgodnie z postanowieniami rozdziału drugiego tytułu III Konwencji wnioskodawca zobowiązany jest do złożenia, na przewidzianym w tym celu formularzu, wniosku do instytucji właściwej miejsca zamieszkania na warunkach określonych przez ustawodawstwo kraju zamieszkania.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Paragraf 2. Jeśli, w chwili składania wniosku, żaden z okresów ubezpieczenia nie był przebyty pod działaniem ustawodawstwa Umawiającej się Strony, na której terytorium wnioskodawca zamieszkuje, wniosek należy złożyć do instytucji łącznikowej lub właściwej tej Strony, która prześle go bezzwłocznie do instytucji łącznikowej lub właściwej drugiej Umawiającej się Strony."
+    }
+   ],
+   "label": "Artykuł 14"
   },
   {
-   "type": "text",
-   "text": "W ciągu ośmiu dni od otrzymania tego orzeczenia przez instytucję właściwą wspomniana instytucja informuje instytucję miejsca pobytu, czy osoba zainteresowana może korzystać ze świadczeń pieniężnych."
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Paragraf 1. Instytucje właściwe obu Umawiających się Stron przesyłają sobie bezzwłocznie, bezpośrednio lub za pośrednictwem instytucji łącznikowych, na przewidzianym w tym celu formularzu, wnioski oraz dokumenty dowodowe i wszelkie dostępne dokumenty, które mogą być niezbędne dla rozpatrzenia wniosku. Każda instytucja właściwa przesyła również zaświadczenie potwierdzające okresy ubezpieczenia przebyte pod działaniem swojego ustawodawstwa instytucji właściwej drugiej Umawiającej się Strony.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Paragraf 2. Instytucja właściwa Umawiającej się Strony, do której został zgłoszony wniosek o świadczenia, sprawdza informacje dotyczące wnioskodawcy i członków jego rodziny."
+    },
+    {
+     "type": "text",
+     "text": "Paragraf 3. Formularz wymieniony w paragrafie 1, jak również stosowanie paragrafu 2 niniejszego artykułu zastępuje przesłanie odpowiednich dokumentów dowodowych."
+    }
+   ],
+   "label": "Artykuł 15"
   },
   {
-   "type": "text",
-   "text": "Paragraf 2. Jeżeli lekarz stwierdzi, że osoba zainteresowana jest zdolna wznowić zatrudnienie, instytucja miejsca pobytu zawiadamia tę osobę o zakończeniu okresu jej niezdolności do pracy i przesyła bezzwłocznie kopię tego zawiadomienia instytucji właściwej. Jeśli chodzi o pracowników innych niż wymienieni w ustępie a artykułu 9 Konwencji, o ile lekarz stwierdzi, że ich stan zdrowia nie przeszkadza, aby powrócili do kraju właściwego, instytucja miejsca pobytu zawiadamia ich natychmiast o opinii lekarza i przesyła kopię tego zawiadomienia instytucji właściwej."
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Każda instytucja właściwa ustala uprawnienia wnioskodawcy zgodnie z artykułem 21 Konwencji i zawiadamia zainteresowaną osobę o podjętej decyzji, wskazując środki i terminy odwoławcze, oraz przesyła jednocześnie kopię instytucji właściwej drugiej Umawiającej się Strony.",
+   "children": [],
+   "label": "Artykuł 16"
   },
   {
-   "type": "text",
-   "text": "Paragraf 3. Instytucja miejsca pobytu przystępuje do kontroli administracyjnej osoby zainteresowanej, tak jakby chodziło o jej własnego ubezpieczonego."
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Emerytury i renty obciążające instytucję jednej z Umawiających się Stron są wypłacane bezpośrednio świadczeniobiorcy mieszkającemu na terytorium drugiej Umawiającej się Strony w terminach płatności przewidzianych ustawodawstwem stosowanym przez tę instytucję. Wypłata dokonywana jest zgodnie z artykułem 34 Konwencji bez potrąceń kosztów administracyjnych, które mogłyby wyniknąć w związku z wypłatą tego świadczenia.",
+   "children": [],
+   "label": "Artykuł 17"
   },
   {
-   "type": "text",
-   "text": "Paragraf 4. Instytucja właściwa wypłaca bezpośrednio osobie zainteresowanej świadczenia pieniężne i zawiadamia o tym instytucję miejsca pobytu."
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Instytucje łącznikowe wymieniają co roku dane statystyczne dotyczące liczby wypłacanych świadczeń w drugiej Umawiającej się Stronie oraz wynikających stąd kwot.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Rozdział trzeci"
+    },
+    {
+     "type": "text",
+     "text": "Wypadki przy pracy i choroby zawodowe"
+    }
+   ],
+   "label": "Artykuł 18"
   },
   {
-   "type": "text",
-   "text": "Artykuł 9"
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Paragraf 1. Postanowienia niniejszego Porozumienia dotyczące świadczeń rzeczowych z ubezpieczenia na wypadek choroby mają zastosowanie przez analogię do udzielania świadczeń rzeczowych z ubezpieczenia w razie wypadków przy pracy i chorób zawodowych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Paragraf 2. Postanowienia niniejszego Porozumienia dotyczące świadczeń pieniężnych z ubezpieczenia na wypadek choroby mają zastosowanie przez analogię do wypłaty świadczeń pieniężnych z ubezpieczenia w razie wypadków przy pracy i chorób zawodowych, z wyjątkiem rent."
+    },
+    {
+     "type": "text",
+     "text": "Paragraf 3. Postanowienia artykułu 17 niniejszego Porozumienia dotyczące wypłaty emerytur i rent mają zastosowanie przez analogię do wypłaty świadczeń z tytułu wypadków przy pracy i chorób zawodowych."
+    }
+   ],
+   "label": "Artykuł 19"
   },
   {
-   "type": "text",
-   "text": "W celu skorzystania ze świadczeń rzeczowych zgodnie z paragrafem 1 artykułu 13 Konwencji członkowie rodziny zobowiązani są zgłosić się do instytucji ich miejsca zamieszkania, przedstawiając:"
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "Dla celów ustalania stopnia niezdolności do pracy w przypadkach, o których mowa w artykule 23 Konwencji, zainteresowana osoba jest zobowiązana do udzielenia instytucji właściwej Umawiającej się Strony, pod działaniem ustawodawstwa której nastąpił wypadek przy pracy lub choroba zawodowa, niezbędnych informacji dotyczących wypadków przy pracy lub chorób zawodowych, które nastąpiły uprzednio pod działaniem ustawodawstwa drugiej Umawiającej się Strony, niezależnie od stopnia niezdolności spowodowanej tymi przypadkami. Jeśli wspomniana instytucja uzna to za konieczne, może zwrócić się o udostępnienie dokumentów dotyczących tych przypadków do instytucji właściwej lub właściwych dla zapewnienia odszkodowania z ich tytułu.",
+   "children": [],
+   "label": "Artykuł 20"
   },
   {
-   "type": "text",
-   "text": "— zaświadczenie wydane przez instytucję właściwą i potwierdzające istnienie prawa do świadczeń rzeczowych. Zaświadczenie to ważne jest dopóty, dopóki instytucja właściwa nie zawiadomi instytucji miejsca zamieszkania o jego anulowaniu;"
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "W przypadku stosowania paragrafu 3 artykułu 22 Konwencji rzeczywiste wydatki na świadczenia rzeczowe udzielane zgodnie z postanowieniami paragrafu 1 artykułu 22 są zwracane instytucji, która ich udzieliła, zgodnie z jej rachunkami.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Rozdział czwarty"
+    },
+    {
+     "type": "text",
+     "text": "Świadczenia rodzinne"
+    }
+   ],
+   "label": "Artykuł 21"
   },
   {
-   "type": "text",
-   "text": "— dokumenty dowodowe zwyczajowo wymagane przez ustawodawstwo kraju zamieszkania przy przyznawaniu świadczeń rzeczowych członkom rodziny."
-  },
-  {
-   "type": "text",
-   "text": "Instytucja miejsca zamieszkania informuje instytucję właściwą, czy członkowie rodziny mają lub nie prawo do świadczeń zgodnie ze stosowanym przez nią ustawodawstwem."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 10"
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 1. Jeśli, w przypadkach wymienionych w paragrafie 2 artykułu 13 i paragrafie 3 artykułu 15 Konwencji, ustawodawstwo stosowane przez instytucję właściwą przewiduje maksymalny okres, za który przysługują świadczenia, to brany jest pod uwagę okres udzielania tych świadczeń bezpośrednio przed zmianą miejsca zamieszkania."
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 2. W celu stosowania paragrafu 1 instytucja właściwa zwraca się do instytucji ostatniego miejsca zamieszkania każdego członka rodziny i każdego emeryta lub rencisty, który przeniósł miejsce swego zamieszkania na terytorium kraju właściwego, o dostarczenie jej informacji dotyczących okresu udzielania świadczeń bezpośrednio przed tym przeniesieniem."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 11"
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 1. W celu skorzystania ze świadczeń rzeczowych w kraju miejsca swego zamieszkania emeryt lub rencista wymieniony w paragrafie 2 artykułu 15 Konwencji zobowiązany jest do zgłoszenia się w instytucji miejsca zamieszkania, przedstawiając zaświadczenie, w którym instytucja właściwa poświadcza, że emeryt lub rencista ma prawo, dla siebie i dla członków swojej rodziny, zgodnie z ustawodawstwem Strony wypłacającej emeryturę lub rentę, do świadczeń rzeczowych. Instytucja, która wydała zaświadczenie, przekazuje jego kopię instytucji drugiej Umawiającej się Strony."
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 2. Instytucja miejsca zamieszkania zawiadamia instytucję, która wydała zaświadczenie przewidziane w paragrafie 1, o wszelkich dokonanych przez nią wpisach."
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 3. Instytucja, która wydała zaświadczenie przewidziane w paragrafie 1, zawiadamia instytucję drugiej Umawiającej się Strony o ustaniu prawa do świadczeń rzeczowych emeryta lub rencisty i członków jego rodziny."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 12"
-  },
-  {
-   "type": "text",
-   "text": "W celu stosowania artykułu 16 Konwencji zainteresowana osoba zobowiązana jest do udzielenia instytucji właściwej Umawiającej się Strony, pod działaniem ustawodawstwa której wnioskuje o przyznanie świadczeń rzeczowych, niezbędnych informacji dotyczących świadczeń rzeczowych przyznanych uprzednio na mocy ustawodawstwa drugiej Umawiającej się Strony. Jeśli instytucja właściwa uzna to za konieczne, może zwrócić się, bezpośrednio lub za pośrednictwem instytucji łącznikowych, do instytucji właściwej drugiej Umawiającej się Strony, aby zażądać informacji dotyczących świadczeń rzeczowych uprzednio przyznanych."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 13"
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 1. W celu skorzystania z zasiłku pogrzebowego zgodnie z ustawodawstwem Umawiającej się Strony wnioskodawca mieszkający na terytorium drugiej Umawiającej się Strony zobowiązany jest przesłać swój wniosek bądź do instytucji właściwej, bądź do instytucji miejsca zamieszkania."
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 2. Do wniosku należy dołączyć dokumenty dowodowe wymagane przez ustawodawstwo stosowane przez instytucję właściwą."
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 3. Zgodność informacji podanych przez wnioskodawcę musi być ustalona na podstawie urzędowych dokumentów dołączonych do wniosku lub potwierdzona przez właściwe organy Umawiającej się Strony, na której terytorium zamieszkuje wnioskodawca."
-  },
-  {
-   "type": "text",
-   "text": "Rozdział drugi"
-  },
-  {
-   "type": "text",
-   "text": "Inwalidztwo, starość i śmierć (emerytury i renty)"
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 14"
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 1. W celu skorzystania ze świadczeń zgodnie z postanowieniami rozdziału drugiego tytułu III Konwencji wnioskodawca zobowiązany jest do złożenia, na przewidzianym w tym celu formularzu, wniosku do instytucji właściwej miejsca zamieszkania na warunkach określonych przez ustawodawstwo kraju zamieszkania."
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 2. Jeśli, w chwili składania wniosku, żaden z okresów ubezpieczenia nie był przebyty pod działaniem ustawodawstwa Umawiającej się Strony, na której terytorium wnioskodawca zamieszkuje, wniosek należy złożyć do instytucji łącznikowej lub właściwej tej Strony, która prześle go bezzwłocznie do instytucji łącznikowej lub właściwej drugiej Umawiającej się Strony."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 15"
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 1. Instytucje właściwe obu Umawiających się Stron przesyłają sobie bezzwłocznie, bezpośrednio lub za pośrednictwem instytucji łącznikowych, na przewidzianym w tym celu formularzu, wnioski oraz dokumenty dowodowe i wszelkie dostępne dokumenty, które mogą być niezbędne dla rozpatrzenia wniosku. Każda instytucja właściwa przesyła również zaświadczenie potwierdzające okresy ubezpieczenia przebyte pod działaniem swojego ustawodawstwa instytucji właściwej drugiej Umawiającej się Strony."
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 2. Instytucja właściwa Umawiającej się Strony, do której został zgłoszony wniosek o świadczenia, sprawdza informacje dotyczące wnioskodawcy i członków jego rodziny."
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 3. Formularz wymieniony w paragrafie 1, jak również stosowanie paragrafu 2 niniejszego artykułu zastępuje przesłanie odpowiednich dokumentów dowodowych."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 16"
-  },
-  {
-   "type": "text",
-   "text": "Każda instytucja właściwa ustala uprawnienia wnioskodawcy zgodnie z artykułem 21 Konwencji i zawiadamia zainteresowaną osobę o podjętej decyzji, wskazując środki i terminy odwoławcze, oraz przesyła jednocześnie kopię instytucji właściwej drugiej Umawiającej się Strony."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 17"
-  },
-  {
-   "type": "text",
-   "text": "Emerytury i renty obciążające instytucję jednej z Umawiających się Stron są wypłacane bezpośrednio świadczeniobiorcy mieszkającemu na terytorium drugiej Umawiającej się Strony w terminach płatności przewidzianych ustawodawstwem stosowanym przez tę instytucję. Wypłata dokonywana jest zgodnie z artykułem 34 Konwencji bez potrąceń kosztów administracyjnych, które mogłyby wyniknąć w związku z wypłatą tego świadczenia."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 18"
-  },
-  {
-   "type": "text",
-   "text": "Instytucje łącznikowe wymieniają co roku dane statystyczne dotyczące liczby wypłacanych świadczeń w drugiej Umawiającej się Stronie oraz wynikających stąd kwot."
-  },
-  {
-   "type": "text",
-   "text": "Rozdział trzeci"
-  },
-  {
-   "type": "text",
-   "text": "Wypadki przy pracy i choroby zawodowe"
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 19"
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 1. Postanowienia niniejszego Porozumienia dotyczące świadczeń rzeczowych z ubezpieczenia na wypadek choroby mają zastosowanie przez analogię do udzielania świadczeń rzeczowych z ubezpieczenia w razie wypadków przy pracy i chorób zawodowych."
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 2. Postanowienia niniejszego Porozumienia dotyczące świadczeń pieniężnych z ubezpieczenia na wypadek choroby mają zastosowanie przez analogię do wypłaty świadczeń pieniężnych z ubezpieczenia w razie wypadków przy pracy i chorób zawodowych, z wyjątkiem rent."
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 3. Postanowienia artykułu 17 niniejszego Porozumienia dotyczące wypłaty emerytur i rent mają zastosowanie przez analogię do wypłaty świadczeń z tytułu wypadków przy pracy i chorób zawodowych."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 20"
-  },
-  {
-   "type": "text",
-   "text": "Dla celów ustalania stopnia niezdolności do pracy w przypadkach, o których mowa w artykule 23 Konwencji, zainteresowana osoba jest zobowiązana do udzielenia instytucji właściwej Umawiającej się Strony, pod działaniem ustawodawstwa której nastąpił wypadek przy pracy lub choroba zawodowa, niezbędnych informacji dotyczących wypadków przy pracy lub chorób zawodowych, które nastąpiły uprzednio pod działaniem ustawodawstwa drugiej Umawiającej się Strony, niezależnie od stopnia niezdolności spowodowanej tymi przypadkami. Jeśli wspomniana instytucja uzna to za konieczne, może zwrócić się o udostępnienie dokumentów dotyczących tych przypadków do instytucji właściwej lub właściwych dla zapewnienia odszkodowania z ich tytułu."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 21"
-  },
-  {
-   "type": "text",
-   "text": "W przypadku stosowania paragrafu 3 artykułu 22 Konwencji rzeczywiste wydatki na świadczenia rzeczowe udzielane zgodnie z postanowieniami paragrafu 1 artykułu 22 są zwracane instytucji, która ich udzieliła, zgodnie z jej rachunkami."
-  },
-  {
-   "type": "text",
-   "text": "Rozdział czwarty"
-  },
-  {
-   "type": "text",
-   "text": "Świadczenia rodzinne"
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 22"
-  },
-  {
-   "type": "text",
-   "text": "Dla celów stosowania postanowień artykułu 26 Konwencji instytucja właściwa Umawiającej się Strony, w której został złożony wniosek o świadczenia rodzinne, może zwrócić się, bezpośrednio lub za pośrednictwem instytucji łącznikowych, do instytucji właściwej drugiej Umawiającej się Strony z prośbą o poświadczenie okresów zatrudnienia lub działalności zawodowej przebytych pod działaniem ustawodawstwa tej Strony."
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "Dla celów stosowania postanowień artykułu 26 Konwencji instytucja właściwa Umawiającej się Strony, w której został złożony wniosek o świadczenia rodzinne, może zwrócić się, bezpośrednio lub za pośrednictwem instytucji łącznikowych, do instytucji właściwej drugiej Umawiającej się Strony z prośbą o poświadczenie okresów zatrudnienia lub działalności zawodowej przebytych pod działaniem ustawodawstwa tej Strony.",
+   "children": [],
+   "label": "Artykuł 22"
   },
   {
    "type": "heading",
@@ -548,68 +563,71 @@
    "text": "Postanowienia różne"
   },
   {
-   "type": "text",
-   "text": "Artykuł 23"
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "Paragraf 1. Kontrola administracyjna i medyczna świadczeniobiorców jednej z Umawiających się Stron zamieszkujących na terytorium drugiej Umawiającej się Strony dokonywana jest na wniosek instytucji właściwej przez instytucję miejsca zamieszkania zgodnie z zasadami przewidzianymi przez ustawodawstwo stosowane przez tę ostatnią instytucję.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Paragraf 2. Na wniosek instytucji właściwej jednej z Umawiających się Stron instytucja właściwa drugiej Umawiającej się Strony przekazuje bezpłatnie wszelkie informacje natury medycznej i wszelką znajdującą się w jej posiadaniu dokumentację dotyczącą inwalidztwa wnioskodawcy lub świadczeniobiorcy."
+    },
+    {
+     "type": "text",
+     "text": "Paragraf 3. Instytucje właściwe zachowują jednak prawo do zlecania przeprowadzenia badania zainteresowanej osoby przez wybranego przez nie lekarza."
+    }
+   ],
+   "label": "Artykuł 23"
   },
   {
-   "type": "text",
-   "text": "Paragraf 1. Kontrola administracyjna i medyczna świadczeniobiorców jednej z Umawiających się Stron zamieszkujących na terytorium drugiej Umawiającej się Strony dokonywana jest na wniosek instytucji właściwej przez instytucję miejsca zamieszkania zgodnie z zasadami przewidzianymi przez ustawodawstwo stosowane przez tę ostatnią instytucję."
+   "type": "art",
+   "num": "24",
+   "path": "art_24",
+   "text": "Przy przekazywaniu danych osobowych między instytucjami właściwymi Umawiających się Stron w zakresie ochrony danych obowiązuje prawo Umawiającej się Strony przekazującej dane drugiej Stronie. W przypadku dalszego wykorzystywania, gromadzenia cyfrowego, przetwarzania lub usuwania danych przez Stronę przyjmującą, obowiązują przepisy o ochronie danych Strony przyjmującej.",
+   "children": [],
+   "label": "Artykuł 24"
   },
   {
-   "type": "text",
-   "text": "Paragraf 2. Na wniosek instytucji właściwej jednej z Umawiających się Stron instytucja właściwa drugiej Umawiającej się Strony przekazuje bezpłatnie wszelkie informacje natury medycznej i wszelką znajdującą się w jej posiadaniu dokumentację dotyczącą inwalidztwa wnioskodawcy lub świadczeniobiorcy."
+   "type": "art",
+   "num": "25",
+   "path": "art_25",
+   "text": "Paragraf 1. Beneficjenci świadczeń przyznanych z tytułu ustawodawstwa jednej z Umawiających się Stron, którzy zamieszkują na terytorium drugiej Umawiającej się Strony, zawiadamiają instytucję właściwą, bądź bezpośrednio, bądź za pośrednictwem instytucji łącznikowych, o każdej zmianie dotyczącej ich sytuacji osobistej lub rodzinnej, ich stanu zdrowa, ich zdolności do pracy, ich dochodów, jak również o wszelkich innych okolicznościach mających wpływ na ich uprawnienia lub obowiązki w świetle ustawodawstw wymienionych w artykule 2 Konwencji i w świetle postanowień Konwencji.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Paragraf 2. Instytucje przekazują sobie, bądź bezpośrednio, bądź za pośrednictwem instytucji łącznikowych wszelkie, będące w ich posiadaniu, analogiczne informacje."
+    }
+   ],
+   "label": "Artykuł 25"
   },
   {
-   "type": "text",
-   "text": "Paragraf 3. Instytucje właściwe zachowują jednak prawo do zlecania przeprowadzenia badania zainteresowanej osoby przez wybranego przez nie lekarza."
+   "type": "art",
+   "num": "26",
+   "path": "art_26",
+   "text": "Z chwilą kiedy, po zawieszeniu świadczenia, zainteresowana osoba odzyska prawo do świadczenia, wówczas gdy mieszka na terytorium drugiej Umawiającej się Strony, instytucje właściwe wymieniają wszelkie informacje niezbędne dla wznowienia wypłaty świadczenia.",
+   "children": [],
+   "label": "Artykuł 26"
   },
   {
-   "type": "text",
-   "text": "Artykuł 24"
+   "type": "art",
+   "num": "27",
+   "path": "art_27",
+   "text": "Paragraf 1. Koszty wynikające z badań lekarskich, przeprowadzania obserwacji, przejazdów lekarzy i procedur administracyjnych lub medycznych niezbędnych dla dokonania kontroli administracyjnej lub medycznej obciążają instytucję, która przeprowadza kontrolę, na podstawie stosowanego przez nią cennika i są zwracane przez instytucję, która wystąpiła o przeprowadzenie kontroli.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Paragraf 2. Instytucje łącznikowe obydwu Umawiających się Stron mogą, za zgodą odpowiednich właściwych władz zwierzchnich, uzgodnić rezygnację ze zwrotu kosztów wymienionych w poprzednim paragrafie."
+    }
+   ],
+   "label": "Artykuł 27"
   },
   {
-   "type": "text",
-   "text": "Przy przekazywaniu danych osobowych między instytucjami właściwymi Umawiających się Stron w zakresie ochrony danych obowiązuje prawo Umawiającej się Strony przekazującej dane drugiej Stronie. W przypadku dalszego wykorzystywania, gromadzenia cyfrowego, przetwarzania lub usuwania danych przez Stronę przyjmującą, obowiązują przepisy o ochronie danych Strony przyjmującej."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 25"
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 1. Beneficjenci świadczeń przyznanych z tytułu ustawodawstwa jednej z Umawiających się Stron, którzy zamieszkują na terytorium drugiej Umawiającej się Strony, zawiadamiają instytucję właściwą, bądź bezpośrednio, bądź za pośrednictwem instytucji łącznikowych, o każdej zmianie dotyczącej ich sytuacji osobistej lub rodzinnej, ich stanu zdrowa, ich zdolności do pracy, ich dochodów, jak również o wszelkich innych okolicznościach mających wpływ na ich uprawnienia lub obowiązki w świetle ustawodawstw wymienionych w artykule 2 Konwencji i w świetle postanowień Konwencji."
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 2. Instytucje przekazują sobie, bądź bezpośrednio, bądź za pośrednictwem instytucji łącznikowych wszelkie, będące w ich posiadaniu, analogiczne informacje."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 26"
-  },
-  {
-   "type": "text",
-   "text": "Z chwilą kiedy, po zawieszeniu świadczenia, zainteresowana osoba odzyska prawo do świadczenia, wówczas gdy mieszka na terytorium drugiej Umawiającej się Strony, instytucje właściwe wymieniają wszelkie informacje niezbędne dla wznowienia wypłaty świadczenia."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 27"
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 1. Koszty wynikające z badań lekarskich, przeprowadzania obserwacji, przejazdów lekarzy i procedur administracyjnych lub medycznych niezbędnych dla dokonania kontroli administracyjnej lub medycznej obciążają instytucję, która przeprowadza kontrolę, na podstawie stosowanego przez nią cennika i są zwracane przez instytucję, która wystąpiła o przeprowadzenie kontroli."
-  },
-  {
-   "type": "text",
-   "text": "Paragraf 2. Instytucje łącznikowe obydwu Umawiających się Stron mogą, za zgodą odpowiednich właściwych władz zwierzchnich, uzgodnić rezygnację ze zwrotu kosztów wymienionych w poprzednim paragrafie."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 28"
-  },
-  {
-   "type": "text",
-   "text": "Niniejsze Porozumienie Administracyjne obowiązuje od tej samej daty i przez taki sam okres co Konwencja."
+   "type": "art",
+   "num": "28",
+   "path": "art_28",
+   "text": "Niniejsze Porozumienie Administracyjne obowiązuje od tej samej daty i przez taki sam okres co Konwencja.",
+   "children": [],
+   "label": "Artykuł 28"
   },
   {
    "type": "text",

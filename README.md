@@ -73,7 +73,7 @@ Wszystkie lata 2000–2011 są w zbiorze (ostatni rocznik dodany 2026-10-02): 19
 (opis niżej, w części o OCR). Akty, którym API później doda HTML albo zmieni PDF, nie są tu aktualizowane.
 
 <!-- stats:start -->
-Stan na 2026-10-05 10:27 UTC (liczone z `index.csv`).
+Stan na 2026-10-06 22:09 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -94,7 +94,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 3483, razem 66483 z 160
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 5402.
 
 Rodzaje aktów: Rozporządzenie 18305, Oświadczenie rządowe 633, Umowa międzynarodowa 342, Konwencja 98, Protokół 78, Obwieszczenie 39, Porozumienie 37, Uchwała 26, Postanowienie 25, Dokument wypowiedzenia 12, Traktat 11, Decyzja 2, Statut 2, Ustawa 1, Deklaracja 1, Akt 1, Układ 1.
-Wersje konwertera: eli2md 0.6.18 (6723), eli2md 0.6.17 (5435), eli2md 0.6.22 (3704), eli2md 0.6.24 (3125), eli2md 0.6.16 (327), eli2md 0.6.37 (300).
+Wersje konwertera: eli2md 0.6.18 (6723), eli2md 0.6.17 (5435), eli2md 0.6.22 (3704), eli2md 0.6.24 (3125), eli2md 0.6.16 (327), eli2md 0.6.37 (299), eli2md 0.6.39 (1).
 <!-- stats:end -->
 
 ## Zawartość
@@ -213,6 +213,14 @@ w kolejności łamów, wycina akt spośród sąsiednich na tych samych stronach 
   w DU/2000/57 i 159 nie ma już początku następnej pozycji (poz. 58, 160), w DU/2000/56 nie ma poz. 57, a fragment
   statutu z poz. 56, który był w pliku poz. 57, wrócił do poz. 56. Strony odczytane przez OCR: bez zmian.
 - Struktura (z 300 aktów): z rozpoznanymi § lub artykułami 0 → 288, z podpisem 0 → 291, z załącznikiem 0 → 93.
+
+Zmiana 2026-10-07 (eli2md 0.6.39, 326 aktów; opis w README eli2md, wpis 0.6.39):
+- 325 umów międzynarodowych i podobnych aktów: w JSON „Artykuł N” jest węzłem `art` z polem `label`. Ich `.md` się
+  nie zmienił, więc pole `converter` (w `.md`, `.json` i `index.csv`) zostaje wersją, w której powstał `.md`; `.json`
+  zbudowano z niego kodem drzewa 0.6.39. Słowa w drzewach: zgubione 0.
+- DU/2000/612 przeliczony z PDF (`converter`: eli2md 0.6.39): pozycja listy „50. Płynne metale” nie jest już nagłówkiem
+  „§ 0.”. Innych zmian tekstu nie ma.
+- Pozostałe akty bez zmian (drzewa wszystkich aktów zbioru i `.md` 300 skanów porównane w 0.6.38 i 0.6.39).
 
 **Czego te liczby nie mówią:**
 
