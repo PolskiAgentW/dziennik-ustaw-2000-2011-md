@@ -224,6 +224,15 @@ Zmiana 2026-10-07 (eli2md 0.6.39, 326 aktów; opis w README eli2md, wpis 0.6.39)
   „§ 0.”. Innych zmian tekstu nie ma.
 - Pozostałe akty bez zmian (drzewa wszystkich aktów zbioru i `.md` 300 skanów porównane w 0.6.38 i 0.6.39).
 
+Zmiana 2026-10-10 (drzewo JSON, kod drzewa eli2md 0.6.50, 16 aktów; opis w README eli2md, wpis 0.6.50): nagłówki z
+liczebnikiem słownym („DZIAŁ PIĄTY”, „CZĘŚĆ PIERWSZA”), z numerem rzymskim z wielką literą („DZIAŁ IVA”) albo z
+odnośnikiem po numerze („Rozdział 5a[^28]”) są w `.json` węzłami `heading`. Wcześniej trafiały jako tekst do artykułu,
+paragrafu albo punktu przed nimi. Nowych nagłówków: 39, żaden nie zniknął. `.md` się nie zmienił, więc pole
+`converter` (w `.md`, `.json` i `index.csv`) zostaje wersją, w której powstał `.md`. Liczba jednostek bez zmian, słowa
+w drzewach: zgubione 0. Pozostałe akty bez zmian (porównanie drzew wszystkich aktów zbioru). Wątpliwe: w formularzu
+DU/2010/1581 „Dział I²⁾” i „Część C⁶⁾ ❏ …” są teraz nagłówkami, choć to części formularza (tekst ten sam, zmienia się
+tylko typ węzła; odnośnik jest oddzielony od numeru: „I” + „²⁾”).
+
 **Czego te liczby nie mówią:**
 
 - Wzorzec HTML mają głównie ustawy, obwieszczenia i orzeczenia. Większość aktów w tym zbiorze to rozporządzenia,
