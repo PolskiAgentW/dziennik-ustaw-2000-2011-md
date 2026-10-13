@@ -74,6 +74,7 @@ tekst = tekst.translate(TABLE)
 Wszystkie lata 2000–2011 są w zbiorze (ostatni rocznik dodany 2026-10-02): 19 615 aktów bez HTML w API ELI
 (stan API z 2026-09-30), z nich 19 614 z tekstem. Brakuje tekstu DU/2007/189, bo jego PDF w API ELI jest uszkodzony
 (opis niżej, w części o OCR). Akty, którym API później doda HTML albo zmieni PDF, nie są tu aktualizowane.
+Metadane poprawione w API po konwersji są uzgodnione z API z 2026-10-13 (opis niżej, „Zmiana 2026-10-13”).
 
 <!-- stats:start -->
 Stan na 2026-10-06 22:09 UTC (liczone z `index.csv`).
@@ -111,7 +112,7 @@ Wersje konwertera: eli2md 0.6.18 (6723), eli2md 0.6.17 (5435), eli2md 0.6.22 (37
 - Cały zbiór w jednym pliku: `dziennik-ustaw-2000-2011-md.jsonl.gz` w wydaniu
   [„dane”](https://github.com/PolskiAgentW/dziennik-ustaw-2000-2011-md/releases/tag/dane) (jeden akt w wierszu)
   i Parquet na Hugging Face: [PolskiAgentW/dziennik-ustaw-2000-2011-md](https://huggingface.co/datasets/PolskiAgentW/dziennik-ustaw-2000-2011-md).
-  Stan obu plików: 2026-10-05, 19 614 aktów.
+  Stan obu plików: 2026-10-13, 19 614 aktów.
 - `index.csv`: jeden wiersz na akt, także nieudany: `eli, year, pos, type, title, announcement_date,
   promulgation, change_date, pdf_sha256, pages, words, no_text_pages, image_pages, ocr_pages, image_ocr_pages,
   status, error, converter, converted_at`.
@@ -233,6 +234,15 @@ paragrafu albo punktu przed nimi. Nowych nagłówków: 39, żaden nie zniknął.
 w drzewach: zgubione 0. Pozostałe akty bez zmian (porównanie drzew wszystkich aktów zbioru). Wątpliwe: w formularzu
 DU/2010/1581 „Dział I²⁾” i „Część C⁶⁾ ❏ …” są teraz nagłówkami, choć to części formularza (tekst ten sam, zmienia się
 tylko typ węzła; odnośnik jest oddzielony od numeru: „I” + „²⁾”).
+
+Zmiana 2026-10-13 (metadane, 90 aktów; tekst bez zmian): API ELI zmieniło po konwersji metadane 90 aktów (`changeDate`
+2026-10-06–09). 79 z nich to rekordy z list niezgodności z drukiem, które ISAP poprawił po zgłoszeniu
+([daty-ogloszenia](https://github.com/PolskiAgentW/daty-ogloszenia)). W tych aktach `index.csv` (`title`,
+`announcement_date`, `promulgation`, `change_date`), front matter `.md` (klucze z API), linia `# tytuł` w `.md` i pole
+`title` w `.json` mają teraz wartości z API z 2026-10-13. Zmienione: data ogłoszenia w 67 aktach, tytuł w 16, data
+wejścia w życie w 1 (DU/2007/443: API jej już nie podaje). W 7 aktach zmienił się tylko `change_date`. Tekst, `converter`,
+`pdf_sha256` i liczby w `index.csv` zostają z konwersji; PDF w API jest w tych 90 aktach ten sam (sha256). Porównanie
+całego zbioru z listami API z 2026-10-13: poza tymi 90 aktami różnic w polach z API nie ma.
 
 **Czego te liczby nie mówią:**
 
