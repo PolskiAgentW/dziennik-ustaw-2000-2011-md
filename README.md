@@ -74,7 +74,7 @@ tekst = tekst.translate(TABLE)
 Wszystkie lata 2000–2011 są w zbiorze (ostatni rocznik dodany 2026-10-02): 19 615 aktów bez HTML w API ELI
 (stan API z 2026-09-30), z nich 19 614 z tekstem. Brakuje tekstu DU/2007/189, bo jego PDF w API ELI jest uszkodzony
 (opis niżej, w części o OCR). Akty, którym API później doda HTML albo zmieni PDF, nie są tu aktualizowane.
-Metadane (daty, tytuł, status, słowa kluczowe) uzgadnia z API ELI co tydzień workflow „Metadane” (od 2026-10-13):
+Metadane (daty, tytuł, status, słowa kluczowe) uzgadnia z API ELI codziennie workflow „Metadane” (od 2026-10-14):
 akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.csv`, front matter, linii `# tytuł`
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
