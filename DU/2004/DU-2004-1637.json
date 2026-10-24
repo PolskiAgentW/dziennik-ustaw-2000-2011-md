@@ -1,7 +1,7 @@
 {
  "eli": "DU/2004/1637",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 21 czerwca 2004 r. w sprawie świadectw zdrowia bydła, świń, owiec i kóz będących przedmiotem handlu",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/1637/text.pdf",
  "body": [
   {
@@ -301,7 +301,14 @@
      "type": "pkt",
      "num": "5",
      "path": "pkt_5",
-     "text": "[^11] spełnia, uwzględniając informacje podane w części A i B świadectwa, które zostało wypełnione przez urzędowego lekarza weterynarii właściwego ze względu na miejsce położenia gospodarstwa pochodzenia zwierząt, wymagania zdrowotne określone w pkt 1—4; 6)[^3] jest zwierzęciem w wieku poniżej 30 miesięcy życia, przeznaczonym do uboju i produkcji mięsa, pochodzącym ze stada urzędowo wolnego od gruźlicy, brucelozy i enzootycznej białaczki bydła, i zostaje wysłane zgodnie z art. 6 ust. 2 lit. e dyrektywy 64/432/EWG, zgodnie z licencją nr ... .",
+     "text": "[^11] spełnia, uwzględniając informacje podane w części A i B świadectwa, które zostało wypełnione przez urzędowego lekarza weterynarii właściwego ze względu na miejsce położenia gospodarstwa pochodzenia zwierząt, wymagania zdrowotne określone w pkt 1—4;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "[^3] jest zwierzęciem w wieku poniżej 30 miesięcy życia, przeznaczonym do uboju i produkcji mięsa, pochodzącym ze stada urzędowo wolnego od gruźlicy, brucelozy i enzootycznej białaczki bydła, i zostaje wysłane zgodnie z art. 6 ust. 2 lit. e dyrektywy 64/432/EWG, zgodnie z licencją nr ... .",
      "children": [
       {
        "type": "text",
@@ -367,12 +374,19 @@
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "właściwe postanowienia dyrektywy 64/432/EEC zostały spełnione; 4)[^3] powyższe zwierzęta spełniają dodatkowe gwarancje dotyczące:",
+     "text": "właściwe postanowienia dyrektywy 64/432/EEC zostały spełnione;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "[^3] powyższe zwierzęta spełniają dodatkowe gwarancje dotyczące:",
      "children": [
       {
        "type": "lit",
        "num": "a",
-       "path": "pkt_3/lit_a",
+       "path": "pkt_4/lit_a",
        "text": "choroby: .................................................................................................................................................................................., b) zgodnie z decyzją Komisji .../.../EC;",
        "children": []
       }
@@ -480,7 +494,14 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "pochodzi z gospodarstwa pochodzenia oraz obszaru, który zgodnie z ustawodawstwem wspólnotowym lub krajowym nie podlega ograniczeniom związanym ze zwalczaniem chorób zakaźnych zwierząt; 2)³⁾ jest zwierzęciem przeznaczonym do chowu, hodowli lub uboju¹⁾, które przebywało w gospodarstwie pochodzenia przez ostatnie 30 dni lub od dnia urodzenia, jeżeli jest w wieku poniżej 30 dni życia, oraz że w tym okresie żadne zwierzę przywiezione z państwa trzeciego nie zostało wprowadzone do tego gospodarstwa, chyba że zostało odizolowane od pozostałych zwierząt znajdujących się w tym gospodarstwie.",
+     "text": "pochodzi z gospodarstwa pochodzenia oraz obszaru, który zgodnie z ustawodawstwem wspólnotowym lub krajowym nie podlega ograniczeniom związanym ze zwalczaniem chorób zakaźnych zwierząt;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "³⁾ jest zwierzęciem przeznaczonym do chowu, hodowli lub uboju¹⁾, które przebywało w gospodarstwie pochodzenia przez ostatnie 30 dni lub od dnia urodzenia, jeżeli jest w wieku poniżej 30 dni życia, oraz że w tym okresie żadne zwierzę przywiezione z państwa trzeciego nie zostało wprowadzone do tego gospodarstwa, chyba że zostało odizolowane od pozostałych zwierząt znajdujących się w tym gospodarstwie.",
      "children": [
       {
        "type": "text",
@@ -542,12 +563,19 @@
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "właściwe postanowienia dyrektywy 64/432/EEC zostały spełnione; 4)³⁾ powyższe zwierzęta spełniają dodatkowe gwarancje dotyczące:",
+     "text": "właściwe postanowienia dyrektywy 64/432/EEC zostały spełnione;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "³⁾ powyższe zwierzęta spełniają dodatkowe gwarancje dotyczące:",
      "children": [
       {
        "type": "lit",
        "num": "a",
-       "path": "pkt_3/lit_a",
+       "path": "pkt_4/lit_a",
        "text": "choroby: ................................................................................................................................................................................., b) zgodnie z decyzją Komisji ..../..../EC;",
        "children": []
       }

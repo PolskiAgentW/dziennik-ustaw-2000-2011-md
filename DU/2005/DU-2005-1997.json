@@ -1,7 +1,7 @@
 {
  "eli": "DU/2005/1997",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 listopada 2005 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/1997/text.pdf",
  "body": [
   {
@@ -1084,7 +1084,14 @@
            "type": "lit",
            "num": "a",
            "path": "art_1/ust_2/pkt_4/lit_a",
-           "text": "przestępstw i wykroczeń dotyczących zgodności przekraczania granicy państwowej z przepisami, związanych z jej oznakowaniem oraz dotyczących wiarygodności dokumentów uprawniających do przekraczania granicy państwowej, b)[^1] przestępstw skarbowych i wykroczeń skarbowych wymienionych w art. 134 § 1 pkt 1 Kodeksu karnego skarbowego,",
+           "text": "przestępstw i wykroczeń dotyczących zgodności przekraczania granicy państwowej z przepisami, związanych z jej oznakowaniem oraz dotyczących wiarygodności dokumentów uprawniających do przekraczania granicy państwowej,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "art_1/ust_2/pkt_4/lit_b",
+           "text": "[^1] przestępstw skarbowych i wykroczeń skarbowych wymienionych w art. 134 § 1 pkt 1 Kodeksu karnego skarbowego,",
            "children": []
           },
           {
@@ -1098,7 +1105,14 @@
            "type": "lit",
            "num": "d",
            "path": "art_1/ust_2/pkt_4/lit_d",
-           "text": "[^3] przestępstw i wykroczeń określonych w ustawie z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. Nr 128, poz. 1175, z późn. zm.[^4]) oraz ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 128, poz. 1176, z późn. zm.[^5]), e)[^6] przestępstw przeciwko bezpieczeństwu powszechnemu oraz przestępstw przeciwko bezpieczeństwu w komunikacji, pozostających w związku z wykonywaniem komunikacji lotniczej;",
+           "text": "[^3] przestępstw i wykroczeń określonych w ustawie z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. Nr 128, poz. 1175, z późn. zm.[^4]) oraz ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 128, poz. 1176, z późn. zm.[^5]),",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "e",
+           "path": "art_1/ust_2/pkt_4/lit_e",
+           "text": "[^6] przestępstw przeciwko bezpieczeństwu powszechnemu oraz przestępstw przeciwko bezpieczeństwu w komunikacji, pozostających w związku z wykonywaniem komunikacji lotniczej;",
            "children": []
           }
          ]
@@ -5176,7 +5190,14 @@
        "type": "ust",
        "num": "4",
        "path": "art_61/ust_4",
-       "text": "(uchylony).[^84] 5.[^85] Rada Ministrów określi, w drodze rozporządzenia, równorzędność stopni, o których mowa w ust. 1 i 1a, uwzględniając obowiązujące w tym zakresie rozwiązania.",
+       "text": "(uchylony).[^84]",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_61/ust_5",
+       "text": "[^85] Rada Ministrów określi, w drodze rozporządzenia, równorzędność stopni, o których mowa w ust. 1 i 1a, uwzględniając obowiązujące w tym zakresie rozwiązania.",
        "children": []
       }
      ]

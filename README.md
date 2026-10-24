@@ -79,7 +79,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-06 22:09 UTC (liczone z `index.csv`).
+Stan na 2026-10-24 20:51 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -100,7 +100,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 3483, razem 66483 z 160
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 5402.
 
 Rodzaje aktów: Rozporządzenie 18305, Oświadczenie rządowe 633, Umowa międzynarodowa 342, Konwencja 98, Protokół 78, Obwieszczenie 39, Porozumienie 37, Uchwała 26, Postanowienie 25, Dokument wypowiedzenia 12, Traktat 11, Decyzja 2, Statut 2, Ustawa 1, Deklaracja 1, Akt 1, Układ 1.
-Wersje konwertera: eli2md 0.6.18 (6723), eli2md 0.6.17 (5435), eli2md 0.6.22 (3704), eli2md 0.6.24 (3125), eli2md 0.6.16 (327), eli2md 0.6.37 (299), eli2md 0.6.39 (1).
+Wersje konwertera: eli2md 0.6.18 (6717), eli2md 0.6.17 (5435), eli2md 0.6.22 (3704), eli2md 0.6.24 (3125), eli2md 0.6.16 (327), eli2md 0.6.37 (299), eli2md 0.6.61 (6), eli2md 0.6.39 (1).
 <!-- stats:end -->
 
 ## Zawartość
@@ -245,6 +245,14 @@ Zmiana 2026-10-13 (metadane, 90 aktów; tekst bez zmian): API ELI zmieniło po k
 wejścia w życie w 1 (DU/2007/443: API jej już nie podaje). W 7 aktach zmienił się tylko `change_date`. Tekst, `converter`,
 `pdf_sha256` i liczby w `index.csv` zostają z konwersji; PDF w API jest w tych 90 aktach ten sam (sha256). Porównanie
 całego zbioru z listami API z 2026-10-13: poza tymi 90 aktami różnic w polach z API nie ma.
+
+Zmiana 2026-10-24 (eli2md 0.6.61, 6 aktów; opis w README eli2md, wpis 0.6.61): oznaczenie litery albo punktu
+z odnośnikiem na początku wiersza doklejało się do poprzedniego akapitu: „3) właściwe postanowienia dyrektywy 64/432/EEC
+zostały spełnione; 4)[^3] powyższe zwierzęta…” (DU/2004/1637). Teraz zaczyna osobną jednostkę. Przeliczyłem ponownie
+(z eli2md 0.6.18 na 0.6.61) 6 aktów, w których to wystąpiło: DU/2004/1637, DU/2005/937, 1947, 1997, 2019, 2143.
+We wszystkich 6 słowa są te same co poprzednio. W DU/2004/1637 jedno takie miejsce zostało („…EC[^3]; 3)[^3] jest
+zwierzęciem…”). W DU/2005/937 i 1947 jedna strona mniej jest liczona jako strona z obrazem (`image_pages` 2 → 1;
+w 1947 OCR tej strony nie dawał tekstu).
 
 **Czego te liczby nie mówią:**
 

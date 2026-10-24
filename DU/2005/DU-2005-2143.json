@@ -1,7 +1,7 @@
 {
  "eli": "DU/2005/2143",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 grudnia 2005 r. w sprawie ogłoszenia jednolitego tekstu ustawy o środkach żywienia zwierząt",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/2143/text.pdf",
  "body": [
   {
@@ -192,7 +192,7 @@
       },
       {
        "type": "text",
-       "text": "3. (uchylony). a) ”;",
+       "text": "3. (uchylony).[^a]”;",
        "quoted": true
       }
      ]
@@ -322,7 +322,7 @@
      "children": [
       {
        "type": "text",
-       "text": "„Art. 2—8. (uchylone). b)",
+       "text": "„Art. 2—8. (uchylone).[^b]",
        "quoted": true
       },
       {
@@ -2977,7 +2977,14 @@
            "type": "lit",
            "num": "b",
            "path": "art_36/ust_4/pkt_2/lit_b",
-           "text": "materiałami paszowymi, o których mowa w art. 6 ust. 1 pkt 3, c)[^75] premiksami zawierającymi dodatki paszowe z grup: antybiotyków, kokcydiostatyków i innych produktów leczniczych, stymulatorów wzrostu oraz witaminy A lub D, miedzi lub selenu;",
+           "text": "materiałami paszowymi, o których mowa w art. 6 ust. 1 pkt 3,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "art_36/ust_4/pkt_2/lit_c",
+           "text": "[^75] premiksami zawierającymi dodatki paszowe z grup: antybiotyków, kokcydiostatyków i innych produktów leczniczych, stymulatorów wzrostu oraz witaminy A lub D, miedzi lub selenu;",
            "children": []
           }
          ]
@@ -5046,7 +5053,14 @@
          "type": "pkt",
          "num": "6",
          "path": "art_46/ust_1/pkt_6",
-         "text": "[^100] dopuszcza, aby procesem produkcji pasz, dodatków paszowych lub premiksów wymienionych w art. 6 ust. 1 oraz pasz leczniczych kierowała osoba niemająca kwalifikacji, o których mowa w art. 7, 7)[^101] nie prowadzi spisu, o którym mowa w art. 6 ust. 2 pkt 7, oraz dokumentacji, o której mowa w art. 6 ust. 2a, lub prowadzi je niezgodnie z przepisami ustawy,",
+         "text": "[^100] dopuszcza, aby procesem produkcji pasz, dodatków paszowych lub premiksów wymienionych w art. 6 ust. 1 oraz pasz leczniczych kierowała osoba niemająca kwalifikacji, o których mowa w art. 7,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "art_46/ust_1/pkt_7",
+         "text": "[^101] nie prowadzi spisu, o którym mowa w art. 6 ust. 2 pkt 7, oraz dokumentacji, o której mowa w art. 6 ust. 2a, lub prowadzi je niezgodnie z przepisami ustawy,",
          "children": []
         },
         {
@@ -5123,7 +5137,14 @@
          "type": "pkt",
          "num": "13b",
          "path": "art_46/ust_1/pkt_13b",
-         "text": "(uchylony),[^107] 14)[^108] nie znakuje wprowadzanych do obrotu pasz zgodnie z wymaganiami, o których mowa w art. 38 ust. 1—5, lub znakuje je niezgodnie z przepisami ustawy,",
+         "text": "(uchylony),[^107]",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "14",
+         "path": "art_46/ust_1/pkt_14",
+         "text": "[^108] nie znakuje wprowadzanych do obrotu pasz zgodnie z wymaganiami, o których mowa w art. 38 ust. 1—5, lub znakuje je niezgodnie z przepisami ustawy,",
          "children": []
         },
         {
@@ -5207,20 +5228,14 @@
      "num": "52",
      "path": "art_52",
      "text": "Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.[^116]",
-     "children": [
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "art_52/lit_a",
-       "text": "Przez art. 1 pkt 26 ustawy z dnia 13 czerwca 2003 r. o zmianie ustawy o środkach żywienia zwierząt oraz o zmianie niektórych ustaw (Dz. U. Nr 122, poz. 1144), która weszła w życie z dniem 29 lipca 2003 r. b) Przez art. 2 ustawy z dnia 22 kwietnia 2005 r. o zmianie ustawy o środkach żywienia zwierząt oraz o zmianie ustawy o środkach żywienia zwierząt (Dz. U. Nr 110, poz. 927), która weszła w życie z dniem 22 czerwca 2005 r.",
-       "children": []
-      }
-     ]
+     "children": []
     }
    ]
   }
  ],
  "footnotes": {
+  "a": "Przez art. 1 pkt 26 ustawy z dnia 13 czerwca 2003 r. o zmianie ustawy o środkach żywienia zwierząt oraz o zmianie niektórych ustaw (Dz. U. Nr 122, poz. 1144), która weszła w życie z dniem 29 lipca 2003 r.",
+  "b": "Przez art. 2 ustawy z dnia 22 kwietnia 2005 r. o zmianie ustawy o środkach żywienia zwierząt oraz o zmianie ustawy o środkach żywienia zwierząt (Dz. U. Nr 110, poz. 927), która weszła w życie z dniem 22 czerwca 2005 r.",
   "1": "W brzmieniu ustalonym przez art. 1 pkt 1 lit. a ustawy z dnia 25 listopada 2004 r. o zmianie ustawy o środkach żywienia zwierząt (Dz. U. Nr 281, poz. 2776), która weszła w życie z dniem 13 stycznia 2005 r.",
   "2": "W brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 2 kwietnia 2004 r. o zmianie ustawy o środkach żywienia zwierząt oraz o zmianie niektórych innych ustaw (Dz. U. Nr 91, poz. 877), która weszła w życie z dniem 1 maja 2004 r.",
   "3": "Dodany przez art. 1 pkt 1 lit. b ustawy, o której mowa w odnośniku 1.",
