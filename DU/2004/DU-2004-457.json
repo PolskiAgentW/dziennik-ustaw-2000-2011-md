@@ -1,7 +1,7 @@
 {
  "eli": "DU/2004/457",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 marca 2004 r. w sprawie wzorów świadectw fitosanitarnych dla roślin, produktów roślinnych lub przedmiotów wyprowadzanych z terytorium Rzeczypospolitej Polskiej do państw trzecich",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/457/text.pdf",
  "body": [
   {
@@ -64,135 +64,193 @@
     },
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Rewers"
     },
     {
-     "type": "ocr",
-     "text": "Dziennik Ustaw Nr 47"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "ENGLISH"
     },
     {
-     "type": "ocr",
-     "text": "1. Name and address of exporter"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Name and address of exporter",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2. Phytosanitary certificate No"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Phytosanitary certificate No",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "3. Declared name and address of consignee"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Declared name and address of consignee",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4. Plant Protection Organization of Poland to Plant Protection"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Plant Protection Organization of Poland to Plant Protection",
+     "children": [
+      {
+       "type": "text",
+       "text": "OAM"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "OAM"
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "12.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "11. 12."
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "14. 15. 16. 17.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Organization(s) of Place of origin Declared means of conveyance Declared point of entry Distinguishing marks; number and description of packages; name of produce; botanical name of plants Quantity declared . This is to certify that the plants or plant products described above - have been inspected according to appropriate procedures, and - are considered to be free from quarantine pests; and practically free from other injurious pests; and that they - are considered to conform with the current phytosanitary regulations of the importing country Additional declaration Disinfestation and/or disinfection treatment Treatment Chemical (active ingredient) Duration and temperature Concentration Date Additional information Place of issue Date Name and signature of authorized officer Stamp of Organization"
+      },
+      {
+       "type": "text",
+       "text": "FRANCAIS PWN"
+      },
+      {
+       "type": "text",
+       "text": "o JD"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "13. 14. 15. 16. 17."
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "12.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Organization(s) of Place of origin Declared means of conveyance Declared point of entry Distinguishing marks; number and description of packages; name of produce; botanical name of plants Quantity declared . This is to certify that the plants or plant products described above - have been inspected according to appropriate procedures, and - are considered to be free from quarantine pests; and practically free from other injurious pests; and that they - are considered to conform with the current phytosanitary regulations of the importing country Additional declaration Disinfestation and/or disinfection treatment Treatment Chemical (active ingredient) Duration and temperature Concentration Date Additional information Place of issue Date Name and signature of authorized officer Stamp of Organization"
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "14. 15. 16. 17.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nom et adresse de l’expéditeur Certificat phytosanitaire No Nom et adresse déclarés du destinataire Organisation de la Protection des Végétaux de Pologne a: Organisation(s) de la Protection des Végétaux de Lieu d'origine Moyen de transport Point d’entrée déclaré Marques des colis; nombre et nature des colis; nom du produit; nom botanique des plantes Quantité déclarée . Tl est certifić que les végétaux ou produits végétaux décrits ci-dessus: - ont été inspectés suivant des procédures adaptćes, - sont estimés indemnes d’ennemis par la réglementation phytosanitaire et pratiquement indemnes d’autres ennemis dangereux, et - sont jugés conformes 4 la réglementation phytosanitaire en vigueur dans le pays importateur. Déclaration supplémentaire Traitement de désinfestation et/oude désinfection Traitement Produit chimique (matiére active) Durée et température Concentration Date Renseignements complémentaires Lieu de délivrance Date Nom et signature du functionnaire autorisé Cachet de l’Organisation"
+      },
+      {
+       "type": "text",
+       "text": "DEUTSCH"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "FRANCAIS PWN"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Name und Adresse des Absenders",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "o JD"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Pflanzengesundheitszeugnis Nr.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "11. 12."
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Name und Adresse des angegebenen Empfangers",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "13. 14. 15. 16. 17."
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Pflanzenschutzdienst von Poleń an Pflanzenschutzdienst(e) von",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Nom et adresse de l’expéditeur Certificat phytosanitaire No Nom et adresse déclarés du destinataire Organisation de la Protection des Végétaux de Pologne a: Organisation(s) de la Protection des Végétaux de Lieu d'origine Moyen de transport Point d’entrée déclaré Marques des colis; nombre et nature des colis; nom du produit; nom botanique des plantes Quantité déclarée . Tl est certifić que les végétaux ou produits végétaux décrits ci-dessus: - ont été inspectés suivant des procédures adaptćes, - sont estimés indemnes d’ennemis par la réglementation phytosanitaire et pratiquement indemnes d’autres ennemis dangereux, et - sont jugés conformes 4 la réglementation phytosanitaire en vigueur dans le pays importateur. Déclaration supplémentaire Traitement de désinfestation et/oude désinfection Traitement Produit chimique (matiére active) Durée et température Concentration Date Renseignements complémentaires Lieu de délivrance Date Nom et signature du functionnaire autorisé Cachet de l’Organisation"
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Ursprungsort",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "DEUTSCH"
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Angegebener Transportmittel 7, Angegebener Grenziibertrittsort",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "1. Name und Adresse des Absenders"
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Unterscheidungsmerkmale; Zahl und Art der Packstiicke; Name des",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2. Pflanzengesundheitszeugnis Nr."
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "12.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "3. Name und Adresse des angegebenen Empfangers"
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "14. 15. 16. 17.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Erzeugnisses; botanischer Name der Pflanzen Angegebene Menge . Hiermit wird bescheinigt, daB die oben beschriebenen Pflanzen oder Pflanzenerzeugnisse - nach geeugneten Verfahren untersucht worden sind und - frei von Quarantaneschadorganismen und praktisch frei von anderen gefihrichen Schadorganismen befunden wurden; und daB sie - als den bestehenden Pflanzenschutzvorschrifien des Bestimmungslandes entsprechend angesehen werden. Zusatzliche Erklarung Entseuchung und/oder Desinfizierung Behandlung Chemikalie (Wirkstoff) Dauer und Temperatur Konzentration Datum Sonstige Angaben Ort der Ausstellung Datum Name und Unterschrift des amtlichen Beauftragten Dienstsiegel"
+      },
+      {
+       "type": "text",
+       "text": "PYCCKHH BwWwn-"
+      },
+      {
+       "type": "text",
+       "text": "PNDM"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "4. Pflanzenschutzdienst von Polen an Pflanzenschutzdienst(e) von"
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "12.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "5. Ursprungsort"
-    },
-    {
-     "type": "ocr",
-     "text": "6. Angegebener Transportmittel 7, Angegebener Grenziibertrittsort"
-    },
-    {
-     "type": "ocr",
-     "text": "8. Unterscheidungsmerkmale; Zahl und Art der Packstiicke; Name des"
-    },
-    {
-     "type": "ocr",
-     "text": "11. 12."
-    },
-    {
-     "type": "ocr",
-     "text": "13. 14. 15. 16. 17."
-    },
-    {
-     "type": "ocr",
-     "text": "Erzeugnisses; botanischer Name der Pflanzen Angegebene Menge . Hiermit wird bescheinigt, daB die oben beschriebenen Pflanzen oder Pflanzenerzeugnisse - nach geeugneten Verfahren untersucht worden sind und - frei von Quarantaneschadorganismen und praktisch frei von anderen gefihrichen Schadorganismen befunden wurden; und daB sie - als den bestehenden Pflanzenschutzvorschrifien des Bestimmungslandes entsprechend angesehen werden. Zusatzliche Erklarung Entseuchung und/oder Desinfizierung Behandlung Chemikalie (Wirkstoff) Dauer und Temperatur Konzentration Datum Sonstige Angaben Ort der Ausstellung Datum Name und Unterschrift des amtlichen Beauftragten Dienstsiegel"
-    },
-    {
-     "type": "ocr",
-     "text": "PYCCKHH BwWwn-"
-    },
-    {
-     "type": "ocr",
-     "text": "PNDM"
-    },
-    {
-     "type": "ocr",
-     "text": "11. 12."
-    },
-    {
-     "type": "ocr",
-     "text": "13. 14. 15. 16. 17."
-    },
-    {
-     "type": "ocr",
-     "text": "SkcnopTep H ero anpec ©DMTOCAHKTApHbIi cepTupukatT Ilonyuarenb H ero aqpec OpraHnzanua ZaiUTbi Pactennit Tlonpcxoit PecnyÓnuku OpraHH3A1 KK no 3ai1uTe pacTeHHh (CTpaHa) MecTo HpoHcXOXKNEHHA TpaHcnopTHoe Cpe4CTBO IIyHKT BBO3A TIpu3Haku rpy3a; HOMep H pO yrIaKOBKH; HaHMEHOBAHHE NIpOAYKUHH; ÓOTAHHUECKOE HA3BAHHE pacTenHii JleknapHpoBaHHoe KOJIMHUECTBO . YAOCTOBEpACTCA, UTO pacTeHHA HIM pACTHTENBHAA NpOAyKUMA, ONHCAHHAA BEILE: - ObiiH OÓCJIEJOBAHbI B COOTBETCTBHK C CYLNIECTBYKOLIMMH METOJMKAMA M NpaBHJiaMH H + IpH3HaHBbi CBOÓONHBIMH OT KaDAHTHHHBIX H ApyTHX Bpeznarejefi H - 4TO OHM OTBEUAIOT PHTOCAHKTAPHBIM HpABHJIAM CTDAHKI uMnopTepa. MONONHHTEJBGHAXA XEKIADALUKA Ounctka H/M O0E33apaxxHBAHKE Cnoco6 oópaóoTku XuMkaT (aKT. CpeACTBO) DKCIIOZKLIKA H TEMIIEpaTypa KouuenTpaina Tiara [oNoNHuTENBHAA JEKJIApPALKA MeCTO BblauH Jara ©aMHNKA H NOJUIMCE TOCYNAPCTBEHHOTO HHCIIEKTOPA Heuarb"
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "14. 15. 16. 17.",
+     "children": [
+      {
+       "type": "text",
+       "text": "SkcnopTep H ero anpec ©DMTOCAHKTApHbIi cepTupukatT Ilonyuarenb H ero aqpec OpraHnzanua ZaiUTbi Pactennit Tlonpcxoit PecnyÓnuku OpraHH3A1 KK no 3ai1uTę pacTeHHh (CTpaHa) MecTo HpoHcXOXKNEHHA TpaHcnopTHoe Cpe4CTBO IIyHKT BBO3A TIpu3Haku rpy3a; HOMep H pO yrIaKOBKH; HaHMEHOBAHHE NIpOAYKUHH; ÓOTAHHUECKOE HA3BAHHE pacTenHii JleknapHpoBaHHoe KOJIMHUECTBO . YAOCTOBEpACTCA, UTO pacTeHHA HIM pACTHTENBHAA NpOAyKUMA, ONHCAHHAA BEILE: - ObiiH OÓCJIEJOBAHbI B COOTBETCTBHK C CYLNIECTBYKOLIMMH METOJMKAMA M NpaBHJiaMH H + IpH3HaHBbi CBOÓONHBIMH OT KaDAHTHHHBIX H ApyTHX Bpeznarejefi H - 4TO OHM OTBEUAIOT PHTOCAHKTAPHBIM HpABHJIAM CTDAHKI uMnopTepa. MONONHHTEJBGHAXA XEKIADALUKA Ounctka H/M O0E33apaxxHBAHKE Cnoco6 oópaóoTku XuMkaT (aKT. CpeACTBO) DKCIIOZKLIKA H TEMIIEpaTypa KouuenTpaina Tiara [oNoNHuTENBHAA JEKJIApPALKA MeCTO BblauH Jara ©aMHNKA H NOJUIMCE TOCYNAPCTBEHHOTO HHCIIEKTOPA Heuarb"
+      }
+     ]
     }
    ]
   },
@@ -209,187 +267,338 @@
     },
     {
      "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Poz."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Rewers"
     },
     {
-     "type": "ocr",
-     "text": "ENGLISH DEUTSCH"
+     "type": "text",
+     "text": "ENGLISH"
     },
     {
-     "type": "ocr",
-     "text": "1. Name and address of exporter 1. Name und Adresse des Absenders"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Name and address of exporter",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2. Phytosanitary certificate for re-export No 2. Pflanzengesundheitszeugnis fir die Wiederausfuhr Nr."
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Phytosanitary certificate for re-export No",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "3. Declared name and address of consignee 3. Name und Adresse des angegebenen Empfingers"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Declared name and address of consignee",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4. Plant Protection Organization of Poland to Plant Protection 4. Pflanzenschutzdienst von Polen an Pflanzenschutzdienst(e) von Organization(s) of 5. Ursprungsort"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Plant Protection Organization of Poland to Plant Protection Organization(s) of",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "5. Place of origin 6. Angegebener Transportmittel"
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Place of origin",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "6. Declared means of conveyance 7. Angegebener Grenzibertrittsort 7, Declared point of entry 8. Unterscheidungsmerkmale; Zahl und Art der Packstiicke; Name des"
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Declared means of conveyance 7, Declared point of entry",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "8. Distinguishing marks, number and description of packages; name of Erzeugnisses; botanischer Name der Pflanzen produce; botanical name of plants"
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Distinguishing marks, number and description of packages; name of produce; botanical name of plants",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "9. Quantity declared"
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Quantity declared",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "10. This is to certify — that the plants or plant products described above were imported into _____ (country of re-export) from ___— (country of origin) covered by Phytosanitary Certificate No __ poriginal u cerified true copy of which is attached to this Certificate, — that they are o packed 0 repacked in o original 0 new containers, — that based on m the original Phytosanitary Certificate o and additional inspection, they are considered to comform with the current phytosanitary regulations of the importing country, and — that during storage in the (country of re-export) the consignment has not been subjected to the risk of infestation or infection"
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "This is to certify — that the plants or plant products described above were imported into _____ (country of re-export) from ___— (country of origin) covered by Phytosanitary Certificate No __ poriginal u cerified true copy of which is attached to this Certificate, — that they are o packed 0 repacked in o original 0 new containers, — that based on m the original Phytosanitary Certificate o and additional inspection, they are considered to comform with the current phytosanitary regulations of the importing country, and — that during storage in the (country of re-export) the consignment has not been subjected to the risk of infestation or infection",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "11. Additional declaration"
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Additional declaration",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "12. Disinfestation and/or disinfection treatment Treatment"
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Disinfestation and/or disinfection treatment Treatment",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "13. Chemical (active ingredient)"
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "Chemical (active ingredient)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "14. Duration and temperature"
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "Duration and temperature",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "15. Concentration"
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "Concentration",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "16. Date"
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Date",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "17. Additional information Place of issue Date Name and signature of authorized officer Stamp of Organization"
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "Additional information Place of issue Date Name and signature of authorized officer Stamp of Organization",
+     "children": [
+      {
+       "type": "text",
+       "text": "FRANCAIS"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "FRANCAIS"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nom et adresse de l’expéditeur",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "1. Nom et adresse de l’expéditeur"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Certificat phytosanitaire No",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2. Certificat phytosanitaire No"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Nom et adresse déclarés du destinataire",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "3. Nom et adresse déclarés du destinataire"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Organisation de la Protection des Végétaux de Pologne a: Organisation(s) de la Protection des Végétaux de . Lieu d’origine GO —1 O tn . Moyen de transport . Point d’entrée déclaré . Marques des colis; nombre et nature des colis; nom du produit; nom botanique des plantes",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4. Organisation de la Protection des Végétaux de Pologne a: Organisation(s) de la Protection des Végétaux de . Lieu d’origine . Moyen de transport . Point d’entrée déclaré . Marques des colis; nombre et nature des colis; nom du produit; nom botanique des plantes"
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Quantité déclarée 10.II est certifić — que les veugétaux ou produits végétaux décrits ci-dessus ont été importés en _ (pays de réexportation) en provenance de ___ (pays d’origine) et ont fait Fobject du Certificat phytosanitaire no. _____ dont o I'original m la copie authentifiée est annexé(e) au prósent certificat, — qu ‘ils sont i emballćs o réemballées n dans les emballages initiaux m dans de nouveaux emballages, — que d’aprés a le Certificat phytosanitaire original n et une inspection supplémentaire, l’envoi est estimć conforme a la réglementation phytosanitaire en vigueur dans le pays importateur, et — qu’au cours de I\" emmagasinage dans la (pays de rćexportation) il n’a pas été exposé au risque d’infestation ou d'infection",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "9. Quantité déclarée 10.II est certifić — que les veugétaux ou produits végétaux décrits ci-dessus ont été importés en _ (pays de réexportation) en provenance de ___ (pays d’origine) et ont fait Fobject du Certificat phytosanitaire no. _____ dont o I'original m la copie authentifiée est annexé(e) au prósent certificat, — qu ‘ils sont i emballćs o réemballées n dans les emballages initiaux m dans de nouveaux emballages, — que d’aprés a le Certificat phytosanitaire original n et une inspection supplémentaire, l’envoi est estimć conforme a la réglementation phytosanitaire en vigueur dans le pays importateur, et — qu’au cours de I\" emmagasinage dans la (pays de rćexportation) il n’a pas été exposé au risque d’infestation ou d'infection"
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Déclaration supplémentaire",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "11. Déclaration supplémentaire"
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Traitement de désinfestation et/ou de désinfection Traitement 13.Produit chimique (matiére active)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "12. Traitement de désinfestation et/ou de désinfection Traitement 13.Produit chimique (matiére active)"
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "Durée et température",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "14. Durée et température"
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "Concentration",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "15. Concentration"
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Date 17.Renseignements complémentaires Lieu de délivrance Date Nom et signature du functionnaire autorisć Cachet de I Organisation",
+     "children": [
+      {
+       "type": "text",
+       "text": "DEUTSCH"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "16. Date 17.Renseignements complémentaires Lieu de délivrance Date Nom et signature du functionnaire autorisć Cachet de I Organisation"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Name und Adresse des Absenders",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "GO —1 O tn"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Pflanzengesundheitszeugnis fir die Wiederausfuhr Nr.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Angegebene Menge"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Name und Adresse des angegebenen Empfingers",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "0. Hiermit wird bescheinigt, dass — die oben beschriebenen Pflanzen oder Pflanzenerzeugnisse aus ____ (Ursprugsland) nach ____(Weiterversendeland) eingefiihrt worden sind und daB ihnen das Pflanzengesundheitszeugnis Nr. ____ beigefugt war, dessen m Original oder a beglaubigte Kopie in der Anlage vorliegt; — sie o verpackt 0 umgepackt worden sind 0 in ihre urspriinglichen 0 in neue Behaltnisse; — auf Grund c des urspriinglichen Pflanzengesundheitszeugnisses 0 und einre zusatzlichen Untersuchung die obengenannten Pflanzen oder Pflanzenerzeugnisse als den geltenden Pflanzenschutzvorschriften des Bestimmungslandes entsprechend angesehen und — die Sendung wiihrend ihrer Einlagerung in der _ (Weiterversendeland) keiner Gefahr eines Befalls oder einer Infizierung ausgesetzt war"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Pflanzenschutzdienst von Poleń an Pflanzenschutzdienst(e) von",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "11. Zusatzliche Erklarung . Entseuchung und/oder Desinfizierung Behandlung . Chemikalie (Wirkstoff) . Dauer und Temperatur . Konzentration . Datum . Sonstige Angaben Ort der Ausstellung Datum Name und Unterschrift des amtlichen Beauftragten Dienstsiegel"
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Ursprungsort",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "PYCCKHH"
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Angegebener Transportmittel",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "1. SkcnopTep M ero anpec"
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Angegebener Grenzibertrittsort",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2. WyrocaHnrapHblii ceprupukaT"
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Unterscheidungsmerkmale; Zahl und Art der Packstiicke; Name des Erzeugnisses; botanischer Name der Pflanzen Angegebene Menge [=",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "3. Tlonyyarenb n ero anpec"
+     "type": "ust",
+     "num": "0",
+     "path": "ust_0",
+     "text": "Hiermit wird bescheinigt, dass — die oben beschriebenen Pflanzen oder Pflanzenerzeugnisse aus ____ (Ursprugsland) nach ____(Weiterversendeland) eingefiihrt worden sind und daB ihnen das Pflanzengesundheitszeugnis Nr. ____ beigefugt war, dessen m Original oder a beglaubigte Kopie in der Anlage vorliegt; — sie o verpackt 0 umgepackt worden sind 0 in ihre urspriinglichen 0 in neue Behaltnisse; — auf Grund c des urspriinglichen Pflanzengesundheitszeugnisses 0 und einre zusatzlichen Untersuchung die obengenannten Pflanzen oder Pflanzenerzeugnisse als den geltenden Pflanzenschutzvorschriften des Bestimmungslandes entsprechend angesehen und — die Sendung wiihrend ihrer Einlagerung in der _ (Weiterversendeland) keiner Gefahr eines Befalls oder einer Infizierung ausgesetzt war",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4. Oprann3anua Jamurbi Pacreinń Ilonsckoń PecnyGnnku Opranv3auMn no 3auiuTe pacTeHHA (CTpaHa) MecTo npoucXoX1CHHA TpancnopTHoe CDEHCTBO IIyHKT BBO3A Tipuziaku rpy3a; HOMep U pod YyIaKOBKK; HpoRyKLUHK; ÓOTAHHHECKOE Ha3BAHHE paCTEHHH JiekJlapupoBaHHO€ KOJIMUECTBO"
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Zusatzliche Erklarung . Entseuchung und/oder Desinfizierung Behandlung . Chemikalie (Wirkstoff) . Dauer und Temperatur . Konzentration . Datum . Sonstige Angaben Ort der Ausstellung Datum Name und Unterschrift des amtlichen Beauftragten Dienstsiegel",
+     "children": [
+      {
+       "type": "text",
+       "text": "PYCCKHH"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "0. Yaocropepsetca, UTO — BbIIIICHA3BAHHBIE PACTEHHA WH PACTMTEJIBHBIE NPOAYKTH! Onin HMIIOPTHpoBAHBi B Ilorkmy u3 ____ (CTpaHa NpOHCXOKACHHA) C dhurocaHuTapHkiM cepTubukarom Ho ___ © OpHrHHan O YTBEPXKNEHHAA KONA, KOTOpylO IpHCOEJKHACTCA kK 3TOMy ceprudukaTy, — OHH O INOTPYKEHBI C MeperpyxXeHbI CI B ODHTHHAJIGHbIE O HOBBIE YNAKOBKH, OMUDAACH Ha ODHTHUHAJIKHOM (QUTOCAHHTADHOM ceprubukaTe M NOGaBOUHOM KOHTDOJE CHHTAETCA; 4TO OHM COTJIACHBI C COOTBETCTBYTOLIKMA IMDPABKJIAMH CTpaHbl HMNoptepa,"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "SkcnopTep M ero anpec",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "M — BO BpeMa xpaHeHua B IIONkuIe NOCHUIKA He ÓBIJIA NOMNBEPTHyTA OTACTHOCTH IOPAKEHKA WIM UKQEKUMH"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "WyrocaHnrapHblii ceprupukaT",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "11. AononHuTerbHaa neklapanua . Ounctka u/Unu o6e33apaKHBAHHE Cnoco6 oópa60Tku . XUMKAT (AKT. CpeJCTBO) . DKCIIO3HIUA H TEMriepaTypa . KoHneHTpauia „ Hara . JlononiuTenbHaa Aeknapauna MecrTo BBINAUHM Jara QaMHIHA H NOJNACE TOCYNADCTBEHHOTO HHCIIEKTOPA IlewaTk"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Tlonyyarenb n ero anpec",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "[="
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Oprann3anua Jamurbi Pacreinń Ilonsckoń PecnyGnnku Opranv3auMn no 3auiuTe pacTeHHA (CTpaHa) MecTo npoucXoX1CHHA INN TpancnopTHoe CDEHCTBO IIyHKT BBO3A Tipuziaku rpy3a; HOMep U pod YyIaKOBKK; HaHMCHOBAHHE HpoRyKLUHK; ÓOTAHHHECKOE Ha3BAHHE paCTEHHH JiekJlapupoBaHHO€ KOJIMUECTBO",
+     "children": [
+      {
+       "type": "text",
+       "text": "="
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "INN HaHMCHOBAHHE"
+     "type": "ust",
+     "num": "0",
+     "path": "ust_0",
+     "text": "Yaocropepsetca, UTO — BbIIIICHA3BAHHBIE PACTEHHA WH PACTMTEJIBHBIE NPOAYKTH! Onin HMIIOPTHpoBAHBi B Ilorkmy u3 ____ (CTpaHa NpOHCXOKACHHA) C dhurocaHuTapHkiM cepTubukarom Ho ___ © OpHrHHan O YTBEPXKNEHHAA KONA, KOTOpylO IpHCOEJKHACTCA kK 3TOMy ceprudukaTy, — OHH O INOTPYKEHBI C MeperpyxXeHbI CI B ODHTHHAJIGHbIE O HOBBIE YNAKOBKH, OMUDAACH Ha ODHTHUHAJIKHOM (QUTOCAHHTADHOM ceprubukaTe M NOGaBOUHOM KOHTDOJE CHHTAETCA; 4TO OHM COTJIACHBI C COOTBETCTBYTOLIKMA IMDPABKJIAMH CTpaHbl HMNoptepa,",
+     "children": [
+      {
+       "type": "text",
+       "text": "M — BO BpeMa xpaHeHua B IIONkuIe NOCHUIKA He ÓBIJIA NOMNBEPTHyTA OTACTHOCTH IOPAKEHKA WIM UKQEKUMH"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "="
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "AononHuTerbHaa neklapanua . Ounctka u/Unu o6e33apaKHBAHHE Cnoco6 oópa60Tku . XUMKAT (AKT. CpeJCTBO) . DKCIIO3HIUA H TEMriepaTypa . KoHneHTpauia „ Hara . JlononiuTenbHaa Aeknapauna MecrTo BBINAUHM Jara QaMHIHA H NOJNACE TOCYNADCTBEHHOTO HHCIIEKTOPA IlewaTk",
+     "children": []
     }
    ]
   }

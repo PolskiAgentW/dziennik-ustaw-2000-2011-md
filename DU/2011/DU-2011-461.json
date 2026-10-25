@@ -1,7 +1,7 @@
 {
  "eli": "DU/2011/461",
  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 1 kwietnia 2011 r. zmieniające rozporządzenie w sprawie sposobu i trybu sporządzania oraz dostarczania do Krajowego Rejestru Karnego kart rejestracyjnych i zawiadomień",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2011/461/text.pdf",
  "body": [
   {
@@ -68,7 +68,7 @@
      "children": [
       {
        "type": "text",
-       "text": "„7a) z awiadomienie o wykonywaniu tymczasowego aresztowania;”;",
+       "text": "„7a) zawiadomienie o wykonywaniu tymczasowego aresztowania;”;",
        "quoted": true
       }
      ]
@@ -212,62 +212,54 @@
     },
     {
      "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "8 | Data wydania postanowienia o wznowieniu postępowania sądowego zakończonego prawomocnym orzeczeniem odnotowanym w Rejestrze"
     },
     {
-     "type": "ocr",
-     "text": "Dziennik Ustaw Nr 85 — 5203 —"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "I Rodzaj i wymiar 9 Rodzaj"
     },
     {
-     "type": "ocr",
-     "text": "Kara Data wykonania 8 Data rozpoczecia = Data wydania CH Data zakończenia i treść & & | lub wykonania*) postanowienia 2 Data uchylenia o zamianie ~ 2 Rodzaj Miejsce wykonywania Środek karmy | Data wykonania 10 | Postanowienie o zarządzeniu | Data wykonania warunkowo wydania zawieszonej kary pozbawienia 5 wolności, ograniczenia ata ; \"= , uchylenia wolności lub grzywny*) 3 Data wydania 11 | Data wydania postanowienia postanowienia o zwolnieniu z odbycia reszty Warunkowe kary ograniczenia wolności zwolnienie - - Sygnatura sądu 12 | Data umorzenia postępowania penitencjarnego wykonawczego z powodu Okres próby śmierci osoby"
+     "type": "text",
+     "text": "Kara Data wykonania 8 Data rozpoczęcia = Data wydania CH Data zakończenia i treść & & | lub wykonania*) postanowienia 2 Data uchylenia o zamianie ~ 2 Rodzaj Miejsce wykonywania Środek karmy | Data wykonania 10 | Postanowienie o zarządzeniu | Data wykonania warunkowo wydania zawieszonej kary pozbawienia 5 wolności, ograniczenia ata ; \"= , uchylenia wolności lub grzywny*) 3 Data wydania 11 | Data wydania postanowienia postanowienia o zwolnieniu z odbycia reszty Warunkowe kary ograniczenia wolności zwolnienie - - Sygnatura sądu 12 | Data umorzenia postępowania penitencjarnego wykonawczego z powodu Okres próby śmierci osoby"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Dozór tak nie*)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4 | Odwołanie Data wydania 13 | Data umorzenia postępowania warunkowego | poslanowienia wykonawczego zwolnienia (podstawa prawna) 5 Data wydania 14 | Data podjęcia warunkowa Zarządzenie | postanowienia umorzonego postępowania zatarcia karnego w sprawach o skazania Data przestępstwa lub przestępstwa uprawomocnienia skarbowe"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Podstawa prawna 15 | Data uchylenia prawomocnego orzeczenia w wyniku kasacji"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "6 Data wydania 16 | Data postanowienia Zawieszenie | postanowienia o przywróceniu terminu do wykonania zaskarżenia orzeczenia zastępczej kary Data 17 | Data stwierdzenia nieważności pozbawienia WR - wolności uprawomocnienia prawomocnego orzeczenia"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Okres próby 18 Data 5 g zastosowania"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "7 |Odroczenie | Data wydania 2 = Data odwołania lub postanowienia ZĘ przerwa*) SE SA & wykonania | Okres FIE Treść kary odroczenia lub Ę Ń postanowienia pozbawienia | przerwy”) < wolności"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "*) Niepotrzebne skreślić."
     },
     {
-     "type": "ocr",
-     "text": "Data sporządzenia"
+     "type": "text",
+     "text": "Data sporządzenia pieczęć urzędowa"
     },
     {
-     "type": "ocr",
-     "text": "pieczęć urzędowa"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "POdpIS a (nazwisko, imię, stanowisko i podpis osoby sporządzającej)"
     }
    ]
@@ -389,39 +381,56 @@
     },
     {
      "type": "note",
-     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "1. Postanowieniem Sądu... seen anawa PAK CA w sprawie O Sygn. akt eee aaa wina udzielono zezwolenia na odbycie kary pozbawienia wolności poza zakładem karnym w systemie dozoru elektronicznego orzeczonej wyrokiem Sądu ENO Z NIA .........2.11111121...... W Sprawie o sygn. akt I instancji oe arena canacanać"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Postanowieniem Sądu... seen a nawa PAK CA w sprawie O Sygn. akt eee aaa wina udzielono zezwolenia na odbycie kary pozbawienia wolności poza zakładem karnym w systemie dozoru elektronicznego orzeczonej wyrokiem Sądu ENO Z NIĄ .........2.11111121...... W Sprawie o sygn. akt I instancji oe arena canacanać",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2. Postanowieniem Sądu ........eeeeeeea seen ae aaa aaa aaa aaa aaa aawa aaa aaa aaaaaaawaa aaa agaa aaa aawzaa awa ZUMA oo. cecccccessesneseteesseeenseees w sprawie O sygn. akt oe eee eesectteeeeereeee uchylono zezwolenie na odbycie kary pozbawienia wolności poza zakładem karnym w systemie dozoru elektronicznego orzeczonej wyrokiem Sądu .............e eee eee azer PAK CE A w sprawie o sygn. akt I instancji — ........e.e.eeesee aaa aaa aaa ana anaacaa"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Postanowieniem Sądu ........eeeeeeea seen ae aaa aaa aaa aaa aaa aawa aaa aaa aaaaaaawaa aaa agaa aaa aawzaa awa ZUMA oo. cecccccessesneseteesseeenseees w sprawie O sygn. akt oe eee eesectteeeeereeee uchylono zezwolenie na odbycie kary pozbawienia wolności poza zakładem karnym w systemie dozoru elektronicznego orzeczonej wyrokiem Sądu .............e eee eee azer PAK CE A w sprawie o sygn. akt I instancji — ........e.e.eeesee aaa aaa aaa ana anaacaa",
+     "children": [
+      {
+       "type": "text",
+       "text": "COZ NA zawiadamia, że dnia ............ssuasaaa aaa szaawnsaae wykonano karę pozbawienia wolności odbywaną w systemie dozoru elektronicznego, orzeczona wyrokiem że A w sprawie o sygn. akt I instancji ..........--:.-s4-s4424112112"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "COZ NA zawiadamia, że dnia ............ssuasaaa aaa szaawnsaae wykonano karę pozbawienia wolności odbywaną w systemie dozoru elektronicznego, orzeczona wyrokiem że A w sprawie o sygn. akt I instancji ..........--:.-s4-s4424112112"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Postanowieniem Sądu ....ccccccccsessesssseessseesscssecscecssesseessecscecsecnscesaecaeeseensseaeseesssesenesensanes Z dNiA woe eaaaa aaa asa anaaewaa w sprawie 0 sygn. Akt wee ceseeseeesseeeeteeeee eee udzielono przerwy w wykonywaniu kary pozbawienia wolności odbywanej w systemie dozoru elektronicznego orzeczonej wyrokiem Sadu .....---e-eeees saa ano aaa waza aaa aaa raza aaa aa aiz aw ii w sprawie o sygn. akt | instannc]i NO w okresie Od ..........1.1112114:11111121 (6 (0",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4. Postanowieniem Sądu ....ccccccccsessesssseessseesscssecscecssesseessecscecsecnscesaecaeeseensseaeseesssesenesensanes Z dNiA woe eaaaa aaa asa anaaewaa w sprawie 0 sygn. Akt wee ceseeseeesseeeeteeeee eee udzielono przerwy w wykonywaniu kary pozbawienia wolności odbywanej w systemie dozoru elektronicznego orzeczonej wyrokiem Sadu .....---e-eeees saa ano aaa waza aaa aaa raza aaa aa aiz aw ii w sprawie o sygn. akt | instannc]i NO w okresie Od ..........1.1112114:11111121 (6 (0"
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Postanowieniem Sad oo... cece sess eseeeseserseeeseeeserecececeeeeeeseseneceegeseseceneeseseseseeneneseseneneens Z ANIA awa i uprawomocnionym dnia occ w sprawie o Sygn. Akt wc asza sea asa asa aa ewa ca warunkowo zawieszono na okres próby 2...24..24:21:212. wykonanie reszty kary pozbawienia wolności odbywanej w systemie dozoru elektronicznego orzeczonej wyrokiem Sądu oo... eee eee eee aaa aaa aaa aaa aacaaaea Z dNIA oe teens w sprawie o sygn. akt linstancji ee eeeeeeeeseeeeeeee . Orzeczono karę grzywny w WYSOKOŚCI es usesueea saa zaawan aaa aaa anawarecaaa . ODOWIAZKA ooo ccccccccceseeseesceeecsseeesceecnsecsecasceesseeecaeenssesaecseseseessceaeenees Dozór kuratora: tak _ nie*) *) Niepotrzebne skreślić.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "5. Postanowieniem Sad oo... cece sess eseeeseserseeeseeeserecececeeeeeeseseneceegeseseceneeseseseseeneneseseneneens ZANIA awa i uprawomocnionym dnia occ w sprawie o Sygn. Akt wc asza sea asa asa aa ewa ca warunkowo zawieszono na okres próby 2...24..24:21:212. wykonanie reszty kary pozbawienia wolności odbywanej w systemie dozoru elektronicznego orzeczonej wyrokiem Sądu oo... eee eee eee aaa aaa aaa aaa aacaaaea Z dNIA oe teens w sprawie o sygn. akt linstancji ee eeeeeeeeseeeeeeee . Orzeczono karę grzywny w WYSOKOŚCI es usesueea saa zaawan aaa aaa anawarecaaa . ODOWIAZKA ooo ccccccccceseeseesceeecsseeesceecnsecsecasceesseeecaeenssesaecseseseessceaeenees Dozór kuratora: tak _ nie*) *) Niepotrzebne skreślić."
-    },
-    {
-     "type": "ocr",
-     "text": "6. Postanowieniem Sado... sec ceceseeeceseesceceeceececeecsecsesencseesevsucseneeseeeeeeseesesneeneeeeatens Z ANIA oeeeeeeseseeeeeeeetereeeneees w sprawie o sygn. akt oe uchylono postanowienie o warunkowym zawieszeniu wykonania reszty kary pozbawienia wolności odbywanej w systemie dozoru elektronicznego orzeczonej wyrokiem Sądu ......-.-e-:-seeeoea serer anna H w sprawie o sygn. akt I instance]... eee eeeeeneeeeeeeeee"
-    },
-    {
-     "type": "ocr",
-     "text": "pieczęć urzędowa"
-    },
-    {
-     "type": "ocr",
-     "text": "Data sporządzenia .....................-..-........ | KUCIE (nazwisko, imię, stanowisko i podpis osoby sporządzającej)"
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Postanowieniem Sado... sec ceceseeeceseesceceeceececeecsecsesencseesevsucseneeseeeeeeseesesneeneeeeatens Z ANIA oeeeeeeseseeeeeeeetereeeneees w sprawie o sygn. akt oe uchylono postanowienie o warunkowym zawieszeniu wykonania reszty kary pozbawienia wolności odbywanej w systemie dozoru elektronicznego orzeczonej wyrokiem Sądu ......-.-e-:-seeeoea serer anna H w sprawie o sygn. akt I instance]... eee eeeeeneeeeeeeeee",
+     "children": [
+      {
+       "type": "text",
+       "text": "pieczęć urzędowa"
+      },
+      {
+       "type": "text",
+       "text": "Data sporządzenia .....................-..-........ | KUCIE (nazwisko, imię, stanowisko i podpis osoby sporządzającej)"
+      }
+     ]
     }
    ]
   },
