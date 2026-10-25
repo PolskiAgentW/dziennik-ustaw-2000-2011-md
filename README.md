@@ -79,7 +79,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-25 20:41 UTC (liczone z `index.csv`).
+Stan na 2026-10-25 23:08 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -100,7 +100,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 3487, razem 66550 z 160
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 5400.
 
 Rodzaje aktów: Rozporządzenie 18305, Oświadczenie rządowe 633, Umowa międzynarodowa 342, Konwencja 98, Protokół 78, Obwieszczenie 39, Porozumienie 37, Uchwała 26, Postanowienie 25, Dokument wypowiedzenia 12, Traktat 11, Decyzja 2, Statut 2, Ustawa 1, Deklaracja 1, Akt 1, Układ 1.
-Wersje konwertera: eli2md 0.6.18 (6501), eli2md 0.6.17 (5298), eli2md 0.6.22 (3564), eli2md 0.6.24 (2552), eli2md 0.6.62 (998), eli2md 0.6.16 (319), eli2md 0.6.37 (291), eli2md 0.6.65 (42), eli2md 0.6.66 (34), eli2md 0.6.63 (8), eli2md 0.6.61 (6), eli2md 0.6.39 (1).
+Wersje konwertera: eli2md 0.6.18 (6501), eli2md 0.6.17 (5298), eli2md 0.6.22 (3564), eli2md 0.6.24 (2552), eli2md 0.6.62 (993), eli2md 0.6.16 (319), eli2md 0.6.37 (291), eli2md 0.6.65 (40), eli2md 0.6.66 (34), eli2md 0.6.63 (8), eli2md 0.6.68 (7), eli2md 0.6.61 (6), eli2md 0.6.39 (1).
 <!-- stats:end -->
 
 ## Zawartość
@@ -312,6 +312,15 @@ nagłówków, w 6 reszta tekstu różniła się o więcej niż 0,5% (DU/2001/121
 1427), w 7 zmieniała się liczba jednostek §: OCR bierze numer wiersza listy za sklejone „§” („50. Bezafibratum” →
 „§ 0. Bezafibratum”, DU/2007/205; też DU/2000/1247, DU/2001/454, DU/2005/2010, DU/2008/807, DU/2011/3), a w DU/2001/1772
 „§ 2.” przestaje być nagłówkiem.
+
+2026-10-26, eli2md 0.6.68, 7 aktów (opis w README eli2md, wpis 0.6.68): poprawka usterki z przeliczeń 2026-10-25. OCR
+brał numer wiersza listy zaczynający się od „5” albo „8” za sklejone „§”, także gdy zostawało „§ 0.” („50. Bezafibratum”
+→ „§ 0. Bezafibratum”, „504. Lisinoprilum” → „§ 04.”). Przeliczyłem 11 aktów, w których 0.6.68 to zmienia. Nowy plik
+zostaje w 7 (DU/2001/1078, 1313, DU/2004/655, DU/2006/984, DU/2007/1651, DU/2009/1569, DU/2010/245): zmieniają się tylko
+cyfry numerów, nagłówków „§ N.” jest mniej (172 → 150), wierszy „§ 0.” w zbiorze było 7, nie ma żadnego. W 5 z tych 7
+(poza DU/2004/655 i DU/2006/984) i w 9 innych przeliczonych 2026-10-25 (DU/2000/401, DU/2001/1221, 1812, DU/2002/571, 1518, DU/2003/492, 1174, 1575,
+DU/2004/1763) nadal są numery listy wzięte za „§” (np. „54. podkładki …” → „§ 4.”) tam, gdzie na stronie nie ma „50.”
+ani „80.”. 4 akty (DU/2005/2010, DU/2007/205, DU/2008/807, DU/2011/3) zostają w wersji sprzed 2026-10-25.
 
 **Czego te liczby nie mówią:**
 
