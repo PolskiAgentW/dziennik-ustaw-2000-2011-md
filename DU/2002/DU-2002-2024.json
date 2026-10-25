@@ -1,7 +1,7 @@
 {
  "eli": "DU/2002/2024",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 grudnia 2002 r. zmieniające rozporządzenie w sprawie wzorów kart rejestracyjnych, sposobu ich wypełniania oraz katalogów rodzajów przestępstw, cech rysopisowych i znaków szczególnych.",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2002/2024/text.pdf",
  "body": [
   {
@@ -118,11 +118,47 @@
     },
     {
      "type": "text",
-     "text": "Rejestracja osoby: dane personalne ELEKTRONICZNA KARTA REJESTRACYJNA DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH"
+     "text": "Rejestracja osoby: dane personalne"
     },
     {
      "type": "text",
-     "text": "* Mazwisko: * 4 Imiefimiona: * Imiona poprzednie: 4 Nazwiska poprzednie: * Imię ojca: Imię matki: Nazwisko rodowe matki: * Data urodzenia: Miejsce urodzenia: * Płeć: A Pseudonimy: + | Numer PESEL: A Obywatelstwa: Numer NIP: Numer REGON:"
+     "text": "ELEKTRONICZNA KARTA REJESTRACYJNA DO KRAJOWEGO CENTRUM INFORMACJI KRYMINALNYCH"
+    },
+    {
+     "type": "text",
+     "text": "* Mazwisko:"
+    },
+    {
+     "type": "text",
+     "text": "* 4 Imiefimiona:"
+    },
+    {
+     "type": "text",
+     "text": "* Imiona poprzednie: 4 Nazwiska poprzednie: * Imię ojca:"
+    },
+    {
+     "type": "text",
+     "text": "Imię matki:"
+    },
+    {
+     "type": "text",
+     "text": "Nazwisko rodowe matki:"
+    },
+    {
+     "type": "text",
+     "text": "* Data urodzenia:"
+    },
+    {
+     "type": "text",
+     "text": "Miejsce urodzenia: * Płeć:"
+    },
+    {
+     "type": "text",
+     "text": "A Pseudonimy: + | Numer PESEL: A Obywatelstwa:"
+    },
+    {
+     "type": "text",
+     "text": "Numer NIP: Numer REGON:"
     },
     {
      "type": "text",
@@ -134,7 +170,11 @@
     },
     {
      "type": "text",
-     "text": "A - pole lub lista może zawierać więcej niż jeden element. +| - oznacza, że dla obywateli polskich (obywatelstwo POLSKIE) pole Numer PESEL jest wymagalne (*), w przypadku innych obywatelstw (w tym POLSKIE BEZ NUMERU PESEL) pole Numer PESEL jest nieobowiązkowe. Nazwisko Imię/imiona Imiona poprzednie Nazwiska poprzednie — w tym fałszywe, dodatkowe, rodowe, używane poprzednio. Imię ojca Imię matki Nazwisko rodowe matki Data urodzenia — data urodzenia w formacie rok, miesiąc, dzień lub tyłko rok (patrz wyjaśnienie do pola Tylko rok)."
+     "text": "A - pole lub lista może zawierać więcej niż jeden element. +| - oznacza, że dla obywateli polskich (obywatelstwo POLSKIE) pole Numer PESEL jest wymagalne (*), w przypadku innych obywatelstw (w tym POLSKIE BEZ NUMERU PESEL) pole Numer PESEL jest nieobowiązkowe."
+    },
+    {
+     "type": "text",
+     "text": "Nazwisko Imię/imiona Imiona poprzednie Nazwiska poprzednie — w tym fałszywe, dodatkowe, rodowe, używane poprzednio. Imię ojca Imię matki Nazwisko rodowe matki Data urodzenia — data urodzenia w formacie rok, miesiąc, dzień lub tyłko rok (patrz wyjaśnienie do pola Tylko rok)."
     },
     {
      "type": "text",
@@ -589,7 +629,11 @@
     },
     {
      "type": "text",
-     "text": "Rys. 3 Zakończenie rejestracji Nadano Numer rejestracji KCIK rejestracja — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty rejestracji. OK — po naciśnięciu przycisku nastąpi przesłanie rejestracji do systemu centralnego."
+     "text": "Rys. 3 Zakończenie rejestracji"
+    },
+    {
+     "type": "text",
+     "text": "Nadano Numer rejestracji KCIK rejestracja — nadany lokalnie przez program unikalny Numer rejestracji KCIK. Drukuj — po naciśnięciu przycisku wydrukowana zostanie treść karty rejestracji. OK — po naciśnięciu przycisku nastąpi przesłanie rejestracji do systemu centralnego."
     },
     {
      "type": "note",
@@ -1306,11 +1350,15 @@
     },
     {
      "type": "ocr",
-     "text": "Nieumyślne spowodowanie śmierci Umyślne spowodowanie ciężkiego uszczerbku na zdrowiu w postaci pozbawienia zmysłów, pozbawienia zdolności płodzenia, innego ciężkiego kalectwa, ciężkiej choroby, znacznej niezdolności do pracy, trwałego kalectwa Śmierć w następstwie umyślnego spowodowania ciężkiego uszczerbku na zdrowiu Nieumyślne spowodowanie ciężkiego uszczerbku na zdrowiu w postaci pozbawienia zmysłów, pozbawienia zdolności płodzenia, innego ciężkiego kalectwa, ciężkiej choroby, znacznej niezdolności do , trwałego kalectwa Umyślne spowodowanie naruszenia czynności narządu ciała lub rozstroju zdrowia"
+     "text": "Nieumyślne spowodowanie śmierci"
     },
     {
      "type": "ocr",
-     "text": "Dziennik Ustaw Nr 238"
+     "text": "Umyślne spowodowanie ciężkiego uszczerbku na zdrowiu w postaci pozbawienia zmysłów, pozbawienia zdolności płodzenia, innego ciężkiego kalectwa, ciężkiej choroby, znacznej niezdolności do pracy, trwałego kalectwa Śmierć w następstwie umyślnego spowodowania ciężkiego uszczerbku na zdrowiu"
+    },
+    {
+     "type": "ocr",
+     "text": "Nieumyślne spowodowanie ciężkiego uszczerbku na zdrowiu w postaci pozbawienia zmysłów, pozbawienia zdolności płodzenia, innego ciężkiego kalectwa, ciężkiej choroby, znacznej niezdolności do , trwałego kalectwa Umyślne spowodowanie naruszenia czynności narządu ciała lub rozstroju zdrowia"
     },
     {
      "type": "ocr",
@@ -7126,22 +7174,42 @@
     },
     {
      "type": "text",
-     "text": "Firmanctwo Firmanctwo — mała wartość : Podanie nieprawdy lub zatajenie prawdy w deklaracji lub oświadczeniu albo niedopełnienie obowiązku zawiadomienia | o zmianach w danych Podanie nieprawdy lub zatajenie prawdy w deklaracji lub oświadczeniu albo niedopełnienie obowiązku zawiadomienia | o zmianach w danych — mała wartość",
+     "text": "Firmanctwo Firmanctwo — mała wartość :",
      "quoted": true
     },
     {
      "type": "text",
-     "text": "Uchylanie się od uiszczenia opłaty skarbowej od czynności 5 cywilnoprawnej ć Uszczuplenie opłaty skarbowej poprzez użycie skasowanego # znaku opłaty skarbowej E Puszczanie w obieg, przyjmowanie, przechowywanie, | | przewożenie, przenoszenie, przesyłanie albo pomaganie w zbywaniu lub ukryciu skasowanego znaku opłaty skarbowej",
+     "text": "Podanie nieprawdy lub zatajenie prawdy w deklaracji lub oświadczeniu albo niedopełnienie obowiązku zawiadomienia | o zmianach w danych Podanie nieprawdy lub zatajenie prawdy w deklaracji lub oświadczeniu albo niedopełnienie obowiązku zawiadomienia | o zmianach w danych — mała wartość",
      "quoted": true
     },
     {
      "type": "text",
-     "text": "Podrabianie albo przerabianie znaku urzędowego mającego stwierdzić uiszczenie opłaty skarbowej albo używanie znaku sfałszowanego Używanie dokumentu opatrzonego sfałszowanym znakiem =} opłaty skarbowej ; Nieprowadzenie, wbrew obowiązkowi, księgi i",
+     "text": "Uchylanie się od uiszczenia opłaty skarbowej od czynności 5 cywilnoprawnej ć",
      "quoted": true
     },
     {
      "type": "text",
-     "text": "Nierzetelne prowadzenie księgi ć Niewystawienie, wbrew obowiązkowi, faktury lub rachunku albo odmowa ich wystawienia",
+     "text": "Uszczuplenie opłaty skarbowej poprzez użycie skasowanego # znaku opłaty skarbowej E Puszczanie w obieg, przyjmowanie, przechowywanie, | | przewożenie, przenoszenie, przesyłanie albo pomaganie w zbywaniu lub ukryciu skasowanego znaku opłaty skarbowej",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Podrabianie albo przerabianie znaku urzędowego mającego stwierdzić uiszczenie opłaty skarbowej albo używanie znaku sfałszowanego",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Używanie dokumentu opatrzonego sfałszowanym znakiem =} opłaty skarbowej ; Nieprowadzenie, wbrew obowiązkowi, księgi i",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Nierzetelne prowadzenie księgi ć",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Niewystawienie, wbrew obowiązkowi, faktury lub rachunku albo odmowa ich wystawienia",
      "quoted": true
     },
     {
@@ -7166,7 +7234,17 @@
     },
     {
      "type": "text",
-     "text": "Sprowadzenie na terytorium RP lub wydanie z zakładu produkcyjnego wyrobów akcyzowych nieprawidłowo lub nieodpowiednimi znakami akcyzy uszkodzonymi, podrobionymi, przerobionymi lub nieważnymi); Sprowadzenie na terytorium RP lub wydanie z zakładu produkcyjnego wyrobów akcyzowych lub opakowań z tymi wyrobami bez uprzedniego oznaczenia znakami akcyzy lub sprowadzenie na terytorium RP lub wydanie z zakładu produkcyjnego wyrobów akcyzowych oznaczonych nieodpowiednimi znakami akcyzy (uszkodzonymi, odrobionymi, przerobionymi lub nieważnymi)- mała wartość # Wydanie przez producenta wyrobów akcyzowych przeznaczonych do wywozu za granicę bez pisemnego zawiadomienia właściwego organu o zamiarze ich wywozu $",
+     "text": "Sprowadzenie na terytorium RP lub wydanie z zakładu produkcyjnego wyrobów akcyzowych nieprawidłowo lub nieodpowiednimi znakami akcyzy uszkodzonymi, podrobionymi, przerobionymi lub nieważnymi);",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Sprowadzenie na terytorium RP lub wydanie z zakładu produkcyjnego wyrobów akcyzowych lub opakowań z tymi wyrobami bez uprzedniego oznaczenia znakami akcyzy lub sprowadzenie na terytorium RP lub wydanie z zakładu produkcyjnego wyrobów akcyzowych oznaczonych nieodpowiednimi znakami akcyzy (uszkodzonymi, odrobionymi, przerobionymi lub nieważnymi)- mała wartość #",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Wydanie przez producenta wyrobów akcyzowych przeznaczonych do wywozu za granicę bez pisemnego zawiadomienia właściwego organu o zamiarze ich wywozu $",
      "quoted": true
     },
     {

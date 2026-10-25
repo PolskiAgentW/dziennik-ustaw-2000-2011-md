@@ -79,7 +79,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-25 18:55 UTC (liczone z `index.csv`).
+Stan na 2026-10-25 20:41 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -96,11 +96,11 @@ Stan na 2026-10-25 18:55 UTC (liczone z `index.csv`).
 | 2010 | 1427 | 1427 | 0 |
 | 2011 | 1429 | 1429 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 3487, razem 66550 z 160308 stron. Tekst z OCR (oznaczony) ma 64044 z nich w 3428 aktach; treści pozostałych brak.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 3487, razem 66550 z 160308 stron. Tekst z OCR (oznaczony) ma 64040 z nich w 3428 aktach; treści pozostałych brak.
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 5400.
 
 Rodzaje aktów: Rozporządzenie 18305, Oświadczenie rządowe 633, Umowa międzynarodowa 342, Konwencja 98, Protokół 78, Obwieszczenie 39, Porozumienie 37, Uchwała 26, Postanowienie 25, Dokument wypowiedzenia 12, Traktat 11, Decyzja 2, Statut 2, Ustawa 1, Deklaracja 1, Akt 1, Układ 1.
-Wersje konwertera: eli2md 0.6.18 (6501), eli2md 0.6.17 (5298), eli2md 0.6.22 (3564), eli2md 0.6.24 (2578), eli2md 0.6.62 (1005), eli2md 0.6.16 (319), eli2md 0.6.37 (292), eli2md 0.6.65 (42), eli2md 0.6.63 (8), eli2md 0.6.61 (6), eli2md 0.6.39 (1).
+Wersje konwertera: eli2md 0.6.18 (6501), eli2md 0.6.17 (5298), eli2md 0.6.22 (3564), eli2md 0.6.24 (2552), eli2md 0.6.62 (998), eli2md 0.6.16 (319), eli2md 0.6.37 (291), eli2md 0.6.65 (42), eli2md 0.6.66 (34), eli2md 0.6.63 (8), eli2md 0.6.61 (6), eli2md 0.6.39 (1).
 <!-- stats:end -->
 
 ## Zawartość
@@ -301,6 +301,17 @@ stron, które wcześniej były obrazem albo nie miały warstwy tekstowej, a w no
 (było 265 nagłówków i 93 linie drukarni). Przybywa tekst tych stron z OCR (np. DU/2002/595: stron z OCR 30 → 59; tabele
 spłaszczone do akapitów, z błędami OCR). DU/2005/1444 i 1679 zostają bez zmian (w 1444 linia drukarni jest też w warstwie
 tekstowej s. 122–123, w 1679 trzy strony z OCR wcześniej nie były obrazem). W zbiorze zostały 433 nagłówki w 32 aktach.
+
+Tego samego dnia eli2md 0.6.66, 34 akty (opis w README eli2md, wpis 0.6.66): ucięty nagłówek numeru był też w aktach
+spoza list wyżej — w środku strony albo doklejony do akapitu. Przeliczyłem ponownie (głównie z eli2md 0.6.24) 53 akty,
+w których po nazwie dziennika jest numer bez „poz.” (to wyklucza cytaty). Reguła jak dla 0.6.65, a do tego (dodane po
+obejrzeniu próbki) nowy plik nie może zmieniać liczby jednostek § ani nagłówków „§ N.”. Nowy plik zostaje w 34 aktach
+(w 9 z nich reszta tekstu ma te same znaki, w pozostałych różni się najwyżej o 0,2%, głównie odczytem OCR polskich
+znaków); uciętych nagłówków było w nich 59, zostały 3 (DU/2003/867). Bez zmian zostało 19: w 6 nowy plik ma tyle samo
+nagłówków, w 6 reszta tekstu różniła się o więcej niż 0,5% (DU/2001/1210, 1656, DU/2002/1123, DU/2009/858, DU/2011/1296,
+1427), w 7 zmieniała się liczba jednostek §: OCR bierze numer wiersza listy za sklejone „§” („50. Bezafibratum” →
+„§ 0. Bezafibratum”, DU/2007/205; też DU/2000/1247, DU/2001/454, DU/2005/2010, DU/2008/807, DU/2011/3), a w DU/2001/1772
+„§ 2.” przestaje być nagłówkiem.
 
 **Czego te liczby nie mówią:**
 
