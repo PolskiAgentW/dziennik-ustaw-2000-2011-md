@@ -1,7 +1,7 @@
 {
  "eli": "DU/2004/1763",
  "title": "Rozporządzenie Ministra Środowiska z dnia 8 lipca 2004 r. w sprawie warunków, jakie należy spełnić przy wprowadzaniu ścieków do wód lub do ziemi, oraz w sprawie substancji szczególnie szkodliwych dla środowiska wodnego",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/1763/text.pdf",
  "body": [
   {
@@ -116,7 +116,7 @@
      "type": "ust",
      "num": "4",
      "path": "par_4/ust_4",
-     "text": "Obciążenie oczyszczalni ścieków wyrażone równoważną liczbą mieszkańców, zwaną dalej „RLM”, od którego zależą wymagania dotyczące oczyszczania ścieków, oblicza się na podstawie maksymalnego średniego tygodniowego ładunku zanieczyszczenia wyrażonego wskaźnikiem BZT (pięciodobowego biochemicznego zapotrzebowania⁵ na tlen) dopływającego do oczyszczalni w ciągu roku, z wyłączeniem sytuacji nietypowych, w szczególności wynikających z intensywnych opadów; obciążenie oczyszczalni ścieków nowo budowanej lub modernizowanej przyjmuje się na podstawie założeń projektowych.",
+     "text": "Obciążenie oczyszczalni ścieków wyrażone równoważną liczbą mieszkańców, zwaną dalej „RLM”, od którego zależą wymagania dotyczące oczyszczania ścieków, oblicza się na podstawie maksymalnego średniego tygodniowego ładunku zanieczyszczenia wyrażonego wskaźnikiem BZT₅ (pięciodobowego biochemicznego zapotrzebowania na tlen) dopływającego do oczyszczalni w ciągu roku, z wyłączeniem sytuacji nietypowych, w szczególności wynikających z intensywnych opadów; obciążenie oczyszczalni ścieków nowo budowanej lub modernizowanej przyjmuje się na podstawie założeń projektowych.",
      "children": []
     },
     {
@@ -382,14 +382,14 @@
        "type": "pkt",
        "num": "1",
        "path": "par_8/ust_4/pkt_1",
-       "text": "liczba pobranych w ciągu roku średnich dobowych próbek ścieków, które nie spełniły warunków dotyczących najwyższych dopuszczalnych wartości lub procentu redukcji zanieczyszczeń określonych wskaźnikami BZT , ChZT (chemicznego zapotrzebowania na tlen)⁵ i zawiesin ogólnych, nie jest większa od liczby tych próbek, która jest określona w załączniku nr 2 do rozporządzenia;",
+       "text": "liczba pobranych w ciągu roku średnich dobowych próbek ścieków, które nie spełniły warunków dotyczących najwyższych dopuszczalnych wartości lub procentu redukcji zanieczyszczeń określonych wskaźnikami BZT₅, ChZT (chemicznego zapotrzebowania na tlen) i zawiesin ogólnych, nie jest większa od liczby tych próbek, która jest określona w załączniku nr 2 do rozporządzenia;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "par_8/ust_4/pkt_2",
-       "text": "próbki niespełniające warunku, o którym mowa w pkt 1, nie wykazują odchyleń od najwyższych dopuszczalnych wartości lub procentu redukcji zanieczyszczeń większych niż o 100 % dla BZT i ChZT oraz odchyleń od najwyższej dopuszczalnej⁵ wartości lub procentu redukcji zawiesin ogólnych większych niż o 150 %;",
+       "text": "próbki niespełniające warunku, o którym mowa w pkt 1, nie wykazują odchyleń od najwyższych dopuszczalnych wartości lub procentu redukcji zanieczyszczeń większych niż o 100 % dla BZT₅ i ChZT oraz odchyleń od najwyższej dopuszczalnej wartości lub procentu redukcji zawiesin ogólnych większych niż o 150 %;",
        "children": []
       },
       {
@@ -636,7 +636,7 @@
        "type": "pkt",
        "num": "2",
        "path": "par_11/ust_4/pkt_2",
-       "text": "BZT ścieków dopływających jest redukowane co najmniej⁵ o 20 %, a zawartość zawiesin ogólnych co najmniej o 50 %;",
+       "text": "BZT₅ ścieków dopływających jest redukowane co najmniej o 20 %, a zawartość zawiesin ogólnych co najmniej o 50 %;",
        "children": []
       },
       {
@@ -696,7 +696,7 @@
      "type": "ust",
      "num": "1",
      "path": "par_12/ust_1",
-     "text": "Ścieki mogą być przeznaczone do rolniczego wykorzystania, jeżeli BZT ścieków dopływających jest redukowane co najmniej⁵ o 20 %, a zawartość zawiesin ogólnych co najmniej o 50 %.",
+     "text": "Ścieki mogą być przeznaczone do rolniczego wykorzystania, jeżeli BZT₅ ścieków dopływających jest redukowane co najmniej o 20 %, a zawartość zawiesin ogólnych co najmniej o 50 %.",
      "children": []
     },
     {
@@ -1140,12 +1140,11 @@
    "num": "25",
    "path": "par_25",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.[^3]",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Środowiska: w z. K. Szamałek"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: w z. K. Szamałek"
   }
  ],
  "annexes": [
@@ -1476,7 +1475,7 @@
      "type": "lit",
      "num": "j",
      "path": "lit_j",
-     "text": "30 kg nadchloroetylenu (PER). — średniej miesięcznej; ztym że dopuszcza się pobieranie próbek do oznaczania wartości wskaźników zanieczyszczeń wściekach wsposób uproszczony, jeżeli można wykazać, że wyniki oznaczeń będą reprezentatywne dla ilości netto odprowadzanych zanieczyszczeń. Wartości dopuszczalne stosują się do całkowitej ilości rtęci obecnej we wszystkich zawierających rtęć ściekach odprowadzanych zterenu zakładu. Jeżeli to możliwe, wartość średnia dobowa nie powinna przekraczać dwukrotnej wartości średniej miesięcznej. Jeżeli zdolność przetwarzania iwykorzystania 1,2-dichloroetanu jest większa od zdolności produkcyjnej, wartości dopuszczalne odnoszą się do całkowitej zdolności przetwarzania iwykorzystania. Wartości dopuszczalne stosują się do zrzutów przekraczających 30 kg EDC na rok. Wartości dopuszczalne stosują się do zrzutów przekraczających 30 kg TRI na rok. Dziennik Ustaw Nr 168 — 11785 — Poz. 1763",
+     "text": "30 kg nadchloroetylenu (PER). — średniej miesięcznej; ztym że dopuszcza się pobieranie próbek do oznaczania wartości wskaźników zanieczyszczeń wściekach wsposób uproszczony, jeżeli można wykazać, że wyniki oznaczeń będą reprezentatywne dla ilości netto odprowadzanych zanieczyszczeń. Wartości dopuszczalne stosują się do całkowitej ilości rtęci obecnej we wszystkich zawierających rtęć ściekach odprowadzanych zterenu zakładu. Jeżeli to możliwe, wartość średnia dobowa nie powinna przekraczać dwukrotnej wartości średniej miesięcznej. Jeżeli zdolność przetwarzania iwykorzystania 1,2-dichloroetanu jest większa od zdolności produkcyjnej, wartości dopuszczalne odnoszą się do całkowitej zdolności przetwarzania iwykorzystania. Wartości dopuszczalne stosują się do zrzutów przekraczających 30 kg EDC na rok. Wartości dopuszczalne stosują się do zrzutów przekraczających 30 kg TRI na rok.",
      "children": [
       {
        "type": "note",
@@ -1912,7 +1911,7 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "Określone wtabeli II załącznika najwyższe dopuszczalne wartości: — azotu ogólnego ifosforu ogólnego — dotyczą średnich rocznych wartości tych wskaźników wściekach. Wprzypadku biologicznego usuwania azotu ze ścieków przemysłowych najwyższe dopuszczalne wartości dotyczą średniej rocznej wartości tego wskaźnika wściekach, obliczonej dla próbek średnich dobowych pobranych wdanym roku przy temperaturze ścieków wkomorze biologicznej oczyszczalni nie niższej niż 12 °C; — pozostałych wskaźników zanieczyszczeń — dotyczą wartości tych wskaźników wpróbkach średnich dobowych. 2) Analizy wykonywane zpróbek homogenizowanych, niezdekantowanych inieprzefiltrowanych; nie dotyczy odpływów ze stawów biologicznych, wktórych oznaczenia zanieczyszczeń, zwyjątkiem zawiesin ogólnych, należy wykonać zpróbek przefiltrowanych. 3) Wczasie rozruchu nowo wybudowanych lub zmodernizowanych oczyszczalni stosujących biologiczne metody oczyszczania ścieków najwyższe dopuszczalne wartości wskaźników zanieczyszczeń podwyższa się wstosunku do wartości podanych wzałączniku maksymalnie o30 %. Wprzypadku awarii w tych oczyszczalniach urządzeń istotnych dla realizacji pozwolenia wodnoprawnego najwyższe dopuszczalne wartości wskaźników zanieczyszczeń podwyższa się wstosunku do wartości podanych wzałączniku maksymalnie do 50 %, przez czas nie dłuższy niż 48 godzin. Najwyższe dopuszczalne wartości wskaźników zanieczyszczeń podwyższa się wstosunku do wartości podanych wzałączniku maksymalnie o30 % także wprzypadku awarii urządzeń istotnych dla realizacji pozwolenia wodnoprawnego woczyszczalniach stosujących inne niż biologiczne metody oczyszczania ścieków przemysłowych. 4) Wniefiltrowanej próbce odpływu ze stawów biologicznych wartość zawiesiny ogólnej nie może przekraczać 150 mg/l. 5) Oznaczane zdodatkiem inhibitora nitryfikacji. 6) Oznaczane metodą dwuchromianową. 7) Dotyczy ścieków oczyszczanych przy temperaturze ścieków wkomorze biologicznej oczyszczalni nie niższej 12 °C. 8) Suma azotów: organicznego, amonowego, azotynowego iazotanowego. 9) Nie dotyczy zakładów iinstalacji ubiegających się opozwolenie zintegrowane. Dla takich zakładów najwyższa dopuszczalna wartość wskaźnika będzie uzależniona od stosowanej technologii oraz lokalizacji zakładu. 10) Nie dotyczy chlorków zawartych wwodach iściekach, októrych mowa w§ 17 rozporządzenia. 11) Nie dotyczy siarczanów zawartych wwodach iściekach, októrych mowa w§ 17 rozporządzenia. 12) Nie dotyczy sodu wzwiązkach chemicznych zchlorkami isiarczanami występujących wwodach iściekach, októrych mowa w§ 17 rozporządzenia. 13) Nie dotyczy potasu wzwiązkach chemicznych zchlorkami isiarczanami występujących wwodach iściekach, októrych mowa w§ 17 rozporządzenia. 14) Nie dotyczy ścieków oczyszczonych pochodzących zinstalacji oczyszczania spalin metodą mokrą wapienną oraz ścieków zmokrych technologii odprowadzania odpadów paleniskowych welektrowniach. Najwyższa dopuszczalna wartość dla boru będzie ustalona indywidualnie przez organ właściwy do wydania pozwolenia. Dziennik Ustaw Nr 168 — 11789 — Poz. 1763",
+     "text": "Określone wtabeli II załącznika najwyższe dopuszczalne wartości: — azotu ogólnego ifosforu ogólnego — dotyczą średnich rocznych wartości tych wskaźników wściekach. Wprzypadku biologicznego usuwania azotu ze ścieków przemysłowych najwyższe dopuszczalne wartości dotyczą średniej rocznej wartości tego wskaźnika wściekach, obliczonej dla próbek średnich dobowych pobranych wdanym roku przy temperaturze ścieków wkomorze biologicznej oczyszczalni nie niższej niż 12 °C; — pozostałych wskaźników zanieczyszczeń — dotyczą wartości tych wskaźników wpróbkach średnich dobowych. 2) Analizy wykonywane zpróbek homogenizowanych, niezdekantowanych inieprzefiltrowanych; nie dotyczy odpływów ze stawów biologicznych, wktórych oznaczenia zanieczyszczeń, zwyjątkiem zawiesin ogólnych, należy wykonać zpróbek przefiltrowanych. 3) Wczasie rozruchu nowo wybudowanych lub zmodernizowanych oczyszczalni stosujących biologiczne metody oczyszczania ścieków najwyższe dopuszczalne wartości wskaźników zanieczyszczeń podwyższa się wstosunku do wartości podanych wzałączniku maksymalnie o30 %. Wprzypadku awarii w tych oczyszczalniach urządzeń istotnych dla realizacji pozwolenia wodnoprawnego najwyższe dopuszczalne wartości wskaźników zanieczyszczeń podwyższa się wstosunku do wartości podanych wzałączniku maksymalnie do 50 %, przez czas nie dłuższy niż 48 godzin. Najwyższe dopuszczalne wartości wskaźników zanieczyszczeń podwyższa się wstosunku do wartości podanych wzałączniku maksymalnie o30 % także wprzypadku awarii urządzeń istotnych dla realizacji pozwolenia wodnoprawnego woczyszczalniach stosujących inne niż biologiczne metody oczyszczania ścieków przemysłowych. 4) Wniefiltrowanej próbce odpływu ze stawów biologicznych wartość zawiesiny ogólnej nie może przekraczać 150 mg/l. 5) Oznaczane zdodatkiem inhibitora nitryfikacji. 6) Oznaczane metodą dwuchromianową. 7) Dotyczy ścieków oczyszczanych przy temperaturze ścieków wkomorze biologicznej oczyszczalni nie niższej 12 °C. 8) Suma azotów: organicznego, amonowego, azotynowego iazotanowego. 9) Nie dotyczy zakładów iinstalacji ubiegających się opozwolenie zintegrowane. Dla takich zakładów najwyższa dopuszczalna wartość wskaźnika będzie uzależniona od stosowanej technologii oraz lokalizacji zakładu. 10) Nie dotyczy chlorków zawartych wwodach iściekach, októrych mowa w§ 17 rozporządzenia. 11) Nie dotyczy siarczanów zawartych wwodach iściekach, októrych mowa w§ 17 rozporządzenia. 12) Nie dotyczy sodu wzwiązkach chemicznych zchlorkami isiarczanami występujących wwodach iściekach, októrych mowa w§ 17 rozporządzenia. 13) Nie dotyczy potasu wzwiązkach chemicznych zchlorkami isiarczanami występujących wwodach iściekach, októrych mowa w§ 17 rozporządzenia. 14) Nie dotyczy ścieków oczyszczonych pochodzących zinstalacji oczyszczania spalin metodą mokrą wapienną oraz ścieków zmokrych technologii odprowadzania odpadów paleniskowych welektrowniach. Najwyższa dopuszczalna wartość dla boru będzie ustalona indywidualnie przez organ właściwy do wydania pozwolenia.",
      "children": []
     }
    ]
@@ -1978,307 +1977,326 @@
     },
     {
      "type": "note",
-     "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 23 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1,2-dichloroetan (EDC) -"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "|"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "PF Heksachlorobenzen (HCB) |-"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Heksachlorobutadien — (HCBD)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Heksachlorocykloheksan — (HCH)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3 Insektycydy z grupy — węglowodorów chlorowanych"
     },
     {
-     "type": "ocr",
-     "text": "32. | Insektycydy — fosforoorganiczne i karbaminianowe"
-    },
-    {
-     "type": "ocr",
-     "text": "33. | Jaja pasożytów jelitowych |- (Ascaris sp., Trichuris sp., Toxocara sp.)"
-    },
-    {
-     "type": "ocr",
-     "text": "|"
-    },
-    {
-     "type": "ocr",
-     "text": "9. 0."
-    },
-    {
-     "type": "ocr",
-     "text": "1."
-    },
-    {
-     "type": "ocr",
-     "text": "2."
-    },
-    {
-     "type": "ocr",
-     "text": "3."
-    },
-    {
-     "type": "ocr",
-     "text": "4."
-    },
-    {
-     "type": "ocr",
-     "text": "5."
-    },
-    {
-     "type": "ocr",
-     "text": "6."
-    },
-    {
-     "type": "ocr",
-     "text": "7."
-    },
-    {
-     "type": "ocr",
-     "text": "8."
-    },
-    {
-     "type": "ocr",
-     "text": "9."
-    },
-    {
-     "type": "ocr",
-     "text": "0."
-    },
-    {
-     "type": "ocr",
-     "text": "1."
-    },
-    {
-     "type": "ocr",
-     "text": "Cyjanki związane — _spektrometria UV/VIS atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą wzbudzoną indukcyjnie (ICP-AES atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą"
-    },
-    {
-     "type": "ocr",
-     "text": "chromatografia gazowa z detekcją wychwytu elektronu (GC-ECD)"
-    },
-    {
-     "type": "ocr",
-     "text": "chromatografia gazowa z detekcją wychwytu elektronu (GC-ECD)"
-    },
-    {
-     "type": "ocr",
-     "text": "Fenol (indeks fenolowy) — spektrometria UV/VIS elektroda jonoselektywna chromatografia jonowa (IC-HPLC) spektrometria UV/VIS"
-    },
-    {
-     "type": "ocr",
-     "text": "atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą wzbudzoną indukcyjnie (ICP-AES chromatografia gazowa z detekcją wychwytu elektronu (GC-ECD)"
-    },
-    {
-     "type": "ocr",
-     "text": "chromatografia gazowa z detekcją wychwytu elektronu (GC-ECD)"
-    },
-    {
-     "type": "ocr",
-     "text": "chromatografia gazowa z detekcją wychwytu elektronu (GC-ECD)"
-    },
-    {
-     "type": "ocr",
-     "text": "i"
-    },
-    {
-     "type": "ocr",
-     "text": "Fosfor ogólny —__ spektrometria UV/VIS"
-    },
-    {
-     "type": "ocr",
-     "text": "chromatografia gazowa z detekcją wychwytu elektronu (GC-ECD)"
-    },
-    {
-     "type": "ocr",
-     "text": "chromatografia gazowa z detektorem azotowo-fosforowym (NPD)"
-    },
-    {
-     "type": "ocr",
-     "text": "wyizolowanie z próbki przez wstrząsanie lub mieszanie, płukanie z zastosowaniem wirowania oraz flotację, a następnie badanie mikroskopowe atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą wzbudzoną indukcyjnie (ICP-AES)"
-    },
-    {
-     "type": "ocr",
-     "text": "wykrywalność 1 g/l dla każdego izomeru z osobna dokładność i precyzja + 50 % przy stężeniu równym dwukrotnej wartości wykrywalności wykrywalność 10 ug/l dokładność i precyzja + 50 % przy stężeniu równym dwukrotnej wartości wykrywalności"
-    },
-    {
-     "type": "ocr",
-     "text": "wykrywalność 0,5 — 1 pg/l w zależności od zawartości obcych substancji w próbce dokładność i precyzja + 50 % przy stężeniu równym dwukrotnej wartości alności wykrywalność 0,5 — 1 ug/l w zależności od zawartości obcych substancji w próbce dokładność i precyzja + 50 % przy stężeniu równym dwukrotnej wartości wykrywalności wykrywalność 0,1 stężenia dopuszczalnego w miejscu pobierania próbki dokładność i precyzja + 50 % przy stężeniu równym dwukrotnej wartości wykrywalności"
-    },
-    {
-     "type": "ocr",
-     "text": "wykrywalność 0,1 stężenia dopuszczalnego w miejscu pobierania próbek dokładność i precyzja + 30 % przy stężeniu równym w alności"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 24 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą"
-    },
-    {
-     "type": "ocr",
-     "text": "atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą"
-    },
-    {
-     "type": "ocr",
-     "text": "atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą wzbudzoną indukcyjnie (ICP-AES chromatografia gazowa z detekcją wykrywalność 10 ug/l wychwytu elektronu (GC-ECD) dokładność i precyzja = 50 % przy stężeniu równym dwukrotnej wartości"
-    },
-    {
-     "type": "ocr",
-     "text": "atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą"
-    },
-    {
-     "type": "ocr",
-     "text": "Obecność bakterii hodowla na podłożach namnażających i chorobotwórczych z różnicująco-selektywnych oraz rodzaju Salmonella potwierdzenie wyników badaniem biochemicznym"
-    },
-    {
-     "type": "ocr",
-     "text": "atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą wzbudzoną indukcyjnie (ICP-AES wysokosprawna chromatografia cieczowa | wykrywalność 2 g/l HPLC dokładność i precyzja + 50 % przy chromatografia gazowa z detekcją stężeniu równym dwukrotnej wartości wychwytu elektronu (GC-ECD wykrywalności Polichlorowane — _ chromatografia gazowa z detekcją mas dibenzodioksyny (PCDDs) GC-MS Polichlorowane — chromatografia gazowa z detekcją mas dibenzofurany (PCDFs) GC-MS) — _ atomowa spektrometria absorpcyjna (ASA) — _ atomowa spektrometria emisyjna z plazmą"
-    },
-    {
-     "type": "ocr",
-     "text": "4"
-    },
-    {
-     "type": "ocr",
-     "text": "47"
-    },
-    {
-     "type": "ocr",
-     "text": "4"
-    },
-    {
-     "type": "ocr",
-     "text": "4 metoda kolorymetrycznego"
-    },
-    {
-     "type": "ocr",
-     "text": "6"
-    },
-    {
-     "type": "ocr",
-     "text": "8"
-    },
-    {
-     "type": "ocr",
-     "text": "9 miareczkowania z solami żelazowymi 0"
-    },
-    {
-     "type": "ocr",
-     "text": "5 dopuszczalnego w miejscu pobierania próbek dokładność i precyzja + 30 % przy stężeniu równym"
-    },
-    {
-     "type": "ocr",
-     "text": "atomowa spektrometria emisyjna z plazmą"
-    },
-    {
-     "type": "ocr",
-     "text": "52. | Siarczany metoda wagowa chromatografia jonowa (IC-HPLC) spektrometria UV/VIS"
-    },
-    {
-     "type": "ocr",
-     "text": "53. | Siarczki metoda z kwasem o-hydroksyrtęciowobenzoesowym"
-    },
-    {
-     "type": "ocr",
-     "text": "atomowa spektrometria absorpcyjna (ASA)"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "ppm Ek — __ spektrometria UV/VIS"
-    },
-    {
-     "type": "ocr",
-     "text": "55. | Sód atomowa spektrometria absorpcyjna (ASA)"
-    },
-    {
-     "type": "ocr",
-     "text": "GZM atomowa spektrometria emisyjna z plazmą Srebro atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą Pr |a| wowem \"| eterem naftowym"
-    },
-    {
-     "type": "ocr",
-     "text": "eee | | powierzchniowo czynne Substancje ropopochodne spektrofotometria IR PO oo. [tad 0 (| ‘Tal | atomowa spektrometria absorpcyjna (ASA ee"
-    },
-    {
-     "type": "ocr",
-     "text": "61. | Temperatura termometria, pomiar in situ podczas pobierania próbki Tetrachlorometan — _ chromatografia gazowa z detekcją wykrywalność 0,1 ug/l przy stężeniach (czterochlorek węgla) wychwytu elektronu (GC-ECD) niższych od 0,5 mg/l (należy użyć"
-    },
-    {
-     "type": "ocr",
-     "text": "(CCly) czułego detektora) i 0,1 mg/l przy stężeniach wyższych od 0,5 mg/l dokładność i precyzja + 50 % przy stężeniu równym dwukrotnej wartości wykrywalności"
-    },
-    {
-     "type": "ocr",
-     "text": "Trichlorobenzen (TCB) — chromatografia gazowa z detekcją wykrywalność 1 mg/l dla każdego wychwytu elektronu (GC-ECD) izomeru z osobna dokładność i precyzja + 50 % przy stężeniu równym dwukrotnej wartości wykrywalności"
-    },
-    {
-     "type": "ocr",
-     "text": "stężeniu równym dwukrotnej wartości wykrywalności Trichlorometan — _ chromatografia gazowa z detekcją wykrywalność 0,1 ug/l przy stężeniach (chloroform) (CHCIs) wychwytu elektronu (GC-ECD) niższych od 0,5 mg/l (należy użyć czułego detektora) i 0,1 mg/l przy stężeniach wyższych od 0,5 mg/l dokładność i precyzja + 50 % przy stężeniu równym dwukrotnej wartości"
-    },
-    {
-     "type": "ocr",
-     "text": "Tytan atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą"
-    },
-    {
-     "type": "ocr",
-     "text": "Wanad atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą"
-    },
-    {
-     "type": "ocr",
-     "text": "chromatografia gazowa z detekcją lotne BTX płomieniowo- jonizacyjną (FID Wielopierścieniowe — _ wysokosprawna chromatografia cieczowa węglowodory aromatyczne z detekcją fluorescencyjną lub detekcją"
-    },
-    {
-     "type": "ocr",
-     "text": "(WWA) UV — HPLC/Fluorescence lub PHLC/UV O. | Zawiesiny łatwo opadające |- pomiar w leja lola | 0 Zawiesiny ogólne - _ filtracja przez sączki z włókna szklanego - filtracja przez membrane 0,45 um, suszenie w temp. 105 °C i ważenie — . dotyczy produkcji cementu azbestowego |- precyzja + 5 %, dokładność + 10 %"
-    },
-    {
-     "type": "ocr",
-     "text": "Trichloroetylen (TRI) — _ chromatografia gazowa z detekcją wykrywalność 10 g/l wychwytu elektronu (GC-ECD) dokładność i precyzja + 50 % przy"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 26 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "72. | Związki chloroorganiczne |- adsorpcja na węglu aktywnym i pomiar adsorbowalne AOX kulometryczn"
-    },
-    {
-     "type": "ocr",
-     "text": "73. | Związki chloroorganiczne |- adsorpcja na węglu aktywnym i pomiar lotne VOX kulometryczn"
-    },
-    {
-     "type": "ocr",
-     "text": "74. | Żelazo — _ atomowa spektrometria absorpcyjna (ASA) — _ atomowa spektrometria emisyjna z plazmą wzbudzoną indukcyjnie (ICP-AES Objaśnienia: 5 Metoda referencyjna powinna być dobrana (zgodnie z podanymi w rozporządzeniu technikami) spośród metodyk znormalizowanych, a zakres oznaczania określony w normie musi odpowiadać zakresowi stężeń występujących w badanym Scieku. ) Stosując metodyki referencyjne analizy, uwzględnia się: — „wykrywalność” rozumianą jako takie stężenie analitu, jakie można wykryć w badanej próbce daną metodą pomiarową, które odpowiada sygnałowi obliczonemu z wartości ślepej próby plus trzykrotność odchylenia standardowego. Wyznacza się ją jako średnią po odrzuceniu wyników odbiegających, stosując test Dixona, z oznaczeń minimum 10 próbek ślepych; — „precyzję” rozumianą jako stopień zgodności wyników wielokrotnych analiz tej samej próbki w określonych warunkach. Miarą precyzji jest odchylenie standardowe (SD) lub względne odchylenie standardowe (RSD); — „dokładność” rozumianą jako stopień zgodności między Średnim wynikiem uzyskanym w szeregu powtórzeniach a wartością prawdziwą mierzonej wartości."
+     "type": "ust",
+     "num": "32",
+     "path": "ust_32",
+     "text": "| Insektycydy — fosforoorganiczne i karbaminianowe",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "33",
+     "path": "ust_33",
+     "text": "| Jaja pasożytów jelitowych |- (Ascaris sp., Trichuris sp., Toxocara sp.)",
+     "children": [
+      {
+       "type": "text",
+       "text": "|"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "0.",
+     "children": [
+      {
+       "type": "text",
+       "text": "1"
+      },
+      {
+       "type": "text",
+       "text": "2"
+      },
+      {
+       "type": "text",
+       "text": "3"
+      },
+      {
+       "type": "text",
+       "text": "4"
+      },
+      {
+       "type": "text",
+       "text": "5"
+      },
+      {
+       "type": "text",
+       "text": "6"
+      },
+      {
+       "type": "text",
+       "text": "7"
+      },
+      {
+       "type": "text",
+       "text": "8"
+      },
+      {
+       "type": "text",
+       "text": "9"
+      },
+      {
+       "type": "text",
+       "text": "0"
+      },
+      {
+       "type": "text",
+       "text": "1"
+      },
+      {
+       "type": "text",
+       "text": "Cyjanki związane — _spektrometria UV/VIS atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą wzbudzoną indukcyjnie (ICP-AES atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą"
+      },
+      {
+       "type": "text",
+       "text": "chromatografia gazowa z detekcją wychwytu elektronu (GC-ECD)"
+      },
+      {
+       "type": "text",
+       "text": "chromatografia gazowa z detekcją wychwytu elektronu (GC-ECD)"
+      },
+      {
+       "type": "text",
+       "text": "Fenol (indeks fenolowy) — spektrometria UV/VIS elektroda jonoselektywna chromatografia jonowa (IC-HPLC) spektrometria UV/VIS"
+      },
+      {
+       "type": "text",
+       "text": "atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą wzbudzoną indukcyjnie (ICP-AES chromatografia gazowa z detekcją wychwytu elektronu (GC-ECD)"
+      },
+      {
+       "type": "text",
+       "text": "chromatografia gazowa z detekcją wychwytu elektronu (GC-ECD)"
+      },
+      {
+       "type": "text",
+       "text": "chromatografia gazowa z detekcją wychwytu elektronu (GC-ECD) i"
+      },
+      {
+       "type": "text",
+       "text": "Fosfor ogólny —__ spektrometria UV/VIS"
+      },
+      {
+       "type": "text",
+       "text": "chromatografia gazowa z detekcją wychwytu elektronu (GC-ECD)"
+      },
+      {
+       "type": "text",
+       "text": "chromatografia gazowa z detektorem azotowo-fosforowym (NPD)"
+      },
+      {
+       "type": "text",
+       "text": "wyizolowanie z próbki przez wstrząsanie lub mieszanie, płukanie z zastosowaniem wirowania oraz flotację, a następnie badanie mikroskopowe atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą wzbudzoną indukcyjnie (ICP-AES) wykrywalność 1 g/l dla każdego izomeru z osobna dokładność i precyzja + 50 % przy stężeniu równym dwukrotnej wartości wykrywalności wykrywalność 10 ug/l dokładność i precyzja + 50 % przy stężeniu równym dwukrotnej wartości wykrywalności"
+      },
+      {
+       "type": "text",
+       "text": "wykrywalność 0,5 — 1 pg/l w zależności od zawartości obcych substancji w próbce dokładność i precyzja + 50 % przy stężeniu równym dwukrotnej wartości alności wykrywalność 0,5 — 1 ug/l w zależności od zawartości obcych substancji w próbce dokładność i precyzja + 50 % przy stężeniu równym dwukrotnej wartości wykrywalności wykrywalność 0,1 stężenia dopuszczalnego w miejscu pobierania próbki dokładność i precyzja + 50 % przy stężeniu równym dwukrotnej wartości wykrywalności"
+      },
+      {
+       "type": "text",
+       "text": "wykrywalność 0,1 stężenia dopuszczalnego w miejscu pobierania próbek dokładność i precyzja + 30 % przy stężeniu równym w alności"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 24 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą"
+      },
+      {
+       "type": "text",
+       "text": "atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą"
+      },
+      {
+       "type": "text",
+       "text": "atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą wzbudzoną indukcyjnie (ICP-AES chromatografia gazowa z detekcją wykrywalność 10 ug/l wychwytu elektronu (GC-ECD) dokładność i precyzja = 50 % przy stężeniu równym dwukrotnej wartości"
+      },
+      {
+       "type": "text",
+       "text": "atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą"
+      },
+      {
+       "type": "text",
+       "text": "Obecność bakterii hodowla na podłożach namnażających i chorobotwórczych z różnicująco-selektywnych oraz rodzaju Salmonella potwierdzenie wyników badaniem biochemicznym"
+      },
+      {
+       "type": "text",
+       "text": "atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą wzbudzoną indukcyjnie (ICP-AES wysokosprawna chromatografia cieczowa | wykrywalność 2 g/l HPLC dokładność i precyzja + 50 % przy chromatografia gazowa z detekcją stężeniu równym dwukrotnej wartości wychwytu elektronu (GC-ECD wykrywalności Polichlorowane — _ chromatografia gazowa z detekcją mas dibenzodioksyny (PCDDs) GC-MS Polichlorowane — chromatografia gazowa z detekcją mas dibenzofurany (PCDFs) GC-MS) — _ atomowa spektrometria absorpcyjna (ASA) — _ atomowa spektrometria emisyjna z plazmą"
+      },
+      {
+       "type": "text",
+       "text": "4"
+      },
+      {
+       "type": "text",
+       "text": "47"
+      },
+      {
+       "type": "text",
+       "text": "4"
+      },
+      {
+       "type": "text",
+       "text": "4 metoda kolorymetrycznego"
+      },
+      {
+       "type": "text",
+       "text": "6"
+      },
+      {
+       "type": "text",
+       "text": "8"
+      },
+      {
+       "type": "text",
+       "text": "9 miareczkowania z solami żelazowymi 0"
+      },
+      {
+       "type": "text",
+       "text": "5 dopuszczalnego w miejscu pobierania próbek dokładność i precyzja + 30 % przy stężeniu równym"
+      },
+      {
+       "type": "text",
+       "text": "atomowa spektrometria emisyjna z plazmą"
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "| Siarczany metoda wagowa chromatografia jonowa (IC-HPLC) spektrometria UV/VIS",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "| Siarczki metoda z kwasem o-hydroksyrtęciowobenzoesowym atomowa spektrometria absorpcyjna (ASA)",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 25 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "ppm Ek — __ spektrometria UV/VIS"
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "| Sód atomowa spektrometria absorpcyjna (ASA)",
+     "children": [
+      {
+       "type": "text",
+       "text": "GZM atomowa spektrometria emisyjna z plazmą Srebro atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą Pr |a| wowem \"| eterem naftowym eee | | powierzchniowo czynne Substancje ropopochodne spektrofotometria IR PO oo. [tad 0 (| ‘Tal | atomowa spektrometria absorpcyjna (ASA ee"
+      },
+      {
+       "type": "ust",
+       "num": "61",
+       "path": "par_5/ust_61",
+       "text": "| Temperatura termometria, pomiar in situ podczas pobierania próbki Tetrachlorometan — _ chromatografia gazowa z detekcją wykrywalność 0,1 ug/l przy stężeniach (czterochlorek węgla) wychwytu elektronu (GC-ECD) niższych od 0,5 mg/l (należy użyć",
+       "children": [
+        {
+         "type": "text",
+         "text": "(CCly) czułego detektora) i 0,1 mg/l przy stężeniach wyższych od 0,5 mg/l dokładność i precyzja + 50 % przy stężeniu równym dwukrotnej wartości wykrywalności"
+        },
+        {
+         "type": "text",
+         "text": "Trichlorobenzen (TCB) — chromatografia gazowa z detekcją wykrywalność 1 mg/l dla każdego wychwytu elektronu (GC-ECD) izomeru z osobna dokładność i precyzja + 50 % przy stężeniu równym dwukrotnej wartości wykrywalności"
+        },
+        {
+         "type": "text",
+         "text": "stężeniu równym dwukrotnej wartości wykrywalności Trichlorometan — _ chromatografia gazowa z detekcją wykrywalność 0,1 ug/l przy stężeniach (chloroform) (CHCIs) wychwytu elektronu (GC-ECD) niższych od 0,5 mg/l (należy użyć czułego detektora) i 0,1 mg/l przy stężeniach wyższych od 0,5 mg/l dokładność i precyzja + 50 % przy stężeniu równym dwukrotnej wartości"
+        },
+        {
+         "type": "text",
+         "text": "Tytan atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą"
+        },
+        {
+         "type": "text",
+         "text": "Wanad atomowa spektrometria absorpcyjna (ASA) atomowa spektrometria emisyjna z plazmą"
+        },
+        {
+         "type": "text",
+         "text": "chromatografia gazowa z detekcją lotne BTX płomieniowo- jonizacyjną (FID Wielopierścieniowe — _ wysokosprawna chromatografia cieczowa węglowodory aromatyczne z detekcją fluorescencyjną lub detekcją"
+        },
+        {
+         "type": "text",
+         "text": "(WWA) UV — HPLC/Fluorescence lub PHLC/UV O. | Zawiesiny łatwo opadające |- pomiar w leja lola | 0 Zawiesiny ogólne - _ filtracja przez sączki z włókna szklanego - filtracja przez membrane 0,45 um, suszenie w temp. 105 °C i ważenie — . dotyczy produkcji cementu azbestowego |- precyzja + 5 %, dokładność + 10 %"
+        },
+        {
+         "type": "text",
+         "text": "Trichloroetylen (TRI) — _ chromatografia gazowa z detekcją wykrywalność 10 g/l wychwytu elektronu (GC-ECD) dokładność i precyzja + 50 % przy"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 26 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "72",
+       "path": "par_5/ust_72",
+       "text": "| Związki chloroorganiczne |- adsorpcja na węglu aktywnym i pomiar adsorbowalne AOX kulometryczn",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "73",
+       "path": "par_5/ust_73",
+       "text": "| Związki chloroorganiczne |- adsorpcja na węglu aktywnym i pomiar lotne VOX kulometryczn",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "74",
+       "path": "par_5/ust_74",
+       "text": "| Żelazo — _ atomowa spektrometria absorpcyjna (ASA) — _ atomowa spektrometria emisyjna z plazmą wzbudzoną indukcyjnie (ICP-AES Objaśnienia: 5 Metoda referencyjna powinna być dobrana (zgodnie z podanymi w rozporządzeniu technikami) spośród metodyk znormalizowanych, a zakres oznaczania określony w normie musi odpowiadać zakresowi stężeń występujących w badanym Ścieku. ) Stosując metodyki referencyjne analizy, uwzględnia się: — „wykrywalność” rozumianą jako takie stężenie analitu, jakie można wykryć w badanej próbce daną metodą pomiarową, które odpowiada sygnałowi obliczonemu z wartości ślepej próby plus trzykrotność odchylenia standardowego. Wyznacza się ją jako średnią po odrzuceniu wyników odbiegających, stosując test Dixona, z oznaczeń minimum 10 próbek ślepych; — „precyzję” rozumianą jako stopień zgodności wyników wielokrotnych analiz tej samej próbki w określonych warunkach. Miarą precyzji jest odchylenie standardowe (SD) lub względne odchylenie standardowe (RSD); — „dokładność” rozumianą jako stopień zgodności między Średnim wynikiem uzyskanym w szeregu powtórzeniach a wartością prawdziwą mierzonej wartości.",
+       "children": []
+      }
+     ]
     }
    ]
   },

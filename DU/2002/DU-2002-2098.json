@@ -1,7 +1,7 @@
 {
  "eli": "DU/2002/2098",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 24 grudnia 2002 r. w sprawie warunków stosowania promieniowania jonizującego w celach medycznych oraz sposobu wykonywania kontroli wewnętrznej nad przestrzeganiem tych warunków.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2002/2098/text.pdf",
  "body": [
   {
@@ -3043,55 +3043,62 @@
     },
     {
      "type": "note",
-     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "B. Radiologia pediatryczna"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "[uGy] Radiografia klatki piersiowej (poza noworodkami)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "projekcja LAT 200 ea | - _ projekcja AP 3 Radiografia czaszki - projekcja PA/AP 1500 projekcja LAT 1000 Radiografia miednicy - niemowlęta starsze dzieci"
     },
     {
-     "type": "ocr",
-     "text": "0) Wartości poziomów referencyjnych dla pozostałych badań są obecnie nieokreślone."
+     "type": "pkt",
+     "num": "0",
+     "path": "pkt_0",
+     "text": "Wartości poziomów referencyjnych dla pozostałych badań są obecnie nieokreślone.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Poziomy referencyjne odnoszą się do standardowego pacjenta w wieku 5 lat (z wyłączeniem badań noworodków i niemowląt)."
+      },
+      {
+       "type": "text",
+       "text": "C. Tomografia komputerowa"
+      },
+      {
+       "type": "text",
+       "text": "Rodzaj badania"
+      },
+      {
+       "type": "text",
+       "text": "[2 |Badanie twarzyizatok™ | |_| |"
+      },
+      {
+       "type": "text",
+       "text": "| Wysokorozdzielcze badania płuc Rutynowe badanie brzucha lub jamy brzusznej” Badanie wątroby i śledzion Rutynowe badania miednicy lub narządów miednicy” Badanie kości miednicy lub obręczy 25 520 biodrowej”?"
+      },
+      {
+       "type": "text",
+       "text": "(1) Referencyjne poziomy dawek określone na podstawie dawki pochłoniętej w powietrzu."
+      },
+      {
+       "type": "text",
+       "text": "(2) Dane odnoszą się do fantomu głowy (PMMA o średnicy 16 cm)."
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "(2) Poziomy referencyjne odnoszą się do standardowego pacjenta w wieku 5 lat (z wyłączeniem badań noworodków i niemowląt)."
-    },
-    {
-     "type": "ocr",
-     "text": "C. Tomografia komputerowa"
-    },
-    {
-     "type": "ocr",
-     "text": "Rodzaj badania"
-    },
-    {
-     "type": "ocr",
-     "text": "[2 |Badanie twarzyizatok™ | |_| |"
-    },
-    {
-     "type": "ocr",
-     "text": "| Wysokorozdzielcze badania płuc Rutynowe badanie brzucha lub jamy brzusznej” Badanie wątroby i śledzion Rutynowe badania miednicy lub narządów miednicy” Badanie kości miednicy lub obręczy 25 520 biodrowej”?"
-    },
-    {
-     "type": "ocr",
-     "text": "(1) Referencyjne poziomy dawek określone na podstawie dawki pochłoniętej w powietrzu."
-    },
-    {
-     "type": "ocr",
-     "text": "(2) Dane odnoszą się do fantomu głowy (PMMA o średnicy 16 cm)."
-    },
-    {
-     "type": "ocr",
-     "text": "3) Dane odnoszą się do fantomu ciała (PMMA o średnicy 32 cm)."
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Dane odnoszą się do fantomu ciała (PMMA o średnicy 32 cm).",
+     "children": []
     }
    ]
   },
@@ -3108,51 +3115,51 @@
     },
     {
      "type": "note",
-     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Krwawienie z przewodu ”™Tc — erytrocyty i równoważne 400 pokarmowego — lokalizacja Badanie przejścia pokarmu \"TE — koloidy i związki niewchłanialne przez przełyk, badanie refluksu przełykowego niewchłanialne związki \"Te żołądka"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nerek"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "moczowego mT > — EC, MAG-3 123] — o-hipuran I — metylocholesterol"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nowotworów i ropni \"Te — analogi somatostatycznych 800 nowotworów Obrazowanie guzów I — metajodobenzyloguanidyna 400 neuroektodermalnych 21] — metajodobenzyloguanidyna"
     },
     {
-     "type": "ocr",
-     "text": "Obrazowanie rozlegtosci \"Tc — MIBI 1000 procesu nowotworowego branych guzów"
+     "type": "text",
+     "text": "Obrazowanie rozległości \"Tc — MIBI 1000 procesu nowotworowego branych guzów"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "węzłów chłonnych \"TC — znak. leukocyty 800 zapalnych TC — immunoglobulina 400 Oznaczenie klirensu \"Tc DTPA nerkowego kłębkowego Oznaczenie efektywnego"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "R >"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "© ©"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "400"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "R a AN Z | c-EC przepływu osocza przez nerki | '”I— ortohipuran 20 BH — ortohipuran 6 Szybkość oczyszczania osocza na drodze sekrecji kanalikowej | \"Te MAG3 40 E ©"
     },
     {
-     "type": "ocr",
-     "text": "Watrobowy klirens \"Tc — \"Tc HEPIDA HEPIDA"
+     "type": "text",
+     "text": "Wątrobowy klirens \"Tc — \"Tc HEPIDA HEPIDA"
     }
    ]
   },
@@ -3174,7 +3181,7 @@
    "body": [
     {
      "type": "text",
-     "text": "ZALECANE PODSTAWOWE PARAMETRY TECHNICZNE BADAŃ RENTGENODIAGNOSTYCZNYCH Dziennik Ustaw Nr 241 — 16001 — Poz. 2098"
+     "text": "ZALECANE PODSTAWOWE PARAMETRY TECHNICZNE BADAŃ RENTGENODIAGNOSTYCZNYCH"
     },
     {
      "type": "note",
@@ -3539,10 +3546,10 @@
     },
     {
      "type": "note",
-     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 25 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "16 | Ocena rozdzielczości wysokokontrastowej Ocena rozdzielczości niskokontrastowej i poziomu sżumu Pomiar grubości warstwy Ocena dokładności i powtarzalności ustawienia (ruchu) stała Ocena dokładności świetlnych wskaźników położenia"
     }
    ]
@@ -3560,115 +3567,115 @@
     },
     {
      "type": "note",
-     "text": "[Strona 27 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 27 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "13."
+     "type": "text",
+     "text": "13"
     },
     {
-     "type": "ocr",
-     "text": "14."
+     "type": "text",
+     "text": "14"
     },
     {
-     "type": "ocr",
-     "text": "15. 16."
-    },
-    {
-     "type": "ocr",
-     "text": "17."
-    },
-    {
-     "type": "ocr",
-     "text": "12."
-    },
-    {
-     "type": "ocr",
-     "text": "12."
-    },
-    {
-     "type": "ocr",
-     "text": "13."
-    },
-    {
-     "type": "ocr",
-     "text": "14."
-    },
-    {
-     "type": "ocr",
-     "text": "10."
-    },
-    {
-     "type": "ocr",
-     "text": "11."
-    },
-    {
-     "type": "ocr",
-     "text": "13."
-    },
-    {
-     "type": "ocr",
-     "text": "Ocena rozdzielczości niskokontrastowej toru wizyjnego obrazowania oraz poziomu szumu Pomiar mocy dawki w wiązce pierwotnej padającej na pacjenta"
-    },
-    {
-     "type": "ocr",
-     "text": "Pomiar maksymalnej mocy dawki Sprawdzenie automatycznego wyłącznika czasowego po upływie 5 | raz/rok min. ekspozycji Ocena zniekształcenia obrazu Mammografia (testy w pozycjach 1- 10 oraz dodatkowo) raz/rok Pomiary dawki powierzchniowej na |. fantomie akredytacyjnym. raz/rok Pomiar wartości i równomierności siły nacisku płyty dociskowej Angiografia (testy w pozycjach 1- | rąz/rok 10 oraz dodatkowo) Ocena rozdzielczości e raz/rok wysokokontrastowej toru wizyjnego Ocena rozdzielczości niskokontrastowej toru wizyjnego oraz poziomu szumów raz/rok Pomiar maksymalnej mocy dawki w wiązce pierwotnej Tomografia komputerowa (testy w pozycjach 1,2,3,7,8 oraz dodatkowo) Pomiar jednorodności odwzorowania raz/rok referencyjnego fantomu raz/rok Ocena poprawności odwzorowania kontrastu Ocena rozdzielczości raz/rok wysokokontrastowej"
-    },
-    {
-     "type": "ocr",
-     "text": "raz/rok"
-    },
-    {
-     "type": "ocr",
-     "text": "poniżej wartości referencyjnych"
-    },
-    {
-     "type": "ocr",
-     "text": "< 10%"
-    },
-    {
-     "type": "ocr",
-     "text": "zgodnie z EUR 16263EN 130-200 N"
-    },
-    {
-     "type": "ocr",
-     "text": "zgodnie z norma IEC"
-    },
-    {
-     "type": "ocr",
-     "text": "zgodnie z norma IEC"
-    },
-    {
-     "type": "ocr",
-     "text": "ponizej wartosci referencyjnych"
-    },
-    {
-     "type": "ocr",
-     "text": "zgodnie z zaleceniami producenta"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 28 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Ocena rozdzielczości <20% zg. zIEC 61223-2-6 niskokontrastowej i poziomu szumu <20% Pomiar grubości warstwy < poziomów Ocena wielkości dozymetrycznych"
-    },
-    {
-     "type": "ocr",
-     "text": "referencyjnych Ocena dokładności i powtarzalności 0.2 cm; + 20 % od ustawienia (ruchu) stołu wyniku poprzed. + 0,2 cm Ocena dokładności świetlnych wskaźników położenia"
-    },
-    {
-     "type": "ocr",
-     "text": "Radiologia stomatologiczna (testy w pozycjach 1-10 oraz dodatkowo) 20 cm dla U > 60 kV Pomiar odległości FSD | 10 cm dla U < 60 kV"
-    },
-    {
-     "type": "ocr",
-     "text": "< 6 cm Pomiar średnicy pola na końcu tubusa"
-    },
-    {
-     "type": "ocr",
-     "text": "raz/rok Ocena jednorodności obrazu"
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "16.",
+     "children": [
+      {
+       "type": "text",
+       "text": "17"
+      },
+      {
+       "type": "text",
+       "text": "12"
+      },
+      {
+       "type": "text",
+       "text": "12"
+      },
+      {
+       "type": "text",
+       "text": "13"
+      },
+      {
+       "type": "text",
+       "text": "14"
+      },
+      {
+       "type": "text",
+       "text": "10"
+      },
+      {
+       "type": "text",
+       "text": "11"
+      },
+      {
+       "type": "text",
+       "text": "13"
+      },
+      {
+       "type": "text",
+       "text": "Ocena rozdzielczości niskokontrastowej toru wizyjnego obrazowania oraz poziomu szumu Pomiar mocy dawki w wiązce pierwotnej padającej na pacjenta"
+      },
+      {
+       "type": "text",
+       "text": "Pomiar maksymalnej mocy dawki Sprawdzenie automatycznego wyłącznika czasowego po upływie 5 | raz/rok min. ekspozycji Ocena zniekształcenia obrazu Mammografia (testy w pozycjach 1- 10 oraz dodatkowo) raz/rok Pomiary dawki powierzchniowej na |. fantomie akredytacyjnym. raz/rok Pomiar wartości i równomierności siły nacisku płyty dociskowej Angiografia (testy w pozycjach 1- | rąz/rok 10 oraz dodatkowo) Ocena rozdzielczości e raz/rok wysokokontrastowej toru wizyjnego Ocena rozdzielczości niskokontrastowej toru wizyjnego oraz poziomu szumów raz/rok Pomiar maksymalnej mocy dawki w wiązce pierwotnej Tomografia komputerowa (testy w pozycjach 1,2,3,7,8 oraz dodatkowo) Pomiar jednorodności odwzorowania raz/rok referencyjnego fantomu raz/rok Ocena poprawności odwzorowania kontrastu Ocena rozdzielczości raz/rok wysokokontrastowej"
+      },
+      {
+       "type": "text",
+       "text": "raz/rok poniżej wartości referencyjnych"
+      },
+      {
+       "type": "text",
+       "text": "< 10%"
+      },
+      {
+       "type": "text",
+       "text": "zgodnie z EUR 16263EN 130-200 N"
+      },
+      {
+       "type": "text",
+       "text": "zgodnie z norma IEC"
+      },
+      {
+       "type": "text",
+       "text": "zgodnie z norma IEC"
+      },
+      {
+       "type": "text",
+       "text": "poniżej wartości referencyjnych"
+      },
+      {
+       "type": "text",
+       "text": "zgodnie z zaleceniami producenta"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 28 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Ocena rozdzielczości <20% zg. zIĘĆ 61223-2-6 niskokontrastowej i poziomu szumu <20% Pomiar grubości warstwy < poziomów Ocena wielkości dozymetrycznych"
+      },
+      {
+       "type": "text",
+       "text": "referencyjnych Ocena dokładności i powtarzalności 0.2 cm; + 20 % od ustawienia (ruchu) stołu wyniku poprzed. + 0,2 cm Ocena dokładności świetlnych wskaźników położenia"
+      },
+      {
+       "type": "text",
+       "text": "Radiologia stomatologiczna (testy w pozycjach 1-10 oraz dodatkowo) 20 cm dla U > 60 kV Pomiar odległości FSD | 10 cm dla U < 60 kV"
+      },
+      {
+       "type": "text",
+       "text": "< 6 cm Pomiar średnicy pola na końcu tubusa"
+      },
+      {
+       "type": "text",
+       "text": "raz/rok Ocena jednorodności obrazu"
+      }
+     ]
     }
    ]
   },

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2005/2028",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 listopada 2005 r. w sprawie wzoru wniosku o przyznanie pomocy z tytułu produkcji suszu paszowego",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/2028/text.pdf",
  "body": [
   {
@@ -60,187 +60,200 @@
     },
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wniosek o przyznanie pomocy z tytułu produkcji suszu paszowego za miesiąc roku gospodarczego"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Kod pocztowy Poczta"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Kod kraju LL]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Gmina Powiat Województwo Telefon Faks"
     },
     {
-     "type": "ocr",
-     "text": "Część II. Płatności i"
+     "type": "text",
+     "text": "Część II. Płatności i zabezpieczenia: Zaznaczyć, wstawiając krzyżyk przy wybranej opcji wypłaty pomocy: Płatność w ciągu 90 dni po potwierdzeniu prawa do otrzymania pomocy: — 60 % kwoty pomocy bez zabezpieczenia - 80 % kwoty pomocy z zabezpieczeniem 20 % Płatność natychmiastowa ze złożeniem zabezpieczenia: — 60 % kwoty pomocy z zabezpieczeniem 110 % — 80 % kwoty pomocy z zabezpieczeniem 110 % Zabezpieczenie ustanowiono - w dniu?"
     },
     {
-     "type": "ocr",
-     "text": "zabezpieczenia: Zaznaczyć, wstawiając krzyżyk przy wybranej opcji wypłaty pomocy: Płatność w ciągu 90 dni po potwierdzeniu prawa do otrzymania pomocy: — 60 % kwoty pomocy bez zabezpieczenia - 80 % kwoty pomocy z zabezpieczeniem 20 % Płatność natychmiastowa ze złożeniem zabezpieczenia: — 60 % kwoty pomocy z zabezpieczeniem 110 % — 80 % kwoty pomocy z zabezpieczeniem 110 % Zabezpieczenie ustanowiono - w dniu?"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "w kwocie”"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": ")"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "LILI UI zł Słownie” zł:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wnioskowana kwota pomocy Słownie zł:"
     },
     {
-     "type": "ocr",
-     "text": "Część III. Dane dotyczące suszu paszowego objętego wnioskiem o przyznanie pomocy:"
+     "type": "heading",
+     "label": "Część III",
+     "text": "Dane dotyczące suszu paszowego objętego wnioskiem o przyznanie pomocy:"
     },
     {
-     "type": "ocr",
-     "text": "1. Masa pasz do suszenia lub rozdrabniania (zielonki) — w tonach, z której uzyskano susz paszowy objęty wnioskiem o przyznanie pomocy, których zużycie do produkcji suszu paszowego zostało określone w załączniku nr 1 do wniosku: Trawy Lucerna Zielone zboża Pozostałe rośliny”"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Masa pasz do suszenia lub rozdrabniania (zielonki) — w tonach, z której uzyskano susz paszowy objęty wnioskiem o przyznanie pomocy, których zużycie do produkcji suszu paszowego zostało określone w załączniku nr 1 do wniosku: Trawy Lucerna Zielone zboża Pozostałe rośliny”",
+     "children": [
+      {
+       "type": "text",
+       "text": "EEEEEEE"
+      },
+      {
+       "type": "text",
+       "text": "2 Wypełnić w przypadku wyboru opcji płatności z zastosowaniem zabezpieczenia. % Określone w art. 2 pkt 1 rozporządzenia Komisji (WE) nr 382/2005 z dnia 7 marca 2005 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1786/2003 w sprawie wspólnej organizacji rynku suszu paszowego (Dz. Urz. UE L 61 z 8.03.2005, str. 4)."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "EEEEEEE"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Masa suszu paszowego - w tonach, którego miesięczne rozdysponowanie zostało określone w załączniku nr 2",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wniosek o przyznanie pomocy z tytułu produkcji suszu paszowego ZA M LLIECJG (CA roku gospodarczego .......11-12-1:2:::::::::::1::1:11s1:n1:2111:"
+      },
+      {
+       "type": "text",
+       "text": "lub załączniku nr 3 do wniosku:"
+      },
+      {
+       "type": "text",
+       "text": "Lp."
+      },
+      {
+       "type": "text",
+       "text": "10"
+      },
+      {
+       "type": "text",
+       "text": "11"
+      },
+      {
+       "type": "text",
+       "text": "12"
+      },
+      {
+       "type": "text",
+       "text": "13"
+      },
+      {
+       "type": "text",
+       "text": "Masa suszu Masa paszowego sprzedanego zużyta na suszu potrzeby Wyszczególnienie paszowego własnego"
+      },
+      {
+       "type": "text",
+       "text": "(t) gospodarstwa rolnego (spasanie) (t)"
+      },
+      {
+       "type": "text",
+       "text": "Susz paszowy z traw"
+      },
+      {
+       "type": "text",
+       "text": "Susz paszowy z lucerny"
+      },
+      {
+       "type": "text",
+       "text": "Susz paszowy z zielonych zbóż"
+      },
+      {
+       "type": "text",
+       "text": "Susz paszowy z pozostałych roślin”"
+      },
+      {
+       "type": "text",
+       "text": "Łączna masa wszystkich rodzajów rozdysponowanego suszu paszowego (suma pozycji od 1 do 4)"
+      },
+      {
+       "type": "text",
+       "text": "Łączna masa dodatków wykorzystywanych przy produkcji suszu paszowego"
+      },
+      {
+       "type": "text",
+       "text": "Masa suszu paszowego po odjęciu dodatków (od poz. 5 należy odjąć poz. 6)"
+      },
+      {
+       "type": "text",
+       "text": "Ogółem: Stan magazynu na początku danego miesiąca"
+      },
+      {
+       "type": "text",
+       "text": "Masa wyprodukowanego suszu paszowego w danym miesiącu"
+      },
+      {
+       "type": "text",
+       "text": "Masa rozdysponowanego suszu paszowego w danym miesiącu"
+      },
+      {
+       "type": "text",
+       "text": "Stan magazynu na koniec danego miesiąca (suma pozycji 8 i 9 pomniejszona o pozycję 10)"
+      },
+      {
+       "type": "text",
+       "text": "Masa suszu paszowego zgłoszona we wniosku o przyznanie pomocy z tytułu produkcji suszu paszowego za dany miesiąc Masa rozdysponowanego suszu paszowego niezgłoszona we wniosku o przyznanie pomocy z tytułu produkcji suszu paszowego za dany miesiąc"
+      },
+      {
+       "type": "text",
+       "text": "Masa suszu paszowego wyprodukowana na podstawie umowy o produkcję usługową zawartej z producentem zielonki (t)"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Wniosek o przyznanie pomocy z tytułu produkcji suszu paszowego Za MIESIĄC ....2...2-2u-sae nana z aaa zazna aaa ANNIA roku gospodarczego ......-.--:22:2:2-:n:2::n1:s:ns:2::21:21:12:"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "2 Wypełnić w przypadku wyboru opcji płatności z zastosowaniem zabezpieczenia. % Określone w art. 2 pkt 1 rozporządzenia Komisji (WE) nr 382/2005 z dnia 7 marca 2005 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1786/2003 w sprawie wspólnej organizacji rynku suszu paszowego (Dz. Urz. UE L 61 z 8.03.2005, str. 4)."
+     "type": "heading",
+     "label": "Część IV",
+     "text": "Załączniki:"
     },
     {
-     "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Dokument potwierdzający ustanowienie zabezpieczenia (jeżeli zabezpieczenie jest stosowane).",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2. Masa suszu paszowego - w tonach, którego miesięczne rozdysponowanie zostało określone w załączniku nr 2"
-    },
-    {
-     "type": "ocr",
-     "text": "Wniosek o przyznanie pomocy z tytułu produkcji suszu paszowego ZA M LLIECJG (CA roku gospodarczego .......11-12-1:2:::::::::::1::1:11s1:n1:2111:"
-    },
-    {
-     "type": "ocr",
-     "text": "lub załączniku nr 3 do wniosku:"
-    },
-    {
-     "type": "ocr",
-     "text": "Lp."
-    },
-    {
-     "type": "ocr",
-     "text": "10"
-    },
-    {
-     "type": "ocr",
-     "text": "11"
-    },
-    {
-     "type": "ocr",
-     "text": "12"
-    },
-    {
-     "type": "ocr",
-     "text": "13"
-    },
-    {
-     "type": "ocr",
-     "text": "Masa suszu Masa paszowego sprzedanego zużyta na suszu potrzeby Wyszczególnienie paszowego własnego"
-    },
-    {
-     "type": "ocr",
-     "text": "(t) gospodarstwa rolnego (spasanie) (t)"
-    },
-    {
-     "type": "ocr",
-     "text": "Susz paszowy z traw"
-    },
-    {
-     "type": "ocr",
-     "text": "Susz paszowy z lucerny"
-    },
-    {
-     "type": "ocr",
-     "text": "Susz paszowy z zielonych zbóż"
-    },
-    {
-     "type": "ocr",
-     "text": "Susz paszowy z pozostałych roślin”"
-    },
-    {
-     "type": "ocr",
-     "text": "Łączna masa wszystkich rodzajów rozdysponowanego suszu paszowego (suma pozycji od 1 do 4)"
-    },
-    {
-     "type": "ocr",
-     "text": "Łączna masa dodatków wykorzystywanych przy produkcji suszu paszowego"
-    },
-    {
-     "type": "ocr",
-     "text": "Masa suszu paszowego po odjęciu dodatków (od poz. 5 należy odjąć poz. 6)"
-    },
-    {
-     "type": "ocr",
-     "text": "Ogółem: Stan magazynu na początku danego miesiąca"
-    },
-    {
-     "type": "ocr",
-     "text": "Masa wyprodukowanego suszu paszowego w danym miesiącu"
-    },
-    {
-     "type": "ocr",
-     "text": "Masa rozdysponowanego suszu paszowego w danym miesiącu"
-    },
-    {
-     "type": "ocr",
-     "text": "Stan magazynu na koniec danego miesiąca (suma pozycji 8 i 9 pomniejszona o pozycję 10)"
-    },
-    {
-     "type": "ocr",
-     "text": "Masa suszu paszowego zgłoszona we wniosku o przyznanie pomocy z tytułu produkcji suszu paszowego za dany miesiąc Masa rozdysponowanego suszu paszowego niezgłoszona we wniosku o przyznanie pomocy z tytułu produkcji suszu paszowego za dany miesiąc"
-    },
-    {
-     "type": "ocr",
-     "text": "Masa suszu paszowego wyprodukowana na podstawie umowy o produkcję usługową zawartej z producentem zielonki (t)"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Wniosek o przyznanie pomocy z tytułu produkcji suszu paszowego Za MIESIĄC ....2...2-2u-sae nana z aaa zazna aaa ANNIA roku gospodarczego ......-.--:22:2:2-:n:2::n1:s:ns:2::21:21:12:"
-    },
-    {
-     "type": "ocr",
-     "text": "Część IV. Załączniki:"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Dokument potwierdzający ustanowienie zabezpieczenia (jeżeli zabezpieczenie jest stosowane)."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Dokumenty potwierdzające pobranie próbek i wykonanie badań jakościowych poszczególnych partii suszu paszowego lub ich części. Łączna liczba stron wniosku i załączników ["
-    },
-    {
-     "type": "ocr",
-     "text": "Imie i nazwisko wnioskodawcy"
-    },
-    {
-     "type": "ocr",
-     "text": "Data | - - | Podpis wnioskodawcy"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Dokumenty potwierdzające pobranie próbek i wykonanie badań jakościowych poszczególnych partii suszu paszowego lub ich części. Łączna liczba stron wniosku i załączników [",
+     "children": [
+      {
+       "type": "text",
+       "text": "Imię i nazwisko wnioskodawcy"
+      },
+      {
+       "type": "text",
+       "text": "Data | - - | Podpis wnioskodawcy"
+      }
+     ]
     }
    ]
   },
@@ -253,7 +266,7 @@
     },
     {
      "type": "text",
-     "text": "1 Dziennik Ustaw Nr 241 — 15870 — Poz. 2028"
+     "text": "1"
     },
     {
      "type": "note",
@@ -265,7 +278,7 @@
     },
     {
      "type": "text",
-     "text": "2 Dziennik Ustaw Nr 241 — 15871 — Poz. 2028"
+     "text": "2"
     },
     {
      "type": "note",
@@ -278,7 +291,7 @@
    "body": [
     {
      "type": "text",
-     "text": "MIESIĘCZNE ROZDYSPONOWANIE PARTII SUSZU PASZOWEGO Dziennik Ustaw Nr 241 — 15872 — Poz. 2028"
+     "text": "MIESIĘCZNE ROZDYSPONOWANIE PARTII SUSZU PASZOWEGO"
     },
     {
      "type": "note",
@@ -286,7 +299,7 @@
     },
     {
      "type": "text",
-     "text": "MIESIĘCZNE ROZDYSPONOWANIE PARTII SUSZU PASZOWEGO Dziennik Ustaw Nr 241 — 15873 — Poz. 2028"
+     "text": "MIESIĘCZNE ROZDYSPONOWANIE PARTII SUSZU PASZOWEGO"
     },
     {
      "type": "note",
@@ -303,7 +316,7 @@
     },
     {
      "type": "text",
-     "text": "1 Dziennik Ustaw Nr 241 — 15874 — Poz. 2028"
+     "text": "1"
     },
     {
      "type": "note",
@@ -315,7 +328,7 @@
     },
     {
      "type": "text",
-     "text": "2 Dziennik Ustaw Nr 241 — 15875 — Poz. 2028"
+     "text": "2"
     },
     {
      "type": "note",

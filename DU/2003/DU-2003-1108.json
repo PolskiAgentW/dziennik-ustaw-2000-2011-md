@@ -1,7 +1,7 @@
 {
  "eli": "DU/2003/1108",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 29 maja 2003 r. w sprawie zdatności statków powietrznych do lotu",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/1108/text.pdf",
  "body": [
   {
@@ -764,12 +764,11 @@
    "num": "25",
    "path": "par_25",
    "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Infrastruktury: w z. A. Piłat"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Infrastruktury: w z. A. Piłat"
   }
  ],
  "annexes": [
@@ -782,35 +781,48 @@
     },
     {
      "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e. Zabudowane wyposażenie elektroniczne ( lub podanie dokumentu, w którym znajduje się wykaz)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "f. Wyposażenie dodatkowe ( lub podanie dokumentu, w którym znajduje się wykaz) g. Inne informacje"
     },
     {
-     "type": "ocr",
-     "text": "8. Sprawozdanie z ważenia i wyznaczania środka ciężkości (masa do startu, data ważenia, kto wykonał, numer certyfikatu):"
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Sprawozdanie z ważenia i wyznaczania środka ciężkości (masa do startu, data ważenia, kto wykonał, numer certyfikatu):",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "9. Instrukcja użytkowania w locie (numer dokumentu, ostatnie wprowadzone zmiany):"
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Instrukcja użytkowania w locie (numer dokumentu, ostatnie wprowadzone zmiany):",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "10. Instrukcja obsługi technicznej, terminarz (numer dokumentu, ostatnie wprowadzone zmiany):"
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Instrukcja obsługi technicznej, terminarz (numer dokumentu, ostatnie wprowadzone zmiany):",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "11. Nazwa i adres podmiotu, o którym mowa w § 2 ust. 1 pkt 1 rozporządzenia, lub personelu lotniczego, o którym mowa w $ 2 ust. 1 pkt 2 rozporządzenia (nazwisko i imię, numer licencji): Ja, niżej podpisany, oświadczam, że dane zawarte we wniosku są zgodne ze stanem faktycznym i prawnym. Jestem świadomy(a) odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy. Uwagi przyjmującego wniosek:"
-    },
-    {
-     "type": "ocr",
-     "text": "Data, podpis 2/2"
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Nazwa i adres podmiotu, o którym mowa w § 2 ust. 1 pkt 1 rozporządzenia, lub personelu lotniczego, o którym mowa w § 2 ust. 1 pkt 2 rozporządzenia (nazwisko i imię, numer licencji): Ja, niżej podpisany, oświadczam, że dane zawarte we wniosku są zgodne ze stanem faktycznym i prawnym. Jestem świadomy(a) odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy. Uwagi przyjmującego wniosek:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Data, podpis 2/2"
+      }
+     ]
     }
    ]
   },
@@ -823,7 +835,7 @@
     },
     {
      "type": "text",
-     "text": "ŚWIADECTWO ZDATNOŚCI DO LOTU Dziennik Ustaw Nr 117 — 7711 — Poz.1108"
+     "text": "ŚWIADECTWO ZDATNOŚCI DO LOTU"
     },
     {
      "type": "note",
@@ -856,43 +868,56 @@
     },
     {
      "type": "note",
-     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "f. Wykonanie obowiązujących Dyrektyw Zdatności (AD), Biuletynów:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "g. Wyposażenie elektroniczne (dodatkowo zabudowane w okresie ważności świadectwa — wpisać lub załączyć wykaz)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "h. Wyposażenie dodatkowe (dodatkowo zabudowane w okresie ważności świadectwa):"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "i. Inne informacje (podać przyczyny utraty ważności Świadectwa oraz wykonane prace w celu odnowienia jego ważności)"
     },
     {
-     "type": "ocr",
-     "text": "8. Sprawozdanie z ważenia i wyznaczania środka ciężkości (masa do startu, data ważenia, kto wykonał, numer certyfikatu)"
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Sprawozdanie z ważenia i wyznaczania środka ciężkości (masa do startu, data ważenia, kto wykonał, numer certyfikatu)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "9. Instrukcja użytkowania w locie (numer dokumentu, ostatnie wprowadzone zmiany):"
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Instrukcja użytkowania w locie (numer dokumentu, ostatnie wprowadzone zmiany):",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "10. Instrukcja obsługi technicznej, terminarz (numer dokumentu, ostatnie wprowadzone zmiany):"
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Instrukcja obsługi technicznej, terminarz (numer dokumentu, ostatnie wprowadzone zmiany):",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "11. Nazwa i adres podmiotu, o którym mowa w $ 2 ust.1 pkt 1 rozporządzenia, lub personelu lotniczego, o którym mowa w $ 2 ust. 1 pkt 2 rozporządzenia (imię i nazwisko, numer licencji): Ja, niżej podpisany, oświadczam, że dane zawarte we wniosku są zgodne ze stanem faktycznym i prawnym. Jestem świadomy(a) odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy. Uwagi przyjmującego wniosek:"
-    },
-    {
-     "type": "ocr",
-     "text": "Data, podpis 2/2"
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Nazwa i adres podmiotu, o którym mowa w § 2 ust.1 pkt 1 rozporządzenia, lub personelu lotniczego, o którym mowa w § 2 ust. 1 pkt 2 rozporządzenia (imię i nazwisko, numer licencji): Ja, niżej podpisany, oświadczam, że dane zawarte we wniosku są zgodne ze stanem faktycznym i prawnym. Jestem świadomy(a) odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy. Uwagi przyjmującego wniosek:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Data, podpis 2/2"
+      }
+     ]
     }
    ]
   },
@@ -935,23 +960,30 @@
     },
     {
      "type": "note",
-     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "9. Proponowane konieczne ograniczenia:"
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Proponowane konieczne ograniczenia:",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "10. Informacje dodatkowe:"
-    },
-    {
-     "type": "ocr",
-     "text": "Ja, niżej podpisany, oświadczam, że dane zawarte we wniosku są zgodne ze stanem faktycznym i prawnym. Jestem świadomy(a) odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy. EE ANIA ..........4:142112122. POdpIS ......ceeesecesceeceeeeeeeeeeeeeeneeuees Uwagi przyjmującego wniosek:"
-    },
-    {
-     "type": "ocr",
-     "text": "Data, podpis 2/2"
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Informacje dodatkowe:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ja, niżej podpisany, oświadczam, że dane zawarte we wniosku są zgodne ze stanem faktycznym i prawnym. Jestem świadomy(a) odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy. EE ANIA ..........4:142112122. POdpIS ......ceeesecesceeceeeeeeeeeeeeeeneeuees Uwagi przyjmującego wniosek:"
+      },
+      {
+       "type": "text",
+       "text": "Data, podpis 2/2"
+      }
+     ]
     }
    ]
   },

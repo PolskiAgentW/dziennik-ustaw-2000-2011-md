@@ -1,7 +1,7 @@
 {
  "eli": "DU/2001/716",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 czerwca 2001 r. w sprawie szczegółowych zasad, trybu postępowania oraz wzorów dokumentów w sprawach cudzoziemców.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2001/716/text.pdf",
  "body": [
   {
@@ -3584,63 +3584,150 @@
     },
     {
      "type": "note",
-     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "E. UZASADNIENIE WNIOSKU"
     },
     {
-     "type": "ocr",
-     "text": "1. Proszę o wydanie mi wizy: 5. Pobyt na terytorium RP LJ jedno- [| dwu- LL] wielokrotnej a) Czy przebywał Pan(i) wcześniej na terytorium RP? w celu: _] przejazdu przez stretę tranzytową lotniska międzynarodowego | R tak [ nie L_] przejazdu przez terytorium RP Na jakiej podstawie? [_] zatrudnienia lub wykonywania innej pracy 1] wiza L_] ruch bezwizowy | przesiedlenia sig rodziny repatrianta [I zaproszenie LI dokument turystyczny (voucher) LL] połączenia z rodziną Wcześniejsze pobyty w RP (data): LJ innym (w unotywowaniu wniosku podać jaki)"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Proszę o wydanie mi wizy: LJ jedno- [| dwu- LL] wielokrotnej w celu: _] przejazdu przez stretę tranzytową lotniska międzynarodowego L_] przejazdu przez terytorium RP [_] zatrudnienia lub wykonywania innej pracy | przesiedlenia sig rodziny repatrianta LL] połączenia z rodziną LJ innym (w unotywowaniu wniosku podać jaki)",
+     "children": [
+      {
+       "type": "text",
+       "text": "do: | | / / rok miesiąc dzień"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "do: | | / / Wcześniej złożone wnioski o wydanie wizy (data i urząd): rok miesiąc dzień"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Umotywowanie wniosku:",
+     "children": [
+      {
+       "type": "text",
+       "text": ","
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "2. Umotywowanie wniosku:"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Środki utrzymania podczas pobytu w RP: zaznaczyć wszystkie występujące możliwości) gotówka czeki podróżne _] karty kredytowe ] bilety podróży | DR) ubezpieczenie 1] ubezpieczenie zdrowotne [JJ zaproszenie [1 potwierdzenic zakwaterowania",
+     "children": [
+      {
+       "type": "text",
+       "text": "0"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "b) Od kiedy przebywa Pan(i) na terytorium RP? (wypełnić, jeżeli wniosek jest składany w RP)"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Dane dotyczące zatrudnienia Nazwa pracodawcy:",
+     "children": [
+      {
+       "type": "text",
+       "text": "a"
+      },
+      {
+       "type": "text",
+       "text": "Adres PTACOdAWCY: | mmm. A"
+      },
+      {
+       "type": "text",
+       "text": "Miejsce na znaczek opłaty skarbowej za podanie i załączniki (wkleja organ)"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": ", rok miesiąc dzień"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Środki utrzymania podczas pobytu w RP: Na jakiej podstawie? zaznaczyć wszystkie występujące możliwości) gotówka czeki podróżne [] wiza [| ruch bezwizowy _] karty kredytowe ] bilety podróży Cc] zaproszenie [7] dokument turystyczny (voucher) | DR) ubezpieczenie 1] ubezpieczenie zdrowotne Typ dokumentu: | | [JJ zaproszenie [1 potwierdzenic zakwaterowania (jeśli zostało zaznaczone pole „wiza”, należy wpisać rodzaj wizy)"
-    },
-    {
-     "type": "ocr",
-     "text": "0. Seria: | | | Nr dokumentu:"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Dane dotyczace zatrudnienia Nazwa pracodawcy: Data wydania: d U rok miesiąc dzień a Data ważności: / / rok miesiąc dzień Adres PTACOdAWCY: | mmm. A Organ wydający:"
-    },
-    {
-     "type": "ocr",
-     "text": "Załączniki do wniosku: (załącza wnioskodawca)"
-    },
-    {
-     "type": "ocr",
-     "text": "Miejsce na znaczek opłaty skarbowej za podanie i załączniki (wkleja organ)"
-    },
-    {
-     "type": "ocr",
-     "text": "Oświadczam, że wszystkie dane zawarte we wniosku sąprawdziwe SS a . . , zy ap * Data, imię, nazwisko, stanowisko służbowe Data i podpis wnioskodawcy i podpis osoby przyjmującej wniosek Litt tet ILU | J Ltt di IL t tet 1 rok miesiąc dzień rok miesiąc dzień"
-    },
-    {
-     "type": "ocr",
-     "text": "a are vis"
-    },
-    {
-     "type": "ocr",
-     "text": "F. ADNOTACJE URZEDOWE (Wypelnia organ przyjmujacy wniosek) Nr systemowy osoby: | | | | | | | | | | Nr systemowy wniosku: | | | | | | | | | | Opinie właściwych organów: il pozytywna LJ negatywna UWAgi: ai Rodzaj decyzji: | | | Wydano wize: [|] jedno- [] dwu- [| wielokrotng Seria LJ Nr: Data i podpis osoby | | | | U | | U | odbierającej wizę rok miesiąc dzień Data wydania: / / rok miesiąc dzień a Okres ważności: | dni podpis) Data ważności: | / / | | Data, imię, nazwisko. / U rok miesiąc dzień stanowisko służbowe i podpis rok miesiąc dzień Organ wydający osoby rozpatrującej sprawę LI II ttt} [LI ttt t J"
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Pobyt na terytorium RP",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_5/lit_a",
+       "text": "Czy przebywał Pan(i) wcześniej na terytorium RP?",
+       "children": [
+        {
+         "type": "text",
+         "text": "| R tak [ nie Na jakiej podstawie? 1] wiza L_] ruch bezwizowy [I zaproszenie LI dokument turystyczny (voucher) Wcześniejsze pobyty w RP (data):"
+        },
+        {
+         "type": "text",
+         "text": "Wcześniej złożone wnioski o wydanie wizy (data i urząd):"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_5/lit_b",
+       "text": "Od kiedy przebywa Pan(i) na terytorium RP? (wypełnić, jeżeli wniosek jest składany w RP)",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "rok miesiąc dzień Na jakiej podstawie? [] wiza [| ruch bezwizowy Cc] zaproszenie [7] dokument turystyczny (voucher) Typ dokumentu: | | (jeśli zostało zaznaczone pole „wiza”, należy wpisać rodzaj wizy) Seria: | | | Nr dokumentu:"
+      },
+      {
+       "type": "text",
+       "text": "Data wydania: d U rok miesiąc dzień Data ważności: / / rok miesiąc dzień Organ wydający:"
+      },
+      {
+       "type": "text",
+       "text": "Załączniki do wniosku: (załącza wnioskodawca)"
+      },
+      {
+       "type": "text",
+       "text": "Oświadczam, że wszystkie dane zawarte we wniosku sąprawdziwe SS a . . , zy ap * Data i podpis wnioskodawcy Litt tet ILU | J rok miesiąc dzień"
+      },
+      {
+       "type": "text",
+       "text": "a are vis"
+      },
+      {
+       "type": "text",
+       "text": "F. ADNOTACJE URZĘDOWE Nr systemowy osoby: | | | | | | | | | | Opinie właściwych organów: il pozytywna LJ negatywna Rodzaj decyzji: | | | Wydano wizę: [|] jedno- [] dwu- [| wielokrotng Seria LJ Nr:"
+      },
+      {
+       "type": "text",
+       "text": "Data wydania: / / rok miesiąc dzień Okres ważności: | dni Data ważności: | / / | | rok miesiąc dzień Organ wydający LI II ttt} [LI ttt t J"
+      },
+      {
+       "type": "text",
+       "text": "Data, imię, nazwisko, stanowisko służbowe i podpis osoby przyjmującej wniosek Ltt di IL t tet 1 rok miesiąc dzień"
+      },
+      {
+       "type": "text",
+       "text": "(Wypelnia organ przyjmujący wniosek) Nr systemowy wniosku: | | | | | | | | | |"
+      },
+      {
+       "type": "text",
+       "text": "UWAgi: ai"
+      },
+      {
+       "type": "text",
+       "text": "Data i podpis osoby | | | | U | | U | odbierającej wizę rok miesiąc dzień"
+      },
+      {
+       "type": "text",
+       "text": "a podpis)"
+      },
+      {
+       "type": "text",
+       "text": "Data, imię, nazwisko. / U stanowisko służbowe i podpis rok miesiąc dzień osoby rozpatrującej sprawę"
+      }
+     ]
     }
    ]
   },
@@ -3657,126 +3744,118 @@
     },
     {
      "type": "note",
-     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "17 Osoba lub instytucja w Polsce, która może dostarczyć informacji / Person or institution who/which can provide information Nazwisko lub firma / Name of person/firm ; Adres / Adress"
+     "type": "text",
+     "text": "17 Osoba lub instytucja w Polsce, która może dostarczyć informacji / Person or institution who/which can provide information Nazwisko lub firma / Name of person/firm ; Adres / A dress"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "18 Adres podczas pobytu w Polsce / Address(es) during your stay in Poland"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "| Przynałeżność państwowa / Nationality"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "19 Wnioskowana wiza / Visa requested for od do / to / valid from pobytowa / short stay"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "w celu zatrudnienia / stay with work permission w innych celach niż wymienione / other purposes wielokrotna / several entries then mentioned above"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "20 Kolejny kraj podróży po pobycie w Polsce / The next country on your journey"
     },
     {
-     "type": "ocr",
-     "text": "Jeżeli tak / If yes rodzaj / which type"
+     "type": "text",
+     "text": "Jeżeli tak / If yes rodzaj / which type numer / number"
     },
     {
-     "type": "ocr",
-     "text": "numer / number"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Organ wystawiający jący / Is issuing | authority"
     },
     {
-     "type": "ocr",
-     "text": "21 Srodki rzy podczas pobytu / Means gotówka 7 cash"
+     "type": "text",
+     "text": "21 Srodki rży podczas pobytu / Means gotówka 7 cash"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "czeki podróżne / traveller's cheques || karty kredytowe / credit cards || psa | a | a | pam | pt] 25 Inne informacje / Other information"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wyrażam zgodę, aby zawarte w niniejszym formularzu dane dotyczące i mojej osoby zostały przekazane odpowiednim"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "to niezbędne do udzielenia wizy. Oświadczam, że zgodnie z moją wiedzą powyższe dane są prawdziwe i"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "udzielenia wizy lub anulowanie wydanej wizy, może również spowodować konsekwencje kame dla = mnie z polskim prawem. Zobowiązuję się opuścić terytorium Rzeczypospolitej z chwilą upływu ważności ewentualnie przyznanej mi wizy."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Polskiej"
     },
     {
-     "type": "ocr",
-     "text": "terytorium Rzeczypospolitej Polskiej. Miejsce / Place Data / Date"
+     "type": "text",
+     "text": "terytorium Rzeczypospolitej Polskiej. Miejsce / Place Data / Date jednokrotna / single entry"
     },
     {
-     "type": "ocr",
-     "text": "jednokrotna / single entry"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "dwukrotna / two entries"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "22 Wcześniejsze pobyty w Polsce (daty) / Previous stays in Poland (dates)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "organom | Rzeczypospolitej Polskiej i mogły być przetwarzane na tyle, na ile jest;"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "tranzytowa / transit"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "przejazd przez strefę tranzytową lotniska / airport transit posiadam zezwolenie na pobyt na czas oznaczony (kopię dołączam) / I have the residence permit (copy enclosed) i Czy posiada Pan/Pani zezwolenie na wjazd do kolejnego kraju ? ; / Do you have any permission to enter the next country on your journey ? i tak / yes nie / no"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "ważne do / valid until"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "23 Wcześniej złożone wnioski o udzielenie wizy / Previous applications for visa filled with data / date i urząd / mission (post)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "24 Środki transportu / Intended means of transport"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "I agree to my personal data on this application form being | communicated to the appropriate authorities of the Republic of Poland and to process if necessary for the issue of a visa."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "iT declare that to the best of my knowledge the above particulars are pełne. Wiem, że podanie fałszywych danych spowoduje odmowę : correct and complete. I am aware that any false statements will lead to i my application being rejected or to the annulment of the visa already zgodnie i i the Republic of Poland. I undertake to leave the territory of the Republic of Poland upon the i expire of the visa, if granted. Jestem świadom/a faktu, że posiadanie wizy nie wyklucza możliwości : odmówienia mi przez organy Straży Granicznej prawa wjazdu nai | Border Guard."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "granted and may also render me liable to prosecution under the law of"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "I realise that the possession of a visa does not exclude the possibility to refuse my entry into the territory of the Republic of Poland by the"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Podpis własnoręczny wnioskodawcy (w przypadku małoletniego podpis przedstawiciela prawnego / Applicant’s signature (in case of minor, signature of parent or guardian)"
     }
    ]
@@ -3820,7 +3899,7 @@
     },
     {
      "type": "text",
-     "text": "awers Dziennik Ustaw Nr 68 — 5076 — Poz. 716"
+     "text": "awers"
     },
     {
      "type": "note",
@@ -4022,7 +4101,7 @@
    "body": [
     {
      "type": "text",
-     "text": "Tymczasowy polski dokument podróży Wymiary: 125 mm x 260 mm Dziennik Ustaw Nr 68 — 5100 — Poz. 716"
+     "text": "Tymczasowy polski dokument podróży Wymiary: 125 mm x 260 mm"
     },
     {
      "type": "note",
@@ -4218,7 +4297,7 @@
    "body": [
     {
      "type": "text",
-     "text": "Tymczasowe zaświadczenie tożsamości cudzoziemca Wymiary: 125 mm x 260 mm Dziennik Ustaw Nr 68 — 5122 — Poz. 716"
+     "text": "Tymczasowe zaświadczenie tożsamości cudzoziemca Wymiary: 125 mm x 260 mm"
     },
     {
      "type": "note",
@@ -4260,7 +4339,7 @@
     },
     {
      "type": "text",
-     "text": "Lp. Imię Imiona Data Płeć Obywatel- Doku- Miejsce Podstawa Podstawa Organ Data Termin Inne dane i nazwisko rodziców i miejsce stwo ment, zamieszka- prawna faktyczna wnioskują- wpisu obowiązy- mające i nazwisko urodzenia wktórym nia wpisu wpisu cy odoko- wania związek rodowe matki odnotowa- nanie wpi- wpisu z wpisem no wyda- su nie decyzji owydaleniu Dziennik Ustaw Nr 68 — 5126 — Poz. 716"
+     "text": "Lp. Imię Imiona Data Płeć Obywatel- Doku- Miejsce Podstawa Podstawa Organ Data Termin Inne dane i nazwisko rodziców i miejsce stwo ment, zamieszka- prawna faktyczna wnioskują- wpisu obowiązy- mające i nazwisko urodzenia wktórym nia wpisu wpisu cy odoko- wania związek rodowe matki odnotowa- nanie wpi- wpisu z wpisem no wyda- su nie decyzji owydaleniu"
     },
     {
      "type": "note",
@@ -4272,7 +4351,7 @@
     },
     {
      "type": "text",
-     "text": "Ó R W Z Lp. Imię i nazwisko Obywatel- Narodowość Data Cel wjazdu Rodzaj Liczba osób Numer Informacja Sygnatura Inne dane stwo złożenia i pobytu i data objętych i seria ouiszczeniu akt mające zwiąwniosku wydanej decyzją naklejki opłaty skarbo- zek zwpisem decyzji wizowej wej lub kon- do rejestru sularnej albo oodstąpieniu od jej pobrania Dziennik Ustaw Nr 68 — 5128 — Poz. 716"
+     "text": "Ó R W Z Lp. Imię i nazwisko Obywatel- Narodowość Data Cel wjazdu Rodzaj Liczba osób Numer Informacja Sygnatura Inne dane stwo złożenia i pobytu i data objętych i seria ouiszczeniu akt mające zwiąwniosku wydanej decyzją naklejki opłaty skarbo- zek zwpisem decyzji wizowej wej lub kon- do rejestru sularnej albo oodstąpieniu od jej pobrania"
     },
     {
      "type": "note",
@@ -4400,7 +4479,7 @@
     },
     {
      "type": "text",
-     "text": "Ó R W Z Lp. Imię i nazwisko Obywatel- Narodowość Data Rodzaj i data Liczba osób Informacja Dane Informacja Sygnatura Inne dane stwo złożenia wydanej objętych ouiszczeniu o wydanej o utracie lub akt mające wniosku decyzji decyzją opłaty skarbo- karcie wymianie związek wej lub kon- pobytu karty z wpisem do sularnej albo pobytu rejestru oodstąpieniu od jej pobrania Dziennik Ustaw Nr 68 — 5134 — Poz. 716"
+     "text": "Ó R W Z Lp. Imię i nazwisko Obywatel- Narodowość Data Rodzaj i data Liczba osób Informacja Dane Informacja Sygnatura Inne dane stwo złożenia wydanej objętych ouiszczeniu o wydanej o utracie lub akt mające wniosku decyzji decyzją opłaty skarbo- karcie wymianie związek wej lub kon- pobytu karty z wpisem do sularnej albo pobytu rejestru oodstąpieniu od jej pobrania"
     },
     {
      "type": "note",
@@ -4412,7 +4491,7 @@
     },
     {
      "type": "text",
-     "text": "Ó R W Z Lp. Imię i nazwisko Obywatel- Narodowość Data Rodzaj i data Liczba osób Informacja Dane Informacja Sygnatura Inne dane stwo złożenia wydanej objętych ouiszczeniu o wydanej o utracie lub akt mające wniosku decyzji decyzją opłaty skarbo- karcie wymianie związek wej lub kon- pobytu karty z wpisem do sularnej albo pobytu rejestru oodstąpieniu od jej pobrania Dziennik Ustaw Nr 68 — 5136 — Poz. 716"
+     "text": "Ó R W Z Lp. Imię i nazwisko Obywatel- Narodowość Data Rodzaj i data Liczba osób Informacja Dane Informacja Sygnatura Inne dane stwo złożenia wydanej objętych ouiszczeniu o wydanej o utracie lub akt mające wniosku decyzji decyzją opłaty skarbo- karcie wymianie związek wej lub kon- pobytu karty z wpisem do sularnej albo pobytu rejestru oodstąpieniu od jej pobrania"
     },
     {
      "type": "note",
@@ -4432,7 +4511,7 @@
     },
     {
      "type": "text",
-     "text": "Ó R W Z Lp. Imię i nazwisko Obywatelstwo Narodowość Data złożenia Data wydania Rodzaj i data Liczba osób Informacja o zatrzymaniu wniosku postanowienia wydanej decyzji objętych decyzją w depozycie dokumentu owszczęciu podróży postępowania onadanie statusu uchodźcy Dziennik Ustaw Nr 68 — 5138 — Poz. 716"
+     "text": "Ó R W Z Lp. Imię i nazwisko Obywatelstwo Narodowość Data złożenia Data wydania Rodzaj i data Liczba osób Informacja o zatrzymaniu wniosku postanowienia wydanej decyzji objętych decyzją w depozycie dokumentu owszczęciu podróży postępowania onadanie statusu uchodźcy"
     },
     {
      "type": "note",
@@ -4480,7 +4559,7 @@
     },
     {
      "type": "text",
-     "text": "Ó R W Z Lp. Imię i nazwisko Obywatelstwo Narodowość Data Rodzaj i data Liczba osób Informacja Dane dotyczące Sygnatura Inne dane złożenia wydanej objętych o uiszczeniu wydania akt mające wniosku decyzji decyzją opłaty za zezwolenia związek wydanie karty na osiedlenie się z wpisem do pobytu lub oraz karty rejestru zwolnieniu pobytu od jej pobrania Dziennik Ustaw Nr 68 — 5141 — Poz. 716"
+     "text": "Ó R W Z Lp. Imię i nazwisko Obywatelstwo Narodowość Data Rodzaj i data Liczba osób Informacja Dane dotyczące Sygnatura Inne dane złożenia wydanej objętych o uiszczeniu wydania akt mające wniosku decyzji decyzją opłaty za zezwolenia związek wydanie karty na osiedlenie się z wpisem do pobytu lub oraz karty rejestru zwolnieniu pobytu od jej pobrania"
     },
     {
      "type": "note",
@@ -4624,7 +4703,7 @@
     },
     {
      "type": "text",
-     "text": "Termin ważności Określenie czasu Data wpisu do ewidencji, Numer formularza Inne dane mające związek z wpisem zaproszenia pobytu w RP imię i nazwisko oraz zaproszenia do ewidencji stanowisko służbowe osoby dokonującej wpisu Dziennik Ustaw Nr 68 — 5148 — Poz. 716"
+     "text": "Termin ważności Określenie czasu Data wpisu do ewidencji, Numer formularza Inne dane mające związek z wpisem zaproszenia pobytu w RP imię i nazwisko oraz zaproszenia do ewidencji stanowisko służbowe osoby dokonującej wpisu"
     },
     {
      "type": "text",

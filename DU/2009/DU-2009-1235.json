@@ -1,7 +1,7 @@
 {
  "eli": "DU/2009/1235",
  "title": "Rozporządzenie Ministra Finansów z dnia 1 września 2009 r. w sprawie okresowych sprawozdań oraz bieżących informacji dotyczących działalności i sytuacji finansowej towarzystw funduszy inwestycyjnych i funduszy inwestycyjnych dostarczanych przez te podmioty Komisji Nadzoru Finansowego",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2009/1235/text.pdf",
  "body": [
   {
@@ -5882,12 +5882,11 @@
    "num": "25",
    "path": "par_25",
    "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.[^6]",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Finansów: w z. E. Suchocka-Roguska"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: w z. E. Suchocka-Roguska"
   }
  ],
  "annexes": [
@@ -5932,50 +5931,49 @@
     },
     {
      "type": "note",
-     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 25 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "DANE O KAPITALE WŁASNYM Minimalny wymagany kapitał własny (określony zgodnie 1 | zart. 50 ust. 1 ustawy) Minimalny wymagany kapitał własny (określony zgodnie zart. 50 ust. 2 z uwzględnieniem ust. 3 ustawy), w tym: poziom kapitału własnego, o którym mowa w art. 50 ust. 2"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "zwiększenie kapitału własnego, o którym mowa w art. 50"
     },
     {
-     "type": "ocr",
-     "text": "b) | ust. 3 ustawy | 3 | Kapitał własny, w tym: * wynik finansowy netto w okresie sprawozdawczym b"
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "| ust. 3 ustawy | 3 | Kapitał własny, w tym: * wynik finansowy netto w okresie sprawozdawczym b",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "c"
+     "type": "text",
+     "text": "c kapitał zakładowy kapitał zapa"
     },
     {
-     "type": "ocr",
-     "text": "kapitał zakładowy kapitał zapa"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Ra | Ill | ZOBOWIĄZANIA OGÓŁEM, W TYM:"
     },
     {
-     "type": "ocr",
-     "text": "|2 | Zobowiązania wobec uczestników funduszy inwestycyjnych IV | ZACIAGNIETE PO ZOBOWIĄZANIA Z TYTUŁU EMISJI OBLIGACJI, WARTOŚĆ PORECZEN"
+     "type": "text",
+     "text": "|2 | Zobowiązania wobec uczestników funduszy inwestycyjnych IV | ZACIĄGNIĘTE PO ZOBOWIĄZANIA Z TYTUŁU EMISJI OBLIGACJI, WARTOŚĆ PORĘCZEŃ"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wielkość zobowiązań z tytułu emisji obligacji 3 | Wielkość poręczeń za zobowiązania funduszu sekurytyzacyjnego WYBRANE DANE O PRZYCHODACH I KOSZTACH"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Przychody ogółem, w tym: przychody z tytułu zarządzania funduszami inwestycyjnymi przychody z tytułu zarządzania zbiorczymi portfelami na zlecenie przychody z tytułu zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych przychody z tytułu prowadzenia usług doradztwa inwestycyjnego przychody z tytułu pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych reprezentowanych przez towarzystwo przychody z tytułu pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych utworzonych przez inne towarzystwa przychody z tytułu pośrednictwa w zbywaniu i odkupywaniu tytułów uczestnictwa funduszy zagranicznych przychody z tytułu pełnienia funkcji przedstawiciela funduszy zagranicznych Koszty ogółem, w tym: koszty stałe koszty zmienne, w tym: koszty zmienne dystrybucji"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "DANE UZUPEŁNIAJĄCE"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wartość zarządzanych aktywów (wiersze 42+43) Wartość aktywów zarządzanych funduszy inwestycyjnych Wartość aktywów zarządzanych zbiorczych portfeli papierów wartościowych"
     },
     {
@@ -6040,7 +6038,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Nr raportu: ...................... Data raportu: .................. Dziennik Ustaw Nr 156 — 12070 — Poz. 1235"
+       "text": "Nr raportu: ...................... Data raportu: .................."
       },
       {
        "type": "note",
@@ -6097,7 +6095,7 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Wprzypadku poinformowania wraporcie odostosowaniu przekroczenia ograniczeń inwestycyjnych, informacji otym przekroczeniu nie umieszcza się wkolejnym raporcie. 4. Wprzypadku podawania informacji ostanie przekroczeń, które wdniu przekazania danego raportu nie są dostosowane do wymogów określonych wustawie lub statucie funduszu, przekroczenia wykazuje się wwartości zdnia ich powstania (nie dotyczy to sytuacji zwiększenia przekroczenia zprzyczyn innych niż zmiana kursów papierów wartościowych posiadanych przez fundusz lub wzrost albo spadek wartości aktywów funduszu związany ze zbywaniem lub odkupywaniem jednostek uczestnictwa funduszu). Dziennik Ustaw Nr 156 — 12071 — Poz. 1235",
+     "text": "Wprzypadku poinformowania wraporcie odostosowaniu przekroczenia ograniczeń inwestycyjnych, informacji otym przekroczeniu nie umieszcza się wkolejnym raporcie. 4. Wprzypadku podawania informacji ostanie przekroczeń, które wdniu przekazania danego raportu nie są dostosowane do wymogów określonych wustawie lub statucie funduszu, przekroczenia wykazuje się wwartości zdnia ich powstania (nie dotyczy to sytuacji zwiększenia przekroczenia zprzyczyn innych niż zmiana kursów papierów wartościowych posiadanych przez fundusz lub wzrost albo spadek wartości aktywów funduszu związany ze zbywaniem lub odkupywaniem jednostek uczestnictwa funduszu).",
      "children": [
       {
        "type": "note",
@@ -6122,7 +6120,7 @@
      "children": [
       {
        "type": "text",
-       "text": "——————— ¹⁾ Wprzypadku funduszu zwydzielonymi subfunduszami kolumny wypełnia się wodniesieniu do subfunduszu. ²⁾ Pozycja zawiera numer artykułu ze wskazaniem, czy dotyczy on ustawy czy statutu. ³⁾ Pozycja zawiera minimalny dopuszczalny przez ustawę lub statut procentowy lub ilościowy udział danego składnika (składników) waktywach subfunduszu/funduszu. ⁴⁾ Pozycja zawiera maksymalny dopuszczalny przez ustawę lub statut procentowy lub ilościowy udział danego składnika (składników) waktywach subfunduszu/funduszu. ⁵⁾ Pozycja zawiera oznaczenia pozwalające na jednoznaczną identyfikację składnika aktywów, którego dotyczy przekroczenie. ⁶⁾ Przyczyna przekroczenia powinna być opisana wsposób wyczerpujący, wskazujący na konkretne okoliczności związane zjego zaistnieniem. Dziennik Ustaw Nr 156 — 12072 — Poz. 1235"
+       "text": "——————— ¹⁾ Wprzypadku funduszu zwydzielonymi subfunduszami kolumny wypełnia się wodniesieniu do subfunduszu. ²⁾ Pozycja zawiera numer artykułu ze wskazaniem, czy dotyczy on ustawy czy statutu. ³⁾ Pozycja zawiera minimalny dopuszczalny przez ustawę lub statut procentowy lub ilościowy udział danego składnika (składników) waktywach subfunduszu/funduszu. ⁴⁾ Pozycja zawiera maksymalny dopuszczalny przez ustawę lub statut procentowy lub ilościowy udział danego składnika (składników) waktywach subfunduszu/funduszu. ⁵⁾ Pozycja zawiera oznaczenia pozwalające na jednoznaczną identyfikację składnika aktywów, którego dotyczy przekroczenie. ⁶⁾ Przyczyna przekroczenia powinna być opisana wsposób wyczerpujący, wskazujący na konkretne okoliczności związane zjego zaistnieniem."
       },
       {
        "type": "note",
@@ -6167,7 +6165,7 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Wprzypadku poinformowania wraporcie odostosowaniu przekroczenia ograniczeń inwestycyjnych, informacji otym przekroczeniu nie umieszcza się wkolejnym raporcie. 4. Wprzypadku podawania informacji ostanie przekroczeń, które wdniu przekazania danego raportu nie są dostosowane do wymogów określonych wustawie lub statucie funduszu, przekroczenia wykazuje się wwartości zdnia ich powstania (nie dotyczy to zwiększenia przekroczenia zprzyczyn innych niż zmiana kursów papierów wartościowych posiadanych przez subfundusz/fundusz lub wzrost albo spadek wartości aktywów subfunduszu/funduszu związany znową emisją lub wykupywaniem certyfikatów inwestycyjnych funduszu). Dziennik Ustaw Nr 156 — 12073 — Poz. 1235",
+     "text": "Wprzypadku poinformowania wraporcie odostosowaniu przekroczenia ograniczeń inwestycyjnych, informacji otym przekroczeniu nie umieszcza się wkolejnym raporcie. 4. Wprzypadku podawania informacji ostanie przekroczeń, które wdniu przekazania danego raportu nie są dostosowane do wymogów określonych wustawie lub statucie funduszu, przekroczenia wykazuje się wwartości zdnia ich powstania (nie dotyczy to zwiększenia przekroczenia zprzyczyn innych niż zmiana kursów papierów wartościowych posiadanych przez subfundusz/fundusz lub wzrost albo spadek wartości aktywów subfunduszu/funduszu związany znową emisją lub wykupywaniem certyfikatów inwestycyjnych funduszu).",
      "children": []
     }
    ]
@@ -6387,7 +6385,7 @@
     },
     {
      "type": "text",
-     "text": "——————— ¹⁾ Zestawienie powinno obejmować wszystkie transakcje, dla których: — data zawarcia transakcji idata rozliczenia transakcji wypadają wokresie, którego zestawienie dotyczy, — co najmniej data rozliczenia transakcji wypada wokresie, którego zestawienie dotyczy. ²⁾ Oznaczenie powinno umożliwiać jednoznaczną identyfikację przedmiotu transakcji. Przyjęty system identyfikacji powinien być wewnętrznie spójny istabilny wczasie. ³⁾ Należy zawrzeć dodatkowe informacje gwarantujące prawdziwe, rzetelne ikompletne odzwierciedlenie transakcji. Dziennik Ustaw Nr 156 — 12079 — Poz. 1235"
+     "text": "——————— ¹⁾ Zestawienie powinno obejmować wszystkie transakcje, dla których: — data zawarcia transakcji idata rozliczenia transakcji wypadają wokresie, którego zestawienie dotyczy, — co najmniej data rozliczenia transakcji wypada wokresie, którego zestawienie dotyczy. ²⁾ Oznaczenie powinno umożliwiać jednoznaczną identyfikację przedmiotu transakcji. Przyjęty system identyfikacji powinien być wewnętrznie spójny istabilny wczasie. ³⁾ Należy zawrzeć dodatkowe informacje gwarantujące prawdziwe, rzetelne ikompletne odzwierciedlenie transakcji."
     },
     {
      "type": "note",
@@ -6399,7 +6397,7 @@
     },
     {
      "type": "text",
-     "text": "——————— ¹⁾ Zestawienie powinno obejmować wszystkie transakcje, dla których: — data zawarcia transakcji sprzedaży idata zawarcia transakcji kupna przypadają wokresie, którego zestawienie dotyczy, — co najmniej data zawarcia transakcji sprzedaży albo co najmniej data zawarcia transakcji kupna wypadają wokresie, którego zestawienie dotyczy, — data zawarcia transakcji sprzedaży wypada wokresie poprzedzającym okres, którego zestawienie dotyczy, oraz data zawarcia transakcji kupna wypada wokresie przypadającym po okresie, którego zestawienie dotyczy. ²⁾ Oznaczenie powinno umożliwiać jednoznaczną identyfikację przedmiotu transakcji. Przyjęty system identyfikacji powinien być wewnętrznie spójny istabilny wczasie. ³⁾ Należy zawrzeć dodatkowe informacje gwarantujące prawdziwe, rzetelne ikompletne odzwierciedlenie transakcji. Dziennik Ustaw Nr 156 — 12080 — Poz. 1235"
+     "text": "——————— ¹⁾ Zestawienie powinno obejmować wszystkie transakcje, dla których: — data zawarcia transakcji sprzedaży idata zawarcia transakcji kupna przypadają wokresie, którego zestawienie dotyczy, — co najmniej data zawarcia transakcji sprzedaży albo co najmniej data zawarcia transakcji kupna wypadają wokresie, którego zestawienie dotyczy, — data zawarcia transakcji sprzedaży wypada wokresie poprzedzającym okres, którego zestawienie dotyczy, oraz data zawarcia transakcji kupna wypada wokresie przypadającym po okresie, którego zestawienie dotyczy. ²⁾ Oznaczenie powinno umożliwiać jednoznaczną identyfikację przedmiotu transakcji. Przyjęty system identyfikacji powinien być wewnętrznie spójny istabilny wczasie. ³⁾ Należy zawrzeć dodatkowe informacje gwarantujące prawdziwe, rzetelne ikompletne odzwierciedlenie transakcji."
     },
     {
      "type": "note",
@@ -6420,7 +6418,7 @@
     },
     {
      "type": "text",
-     "text": "——————— ¹⁾ Zestawienie powinno obejmować wszystkie transakcje, dla których: — data zawarcia transakcji idata rozliczenia transakcji wypadają wokresie, którego zestawienie dotyczy, — co najmniej data rozliczenia transakcji wypada wokresie, którego zestawienie dotyczy. ²⁾ Wprzypadku transakcji ze zbiorczym portfelem papierów wartościowych zarządzanym przez towarzystwo oraz zklientem, dla którego towarzystwo wykonuje usługi zarządzania portfelami, wskład których wchodzi jeden lub większa liczba instrumentów finansowych, wkolumnie 5należy zawrzeć informacje pozwalające na jednoznaczną identyfikację zbiorczego portfela papierów wartościowych/klienta. ³⁾ Oznaczenie powinno umożliwiać jednoznaczną identyfikację przedmiotu transakcji. Przyjęty system identyfikacji powinien być wewnętrznie spójny istabilny wczasie. ⁴⁾ Należy zawrzeć dodatkowe informacje gwarantujące prawdziwe, rzetelne ikompletne odzwierciedlenie transakcji. Dziennik Ustaw Nr 156 — 12081 — Poz. 1235"
+     "text": "——————— ¹⁾ Zestawienie powinno obejmować wszystkie transakcje, dla których: — data zawarcia transakcji idata rozliczenia transakcji wypadają wokresie, którego zestawienie dotyczy, — co najmniej data rozliczenia transakcji wypada wokresie, którego zestawienie dotyczy. ²⁾ Wprzypadku transakcji ze zbiorczym portfelem papierów wartościowych zarządzanym przez towarzystwo oraz zklientem, dla którego towarzystwo wykonuje usługi zarządzania portfelami, wskład których wchodzi jeden lub większa liczba instrumentów finansowych, wkolumnie 5należy zawrzeć informacje pozwalające na jednoznaczną identyfikację zbiorczego portfela papierów wartościowych/klienta. ³⁾ Oznaczenie powinno umożliwiać jednoznaczną identyfikację przedmiotu transakcji. Przyjęty system identyfikacji powinien być wewnętrznie spójny istabilny wczasie. ⁴⁾ Należy zawrzeć dodatkowe informacje gwarantujące prawdziwe, rzetelne ikompletne odzwierciedlenie transakcji."
     },
     {
      "type": "note",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2004/902",
  "title": "Rozporządzenie Ministra Finansów z dnia 22 kwietnia 2004 r. w sprawie szczegółowych wymogów, jakie powinno spełniać zgłoszenie celne",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/902/text.pdf",
  "body": [
   {
@@ -1680,12 +1680,11 @@
    "num": "49",
    "path": "par_49",
    "text": "Rozporządzenie wchodzi w życie z dniem 1 maja 2004 r.[^3]",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Finansów: w z. E. Mucha"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: w z. E. Mucha"
   }
  ],
  "annexes": [
@@ -2041,107 +2040,83 @@
     },
     {
      "type": "note",
-     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "WSKAZÓWKI DLA PRZEDSIĘBIORCY PRZEWOZOWEGO / INSTRUCTIONS FOR TRANSPORTER"
     },
     {
-     "type": "ocr",
-     "text": "Oświadczam, że /I declare that | will: zawiadomię kompetentne władze celne o towarach, które nie są przyjęte przez wojska inform the competent customs authorities of goods which are not accepted by the nie odstąpię stronom trzecim towarów, które nie zostały przyjęte przez ww. wojska, w sposób niezgodny z przepisami prawa obowiązującymi w kraju, gdzie towarów nie przyjęto / not to dispose of these rejected goods to third parties without conforming with the regulations (customs and others) in effect in the country where the goods have not been admitted."
+     "type": "text",
+     "text": "Oświadczam, że /I declare that | will: zawiadomię kompetentne władze celne o towarach, które nie są przyjęte przez wojska 1) inform the competent customs authorities of goods which are not accepted by the nie odstąpię stronom trzecim towarów, które nie zostały przyjęte przez ww. wojska, w sposób niezgodny z przepisami prawa 2) obowiązującymi w kraju, gdzie towarów nie przyjęto / not to dispose of these rejected goods to third parties without conforming with the regulations (customs and others) in effect in the country where the goods have not been admitted."
     },
     {
-     "type": "ocr",
-     "text": "1)"
-    },
-    {
-     "type": "ocr",
-     "text": "2)"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Podpis, nazwisko i adres osoby przedstawiającej towary organowi celnemu / Signature, name and address of person presenting the goods to customs (**)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(Podpis / Signature)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Towary przedstawiono organowi celnemu w Goods presented to customs authorities on (Data / Date}"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(Miejsce / Place)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(*) Osoba przedstawiająca towary powinna przedstawić, na żądanie organu celnego, dokument tożsamości. / The bearer will establish his identity when requested by customs by means of identification card or passport."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Urząd Celny Customs Office"
     },
     {
-     "type": "ocr",
-     "text": "Data przekroczenia granicy Date of crossing"
-    },
-    {
-     "type": "ocr",
-     "text": "Urzędowa pieczęć celna Podpis funkcjonariusza celnego i i Official customs stamp i uwagi Signature of customs officer and remarks"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Cargo przewożone transportem urzędowym oraz cargo oplombowane płombami wojsk / Cargo being moved in official transport and cargo sealed with"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Nr ewidencji celnej / Number of customs record"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "*) Wypełnia tylko polski organ celny / For use by Polish Customs only"
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "Urzędowa pieczęć celna Podpis funkcjonariusza celnego Data i i Official customs stamp przekroczenia i uwagi Signature of customs officer granicy and remarks Date of crossing"
+    },
+    {
+     "type": "text",
      "text": "lub plombami celnymi innych państw nie podlega kontroli celnej / Army seals or customs seals from other countries is not subject to internal inspection by Polish Customs officials."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "OBIEG DOKUMENTÓW / DISTRIBUTION OF COPIES"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wysyłający, wraz z transportowaną przesyłką, przekaże wszystkie wymagane egzemplarze deklaracji przewoźnikowi. W przypadku przesyłek tranzytowych przewoźnikowi wydane zostaną odpowiednie kopie z przeznaczeniem dla poszczególnych administracji celnych, jak przedstawiono poniżej. Każdy graniczny urząd celny zatrzymuje kopię dokumentu. / The consignor will present all copies with the shipment to the transport agent. For transit shipments sufficient copies, each marked for the respective customs administration as outlined below, will be given to the transport agent. Each frontier customs control point, traversed by the shipment, will retain its proper"
     },
     {
-     "type": "ocr",
-     "text": "Egzemplarz Nr 1 przekazany będzie odbiorcy przez przewożnika wraz z przesyłką, po obróbce i ostemplowaniu tego egzemplarza przez służby celne. Egzemplarz Nr 2 powinien być zwrócony przez odbiorcę przesyłki firmie ekspedycyjnej wraz z poświadczeniem odbioru. Egzemplarz Nr 3 przeznaczony jest dla władz celnych kraju wysyłki. Egzemplarz Nr 4 przeznaczony jest dla władz celnych kraju przeznaczenia. W przypadku tranzytu kopie oznaczone 4a, 4b itd. przeznaczone są dla władz celnych krajów tranzytowych. Egzemplarz Nr 5 przeznaczony jest dla instytucji wydającej dokument."
-    },
-    {
-     "type": "ocr",
-     "text": "1)"
-    },
-    {
-     "type": "ocr",
-     "text": "2)"
-    },
-    {
-     "type": "ocr",
-     "text": "3)"
-    },
-    {
-     "type": "ocr",
-     "text": "4)"
-    },
-    {
-     "type": "ocr",
-     "text": "Copy No.1 will be handed to the consignee together with the shipment by the transport agent after customs officials have processed and stamped this copy. Copy No.2 should be returned by the recipient to the dispatching agency together with certificate of receipt. Copy No.3 is intended for customs officials of the country of"
-    },
-    {
-     "type": "ocr",
-     "text": "origin. Copy No.4 is intended for customs officials of the country of destination. Where necessary for transit purposes, further copies, to be marked 4a, 4b etc, are intended for retention by customs officials of transit countries concerned. Copy No.5 is intended for the issuing organisation."
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Egzemplarz Nr 1 przekazany będzie odbiorcy przez przewożnika wraz z przesyłką, po obróbce i ostemplowaniu tego egzemplarza przez służby celne. Egzemplarz Nr 2 powinien być zwrócony przez odbiorcę 2) przesyłki firmie ekspedycyjnej wraz z poświadczeniem 3) odbioru. Egzemplarz Nr 3 przeznaczony jest dla władz celnych kraju 4) wysyłki. Egzemplarz Nr 4 przeznaczony jest dla władz celnych kraju przeznaczenia. W przypadku tranzytu kopie oznaczone 4a, 4b itd. przeznaczone są dla władz celnych krajów tranzytowych. Egzemplarz Nr 5 przeznaczony jest dla instytucji wydającej dokument.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Copy No.1 will be handed to the consignee together with the shipment by the transport agent after customs officials have processed and stamped this copy. Copy No.2 should be returned by the recipient to the dispatching agency together with certificate of receipt. Copy No.3 is intended for customs officials of the country of"
+      },
+      {
+       "type": "text",
+       "text": "origin. Copy No.4 is intended for customs officials of the country of destination. Where necessary for transit purposes, further copies, to be marked 4a, 4b etc, are intended for retention by customs officials of transit countries concerned. Copy No.5 is intended for the issuing organisation."
+      }
+     ]
     }
    ]
   },
@@ -2150,7 +2125,7 @@
    "body": [
     {
      "type": "text",
-     "text": "DOKUMENT POTWIERDZAJĄCY DOKONANIE ZGŁOSZENIA CELNEGO Dziennik Ustaw Nr 94 — 6298 — Poz. 902"
+     "text": "DOKUMENT POTWIERDZAJĄCY DOKONANIE ZGŁOSZENIA CELNEGO"
     },
     {
      "type": "note",
@@ -2158,7 +2133,7 @@
     },
     {
      "type": "text",
-     "text": "DOKUMENT POTWIERDZAJĄCY DOKONANIE ZGŁOSZENIA CELNEGO Dziennik Ustaw Nr 94 — 6299 — Poz. 902"
+     "text": "DOKUMENT POTWIERDZAJĄCY DOKONANIE ZGŁOSZENIA CELNEGO"
     },
     {
      "type": "note",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2003/1878",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 27 września 2003 r. w sprawie szczegółowych czynności organów w sprawach związanych z dopuszczeniem pojazdu do ruchu oraz wzorów dokumentów w tych sprawach",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/1878/text.pdf",
  "body": [
   {
@@ -2373,18 +2373,18 @@
     },
     {
      "type": "note",
-     "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 16 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "strona 2"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Adnotacje urzędowe, informacje, zmiany:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "* Wpisując rodzaj paliwa, stosuje się następujące skróty: BB - benzyna bezołowiowa, BU - benzyna uniwersalna, CNG - gaz ziemny sprężony (metan), LPG - gaz płynny (propan- butan), ON - olej napędowy, 999 - inne. Uwaga: dopuszcza się wystawianie karty informacyjnej pojazdu w formie wydruku z systemu informatycznego."
     }
    ]
@@ -2410,11 +2410,11 @@
     },
     {
      "type": "text",
-     "text": "1 01 motorower bez podziału L 2 02 motocykl 01 osobowy 1,2 3 02 ciężarowy L 4 99 inny* 3,4,5 5 03 samochód osobowy 01 kareta (sedan) M oraz L w przypadku czterokoło- 6 02 hatchback wych¹ pojazdów 2,5 samochodowych 7 03 kombi z nadwoziem zamkniętym 8 04 coupé 9 05 kabriolet 10 06 wielozadaniowy 11 07 van 12 99 inny* 13 04 autobus 01 miejski 14 02 międzymiastowy 15 03 turystyczny M 16 04 szkolny 2,3 17 99 inny* 18 05 trolejbus bez podziału 19 06 samochód ciężarowy 01 skrzynia N oraz L w przypadku czteroko- 20 02 furgon łowych 1,2,3 pojazdów 2,5 samochodowych 21 03 wywrotka z nadwoziem zamkniętym 22 04 pojemnik 23 05 cysterna 24 06 skrzynia/żuraw 25 07 furgon/podest 26 08 ciężarowo-osobowy 27 09 terenowy 28 10 wielozadaniowy 29 11 van 30 99 inny* 31 07 samochód specjalny bez podziału M N 32 08 ciągnik samochodowy 01 siodłowy N¹ 1,2,3 33 02 balastowy 1,2,3 34 99 inny* 35 09 ciągnik rolniczy 01 kołowy 36 02 gąsienicowy T 37 99 inny* 38 10 przyczepa lekka 01 ciężarowa 39 02 specjalna O 40 99 inna*¹ 41 11 naczepa ciężarowa 01 skrzynia 42 02 furgon 43 03 wywrotka 44 04 pojemnik O 2,3,4 1 2 3 4 5 6"
+     "text": "1 01 motorower bez podziału L1,2 2 02 motocykl 01 osobowy 3 02 ciężarowy L3,4,5 4 99 inny* 5 03 samochód osobowy 01 kareta (sedan) M₁ oraz L2,5 w przypadku czterokoło- 6 02 hatchback wych pojazdów samochodowych 7 03 kombi z nadwoziem zamkniętym 8 04 coupé 9 05 kabriolet 10 06 wielozadaniowy 11 07 van 12 99 inny* 13 04 autobus 01 miejski 14 02 międzymiastowy 15 03 turystyczny M2,3 16 04 szkolny 17 99 inny* 18 05 trolejbus bez podziału 19 06 samochód ciężarowy 01 skrzynia N1,2,3 oraz L2,5 w przypadku czteroko- 20 02 furgon łowych pojazdów samochodowych 21 03 wywrotka z nadwoziem zamkniętym 22 04 pojemnik 23 05 cysterna 24 06 skrzynia/żuraw 25 07 furgon/podest 26 08 ciężarowo-osobowy 27 09 terenowy 28 10 wielozadaniowy 29 11 van 30 99 inny* 31 07 samochód specjalny bez podziału M₁ N1,2,3 32 08 ciągnik samochodowy 01 siodłowy N1,2,3 33 02 balastowy 34 99 inny* 35 09 ciągnik rolniczy 01 kołowy 36 02 gąsienicowy T 37 99 inny* 38 10 przyczepa lekka 01 ciężarowa 39 02 specjalna O₁ 40 99 inna* 41 11 naczepa ciężarowa 01 skrzynia 42 02 furgon 43 03 wywrotka 44 04 pojemnik O2,3,4 1 2 3 4 5 6"
     },
     {
      "type": "text",
-     "text": "45 05 cysterna 46 06 dłużycowa 47 07 niskopodwoziowa 48 99 inna* 49 12 naczepa specjalna bez podziału O 50 13 przyczepa ciężarowa 01 skrzynia 2,3,4 51 02 furgon 52 03 wywrotka 53 04 pojemnik O 54 05 cysterna 2,3,4 55 06 dłużycowa 56 07 niskopodwoziowa 57 99 inna* 58 14 przyczepa specjalna bez podziału O 59 15 przyczepa ciężarowa 2,3,4 rolnicza 01 skrzynia 60 02 furgon 61 03 wywrotka 62 04 pojemnik nie określa się 63 05 cysterna 64 06 dłużycowa 65 07 niskopodwoziowa 66 99 inna*"
+     "text": "45 05 cysterna 46 06 dłużycowa 47 07 niskopodwoziowa 48 99 inna* 49 12 naczepa specjalna bez podziału O2,3,4 50 13 przyczepa ciężarowa 01 skrzynia 51 02 furgon 52 03 wywrotka 53 04 pojemnik O2,3,4 54 05 cysterna 55 06 dłużycowa 56 07 niskopodwoziowa 57 99 inna* 58 14 przyczepa specjalna bez podziału O2,3,4 59 15 przyczepa ciężarowa rolnicza 01 skrzynia 60 02 furgon 61 03 wywrotka 62 04 pojemnik nie określa się 63 05 cysterna 64 06 dłużycowa 65 07 niskopodwoziowa 66 99 inna*"
     },
     {
      "type": "text",
@@ -2715,7 +2715,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WZÓR WYKAZU DOKUMENTÓW KOMUNIKACYJNYCH (książka formatu A-4, układ stron poziomy) Dziennik Ustaw Nr 192 — 12976 — Poz. 1878"
+     "text": "WZÓR WYKAZU DOKUMENTÓW KOMUNIKACYJNYCH (książka formatu A-4, układ stron poziomy)"
     },
     {
      "type": "note",
@@ -2728,7 +2728,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WZÓR WYKAZU TABLIC REJESTRACYJNYCH (książka formatu A-4, układ strony poziomy) Dziennik Ustaw Nr 192 — 12977 — Poz. 1878"
+     "text": "WZÓR WYKAZU TABLIC REJESTRACYJNYCH (książka formatu A-4, układ strony poziomy)"
     },
     {
      "type": "note",

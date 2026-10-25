@@ -1,7 +1,7 @@
 {
  "eli": "DU/2002/643",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 17 maja 2002 r. w sprawie zakresu informacji i wniosków niezbędnych do ustalenia cen urzędowych na środki farmaceutyczne i materiały medyczne, sposobu i terminów przedkładania informacji oraz trybu i terminów rozpatrywania wniosków i informacji.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2002/643/text.pdf",
  "body": [
   {
@@ -250,99 +250,138 @@
     },
     {
      "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "8. Wielkość DDD (określona dawka w zależności od wskazania) określona przez Światową Organizację Zdrowia (WHO)"
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Wielkość DDD (określona dawka w zależności od wskazania) określona przez Światową Organizację Zdrowia (WHO)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "9. Czas standardowej kuracji"
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Czas standardowej kuracji",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "10. Dzienny koszt terapii oraz średni koszt standardowej terapii"
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Dzienny koszt terapii oraz średni koszt standardowej terapii",
+     "children": [
+      {
+       "type": "text",
+       "text": "Il. Informacje o środku farmaceutycznymi materiale medycznym* w kraju wytwórcy"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "Il. Informacje o środku farmaceutycznymi materiale medycznym* w kraju wytwórcy"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Data pierwszej rejestracji . Data ważności Świadectwa Rejestracji",
+     "children": [
+      {
+       "type": "text",
+       "text": "|"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "1. Data pierwszej rejestracji . Data ważności Świadectwa Rejestracji"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Cena zbytu (cena wytwórcy, bez VAT i marz)",
+     "children": [
+      {
+       "type": "text",
+       "text": "NI lll. Informacje o środku farmaceutycznym / materiale medycznym* w innych krajach"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "|"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Rejestracje w innych krajach (kraj, data rejestracji, ewentualnie data skreślenia z rejestru), ze szczególnym wskazaniem stanu rejestracji w poszczególnych krajach Unii Europejskiej",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2. Cena zbytu (cena wytwórcy, bez VAT i marz)"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Kraje, w których środek farmaceutyczny/ materiał medyczny” jest refundowany (procent refundacji)",
+     "children": [
+      {
+       "type": "text",
+       "text": "* Niepotrzebne skreślić."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "IV. Dodatkowe informacje na temat środka farmaceutycznego / materiału medycznego” w Polsce"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "NI lll. Informacje o środku farmaceutycznym / materiale medycznym* w innych krajach"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Proponowana cena (bez VAT, bez marż) w PLN, po umieszczeniu w wykazie leków podstawowych i uzupełniających lub wykazie leków i materiałów medycznych, które mogą być przepisywane bezpłatnie, za opłatą ryczałtową lub częściową odpłatnością osobom chorującym na choroby zakaźne lub psychiczne oraz upośledzonym umysłowo, a także chorującym na niektóre choroby przewlekłe, wrodzone, nabyte, wraz z kalkulacją.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "1. Rejestracje w innych krajach (kraj, data rejestracji, ewentualnie data skreślenia z rejestru), ze szczególnym wskazaniem stanu rejestracji w poszczególnych krajach Unii Europejskiej"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Struktura i wielkość sprzedaży w Polsce (w zależności od wskazania terapeutycznego — jeśli dotyczy)",
+     "children": [
+      {
+       "type": "text",
+       "text": "V. Bezpieczeństwo stosowania"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "2. Kraje, w których środek farmaceutyczny/ materiał medyczny” jest refundowany (procent refundacji)"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Czy zgłoszono w Polsce zaobserwowane (jakie?) niepożądane działania środka farmaceutycznego/ materiału medycznego* w okresie ostatnich 5 lat?",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "* Niepotrzebne skreślić."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "IV. Dodatkowe informacje na temat środka farmaceutycznego / materiału medycznego” w Polsce"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Proponowana cena (bez VAT, bez marż) w PLN, po umieszczeniu w wykazie leków podstawowych i uzupełniających lub wykazie leków i materiałów medycznych, które mogą być przepisywane bezpłatnie, za opłatą ryczałtową lub częściową odpłatnością osobom chorującym na choroby zakaźne lub psychiczne oraz upośledzonym umysłowo, a także chorującym na niektóre choroby przewlekłe, wrodzone, nabyte, wraz z kalkulacją."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Struktura i wielkość sprzedaży w Polsce (w zależności od wskazania terapeutycznego — jeśli dotyczy)"
-    },
-    {
-     "type": "ocr",
-     "text": "V. Bezpieczeństwo stosowania"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Czy zgłoszono w Polsce zaobserwowane (jakie?) niepożądane działania środka farmaceutycznego/ materiału medycznego* w okresie ostatnich 5 lat?"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Jakie niepożądane działania środka farmaceutycznego/ materiału medycznego* zgłoszono w kraju wnioskodawcy i w innych krajach w okresie ostatnich 5 lat?"
-    },
-    {
-     "type": "ocr",
-     "text": "* Niepotrzebne skreślić."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "VI. Uzasadnienie wnioskodawcy dotyczące ustalenia ceny urzędowej środka farmaceutycznego/ materiału medycznego*"
-    },
-    {
-     "type": "ocr",
-     "text": "miejscowość, data. Podpis osoby upoważnionej do reprezentacji przedsiębiorcy"
-    },
-    {
-     "type": "ocr",
-     "text": "* Niepotrzebne skreślić."
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Jakie niepożądane działania środka farmaceutycznego/ materiału medycznego* zgłoszono w kraju wnioskodawcy i w innych krajach w okresie ostatnich 5 lat?",
+     "children": [
+      {
+       "type": "text",
+       "text": "* Niepotrzebne skreślić."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "VI. Uzasadnienie wnioskodawcy dotyczące ustalenia ceny urzędowej środka farmaceutycznego/ materiału medycznego*"
+      },
+      {
+       "type": "text",
+       "text": "miejscowość, data. Podpis osoby upoważnionej do reprezentacji przedsiębiorcy"
+      },
+      {
+       "type": "text",
+       "text": "* Niepotrzebne skreślić."
+      }
+     ]
     }
    ]
   },
@@ -356,7 +395,7 @@
     {
      "type": "heading",
      "label": "Część I",
-     "text": "Dziennik Ustaw Nr 69 — 4896 — Poz. 643"
+     "text": ""
     },
     {
      "type": "note",

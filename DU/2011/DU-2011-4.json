@@ -1,7 +1,7 @@
 {
  "eli": "DU/2011/4",
  "title": "Rozporządzenie Ministra Środowiska z dnia 28 grudnia 2010 r. w sprawie wzoru formularza raportu oraz sposobu jego wprowadzania do Krajowej bazy o emisjach gazów cieplarnianych i innych substancji",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2011/4/text.pdf",
  "body": [
   {
@@ -225,12 +225,11 @@
    "num": "4",
    "path": "par_4",
    "text": "Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Środowiska: w z. S. Gawłowski"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: w z. S. Gawłowski"
   }
  ],
  "annexes": [
@@ -1284,19 +1283,23 @@
       },
       {
        "type": "text",
-       "text": "ograniczenie czasu pracy pozostały do 12 do 20 000 h (w latach 2008—2015) jeżeli wykorzystania tak czas pracy źródła Odstępstwa [h] 13 od spełniania standardów derogacje traktatowe tak/nie 14 emisji SO z uwagi na właściwości paliwa stałego tak/nie (spełnienie² odpowiedniego stopnia odsiarczania)"
+       "text": "ograniczenie czasu pracy pozostały do 12 do 20 000 h (w latach 2008—2015) jeżeli wykorzystania tak czas pracy źródła Odstępstwa [h] 13 od spełniania standardów derogacje traktatowe tak/nie 14 emisji SO₂ z uwagi na właściwości paliwa stałego tak/nie (spełnienie odpowiedniego stopnia odsiarczania)"
       },
       {
        "type": "text",
-       "text": "15 SO dla źródeł szczytowych tak/nie"
+       "text": "15 SO₂ dla źródeł szczytowych tak/nie"
       },
       {
        "type": "text",
-       "text": "16 NO² dla źródeł szczytowych tak/nie 17 praca x jako kocioł szczytowy tak/nie (czas pracy poniżej 1500 h/rok)"
+       "text": "16 NOx dla źródeł szczytowych tak/nie"
       },
       {
        "type": "text",
-       "text": "18 Prognoza ograniczenie czasu pracy do 17 500 h tak/nie dotycząca źródła (w latach 2016—2023) po 2015 roku odstępstwo od spełniania standardów emisji SO 19 z uwagi na właściwości miejscowego paliwa² tak/nie stałego (spełnienie minimalnych stopni odsiarczania)"
+       "text": "17 praca jako kocioł szczytowy tak/nie (czas pracy poniżej 1500 h/rok)"
+      },
+      {
+       "type": "text",
+       "text": "18 Prognoza ograniczenie czasu pracy do 17 500 h tak/nie dotycząca źródła (w latach 2016—2023) po 2015 roku odstępstwo od spełniania standardów emisji SO₂ 19 z uwagi na właściwości miejscowego paliwa tak/nie stałego (spełnienie minimalnych stopni odsiarczania)"
       },
       {
        "type": "text",
@@ -2020,7 +2023,7 @@
       },
       {
        "type": "text",
-       "text": "Objaśnienia: 1) Przyjęte w zakładzie zwyczajowe (skrótowe, porządkowe) oznaczenie emitora. 2) Współrzędne geograficzne lokalizacji emitora wyrażone we współrzędnych długości i szerokości geograficznej (format zapisu: stopnie, minuty i sekundy dziesiętne o [hdd mm’ ss.ss”]). 3) Geometryczna wysokość przewodu liczona od poziomu terenu [m]. 4) Średnica wewnętrzna wylotu przewodu [m]. 5) Średnia, odniesiona do roku temperatura gazów odlotowych na wylocie przewodu [K] — można podać temperaturę gazów odlotowych na wylocie przewodu, jaka została przyjęta do obliczeń stanu jakości powietrza. 6) 3 Średni, odniesiony do roku strumień objętości gazów odlotowych (w warunkach rzeczywistych) [m /h]. 7) Należy określić istnienie zadaszenia poprzez wpisanie litery O — emitor otwarty lub Z — emitor zadaszony; dla przewodów poziomych należy wpisać Z. Zgodnie z wierszem 1 tabeli 6 albo wierszem 3 tabeli 7. Zgodnie z wierszem 2 tabeli 6 albo wierszem 4 tabeli 7. Zgodnie z wierszem 2 tabeli 5. Zgodnie z wierszem 4 tabeli 5. Dziennik Ustaw Nr 3 — 278 — Poz. 4"
+       "text": "Objaśnienia: 1) Przyjęte w zakładzie zwyczajowe (skrótowe, porządkowe) oznaczenie emitora. 2) Współrzędne geograficzne lokalizacji emitora wyrażone we współrzędnych długości i szerokości geograficznej (format zapisu: stopnie, minuty i sekundy dziesiętne o [hdd mm’ ss.ss”]). 3) Geometryczna wysokość przewodu liczona od poziomu terenu [m]. 4) Średnica wewnętrzna wylotu przewodu [m]. 5) Średnia, odniesiona do roku temperatura gazów odlotowych na wylocie przewodu [K] — można podać temperaturę gazów odlotowych na wylocie przewodu, jaka została przyjęta do obliczeń stanu jakości powietrza. 6) 3 Średni, odniesiony do roku strumień objętości gazów odlotowych (w warunkach rzeczywistych) [m /h]. 7) Należy określić istnienie zadaszenia poprzez wpisanie litery O — emitor otwarty lub Z — emitor zadaszony; dla przewodów poziomych należy wpisać Z. Zgodnie z wierszem 1 tabeli 6 albo wierszem 3 tabeli 7. Zgodnie z wierszem 2 tabeli 6 albo wierszem 4 tabeli 7. Zgodnie z wierszem 2 tabeli 5. Zgodnie z wierszem 4 tabeli 5."
       }
      ]
     },
@@ -2068,27 +2071,35 @@
       },
       {
        "type": "text",
-       "text": "W pierwszym raporcie: — w przypadku pozwolenia zintegrowanego lub pozwolenia na wprowadzanie gazów lub pyłów do powietrza należy podać jedynie zmiany pozwolenia dokonane w drodze decyzji, dotyczące struktury technologicznej lub emisji do powietrza, jakie zostały dokonane od dnia wydania pozwolenia, — w przypadku zezwolenia na udział we wspólnotowym systemie handlu uprawnieniami do emisji należy podać wszystkie zmiany zezwolenia, jakie zostały dokonane od dnia jego wydania; w kolejnych raportach należy dodać tylko zmiany, jakie zostały dokonane w okresie sprawozdawczym. Zgodnie z wierszem 2 tabeli 5. Zgodnie z wierszem 4 tabeli 5. Należy podać wszystkie rodzaje gazów lub pyłów, jakie zostały określone w pozwoleniu zintegrowanym/pozwoleniu na wprowadzanie gazów lub pyłów do powietrza, jako dopuszczalne do wprowadzenia do powietrza. Dziennik Ustaw Nr 3 — 279 — Poz. 4 1) 5. Zgłoszenia instalacji zlokalizowanych na terenie zakładu"
+       "text": "W pierwszym raporcie: — w przypadku pozwolenia zintegrowanego lub pozwolenia na wprowadzanie gazów lub pyłów do powietrza należy podać jedynie zmiany pozwolenia dokonane w drodze decyzji, dotyczące struktury technologicznej lub emisji do powietrza, jakie zostały dokonane od dnia wydania pozwolenia, — w przypadku zezwolenia na udział we wspólnotowym systemie handlu uprawnieniami do emisji należy podać wszystkie zmiany zezwolenia, jakie zostały dokonane od dnia jego wydania; w kolejnych raportach należy dodać tylko zmiany, jakie zostały dokonane w okresie sprawozdawczym. Zgodnie z wierszem 2 tabeli 5. Zgodnie z wierszem 4 tabeli 5. Należy podać wszystkie rodzaje gazów lub pyłów, jakie zostały określone w pozwoleniu zintegrowanym/pozwoleniu na wprowadzanie gazów lub pyłów do powietrza, jako dopuszczalne do wprowadzenia do powietrza."
       },
       {
-       "type": "text",
-       "text": "Tabela 10. Zgłoszenia"
-      },
-      {
-       "type": "text",
-       "text": "Instalacja podlegająca zgłoszeniu Organ Data Lp. przyjmujący dokonania 2) 3) rodzaj instalacji oznaczenie zgłoszenie zgłoszenia"
-      },
-      {
-       "type": "text",
-       "text": "1 2 3 4 5"
-      },
-      {
-       "type": "text",
-       "text": "1 … N"
-      },
-      {
-       "type": "text",
-       "text": "Objaśnienia: ¹⁾ Zgłoszenie instalacji mogącej negatywnie oddziaływać na środowisko z uwagi na wprowadzanie gazów lub pyłów do powietrza, na podstawie art. 152 ust. 1 ustawy z dnia 27 kwietnia 2001 r. — Prawo ochrony środowiska. ²⁾ Zgodnie z wierszem 2 tabeli 5. ³⁾ Zgodnie z wierszem 4 tabeli 5."
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_4/pkt_1",
+       "text": "5. Zgłoszenia instalacji zlokalizowanych na terenie zakładu",
+       "children": [
+        {
+         "type": "text",
+         "text": "Tabela 10. Zgłoszenia"
+        },
+        {
+         "type": "text",
+         "text": "Instalacja podlegająca zgłoszeniu Organ Data Lp. przyjmujący dokonania 2) 3) rodzaj instalacji oznaczenie zgłoszenie zgłoszenia"
+        },
+        {
+         "type": "text",
+         "text": "1 2 3 4 5"
+        },
+        {
+         "type": "text",
+         "text": "1 … N"
+        },
+        {
+         "type": "text",
+         "text": "Objaśnienia: ¹⁾ Zgłoszenie instalacji mogącej negatywnie oddziaływać na środowisko z uwagi na wprowadzanie gazów lub pyłów do powietrza, na podstawie art. 152 ust. 1 ustawy z dnia 27 kwietnia 2001 r. — Prawo ochrony środowiska. ²⁾ Zgodnie z wierszem 2 tabeli 5. ³⁾ Zgodnie z wierszem 4 tabeli 5."
+        }
+       ]
       }
      ]
     },
@@ -2107,7 +2118,11 @@
     },
     {
      "type": "text",
-     "text": "Tabela powtarzana dla wszystkich środków technicznych mających na celu zapobieganie lub ograniczenie emisji. Dziennik Ustaw Nr 3 — 280 — Poz. 4 ²⁾ Należy wybrać z następującej listy:"
+     "text": "Tabela powtarzana dla wszystkich środków technicznych mających na celu zapobieganie lub ograniczenie emisji."
+    },
+    {
+     "type": "text",
+     "text": "²⁾ Należy wybrać z następującej listy:"
     },
     {
      "type": "text",
@@ -2378,7 +2393,7 @@
     },
     {
      "type": "text",
-     "text": "jednostka Dziennik Ustaw Nr 3 — 282 — Poz. 4 5) Ciepło netto wytworzone na potrzeby innej instalacji objętej wspólnotowym systemem handlu uprawnieniami do emisji. 6) Ciepło netto wytworzone na potrzeby innej instalacji nieobjętej wspólnotowym systemem handlu uprawnieniami do emisji. 7) Ciepło netto wytworzone na potrzeby odbiorców komunalnych. 8) Zgodnie z wierszem 1 tabeli 6. 9) Zgodnie z wierszem 2 tabeli 6. 10) Zgodnie z wierszem 3 tabeli 7. 11) Zgodnie z wierszem 4 tabeli 7."
+     "text": "jednostka 5) Ciepło netto wytworzone na potrzeby innej instalacji objętej wspólnotowym systemem handlu uprawnieniami do emisji. 6) Ciepło netto wytworzone na potrzeby innej instalacji nieobjętej wspólnotowym systemem handlu uprawnieniami do emisji. 7) Ciepło netto wytworzone na potrzeby odbiorców komunalnych. 8) Zgodnie z wierszem 1 tabeli 6. 9) Zgodnie z wierszem 2 tabeli 6. 10) Zgodnie z wierszem 3 tabeli 7. 11) Zgodnie z wierszem 4 tabeli 7."
     },
     {
      "type": "text",
@@ -2394,7 +2409,11 @@
     },
     {
      "type": "text",
-     "text": "Objaśnienia: 1) Zgodnie z wierszem 2 tabeli 5. 2) Zgodnie z wierszem 4 tabeli 5. 3) Zgodnie z wierszem 3 tabeli 7. 4) Zgodnie z wierszem 4 tabeli 7. 5) Należy podać zużycie energii elektrycznej w procesie produkcyjnym prowadzonym w instalacji, w tym do utrzymania niezbędnych warunków termicznych w procesie produkcji. Dziennik Ustaw Nr 3 — 283 — Poz. 4 Tabela 14. Dane z następujących rodzajów instalacji: rafineria ropy naftowej lub gazu; instalacja do zgazowania lub upłynniania węgla lub łupku bitumicznego; instalacja do prażenia lub spiekania rud metali (w tym rudy siarczkowej); instalacja do obróbki metali żelaznych — walcownie gorące; instalacja do przetwórstwa tworzyw sztucznych; instalacja do odzysku lub unieszkodliwiania, z wyjątkiem składowania, odpadów niebezpiecznych; instalacja do termicznego przekształcania odpadów komunalnych; instalacja do unieszkodliwiania, z wyjątkiem składowania, odpadów innych niż niebezpieczne; instalacja do odzysku odpadów innych niż niebezpieczne; instalacja do składowania odpadów, z wyłączeniem odpadów obojętnych; inne instalacje do przetwórstwa celulozy; instalacja do produkcji mleka lub wyrobów mleczarskich; instalacja do unieszkodliwiania lub odzysku padłych lub ubitych zwierząt lub odpadowej tkanki zwierzęcej"
+     "text": "Objaśnienia: 1) Zgodnie z wierszem 2 tabeli 5. 2) Zgodnie z wierszem 4 tabeli 5. 3) Zgodnie z wierszem 3 tabeli 7. 4) Zgodnie z wierszem 4 tabeli 7. 5) Należy podać zużycie energii elektrycznej w procesie produkcyjnym prowadzonym w instalacji, w tym do utrzymania niezbędnych warunków termicznych w procesie produkcji."
+    },
+    {
+     "type": "text",
+     "text": "Tabela 14. Dane z następujących rodzajów instalacji: rafineria ropy naftowej lub gazu; instalacja do zgazowania lub upłynniania węgla lub łupku bitumicznego; instalacja do prażenia lub spiekania rud metali (w tym rudy siarczkowej); instalacja do obróbki metali żelaznych — walcownie gorące; instalacja do przetwórstwa tworzyw sztucznych; instalacja do odzysku lub unieszkodliwiania, z wyjątkiem składowania, odpadów niebezpiecznych; instalacja do termicznego przekształcania odpadów komunalnych; instalacja do unieszkodliwiania, z wyjątkiem składowania, odpadów innych niż niebezpieczne; instalacja do odzysku odpadów innych niż niebezpieczne; instalacja do składowania odpadów, z wyłączeniem odpadów obojętnych; inne instalacje do przetwórstwa celulozy; instalacja do produkcji mleka lub wyrobów mleczarskich; instalacja do unieszkodliwiania lub odzysku padłych lub ubitych zwierząt lub odpadowej tkanki zwierzęcej"
     },
     {
      "type": "text",
@@ -2434,7 +2453,7 @@
     },
     {
      "type": "text",
-     "text": "N Dziennik Ustaw Nr 3 — 284 — Poz. 4 VI. Wielkości emisji gazów cieplarnianych i innych substancji"
+     "text": "N VI. Wielkości emisji gazów cieplarnianych i innych substancji"
     },
     {
      "type": "text",
@@ -2566,7 +2585,7 @@
     },
     {
      "type": "text",
-     "text": "¹⁵⁾ Należy podać kod odpadu zgodnie z przepisami w sprawie katalogu odpadów. ¹⁶⁾ Współczynnik utleniania lub współczynnik konwersji jest to dodatkowy współczynnik, który uwzględnia się w przypadku, gdy dany wskaźnik emisji CO nie uwzględnia procentowej zawartości węgla pierwiastkowego [C], który nie uległ utlenieniu.² ¹⁷⁾ Spalane bądź współspalane odpady. ¹⁸⁾ Należy podać, gdy nie podano wskaźników emisji w wierszach 24, 31, 39."
+     "text": "¹⁵⁾ Należy podać kod odpadu zgodnie z przepisami w sprawie katalogu odpadów. ¹⁶⁾ Współczynnik utleniania lub współczynnik konwersji jest to dodatkowy współczynnik, który uwzględnia się w przypadku, gdy dany wskaźnik emisji CO₂ nie uwzględnia procentowej zawartości węgla pierwiastkowego [C], który nie uległ utlenieniu. ¹⁷⁾ Spalane bądź współspalane odpady. ¹⁸⁾ Należy podać, gdy nie podano wskaźników emisji w wierszach 24, 31, 39."
     },
     {
      "type": "text",

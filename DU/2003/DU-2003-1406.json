@@ -1,7 +1,7 @@
 {
  "eli": "DU/2003/1406",
  "title": "Rozporządzenie Ministra Finansów z dnia 13 sierpnia 2003 r. w sprawie oznaczania wyrobów znakami skarbowymi akcyzy",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/1406/text.pdf",
  "body": [
   {
@@ -1311,39 +1311,36 @@
     },
     {
      "type": "note",
-     "text": "[Strona 27 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 27 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Tabela 3. Importowane i krajowe wyroby winiarskie Pojemność (zawartość) Rzeczywista moc alkoholu w Wartość banderoli (kwota opakowania jednostkowego w | opakowaniu jednostkowym w % zaliczki na podatek litrach akcyzowy) w zł ee —_ 2 |do 0,5 włącznie powyżej 15 do 18 włącznie"
+     "type": "text",
+     "text": "Tabela 3. Importowane i krajowe wyroby winiarskie Pojemność (zawartość) Rzeczywista moc alkoholu w Wartość banderoli (kwota opakowania jednostkowego w | opakowaniu jednostkowym w % zaliczki na podatek litrach akcyzowy) w zł ee —_ 2 |do 0,5 włącznie powyżej 15 do 18 włącznie do 0,5 włącznie do 15 włącznie [2 |do0,$włącznie ||| do 0,5 włącznie powyżej 18 do 22 włącznie"
     },
     {
-     "type": "ocr",
-     "text": "do 0,5 włącznie do 15 włącznie [2 |do0,$włącznie ||| do 0,5 włącznie powyżej 18 do 22 włącznie"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "powyżej 1,0 do 2,0 włącznie _ |do 15 włącznie"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "2"
     },
     {
-     "type": "ocr",
-     "text": "| 6_ | powyżej 0,5 do 1,0 włącznie |powyżej 15 do 18 włącznie ___|0,04 | 8 | powyżej 0,5 do 1,0 włącznie |powyzej22 50 ||| powyżej 1,0 do 2,0 włącznie | powyżej 18 do 22 włącznie powyżej 1,0 do 2,0 włącznie | powyżej 22"
+     "type": "text",
+     "text": "| 6_ | powyżej 0,5 do 1,0 włącznie |powyżej 15 do 18 włącznie ___|0,04 | 8 | powyżej 0,5 do 1,0 włącznie |powyżej22 50 |||"
     },
     {
-     "type": "ocr",
-     "text": "— —"
+     "type": "text",
+     "text": "powyżej 1,0 do 2,0 włącznie | powyżej 18 do 22 włącznie powyżej 1,0 do 2,0 włącznie | powyżej 22"
     },
     {
-     "type": "ocr",
-     "text": "do 0,5 włącznie powyżej 22 powyżej 0,5 do 1,0 włącznie | do 15 włącznie"
+     "type": "text",
+     "text": "— — do 0,5 włącznie powyżej 22 powyżej 0,5 do 1,0 włącznie | do 15 włącznie"
     },
     {
-     "type": "ocr",
-     "text": "„10"
+     "type": "text",
+     "text": "„10",
+     "quoted": true
     }
    ]
   },
@@ -1386,51 +1383,39 @@
     },
     {
      "type": "note",
-     "text": "[Strona 31 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 31 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "przedstawia sposób umocowania odpowiednim Rysunek 4 klejem banderoli podatkowej i legalizacyjnej, o wymiarach"
+    },
+    {
+     "type": "text",
+     "text": "50 x 12 mm, bezpośrednio na opakowaniu jednostkowym (butelce) wyrobu spirytusowego o pojemności (zawartości) do 0,25 ł włącznie oraz banderoli podatkowej 1 legalizacyjnej, o wymiarach 90 x 16 mm, bezpośrednio na opakowaniu jednostkowym (butelce) wyrobu spirytusowego o pojemności (zawartości) powyżej 0,25 1 (od góry na zamknięciu i szyjce opakowania, w kształcie odwróconej litery \"L\"), z tym że napis \"MINISTERSTWO FINANSÓW RP ZNAK AKCYZY PODAT.-KRAJ.\" (odpowiednio do rodzaju banderoli) zawarty na marginesie banderoli znajduje się na nakrętce opakowania."
+    },
+    {
+     "type": "text",
+     "text": "przedstawia sposób umocowania odpowiednim Rysunek 5 klejem banderoli podatkowej i legalizacyjnej, o wymiarach 50 x 12 mm, bezpośrednio na opakowaniu jednostkowym (puszce) wyrobu spirytusowego, niezależnie od pojemności (zawartości) otwieraczu tego opakowania (od góry na puszki, w kształcie litery \"I\" położonej poziomo do wysokości opakowania)."
+    },
+    {
+     "type": "text",
      "text": "Rys. 5"
     },
     {
-     "type": "ocr",
-     "text": "Rysunek 4"
-    },
-    {
-     "type": "ocr",
-     "text": "Rysunek 5"
-    },
-    {
-     "type": "ocr",
-     "text": "przedstawia sposób umocowania odpowiednim klejem banderoli podatkowej i legalizacyjnej, o wymiarach 50 x 12 mm, bezpośrednio na opakowaniu jednostkowym (butelce) wyrobu spirytusowego o pojemności (zawartości) do 0,25 ł włącznie oraz banderoli podatkowej 1 legalizacyjnej, o wymiarach 90 x 16 mm, bezpośrednio na opakowaniu jednostkowym (butelce) wyrobu spirytusowego o pojemności (zawartości) powyżej 0,25 1 (od góry na zamknięciu i szyjce opakowania, w kształcie odwróconej litery \"L\"), z tym że napis \"MINISTERSTWO FINANSÓW RP ZNAK AKCYZY PODAT.-KRAJ.\" (odpowiednio do rodzaju banderoli) zawarty na marginesie banderoli znajduje się na nakrętce opakowania."
-    },
-    {
-     "type": "ocr",
-     "text": "przedstawia sposób umocowania odpowiednim klejem banderoli podatkowej i legalizacyjnej, o wymiarach 50 x 12 mm, bezpośrednio na opakowaniu jednostkowym (puszce) wyrobu spirytusowego, niezależnie od pojemności (zawartości) tego opakowania (od góry na otwieraczu puszki, w kształcie litery \"I\" położonej poziomo do wysokości opakowania)."
-    },
-    {
      "type": "note",
-     "text": "[Strona 32 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 32 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Rysunek 6"
+     "type": "text",
+     "text": "Rysunek 6 przedstawia sposób umocowania odpowiednim klejem banderoli podatkowej i legalizacyjnej, o wymiarach 110 x 14 mm, bezpośrednio na opakowaniu jednostkowym (butelce) wyrobu winiarskiego o pojemności (zawartości) do 0,51 włącznie oraz banderoli podatkowej i legalizacyjnej, o wymiarach 160 x 16 mm, bezpośrednio na opakowaniu jednostkowym (butelce) wyrobu winiarskiego o pojemności (zawartości) powyżej 0,5 1 (od góry na zamknięciu i szyjce opakowania, w kształcie odwróconej litery \"U\")."
     },
     {
-     "type": "ocr",
-     "text": "przedstawia sposób umocowania odpowiednim klejem banderoli podatkowej i legalizacyjnej, o wymiarach 110 x 14 mm, bezpośrednio na opakowaniu jednostkowym (butelce) wyrobu winiarskiego o pojemności (zawartości) do 0,51 włącznie oraz banderoli podatkowej i legalizacyjnej, o wymiarach 160 x 16 mm, bezpośrednio na opakowaniu jednostkowym (butelce) wyrobu winiarskiego o pojemności (zawartości) powyżej 0,5 1 (od góry na zamknięciu i szyjce opakowania, w kształcie odwróconej litery \"U\")."
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Rysunek 7 przedstawia sposób umocowania odpowiednim"
     },
     {
-     "type": "ocr",
-     "text": "Rys. 7"
-    },
-    {
-     "type": "ocr",
-     "text": "klejem banderoli podatkowej i legalizacyjnej, o wymiarach 110 x 14 mm, bezpośrednio na opakowaniu jednostkowym (puszce) wyrobu winiarskiego o pojemności (zawartości) do 0,51 włącznie oraz banderoli podatkowej i legalizacyjnej, o wymiarach 160 x 16 mm, bezpośrednio na opakowaniu jednostkowym (puszce) wyrobu winiarskiego o pojemności (zawartości) powyżej 0,5 1 (od góry na otwieraczu puszki i po dwu stronach ścianek, w kształcie odwróconej litery \"U\")."
+     "type": "text",
+     "text": "Rys. 7 klejem banderoli podatkowej i legalizacyjnej, o wymiarach 110 x 14 mm, bezpośrednio na opakowaniu jednostkowym (puszce) wyrobu winiarskiego o pojemności (zawartości) do 0,51 włącznie oraz banderoli podatkowej i legalizacyjnej, o wymiarach 160 x 16 mm, bezpośrednio na opakowaniu jednostkowym (puszce) wyrobu winiarskiego o pojemności (zawartości) powyżej 0,5 1 (od góry na otwieraczu puszki i po dwu stronach ścianek, w kształcie odwróconej litery \"U\")."
     }
    ]
   },
@@ -1447,123 +1432,125 @@
     },
     {
      "type": "note",
-     "text": "[Strona 34 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 34 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 2. Wyroby winiarskie"
     },
     {
-     "type": "ocr",
-     "text": "(pieczęć podatnika (miejscowość, data ) z nazwą i adresem)"
+     "type": "text",
+     "text": "(pieczęć podatnika z nazwą i adresem)"
     },
     {
-     "type": "ocr",
-     "text": "aaa Ministerstwo Finansów (REGON, PESEL, NIP”) Departament Podatku Akcyzowego ul. Świętokrzyska 12 00 — 916 Warszawa"
+     "type": "text",
+     "text": "aaa (REGON, PESEL, NIP”)"
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "(miejscowość, data )"
+    },
+    {
+     "type": "text",
+     "text": "Ministerstwo Finansów Departament Podatku Akcyzowego ul. Świętokrzyska 12 00 — 916 Warszawa"
+    },
+    {
+     "type": "text",
      "text": "WSTĘPNE ZAPOTRZEBOWANIE"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Znaków akcyzy - - banderol..................-..-eee eee eee eee oaza ananasa ea 0 na opakowania jednostkowe.............-.u-e eee noe aaawzaanaenaeaaeania 9. wyrobów winiarskich W o..sccsccsescsesesseescsteesseen r. ("
     },
     {
-     "type": "ocr",
-     "text": "Pojemność Moc alkoholu w Miejscowość Liczba banderoł w sztukach opakowania opakowaniu stosowania jednostkowego w litrach | jednostkowym w % banderol * jednorazowo ” | miesięcznie | rocznie 7"
+     "type": "text",
+     "text": "Pojemność Moc alkoholu w opakowania opakowaniu jednostkowego w litrach | jednostkowym w %"
     },
     {
-     "type": "ocr",
-     "text": "Cs 200 | ee |]"
+     "type": "text",
+     "text": "Miejscowość Liczba banderoł w sztukach stosowania banderol * jednorazowo ” | miesięcznie | rocznie Cs 200 | ee |] 2 i"
     },
     {
-     "type": "ocr",
-     "text": "[4 |do0,5włącznie ____|powyżej22 | | 5__| powyz"
+     "type": "text",
+     "text": "7 | | [4 |do0,5włącznie ____|powyżej22 | | 5__| powyz 5 |powyżej 0,5 do 1,0 wi. |do 15 włącznie i | 6 |powyżej 0,5 do 1,0wł. | pow. 15 do 18 wł _ 7 | powyżej 0,5 do 1,0 wł pow. 18 do 22 wi. powyżej 0,5 do 1,0wł. |powyżej22"
     },
     {
-     "type": "ocr",
-     "text": "powyżej 1,0 do 2,0 wł pow. 15 do 18 wł. [11__| powyżej 1,0 do 2,0 wł pow. 18 do 22 wł. —"
+     "type": "text",
+     "text": "| | | Po | [dol$włąznie | | Cd | 9 | powyżej 1,0 do 2,0 wł do 15 włącznie powyżej 1,0 do 2,0 wł pow. 15 do 18 wł. [11__| powyżej 1,0 do 2,0 wł pow. 18 do 22 wł. —"
     },
     {
-     "type": "ocr",
-     "text": "—"
+     "type": "text",
+     "text": "— — i"
     },
     {
-     "type": "ocr",
-     "text": "2"
+     "type": "text",
+     "text": "powyżej 22 powyżej 2,0"
     },
     {
-     "type": "ocr",
-     "text": "5 |powyżej 0,5 do 1,0 wi. |do 15 włącznie | 6 |powyżej 0,5 do 1,0wł. | pow. 15 do 18 wł"
+     "type": "text",
+     "text": "Objaśnienia: » Należy wpisać: podatkowych albo legalizacyjnych. 2 Należy wpisać: importowanych albo krajowych."
     },
     {
-     "type": "ocr",
-     "text": "—"
+     "type": "text",
+     "text": "| | _ | | | |"
     },
     {
-     "type": "ocr",
-     "text": "powyżej 2,0"
+     "type": "text",
+     "text": "Należy wpisać: zwiększające lub zmniejszające w razie składania w ciągu roku dodatkowego zapotrzebowania. ) Należy podać miejscowość, w której będą nanoszone banderole."
     },
     {
-     "type": "ocr",
-     "text": "Objaśnienia: » Należy wpisać: podatkowych albo legalizacyjnych. 2 Należy wpisać: importowanych albo krajowych. Należy wpisać: zwiększające lub zmniejszające w razie składania w ciągu roku dodatkowego zapotrzebowania. ) Należy podać miejscowość, w której będą nanoszone banderole."
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "Należy wypełnić przy wstępnym zapotrzebowaniu dla jednorazowego oznaczania wyrobów banderolami. 5 Niepotrzebne skreślić.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 35 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 3. Wyroby tytoniowe (papierosy lub tytoń)"
+      },
+      {
+       "type": "text",
+       "text": "(pieczęć podatnika (miejscowość, data ) z nazwą i adresem )"
+      },
+      {
+       "type": "text",
+       "text": "RE Ministerstwo Finansów (REGON, PESEL, NIP”) Departament Podatku Akcyzowego ul. Świętokrzyska 12 00 — 916 Warszawa"
+      },
+      {
+       "type": "text",
+       "text": "WSTĘPNE ZAPOTRZEBOWANIE"
+      },
+      {
+       "type": "text",
+       "text": "Znaków akcyzy ~ banderol..................-...-e. seem setae saeeeceeseeseesseesearsenenes na opakowania jednostkowe RE WYTOBÓW tytomiowych uemeenaenacnaaniannaannaanianazana OW I. )»"
+      },
+      {
+       "type": "text",
+       "text": "m | | 0 Liczba banderol w sztukach | banderol w sztukach Rodzaj wyrobu ” Miejscowość stosowania 3 banderol * jednorazowo * miesięcznie rocznie la]. 200000] 0800000] 400] 80 [600"
+      },
+      {
+       "type": "text",
+       "text": "Objaśnienia: 5 Należy wpisać: podatkowych albo legalizacyjnych. 2 Należy wpisać: importowanych albo krajowych."
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "5) Należy wypełnić przy wstępnym zapotrzebowaniu dla jednorazowego oznaczania wyrobów banderolami. 5 Niepotrzebne skreślić."
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Należy wpisać: papierosy lub tytoń. 4 Należy wpisać: zwiększające lub zmniejszające w razie składania w ciągu roku dodatkowego zapotrzebowania.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "| 9 | powyżej 1,0 do 2,0 wł do 15 włącznie"
-    },
-    {
-     "type": "ocr",
-     "text": "i | | | i | _ | 7 | powyżej 0,5 do 1,0 wł pow. 18 do 22 wi. Po powyżej 0,5 do 1,0wł. |powyzej22 | [dol$włąznie | | Cd | | _ i | | | | powyżej 22"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 35 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 3. Wyroby tytoniowe (papierosy lub tytoń)"
-    },
-    {
-     "type": "ocr",
-     "text": "(pieczęć podatnika (miejscowość, data ) z nazwą i adresem )"
-    },
-    {
-     "type": "ocr",
-     "text": "RE Ministerstwo Finansów (REGON, PESEL, NIP”) Departament Podatku Akcyzowego ul. Świętokrzyska 12 00 — 916 Warszawa"
-    },
-    {
-     "type": "ocr",
-     "text": "WSTĘPNE ZAPOTRZEBOWANIE"
-    },
-    {
-     "type": "ocr",
-     "text": "Znaków akcyzy ~ banderol..................-...-e. seem setae saeeeceeseeseesseesearsenenes na opakowania jednostkowe RE WYTOBÓW tytomiowych uemeenaenacnaaniannaannaanianazana OW I. )»"
-    },
-    {
-     "type": "ocr",
-     "text": "m | | 0 Liczba banderol wsztukach | banderol w sztukach Rodzaj wyrobu ” Miejscowość stosowania 3"
-    },
-    {
-     "type": "ocr",
-     "text": "banderol * jednorazowo * miesięcznie rocznie la]. 200000] 0800000] 400] 80 [600"
-    },
-    {
-     "type": "ocr",
-     "text": "Objaśnienia: 5 Należy wpisać: podatkowych albo legalizacyjnych. 2 Należy wpisać: importowanych albo krajowych."
-    },
-    {
-     "type": "ocr",
-     "text": "3) Należy wpisać: papierosy lub tytoń. 4 Należy wpisać: zwiększające lub zmniejszające w razie składania w ciągu roku dodatkowego zapotrzebowania."
-    },
-    {
-     "type": "ocr",
-     "text": "5) Należy podać miejscowość, w której będą nanoszone banderole. 9 Należy wypełnić przy wstępnym zapotrzebowaniu dla jednorazowego oznaczania wyrobów banderolami. *) Niepotrzebne skreślić."
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "Należy podać miejscowość, w której będą nanoszone banderole. 9 Należy wypełnić przy wstępnym zapotrzebowaniu dla jednorazowego oznaczania wyrobów banderolami. *) Niepotrzebne skreślić.",
+     "children": []
     }
    ]
   },
@@ -1585,7 +1572,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WZÓR EWIDENCJI I WYKORZYSTANIA BANDEROL PODATKOWYCH I LEGALIZACYJNYCH Dziennik Ustaw Nr 145 — 9817 — Poz. 1406"
+     "text": "WZÓR EWIDENCJI I WYKORZYSTANIA BANDEROL PODATKOWYCH I LEGALIZACYJNYCH"
     },
     {
      "type": "note",

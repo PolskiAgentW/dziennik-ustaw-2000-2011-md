@@ -1,7 +1,7 @@
 {
  "eli": "DU/2002/1419",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 30 września 2002 r. w sprawie uzyskiwania tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2002/1419/text.pdf",
  "body": [
   {
@@ -2187,10 +2187,6 @@
    "heading": "Załączniki do rozporządzenia Ministra Zdrowia zdnia 30 września 2002 r. (poz. 1419) Załącznik nr 1",
    "body": [
     {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 173 — 11132 — Poz. 1419"
-    },
-    {
      "type": "note",
      "text": "[Na stronie 9 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
     },
@@ -2253,27 +2249,37 @@
     },
     {
      "type": "note",
-     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "14. Dotychczasowy przebieg pracy"
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "Dotychczasowy przebieg pracy",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "15. Informuję, że będę odbywał/a specjalizację na podstawie $ 11 ust.1 pkt ....... rozporządzenia oraz zobowiązuję się do rozpoczęcia, odbywania i zakończenia specjalizacji zgodnie z obowiązującymi przepisami."
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "Informuję, że będę odbywał/a specjalizację na podstawie § 11 ust.1 pkt ....... rozporządzenia oraz zobowiązuję się do rozpoczęcia, odbywania i zakończenia specjalizacji zgodnie z obowiązującymi przepisami.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(nazwa jednostki organizacyjnej zatrudniającej wnioskodawcę lub jednostki prowadzącej studia doktoranckie)"
+      },
+      {
+       "type": "text",
+       "text": "(data) (podpis i pieczątka kierownika jednostki)"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "(nazwa jednostki organizacyjnej zatrudniającej wnioskodawcę lub jednostki prowadzącej studia doktoranckie)"
-    },
-    {
-     "type": "ocr",
-     "text": "(data) (podpis i pieczątka kierownika jednostki)"
-    },
-    {
-     "type": "ocr",
-     "text": "17. Wynik postępowania kwalifikacyjnego ................... eee een anaanaaanea Z ! ij REN Gai = R ajka ico ZE cio) . *) Dotyczy osób, o których mowa w $ 11 ust.1 pkt 1,214."
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "Wynik postępowania kwalifikacyjnego ................... eee een anaanaaanea Z ! ij REN Gai = R ajka ico ZE cio) . *) Dotyczy osób, o których mowa w § 11 ust.1 pkt 1,214.",
+     "children": []
     }
    ]
   },
@@ -2290,38 +2296,42 @@
     },
     {
      "type": "note",
-     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "II CZĘŚĆ PRZEBIEG SZKOLENIA TEORETYCZNEGO Nazwa modułu Temat zajęć teoretycznych Liczba Forma Data Ocena Podpis nauczania godzin zaliczenia"
+     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
     },
     {
      "type": "note",
-     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "IU CZĘŚĆ Przebieg stażu kierunkowego Staż kierunkowy Nazwa jednostki | Okres stażu Liczba Ocena Data Podpis w zakresie prowadzącej staż | od....do.... godzin kierunkov"
+     "type": "text",
+     "text": "IU CZĘŚĆ"
+    },
+    {
+     "type": "text",
+     "text": "Przebieg stażu kierunkowego"
+    },
+    {
+     "type": "text",
+     "text": "Staż kierunkowy Nazwa jednostki | Okres stażu Liczba Ocena Data Podpis w zakresie prowadzącej staż | od....do.... godzin kierunkov"
     },
     {
      "type": "note",
-     "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 16 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "IV CZĘŚĆ Opinia dotycząca przebiegu specjalizacji"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Pree e rer ere ere errr reer errr errr er errr rere rerrr errr rrr errr rer rer ere rere ere rrr rie rer ere rrr rier ever POZZO ere eer eee irre"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(podpis i pieczatka kierownika specjalizacji) ZALICZENIE SPECJALIZACJI PRZEZ KIEROWNIKA SPECJALIZACJI Pan/Pani odbył/a specjalizację w dziedzinie......................-..-e--esaaeaaauaaaaan1n zgodnie z programem specjalizacji oraz zaliczył/a specjalizację w ww. dziedzinie. Wnioskuję o dopuszczenie Pana/Pani.................-..-..-u--auasaauaaaaauaasaa1 do egzaminu."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(podpis i pieczątka kierownika specjalizacji) (podpis i pieczątka kierownika jednostki szkolącej)"
     }
    ]

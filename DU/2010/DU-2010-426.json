@@ -1,7 +1,7 @@
 {
  "eli": "DU/2010/426",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 kwietnia 2010 r. w sprawie sporządzania aktu pełnomocnictwa do głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2010/426/text.pdf",
  "body": [
   {
@@ -395,55 +395,62 @@
     },
     {
      "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Do wniosku załączono: l. pisemną zgodę osoby, która wyraziła zgodę na przyjęcie pelnomocnictwa;"
+     "type": "text",
+     "text": "Do wniosku załączono: l. pisemną zgodę osoby, która wyraziła zgodę na przyjęcie pełnomocnictwa;"
     },
     {
-     "type": "ocr",
-     "text": "2. kopię aktualnego orzeczenia właściwego organu orzekającego o ustaleniu stopnia niepelnosprawności wyborcy fnie dotyczy wyborcy, który najpóźniej w dniu głosowania kończy 75 fat); 3.kopię zaświadczenia o prawie do głosowania wydanego osobie, która wyraziła zgodę na przyjęcie pełnomocnictwa fzałącza się wyłącznie w przypadku, gdy osoba, króra wyraziła zgodę na przyjęcie peltamocnietwa, nie jest wpisana do rejestru wyborców w fej samej gminie, co wyborca udzielający pełnomocnictwa do głosowaniaj;"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "kopię aktualnego orzeczenia właściwego organu orzekającego o ustaleniu stopnia niepełnosprawności wyborcy fnie dotyczy wyborcy, który najpóźniej w dniu głosowania kończy 75 fat); 3.kopię zaświadczenia o prawie do głosowania wydanego osobie, która wyraziła zgodę na przyjęcie pełnomocnictwa fzałącza się wyłącznie w przypadku, gdy osoba, króra wyraziła zgodę na przyjęcie peltamocnietwa, nie jest wpisana do rejestru wyborców w fej samej gminie, co wyborca udzielający pełnomocnictwa do głosowaniaj;",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4. kopię dokumentu potwierdzającego pozostawanie wyborcy z osobą, która wyraziła zgodę na przyjęcie nelnomocnictwa, w stosunku prz sposobienia/opieki/kurateli_eałącza się wyłącznie w przy"
-    },
-    {
-     "type": "ocr",
-     "text": "Oświadczam, że wszystkie dane zawarte we wniosku są zgodne z prawdą."
-    },
-    {
-     "type": "ocr",
-     "text": "Wyborca wyraża zgodę na to, by w postępowaniu w sprawie sporządzenia aktu pełnomocnictwa był reprezentowany przez osobę, która wyraziła zgodę na przyjęcie pełnomocnictwa: TAK NIE” Wyborca nie może lub nie umie złożyć podpisu:"
-    },
-    {
-     "type": "ocr",
-     "text": "TAK NIE Diaza wypełnienia (dzień-miesiąc-rok: | [sj of fej jj"
-    },
-    {
-     "type": "ocr",
-     "text": "Podpis wyborcy (w przypadku gdy wyborce nie może hub nie umie złożyć podpisi, w miejscu tym podpis sklada osoba, któru wyraziła zgodę na przyjęcie peltomocnietwaj:"
-    },
-    {
-     "type": "ocr",
-     "text": "Akt pełnomocnictwa do głosowania sporządzony: = przed dniem pierwszego glosowania (tzw. I tura) uprawnia również do oddania głosu w głosowaniu ponownym (tzw. II tura), jeżeli zostanie ono przeprowadzane: - pe dniu pierwszego głosowania uprawnia wyłącznie do oddania glosu w głosowaniu ponownym (tzw. II tura), jeżeli zostanie prowadzone."
-    },
-    {
-     "type": "ocr",
-     "text": "Numer wnioski:"
-    },
-    {
-     "type": "ocr",
-     "text": "Lagi:"
-    },
-    {
-     "type": "ocr",
-     "text": "Podpis przyjmującego wniosek:"
-    },
-    {
-     "type": "ocr",
-     "text": "Hy niepotrzebne skreślić ** wstępnym jest ojciec, matka, dziadek, bahka itd, zstępnym jest syn. cdrka, wnuk, wnuczka itd,"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "kopię dokumentu potwierdzającego pozostawanie wyborcy z osobą, która wyraziła zgodę na przyjęcie nelnomocnictwa, w stosunku prz sposobienia/opieki/kurateli_eałącza się wyłącznie w przy",
+     "children": [
+      {
+       "type": "text",
+       "text": "Oświadczam, że wszystkie dane zawarte we wniosku są zgodne z prawdą."
+      },
+      {
+       "type": "text",
+       "text": "Wyborca wyraża zgodę na to, by w postępowaniu w sprawie sporządzenia aktu pełnomocnictwa był reprezentowany przez osobę, która wyraziła zgodę na przyjęcie pełnomocnictwa: TAK NIE” Wyborca nie może lub nie umie złożyć podpisu:"
+      },
+      {
+       "type": "text",
+       "text": "TAK NIE Diaza wypełnienia (dzień-miesiąc-rok: | [sj of fej jj"
+      },
+      {
+       "type": "text",
+       "text": "Podpis wyborcy (w przypadku gdy wyborce nie może hub nie umie złożyć podpisi, w miejscu tym podpis składa osoba, któru wyraziła zgodę na przyjęcie peltomocnietwaj:"
+      },
+      {
+       "type": "text",
+       "text": "Akt pełnomocnictwa do głosowania sporządzony: = przed dniem pierwszego glosowania (tzw. I tura) uprawnia również do oddania głosu w głosowaniu ponownym (tzw. II tura), jeżeli zostanie ono przeprowadzane: - pe dniu pierwszego głosowania uprawnia wyłącznie do oddania głosu w głosowaniu ponownym (tzw. II tura), jeżeli zostanie prowadzone."
+      },
+      {
+       "type": "text",
+       "text": "Numer wnioski:"
+      },
+      {
+       "type": "text",
+       "text": "Lagi:"
+      },
+      {
+       "type": "text",
+       "text": "Podpis przyjmującego wniosek:"
+      },
+      {
+       "type": "text",
+       "text": "Hy niepotrzebne skreślić ** wstępnym jest ojciec, matka, dziadek, bahka itd, zstępnym jest syn. cdrka, wnuk, wnuczka itd,"
+      }
+     ]
     }
    ]
   },
@@ -464,35 +471,39 @@
     },
     {
      "type": "note",
-     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Oświadczenia i wnioski Proszę o pozostawienie aktu pełnomocnictwa do głosowania do odbioru w urzędzie gminy/doręczenie na wskazany poniżej adres’:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Informuję, że wyraziłam/wyraziłem” już zgodę na przyjęcie pełnomocnictwa do głosowania od (należy padać imię i nazwisko, PEREŁ oraz adres zamieszkania wyborcyj:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Oświadczam, że wszystkie powyższe dane są zgodne z prawdą. Data wypełnienia (dzień-miesiącrok |: - -"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Fadpis osoby, która wyraziła zgodę na przyjęcie pełnomocnictwa:"
     },
     {
-     "type": "ocr",
-     "text": "Akt pelmomocnictwa do głosowania sporządzony: - przed dniem pierwszego głosowania (tw. I tura) uprawnia również do oddania głosu w głosowaniu ponownym (tzw. II tura), jeżeli zostanie ono przeprowadzone; — po dniu pierwszego głosowania uprawnia wyłącznie do oddania głosu w głosowaniu ponownym (lew, II tura), jeżeli zostanie Adnotacje urzędowe"
+     "type": "text",
+     "text": "Akt pelmomocnictwa do głosowania sporządzony: - przed dniem pierwszego głosowania (tw. I tura) uprawnia również do oddania głosu w głosowaniu ponownym (tzw. II tura), jeżeli zostanie ono przeprowadzone; — po dniu pierwszego głosowania uprawnia wyłącznie do oddania głosu w głosowaniu ponownym (lew, II tura), jeżeli zostanie"
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "Adnotacje urzędowe"
+    },
+    {
+     "type": "text",
      "text": "Podpis przyjmującego:"
     },
     {
-     "type": "ocr",
-     "text": "* Niepotraebne skreślić, ** Wstępny jest ojcice, matka, dzialek, babka ite maa Zaiępnym jest syn, córka, wauk, wnuczka itd"
+     "type": "text",
+     "text": "* Niepotraebne skreślić, ** Wstępny jest ojcice, matka, działek, babka ite maa Zaiępnym jest syn, córka, wauk, wnuczka itd"
     }
    ]
   },
@@ -522,7 +533,7 @@
     },
     {
      "type": "text",
-     "text": "WYKAZ SPORZĄDZONYCH AKTÓW PEŁNOMOCNICTWA DO GŁOSOWANIA Dziennik Ustaw Nr 66 — 5730 — Poz. 426"
+     "text": "WYKAZ SPORZĄDZONYCH AKTÓW PEŁNOMOCNICTWA DO GŁOSOWANIA"
     },
     {
      "type": "note",

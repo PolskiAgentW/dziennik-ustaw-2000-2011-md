@@ -1,7 +1,7 @@
 {
  "eli": "DU/2005/30",
  "title": "Rozporządzenie Ministra Środowiska z dnia 31 grudnia 2004 r. w sprawie wzorów formularzy służących do składania rocznych sprawozdań o masie wytworzonych, przywiezionych z zagranicy oraz wywiezionych za granicę opakowań",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/30/text.pdf",
  "body": [
   {
@@ -54,12 +54,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Środowiska: w z. K. Szamałek"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: w z. K. Szamałek"
   }
  ],
  "annexes": [
@@ -72,7 +71,7 @@
     },
     {
      "type": "text",
-     "text": "FORMULARZ SPRAWOZDANIA O MASIE WYTWORZONYCH OPAKOWAŃ Dziennik Ustaw Nr 4 — 121 — Poz. 30"
+     "text": "FORMULARZ SPRAWOZDANIA O MASIE WYTWORZONYCH OPAKOWAŃ"
     },
     {
      "type": "note",
@@ -91,7 +90,7 @@
      "type": "lit",
      "num": "a",
      "path": "lit_a",
-     "text": "FORMULARZ SPRAWOZDANIA O MASIE PRZYWIEZIONYCH Z ZAGRANICY OPAKOWAŃ Dziennik Ustaw Nr 4 — 122 — Poz. 30",
+     "text": "FORMULARZ SPRAWOZDANIA O MASIE PRZYWIEZIONYCH Z ZAGRANICY OPAKOWAŃ",
      "children": [
       {
        "type": "note",
@@ -112,7 +111,7 @@
      "type": "lit",
      "num": "a",
      "path": "lit_a",
-     "text": "FORMULARZ SPRAWOZDANIA O MASIE WYWIEZIONYCH ZA GRANICĘ OPAKOWAŃ Dziennik Ustaw Nr 4 — 123 — Poz. 30",
+     "text": "FORMULARZ SPRAWOZDANIA O MASIE WYWIEZIONYCH ZA GRANICĘ OPAKOWAŃ",
      "children": [
       {
        "type": "note",

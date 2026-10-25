@@ -1,7 +1,7 @@
 {
  "eli": "DU/2007/686",
  "title": "Rozporządzenie Ministra Środowiska z dnia 25 maja 2007 r. w sprawie zakresu informacji oraz wzorów formularzy służących do sporządzania i przekazywania zbiorczych zestawień danych",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2007/686/text.pdf",
  "body": [
   {
@@ -254,7 +254,7 @@
     {
      "type": "heading",
      "label": "Dział 7",
-     "text": "Zbiorcze zestawienie danych o instalacjach i urządzeniach służących do odzysku lub unieszkodliwiania odpadów, z wyłączeniem składowisk odpadów oraz spalarni i współspalarni odpadów Dziennik Ustaw Nr 101 — 6558 — Poz. 686"
+     "text": "Zbiorcze zestawienie danych o instalacjach i urządzeniach służących do odzysku lub unieszkodliwiania odpadów, z wyłączeniem składowisk odpadów oraz spalarni i współspalarni odpadów"
     },
     {
      "type": "note",
@@ -271,146 +271,110 @@
     },
     {
      "type": "note",
-     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "19 Decyzja o zamknięciu Podać organ wydający, składowiska na podstawie art. 33 | datę wydania, znak ust. 6 ustawy wprowadzającej?” decyzji, wyznaczony | (jeśli dotyczy) rok zamknięcia 20 Czy decyzja o zamknięciu została | Jeżeli tak, to na"
+     "type": "text",
+     "text": "19 Decyzja o zamknięciu"
     },
     {
-     "type": "ocr",
-     "text": "21"
+     "type": "text",
+     "text": "5 Podać organ wydający, składowiska na podstawie art. 33 | datę wydania, znak ust. 6 ustawy wprowadzającej?” decyzji, wyznaczony | (jeśli dotyczy) rok zamknięcia 20 Czy decyzja o zamknięciu została | Jeżeli tak, to na przedłużona?"
     },
     {
-     "type": "ocr",
-     "text": "podstawie jakiej decyzji — podać: podstawę prawną, organ wydający, datę decyzji, znak decyzji, wyznaczony rok zamknięcia"
+     "type": "text",
+     "text": "Zgoda na zamknięcie 21 podstawie jakiej decyzji — podać: podstawę prawną, organ wydający, datę decyzji, znak decyzji, wyznaczony rok zamknięcia Podać organ wydający, datę wydania, znak wydzielonej części składowiska na podstawie art. 54 ustawy z dnia 27 kwietnia 2001 r. o odpadach"
     },
     {
-     "type": "ocr",
-     "text": "przedłużona?"
+     "type": "text",
+     "text": "Zgoda na zamknięcie składowiska odpadów na podstawie art. 54 ustawy z dnia 27 kwietnia 2001 r. o odpadach"
     },
     {
-     "type": "ocr",
-     "text": "Podać organ wydający, datę wydania, znak decyzji, wyznaczony rok zamknięcia oraz datę zaprzestania przyjmowania odpadów Podać organ wydający,"
+     "type": "text",
+     "text": "23 Decyzja zatwierdzająca instrukcję eksploatacji składowiska 24 Czy decyzja zatwierdzająca instrukcję eksploatacji składowiska była czasowa? 25"
     },
     {
-     "type": "ocr",
-     "text": "Zgoda na zamknięcie wydzielonej części składowiska na podstawie art. 54 ustawy z dnia 27 kwietnia 2001 r. o odpadach"
+     "type": "text",
+     "text": "Zezwolenie na prowadzenie decyzji, wyznaczony rok zamknięcia oraz datę zaprzestania przyjmowania odpadów Podać organ wydający, datę wydania, znak decyzji, wyznaczony rok zamknięcia oraz datę zaprzestania przyjmowania odpadów Podać organ wydający, datę wydania, znak decyzji Jeżeli tak, to wskazać na jaki okres"
     },
     {
-     "type": "ocr",
-     "text": "Zgoda na zamknięcie"
+     "type": "text",
+     "text": "Podać organ wydający, działalności w zakresie odzysku lub unieszkodliwiania odpadów"
     },
     {
-     "type": "ocr",
-     "text": "25"
+     "type": "text",
+     "text": "26 Pozwolenie zintegrowane (jeśli dotyczy)"
     },
     {
-     "type": "ocr",
-     "text": "składowiska odpadów datę wydania, znak na podstawie art. 54 ustawy decyzji, wyznaczony z dnia 27 kwietnia 2001 r. rok zamknięcia oraz o odpadach datę zaprzestania przyjmowania odpadów 23 Decyzja zatwierdzająca Podać organ wydający, instrukcję eksploatacji datę wydania, znak składowiska decyzji 24 Czy decyzja zatwierdzająca Jeżeli tak, to wskazać instrukcję eksploatacji na jaki okres składowiska była czasowa? Podać organ wydający, datę wydania, znak decyzji, termin obowiązywania"
+     "type": "text",
+     "text": "27 Czy składowisko jest przewidziane do uzyskania pozwolenia zintegrowanego?"
     },
     {
-     "type": "ocr",
-     "text": "Zezwolenie na prowadzenie działalności w zakresie odzysku lub unieszkodliwiania odpadów"
+     "type": "text",
+     "text": "datę wydania, znak decyzji, termin obowiązywania —- Podać organ wydający, datę wydania, znak decyzji, termin obowiązywania Jeżeli tak, to podać termin (planowany) złożenia wniosku 28 Czy dla składowiska była wydana | Jeżeli tak, to podać | decyzja w sprawie wstrzymania | dane dotyczące decyzji — działalności?"
     },
     {
-     "type": "ocr",
-     "text": "—-"
+     "type": "text",
+     "text": "Liczba kwater podstawę prawną, organ wydający, datę wydania, znak decyzji oraz termin wstrzymania SE Dane techniczne"
     },
     {
-     "type": "ocr",
-     "text": "5"
-    },
-    {
-     "type": "ocr",
-     "text": "26 Pozwolenie zintegrowane Podać organ wydający, (jeśli dotyczy) datę wydania, znak decyzji, termin obowiązywania 27 Czy składowisko jest Jeżeli tak, to podać przewidziane do uzyskania termin (planowany) pozwolenia zintegrowanego? złożenia wniosku 28 Czy dla składowiska była wydana | Jeżeli tak, to podać | decyzja w sprawie wstrzymania | dane dotyczące decyzji — działalności? podstawę prawną, organ wydający, datę wydania, znak decyzji oraz termin wstrzymania SE"
-    },
-    {
-     "type": "ocr",
-     "text": "Liczba kwater eksploatowanych Liczba kwater zamkniętych"
-    },
-    {
-     "type": "ocr",
-     "text": "Dane techniczne Liczba kwater"
-    },
-    {
-     "type": "ocr",
-     "text": "Pojemność całkowita [m*] _t Pojemność zapełniona łącznie z warstwami izolacyjnymi [m] Powierzchnia w granicach korony [m7] Uszczelnienie [tak/nie] naturalna bariera geologiczna (miąższość, współczynnik filtracji) sztuczna bariera geologiczna (rodzaj, miąższość, współczynnik filtracji)"
-    },
-    {
-     "type": "ocr",
-     "text": "p —"
-    },
-    {
-     "type": "ocr",
-     "text": "izolacja syntetyczna (materiał, grubość)"
+     "type": "text",
+     "text": "Liczba kwater eksploatowanych Liczba kwater zamkniętych Pojemność całkowita [m*] _t Pojemność zapełniona łącznie z warstwami izolacyjnymi [m] Powierzchnia w granicach korony [m7] Uszczelnienie [tak/nie] naturalna bariera geologiczna (miąższość, współczynnik filtracji) p — sztuczna bariera geologiczna (rodzaj, miąższość, współczynnik filtracji) izolacja syntetyczna (materiał, grubość)"
     },
     {
      "type": "note",
-     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Drenaż odcieków"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "[tak/nie] warstwa drenażowa (miąższość, współczynnik filtracji) materiał, średnica) ukształtowanie misy (nachylenie wzdłuż kolektorów i w kierunku kolektorów, %)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1 technologicaznych (jakich?) oczyszczanie lub podczyszczanie"
     },
     {
-     "type": "ocr",
-     "text": "_"
+     "type": "text",
+     "text": "_ zewnętrzny system rowów 37 Gromadzenie [tak/nie] | odcieków w specjalnych zbiornikach (pojemność, m”) 38 Postępowanie odprowadzenie do kanalizacji z odciekami miejskiej [tak/nie] wywóz do oczyszczalni miejskiej [tak/nie] wykorzystanie do celów"
     },
     {
-     "type": "ocr",
-     "text": "zewnętrzny system rowów 37 Gromadzenie [tak/nie] | odciekow w specjalnych zbiornikach (pojemność, m”) 38 Postępowanie odprowadzenie do kanalizacji z odciekami miejskiej [tak/nie] wywóz do oczyszczalni miejskiej [tak/nie] wykorzystanie do celów"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "we własnej oczyszczalni (odbiornik ścieków oczyszczonych) 39 Instalacja do [tak/nie] odprowadzania gazu składowiskowego spalanie w pochodni [tak/nie] odzysk energii [tak/nie] 40 Pas zieleni [tak/nie szerokość pasa [m] 41 Ogrodzenie [tak/nie] 42 Rejestracja wjazdów | [tak/nie] 43__ | Ewidencja odpadów | [tak/nie] [ 44 Waga [tak/nie] 45 Urządzenia do mycia | [tak/nie] l i dezynfekcji 46 Wykonywanie [tak/nie warstw izolacyjnych odpadów w przypadku kod odpadów wykorzystywania = [| odpadów podać kod | ss i rodzaj odpadów | 47 Monitoring w fazie | dane meteorologiczne [tak/nie] przedeksploatacyjnej | kontrola wykonywania elementów służących do monitoringu [tak/nie] wody powierzchniowe [tak/nie]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "jh."
     },
     {
-     "type": "ocr",
-     "text": "wody podziemne [tak/nie] 48 | Monitoring w fazie | opad atmosfe czny [tak/nie] eksploatacyjnej lub wody powierzchniowe [tak/nie] poeksploatacyjnej wody odciekowe [tak/nie]"
+     "type": "text",
+     "text": "wody podziemne [tak/nie] 48 | Monitoring w fazie | opad atmosfe czny [tak/nie] eksploatacyjnej lub wody powierzchniowe [tak/nie] poeksploatacyjnej wody odciekowe [tak/nie] rodzaj odpadów"
     },
     {
-     "type": "ocr",
-     "text": "rodzaj odpadów"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "L|"
     },
     {
-     "type": "ocr",
-     "text": "osiadanie powierzchni składowiska [tak/nie] |"
+     "type": "text",
+     "text": "osiadanie powierzchni składowiska [tak/nie] | wody podziemne [tak/nie] gaz składowiskowy [tak/nie]"
     },
     {
-     "type": "ocr",
-     "text": "wody podziemne [tak/nie] gaz składowiskowy [tak/nie]"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "struktura i skład odpadów [tak/nie] |"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "składowisku"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Odpady | 49 |Czy odpady są składowane w sposób nieselektywny?” r | [tak/nie] 50 Odpady poddane Kod odpadu Rodzaj odpadu | Masa odpadu [Mg] | Cel wykorzystania odpadu odzyskowi na 1"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "odpadów w roku | sprawozdawczym (jeśli dotyczy)"
     },
     {

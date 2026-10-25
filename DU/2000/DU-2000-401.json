@@ -1,7 +1,7 @@
 {
  "eli": "DU/2000/401",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 kwietnia 2000 r. w sprawie wysokości stawek dotacji przedmiotowych dla różnych podmiotów wykonujących zadania na rzecz rolnictwa oraz szczegółowych zasad i trybu udzielania oraz rozliczania tych dotacji.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/401/text.pdf",
  "body": [
   {
@@ -3683,1615 +3683,1897 @@
     },
     {
      "type": "note",
-     "text": "[Strona 20 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 20 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "poprzedzającym dofinansowanie w jednostkach objętych dofinansowaniem,"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "- rośliny sadownicze: udział drzewek i sadzonek poszczególnych odmian pozostających w rejestrze w dniu 31 grudnia w stosunku do ogólnej liczby drzewek i sadzonek danego gatunku zakwalifikowanych w roku poprzedzającym dofinansowanie,"
     },
     {
-     "type": "ocr",
-     "text": "b) wartość uzyskanej opłaty hodowlanej w stosunku do przewidywanej opłaty wynikającej z ilości sprzedanego materiału siewnego w roku poprzedzającym dofinansowanie - od 0 do 15 punktów,"
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "wartość uzyskanej opłaty hodowlanej w stosunku do przewidywanej opłaty wynikającej z ilości sprzedanego materiału siewnego w roku poprzedzającym dofinansowanie - od 0 do 15 punktów,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "udział Środków własnych w finansowaniu kosztów hodowli roślin poniesionych w okresie 3 ostatnich lat - od 0 do 5 punktów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "zaawansowanie prac hodowlanych mierzone liczbą rodów w doświadczeniach rejestrowych w dniu 31 grudnia 1999 r. - od 0 do 5 punktów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "posiadana kadra twórców odmian (na podstawie ich udziału w tworzeniu odmian w procentach) — od 0 do 5 punktów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "współpraca z placówkami naukowo-badawczymi w zakresie dotyczącym wnioskowanego programu hodowlanego - od 0 do 5 punktów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Maksymalna liczba punktów 50."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Punkt przeliczeniowy ustala się jako procentowy udział wycenionego programu zgodnie z ust. 4 w łącznej sumie punktów dla programów w ramach danego gatunku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Wartość jednego punktu stanowi iloraz kwoty dotacjj i sumy punktów przeliczeniowych dla łącznej liczby gatunków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Stawka dotacji za jeden punkt wynosi 7446 zł",
+     "children": [
+      {
+       "type": "text",
+       "text": "Tabela nr 1"
+      },
+      {
+       "type": "text",
+       "text": "Gatunek Liczba programów Zmaczenie gospodarcze gatunku ue"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 21 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "owies 30",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "kukurydza 9, burak cukrów",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "0",
+     "path": "ust_0",
+     "text": "burak pastewn 2",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "ziemniak 174",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "c) udział Środków własnych w finansowaniu kosztów hodowli roślin poniesionych w okresie 3 ostatnich lat - od 0 do 5 punktów,"
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "rzepak 4 ND",
+     "children": [
+      {
+       "type": "text",
+       "text": "ae | PIE N m ="
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "3) zaawansowanie prac hodowlanych mierzone liczbą rodów w doświadczeniach rejestrowych w dniu 31 grudnia 1999 r. - od 0 do 5 punktów,"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "groch siewn",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4) posiadana kadra twórców odmian (na podstawie ich udziału w tworzeniu odmian w procentach) — od 0 do 5 punktów,"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "łubin żół",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "5) współpraca z placówkami naukowo-badawczymi w zakresie dotyczącym wnioskowanego programu hodowlanego - od 0 do 5 punktów."
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "łubin waskolistn",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Maksymalna liczba punktów 50."
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "koniczyna łąkowa",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "5. Punkt przeliczeniowy ustala się jako procentowy udział wycenionego programu zgodnie z ust. 4 w łącznej sumie punktów dla programów w ramach danego gatunku."
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "koniczyna biała",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "6. Wartość jednego punktu stanowi iloraz kwoty dotacjj i sumy punktów przeliczeniowych dla łącznej liczby gatunków."
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "kostrzewa łąkowa",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "7. Stawka dotacji za jeden punkt wynosi 7446 zł"
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "życica trwała",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Tabela nr 1"
+     "type": "ust",
+     "num": "0",
+     "path": "ust_0",
+     "text": "życica wielokwiatowa",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Gatunek Liczba programów Zmaczenie gospodarcze gatunku ue"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "życica mieszańcowa",
+     "children": []
     },
     {
-     "type": "note",
-     "text": "[Strona 21 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "22",
+     "path": "ust_22",
+     "text": "kupkówka pospolita",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "7. owies 30"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "tymotka łąkowa",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "8. kukurydza 9, burak cukrow"
+     "type": "ust",
+     "num": "24",
+     "path": "ust_24",
+     "text": "festulolium 5, wiechlina łąkowa",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "0. burak pastewn 2"
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "kostrzewa czerwona",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "1. ziemniak 174"
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "trawy gazonowe",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "12. rzepak 4 ND"
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "mak",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "ae | PIE N m ="
+     "type": "ust",
+     "num": "29",
+     "path": "ust_29",
+     "text": "len,konopie",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "3. groch siewn"
+     "type": "ust",
+     "num": "0",
+     "path": "ust_0",
+     "text": "chmiel",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4. łubin żół"
-    },
-    {
-     "type": "ocr",
-     "text": "5. łubin waskolistn"
-    },
-    {
-     "type": "ocr",
-     "text": "6. koniczyna łąkowa"
-    },
-    {
-     "type": "ocr",
-     "text": "7. koniczyna biała"
-    },
-    {
-     "type": "ocr",
-     "text": "8. kostrzewa łąkowa"
-    },
-    {
-     "type": "ocr",
-     "text": "9. życica trwała"
-    },
-    {
-     "type": "ocr",
-     "text": "0. życica wielokwiatowa"
-    },
-    {
-     "type": "ocr",
-     "text": "1. życica mieszańcowa"
-    },
-    {
-     "type": "ocr",
-     "text": "22. kupkówka pospolita"
-    },
-    {
-     "type": "ocr",
-     "text": "3. tymotka łąkowa"
-    },
-    {
-     "type": "ocr",
-     "text": "24. festulolium 5, wiechlina łąkowa"
-    },
-    {
-     "type": "ocr",
-     "text": "6. kostrzewa czerwona"
-    },
-    {
-     "type": "ocr",
-     "text": "7. trawy gazonowe"
-    },
-    {
-     "type": "ocr",
-     "text": "8. mak"
-    },
-    {
-     "type": "ocr",
-     "text": "29. len,konopie"
-    },
-    {
-     "type": "ocr",
-     "text": "0. chmiel"
-    },
-    {
-     "type": "ocr",
-     "text": "1. kapusta biała"
-    },
-    {
-     "type": "ocr",
-     "text": "2. pomidor gruntow"
-    },
-    {
-     "type": "ocr",
-     "text": "3. papryka gruntowa"
-    },
-    {
-     "type": "ocr",
-     "text": "4. pomidor pod osłon 5, ogórek gruntow"
-    },
-    {
-     "type": "ocr",
-     "text": "6. ogórek pod osłon"
-    },
-    {
-     "type": "ocr",
-     "text": "7. marchew"
-    },
-    {
-     "type": "ocr",
-     "text": "8. cebula 9, burak ćwikłow"
-    },
-    {
-     "type": "ocr",
-     "text": "0. fasola szparagowa"
-    },
-    {
-     "type": "ocr",
-     "text": "41. fasola na suche nasiona"
-    },
-    {
-     "type": "ocr",
-     "text": "2. pietruszka"
-    },
-    {
-     "type": "ocr",
-     "text": "3. seler . por 45, groch"
-    },
-    {
-     "type": "ocr",
-     "text": "="
-    },
-    {
-     "type": "ocr",
-     "text": "=\""
-    },
-    {
-     "type": "ocr",
-     "text": "|"
-    },
-    {
-     "type": "ocr",
-     "text": "="
-    },
-    {
-     "type": "ocr",
-     "text": "jm"
-    },
-    {
-     "type": "ocr",
-     "text": "|"
-    },
-    {
-     "type": "ocr",
-     "text": "pod"
-    },
-    {
-     "type": "ocr",
-     "text": "14"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "46. sałata"
-    },
-    {
-     "type": "ocr",
-     "text": "47. jabłoń"
-    },
-    {
-     "type": "ocr",
-     "text": "54. podkładki dla drzewiastych gatunków roślin sadowniczych Łącznie —_"
-    },
-    {
-     "type": "ocr",
-     "text": "05 1000"
-    },
-    {
-     "type": "ocr",
-     "text": "li. Stawki dotacji za zadania z zakresu ochrony zasobów genowych roślin"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa zadania z zakresu ochrony zasobów genowych"
-    },
-    {
-     "type": "ocr",
-     "text": "Ocena zróżnicowania genetycznego w zasobach genowych marchwi"
-    },
-    {
-     "type": "ocr",
-     "text": "1"
-    },
-    {
-     "type": "ocr",
-     "text": "2 | Gromadzenie i ocena materiałów kolekcyjnych pszenżyta i pszenicy twardej Gromadzenie i ocena materiałów kolekcyjnych fasoli 4 | Gromadzenie i ocena materiałów kolekcyjnych uzyskanych w badaniach genetycznych"
-    },
-    {
-     "type": "ocr",
-     "text": "Gromadzenie, ocena i utrzymywanie w stanie żywym zasobów genowych roślin użytkowych dla potrzeb hodowli i badań naukowych, prowadzenie kolekcji patogenów ziemniaka, koordynacja krajowego programu ochrony zasobów genowych roślin użytkowych"
-    },
-    {
-     "type": "ocr",
-     "text": "Prowadzenie kolekcji mikroorganizmów patogenicznych dla roślin"
-    },
-    {
-     "type": "ocr",
-     "text": "Stawki dotacji w złotych"
-    },
-    {
-     "type": "ocr",
-     "text": "60 400"
-    },
-    {
-     "type": "ocr",
-     "text": "30 400"
-    },
-    {
-     "type": "ocr",
-     "text": "28 000"
-    },
-    {
-     "type": "ocr",
-     "text": "1 184 000"
-    },
-    {
-     "type": "ocr",
-     "text": "216 000"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "120 000"
-    },
-    {
-     "type": "ocr",
-     "text": "Gromadzenie i ocena zasobów genowych roślin sadowniczych i ozdobnych 412 000"
-    },
-    {
-     "type": "ocr",
-     "text": "Gromadzenie i ocena materiałów nasiennych jako banku genów chronionych roślin leczniczych i ocena ich zasobów w stanie naturalnym w kraju"
-    },
-    {
-     "type": "ocr",
-     "text": "Gromadzenie i ocena kolekcji tytoniu oraz odmian uprawnych, ekotypów i roślin męskich chmielu 140 000"
-    },
-    {
-     "type": "ocr",
-     "text": "236 000"
-    },
-    {
-     "type": "ocr",
-     "text": "56 000"
-    },
-    {
-     "type": "ocr",
-     "text": "100 000"
-    },
-    {
-     "type": "ocr",
-     "text": "116 000"
-    },
-    {
-     "type": "ocr",
-     "text": "58 400"
-    },
-    {
-     "type": "ocr",
-     "text": "42 000"
-    },
-    {
-     "type": "ocr",
-     "text": "lll. Stawka dotacji na prowadzenie sadów i materiału szkółkarskiego:"
-    },
-    {
-     "type": "ocr",
-     "text": "Gromadzenie i ocena materiałów kolekcyjnych roślin warzywnych, grzybów uprawnych i dziko rosnących"
-    },
-    {
-     "type": "ocr",
-     "text": "7"
-    },
-    {
-     "type": "ocr",
-     "text": "10"
-    },
-    {
-     "type": "ocr",
-     "text": "12 |Gromadzenie i zachowanie materiałów kolekcyjnych dzikich, prymitywnych form i wybranych linii wsobnych żyta oraz innych gatunków dzikich roślin zbożowych, gromadzenie i zachowanie kolekcji dzikich, prymitywnych i uprawnych w ubiegłym stuleciu odmian jabłoni 3 |Gromadzenie i ocena materiałów kolekcyjnych z rodzaju łubinów, grochu i seradeli"
-    },
-    {
-     "type": "ocr",
-     "text": "Gromadzenie i ocena kolekcji odmian i ekotypów Inu oraz konopi"
-    },
-    {
-     "type": "ocr",
-     "text": "Gromadzenie, wytwarzanie i ocena materiałów kolekcyjnych ziemniaków na poziomie diploidalnym 5 | Gromadzenie i ocena materiałów kolekcyjnych odmian, linii i form roślin dyniowatych"
-    },
-    {
-     "type": "ocr",
-     "text": "16 | Gromadzenie i ocena materiałów kolekcyjnych ekotypów i uprawowych populacji roślin"
-    },
-    {
-     "type": "ocr",
-     "text": "1"
-    },
-    {
-     "type": "ocr",
-     "text": "1"
-    },
-    {
-     "type": "ocr",
-     "text": "1"
-    },
-    {
-     "type": "ocr",
-     "text": "zielarskich"
-    },
-    {
-     "type": "ocr",
-     "text": "1) sadów zraźnikowych i nasiennych w wieku do dwóch lat ‘6.240 zł/ha"
-    },
-    {
-     "type": "ocr",
-     "text": "2) sadów nasiennych w wieku powyżej dwóch lat 2.330 zł/ha"
-    },
-    {
-     "type": "ocr",
-     "text": "3) sadów i plantacji elitarnych 12.380 zł/ha"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 24 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "4) wyjściowego materiału szkółkarskiego roślin sadowniczych:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) uwalnianych od chorób wirusowych 2.080 zł za odmianę"
-    },
-    {
-     "type": "ocr",
-     "text": "b) wolnych od chorób wirusowych 1.067 zł za odmianę"
-    },
-    {
-     "type": "ocr",
-     "text": "IV. Stawki dotacji na obniżenie ceny sprzedaży kwalifikowanego materiału siewnego:"
-    },
-    {
-     "type": "ocr",
-     "text": "1) wykorzystywanego do siewu lub sadzenia w posiadanym gospodarstwie rolnym nabywcy:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) 16zł - za 100 kg zaprawionych odpowiednimi środkami ochrony roślin nasion pszenicy jarej i jęczmienia jarego zbytych do dnia 15 maja 2000 r. oraz pszenicy ozimej i jęczmienia ozimego zaprawionych wyszczególnionymi w cz. V Środkami ochrony roślin, zbytych od dnia 15 sierpnia 2000 r. do dnia 31 października 2000 r.,"
-    },
-    {
-     "type": "ocr",
-     "text": "b) 14zł - za 100 kg zaprawionych odpowiednimi środkami ochrony roślin nasion pszenżyta jarego zbytych do dnia 15 maja 2000 r. oraz pszenżyta ozimego, zaprawionych wyszczególnionymi w cz. V środkami ochrony roślin, zbytych od dnia 15 sierpnia 2000 r. do dnia 31 października 2000 r.,"
-    },
-    {
-     "type": "ocr",
-     "text": "c) 13zł za 100 kg zaprawionych odpowiednimi środkami ochrony roślin nasion owsa zbytych do dnia 15 maja 2000 r. oraz nasion żyta zaprawionych wyszczególnionymi w cz. V środkami ochrony roślin zbytych od dnia 15 sierpnia 2000 r. do dnia 31 października 2000 r.,"
-    },
-    {
-     "type": "ocr",
-     "text": "d) 10zł - za 100 kg sadzeniaków ziemniaka, zbytych od dnia 1 lutego 2000 r. do dnia 31 maja 2000 r. oraz zbytych od dnia 1 września 2000 r. do dnia 20 listopada 2000 r.,"
-    },
-    {
-     "type": "ocr",
-     "text": "e) 30zł - za 100 kg sadzeniaków ziemniaka zbytych od dnia 1 lutego 2000 r. do dnia 31 maja 2000 r. oraz zbytych od dnia 1 września 2000 r. do dnia 20 listopada 2000 r., odpornych na agresywne patotypy raka ziemniaka - porażające odmiany odporne na rozpowszechniony patotyp raka ziemniaka D1(1), pod warunkiem że materiał ten kierowany jest do gospodarstw wskazanych przez wojewódzkiego inspektora ochrony roślin, położonych na terenach porazonych oraz zagrożonych porażeniem (tj. w strefie bezpieczeństwa),"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "2) sprzedanego lub zakupionego i przeznaczonego do dalszego rozmnażania:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) 16 zł - za 100 kg zaprawionych odpowiednimi środkami ochrony roślin nasion pszenicy jarej i jęczmienia jarego zbytych do dnia 15 maja 2000 r. oraz pszenicy ozimej i jęczmienia ozimego zaprawionych wyszczególnionymi w cz. V środkami ochrony roślin, zbytych od dnia 15 sierpnia 2000 r. do dnia 31 października 2000 r.,"
-    },
-    {
-     "type": "ocr",
-     "text": "b) 14zł za 100 kg zaprawionych odpowiednimi środkami ochrony roślin nasion pszenżyta jarego zbytych do dnia 15 maja 2000 r. oraz pszenżyta ozimego, zaprawionych wyszczególnionymi w cz. V środkami ochrony roślin, zbytych od dnia 15 sierpnia 2000 r. do dnia 31 października 2000 r.,"
-    },
-    {
-     "type": "ocr",
-     "text": "c) 13 zt za 100 kg zaprawionych odpowiednimi środkami ochrony roślin nasion owsa zbytych do dnia 15 maja 2000 r. oraz nasion żyta zaprawionych wyszczególnionymi w cz. V środkami ochrony roślin, zbytych od dnia 15 sierpnia 2000 r. do dnia 31 października 2000 r.,"
-    },
-    {
-     "type": "ocr",
-     "text": "d) 12zł - za 100 kg sadzeniaków ziemniaka, zbytych od dnia 1 lutego 2000 r. do dnia 31 maja 2000 r. oraz zbytych od dnia 1 września 2000 r. do dnia 20 listopada 2000 r.,"
-    },
-    {
-     "type": "ocr",
-     "text": "e) za 100 kg nasion traw: - 70zł - rajgrasu, - 90zł - kostrzewy i kupkówki, - 110zł - pozostałych gatunków - zbytych do dnia 30 września 2000 r.,"
-    },
-    {
-     "type": "ocr",
-     "text": "f) 200zł - za 100kg nasion koniczyny białej zbytych do dnia 30 czerwca 2000 r.,"
-    },
-    {
-     "type": "ocr",
-     "text": "g) 40zł - za 100 kg nasion łubinu zbytych do dnia 31 maja 2000 r."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 26 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "V. Wykaz środków ochrony roślin wyszczególnionych do zaprawiania kwalifikowanego materiału siewnego zbóż"
-    },
-    {
-     "type": "ocr",
-     "text": "roślina uprawna / polecane Środki ochrony roślin (zapra"
-    },
-    {
-     "type": "ocr",
-     "text": "Baytan Universal Baytan Universal Baytan Universal Baytan Universal Baytan Universal Wszystkie środki Baytan Universal Wszystkie środki 19,5 WS 19,5 WS 19,5 WS 19,5 WS 19,5 WS ochrony roslin 19,5 WS ochrony roslin Maxim 025 FS Dividend 030 FS Maxim Star 035 FS | Dubelt Jęczmień 040 | Maxim 025 FS dopuszczone do Maxim 025 FS dopuszczone do Oksaben 300 FS Maxim 025 FS Oksaben 300 FS FS Oksaben 300 FS stosowania w danym | Oksaben 300 FS stosowania w danym Panoctine 300 SL Oksaben 300 FS Panoctine Total Ferrax 440 FS Panoctine 300 SL zakresie Panoctine 300 SL zakresie Panoctine 350 SL Panoctine 300 ŚL 325 FS Maxim Star 035 FS | Panoctine 350 SL Panoctine 350 SL Panoctine Total Panoctine 350 SL Prelude Special 51 Premis 025 DS. Prelude Special Prelude Special 51 325 FS Panoctine Total WS Premis Universal 275 | 51 WS WS Prelude Special 325 FS Raxil Extra515 FS | FS Raxil Extra 515 FS Raxil Extra 515 FS 51 WS Premis 025 DS Tribenoks 330 FS Raxil 02 (DS,WS) Sarfun T 65 DS. Sarfun T 65 DS. Sarfun T 450 FS Sibutol 398 FS Tribenoks 330 FS"
-    },
-    {
-     "type": "ocr",
-     "text": "Sarfun T 450 FS Sibutol 398 FS Tribenoks 330 FS"
-    },
-    {
-     "type": "ocr",
-     "text": "Vitavax 200 (FS,WS) | Raxil 060 FS Sarox T 500 FS Sumi-8 020 FS"
-    },
-    {
-     "type": "ocr",
-     "text": "Premis Universal 275 FS Raxil 02 (DS.,WS)"
-    },
-    {
-     "type": "ocr",
-     "text": "Raxil Extra 515 FS Sarfun T 65 DS Sarfun T 450 FS Sibutol 398 FS Raxil 060 FS Sumi-8 Gold 030 FS | Vincit 050 FS Vincit 050 FS Tribenoks 330 FS Sarfun T 65 DS Tribenoks 330 FS Vitavax 200 (FS,WS) Vitavax 200 (FS,WS) Vincit 050 FS Sarfun T 450 FS Vitavax 200 (FS,WS) | Zaprawa Funaben T Zaprawa Funaben T Vitavax 200 (FS,WS) | Sarox T 500 FS Zaprawa Oxafun T Zaprawa Funaben T | Sibutol 398 FS 75 DS/WS Sumi-8 020 FS Tribenoks 330 FS Vincit 050 FS Vitavax 200 (FS,WS) Zaprawa Funaben T Zaprawa Oxafun T 75 DS/WS"
-    },
-    {
-     "type": "ocr",
-     "text": "* w odniesieniu do kwalifikowanego materiału siewnego pszenicy ozimej wyprodukowanego oraz wprowadzanego na teren województw: lubelskiego i podkarpackiego należy zastosować jeden z dwóch wyszczególnionych środków ochrony roślin: Sibutol 398 FS i Vincit 050 FS."
-    },
-    {
-     "type": "ocr",
-     "text": "GE JN MEJSf] AluueIzq"
-    },
-    {
-     "type": "ocr",
-     "text": "BLES"
-    },
-    {
-     "type": "ocr",
-     "text": "LOv “20d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 27 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "VI. Wartość stawki dotacji na prowadzenie prac badawczo- -doświadczalnych wymienionych w $ 5 pkt 1-3 rozporządzenia ustala się do wysokości 103 zł za 1 punkt."
-    },
-    {
-     "type": "ocr",
-     "text": "VII. Sposób ustalania dotacji na działalność badawczo — doświadczalną realizowaną przez gospodarstwa pomocnicze Centralnego Ośrodka Badania Odmian Roślin Uprawnych (COBORU) lub zlecanych do wykonania innym wykonawcom"
-    },
-    {
-     "type": "ocr",
-     "text": "1) dotację D stanowi suma wartości prowadzonych doświadczeń D = SW,"
-    },
-    {
-     "type": "ocr",
-     "text": "2) wartość doświadczenia W stanowi iloczyn punktów przypisanych temu doświadczeniu i stawki indywidualnej ustalonej przez COBORU: W =P x S;"
-    },
-    {
-     "type": "ocr",
-     "text": "3) każde doświadczenie ma przypisaną liczbę punktów P wynikającą z jego praco- i materiałochłonności, a każdy punkt stawkę w złotych,"
-    },
-    {
-     "type": "ocr",
-     "text": "4) Dyrektor COBORU może: l/ tworzyć rezerwy na nieprzewidziane zadania w wysokości wynikającej ze zmniejszenia przyznanej stawki nie więcej niż o 8%, 2/ różnicować stawki S w granicach + 25% (S;=S + 25%, gdzie S, - stawka indywidualna) w zależności od sytuacji, na którą składają się między innymi: warunki glebowo-klimatyczne, poziom zmechanizowania prac doświadczalnych, status własnościowy poła doświadczalnego. Tworzenie rezerwy i różnicowanie stawki nie może spowodować przekroczenia łącznej kwoty zatwierdzonej dotacji,"
-    },
-    {
-     "type": "ocr",
-     "text": "5) sposób obliczania punktów - ogólną liczbę punktów P danego doświadczenia stanowi: suma punktów jego pracochłonności P, i punktów materiałochłonności Pp czyli:"
-    },
-    {
-     "type": "ocr",
-     "text": "P=P,+P,"
-    },
-    {
-     "type": "ocr",
-     "text": "I. Punktowanie pracochłonności doświadczeń Pracochłonność doświadczenia wyraża się formułą: P,=P,+P f gdzie: P, — oznacza punkty za pracochłonność *techniczną”, P; - oznacza punkty za pracochłonność *fizyczną”. O liczbie punktów obu rodzajów pracochłonności doświadczenia decydują następujące czynniki: N — przeliczeniowa liczba poletek w doświadczeniu, PP — wielkość “brutto” poletka w doświadczeniu,"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 28 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "C — zakres zabiegów polowych, D — zakres badań i obserwacji. Oznaczając liczbę punktów przypisanych poszczególnym czynnikom doświadczenia odpowiednio: Pin, Ppp, Pic, Pw, Pav, Pep, Pic, Psp, możemy liczbę punktów z tytułu pracochłonności “technicznej” doświadczenia P; zapisać wzorem:"
-    },
-    {
-     "type": "ocr",
-     "text": "P,*P,(Pc* Pw) P,= 10"
-    },
-    {
-     "type": "ocr",
-     "text": "a liczbę punktów z tytułu pracochłomności *fizycznej” doświadczenia Pę wzorem:"
-    },
-    {
-     "type": "ocr",
-     "text": "p.-Pa*PlPetP» f 100"
-    },
-    {
-     "type": "ocr",
-     "text": "Zastosowano następujące metody i kryteria punktowania poszczególnych czynników: N — przeliczeniowa liczba poletek w doświadczeniu Wyraża się wzorem: N=v(r+1) - dla doświadczeń 1-czynnikowych N=v(0,9xb) (r+1) - dla doświadczeń 2-czynnikowych N = v(0,9xb) (0,8xc) r+1) - dla doświadczeń 3-czynnikowych gdzie: v — liczba odmian (pierwszy czynnik), b — liczba wariantów drugiego czynnika, c - liczba wariantów trzeciego czynnika, r — liczba powtórzeń."
-    },
-    {
-     "type": "ocr",
-     "text": "Liczbę punktów Pin i Pn przypisanych poszczególnym wielkościom N podano w tabeli 1."
-    },
-    {
-     "type": "ocr",
-     "text": "PP — Wielkość poletka w doświadczeniu Dla danego doświadczenia przyjmuje się obowiązującą aktualnie w metodyce doświadczeń powierzchnię poletka “brutto”. Przypisaną jej liczbę punktów Ppp i Ppp podano w tabeli 1."
-    },
-    {
-     "type": "ocr",
-     "text": "C — Zakres zabiegów polowych Biorąc pod uwagę wykonywane w doświadczeniu zabiegi związane głównie z: siewem (ręczny, maszynowy, punktowy, rzędowy, ewentualnie przygotowanie rozsady), pielęgnacją (opryski, przerywka, redlenie, nawożenie i inne) oraz zbiorem (maszynowy, ręczny indywidualny, rośliny cienko-, grubołodygowe) podzielono gatunki na 18 grup (w przypadku niektórych gatunków warzyw i roślin ozdobnych o wielokrotnych zbiorach i znacznie większej liczbie zabiegów pielęgnacyjnych wprowadzono wyższe grupy). Zaszeregowanie gatunków do poszczególnych grup podano w tabeli 2, natomiast przypisaną dla każdej grupy liczbę punktów Pic i Pc podano w tabeli 1."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 29 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "D — Zakres badań i obserwacji W obowiązującej metodyce każdego doświadczenia podany jest zestaw badań i obserwacji, które należy wykonać w trakcie wegetacji i zbioru. Stopień utrudnienia przy wykonywaniu każdej obserwacji (badania) zbonitowano trójstopniową skalą punktową: - obserwacje łatwe — 1 punkt (na przykład: daty i oceny niektórych faz rozwojowych, długość okresu wegetacji), - obserwacje średnio trudne — 2 punkty (na przykład: choroby — ocena, wysokość roślin — pomiar, wyleganie — ocena), - obserwacje trudne — 3 punkty (na przykład: niektóre choroby — bonitacja bądź pomiar, większość badań i obserwacji przewidzianych przy zbiorze doświadczenia). Przypisując każdej obserwacji (badaniu) określonego doświadczenia liczbę punktów tej skali otrzymujemy sumę tzw. punktów “matych”, według której doświadczenia skategoryzowano następująco: kategoria: 1 do 30 punktów 10 121 — 145 punktów 2 31- 40 punktów 11 146— 170 punktów 3 41- 50 punktów 12 171 — 200 punktów 4 51- 60 punktów 13 201 — 230 punktów 5 61- 70 punktów 14 231 — 265 punktów 6 71- 80 punktów 15 266 — 300 punktów 7 81- 90 punktów 16 301 — 330 punktów 8 91-100 punktów 17 331 — 365 punktów 9 101 — 120 punktów 18 powyżej 365 punktów Z kolei każdej kategorii doświadczeń przypisano odpowiednią liczbę tak zwanych punktów “duzych” Pip i Pep. Są one podane w tabeli 1. Każde dalsze zwiększenie sumy punktów “matych” dla zespołu badań i obserwacji o 30 powiększa liczbę kategorii o 1, a liczbę punktów “duzych” Pip o 3 oraz Ppo 1. Zaszeregowanie poszczególnych doświadczeń do odpowiednich kategorii podano w tabeli 2."
-    },
-    {
-     "type": "ocr",
-     "text": "Il. Punktowanie materiałochłonności doświadczeń Na ogólną materiałochłonność doświadczenia składają się koszty materiałowe, energia, paliwa, usługi, podatki i inne."
-    },
-    {
-     "type": "ocr",
-     "text": "1. Naliczanie punktów materiałochłonności Pm dla doświadczeń z roślinami w gruncie:"
-    },
-    {
-     "type": "ocr",
-     "text": "Pm =Q1 X k,"
-    },
-    {
-     "type": "ocr",
-     "text": "O _ vxbxexrxPP 1 100"
-    },
-    {
-     "type": "ocr",
-     "text": "gdzie: Q; — powierzchnia doświadczenia w arach, k, — empirycznie ustalony współczynnik w wysokości 3,34, v,b,c,r,PP — zdefiniowano w części I."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 30 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Naliczanie punktów materiałochłonności P„ dla doświadczeń z roślinami pod osłonami:"
-    },
-    {
-     "type": "ocr",
-     "text": "P m = QO x Mx k"
-    },
-    {
-     "type": "ocr",
-     "text": "Q;=vxbxrxPP"
-    },
-    {
-     "type": "ocr",
-     "text": "gdzie: Q> — powierzchnia doświadczenia w m? M — czasokres (w miesiącach) zajmowania przez doświadczenie powierzchni Q» pod osłonami k2 — empirycznie ustalony współczynnik w wysokości 0,5"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Naliczanie punktów materiałochłonności P,, dla badań fizjologicznych odmian zbóż, rzepaku oraz traw:"
-    },
-    {
-     "type": "ocr",
-     "text": "P,=vxbxrxka"
-    },
-    {
-     "type": "ocr",
-     "text": "gdzie: k3 — empirycznie ustalony współczynnik w wysokości 0,13."
-    },
-    {
-     "type": "ocr",
-     "text": "4. Naliczanie punktów dla badań odrębności, wyrównania i trwałości odmian. Badane gatunki — taksony dzieli się na 7 grup *kosztochłonności”. Ich zaszeregowanie do poszczególnych grup zawiera tabela 3. Pm na 1 poletko w grupach wynosi:"
-    },
-    {
-     "type": "ocr",
-     "text": "1 - 1.5 punktu 5 - 3.5 punktu 2 -— 2 punkty 6 — 5.5 punktu 3 - 2.5 punktu 7 — 8 _ punktów 4 - 3 punkty"
-    },
-    {
-     "type": "ocr",
-     "text": "5. Naliczanie punktów dla badań tożsamości i czystości odmianowej wg systemu OECD i krajowego. Badane gatunki -- taksony dzieli się na 3 grupy. Pm dla jednej badanej partii nasion w grupach wynosi: grupal - 1.5 punktu - gatunki grupy 1-3 wtabeli 3 grupa2 - 2.0punkty - gatunki grupy 4-5 wtabeli 3 grupa3 - 2.5 punktu - gatunki grupy 6-7 wtabeli 3"
-    },
-    {
-     "type": "ocr",
-     "text": "6. Pm dla badań wartości siewnej nasion na 1 oznaczenie wynosi: - zdolność kiełkowania - 0,005 punktu przeliczeniowego - masa 1000 nasion - 0,003 punktu przeliczeniowego - pełna analiza nasion buraków cukrowych i pastewnych 0,05 punktu przeliczeniowego - jednokiełkowość buraków cukrowych i pastewnych 0,02 punktu przeliczeniowego - ploidalność buraków cukrowych i pastewnych 0,007 punktu przeliczeniowego"
-    },
-    {
-     "type": "ocr",
-     "text": "7. P„ dla badań meteorologicznych wynosi 0,005 punktu za jednostkę obserwacyjną. Jednostką obserwacyjną jest jednostkowy pomiar lub obserwacja zjawiska"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 31 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "meteorologicznego lub jego skutku wykonywany na posterunku meteorologicznym z częstotliwością i w sposób określony w \"Instrukcji do prowadzenia obserwacji meteorologicznych w stacjach doświadczalnych oceny odmian — 1992”."
-    },
-    {
-     "type": "ocr",
-     "text": "8. Naliczanie ogólnej liczby punktów P dla doświadczeń sadowniczych wg wzoru:"
-    },
-    {
-     "type": "ocr",
-     "text": "P=QxSn"
-    },
-    {
-     "type": "ocr",
-     "text": "Q=vxbxcxrxPP x Sn"
-    },
-    {
-     "type": "ocr",
-     "text": "gdzie: Q — powierzchnia doświadczenia w m” v, b, c, r, PP — zdefiniowano w części I Sn — empirycznie ustalony współczynnik, który wynosi: - dla doświadczeń z drzewami owocowymi w I-III roku: S; — 0,040 - dla doświadczeń z drzewami owocowymi w IV i dalszych latach: Sz — 0,070 - dla doświadczeń z krzewami jagodowymi w I roku: S3 — 0,035 - dla doświadczeń z krzewami jagodowymi w II roku: S4 — 0,045 - dla doświadczeń z krzewami jagodowymi w III roku: Ss — 0,090 - dla doświadczeń z truskawką w I roku: Sę— 0,035 - dla doświadczeń z truskawką w II i dalszych latach: S7 — 0,065"
-    },
-    {
-     "type": "ocr",
-     "text": "9. Pm dla badań chemiczno-technologicznych w Centralnym Laboratorium Oceny Odmian ustalono na jedną analizę i wynosi:"
-    },
-    {
-     "type": "ocr",
-     "text": "Liczba punktów Nazwa analizy przeliczeniowych na | ee ee ee"
-    },
-    {
-     "type": "ocr",
-     "text": "Azot ogólny Białko właściwe Tłuszcze Włókno Strawność Solanina Cukry Morfina Nikotyna Alkaloidy Tanina Kapsaicyna Saponiny Popiół Rozgotowywanie nasion Olejki eteryczne Liczba opadania Gęstość ziarna Szklistość ziarna Próbny przemiał Barwa mąki"
-    },
-    {
-     "type": "ocr",
-     "text": "Om INO Pp > NM"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 32 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Popiołowość mąki Wskaźnik sedymentacji Farinogram Ekstensogram Próbny wypiek Amylogram Celność ziarna Energia kiełkowania Słodowanie Liczba Kolbacha Ekstraktywność Barwa brzeczki Siła diastyczna Lepkość brzeczki Stopień ostatecznego odfermentowania Analiza technologiczna Inu Analiza technologiczna chmielu Elektroforeza: zbóż, kukurydzy, traw Analiza jakościowa buraka Wartość przetwórcza ziemniaka Witamina C B-karoten Kwasowość ogólna Cukry w warzywach Azotany Betanina Gluten Glukozynolany - metodą HPLC Udział kwasów tłuszczowych Glukozydy cyjanogenne Alkaloidy w trawach Sucha masa w warzywach"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 33 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "PUNKTOWANIE POSZCZEGÓLNYCH CZYNNIKÓW PRACOCHŁONNOŚCI"
-    },
-    {
-     "type": "ocr",
-     "text": "N-przeliczeniowa liczba poletek przypisana liczba punktów"
-    },
-    {
-     "type": "ocr",
-     "text": "liczba"
-    },
-    {
-     "type": "ocr",
-     "text": "-20 21-35 36-50 51-65 66-80 81-95 96-110 111-125 126-140 141-155 156-170 171-185 186-200 201-215 216-230 231-245 246-260 261-300 301-340 341-380 381-420 żej 420"
-    },
-    {
-     "type": "ocr",
-     "text": "PP-wielkość poletka"
-    },
-    {
-     "type": "ocr",
-     "text": "do 10 11-25 powyżej 25"
-    },
-    {
-     "type": "ocr",
-     "text": "przypisana liczba punktów"
-    },
-    {
-     "type": "ocr",
-     "text": "C-zabiegi polowe grupa gatunków (© 0 JO MUR > M —"
-    },
-    {
-     "type": "ocr",
-     "text": "przypisana liczba punktów"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 1"
-    },
-    {
-     "type": "ocr",
-     "text": "D-badania i obserwacje kategoria doświadczeń OG JG A WW tO —"
-    },
-    {
-     "type": "ocr",
-     "text": "przypisana liczba punktów"
-    },
-    {
-     "type": "ocr",
-     "text": "GE JN MEJSf] AluueIzq"
-    },
-    {
-     "type": "ocr",
-     "text": "GCCC"
-    },
-    {
-     "type": "ocr",
-     "text": "LOv “20d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 34 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "GRUPY (C - ZABIEGI POLOWE) I KATEGORIE (D — BADANIA I OBSERWACJE), DO KTÓRYCH ZASZEREGOWANO POSZCZEGÓLNE DOŚWIADCZENIA"
-    },
-    {
-     "type": "ocr",
-     "text": "Grupy roślin, Gatunek/doświadczenie S — Rozmnożenie rodów zbóż Gatunki zimujące S — zimotrwałość (skrzynia, nasyp) S — pleśń śniegowa — pole S — pleśń śniegowa — chłodnia S — mrozoodporność (chłodnia) Zboża ozime P, R, A — podstawowe Z — porejestrowe proste P, R — technologia na jakość S — ocena postępu genetycznego S — herbicydy S — monokultura K — porejestrowe czynnikowe C — podstawowe czynnikowe Zboża jare P, R, A — podstawowe Z — porejestrowe proste P, R — technologia na jakość S — technologia uprawy S — niskie pH S — reakcja na suszę S — gęstość siewu S — porastanie S — zamieszanie nasion S — górskie K — porejestrowe czynnikowe C — podstawowe czynnikowe Kukurydza P, R - w uprawie na ziarno Z - porejestrowe proste w uprawie na ziarno P, R - w uprawie na kiszonkę Z — porejestrowe proste w uprawie na kiszonkę C — podstawowe czynnikowe Burak cukrowy P, R — podstawowe Z — porejestrowe proste S — pośpiechy K — porejestrowe czynnikowe Burak pastewny P, R — podstawowe S — pośpiechy Ziemniak P, R — bardzo wczesne Z — bardzo wczesne porejestrowe proste P, R — wczesne Z — wczesne porejestrowe proste P, R—średniowczesne Z — średniowczesne porejestrowe proste P, R — średniopóźne Z — średniopóźne porejestrowe proste"
-    },
-    {
-     "type": "ocr",
-     "text": "Re ww BW Wh hd & 0 to WW AR ENR EN WN WY"
-    },
-    {
-     "type": "ocr",
-     "text": "NN BN BwWANUNAA A A WN Oe eK WR M (W 0 0 0"
-    },
-    {
-     "type": "ocr",
-     "text": "u wu"
-    },
-    {
-     "type": "ocr",
-     "text": "u wu"
-    },
-    {
-     "type": "ocr",
-     "text": "tn"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 2 Grupy roślin, Gatunek/doświadczenie S — degeneracyjne - średniowczesne S — degeneracyjne - późne S — długość okresu wegetacji — bardzo wczesne S — długość okresu wegetacji - wczesne S — długość okresu wegetacji - średnio wczesne S — długość okresu wegetacji - późne S — mechaniczne uszkodzenia S — ocena konsumpcyjna S — górskie S — porażenie zarazą ziemniaka S - odporność na wirusy, grzyby, bakterie — pole S - trwałość przechowywania - laboratorium S - odporność na wirusy, PSTV — laboratorium S - odporność na grzyby, bakterie — laboratorium S - frytki i chipsy — laboratorium S - rozmnożenie rodów ziemniaka Z — rozmnożenie rodów ziemniaka do doświadczeń porejestrowych S - rozmnożenie rodów ziemniaka w źródłach infekcji Rzepak ozimy, rzepik P, R — podstawowe Z - porejestrowe proste P - podstawowe z poszerzonym zakresem badań S — mrozoodporność — pole S - choroby grzybowe — pole K — porejestrowe czynnikowe C — podstawowe czynnikowe Rzepak jary, rzepik P, R, A — podstawowe Gorczyca biała, sarepska P, R— podstawowe Len włóknisty, oleisty P, R — podstawowe S - Fusarium — pole Konopie P, R — podstawowe Mak P, R — podstawowe Rzodkiew oleista P, R — podstawowe Słonecznik P, R — proste Tytoń P, R, A — Virginia P, R, A—Burley P, R, A — Kentuck"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 35 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "P, R— późne Z — późne porejestrowe proste S — degeneracyjne - bardzo wczesne S — degeneracyjne — wczesne Chmiel R — podstawowe — I rok R — następne lata Facelia błękitna R — podstawowe Kapusta pastewna R — podstawowe Kminek zwyczajny R — podstawowe Bobik P, R — podstawowe — nasiona Groch siewny P, R- gleby dobre — nasiona Z - porejestrowe proste — gleby dobre na nasiona P, R - gleby lżejsze — nasiona Z - porejestrowe proste — gleby lżejsze na nasiona"
-    },
-    {
-     "type": "ocr",
-     "text": "P, R, A — podstawowe — na zielonkę K — porejestrowe czynnikowe C — podstawowe czynnikowe Łubin wąskolistny P, R, A - podstawowe na nasiona P — podstawowe na zielonkę Łubin żółty, biały P, R, A — podstawowe na nasiona P — podstawowe na zielonkę Soja P, R, A — podstawowe na nasiona Strączkowe S — choroby fuzaryjne — pole S — wczesny zbiór zielonki Wyka kosmata, siewna P, R, A — podstawowe na nasiona P — podstawowe na zielonkę Koniczyna łąkowa (czerwona), szwedzka, perska, krwistoczerwona P, A - polowe — I rok P, A - następne lata bez wysyłki prób P, A - następne lata z wysyłką prób P, A - łąkowe — I rok P, A - następne lata bez wysyłki prób P, A - następne lata z wysyłką prób P, A — na nasiona I rok i następne P, A — górskie — I rok P, A - następne lata bez wysyłki prób P, A - następne lata z wysyłką prób Koniczyna biała P, A - łąkowe — I rok P, A - następne lata bez pobierania prób P, A — następne lata z pobieraniem prób P, A - pastwiskowe — I rok P, A - następne lata bez pobierania prób P, A - następne lata z pobieraniem prób"
-    },
-    {
-     "type": "ocr",
-     "text": "- Mocny Skroniowski — Puławski — Cygarowy"
-    },
-    {
-     "type": "ocr",
-     "text": "P, A - polowe — I rok P, A — następne lata bez pobierania prób P, A - następne lata z pobieraniem prób P, A - łąkowe — I rok P, A - następne lata bez pobierania prób P, A - następne lata z pobieraniem prób P, A - pastwiskowe — I rok P, A — następne lata bez pobierania prób P, A — następne lata z pobieraniem prób P, A - trawnikowe — I rok P, A — następne lata P, A — dynamika plonowania — I rok P, A — następne lata P, A — eksploatacja sportowa — I rok P — następne lata S — Fusarium, pleśń śniegowa traw I rok S — Fusarium pleśń śniegowa traw - następne lata S — hala wegetacyjna Pieczarka P, A - podstawowe Cebula P, A - podstawowe, z dymki S — przechowywanie — pole S — przechowywanie — przechowalnia Por P, A - podstawowe Ogórek P, A - konserwowy, korniszon, sałatkowy P, A - kwaszeniak S — kwaszenie ogórka Kalafior P, A - podstawowe Kapusta głowiasta biała P, A - wczesna, średnio wczesna P, A - średnio późna, późna S — kwaszenie kapusty S — przechowywanie - pole $ — przechowywanie - przechowalnia Burak ćwikłowy P, A - podstawowe S — przechowywanie - pole 5 - przechowywanie - przechowalnia Marchew P, A - podstawowe S — przechowywanie - pole S — przechowywanie - przechowalnia Seler P, A - podstawowe S — przechowywanie — pole S — przechowywanie — przechowalnia Pomidor P, A - podstawowe P - wysoki S - sztywnołodygowy W - wiotkołodygowy S — uprawa na wełnie Fasola P, A — podstawowe 1 - na suche nasiona"
-    },
-    {
-     "type": "ocr",
-     "text": "OOO UMUMOMUG — —"
-    },
-    {
-     "type": "ocr",
-     "text": "BUNSĘ Nw W"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 36 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "S — na glebach organicznych S — następne lata bez pobierania prób S - następne lata z pobieraniem prób S — na nasiona Lucerna, esparceta, komonica zwyczajna P, A - podstawowe — pole I rok P, A - następne lata bez pobierania prób P, A - następne lata z pobieraniem prób"
-    },
-    {
-     "type": "ocr",
-     "text": "3 - szparagowa zielonostrąkowa 4 - szparagowa żółtostrąkowa S — testy odpornościowe P, A - tyczna Groch P, A — podstawowe Odporność na patogeny - laboratorium S — rzepak, łubin, fasola bobik, inne"
-    },
-    {
-     "type": "ocr",
-     "text": "Kody rodzajów doświadczeń"
-    },
-    {
-     "type": "ocr",
-     "text": "Symbol Rodzaj doświadczenia/badania"
-    },
-    {
-     "type": "ocr",
-     "text": "doświadczenie podstawowe proste z pełnym doborem odmian zarejestrowanych doświadczenie podstawowe proste z pełnym doborem odmian zgłoszonych do zarejestrowania doświadczenie podstawowe proste z ograniczonym doborem odmian zarejestrowanych i pełnym doborem odmian zgłoszonych do rejestru doświadczenie podstawowe o różnych poziomach agrotechnicznych z pełnym doborem odmian zgłoszonych do rejestru doświadczenie specjalne doświadczenie porejestrowe proste doświadczenie porejestrowe o różnych poziomach agrotechnicznych"
-    },
-    {
-     "type": "ocr",
-     "text": "O > m\""
-    },
-    {
-     "type": "ocr",
-     "text": "ANY"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 37 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "BADANIE ODRĘBNOŚCI, WYRÓWNANIA I TRWAŁOŚCI - GRUPY KOSZTOCHŁONNOŚCI GATUNKÓW Tabela 3"
-    },
-    {
-     "type": "ocr",
-     "text": "Gatunek - Takson"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Gryka 7. Dziurawiec 13. Ostropest 19. Siwiec żółty 25. Jaśminowiec — rok I"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Proso 8. Glistnik 14. Szałwia 20. Rzodkiewka polowa 26. Krzewuszka — rok I"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Konopie 9, Kminek 15. Tymianek 21. Kosaciec bylinowy — rok I 27. Wrzosiec — 1, 3 rok"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Facelia błękitna 10. Kolendra 16. Mięta pieprzowa 22. Piwonia — rok 1 28. Pięciornik — I rok"
-    },
-    {
-     "type": "ocr",
-     "text": "5. Bieluń 11. Malwa 17. Pokrzyk wilcza jagoda 23. Lilak — rok | 29. Drzewa i krzewy ozdobne — I rok"
-    },
-    {
-     "type": "ocr",
-     "text": "6. Cząber . Naparstnica 18. Rzewień chiński 24. Forsycja — rok 1"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Soja . Majeranek 16. Róża gruntowa- wiosna 21. Jaśminowiec — rok 2 i 4 . Truskawka — I rok"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Gorczyca biała 10. Rumianek -rok2i3 22. Krzewuszka — rok 2 i 4 28. Szarłat"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Gorczyca sarepska 11. Dynia olbrzymia (Thea Hybrida, Floribunda) 23. Róża szklarniowa i gruntowa 29. Pięciornik — 2, 4 rok"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Len oleisty 12. Dynia zwyczajna 17. Róża gruntowa — jesień - rok 1 i 3 (wiosna i jesień) - rok 3 30. Lubczyk ."
-    },
-    {
-     "type": "ocr",
-     "text": "5. Len włóknisty 13. Szpinak (Thea Hybrida, Floribunda) kolekcja | 31. Drzewa i krzewy ozdobne — rok"
-    },
-    {
-     "type": "ocr",
-     "text": "6. Rzodkiew oleista 14, Szczaw 18. Róża gruntowa (pnące) — rok 1 i 2 24. Alstremeria bylinowa - 2 rok 2, 4 i następne 7, Seradela 15, Lilia - mieszańce azjatyckie _ 19. Lilak — rok 214 25. Koper ogrodowy"
-    },
-    {
-     "type": "ocr",
-     "text": "8. Kozłek -rok 1i3 20. Forsycja — rok 2 i 4 26. Koper włoski"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Ziemniak . Sałata łodygowa, rzymska 24. Szparag 36. Piwonia — rok 2 i3 46. Róża gruntowa (pnące) — rok 3"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Burak cukrowy 14. Sałata polowa 25. Kawon 37, Lilak — rok 3 47, Narcyz — kolekcja wzorców"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Burak pastewny 15. Sałata głowiasta 26. Lewkonia wielopędowa 38. Forsycja — rok 3 48. Tulipan — kolekcja wzorców"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Cykoria korzeniowa 16. Sałata liściowa 27. Godecja 39. Jaśminowiec — rok 3 49. Mieczyk - kolekcja wzorców"
-    },
-    {
-     "type": "ocr",
-     "text": "5. Rzepa pastewna 17. Sałata foliowa 28. Lobularia 40, Krzewuszka — rok 3 50. Pelargonia bluszczolistna"
-    },
-    {
-     "type": "ocr",
-     "text": "6. Brukiew pastewna 18. Rzodkiewka pod osłonami 29. Nachyłek 41. Alstremeria bylinowa - | rok - kolekcja"
-    },
-    {
-     "type": "ocr",
-     "text": "7. Życica wielokwiatowa wiosenna 30. Krokus 42. Róża szklarniowa wiosna 51. Anturium - kolekcja westerwoldzka 19. Rzodkiew 31. Nagietek — rok 2 52. Krzewy — I rok"
-    },
-    {
-     "type": "ocr",
-     "text": "8. Kapusta pastewna. 20. Brukiew jadalna 32. Eszolcja kalifornijska 43, Róża szklarniowa jesień rok 1 53. Topinambur 9, Mak 21. Kukurydza cukrowa 33. Alstremeria bylinowa — rok 2 44. Róża gruntowa (Thea Hybrida, _ 54, Pieciornik — 3 rok"
-    },
-    {
-     "type": "ocr",
-     "text": "10. Słonecznik 22. Kukurydza pękająca 34. Lilia — mieszańce azjatyckie — rok 2 Floribunda) wiosna - rok I 55. Wrzosiec — 2 rok"
-    },
-    {
-     "type": "ocr",
-     "text": "11. Melon 23. Rabarbar 35. Kosaciec bylinowy — rok 213 45. Róża gruntowa (Thea Hybrida, _ 56. Drzewa i krzewy ozdobne — rok 3 . Rzepak ja Floribunda) jesień - rok 2"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Żyto ozime i jare 21. Komonica zwyczajna 41. Stokłosa 62. Brokuł 81. Wyżlin większy"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Pszenica jara 22. Esparceta 42, Wyczyniec łąkowy 63. Jarmuż 82. Niecierpek"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Jęczmień jary 23. Kostrzewa łąkowa 43, Inne trawy 64. Chrzan 83. Pelargonia rabatowa — mnożona"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Pszenżyto jare 24. Kostrzewa trzcinowa 44, Rzepak ozimy 65. Skorzonera generatywnie"
-    },
-    {
-     "type": "ocr",
-     "text": "5. Owies 25. Kostrzewa czerwona 45. Rzepik ozimy 66. Stokrotka pospolita 84. Pelargonia rabatowa — mnożona"
-    },
-    {
-     "type": "ocr",
-     "text": "6. Groch 26. Kostrzewa owcza 46. Chmiel 67. Narcyz — doświadczenie wegetatywnie"
-    },
-    {
-     "type": "ocr",
-     "text": "7. Bobik 27. Kostrzewa różnolistna 47. Cebula 68. Tulipan — doświadczenie 85, Begonia ozdobna z kwiatów"
-    },
-    {
-     "type": "ocr",
-     "text": "8. Łubin żółty 28. Kupkówka pospolita 48, Czosnek 69. Aksamitka rozpierzchła 86. Begonia ozdobna z liści"
-    },
-    {
-     "type": "ocr",
-     "text": "9. Łubin wąskolistny 29. Tymotka łąkowa 49, Por 70. Aksamitka wyniosła 87. Cynia"
-    },
-    {
-     "type": "ocr",
-     "text": "10. Łubin biały 30. Wiechlina łąkowa 50. Marchew jadalna 71. Begonia stale kwitnąca — 88. Goździk chiński"
-    },
-    {
-     "type": "ocr",
-     "text": "11. Wyka siewna 31. Wiechlina błotna 51. Burak ćwikłowy pierwotne składniki mieszańca _ 89. Groszek pachnący"
-    },
-    {
-     "type": "ocr",
-     "text": "12. Wyka kosmata 32. Życica trwała 52. Pietruszka korzeniowa i naciowa 72. Aster 90. Lobelia"
-    },
-    {
-     "type": "ocr",
-     "text": "13. Koniczyna łąkowa 33. Życica wielokwiatowa 53. Sałata szklarniowa wiosenna 73. Koleus 91. Złocień maruna -(czerwona) 34. Zycica mieszańcowa 54, Sałata szklarniowa zimowa 74. Szałwia błyszcząca 92. Goździk brodaty"
-    },
-    {
-     "type": "ocr",
-     "text": "GE JN MEJSf] AluueIzq"
-    },
-    {
-     "type": "ocr",
-     "text": "[1444"
-    },
-    {
-     "type": "ocr",
-     "text": "LOv z0d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 38 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "14. Koniczyna biała"
-    },
-    {
-     "type": "ocr",
-     "text": "3 punkty I poletko"
-    },
-    {
-     "type": "ocr",
-     "text": "17. Lucerna siewna"
-    },
-    {
-     "type": "ocr",
-     "text": "18. Lucerna chmielowa"
-    },
-    {
-     "type": "ocr",
-     "text": "20. Rutwica wschodnia"
-    },
-    {
-     "type": "ocr",
-     "text": "Uwa"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Pszenica ozima"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Pszenżyto ozime"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Jęczmień ozimy"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Kukurydza"
-    },
-    {
-     "type": "ocr",
-     "text": "5. Koniczyna łąkowa (czerwona)"
-    },
-    {
-     "type": "ocr",
-     "text": "6. Koniczyna biała"
-    },
-    {
-     "type": "ocr",
-     "text": "9, Koniczyna perska"
-    },
-    {
-     "type": "ocr",
-     "text": "11. Lucerna siewna"
-    },
-    {
-     "type": "ocr",
-     "text": "12. Lucerna chmielowa"
-    },
-    {
-     "type": "ocr",
-     "text": "Uwaga:"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Pomidor foliowy"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Papryka foliowa"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Kalafior wiosenny"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Kalafior jesienny"
-    },
-    {
-     "type": "ocr",
-     "text": "5. Kapusta"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Papryka szklarniowa punktów 3. Ogórek szklarniowy"
-    },
-    {
-     "type": "ocr",
-     "text": "15. Koniczyna krwisto czerwona"
-    },
-    {
-     "type": "ocr",
-     "text": "16. Lucerna mieszańcowa"
-    },
-    {
-     "type": "ocr",
-     "text": "19. Koniczyna szwedzka"
-    },
-    {
-     "type": "ocr",
-     "text": "a: gatunki wieloletnie — kontynuacja badań"
-    },
-    {
-     "type": "ocr",
-     "text": "7. Koniczyna szwedzka"
-    },
-    {
-     "type": "ocr",
-     "text": "8. Koniczyna krwisto czerwona"
-    },
-    {
-     "type": "ocr",
-     "text": "10. Lucerna mieszańcowa"
-    },
-    {
-     "type": "ocr",
-     "text": "gatunki wieloletnie w roku założenia"
-    },
-    {
-     "type": "ocr",
-     "text": "6. Kapusta głowiasta czerwona"
-    },
-    {
-     "type": "ocr",
-     "text": "łowiasta biała"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Pomidor szklarniowy"
-    },
-    {
-     "type": "ocr",
-     "text": "35. Mietlica biaława"
-    },
-    {
-     "type": "ocr",
-     "text": "36. Mietlica pospolita"
-    },
-    {
-     "type": "ocr",
-     "text": "37. Mietlica psia"
-    },
-    {
-     "type": "ocr",
-     "text": "38. Mozga kanaryjska 39, Mozga trzcinowata"
-    },
-    {
-     "type": "ocr",
-     "text": "40. Rajgras wyniosły"
-    },
-    {
-     "type": "ocr",
-     "text": "13. Komonica zwyczajna"
-    },
-    {
-     "type": "ocr",
-     "text": "14. Rutwica wschodnia 15, Esparceta"
-    },
-    {
-     "type": "ocr",
-     "text": "16. Nostrzyk biały"
-    },
-    {
-     "type": "ocr",
-     "text": "17. Kostrzewa łąkowa"
-    },
-    {
-     "type": "ocr",
-     "text": "18. Kostrzewa trzcinowa 19, Kostrzewa czerwona"
-    },
-    {
-     "type": "ocr",
-     "text": "20. Kostrzewa owcza"
-    },
-    {
-     "type": "ocr",
-     "text": "21. Kostrzewa różnolistna"
-    },
-    {
-     "type": "ocr",
-     "text": "22. Kupkówka"
-    },
-    {
-     "type": "ocr",
-     "text": "23. Tymotka"
-    },
-    {
-     "type": "ocr",
-     "text": "24. Wiechlina łąkowa"
-    },
-    {
-     "type": "ocr",
-     "text": "25. Wiechlina błotna"
-    },
-    {
-     "type": "ocr",
-     "text": "7. Kapusta włoska"
-    },
-    {
-     "type": "ocr",
-     "text": "8. Kapusta brukselska"
-    },
-    {
-     "type": "ocr",
-     "text": "9. Lewkonia jednoroczna"
-    },
-    {
-     "type": "ocr",
-     "text": "10. Gerbera — 2 rok"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Goździk — 2 rok"
-    },
-    {
-     "type": "ocr",
-     "text": "5. Zwartnica"
-    },
-    {
-     "type": "ocr",
-     "text": "6. Syningia ogrodowa"
-    },
-    {
-     "type": "ocr",
-     "text": "55. Groch siewny cukrowy i łuskowy"
-    },
-    {
-     "type": "ocr",
-     "text": "56. Fasola zwykła, tyczna"
-    },
-    {
-     "type": "ocr",
-     "text": "57. Fasola wielokwiatowa"
-    },
-    {
-     "type": "ocr",
-     "text": "58. Bób 59, Marchew pastewna"
-    },
-    {
-     "type": "ocr",
-     "text": "60. Pasternak"
-    },
-    {
-     "type": "ocr",
-     "text": "61. Szczypiorek"
-    },
-    {
-     "type": "ocr",
-     "text": "26. Życica trwała"
-    },
-    {
-     "type": "ocr",
-     "text": "27. Życica wielokwiatowa"
-    },
-    {
-     "type": "ocr",
-     "text": "28. Życica mieszańcowa"
-    },
-    {
-     "type": "ocr",
-     "text": "29. Mietlica biaława"
-    },
-    {
-     "type": "ocr",
-     "text": "30. Mietlica pospolita rozłogowa"
-    },
-    {
-     "type": "ocr",
-     "text": "31. Mietlica psia"
-    },
-    {
-     "type": "ocr",
-     "text": "32. Mozga kanaryjska"
-    },
-    {
-     "type": "ocr",
-     "text": "33. Mozga trzcinowata"
-    },
-    {
-     "type": "ocr",
-     "text": "34. Rajgras wyniosły"
-    },
-    {
-     "type": "ocr",
-     "text": "35. Stokłosa bezostna"
-    },
-    {
-     "type": "ocr",
-     "text": "36. Stokłosa uniolowata"
-    },
-    {
-     "type": "ocr",
-     "text": "37. Wyczyniec łąkowy"
-    },
-    {
-     "type": "ocr",
-     "text": "38. Inne trawy"
-    },
-    {
-     "type": "ocr",
-     "text": "39. Tytoń"
-    },
-    {
-     "type": "ocr",
-     "text": "12. Ogórek foliowy"
-    },
-    {
-     "type": "ocr",
-     "text": "13. Miechunka"
-    },
-    {
-     "type": "ocr",
-     "text": "14. Pomidor polowy"
-    },
-    {
-     "type": "ocr",
-     "text": "15. Papryka polowa"
-    },
-    {
-     "type": "ocr",
-     "text": "7. Begonia szklarniowa"
-    },
-    {
-     "type": "ocr",
-     "text": "8. Frezja"
-    },
-    {
-     "type": "ocr",
-     "text": "9. Kalanchoe"
-    },
-    {
-     "type": "ocr",
-     "text": "11. Chryzantema wielkokwiatowa"
-    },
-    {
-     "type": "ocr",
-     "text": "75. Werbena"
-    },
-    {
-     "type": "ocr",
-     "text": "76. Bratek ogrodowy"
-    },
-    {
-     "type": "ocr",
-     "text": "77. Niezapominajka"
-    },
-    {
-     "type": "ocr",
-     "text": "78. Dalia"
-    },
-    {
-     "type": "ocr",
-     "text": "79. Pelargonia rabatowa — Pierwotne Składniki Mieszańca"
-    },
-    {
-     "type": "ocr",
-     "text": "80. Pelargonia bluszczolistna pojedyncza"
-    },
-    {
-     "type": "ocr",
-     "text": "40. Machorka"
-    },
-    {
-     "type": "ocr",
-     "text": "41. Pieprzowiec"
-    },
-    {
-     "type": "ocr",
-     "text": "42. Ogórek polowy"
-    },
-    {
-     "type": "ocr",
-     "text": "43. Kalarepa 44, Seler korzeniowy i naciowy"
-    },
-    {
-     "type": "ocr",
-     "text": "45. Petunia"
-    },
-    {
-     "type": "ocr",
-     "text": "46. Żeniszek meksykański"
-    },
-    {
-     "type": "ocr",
-     "text": "47. Cykoria liściowa"
-    },
-    {
-     "type": "ocr",
-     "text": "48. Oberżyna 49, Lilia pod osłonami"
-    },
-    {
-     "type": "ocr",
-     "text": "50. Cyklamen — 1, 2 rok"
-    },
-    {
-     "type": "ocr",
-     "text": "51. Begonia stale kwitnąca rabatowa"
-    },
-    {
-     "type": "ocr",
-     "text": "52. Kocanki ogrodowe"
-    },
-    {
-     "type": "ocr",
-     "text": "16. Goździk — 1 rok"
-    },
-    {
-     "type": "ocr",
-     "text": "17. Drzewa owocowe - 4 rok i dalsze"
-    },
-    {
-     "type": "ocr",
-     "text": "18. Krzewy - 3 rok i dalsze 19, Wilezomlecz"
-    },
-    {
-     "type": "ocr",
-     "text": "10. Pierwiosnek"
-    },
-    {
-     "type": "ocr",
-     "text": "11. Starzec"
-    },
-    {
-     "type": "ocr",
-     "text": "12. Pantofelnik"
-    },
-    {
-     "type": "ocr",
-     "text": "93. Prawoślaz 94, Złocień bylinowy"
-    },
-    {
-     "type": "ocr",
-     "text": "95. Anturium cięte — 2 rok"
-    },
-    {
-     "type": "ocr",
-     "text": "96. Soczewica jadalna"
-    },
-    {
-     "type": "ocr",
-     "text": "97. Lędźwian siewny"
-    },
-    {
-     "type": "ocr",
-     "text": "98. Alstremeria cięta — 2 rok"
-    },
-    {
-     "type": "ocr",
-     "text": "53. Begonia bulwiasta"
-    },
-    {
-     "type": "ocr",
-     "text": "54. Mieczyk — doświadczenie"
-    },
-    {
-     "type": "ocr",
-     "text": "55. Hiacynt"
-    },
-    {
-     "type": "ocr",
-     "text": "56. Kosaciec ogrodowy"
-    },
-    {
-     "type": "ocr",
-     "text": "57. Anturium cięte — 1 rok"
-    },
-    {
-     "type": "ocr",
-     "text": "58. Róża szklarniowa wiosna — rok I"
-    },
-    {
-     "type": "ocr",
-     "text": "59. Róża szklarniowa jesień — rok 2"
-    },
-    {
-     "type": "ocr",
-     "text": "60. Róża doniczkowa I roczna"
-    },
-    {
-     "type": "ocr",
-     "text": "61. Gerbera — | rok"
-    },
-    {
-     "type": "ocr",
-     "text": "62. Drzewa owocowe — 1-3 rok"
-    },
-    {
-     "type": "ocr",
-     "text": "63. Krzewy — 2 rok"
-    },
-    {
-     "type": "ocr",
-     "text": "64. Truskawka - rok 2 i dalsze"
-    },
-    {
-     "type": "ocr",
-     "text": "65. Niecierpek szklarniowy"
-    },
-    {
-     "type": "ocr",
-     "text": "66. Wiesiołek"
-    },
-    {
-     "type": "ocr",
-     "text": "20. Kapusta pekińska"
-    },
-    {
-     "type": "ocr",
-     "text": "21. Kapusta chińska"
-    },
-    {
-     "type": "ocr",
-     "text": "22. Wyzlin — tunelowy 23, Alstremeria cięta — | rok"
-    },
-    {
-     "type": "ocr",
-     "text": "13. Skrętnik ogrodowy"
-    },
-    {
-     "type": "ocr",
-     "text": "14. Pieczarka"
-    },
-    {
-     "type": "ocr",
-     "text": "15. Anturium doniczkowe"
-    },
-    {
-     "type": "ocr",
-     "text": "16. Oberżyna"
-    },
-    {
-     "type": "ocr",
-     "text": "GE JN MEJSf] AluueIzq"
-    },
-    {
-     "type": "ocr",
-     "text": "0ecc"
-    },
-    {
-     "type": "ocr",
-     "text": "LOv z0d"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "kapusta biała",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "pomidor gruntów",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "papryka gruntowa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "pomidor pod osłon 5, ogórek gruntów",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "ogórek pod osłon",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "marchew",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "cebula 9, burak ćwikłow",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "0",
+     "path": "ust_0",
+     "text": "fasola szparagowa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "41",
+     "path": "ust_41",
+     "text": "fasola na suche nasiona",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "pietruszka",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "seler . por 45, groch",
+     "children": [
+      {
+       "type": "text",
+       "text": "="
+      },
+      {
+       "type": "text",
+       "text": "=\""
+      },
+      {
+       "type": "text",
+       "text": "|"
+      },
+      {
+       "type": "text",
+       "text": "="
+      },
+      {
+       "type": "text",
+       "text": "jm"
+      },
+      {
+       "type": "text",
+       "text": "|"
+      },
+      {
+       "type": "text",
+       "text": "pod"
+      },
+      {
+       "type": "text",
+       "text": "14"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 22 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "46",
+     "path": "ust_46",
+     "text": "sałata",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "47",
+     "path": "ust_47",
+     "text": "jabłoń",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "podkładki dla drzewiastych gatunków roślin sadowniczych Łącznie —_",
+     "children": [
+      {
+       "type": "text",
+       "text": "05 1000"
+      },
+      {
+       "type": "text",
+       "text": "li. Stawki dotacji za zadania z zakresu ochrony zasobów genowych roślin"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa zadania z zakresu ochrony zasobów genowych"
+      },
+      {
+       "type": "text",
+       "text": "Ocena zróżnicowania genetycznego w zasobach genowych marchwi"
+      },
+      {
+       "type": "text",
+       "text": "1"
+      },
+      {
+       "type": "text",
+       "text": "2 | Gromadzenie i ocena materiałów kolekcyjnych pszenżyta i pszenicy twardej Gromadzenie i ocena materiałów kolekcyjnych fasoli 4 | Gromadzenie i ocena materiałów kolekcyjnych uzyskanych w badaniach genetycznych"
+      },
+      {
+       "type": "text",
+       "text": "Gromadzenie, ocena i utrzymywanie w stanie żywym zasobów genowych roślin użytkowych dla potrzeb hodowli i badań naukowych, prowadzenie kolekcji patogenów ziemniaka, koordynacja krajowego programu ochrony zasobów genowych roślin użytkowych"
+      },
+      {
+       "type": "text",
+       "text": "Prowadzenie kolekcji mikroorganizmów patogenicznych dla roślin"
+      },
+      {
+       "type": "text",
+       "text": "Stawki dotacji w złotych"
+      },
+      {
+       "type": "text",
+       "text": "60 400"
+      },
+      {
+       "type": "text",
+       "text": "30 400"
+      },
+      {
+       "type": "text",
+       "text": "28 000"
+      },
+      {
+       "type": "text",
+       "text": "1 184 000"
+      },
+      {
+       "type": "text",
+       "text": "216 000"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 23 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "120 000"
+      },
+      {
+       "type": "text",
+       "text": "Gromadzenie i ocena zasobów genowych roślin sadowniczych i ozdobnych 412 000"
+      },
+      {
+       "type": "text",
+       "text": "Gromadzenie i ocena materiałów nasiennych jako banku genów chronionych roślin leczniczych i ocena ich zasobów w stanie naturalnym w kraju"
+      },
+      {
+       "type": "text",
+       "text": "Gromadzenie i ocena kolekcji tytoniu oraz odmian uprawnych, ekotypów i roślin męskich chmielu 140 000"
+      },
+      {
+       "type": "text",
+       "text": "236 000"
+      },
+      {
+       "type": "text",
+       "text": "56 000"
+      },
+      {
+       "type": "text",
+       "text": "100 000"
+      },
+      {
+       "type": "text",
+       "text": "116 000"
+      },
+      {
+       "type": "text",
+       "text": "58 400"
+      },
+      {
+       "type": "text",
+       "text": "42 000"
+      },
+      {
+       "type": "text",
+       "text": "lll. Stawka dotacji na prowadzenie sadów i materiału szkółkarskiego:"
+      },
+      {
+       "type": "text",
+       "text": "Gromadzenie i ocena materiałów kolekcyjnych roślin warzywnych, grzybów uprawnych i dziko rosnących"
+      },
+      {
+       "type": "text",
+       "text": "7"
+      },
+      {
+       "type": "text",
+       "text": "10"
+      },
+      {
+       "type": "text",
+       "text": "12 |Gromadzenie i zachowanie materiałów kolekcyjnych dzikich, prymitywnych form i wybranych linii wsobnych żyta oraz innych gatunków dzikich roślin zbożowych, gromadzenie i zachowanie kolekcji dzikich, prymitywnych i uprawnych w ubiegłym stuleciu odmian jabłoni 3 |Gromadzenie i ocena materiałów kolekcyjnych z rodzaju łubinów, grochu i seradeli"
+      },
+      {
+       "type": "text",
+       "text": "Gromadzenie i ocena kolekcji odmian i ekotypów Inu oraz konopi"
+      },
+      {
+       "type": "text",
+       "text": "Gromadzenie, wytwarzanie i ocena materiałów kolekcyjnych ziemniaków na poziomie diploidalnym 5 | Gromadzenie i ocena materiałów kolekcyjnych odmian, linii i form roślin dyniowatych"
+      },
+      {
+       "type": "text",
+       "text": "16 | Gromadzenie i ocena materiałów kolekcyjnych ekotypów i uprawowych populacji roślin"
+      },
+      {
+       "type": "text",
+       "text": "1"
+      },
+      {
+       "type": "text",
+       "text": "1"
+      },
+      {
+       "type": "text",
+       "text": "1"
+      },
+      {
+       "type": "text",
+       "text": "zielarskich"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/pkt_1",
+       "text": "sadów zraźnikowych i nasiennych w wieku do dwóch lat ‘6.240 zł/ha",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/pkt_2",
+       "text": "sadów nasiennych w wieku powyżej dwóch lat 2.330 zł/ha",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/pkt_3",
+       "text": "sadów i plantacji elitarnych 12.380 zł/ha",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 24 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/pkt_4",
+       "text": "wyjściowego materiału szkółkarskiego roślin sadowniczych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_4/pkt_4/lit_a",
+         "text": "uwalnianych od chorób wirusowych",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_4/pkt_4/lit_b",
+         "text": "wolnych od chorób wirusowych",
+         "children": [
+          {
+           "type": "text",
+           "text": "2.080 zł za odmianę 1.067 zł za odmianę"
+          },
+          {
+           "type": "text",
+           "text": "IV. Stawki dotacji na obniżenie ceny sprzedaży kwalifikowanego materiału siewnego:"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/pkt_1",
+       "text": "wykorzystywanego do siewu lub sadzenia w posiadanym gospodarstwie rolnym nabywcy:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_4/pkt_1/lit_a",
+         "text": "16zł - za 100 kg zaprawionych odpowiednimi środkami ochrony roślin nasion pszenicy jarej i jęczmienia jarego zbytych do dnia 15 maja 2000 r. oraz pszenicy ozimej i jęczmienia ozimego zaprawionych wyszczególnionymi w cz. V Środkami ochrony roślin, zbytych od dnia 15 sierpnia 2000 r. do dnia 31 października 2000 r.,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_4/pkt_1/lit_b",
+         "text": "14zł - za 100 kg zaprawionych odpowiednimi środkami ochrony roślin nasion pszenżyta jarego zbytych do dnia 15 maja 2000 r. oraz pszenżyta ozimego, zaprawionych wyszczególnionymi w cz. V środkami ochrony roślin, zbytych od dnia 15 sierpnia 2000 r. do dnia 31 października 2000 r.,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_4/pkt_1/lit_c",
+         "text": "13zł za 100 kg zaprawionych odpowiednimi środkami ochrony roślin nasion owsa zbytych do dnia 15 maja 2000 r. oraz nasion żyta zaprawionych wyszczególnionymi w cz. V środkami ochrony roślin zbytych od dnia 15 sierpnia 2000 r. do dnia 31 października 2000 r.,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_4/pkt_1/lit_d",
+         "text": "10zł - za 100 kg sadzeniaków ziemniaka, zbytych od dnia 1 lutego 2000 r. do dnia 31 maja 2000 r. oraz zbytych od 20 listopada 2000 r., dnia 1 września 2000 r. do dnia",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_4/pkt_1/lit_e",
+         "text": "30zł - za 100 kg sadzeniaków ziemniaka zbytych od dnia 1 lutego 2000 r. do dnia 31 maja 2000 r. oraz zbytych od dnia 1 września 2000 r. do dnia 20 listopada 2000 r., odpornych na agresywne patotypy raka ziemniaka - porażające odmiany odporne na rozpowszechniony patotyp raka ziemniaka D1(1), pod warunkiem że materiał ten kierowany jest do gospodarstw wskazanych przez wojewódzkiego inspektora ochrony roślin, położonych na terenach porażonych oraz zagrożonych porażeniem (tj. w strefie bezpieczeństwa),",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 25 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/pkt_2",
+       "text": "sprzedanego lub zakupionego i przeznaczonego do dalszego rozmnażania:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_4/pkt_2/lit_a",
+         "text": "16 zł - za 100 kg zaprawionych odpowiednimi środkami ochrony roślin nasion pszenicy jarej i jęczmienia jarego zbytych do dnia 15 maja 2000 r. oraz pszenicy ozimej i jęczmienia ozimego zaprawionych wyszczególnionymi w cz. V środkami ochrony roślin, zbytych od dnia 15 sierpnia 2000 r. do dnia 31 października 2000 r.,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_4/pkt_2/lit_b",
+         "text": "14zł za 100 kg zaprawionych odpowiednimi środkami ochrony roślin nasion pszenżyta jarego zbytych do dnia 15 maja 2000 r. oraz pszenżyta ozimego, zaprawionych wyszczególnionymi w cz. V środkami ochrony roślin, zbytych od dnia 15 sierpnia 2000 r. do dnia 31 października 2000 r.,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_4/pkt_2/lit_c",
+         "text": "13 zt za 100 kg zaprawionych odpowiednimi środkami ochrony roślin nasion owsa zbytych do dnia 15 maja 2000 wyszczególnionymi w cz. V środkami r. oraz nasion żyta zaprawionych ochrony roślin, zbytych od dnia 15 sierpnia 2000 r. do dnia 31 października 2000 r.,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_4/pkt_2/lit_d",
+         "text": "12zł - za 100 kg sadzeniaków ziemniaka, zbytych od dnia 1 lutego 2000 r. do dnia 31 maja 2000 r. oraz zbytych od 20 listopada 2000 r.,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_4/pkt_2/lit_e",
+         "text": "za 100 kg nasion traw: - 70zł - rajgrasu, - 90zł - kostrzewy i kupkówki, - 110zł - pozostałych gatunków - zbytych do dnia 30 września 2000 r., dnia 1 września 2000 r. do dnia",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_4/pkt_2/lit_f",
+         "text": "200zł - za 100kg nasion koniczyny białej zbytych do dnia 30 czerwca 2000 r.,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_4/pkt_2/lit_g",
+         "text": "40zł - za 100 kg nasion łubinu zbytych do dnia 31 maja 2000 r.",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 26 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "ocr",
+           "text": "V. Wykaz środków ochrony roślin wyszczególnionych do zaprawiania kwalifikowanego materiału siewnego zbóż"
+          },
+          {
+           "type": "ocr",
+           "text": "roślina uprawna / polecane Środki ochrony roślin (zapra"
+          },
+          {
+           "type": "ocr",
+           "text": "Baytan Universal Baytan Universal Baytan Universal Baytan Universal Baytan Universal Wszystkie środki Baytan Universal Wszystkie środki 19,5 WS 19,5 WS 19,5 WS 19,5 WS 19,5 WS ochrony roslin 19,5 WS ochrony roslin Maxim 025 FS Dividend 030 FS Maxim Star 035 FS | Dubelt Jęczmień 040 | Maxim 025 FS dopuszczone do Maxim 025 FS dopuszczone do Oksaben 300 FS Maxim 025 FS Oksaben 300 FS FS Oksaben 300 FS stosowania w danym | Oksaben 300 FS stosowania w danym Panoctine 300 SL Oksaben 300 FS Panoctine Total Ferrax 440 FS Panoctine 300 SL zakresie Panoctine 300 SL zakresie Panoctine 350 SL Panoctine 300 ŚL 325 FS Maxim Star 035 FS | Panoctine 350 SL Panoctine 350 SL Panoctine Total Panoctine 350 SL Prelude Special 51 Premis 025 DS. Prelude Special Prelude Special 51 325 FS Panoctine Total WS Premis Universal 275 | 51 WS WS Prelude Special 325 FS Raxil Extra515 FS | FS Raxil Extra 515 FS Raxil Extra 515 FS 51 WS Premis 025 DS Tribenoks 330 FS Raxil 02 (DS,WS) Sarfun T 65 DS. Sarfun T 65 DS. Sarfun T 450 FS Sibutol 398 FS Tribenoks 330 FS"
+          },
+          {
+           "type": "ocr",
+           "text": "Sarfun T 450 FS Sibutol 398 FS Tribenoks 330 FS"
+          },
+          {
+           "type": "ocr",
+           "text": "Vitavax 200 (FS,WS) | Raxil 060 FS Sarox T 500 FS Sumi-8 020 FS"
+          },
+          {
+           "type": "ocr",
+           "text": "Premis Universal 275 FS Raxil 02 (DS.,WS)"
+          },
+          {
+           "type": "ocr",
+           "text": "Raxil Extra 515 FS Sarfun T 65 DS Sarfun T 450 FS Sibutol 398 FS Raxil 060 FS Sumi-8 Gold 030 FS | Vincit 050 FS Vincit 050 FS Tribenoks 330 FS Sarfun T 65 DS Tribenoks 330 FS Vitavax 200 (FS,WS) Vitavax 200 (FS,WS) Vincit 050 FS Sarfun T 450 FS Vitavax 200 (FS,WS) | Zaprawa Funaben T Zaprawa Funaben T Vitavax 200 (FS,WS) | Sarox T 500 FS Zaprawa Oxafun T Zaprawa Funaben T | Sibutol 398 FS 75 DS/WS Sumi-8 020 FS Tribenoks 330 FS Vincit 050 FS Vitavax 200 (FS,WS) Zaprawa Funaben T Zaprawa Oxafun T 75 DS/WS"
+          },
+          {
+           "type": "ocr",
+           "text": "* w odniesieniu do kwalifikowanego materiału siewnego pszenicy ozimej wyprodukowanego oraz wprowadzanego na teren województw: lubelskiego i podkarpackiego należy zastosować jeden z dwóch wyszczególnionych środków ochrony roślin: Sibutol 398 FS i Vincit 050 FS."
+          },
+          {
+           "type": "ocr",
+           "text": "GE JN MEJSf] AluueIzq"
+          },
+          {
+           "type": "ocr",
+           "text": "BLES"
+          },
+          {
+           "type": "ocr",
+           "text": "LOv “20d"
+          },
+          {
+           "type": "note",
+           "text": "[Strona 27 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "text",
+           "text": "VI. Wartość stawki dotacji na prowadzenie prac badawczo- -doświadczalnych wymienionych w § 5 pkt 1-3 rozporządzenia ustala się do wysokości 103 zł za 1 punkt."
+          },
+          {
+           "type": "text",
+           "text": "VII. Sposób ustalania dotacji na działalność badawczo — doświadczalną realizowaną przez gospodarstwa pomocnicze Centralnego Ośrodka Badania Odmian Roślin Uprawnych (COBORU) lub zlecanych do wykonania innym wykonawcom"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/pkt_1",
+       "text": "dotację D stanowi suma wartości prowadzonych doświadczeń D = SW,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/pkt_2",
+       "text": "wartość doświadczenia W stanowi iloczyn punktów przypisanych temu doświadczeniu i stawki indywidualnej ustalonej przez COBORU: W =P x S;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/pkt_3",
+       "text": "każde doświadczenie ma przypisaną liczbę punktów P wynikającą z jego praco- i materiałochłonności, a każdy punkt stawkę w złotych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/pkt_4",
+       "text": "Dyrektor COBORU może: l/ tworzyć rezerwy na nieprzewidziane zadania w wysokości wynikającej ze zmniejszenia przyznanej stawki nie więcej niż o 8%, 2/ różnicować stawki S w granicach + 25% (S;=S + 25%, gdzie S, - stawka indywidualna) w zależności od sytuacji, na którą składają się między innymi: warunki glebowo-klimatyczne, poziom zmechanizowania prac doświadczalnych, status własnościowy poła doświadczalnego. Tworzenie rezerwy i różnicowanie stawki nie może spowodować przekroczenia łącznej kwoty zatwierdzonej dotacji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/pkt_5",
+       "text": "sposób obliczania punktów - ogólną liczbę punktów P danego doświadczenia stanowi: suma punktów jego pracochłonności P, i punktów materiałochłonności Pp czyli:",
+       "children": [
+        {
+         "type": "text",
+         "text": "P=P,+P,"
+        },
+        {
+         "type": "text",
+         "text": "I. Punktowanie pracochłonności doświadczeń Pracochłonność doświadczenia wyraża się formułą: P,=P,+P f gdzie: P, — oznacza punkty za pracochłonność *techniczną”, P; - oznacza punkty za pracochłonność *fizyczną”. O liczbie punktów obu rodzajów pracochłonności doświadczenia decydują następujące czynniki: N — przeliczeniowa liczba poletek w doświadczeniu, PP — wielkość “brutto” poletka w doświadczeniu,"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 28 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "C — zakres zabiegów polowych, D — zakres badań i obserwacji. Oznaczając liczbę punktów przypisanych poszczególnym czynnikom doświadczenia odpowiednio: Pin, Ppp, Pic, Pw, Pav, Pep, Pic, Psp, możemy liczbę punktów z tytułu pracochłonności “technicznej” doświadczenia P; zapisać wzorem:"
+        },
+        {
+         "type": "text",
+         "text": "P,*P,(Pc* Pw) P,= 10"
+        },
+        {
+         "type": "text",
+         "text": "a liczbę punktów z tytułu pracochłomności *fizycznej” doświadczenia Pę wzorem:"
+        },
+        {
+         "type": "text",
+         "text": "p.-Pa*PlPetP» f 100"
+        },
+        {
+         "type": "text",
+         "text": "Zastosowano następujące metody i kryteria punktowania poszczególnych czynników: N — przeliczeniowa liczba poletek w doświadczeniu Wyraża się wzorem: N=v(r+1) - dla doświadczeń 1-czynnikowych N=v(0,9xb) (r+1) - dla doświadczeń 2-czynnikowych N = v(0,9xb) (0,8xc) r+1) - dla doświadczeń 3-czynnikowych gdzie: v — liczba odmian (pierwszy czynnik), b — liczba wariantów drugiego czynnika, c - liczba wariantów trzeciego czynnika, r — liczba powtórzeń."
+        },
+        {
+         "type": "text",
+         "text": "Liczbę punktów Pin i Pn przypisanych poszczególnym wielkościom N podano w tabeli 1."
+        },
+        {
+         "type": "text",
+         "text": "PP — Wielkość poletka w doświadczeniu Dla danego doświadczenia przyjmuje się obowiązującą aktualnie w metodyce doświadczeń powierzchnię poletka “brutto”. Przypisaną jej liczbę punktów Ppp i Ppp podano w tabeli 1."
+        },
+        {
+         "type": "text",
+         "text": "C — Zakres zabiegów polowych Biorąc pod uwagę wykonywane w doświadczeniu zabiegi związane głównie z: siewem (ręczny, maszynowy, punktowy, rzędowy, ewentualnie przygotowanie rozsady), pielęgnacją (opryski, przerywka, redlenie, nawożenie i inne) oraz zbiorem (maszynowy, ręczny indywidualny, rośliny cienko-, grubołodygowe) podzielono gatunki na 18 grup (w przypadku niektórych gatunków warzyw i roślin ozdobnych o wielokrotnych zbiorach i znacznie większej liczbie zabiegów pielęgnacyjnych wprowadzono wyższe grupy). Zaszeregowanie gatunków do poszczególnych grup podano w tabeli 2, natomiast przypisaną dla każdej grupy liczbę punktów Pic i Pc podano w tabeli 1."
+        },
+        {
+         "type": "note",
+         "text": "[Strona 29 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "D — Zakres badań i obserwacji W obowiązującej metodyce każdego doświadczenia podany jest zestaw badań i obserwacji, które należy wykonać w trakcie wegetacji i zbioru. Stopień utrudnienia przy wykonywaniu każdej obserwacji (badania) z bonitowano trójstopniową skalą punktową: - obserwacje łatwe — 1 punkt (na przykład: daty i oceny niektórych faz rozwojowych, długość okresu wegetacji), - obserwacje średnio trudne — 2 punkty (na przykład: choroby — ocena, wysokość roślin — pomiar, wyleganie — ocena), - obserwacje trudne — 3 punkty (na przykład: niektóre choroby — bonitacja bądź pomiar, większość badań i obserwacji przewidzianych przy zbiorze doświadczenia). Przypisując każdej obserwacji (badaniu) określonego doświadczenia liczbę punktów tej skali otrzymujemy sumę tzw. punktów “małych”, według której doświadczenia skategoryzowano następująco: kategoria: 1 do 30 punktów 10 2 31- 40 punktów 11 3 41- 50 punktów 12"
+        },
+        {
+         "type": "text",
+         "text": "121 — 145 punktów 146— 170 punktów 171 — 200 punktów 4 51- 60 punktów 13 201 — 230 punktów 5 61- 70 punktów 14 231 — 265 punktów 6 71- 80 punktów 15 266 — 300 punktów 7 81- 90 punktów 16 301 — 330 punktów 8 91-100 punktów 17 331 — 365 punktów 9 101 — 120 punktów 18 powyżej 365 punktów Z kolei każdej kategorii doświadczeń przypisano odpowiednią liczbę tak zwanych punktów “dużych” Pip i Pep. Są one podane w tabeli 1. Każde dalsze zwiększenie sumy punktów “małych” dla zespołu badań i obserwacji o 30 powiększa liczbę kategorii o 1, a liczbę punktów “dużych” Pip o 3 oraz Ppo 1. Zaszeregowanie poszczególnych doświadczeń do odpowiednich kategorii podano w tabeli 2."
+        },
+        {
+         "type": "text",
+         "text": "Il. Punktowanie materiałochłonności doświadczeń Na ogólną materiałochłonność doświadczenia składają się koszty materiałowe, energia, paliwa, usługi, podatki i inne."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "Naliczanie punktów materiałochłonności Pm dla doświadczeń z roślinami w gruncie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Pm =Q1 X k,"
+        },
+        {
+         "type": "text",
+         "text": "O _ vxbxexrxPP 1"
+        },
+        {
+         "type": "text",
+         "text": "gdzie:"
+        },
+        {
+         "type": "text",
+         "text": "100"
+        },
+        {
+         "type": "text",
+         "text": "Q; — powierzchnia doświadczenia w arach, k, — empirycznie ustalony współczynnik w wysokości 3,34, v,b,c,r,PP — zdefiniowano w części I."
+        },
+        {
+         "type": "note",
+         "text": "[Strona 30 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "Naliczanie punktów materiałochłonności P„ dla doświadczeń z roślinami pod osłonami:",
+       "children": [
+        {
+         "type": "text",
+         "text": "P m = QO x Mx k",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Q;=vxbxrxPP",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "gdzie: Q> — powierzchnia doświadczenia w m? M — czasokres (w miesiącach) zajmowania przez doświadczenie powierzchni Q» pod osłonami k2 — empirycznie ustalony współczynnik w wysokości 0,5",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Naliczanie punktów materiałochłonności P,, dla badań fizjologicznych odmian zbóż, rzepaku oraz traw:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "P,=vxbxrxka",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "gdzie: k3 — empirycznie ustalony współczynnik w wysokości 0,13.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4. Naliczanie punktów dla badań odrębności, wyrównania i trwałości odmian. Badane gatunki — taksony dzieli się na 7 grup *kosztochłonności”. Ich zaszeregowanie do poszczególnych grup zawiera tabela 3. Pm na 1 poletko w grupach wynosi:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1 - 1.5 punktu 5 - 2 -— 2 punkty 6 — 3 - 2.5 punktu 7 — 4 - 3 punkty"
+        },
+        {
+         "type": "text",
+         "text": "3.5 punktu 5.5 punktu 8 _ punktów"
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_4/ust_5",
+       "text": "Naliczanie punktów dla badań tożsamości i czystości odmianowej wg systemu OECD i krajowego. Badane gatunki -- taksony dzieli się na 3 grupy. Pm dla jednej badanej partii nasion w grupach wynosi: grupal - 1.5 punktu - gatunki grupy 1-3 w tabeli 3 grupa2 - 2.0punkty - gatunki grupy 4-5 w tabeli 3 grupa3 - 2.5 punktu - gatunki grupy 6-7 w tabeli 3",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_4/ust_6",
+       "text": "Pm dla badań wartości siewnej nasion na 1 oznaczenie wynosi: - zdolność kiełkowania - 0,005 punktu przeliczeniowego - masa 1000 nasion - 0,003 punktu przeliczeniowego - pełna analiza nasion buraków cukrowych i pastewnych 0,05 - jednokiełkowość buraków cukrowych i pastewnych 0,02 - ploidalność buraków punktu przeliczeniowego",
+       "children": [
+        {
+         "type": "text",
+         "text": "punktu przeliczeniowego"
+        },
+        {
+         "type": "text",
+         "text": "cukrowych i pastewnych 0,007 punktu przeliczeniowego"
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "par_4/ust_7",
+       "text": "P„ dla badań meteorologicznych wynosi 0,005 punktu za jednostkę obserwacyjną. Jednostką obserwacyjną jest jednostkowy pomiar lub obserwacja zjawiska",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 31 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "meteorologicznego lub jego skutku wykonywany na posterunku meteorologicznym z częstotliwością i w sposób określony w \"Instrukcji do prowadzenia obserwacji meteorologicznych w stacjach doświadczalnych oceny odmian — 1992”."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "8",
+       "path": "par_4/ust_8",
+       "text": "Naliczanie ogólnej liczby punktów P dla doświadczeń sadowniczych wg wzoru:",
+       "children": [
+        {
+         "type": "text",
+         "text": "P=QxSn"
+        },
+        {
+         "type": "text",
+         "text": "Q=vxbxcxrxPP x Sn"
+        },
+        {
+         "type": "text",
+         "text": "gdzie: Q — powierzchnia doświadczenia w m” v, b, c, r, PP — zdefiniowano w części I Sn — empirycznie ustalony współczynnik, który wynosi: - dla doświadczeń z drzewami owocowymi w I-III roku: S; — 0,040 - dla doświadczeń z drzewami owocowymi w IV i dalszych latach: Sz — 0,070 - dla doświadczeń z krzewami jagodowymi w I roku: S3 — 0,035 - dla doświadczeń z krzewami jagodowymi w II roku: S4 — 0,045 - dla doświadczeń z krzewami jagodowymi w III roku: Ss — 0,090 - dla doświadczeń z truskawką w I roku: Sę— 0,035 - dla doświadczeń z truskawką w II i dalszych latach: S7 — 0,065"
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "9",
+       "path": "par_4/ust_9",
+       "text": "Pm dla badań chemiczno-technologicznych w Centralnym Laboratorium Oceny Odmian ustalono na jedną analizę i wynosi:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Liczba punktów Nazwa analizy przeliczeniowych na | ee ee ee"
+        },
+        {
+         "type": "text",
+         "text": "Azot ogólny Białko właściwe Tłuszcze Włókno Strawność Solanina Cukry Morfina Nikotyna Alkaloidy Tanina Kapsaicyna Saponiny Popiół Rozgotowywanie nasion Olejki eteryczne Liczba opadania Gęstość ziarna Szklistość ziarna Próbny przemiał Barwa mąki"
+        },
+        {
+         "type": "text",
+         "text": "Om INO Pp > NM"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 32 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Popiołowość mąki Wskaźnik sedymentacji Farinogram Ekstensogram Próbny wypiek Amylogram Celność ziarna Energia kiełkowania Słodowanie Liczba Kolbacha Ekstraktywność Barwa brzeczki Siła diastyczna Lepkość brzeczki Stopień ostatecznego odfermentowania Analiza technologiczna Inu Analiza technologiczna chmielu Elektroforeza: zbóż, kukurydzy, traw Analiza jakościowa buraka Wartość przetwórcza ziemniaka Witamina C B-karoten Kwasowość ogólna Cukry w warzywach Azotany Betanina Gluten Glukozynolany - metodą HPLC Udział kwasów tłuszczowych Glukozydy cyjanogenne Alkaloidy w trawach Sucha masa w warzywach"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 33 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "ocr",
+         "text": "PUNKTOWANIE POSZCZEGÓLNYCH CZYNNIKÓW PRACOCHŁONNOŚCI"
+        },
+        {
+         "type": "ocr",
+         "text": "N-przeliczeniowa liczba poletek przypisana liczba punktów"
+        },
+        {
+         "type": "ocr",
+         "text": "liczba"
+        },
+        {
+         "type": "ocr",
+         "text": "-20 21-35 36-50 51-65 66-80 81-95 96-110 111-125 126-140 141-155 156-170 171-185 186-200 201-215 216-230 231-245 246-260 261-300 301-340 341-380 381-420 żej 420"
+        },
+        {
+         "type": "ocr",
+         "text": "PP-wielkość poletka"
+        },
+        {
+         "type": "ocr",
+         "text": "do 10 11-25 powyżej 25"
+        },
+        {
+         "type": "ocr",
+         "text": "przypisana liczba punktów"
+        },
+        {
+         "type": "ocr",
+         "text": "C-zabiegi polowe grupa gatunków (© 0 JO MUR > M —"
+        },
+        {
+         "type": "ocr",
+         "text": "przypisana liczba punktów"
+        },
+        {
+         "type": "ocr",
+         "text": "Tabela 1"
+        },
+        {
+         "type": "ocr",
+         "text": "D-badania i obserwacje kategoria doświadczeń OG JG A WW tO —"
+        },
+        {
+         "type": "ocr",
+         "text": "przypisana liczba punktów"
+        },
+        {
+         "type": "ocr",
+         "text": "GE JN MEJSf] AluueIzq"
+        },
+        {
+         "type": "ocr",
+         "text": "GCCC"
+        },
+        {
+         "type": "ocr",
+         "text": "LOv “20d"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 34 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "GRUPY (C - ZABIEGI POLOWE) I KATEGORIE (D — BADANIA I OBSERWACJE), DO KTÓRYCH ZASZEREGOWANO POSZCZEGÓLNE DOŚWIADCZENIA"
+        },
+        {
+         "type": "text",
+         "text": "Grupy roślin, Gatunek/doświadczenie S — Rozmnożenie rodów zbóż Gatunki zimujące S — zimotrwałość (skrzynia, nasyp) S — pleśń śniegowa — pole S — pleśń śniegowa — chłodnia S — mrozoodporność (chłodnia) Zboża ozime P, R, A — podstawowe Z — porejestrowe proste P, R — technologia na jakość S — ocena postępu genetycznego S — herbicydy S — monokultura K — porejestrowe czynnikowe C — podstawowe czynnikowe Zboża jare P, R, A — podstawowe Z — porejestrowe proste P, R — technologia na jakość S — technologia uprawy S — niskie pH S — reakcja na suszę S — gęstość siewu S — porastanie S — zamieszanie nasion S — górskie K — porejestrowe czynnikowe C — podstawowe czynnikowe Kukurydza P, R - w uprawie na ziarno Z - porejestrowe proste w uprawie na ziarno P, R - w uprawie na kiszonkę Z — porejestrowe proste w uprawie na kiszonkę C — podstawowe czynnikowe Burak cukrowy P, R — podstawowe Z — porejestrowe proste S — pośpiechy K — porejestrowe czynnikowe Burak pastewny P, R — podstawowe S — pośpiechy Ziemniak P, R — bardzo wczesne Z — bardzo wczesne porejestrowe proste P, R — wczesne Z — wczesne porejestrowe proste P, R—średniowczesne Z — średniowczesne porejestrowe proste P, R — średniopóźne Z — średniopóźne porejestrowe proste"
+        },
+        {
+         "type": "text",
+         "text": "Re ww BW Wh hd & 0 to WW AR ENR EN WN WY"
+        },
+        {
+         "type": "text",
+         "text": "NN BN BwWANUNAA A A WN Oe eK WR M (W 0 0 0"
+        },
+        {
+         "type": "text",
+         "text": "u wu"
+        },
+        {
+         "type": "text",
+         "text": "u wu"
+        },
+        {
+         "type": "text",
+         "text": "tn"
+        },
+        {
+         "type": "text",
+         "text": "Tabela 2 Grupy roślin, Gatunek/doświadczenie S — degeneracyjne - średniowczesne S — degeneracyjne - późne S — długość okresu wegetacji — bardzo wczesne S — długość okresu wegetacji - wczesne S — długość okresu wegetacji - średnio wczesne S — długość okresu wegetacji - późne S — mechaniczne uszkodzenia S — ocena konsumpcyjna S — górskie S — porażenie zarazą ziemniaka S - odporność na wirusy, grzyby, bakterie — pole S - trwałość przechowywania - laboratorium S - odporność na wirusy, PSTV — laboratorium S - odporność na grzyby, bakterie — laboratorium S - frytki i chipsy — laboratorium S - rozmnożenie rodów ziemniaka Z — rozmnożenie rodów ziemniaka do doświadczeń porejestrowych S - rozmnożenie rodów ziemniaka w źródłach infekcji Rzepak ozimy, rzepik P, R — podstawowe Z - porejestrowe proste P - podstawowe z poszerzonym zakresem badań S — mrozoodporność — pole S - choroby grzybowe — pole K — porejestrowe czynnikowe C — podstawowe czynnikowe Rzepak jary, rzepik P, R, A — podstawowe Gorczyca biała, sarepska P, R— podstawowe Len włóknisty, oleisty P, R — podstawowe S - Fusarium — pole Konopie P, R — podstawowe Mak P, R — podstawowe Rzodkiew oleista P, R — podstawowe Słonecznik P, R — proste Tytoń P, R, A — Virginia P, R, A—Burley P, R, A — Kentuck"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 35 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "P, R— późne Z — późne porejestrowe proste S — degeneracyjne - bardzo wczesne S — degeneracyjne — wczesne Chmiel R — podstawowe — I rok R — następne lata Facelia błękitna R — podstawowe Kapusta pastewna R — podstawowe Kminek zwyczajny R — podstawowe Bobik P, R — podstawowe — nasiona Groch siewny P, R- gleby dobre — nasiona Z - porejestrowe proste — gleby dobre na nasiona P, R - gleby lżejsze — nasiona Z - porejestrowe proste — gleby lżejsze na nasiona"
+        },
+        {
+         "type": "text",
+         "text": "P, R, A — podstawowe — na zielonkę K — porejestrowe czynnikowe C — podstawowe czynnikowe Łubin wąskolistny P, R, A - podstawowe na nasiona P — podstawowe na zielonkę Łubin żółty, biały P, R, A — podstawowe na nasiona P — podstawowe na zielonkę Soja P, R, A — podstawowe na nasiona Strączkowe S — choroby fuzaryjne — pole S — wczesny zbiór zielonki Wyka kosmata, siewna P, R, A — podstawowe na nasiona P — podstawowe na zielonkę Koniczyna łąkowa (czerwona), szwedzka, perska, krwistoczerwona P, A - polowe — I rok P, A - następne lata bez wysyłki prób P, A - następne lata z wysyłką prób P, A - łąkowe — I rok P, A - następne lata bez wysyłki prób P, A - następne lata z wysyłką prób P, A — na nasiona I rok i następne P, A — górskie — I rok P, A - następne lata bez wysyłki prób P, A - następne lata z wysyłką prób Koniczyna biała P, A - łąkowe — I rok P, A - następne lata bez pobierania prób P, A — następne lata z pobieraniem prób P, A - pastwiskowe — I rok P, A - następne lata bez pobierania prób P, A - następne lata z pobieraniem prób"
+        },
+        {
+         "type": "text",
+         "text": "- Mocny Skroniowski — Puławski — Cygarowy"
+        },
+        {
+         "type": "text",
+         "text": "P, A - polowe — I rok P, A — następne lata bez pobierania prób P, A - następne lata z pobieraniem prób P, A - łąkowe — I rok P, A - następne lata bez pobierania prób P, A - następne lata z pobieraniem prób P, A - pastwiskowe — I rok P, A — następne lata bez pobierania prób P, A — następne lata z pobieraniem prób P, A - trawnikowe — I rok P, A — następne lata P, A — dynamika plonowania — I rok P, A — następne lata P, A — eksploatacja sportowa — I rok P — następne lata S — Fusarium, pleśń śniegowa traw I rok S — Fusarium pleśń śniegowa traw - następne lata S — hala wegetacyjna Pieczarka P, A - podstawowe Cebula P, A - podstawowe, z dymki S — przechowywanie — pole S — przechowywanie — przechowalnia Por P, A - podstawowe Ogórek P, A - konserwowy, korniszon, sałatkowy P, A - kwaszeniak S — kwaszenie ogórka Kalafior P, A - podstawowe Kapusta głowiasta biała P, A - wczesna, średnio wczesna P, A - średnio późna, późna S — kwaszenie kapusty S — przechowywanie - pole $ — przechowywanie - przechowalnia Burak ćwikłowy P, A - podstawowe S — przechowywanie - pole 5 - przechowywanie - przechowalnia Marchew P, A - podstawowe S — przechowywanie - pole S — przechowywanie - przechowalnia Seler P, A - podstawowe S — przechowywanie — pole S — przechowywanie — przechowalnia Pomidor P, A - podstawowe P - wysoki S - sztywnołodygowy W - wiotkołodygowy S — uprawa na wełnie Fasola P, A — podstawowe 1 - na suche nasiona"
+        },
+        {
+         "type": "text",
+         "text": "OOO UMUMOMUG — —"
+        },
+        {
+         "type": "text",
+         "text": "BUNSĘ Nw W"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 36 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "S — na glebach organicznych S — następne lata bez pobierania prób S - następne lata z pobieraniem prób S — na nasiona Lucerna, esparceta, komonica zwyczajna P, A - podstawowe — pole I rok P, A - następne lata bez pobierania prób P, A - następne lata z pobieraniem prób"
+        },
+        {
+         "type": "text",
+         "text": "3 - szparagowa zielonostrąkowa 4 - szparagowa żółtostrąkowa S — testy odpornościowe P, A - tyczna Groch P, A — podstawowe Odporność na patogeny - laboratorium S — rzepak, łubin, fasola bobik, inne"
+        },
+        {
+         "type": "text",
+         "text": "Kody rodzajów doświadczeń"
+        },
+        {
+         "type": "text",
+         "text": "Symbol Rodzaj doświadczenia/badania"
+        },
+        {
+         "type": "text",
+         "text": "doświadczenie podstawowe proste z pełnym doborem odmian zarejestrowanych doświadczenie podstawowe proste z pełnym doborem odmian zgłoszonych do zarejestrowania doświadczenie podstawowe proste z ograniczonym doborem odmian zarejestrowanych i pełnym doborem odmian zgłoszonych do rejestru doświadczenie podstawowe o różnych poziomach agrotechnicznych z pełnym doborem odmian zgłoszonych do rejestru doświadczenie specjalne doświadczenie porejestrowe proste doświadczenie porejestrowe o różnych poziomach agrotechnicznych"
+        },
+        {
+         "type": "text",
+         "text": "O > m\""
+        },
+        {
+         "type": "text",
+         "text": "ANY"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 37 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "ocr",
+         "text": "BADANIE ODRĘBNOŚCI, WYRÓWNANIA I TRWAŁOŚCI - GRUPY KOSZTOCHŁONNOŚCI GATUNKÓW Tabela 3"
+        },
+        {
+         "type": "ocr",
+         "text": "Gatunek - Takson"
+        },
+        {
+         "type": "ocr",
+         "text": "1. Gryka 7. Dziurawiec 13. Ostropest 19. Siwiec żółty 25. Jaśminowiec — rok I"
+        },
+        {
+         "type": "ocr",
+         "text": "2. Proso 8. Glistnik 14. Szałwia 20. Rzodkiewka polowa 26. Krzewuszka — rok I"
+        },
+        {
+         "type": "ocr",
+         "text": "3. Konopie 9, Kminek 15. Tymianek 21. Kosaciec bylinowy — rok I 27. Wrzosiec — 1, 3 rok"
+        },
+        {
+         "type": "ocr",
+         "text": "4. Facelia błękitna 10. Kolendra 16. Mięta pieprzowa 22. Piwonia — rok 1 28. Pięciornik — I rok"
+        },
+        {
+         "type": "ocr",
+         "text": "5. Bieluń 11. Malwa 17. Pokrzyk wilcza jagoda 23. Lilak — rok | 29. Drzewa i krzewy ozdobne — I rok"
+        },
+        {
+         "type": "ocr",
+         "text": "6. Cząber . Naparstnica 18. Rzewień chiński 24. Forsycja — rok 1"
+        },
+        {
+         "type": "ocr",
+         "text": "1. Soja . Majeranek 16. Róża gruntowa- wiosna 21. Jaśminowiec — rok 2 i 4 . Truskawka — I rok"
+        },
+        {
+         "type": "ocr",
+         "text": "2. Gorczyca biała 10. Rumianek -rok2i3 22. Krzewuszka — rok 2 i 4 28. Szarłat"
+        },
+        {
+         "type": "ocr",
+         "text": "3. Gorczyca sarepska 11. Dynia olbrzymia (Thea Hybrida, Floribunda) 23. Róża szklarniowa i gruntowa 29. Pięciornik — 2, 4 rok"
+        },
+        {
+         "type": "ocr",
+         "text": "4. Len oleisty 12. Dynia zwyczajna 17. Róża gruntowa — jesień - rok 1 i 3 (wiosna i jesień) - rok 3 30. Lubczyk ."
+        },
+        {
+         "type": "ocr",
+         "text": "5. Len włóknisty 13. Szpinak (Thea Hybrida, Floribunda) kolekcja | 31. Drzewa i krzewy ozdobne — rok"
+        },
+        {
+         "type": "ocr",
+         "text": "6. Rzodkiew oleista 14, Szczaw 18. Róża gruntowa (pnące) — rok 1 i 2 24. Alstremeria bylinowa - 2 rok 2, 4 i następne 7, Seradela 15, Lilia - mieszańce azjatyckie _ 19. Lilak — rok 214 25. Koper ogrodowy"
+        },
+        {
+         "type": "ocr",
+         "text": "8. Kozłek -rok 1i3 20. Forsycja — rok 2 i 4 26. Koper włoski"
+        },
+        {
+         "type": "ocr",
+         "text": "1. Ziemniak . Sałata łodygowa, rzymska 24. Szparag 36. Piwonia — rok 2 i3 46. Róża gruntowa (pnące) — rok 3"
+        },
+        {
+         "type": "ocr",
+         "text": "2. Burak cukrowy 14. Sałata polowa 25. Kawon 37, Lilak — rok 3 47, Narcyz — kolekcja wzorców"
+        },
+        {
+         "type": "ocr",
+         "text": "3. Burak pastewny 15. Sałata głowiasta 26. Lewkonia wielopędowa 38. Forsycja — rok 3 48. Tulipan — kolekcja wzorców"
+        },
+        {
+         "type": "ocr",
+         "text": "4. Cykoria korzeniowa 16. Sałata liściowa 27. Godecja 39. Jaśminowiec — rok 3 49. Mieczyk - kolekcja wzorców"
+        },
+        {
+         "type": "ocr",
+         "text": "5. Rzepa pastewna 17. Sałata foliowa 28. Lobularia 40, Krzewuszka — rok 3 50. Pelargonia bluszczolistna"
+        },
+        {
+         "type": "ocr",
+         "text": "6. Brukiew pastewna 18. Rzodkiewka pod osłonami 29. Nachyłek 41. Alstremeria bylinowa - | rok - kolekcja"
+        },
+        {
+         "type": "ocr",
+         "text": "7. Życica wielokwiatowa wiosenna 30. Krokus 42. Róża szklarniowa wiosna 51. Anturium - kolekcja westerwoldzka 19. Rzodkiew 31. Nagietek — rok 2 52. Krzewy — I rok"
+        },
+        {
+         "type": "ocr",
+         "text": "8. Kapusta pastewna. 20. Brukiew jadalna 32. Eszolcja kalifornijska 43, Róża szklarniowa jesień rok 1 53. Topinambur 9, Mak 21. Kukurydza cukrowa 33. Alstremeria bylinowa — rok 2 44. Róża gruntowa (Thea Hybrida, _ 54, Pieciornik — 3 rok"
+        },
+        {
+         "type": "ocr",
+         "text": "10. Słonecznik 22. Kukurydza pękająca 34. Lilia — mieszańce azjatyckie — rok 2 Floribunda) wiosna - rok I 55. Wrzosiec — 2 rok"
+        },
+        {
+         "type": "ocr",
+         "text": "11. Melon 23. Rabarbar 35. Kosaciec bylinowy — rok 213 45. Róża gruntowa (Thea Hybrida, _ 56. Drzewa i krzewy ozdobne — rok 3 . Rzepak ja Floribunda) jesień - rok 2"
+        },
+        {
+         "type": "ocr",
+         "text": "1. Żyto ozime i jare 21. Komonica zwyczajna 41. Stokłosa 62. Brokuł 81. Wyżlin większy"
+        },
+        {
+         "type": "ocr",
+         "text": "2. Pszenica jara 22. Esparceta 42, Wyczyniec łąkowy 63. Jarmuż 82. Niecierpek"
+        },
+        {
+         "type": "ocr",
+         "text": "3. Jęczmień jary 23. Kostrzewa łąkowa 43, Inne trawy 64. Chrzan 83. Pelargonia rabatowa — mnożona"
+        },
+        {
+         "type": "ocr",
+         "text": "4. Pszenżyto jare 24. Kostrzewa trzcinowa 44, Rzepak ozimy 65. Skorzonera generatywnie"
+        },
+        {
+         "type": "ocr",
+         "text": "5. Owies 25. Kostrzewa czerwona 45. Rzepik ozimy 66. Stokrotka pospolita 84. Pelargonia rabatowa — mnożona"
+        },
+        {
+         "type": "ocr",
+         "text": "6. Groch 26. Kostrzewa owcza 46. Chmiel 67. Narcyz — doświadczenie wegetatywnie"
+        },
+        {
+         "type": "ocr",
+         "text": "7. Bobik 27. Kostrzewa różnolistna 47. Cebula 68. Tulipan — doświadczenie 85, Begonia ozdobna z kwiatów"
+        },
+        {
+         "type": "ocr",
+         "text": "8. Łubin żółty 28. Kupkówka pospolita 48, Czosnek 69. Aksamitka rozpierzchła 86. Begonia ozdobna z liści"
+        },
+        {
+         "type": "ocr",
+         "text": "9. Łubin wąskolistny 29. Tymotka łąkowa 49, Por 70. Aksamitka wyniosła 87. Cynia"
+        },
+        {
+         "type": "ocr",
+         "text": "10. Łubin biały 30. Wiechlina łąkowa 50. Marchew jadalna 71. Begonia stale kwitnąca — 88. Goździk chiński"
+        },
+        {
+         "type": "ocr",
+         "text": "11. Wyka siewna 31. Wiechlina błotna 51. Burak ćwikłowy pierwotne składniki mieszańca _ 89. Groszek pachnący"
+        },
+        {
+         "type": "ocr",
+         "text": "12. Wyka kosmata 32. Życica trwała 52. Pietruszka korzeniowa i naciowa 72. Aster 90. Lobelia"
+        },
+        {
+         "type": "ocr",
+         "text": "13. Koniczyna łąkowa 33. Życica wielokwiatowa 53. Sałata szklarniowa wiosenna 73. Koleus 91. Złocień maruna -(czerwona) 34. Zycica mieszańcowa 54, Sałata szklarniowa zimowa 74. Szałwia błyszcząca 92. Goździk brodaty"
+        },
+        {
+         "type": "ocr",
+         "text": "GE JN MEJSf] AluueIzq"
+        },
+        {
+         "type": "ocr",
+         "text": "[1444"
+        },
+        {
+         "type": "ocr",
+         "text": "LOv z0d"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 38 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "ocr",
+         "text": "14. Koniczyna biała"
+        },
+        {
+         "type": "ocr",
+         "text": "3 punkty I poletko"
+        },
+        {
+         "type": "ocr",
+         "text": "17. Lucerna siewna"
+        },
+        {
+         "type": "ocr",
+         "text": "18. Lucerna chmielowa"
+        },
+        {
+         "type": "ocr",
+         "text": "20. Rutwica wschodnia"
+        },
+        {
+         "type": "ocr",
+         "text": "Uwa"
+        },
+        {
+         "type": "ocr",
+         "text": "1. Pszenica ozima"
+        },
+        {
+         "type": "ocr",
+         "text": "2. Pszenżyto ozime"
+        },
+        {
+         "type": "ocr",
+         "text": "3. Jęczmień ozimy"
+        },
+        {
+         "type": "ocr",
+         "text": "4. Kukurydza"
+        },
+        {
+         "type": "ocr",
+         "text": "5. Koniczyna łąkowa (czerwona)"
+        },
+        {
+         "type": "ocr",
+         "text": "6. Koniczyna biała"
+        },
+        {
+         "type": "ocr",
+         "text": "9, Koniczyna perska"
+        },
+        {
+         "type": "ocr",
+         "text": "11. Lucerna siewna"
+        },
+        {
+         "type": "ocr",
+         "text": "12. Lucerna chmielowa"
+        },
+        {
+         "type": "ocr",
+         "text": "Uwaga:"
+        },
+        {
+         "type": "ocr",
+         "text": "1. Pomidor foliowy"
+        },
+        {
+         "type": "ocr",
+         "text": "2. Papryka foliowa"
+        },
+        {
+         "type": "ocr",
+         "text": "3. Kalafior wiosenny"
+        },
+        {
+         "type": "ocr",
+         "text": "4. Kalafior jesienny"
+        },
+        {
+         "type": "ocr",
+         "text": "5. Kapusta"
+        },
+        {
+         "type": "ocr",
+         "text": "2. Papryka szklarniowa punktów 3. Ogórek szklarniowy"
+        },
+        {
+         "type": "ocr",
+         "text": "15. Koniczyna krwisto czerwona"
+        },
+        {
+         "type": "ocr",
+         "text": "16. Lucerna mieszańcowa"
+        },
+        {
+         "type": "ocr",
+         "text": "19. Koniczyna szwedzka"
+        },
+        {
+         "type": "ocr",
+         "text": "a: gatunki wieloletnie — kontynuacja badań"
+        },
+        {
+         "type": "ocr",
+         "text": "7. Koniczyna szwedzka"
+        },
+        {
+         "type": "ocr",
+         "text": "8. Koniczyna krwisto czerwona"
+        },
+        {
+         "type": "ocr",
+         "text": "10. Lucerna mieszańcowa"
+        },
+        {
+         "type": "ocr",
+         "text": "gatunki wieloletnie w roku założenia"
+        },
+        {
+         "type": "ocr",
+         "text": "6. Kapusta głowiasta czerwona"
+        },
+        {
+         "type": "ocr",
+         "text": "łowiasta biała"
+        },
+        {
+         "type": "ocr",
+         "text": "1. Pomidor szklarniowy"
+        },
+        {
+         "type": "ocr",
+         "text": "35. Mietlica biaława"
+        },
+        {
+         "type": "ocr",
+         "text": "36. Mietlica pospolita"
+        },
+        {
+         "type": "ocr",
+         "text": "37. Mietlica psia"
+        },
+        {
+         "type": "ocr",
+         "text": "38. Mozga kanaryjska 39, Mozga trzcinowata"
+        },
+        {
+         "type": "ocr",
+         "text": "40. Rajgras wyniosły"
+        },
+        {
+         "type": "ocr",
+         "text": "13. Komonica zwyczajna"
+        },
+        {
+         "type": "ocr",
+         "text": "14. Rutwica wschodnia 15, Esparceta"
+        },
+        {
+         "type": "ocr",
+         "text": "16. Nostrzyk biały"
+        },
+        {
+         "type": "ocr",
+         "text": "17. Kostrzewa łąkowa"
+        },
+        {
+         "type": "ocr",
+         "text": "18. Kostrzewa trzcinowa 19, Kostrzewa czerwona"
+        },
+        {
+         "type": "ocr",
+         "text": "20. Kostrzewa owcza"
+        },
+        {
+         "type": "ocr",
+         "text": "21. Kostrzewa różnolistna"
+        },
+        {
+         "type": "ocr",
+         "text": "22. Kupkówka"
+        },
+        {
+         "type": "ocr",
+         "text": "23. Tymotka"
+        },
+        {
+         "type": "ocr",
+         "text": "24. Wiechlina łąkowa"
+        },
+        {
+         "type": "ocr",
+         "text": "25. Wiechlina błotna"
+        },
+        {
+         "type": "ocr",
+         "text": "7. Kapusta włoska"
+        },
+        {
+         "type": "ocr",
+         "text": "8. Kapusta brukselska"
+        },
+        {
+         "type": "ocr",
+         "text": "9. Lewkonia jednoroczna"
+        },
+        {
+         "type": "ocr",
+         "text": "10. Gerbera — 2 rok"
+        },
+        {
+         "type": "ocr",
+         "text": "4. Goździk — 2 rok"
+        },
+        {
+         "type": "ocr",
+         "text": "5. Zwartnica"
+        },
+        {
+         "type": "ocr",
+         "text": "6. Syningia ogrodowa"
+        },
+        {
+         "type": "ocr",
+         "text": "55. Groch siewny cukrowy i łuskowy"
+        },
+        {
+         "type": "ocr",
+         "text": "56. Fasola zwykła, tyczna"
+        },
+        {
+         "type": "ocr",
+         "text": "57. Fasola wielokwiatowa"
+        },
+        {
+         "type": "ocr",
+         "text": "58. Bób 59, Marchew pastewna"
+        },
+        {
+         "type": "ocr",
+         "text": "60. Pasternak"
+        },
+        {
+         "type": "ocr",
+         "text": "61. Szczypiorek"
+        },
+        {
+         "type": "ocr",
+         "text": "26. Życica trwała"
+        },
+        {
+         "type": "ocr",
+         "text": "27. Życica wielokwiatowa"
+        },
+        {
+         "type": "ocr",
+         "text": "28. Życica mieszańcowa"
+        },
+        {
+         "type": "ocr",
+         "text": "29. Mietlica biaława"
+        },
+        {
+         "type": "ocr",
+         "text": "30. Mietlica pospolita rozłogowa"
+        },
+        {
+         "type": "ocr",
+         "text": "31. Mietlica psia"
+        },
+        {
+         "type": "ocr",
+         "text": "32. Mozga kanaryjska"
+        },
+        {
+         "type": "ocr",
+         "text": "33. Mozga trzcinowata"
+        },
+        {
+         "type": "ocr",
+         "text": "34. Rajgras wyniosły"
+        },
+        {
+         "type": "ocr",
+         "text": "35. Stokłosa bezostna"
+        },
+        {
+         "type": "ocr",
+         "text": "36. Stokłosa uniolowata"
+        },
+        {
+         "type": "ocr",
+         "text": "37. Wyczyniec łąkowy"
+        },
+        {
+         "type": "ocr",
+         "text": "38. Inne trawy"
+        },
+        {
+         "type": "ocr",
+         "text": "39. Tytoń"
+        },
+        {
+         "type": "ocr",
+         "text": "12. Ogórek foliowy"
+        },
+        {
+         "type": "ocr",
+         "text": "13. Miechunka"
+        },
+        {
+         "type": "ocr",
+         "text": "14. Pomidor polowy"
+        },
+        {
+         "type": "ocr",
+         "text": "15. Papryka polowa"
+        },
+        {
+         "type": "ocr",
+         "text": "7. Begonia szklarniowa"
+        },
+        {
+         "type": "ocr",
+         "text": "8. Frezja"
+        },
+        {
+         "type": "ocr",
+         "text": "9. Kalanchoe"
+        },
+        {
+         "type": "ocr",
+         "text": "11. Chryzantema wielkokwiatowa"
+        },
+        {
+         "type": "ocr",
+         "text": "75. Werbena"
+        },
+        {
+         "type": "ocr",
+         "text": "76. Bratek ogrodowy"
+        },
+        {
+         "type": "ocr",
+         "text": "77. Niezapominajka"
+        },
+        {
+         "type": "ocr",
+         "text": "78. Dalia"
+        },
+        {
+         "type": "ocr",
+         "text": "79. Pelargonia rabatowa — Pierwotne Składniki Mieszańca"
+        },
+        {
+         "type": "ocr",
+         "text": "80. Pelargonia bluszczolistna pojedyncza"
+        },
+        {
+         "type": "ocr",
+         "text": "40. Machorka"
+        },
+        {
+         "type": "ocr",
+         "text": "41. Pieprzowiec"
+        },
+        {
+         "type": "ocr",
+         "text": "42. Ogórek polowy"
+        },
+        {
+         "type": "ocr",
+         "text": "43. Kalarepa 44, Seler korzeniowy i naciowy"
+        },
+        {
+         "type": "ocr",
+         "text": "45. Petunia"
+        },
+        {
+         "type": "ocr",
+         "text": "46. Żeniszek meksykański"
+        },
+        {
+         "type": "ocr",
+         "text": "47. Cykoria liściowa"
+        },
+        {
+         "type": "ocr",
+         "text": "48. Oberżyna 49, Lilia pod osłonami"
+        },
+        {
+         "type": "ocr",
+         "text": "50. Cyklamen — 1, 2 rok"
+        },
+        {
+         "type": "ocr",
+         "text": "51. Begonia stale kwitnąca rabatowa"
+        },
+        {
+         "type": "ocr",
+         "text": "52. Kocanki ogrodowe"
+        },
+        {
+         "type": "ocr",
+         "text": "16. Goździk — 1 rok"
+        },
+        {
+         "type": "ocr",
+         "text": "17. Drzewa owocowe - 4 rok i dalsze"
+        },
+        {
+         "type": "ocr",
+         "text": "18. Krzewy - 3 rok i dalsze 19, Wilezomlecz"
+        },
+        {
+         "type": "ocr",
+         "text": "10. Pierwiosnek"
+        },
+        {
+         "type": "ocr",
+         "text": "11. Starzec"
+        },
+        {
+         "type": "ocr",
+         "text": "12. Pantofelnik"
+        },
+        {
+         "type": "ocr",
+         "text": "93. Prawoślaz 94, Złocień bylinowy"
+        },
+        {
+         "type": "ocr",
+         "text": "95. Anturium cięte — 2 rok"
+        },
+        {
+         "type": "ocr",
+         "text": "96. Soczewica jadalna"
+        },
+        {
+         "type": "ocr",
+         "text": "97. Lędźwian siewny"
+        },
+        {
+         "type": "ocr",
+         "text": "98. Alstremeria cięta — 2 rok"
+        },
+        {
+         "type": "ocr",
+         "text": "53. Begonia bulwiasta"
+        },
+        {
+         "type": "ocr",
+         "text": "54. Mieczyk — doświadczenie"
+        },
+        {
+         "type": "ocr",
+         "text": "55. Hiacynt"
+        },
+        {
+         "type": "ocr",
+         "text": "56. Kosaciec ogrodowy"
+        },
+        {
+         "type": "ocr",
+         "text": "57. Anturium cięte — 1 rok"
+        },
+        {
+         "type": "ocr",
+         "text": "58. Róża szklarniowa wiosna — rok I"
+        },
+        {
+         "type": "ocr",
+         "text": "59. Róża szklarniowa jesień — rok 2"
+        },
+        {
+         "type": "ocr",
+         "text": "60. Róża doniczkowa I roczna"
+        },
+        {
+         "type": "ocr",
+         "text": "61. Gerbera — | rok"
+        },
+        {
+         "type": "ocr",
+         "text": "62. Drzewa owocowe — 1-3 rok"
+        },
+        {
+         "type": "ocr",
+         "text": "63. Krzewy — 2 rok"
+        },
+        {
+         "type": "ocr",
+         "text": "64. Truskawka - rok 2 i dalsze"
+        },
+        {
+         "type": "ocr",
+         "text": "65. Niecierpek szklarniowy"
+        },
+        {
+         "type": "ocr",
+         "text": "66. Wiesiołek"
+        },
+        {
+         "type": "ocr",
+         "text": "20. Kapusta pekińska"
+        },
+        {
+         "type": "ocr",
+         "text": "21. Kapusta chińska"
+        },
+        {
+         "type": "ocr",
+         "text": "22. Wyzlin — tunelowy 23, Alstremeria cięta — | rok"
+        },
+        {
+         "type": "ocr",
+         "text": "13. Skrętnik ogrodowy"
+        },
+        {
+         "type": "ocr",
+         "text": "14. Pieczarka"
+        },
+        {
+         "type": "ocr",
+         "text": "15. Anturium doniczkowe"
+        },
+        {
+         "type": "ocr",
+         "text": "16. Oberżyna"
+        },
+        {
+         "type": "ocr",
+         "text": "GE JN MEJSf] AluueIzq"
+        },
+        {
+         "type": "ocr",
+         "text": "0ecc"
+        },
+        {
+         "type": "ocr",
+         "text": "LOv z0d"
+        }
+       ]
+      }
+     ]
     }
    ]
   },
@@ -5308,295 +5590,382 @@
     },
     {
      "type": "note",
-     "text": "[Strona 40 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Za każdy zarodek bydlęcy odpowiadający wymaganiom hodowlanym i skutecznie przeniesiony do dróg rodnych biorczyni"
-    },
-    {
-     "type": "ocr",
-     "text": "Za buhaja urodzonego w kraju i po raz pierwszy dopuszczonego do użycia w inseminacji po przeprowadzonej ocenie wartości hodowlanej"
-    },
-    {
-     "type": "ocr",
-     "text": "Za pobranie krwi i wykonanie testu celem sprawdzenia pochodzenia krowy pierwiastki, cieliczki i buhajka wykorzystywanych do oceny buhajów na podstawie ich potomstwa oraz pochodzących ze stad bydła rasy polskiej czerwonej objętych ochroną zasobów genetycznych, a także buhajków ras mięsnych zakwalifikowanych do hodowli"
-    },
-    {
-     "type": "ocr",
-     "text": "Za loszkę remontową czystorasową, z: wyjątkiem ras: złotnickiej białej, złotnickiej pstrej i puławskiej, spełniającą wymagania wpisu do ksiąg zwierząt hodowlanych lub linii 990 w stadzie objętym oceną użytkowości, pochodzącą z zakupu lub odchowu własnego; dotacja przysługuje za lochy pierwiastki:"
-    },
-    {
-     "type": "ocr",
-     "text": "1) których liczba nie przekracza 30% stanu loch na dzień 1 stycznia, wyrażona liczbą całkowitą, oraz których pierwsze mioty zostały ocenione w danym roku"
-    },
-    {
-     "type": "ocr",
-     "text": "2) które uzyskały indeks oceny przyżyciowej na poziomie 1 klasy zakwalifikowane do hodowli"
-    },
-    {
-     "type": "ocr",
-     "text": "3) po odchowaniu do 21 dnia życia co najmniej 7 prosiąt przez lochę rasy wielkiej białej polskiej, polskiej białej zwisłouchej, lub 5 prosiąt przez lochę rasy duroc, hampshire, pietrain, belgijskiej zwistouchej i linii 990"
-    },
-    {
-     "type": "ocr",
-     "text": "Za lochę rasy czystej spełniającą wymagania wpisu do księgi zwierząt hodowlanych lub linii 990, której kojarzenie zostało pozytywnie ocenione w danym roku w stacji kontroli użytkowości rzeźnej trzody chlewnej"
-    },
-    {
-     "type": "ocr",
-     "text": "Za uzyskane wyniki hodowlane przysługuje dotacja do lochy stada podstawowego:"
-    },
-    {
-     "type": "ocr",
-     "text": "1) wstadach produkujących knury i loszki"
-    },
-    {
-     "type": "ocr",
-     "text": "2) w stadach produkujących wyłącznie loszki"
-    },
-    {
-     "type": "ocr",
-     "text": "Za samicę stada podstawowego nutrii odmian: standardowa, stalowosrebrzysta, grenlandzka, biała niealbinotyczna, bursztynowozłocista, szafirowa, pastelowa, czarna dominująca, sobolowa i perłowa, Która uzyskała:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) nie poniej niż 28 punktów licencyjnych i urodziła się do dnia 31 marca r."
-    },
-    {
-     "type": "ocr",
-     "text": "b) nie mniej niż 18 punktów licencyjnych, urodziła się po dniu 31 marca 1997r. i nie została zdyskwalifikowana jako zwierzę hodowlane"
-    },
-    {
-     "type": "ocr",
-     "text": "Za samicę stada podstawowego królików ras: belgijski olbrzym biały, szary, czarny i żółty, olbrzym srokacz, angora biała, termondzki biały, nowozelandzki biały i czerwony, duński biały, kalifornijski, francuski srebrzysty, wiedeński niebieski i biały, szynszyl wielki, francuski baran biały i szary, która uzyskała nie mniej niż 95 punktów licencyjnych"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 41 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Za samca: lisów pospolitych srebrzystych, lisów polarnych niebieskich i białych, tchórzy, jenotów oraz norek odmian: standard, pastel, platyn, biała Hedlunda i palomino, urodzonego w 1999r. i przeznaczonego na remont stada, który uzyskał nie mniej niż 19 punktów licencyjnych; dotacja przysługuje w proporcji 1 samiec na 4 samice i przy remoncie stada do 30%"
-    },
-    {
-     "type": "ocr",
-     "text": "Na prowadzenie programu testowania drobiu przysługuje dotacja za wykonanie oceny jednej grupy testowej:"
-    },
-    {
-     "type": "ocr",
-     "text": "kur mięsnych w teście towarowym"
-    },
-    {
-     "type": "ocr",
-     "text": "kur nieśnych w teście rodzicielskim lub towarowym"
-    },
-    {
-     "type": "ocr",
-     "text": "kaczek w teście towarowym"
-    },
-    {
-     "type": "ocr",
-     "text": "Dotacja przysługuje za wykonanie oznaczenia na nosicielstwo genu BLAD (BOVINE LEUKOCYTE ADHESION DEFICIENCY) przez buhaja rasy czarno- -białej i czerwono-białej odchowywanego z przeznaczeniem do rozrodu lub wykorzystywanego w unasiennianiu"
-    },
-    {
-     "type": "ocr",
-     "text": "Za matkę pszczelą w pasiece, w której realizowany jest program hodowlany:"
-    },
-    {
-     "type": "ocr",
-     "text": "1) unasiennioną, o znanym pochodzeniu, sprzedaną w grupie liczącej 8 — 12 sztuk, z przeznaczeniem do terenowej oceny wartości użytkowej"
-    },
-    {
-     "type": "ocr",
-     "text": "2) utrzymywaną, wpisaną do księgi linii hodowlanych lub rejestrów"
-    },
-    {
-     "type": "ocr",
-     "text": "Za utrzymywanie każdej rodziny pszczelej:"
-    },
-    {
-     "type": "ocr",
-     "text": "1) w strefie centralnej rejonu hodowli zachowawczej pszczół augustowskich, spełniającej warunki określone w „Programie ochrony zasobów genetycznych pszczół rasy środkowoeuropejskiej linii M Augustowska i M Kampinoska”, z wyłączeniem rodzin pszczelich do stad zachowawczych linii M Augustowskiej"
-    },
-    {
-     "type": "ocr",
-     "text": "2) w strefach izolacyjnych rejonu hodowli zachowawczej pszczół augustowskich lub na terenie rejonu hodowli zachowawczej pszczół kampinoskich, z wyłączeniem rodzin pszczelich zaliczonych do stad zachowawczych linii M Augustowska i M Kampinoska, z matką pszczelą pochodzącą z linii hodowlanej M Kampinoskiej lub M Augustowskiej zakupioną w latach poprzednich w Stacji Hodowli i Unasienniania Zwierząt w Bydgoszczy lub pasiece hodowlanej Centralnej Stacji Hodowli Zwierząt w Parzniewie"
-    },
-    {
-     "type": "ocr",
-     "text": "do 2.120"
-    },
-    {
-     "type": "ocr",
-     "text": "do 6.050"
-    },
-    {
-     "type": "ocr",
-     "text": "do 2.350"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 42 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "19 | Za terenową ocenę wartości użytkowej każdej matki pszczelej w grupie testowej, a także matki pszczelej z identycznie ocenianej grupy kontrolnej liczącej nie więcej niż 12 sztuk, prowadzoną przez właściwą okręgową stację hodowli zwierząt"
-    },
-    {
-     "type": "ocr",
-     "text": "20 | Za realizację zadań w stadach zachowawczych, wiodących, określonych w programach hodowlanych ochrony zasobów genetycznych pszczół rasy środkowoeuropejskiej, zgodnie z harmonogramem na dany rok, dla:"
-    },
-    {
-     "type": "ocr",
-     "text": "22 | Za owcę matkę ras i typów: merynos, owca nizinna, owca długowełnista i polska owca górska, utrzymywaną w stadzie:"
-    },
-    {
-     "type": "ocr",
-     "text": "1) linii M Asta do 24.000"
-    },
-    {
-     "type": "ocr",
-     "text": "2) linii M Augustowska do 87.000"
-    },
-    {
-     "type": "ocr",
-     "text": "3) linii M Kampinoska do 87.000"
-    },
-    {
-     "type": "ocr",
-     "text": "4) linii M Północna do 18.000"
-    },
-    {
-     "type": "ocr",
-     "text": "Za owcę matkę ras mięsnych i plennych lub mięsnych i plennych linii syntetycznych, utrzymywaną w stadzie zarodowym oraz za matkę utrzymywaną w stadzie uczestniczącym w I poziomie Programu Doskonalenia Plenności Owiec, zwanego dalej Programem"
-    },
-    {
-     "type": "ocr",
-     "text": "1) zarodowym"
-    },
-    {
-     "type": "ocr",
-     "text": "2) produkującym tryki, uczestniczącym w II poziomie Programu"
-    },
-    {
-     "type": "ocr",
-     "text": "3) nie produkującym tryków, uczestniczącym w II poziomie Programu przeznaczoną do krycia trykiem o udziale 50% krwi rasy plennej"
-    },
-    {
-     "type": "ocr",
-     "text": "23 | Za owcę matkę utrzymywaną w stadzie reprodukcyjnym lub w stadzie uczestniczącym w III poziomie Programu, przeznaczoną do krycia trykiem o udziale co najmniej 37,5% krwi rasy plennej oraz w stadzie zarodowym, na którą nie była wypłacona dotacja z tytułu produkcji tryków"
-    },
-    {
-     "type": "ocr",
-     "text": "24 | Za owcę matkę utrzymywaną w stadzie użytkowym o liczebności minimum 10 owiec matek rasy polska owca górska lub 15 owiec matek dla ras pozostałych, nie uczestniczącym w Programie"
-    },
-    {
-     "type": "ocr",
-     "text": "25 | Za oznakowanie i zewidencjonowanie jednej owcy matki w stadzie towarowym oraz za nadzór zootechniczny nad prawidłowym prowadzeniem stada"
-    },
-    {
-     "type": "ocr",
-     "text": "Za kozę matkę objętą oceną użytkowości mlecznej"
-    },
-    {
-     "type": "ocr",
-     "text": "27 | Za 1 sztukę tarlaka karpia nowej linii lub rasy, zakupionego w Zakładzie Ichtiobiologii i Gospodarki Rybackiej PAN w Gołyszu lub Rybackim Zakładzie Doświadczalnym w Zatorze Instytutu Rybactwa Śródlądowego"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 43 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "29"
-    },
-    {
-     "type": "ocr",
-     "text": "3"
-    },
-    {
-     "type": "ocr",
-     "text": "3"
-    },
-    {
-     "type": "ocr",
-     "text": "0"
-    },
-    {
-     "type": "ocr",
-     "text": "6"
-    },
-    {
-     "type": "ocr",
-     "text": "Pracowni Hodowli Sródlądowego Za 10 sztuk selekta pstrąga, zakupionego w Pracowni Hodowli Ryb Łososiowatych w Rutkach Instytutu Rybactwa Śródlądowego Za 10 sztuk narybku troci jeziorowej; dotacja nie dotyczy narybku troci o średniej długości całkowitej mniejszej niż 15 cm"
-    },
-    {
-     "type": "ocr",
-     "text": "a) pełnej krwi angielskiej, czystej krwi arabskiej, małopolskiej, wielkopolskiej, szlachetnej półkrwi i śląskiej"
-    },
-    {
-     "type": "ocr",
-     "text": "b) zimnokrwistej, konika polskiego i hucuła B= ogierów Za ogiera sprzedanego do stada ogierów, który ukończył próbę dzielności:"
-    },
-    {
-     "type": "ocr",
-     "text": "1) w teScie 100- dniowym z wynikiem:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) wybitnym i bardzo dobrym"
-    },
-    {
-     "type": "ocr",
-     "text": "b) dobrym i dostatecznym"
-    },
-    {
-     "type": "ocr",
-     "text": "2) w tescie 8- miesięcznym z wynikiem pozytywnym 37 | Za sprzedanego do stada ogierów:"
-    },
-    {
-     "type": "ocr",
-     "text": "3"
-    },
-    {
-     "type": "ocr",
-     "text": "8"
-    },
-    {
-     "type": "ocr",
-     "text": "1) ogiera czystej krwi arabskiej i pełnej krwi angielskiej przeznaczonego do rozrodu w hodowli:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) czystej krwi arabskiej i pełnej krwi angielskiej"
-    },
-    {
-     "type": "ocr",
-     "text": "b) koni półkrwi"
-    },
-    {
-     "type": "ocr",
-     "text": "2) ogiera rasy śląskiej Za ogierka spełniającego warunki do wpisu do ksiąg głównych koni hodowlanych oraz za klaczkę z obustronnym pochodzeniem"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 44 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "angielskiej i czystej krwi arabskiej wpisanego do Polskiej Księgi Stadnej koni pełnej krwi angielskiej i Polskiej Księgi Stadnej koni arabskich czystej krwi oraz ogierów półkrwi, prymitywnych i zimnokrwistych przeznaczonych do rozrodu"
-    },
-    {
-     "type": "ocr",
-     "text": "Za konia rasy: czystej krwi arabskiej, pełnej krwi angielskiej i półkrwi ocenionego metodą BLUP (Best Linear Unbiased Prediction) - model zwierzęcia"
-    },
-    {
-     "type": "note",
-     "text": "[Na stronie 45 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 40 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
      "type": "text",
-     "text": "³r n k i n zc ą ł a Z"
+     "text": "Za każdy zarodek bydlęcy odpowiadający wymaganiom hodowlanym i skutecznie przeniesiony do dróg rodnych biorczyni"
+    },
+    {
+     "type": "text",
+     "text": "Za buhaja urodzonego w kraju i po raz pierwszy dopuszczonego do użycia w inseminacji po przeprowadzonej ocenie wartości hodowlanej"
+    },
+    {
+     "type": "text",
+     "text": "Za pobranie krwi i wykonanie testu celem sprawdzenia pochodzenia krowy pierwiastki, cieliczki i buhajka wykorzystywanych do oceny buhajów na podstawie ich potomstwa oraz pochodzących ze stad bydła rasy polskiej czerwonej objętych ochroną zasobów genetycznych, a także buhajków ras mięsnych zakwalifikowanych do hodowli"
+    },
+    {
+     "type": "text",
+     "text": "Za loszkę remontową czystorasową, z: wyjątkiem ras: złotnickiej białej, złotnickiej pstrej i puławskiej, spełniającą wymagania wpisu do ksiąg zwierząt hodowlanych lub linii 990 w stadzie objętym oceną użytkowości, pochodzącą z zakupu lub odchowu własnego; dotacja przysługuje za lochy pierwiastki:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "których liczba nie przekracza 30% stanu loch na dzień 1 stycznia, wyrażona liczbą całkowitą, oraz których pierwsze mioty zostały ocenione w danym roku",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "które uzyskały indeks oceny przyżyciowej na poziomie 1 klasy zakwalifikowane do hodowli",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "po odchowaniu do 21 dnia życia co najmniej 7 prosiąt przez lochę rasy wielkiej białej polskiej, polskiej białej zwisłouchej, lub 5 prosiąt przez lochę rasy duroc, hampshire, pietrain, belgijskiej zwisłouchej i linii 990",
+     "children": [
+      {
+       "type": "text",
+       "text": "Za lochę rasy czystej spełniającą wymagania wpisu do księgi zwierząt hodowlanych lub linii 990, której kojarzenie zostało pozytywnie ocenione w danym roku w stacji kontroli użytkowości rzeźnej trzody chlewnej"
+      },
+      {
+       "type": "text",
+       "text": "Za uzyskane wyniki hodowlane przysługuje dotacja do lochy stada podstawowego:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "w stadach produkujących knury i loszki",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "w stadach produkujących wyłącznie loszki",
+     "children": [
+      {
+       "type": "text",
+       "text": "Za samicę stada podstawowego nutrii odmian: standardowa, stalowosrebrzysta, grenlandzka, biała niealbinotyczna, bursztynowozłocista, szafirowa, pastelowa, czarna dominująca, sobolowa i perłowa, Która uzyskała:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_2/lit_a",
+       "text": "nie poniej niż 28 punktów licencyjnych i urodziła się do dnia 31 marca r.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_2/lit_b",
+       "text": "nie mniej niż 18 punktów licencyjnych, urodziła się po dniu 31 marca 1997r. i nie została zdyskwalifikowana jako zwierzę hodowlane",
+       "children": [
+        {
+         "type": "text",
+         "text": "Za samicę stada podstawowego królików ras: belgijski olbrzym biały, szary, czarny i żółty, olbrzym srokacz, angora biała, termondzki biały, nowozelandzki biały i czerwony, duński biały, kalifornijski, francuski srebrzysty, wiedeński niebieski i biały, szynszyl wielki, francuski baran biały i szary, która uzyskała nie mniej niż 95 punktów licencyjnych"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 41 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Za samca: lisów pospolitych srebrzystych, lisów polarnych niebieskich i białych, tchórzy, jenotów oraz norek odmian: standard, pastel, platyn, biała Hedlunda i palomino, urodzonego w 1999r. i przeznaczonego na remont stada, który uzyskał nie mniej niż 19 punktów licencyjnych; dotacja przysługuje w proporcji 1 samiec na 4 samice i przy remoncie stada do 30%"
+        },
+        {
+         "type": "text",
+         "text": "Na prowadzenie programu testowania drobiu przysługuje dotacja za wykonanie oceny jednej grupy testowej:"
+        },
+        {
+         "type": "text",
+         "text": "kur mięsnych w teście towarowym do 2.120"
+        },
+        {
+         "type": "text",
+         "text": "kur nieśnych w teście rodzicielskim lub towarowym"
+        },
+        {
+         "type": "text",
+         "text": "kaczek w teście towarowym do 6.050"
+        },
+        {
+         "type": "text",
+         "text": "do 2.350"
+        },
+        {
+         "type": "text",
+         "text": "Dotacja przysługuje za wykonanie oznaczenia na nosicielstwo genu BŁĄD (BOVINE LEUKOCYTE ADHESION DEFICIENCY) przez buhaja rasy czarno- -białej i czerwono-białej odchowywanego z przeznaczeniem do rozrodu lub wykorzystywanego w unasiennianiu"
+        },
+        {
+         "type": "text",
+         "text": "Za matkę pszczelą w pasiece, w której realizowany jest program hodowlany:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "unasiennioną, o znanym pochodzeniu, sprzedaną w grupie liczącej 8 — 12 sztuk, z przeznaczeniem do terenowej oceny wartości użytkowej",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "utrzymywaną, wpisaną do księgi linii hodowlanych lub rejestrów",
+     "children": [
+      {
+       "type": "text",
+       "text": "Za utrzymywanie każdej rodziny pszczelej:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "w strefie centralnej rejonu hodowli zachowawczej pszczół augustowskich, spełniającej warunki określone w „Programie ochrony zasobów genetycznych pszczół rasy środkowoeuropejskiej linii M Augustowska i M Kampinoska”, z wyłączeniem rodzin pszczelich Augustowskiej do stad zachowawczych linii M",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "w strefach izolacyjnych rejonu hodowli zachowawczej pszczół augustowskich lub na terenie rejonu hodowli zachowawczej pszczół kampinoskich, z wyłączeniem rodzin pszczelich zaliczonych do stad zachowawczych linii M Augustowska i M Kampinoska, z hodowlanej M Kampinoskiej lub M matką pszczelą pochodzącą z linii Augustowskiej zakupioną w latach poprzednich w Stacji Hodowli i Unasienniania Zwierząt w Bydgoszczy lub pasiece hodowlanej Centralnej Stacji Hodowli Zwierząt w Parzniewie",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 42 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "19 | Za terenową ocenę wartości użytkowej każdej matki pszczelej w grupie testowej, a także matki pszczelej z identycznie ocenianej grupy kontrolnej liczącej nie więcej niż 12 sztuk, prowadzoną przez właściwą okręgową stację hodowli zwierząt"
+      },
+      {
+       "type": "text",
+       "text": "20 | Za realizację zadań w stadach zachowawczych, wiodących, określonych w programach hodowlanych ochrony zasobów genetycznych pszczół rasy środkowoeuropejskiej, zgodnie z harmonogramem na dany rok, dla:"
+      },
+      {
+       "type": "text",
+       "text": "22 | Za owcę matkę ras i typów: merynos, owca nizinna, owca długowełnista i polska owca górska, utrzymywaną w stadzie:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "linii M Asta do 24.000",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "linii M Augustowska do 87.000",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "linii M Kampinoska do 87.000",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "linii M Północna do 18.000",
+     "children": [
+      {
+       "type": "text",
+       "text": "Za owcę matkę ras mięsnych i plennych lub mięsnych i plennych linii syntetycznych, utrzymywaną w stadzie zarodowym oraz za matkę utrzymywaną w stadzie uczestniczącym w I poziomie Programu Doskonalenia Plenności Owiec, zwanego dalej Programem"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "zarodowym",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "produkującym tryki, uczestniczącym w II poziomie Programu",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "nie produkującym tryków, uczestniczącym w II poziomie Programu przeznaczoną do krycia trykiem o udziale 50% krwi rasy plennej",
+     "children": [
+      {
+       "type": "text",
+       "text": "23 | Za owcę matkę utrzymywaną w stadzie reprodukcyjnym lub w stadzie uczestniczącym w III poziomie Programu, przeznaczoną do krycia trykiem o udziale co najmniej 37,5% krwi rasy plennej oraz w stadzie zarodowym, na którą nie była wypłacona dotacja z tytułu produkcji tryków"
+      },
+      {
+       "type": "text",
+       "text": "24 | Za owcę matkę utrzymywaną w stadzie użytkowym o liczebności minimum 10 owiec matek rasy polska owca górska lub 15 owiec matek dla ras pozostałych, nie uczestniczącym w Programie"
+      },
+      {
+       "type": "text",
+       "text": "25 | Za oznakowanie i zewidencjonowanie jednej owcy matki w stadzie towarowym oraz za nadzór zootechniczny nad prawidłowym prowadzeniem stada"
+      },
+      {
+       "type": "text",
+       "text": "Za kozę matkę objętą oceną użytkowości mlecznej"
+      },
+      {
+       "type": "text",
+       "text": "27 | Za 1 sztukę tarlaka karpia nowej linii lub rasy, zakupionego w Zakładzie Ichtiobiologii i Gospodarki Rybackiej PAN w Gołyszu lub Rybackim Zakładzie Doświadczalnym w Zatorze Instytutu Rybactwa Śródlądowego"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 43 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "29"
+      },
+      {
+       "type": "text",
+       "text": "3"
+      },
+      {
+       "type": "text",
+       "text": "3"
+      },
+      {
+       "type": "text",
+       "text": "0"
+      },
+      {
+       "type": "text",
+       "text": "6"
+      },
+      {
+       "type": "text",
+       "text": "Pracowni Hodowli Śródlądowego Za 10 sztuk selekta pstrąga, zakupionego w Pracowni Hodowli Ryb Łososiowatych w Rutkach Instytutu Rybactwa Śródlądowego Za 10 sztuk narybku troci jeziorowej; dotacja nie dotyczy narybku troci o średniej długości całkowitej mniejszej niż 15 cm"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_3/lit_a",
+       "text": "pełnej krwi angielskiej, czystej krwi arabskiej, małopolskiej, wielkopolskiej, szlachetnej półkrwi i śląskiej",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_3/lit_b",
+       "text": "zimnokrwistej, konika polskiego i hucuła B= ogierów Za ogiera sprzedanego do stada ogierów, który ukończył próbę dzielności:",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "w teŚcie 100- dniowym z wynikiem:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_1/lit_a",
+       "text": "wybitnym i bardzo dobrym",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_1/lit_b",
+       "text": "dobrym i dostatecznym",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "w teście 8- miesięcznym z wynikiem pozytywnym 37 | Za sprzedanego do stada ogierów:",
+     "children": [
+      {
+       "type": "text",
+       "text": "3"
+      },
+      {
+       "type": "text",
+       "text": "8"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "ogiera czystej krwi arabskiej i pełnej krwi angielskiej przeznaczonego do rozrodu w hodowli:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_1/lit_a",
+       "text": "czystej krwi arabskiej i pełnej krwi angielskiej",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_1/lit_b",
+       "text": "koni półkrwi",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "ogiera rasy śląskiej Za ogierka spełniającego warunki do wpisu do ksiąg głównych koni hodowlanych oraz za klaczkę z obustronnym pochodzeniem",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 44 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "angielskiej i czystej krwi arabskiej wpisanego do Polskiej Księgi Stadnej koni pełnej krwi angielskiej i Polskiej Księgi Stadnej koni arabskich czystej krwi oraz ogierów półkrwi, prymitywnych i zimnokrwistych przeznaczonych do rozrodu"
+      },
+      {
+       "type": "text",
+       "text": "Za konia rasy: czystej krwi arabskiej, pełnej krwi angielskiej i półkrwi ocenionego metodą BLUP (Best Linear Unbiased Prediction) - model zwierzęcia"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 45 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "³r n k i n zc ą ł a Z"
+      }
+     ]
     }
    ]
   },
@@ -5605,7 +5974,7 @@
    "body": [
     {
      "type": "text",
-     "text": "STAWKI DOTACJI ZA ZAJĘCIE MIEJSCA PRZEZ KONIE CZYSTEJ KRWI ARABSKIEJ HODOWLI KRAJOWEJ NA KRAJOWYM POKAZIE HODOWLANYM — CHAMPIONACIE POLSKI AFILIOWANYM PRZEZ EUROPEJSKĄ ORGANIZACJĘ KONIA ARABSKIEGO Dziennik Ustaw Nr 35 — 2238 — Poz. 401"
+     "text": "STAWKI DOTACJI ZA ZAJĘCIE MIEJSCA PRZEZ KONIE CZYSTEJ KRWI ARABSKIEJ HODOWLI KRAJOWEJ NA KRAJOWYM POKAZIE HODOWLANYM — CHAMPIONACIE POLSKI AFILIOWANYM PRZEZ EUROPEJSKĄ ORGANIZACJĘ KONIA ARABSKIEGO"
     },
     {
      "type": "note",
@@ -5631,191 +6000,266 @@
     },
     {
      "type": "note",
-     "text": "[Strona 49 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 49 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "11 12 13 14 15"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "16 17 18 19 20"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "21 22 23"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "24"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "25"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Owiec odmiany żelaźnieńskiej Owiec odmiany uhruskiej Owiec odmiany wielkopolskiej Owiec odmiany korideila Owiec ras plennych:"
     },
     {
-     "type": "ocr",
-     "text": "1) booroola"
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "booroola",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2) olkuskiej Owiec rasy polska owca górska barwna Owiec rasy merynos barwny Koników polskich”) Hucułów *) Lisów pospolitych:"
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "olkuskiej Owiec rasy polska owca górska barwna Owiec rasy merynos barwny Koników polskich”) Hucułów *) Lisów pospolitych:",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "1) pastelowe"
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "pastelowe",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2) białoszyjne Tchórzy Królików popielniańskich białych Szynszyli beżowej Pszczół:"
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "białoszyjne Tchórzy Królików popielniańskich białych Szynszyli beżowej Pszczół:",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "1) linii M Augustowska"
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "linii M Augustowska",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2) linii M Północna"
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "linii M Północna",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "3) linii M Asta"
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "linii M Asta",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4) linii M Kampinoska Karpi:"
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "linii M Kampinoska Karpi:",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "1) linia gołyska"
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "linia gołyska",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2) linia knyszyńska"
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "linia knyszyńska",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "3) linia ukraińska"
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "linia ukraińska",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4) linia litewska"
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "linia litewska",
+     "children": [
+      {
+       "type": "text",
+       "text": "200 matek 250 matek 500 matek 70 matek"
+      },
+      {
+       "type": "text",
+       "text": "25 matek 95 matek 100 matek 110 matek 230 200"
+      },
+      {
+       "type": "text",
+       "text": "100 samic 25 samic 30 samic 30 samic"
+      },
+      {
+       "type": "text",
+       "text": "22 samice"
+      },
+      {
+       "type": "text",
+       "text": "120 rodzin 40 rodzin 100 rodzin 115 rodzin"
+      },
+      {
+       "type": "text",
+       "text": "100 tarlaków lub selektów"
+      },
+      {
+       "type": "text",
+       "text": "100 tarlaków lub selektów 100 tarlaków lub selektów 100 tarlaków lub selektów"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 50 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": ")"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "200 matek 250 matek 500 matek 70 matek"
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "linia zatorska",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "25 matek 95 matek 100 matek 110 matek 230 200"
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "linia starzawska Pstrągów",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "100 samic 25 samic 30 samic 30 samic"
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "wiosennego tarła",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "22 samice"
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "jesiennego tarła",
+     "children": [
+      {
+       "type": "text",
+       "text": "STADA STANOWIĄCE REZERWĘ MATERIAŁU HODOWLANEGO DROBIU:"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "120 rodzin 40 rodzin 100 rodzin 115 rodzin"
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "gęsi (Re, Ku)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "100 tarlaków lub selektów"
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "kaczek (P-44, P-55) STADA ZARODOWE DROBIU:",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "100 tarlaków lub selektów 100 tarlaków lub selektów 100 tarlaków lub selektów"
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "kurnieśnych (K-66, K-44, A-22, A-88, WJ-44, N-11, P-11)",
+     "children": []
     },
     {
-     "type": "note",
-     "text": "[Strona 50 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "kur nieśnych (H-77, L-99, N-88, S-22, R-33)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": ")"
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "kur nieśnych (H-33, V-44, M-55)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "5) linia zatorska"
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "kur nieśnych (R-55, S-11, S-55)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "6) linia starzawska Pstrągów"
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "gęsi (W-11, W-33)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "1) wiosennego tarła"
-    },
-    {
-     "type": "ocr",
-     "text": "2) jesiennego tarła"
-    },
-    {
-     "type": "ocr",
-     "text": "STADA STANOWIĄCE REZERWĘ MATERIAŁU HODOWLANEGO DROBIU:"
-    },
-    {
-     "type": "ocr",
-     "text": "1) gęsi (Re, Ku)"
-    },
-    {
-     "type": "ocr",
-     "text": "2) kaczek (P-44, P-55) STADA ZARODOWE DROBIU:"
-    },
-    {
-     "type": "ocr",
-     "text": "1) kurnieśnych (K-66, K-44, A-22, A-88, WJ-44, N-11, P-11)"
-    },
-    {
-     "type": "ocr",
-     "text": "2) kur nieśnych (H-77, L-99, N-88, S-22, R-33)"
-    },
-    {
-     "type": "ocr",
-     "text": "3) kur nieśnych (H-33, V-44, M-55)"
-    },
-    {
-     "type": "ocr",
-     "text": "4) kur nieśnych (R-55, S-11, S-55)"
-    },
-    {
-     "type": "ocr",
-     "text": "5) gęsi (W-11, W-33)"
-    },
-    {
-     "type": "ocr",
-     "text": "6) kaczek (A-44, A-55, P-77, P-66, K-11) Stada reprodukcyjne gęsi"
-    },
-    {
-     "type": "ocr",
-     "text": "Liczba koników polskich i hucułów dotyczy łącznie: klaczy jednorocznych,"
-    },
-    {
-     "type": "ocr",
-     "text": "100 tarlaków lub selektów 100 tarlaków lub selektów"
-    },
-    {
-     "type": "ocr",
-     "text": "100 tarlaków lub selektów 100 tarlaków lub selektów"
-    },
-    {
-     "type": "ocr",
-     "text": "1.300 gęsi 1.300 kaczek"
-    },
-    {
-     "type": "ocr",
-     "text": "11.500 kur 8.250 kur 6.600 kur 4.950 kur 4.000 gęsi 4.200 kaczek 150.000 gęsi"
-    },
-    {
-     "type": "ocr",
-     "text": "dwuletnich, trzyletnich i klaczy matek, a w Stacji Badawczej Rolnictwa Ekologicznego i Hodowli Zachowawczej Zwierząt PAN w Popielnie - również ogierów używanych do rozpłodu w stadzie stajennym."
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "kaczek (A-44, A-55, P-77, P-66, K-11) Stada reprodukcyjne gęsi",
+     "children": [
+      {
+       "type": "text",
+       "text": "Liczba koników polskich i hucułów dotyczy łącznie: klaczy jednorocznych,"
+      },
+      {
+       "type": "text",
+       "text": "100 tarlaków lub selektów 100 tarlaków lub selektów"
+      },
+      {
+       "type": "text",
+       "text": "100 tarlaków lub selektów 100 tarlaków lub selektów"
+      },
+      {
+       "type": "text",
+       "text": "1.300 gęsi 1.300 kaczek"
+      },
+      {
+       "type": "text",
+       "text": "11.500 kur 8.250 kur 6.600 kur 4.950 kur 4.000 gęsi 4.200 kaczek 150.000 gęsi"
+      },
+      {
+       "type": "text",
+       "text": "dwuletnich, trzyletnich i klaczy matek, a w Stacji Badawczej Rolnictwa Ekologicznego i Hodowli Zachowawczej Zwierząt PAN w Popielnie - również ogierów używanych do rozpłodu w stadzie stajennym."
+      }
+     ]
     }
    ]
   },
@@ -5837,54 +6281,50 @@
     },
     {
      "type": "note",
-     "text": "[Strona 53 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 53 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Zastosowanie biotechnologicznych metod kierowania rozrodem w hodowli świń 256.000"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "19 16102.3 | Produkcja i standaryzacja surowic testowych niezbędnych w kontroli pochodzenia u bydła 927.000"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "20 16105.3 | Wykorzystanie badań grup krwi i polimorficznych form białek u owiec w praktyce hodowlanej 250.000"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1 16103.4 | Badania nad grupami krwi u świń i ich praktyczne wykorzystanie |"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "22 | 16107.4 | Badania nad grupami krwi u koni i ich praktyczne wykorzystanie 138.000"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3| 14110.3 | Monitoring wartości hodowlanej i użytkowej kur nieśnych i mięsnych oraz kaczek i gęsi 289.000"
     },
     {
-     "type": "ocr",
-     "text": "24| 21106.3 | Organizacja i prowadzenie krajowej informacji o 150.000"
+     "type": "text",
+     "text": "24| 21106.3 | Organizacja i prowadzenie krajowej informacji o 150.000 paszach"
     },
     {
-     "type": "ocr",
-     "text": "paszach"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": ") Numery rejestracyjne zadań oznaczają: - pierwsza cyfra - numer kierunku badawczego, - druga i trzecia cyfra - numer zagadnienia badawczego w obrębie kierunku, - czwarta i piąta cyfra - numer tematu szczegółowego w obrębie zagadnienia badawczego, szósta cyfra (podana po kropce) - wykonawcę oraz źródło finansowania; cyframi 3 i 4 oznaczone są zadania finansowane przez ministra właściwego do spraw rolnictwa."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "18} 32105.3"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "N"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "N"
     }
    ]
@@ -5898,187 +6338,297 @@
     },
     {
      "type": "note",
-     "text": "[Strona 55 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 55 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "IV"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Ocena lochy"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Prowadzenie ksiąg: licencji loch i knurów, kwalifikacji loszek i knurów Ocena owcy maciorki stada podstawowego:"
     },
     {
-     "type": "ocr",
-     "text": "1. W gospodarstwie do 100 sztuk"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "W gospodarstwie do 100 sztuk",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2. W gospodarstwie powyżej 100 sztuk Ocena kozy:"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "W gospodarstwie powyżej 100 sztuk Ocena kozy:",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "1. Metodą A 4:"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Metodą A 4:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "w gospodarstwie do 15 sztuk kóz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "w gospodarstwie powyżej 15 sztuk kóz",
+       "children": [
+        {
+         "type": "text",
+         "text": ". Metodą A T:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "w gospodarstwie do 15 sztuk kóz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "w gospodarstwie powyżej 15 sztuk kóz Ocena samicy stada podstawowego zwierząt futerkowych:",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "1) w gospodarstwie do 15 sztuk kóz"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "W stadzie lisów, jenotów, norek, tchórzy, szynszyli i nutrii:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "do 100 sztuk samic",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "powyżej 100 sztuk samic",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "2) w gospodarstwie powyżej 15 sztuk kóz"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "W stadzie królików",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ocena pszczół:"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": ". Metodą A T:"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "W pasiece prowadzącej ocenę terenową 2.W pasiece prowadzącej ocenę stacjonarną:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "do 20 rodzin pszczelich w ocenie",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "od 21 do 40 rodzin pszczelich w ocenie",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "powyżej 40 rodzin pszczelich w ocenie",
+       "children": [
+        {
+         "type": "text",
+         "text": "Ocena drobiu:"
+        }
+       ]
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "1) w gospodarstwie do 15 sztuk kóz"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Ocena stada hodowlanego",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2) w gospodarstwie powyżej 15 sztuk kóz Ocena samicy stada podstawowego zwierząt futerkowych:"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Ocena terenowa:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "okres odchowu",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "okres produkcji",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "1. W stadzie lisów, jenotów, norek, tchórzy, szynszyli i nutrii:"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wpis i prowadzenie ksiąg drobiu",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 56 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Ocena koni: . Klaczy wpisanej do Księgi Stadnej, podlegającej weryfikacji wartości użytkowej i hodowlanej . Klaczy podlegającej ocenie wartości użytkowej w celu wpisania jej do Księgi Stadnej . Źrebięcia podlegającego opisowi w celu wystawienia dokumentu hodowlanego . Źrebięcia rocznego i dwuletniego podlegającego selekcji hodowlanej . Ogiera dopuszczonego do rozrodu, podlegającego przeglądowi i selekcji hodowlanej . Ogiera młodego podlegającego kwalifikacji i wpisowi do ksiąg koni hodowlanych"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "1) do 100 sztuk samic"
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Ogiera poddanego próbie dzielności",
+     "children": [
+      {
+       "type": "text",
+       "text": "Opracowanie i wydanie drukiem:"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "2) powyżej 100 sztuk samic"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Ksiąg koni hodowlanych oraz wykazów ogierów dopuszczonych do rozrodu 210.000,00",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2. W stadzie królików"
-    },
-    {
-     "type": "ocr",
-     "text": "Ocena pszczół:"
-    },
-    {
-     "type": "ocr",
-     "text": "1. W pasiece prowadzącej ocenę terenową 2.W pasiece prowadzącej ocenę stacjonarną:"
-    },
-    {
-     "type": "ocr",
-     "text": "1) do 20 rodzin pszczelich w ocenie"
-    },
-    {
-     "type": "ocr",
-     "text": "2) od 21 do 40 rodzin pszczelich w ocenie"
-    },
-    {
-     "type": "ocr",
-     "text": "3) powyżej 40 rodzin pszczelich w ocenie"
-    },
-    {
-     "type": "ocr",
-     "text": "Ocena drobiu:"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Ocena stada hodowlanego"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Ocena terenowa:"
-    },
-    {
-     "type": "ocr",
-     "text": "1) okres odchowu"
-    },
-    {
-     "type": "ocr",
-     "text": "2) okres produkcji"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Wpis i prowadzenie ksiąg drobiu"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 56 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Ocena koni: . Klaczy wpisanej do Księgi Stadnej, podlegającej weryfikacji wartości użytkowej i hodowlanej . Klaczy podlegającej ocenie wartości użytkowej w celu wpisania jej do Księgi Stadnej . Źrebięcia podlegającego opisowi w celu wystawienia dokumentu hodowlanego . Źrebięcia rocznego i dwuletniego podlegającego selekcji hodowlanej . Ogiera dopuszczonego do rozrodu, podlegającego przeglądowi i selekcji hodowlanej . Ogiera młodego podlegającego kwalifikacji i wpisowi do ksiąg koni hodowlanych"
-    },
-    {
-     "type": "ocr",
-     "text": "7. Ogiera poddanego próbie dzielności"
-    },
-    {
-     "type": "ocr",
-     "text": "Opracowanie i wydanie drukiem:"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Ksiąg koni hodowlanych oraz wykazów ogierów dopuszczonych do rozrodu 210.000,00"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Ksiąg Stadnych oraz dodatków hodowlanych koni pełnej krwi angielskiej i czystej krwi arabskiej 75.000,00 UNASIENNIANIE ZWIERZĄT Krowy i jałowicy nasieniem buhajów:"
-    },
-    {
-     "type": "ocr",
-     "text": "1) krajowych dopuszczonych do rozrodu lub testowanych 11,60"
-    },
-    {
-     "type": "ocr",
-     "text": "2) ras mięsnych, ocenionych w kraju na podstawie użytkowości potomstwa i dopuszczonych do rozrodu Krowy matki buhajów biorącej udział w realizacji programu hodowlanego dla bydła mlecznego, nasieniem importowanym na potrzeby realizacji tego programu Lochy:"
-    },
-    {
-     "type": "ocr",
-     "text": "1) w stadach objętych oceną użytkowości"
-    },
-    {
-     "type": "ocr",
-     "text": "2) w stadach pozostałych"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 57 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Matki pszczelej: sztuczne i naturalne kontrolowane w pasiekach hodowlanych, a także wyprodukowanie każdej matki przez pasiekę hodowlaną przeznaczonej do rejonu hodowli zachowawczej pszczół rasy $Srodkowoeuropejskiej linii Augustowskiej lub linii Kampinoskiej"
-    },
-    {
-     "type": "ocr",
-     "text": "REALIZACJA ZADAŃ Z ZAKRESU w złotych"
-    },
-    {
-     "type": "ocr",
-     "text": "1) koordynowania i nadzorowania prac związanych 2.124.000,00 z realizacją programów hodowlanych, z prowadzeniem ksiąg, oceny wartości użytkowej i hodowlanej oraz unasienniania zwierząt gospodarskich"
-    },
-    {
-     "type": "ocr",
-     "text": "2) przetwarzania i publikowania danych z oceny 2.280.000,00 użytkowości"
-    },
-    {
-     "type": "ocr",
-     "text": "3) rejestracji, selekcji i doboru bydła zarodowego ras 260.160,00 mięsnych oraz tworzenie bazy danych w systemie informatycznym i ich publikacja"
-    },
-    {
-     "type": "ocr",
-     "text": "4) programów zachowania różnorodności biologicznej 133.800,00 zwierząt gospodarskich"
-    },
-    {
-     "type": "ocr",
-     "text": "5) koordynowania i nadzorowania prac związanych z prowadzeniem ksiąg oraz oceną wartości użytkowej i hodowlanej owiec i kóz 94.080,00"
-    },
-    {
-     "type": "ocr",
-     "text": "6) przetwarzania i publikowania danych z oceny użytkowości owiec i kóz, kompletowania danych, obsługi krajowej bazy danych dotyczącej owiec 42.840,00"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Ksiąg Stadnych oraz dodatków hodowlanych koni pełnej krwi angielskiej i czystej krwi arabskiej 75.000,00 UNASIENNIANIE ZWIERZĄT Krowy i jałowicy nasieniem buhajów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "krajowych dopuszczonych do rozrodu lub testowanych 11,60",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "ras mięsnych, ocenionych w kraju na podstawie użytkowości potomstwa i dopuszczonych do rozrodu Krowy matki buhajów biorącej udział w realizacji programu hodowlanego dla bydła mlecznego, nasieniem importowanym na potrzeby realizacji tego programu Lochy:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "w stadach objętych oceną użytkowości",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "w stadach pozostałych",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 57 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Matki pszczelej: sztuczne i naturalne kontrolowane w pasiekach hodowlanych, a także wyprodukowanie każdej matki przez pasiekę hodowlaną przeznaczonej do rejonu hodowli zachowawczej pszczół rasy $Środkowoeuropejskiej linii Augustowskiej lub linii Kampinoskiej"
+        },
+        {
+         "type": "text",
+         "text": "REALIZACJA ZADAŃ Z ZAKRESU w złotych"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "koordynowania i nadzorowania prac związanych 2.124.000,00 z realizacją programów hodowlanych, ksiąg, oceny wartości użytkowej i unasienniania zwierząt gospodarskich z prowadzeniem hodowlanej oraz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "przetwarzania i publikowania danych z oceny 2.280.000,00 użytkowości",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "rejestracji, selekcji i doboru bydła zarodowego ras 260.160,00 mięsnych oraz tworzenie bazy danych w systemie informatycznym i ich publikacja",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "programów zachowania różnorodności biologicznej 133.800,00 zwierząt gospodarskich",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "koordynowania i nadzorowania prac związanych z prowadzeniem ksiąg oraz oceną wartości użytkowej i hodowlanej owiec i kóz 94.080,00",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_2/pkt_6",
+       "text": "przetwarzania i publikowania danych z oceny użytkowości owiec i kóz, kompletowania danych, obsługi krajowej bazy danych dotyczącej owiec 42.840,00",
+       "children": []
+      }
+     ]
     }
    ]
   },
@@ -6104,54 +6654,62 @@
     },
     {
      "type": "note",
-     "text": "[Strona 60 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 60 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Badanie biologiczne w kierunku gruźlicy"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Za badania monitoringowe pozostałych chorób zakaźnych zwierząt podlegających obowiązkowi zwalczania nie wymienionych w załączniku przysługuje stawka dotacji jak za diagnostykę chorób podobnych wykazanych w załączniku, zwiększona w uzasadnionych przypadkach do 50 %."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "II. Badania pozostałości chemicznych i biologicznych w tkankach i płynach ustrojowych zwierząt rzeźnych oraz w żywności pochodzenia zwierzęcego"
     },
     {
-     "type": "ocr",
-     "text": "Oznaczanie pozostałości insektycydów fosforoorganicznych 132,10 Oznaczanie pozostałości chloramfenikolu 108,00 Oznaczanie pozostałości sulfonamidów 132,10 Oznaczanie pozostałości nitrofuranów 180,70 ©"
+     "type": "text",
+     "text": "Oznaczanie pozostałości insektycydów fosforoorganicznych Oznaczanie pozostałości chloramfenikolu Oznaczanie pozostałości sulfonamidów Oznaczanie pozostałości nitrofuranów Oznaczanie pozostałości chloropromaz ©"
     },
     {
-     "type": "ocr",
-     "text": "Oznaczanie pozostałości chloropromaz NV = |= = |= Z = |= | 2 | = | — 0 | Oznaczanie pozostałości hormonów w tkankach zwierząt 263,20"
+     "type": "text",
+     "text": "NV = |= = |= Z = |= | 2 | = | —"
     },
     {
-     "type": "ocr",
-     "text": "Hon FAA \"1 w tkance mięśniowej metodą HPTLC 162,00 2 | Oznaczanie hormonów naturalnych w surowicy bydlęcej testem ELISA 48.40 (za każdy badany hormon w jednej próbie) 248,40 3 | Wykrywanie pozostałości antybiotyków mikrobiologiczną metodą 4-płytkową 74,40 4 | Wykrywanie pozostałości hamujących w mleku 24,30"
+     "type": "text",
+     "text": "132,10 108,00 132,10 180,70"
     },
     {
-     "type": "ocr",
-     "text": "5 | Oznaczanie pozostałości kongenerów polichlorowanych bifenyli (PCB nr 28,52, 101, 118, 138, 153, 180) 320,00"
+     "type": "text",
+     "text": "Hon FAA \"1 0 | Oznaczanie pozostałości hormonów w tkankach zwierząt 263,20 — w tkance mięśniowej metodą HPTLC"
     },
     {
-     "type": "ocr",
-     "text": "N"
+     "type": "text",
+     "text": "162,00 2 | Oznaczanie hormonów naturalnych w surowicy bydlęcej testem ELISA 48.40 N (za każdy badany hormon w jednej próbie)"
     },
     {
-     "type": "ocr",
-     "text": "N"
+     "type": "text",
+     "text": "248,40 3 | Wykrywanie pozostałości antybiotyków mikrobiologiczną metodą 4-płytkową 4 | Wykrywanie pozostałości hamujących w mleku"
     },
     {
-     "type": "ocr",
-     "text": "—"
+     "type": "text",
+     "text": "74,40 24,30"
+    },
+    {
+     "type": "text",
+     "text": "5 | Oznaczanie pozostałości kongenerów polichlorowanych bifenyli (PCB nr N 28,52, 101, 118, 138, 153, 180)"
+    },
+    {
+     "type": "text",
+     "text": "320,00"
     },
     {
      "type": "note",
-     "text": "[Strona 61 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 61 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "III. Pozostałe badania i inne czynności związane ze zwalczaniem chorób zakaźnych zwierząt Badania laboratoryjne oraz inne czynności związane ze zwalczaniem chorób zakaźnych zwierząt rozliczane są zgodnie z przepisami o stawkach opłat za badania oraz inne czynności wykonywane przez inspekcję wete Doustne szczepionki przeciwko wściekliźnie lisów i innych dziko zyjacyc zwierząt mięsożernych, w tym: szczepionka „„Fuchsoral SAD B-19” - za 1 dawkę do wysokości"
     }
    ]
@@ -6174,22 +6732,22 @@
     },
     {
      "type": "note",
-     "text": "[Strona 64 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 64 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Il . Opracowanie dokumentacji geodezyjnej niezbędnej do modernizacji terenów wiejskich Opracowanie map skanowania i digitalizacji numerycznych analityczną ewidencji gruntów metoda nowego pomiaru Ó | aaa | amo Weryfikacja (kontrola terenowa) ewidencji gruntów i budynków Opracowanie dokumentacji geodezyjno-kartograficznej dla aktualizacji danych ewidencji ha"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "17 | ewidencji danych opisowych działka gruntów Ill etap - zakładanie zbiorów ewidencji | aka w zakresie danych opisowych działka"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "19 | Założenie ewidencji gruntów 437,00 dla działek gruntów pod budynkami i działek gruntów pozostawionych rolni- 20 |Opracowanie kom do dożywotniego użytkowania działka 900,00 dokumentacji na grunty zmeliorowane (tereny konku - EM geodezyjnej rencyjne) na potrzeby naliczania opłat melioracyjnych ha 17,00 dla nieruchomości rolnych Państwowego Funduszu Ziemi przekazywanych do Zasobu Własności Rolnej Skarbu Państwa działka 900,00 do wydania decyzji organów administracji rządowej dotyczącej zwrotu nieruchomości rolnych przejętych na rzecz Skarbu Państwa z naruszeniem prawa godzina 67,00 *) Do rozliczenia prac związanych z opracowaniem materiałów do studium uwarunkowań i kierunków zagospodarowania przestrzennego województwa, w części dotyczącej rolniczej przestrzeni produkcyjnej należy brać tylko ilość ha użytków rolnych."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "**) Zadanie nie obejmuje prac związanych z kwalifikacją wsi i gospodarstw rolnych do opracowania planu urządzeniowo - rolnego i czynności organizacyjnych postępowania urządzeniowo - rolnego oraz sprawowania nadzoru autorskiego nad realizacją tego planu."
     }
    ]
@@ -6228,110 +6786,133 @@
     },
     {
      "type": "note",
-     "text": "[Strona 67 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 67 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "8) badanie pozostałości innych fungicydów"
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "badanie pozostałości innych fungicydów",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "9) badanie pozostałości herbicydów fenylomocznikowych"
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "badanie pozostałości herbicydów fenylomocznikowych",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "10) badanie pozostałości innych herbicydów"
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "badanie pozostałości innych herbicydów",
+     "children": [
+      {
+       "type": "text",
+       "text": "Badanie gleby i roślin na obecność organizmów szkodliwych podlegających obowiązkowi zwalczania:"
+      },
+      {
+       "type": "text",
+       "text": "badanie gleby na obecność cyst nicieni Globodera pallida lub Globodera rostochiensis badanie gleby lub bulw ziemniaka na obecność Synchytrium endobioticum badanie materiału roślinnego na obecność Clavibacter michganensis subsp. sepedonicus: metodą hodowlaną test biochemiczny badanie bulw ziemniaka na obecność infekcji latentnej metodą immunofluorescencji badanie wyizolowanych kultur metodą immunofluorescencji badanie materiału roślinnego na obecność Pseudomonas solanacearum: metodą hodowlaną test biochemiczny badanie bulw ziemniaka na obecność infekcji latentnej metodą immunofluorescencji badanie wyizolowanych kultur metodą immunofluorescencji Opracowanie programu komputerowego dotyczącego zorganizowania systemu rejestracji producentów roślin i wystawiania paszportów roślin Badania nad techniką ochrony roślin:"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "Badanie gleby i roślin na obecność organizmów szkodliwych podlegających obowiązkowi zwalczania:"
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "badanie szerokości stref ochronnych",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "badanie gleby na obecność cyst nicieni Globodera pallida lub Globodera rostochiensis badanie gleby lub bulw ziemniaka na obecność Synchytrium endobioticum badanie materiału roślinnego na obecność Clavibacter michganensis subsp. sepedonicus: metodą hodowlaną test biochemiczny badanie bulw ziemniaka na obecność infekcji latentnej metodą immunofluorescencji badanie wyizolowanych kultur metodą immunofluorescencji badanie materiału roślinnego na obecność Pseudomonas solanacearum: metodą hodowlaną test biochemiczny badanie bulw ziemniaka na obecność infekcji latentnej metodą immunofluorescencji badanie wyizolowanych kultur metodą immunofluorescencji Opracowanie programu komputerowego dotyczącego zorganizowania systemu rejestracji producentów roślin i wystawiania paszportów roślin Badania nad techniką ochrony roślin:"
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "doskonalenie metod okresowych badań opryskiwaczy",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "1) badanie szerokości stref ochronnych"
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "badanie i ocena jakości technicznej opryskiwaczy rolniczych bez elektroniki",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2) doskonalenie metod okresowych badań opryskiwaczy"
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "badanie i ocena jakości technicznej opryskiwaczy rolniczych z elektroniką",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "3) badanie i ocena jakości technicznej opryskiwaczy rolniczych bez elektroniki"
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "badanie i ocena jakości technicznej podzespołów opryskiwaczy rolniczych",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4) badanie i ocena jakości technicznej opryskiwaczy rolniczych z elektroniką"
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "badanie i ocena jakości technicznej aparatury pomiarowej - elektroniczny stół rowkowy",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "5) badanie i ocena jakości technicznej podzespołów opryskiwaczy rolniczych"
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "badanie i ocena jakości technicznej aparatury pomiarowej pozostałe opracowanie",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "6) badanie i ocena jakości technicznej aparatury pomiarowej - elektroniczny stół rowkowy"
-    },
-    {
-     "type": "ocr",
-     "text": "7) badanie i ocena jakości technicznej aparatury pomiarowej pozostałe"
-    },
-    {
-     "type": "ocr",
-     "text": "opracowanie"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "badanie metoda"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "badanie"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "badanie"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "badanie"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "badanie"
     },
     {
-     "type": "ocr",
-     "text": "badanie"
+     "type": "text",
+     "text": "badanie do 45 000"
     },
     {
-     "type": "ocr",
-     "text": "do 45 000"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "100 000 22 500"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3 000"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4000"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3 000"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3 000"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1 500"
     }
    ]
@@ -6367,30 +6948,31 @@
     },
     {
      "type": "note",
-     "text": "[Strona 71 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 71 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "DZIAŁ III - Monitorowanie rozmiarów importu i cen importowych"
+     "type": "heading",
+     "label": "DZIAŁ III",
+     "text": "- Monitorowanie rozmiarów importu i cen importowych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Zadania Jednostka Stawka dotacji"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Weryfikacja danych liczbowych, wykonanie prac obliczeniowych i przygotowanie miesięcznych raportów o wielkości importu towarów według narastających danych miesięcznych opracowanie"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Weryfikacja danych liczbowych, wykonanie prac obliczeniowych i przygotowanie miesięcznych raportów o cenach importowych towarów według danych miesięcznych opracowanie"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Sporządzenie uzupełniającej analizy tendencji zmian wielkości importu i cen importowych towarów w 2000 r. oraz syntezy opracowanie"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Ustalenie wielkości progowych dla towarów wymagających głębszej ochrony - w zależności od potrzeb na 2000 r. opracowanie Ustalenie cen progu dla towarów wymagających głębszej ochrony - w zależności od potrzeb - na 2001 r. oraz listy towarów objętych SSG opracowanie"
     }
    ]

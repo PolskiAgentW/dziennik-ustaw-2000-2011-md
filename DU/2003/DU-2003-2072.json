@@ -1,7 +1,7 @@
 {
  "eli": "DU/2003/2072",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 28 kwietnia 2003 r. w sprawie przepisów żeglugowych na śródlądowych drogach wodnych",
- "converter": "eli2md 0.6.17",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/2072/text.pdf",
  "body": [
   {
@@ -8945,23 +8945,35 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Zależność między I O , I B i t I — fotometryczne natężenie światła wyrażone w kandelach, zmierzone dla napięcia znamionowego dla O światła elektrycznego,",
+     "text": "Zależność między IO, IB i t",
      "children": [
       {
        "type": "text",
-       "text": "I B — eksploatacyjne natężenie światła wyrażone w kandelach, t — zasięg widzialności w kilometrach."
+       "text": "IO — fotometryczne natężenie światła wyrażone w kandelach, zmierzone dla napięcia znamionowego dla światła elektrycznego,"
       },
       {
        "type": "text",
-       "text": "Rozważając przykładowo starzenie się źródła światła, stopień zabrudzenia części optycznych czy wahania napięcia w sieci elektrycznej statku, to I B przyjmuje się o 25 % mniejsze od I O więc I B = 0.75 · I O"
+       "text": "IB — eksploatacyjne natężenie światła wyrażone w kandelach,"
       },
       {
        "type": "text",
-       "text": "Zależność między I B a t sygnału świetlnego podana jest poniższym równaniem:"
+       "text": "t — zasięg widzialności w kilometrach."
       },
       {
        "type": "text",
-       "text": "I B = 0.2 · t² · q –t"
+       "text": "Rozważając przykładowo starzenie się źródła światła, stopień zabrudzenia części optycznych czy wahania napięcia w sieci elektrycznej statku, to IB przyjmuje się o 25 % mniejsze od IO"
+      },
+      {
+       "type": "text",
+       "text": "więc IB = 0.75 · IO"
+      },
+      {
+       "type": "text",
+       "text": "Zależność między IB a t sygnału świetlnego podana jest poniższym równaniem:"
+      },
+      {
+       "type": "text",
+       "text": "IB = 0.2 · t² · q –t"
       },
       {
        "type": "text",
@@ -8982,7 +8994,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Poniższa tabela zawiera dozwolone granice I , I i t zgodnie z rodzajem świateł nawigacyjnych. Wskazane wartości odpowiadają strumieniowi światła emitowanemu O B przez latarnię. I i I — podane są w kandelach, t O B — podane jest w km."
+       "text": "Poniższa tabela zawiera dozwolone granice IO, IB i t zgodnie z rodzajem świateł nawigacyjnych. Wskazane wartości odpowiadają strumieniowi światła emitowanemu przez latarnię. IO i IB — podane są w kandelach, t — podane jest w km."
       },
       {
        "type": "text",
@@ -8994,15 +9006,15 @@
       },
       {
        "type": "text",
-       "text": "I 2.7 10.0 1.2 4.7 1.1 3.2 0.9 2.7 zwykłe I O 2.0 7.5 0.9 3.5 0.8 2.4 0.7 2.0 t B 2.3 3.7 1.7 2.8 1.6 2.5 1.5 2.3"
+       "text": "IO 2.7 10.0 1.2 4.7 1.1 3.2 0.9 2.7 zwykłe IB 2.0 7.5 0.9 3.5 0.8 2.4 0.7 2.0 t 2.3 3.7 1.7 2.8 1.6 2.5 1.5 2.3"
       },
       {
        "type": "text",
-       "text": "I 12.0 33.0 6.7 27.0 4.8 20.0 6.7 27.0 jasne I O 9.0 25.0 5.0 20.0 3.6 15.0 5.0 20.0 t B 3.9 5.3 3.2 5.0 2.9 4.6 3.2 5.0"
+       "text": "IO 12.0 33.0 6.7 27.0 4.8 20.0 6.7 27.0 jasne IB 9.0 25.0 5.0 20.0 3.6 15.0 5.0 20.0 t 3.9 5.3 3.2 5.0 2.9 4.6 3.2 5.0"
       },
       {
        "type": "text",
-       "text": "I 47.0 133.0 jaskrawe I O 35.0 100.0 t B 5.9 8.0 III. Przeświecanie świateł"
+       "text": "IO 47.0 133.0 jaskrawe IB 35.0 100.0 t 5.9 8.0 III. Przeświecanie świateł"
       }
      ]
     },
@@ -9172,7 +9184,7 @@
         },
         {
          "type": "text",
-         "text": "ciągły trzytonowy dźwięk Dziennik Ustaw Nr 212 — 14641 — Poz. 2072 B. Sygnały mijania"
+         "text": "ciągły trzytonowy dźwięk B. Sygnały mijania"
         },
         {
          "type": "text",
@@ -9216,7 +9228,11 @@
         },
         {
          "type": "text",
-         "text": "jeden krótki dźwięk nadawany przez statek idący „Zgadzam się, mijam lewą burtą” § 6.05 ust. 3 „w górę” Dziennik Ustaw Nr 212 — 14642 — Poz. 2072 B. 2. Na drogach wodnych kategorii lI"
+         "text": "jeden krótki dźwięk nadawany przez statek idący „Zgadzam się, mijam lewą burtą” § 6.05 ust. 3 „w górę”"
+        },
+        {
+         "type": "text",
+         "text": "B. 2. Na drogach wodnych kategorii lI"
         },
         {
          "type": "text",
@@ -9268,7 +9284,11 @@
         },
         {
          "type": "text",
-         "text": "dwa krótkie dźwięki nadawane przez statek „Zgadzam się, wyprzedzam § 6.10 ust. 6 wyprzedzający z waszej lewej burty” Dziennik Ustaw Nr 212 — 14643 — Poz. 2072 Brak możliwości wyprzedzania"
+         "text": "dwa krótkie dźwięki nadawane przez statek „Zgadzam się, wyprzedzam § 6.10 ust. 6 wyprzedzający z waszej lewej burty”"
+        },
+        {
+         "type": "text",
+         "text": "Brak możliwości wyprzedzania"
         },
         {
          "type": "text",
@@ -9316,7 +9336,7 @@
         },
         {
          "type": "text",
-         "text": "jeden długi i dwa krótkie dźwięki „Mam zamiar skierować się w lewo” § 6.16 ust. 2 Dziennik Ustaw Nr 212 — 14644 — Poz. 2072 F. Sygnały podczas ograniczonej widzialności"
+         "text": "jeden długi i dwa krótkie dźwięki „Mam zamiar skierować się w lewo” § 6.16 ust. 2 F. Sygnały podczas ograniczonej widzialności"
         },
         {
          "type": "text",
@@ -9375,7 +9395,7 @@
       },
       {
        "type": "text",
-       "text": "trzy serie uderzeń w dzwon powtarzane z przerwami „Znajduję się na postoju nie dłuższymi niż jedna minuta w nieokreślonym położeniu” § 6.31 ust. 1 lit. c Dziennik Ustaw Nr 212 — 14645 — Poz. 2072 F 2. Na drogach wodnych kategorii II"
+       "text": "trzy serie uderzeń w dzwon powtarzane z przerwami „Znajduję się na postoju nie dłuższymi niż jedna minuta w nieokreślonym położeniu” § 6.31 ust. 1 lit. c F 2. Na drogach wodnych kategorii II"
       },
       {
        "type": "lit",
@@ -9428,7 +9448,7 @@
       },
       {
        "type": "text",
-       "text": "jeden krótki, jeden długi i jeden krótki dźwięk, powtarzane statki na drogach wodnych z przerwami nie dłuższymi niż jedna minuta określonych przez dyrektora urzędu Dziennik Ustaw Nr 212 — 14646 — Poz. 2072"
+       "text": "jeden krótki, jeden długi i jeden krótki dźwięk, powtarzane statki na drogach wodnych z przerwami nie dłuższymi niż jedna minuta określonych przez dyrektora urzędu"
       }
      ]
     }
@@ -11141,11 +11161,7 @@
      "children": [
       {
        "type": "text",
-       "text": "A Żółta pława B Żółta pława albo żółta pława z czerwoną flagą C Żółta pława: wierzchołek w kolorze czerwonym D Żółta pława: wierzchołek w kolorze zielonym (1) Światła w tym samym kolorze mogą posiadać różny rytm, tak aby umożliwić ich rozróżnianie. Dziennik Ustaw Nr 212 — 14683 — Poz. 2072"
-      },
-      {
-       "type": "text",
-       "text": "Poniższy rysunek ilustruje postanowienia rozdziałów VI, VII i IX."
+       "text": "A Żółta pława B Żółta pława albo żółta pława z czerwoną flagą C Żółta pława: wierzchołek w kolorze czerwonym D Żółta pława: wierzchołek w kolorze zielonym (1) Światła w tym samym kolorze mogą posiadać różny rytm, tak aby umożliwić ich rozróżnianie. Poniższy rysunek ilustruje postanowienia rozdziałów VI, VII i IX."
       },
       {
        "type": "note",

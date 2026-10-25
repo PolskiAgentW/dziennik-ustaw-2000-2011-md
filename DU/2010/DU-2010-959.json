@@ -1,7 +1,7 @@
 {
  "eli": "DU/2010/959",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 lipca 2010 r. w sprawie sporządzenia aktu pełnomocnictwa do głosowania w wyborach do Parlamentu Europejskiego",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2010/959/text.pdf",
  "body": [
   {
@@ -393,47 +393,60 @@
     },
     {
      "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "_] =a"
     },
     {
-     "type": "ocr",
-     "text": "1. pisemną zgodę osoby, która wyraziła zgodę na przyjęcie pełnomocnictwa;"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "pisemną zgodę osoby, która wyraziła zgodę na przyjęcie pełnomocnictwa;",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2. kopię aktualnego orzeczenia właściwego organu orzekającego o ustaleniu stopnia niepełnosprawności wyborcy, a w przypadku obywatela UE niebędącego obywatelem polskim — tłumaczenie przysięgłe aktualnego dokumentu potwierdzającego uznanie za osobę o znacznym lub umiarkowanym stopniu niepełnosprawności (nie dotyczy wyborców, którzy najpóźniej w dniu głosowania kończą 75 lat];"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "kopię aktualnego orzeczenia właściwego organu orzekającego o ustaleniu stopnia niepełnosprawności wyborcy, a w przypadku obywatela UE niebędącego obywatelem polskim — tłumaczenie przysięgłe aktualnego dokumentu potwierdzającego uznanie za osobę o znacznym lub umiarkowanym stopniu niepełnosprawności (nie dotyczy wyborców, którzy najpóźniej w dniu głosowania kończą 75 lat];",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "3. kopię zaświadczenia o prawie do głosowania wydanego osobie, która wyraziła zgodę na przyjęcie pełnomocnictwa (załącza się wyłącznie w przypadku, gdy osoba, która wyraziła zgodę na przyjęcie pełnomocnictwa, nie jest wpisana do rejestru wyborcow w fej samej gminie co wyborca udzielający pełnomocnictwa do głosowaniaj;"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "kopię zaświadczenia o prawie do głosowania wydanego osobie, która wyraziła zgodę na przyjęcie pełnomocnictwa (załącza się wyłącznie w przypadku, gdy osoba, która wyraziła zgodę na przyjęcie pełnomocnictwa, nie jest wpisana do rejestru wyborców w fej samej gminie co wyborca udzielający pełnomocnictwa do głosowaniaj;",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4. kopię dokumentu potwierdzającego pozostawanie wyborcy z osobą, która wyraziła zgodę na przyjęcie neti Omosnietwa w A przysposo bienia/o pieki/kurateli_ (załącza się wyłącznie w przypadku, gdy taki stosunek istnieje)."
-    },
-    {
-     "type": "ocr",
-     "text": "—— a ri, i Oświadczam, że wszystkie dane zawarte we wniosku są zgodne z prawdą. | Wyborca wyraża zgodę na to, by w postępowaniu w sprawie sporządzenia aktu pełnomocnictwa byl reprezentowany przez osobę, która wyraziła zgodę na przyjęcie pełnomocnictwa: TAK NIE”"
-    },
-    {
-     "type": "ocr",
-     "text": "Wyborca nie może lub nie umie złożyć podpisu: TAK NIE” Data wypełnienia (dzień-miesiąc-rok]:"
-    },
-    {
-     "type": "ocr",
-     "text": "PE RZE \"TEZY"
-    },
-    {
-     "type": "ocr",
-     "text": "| Podpis wyborcy (w przypadku ett pare ue ante lub nie umie złożyć podpisu, w miejscu tym podpis składa osoba, która wyraziła zgodę na przyjęcie pełnomocnictwa):"
-    },
-    {
-     "type": "ocr",
-     "text": ". Niepotrzebne skreślić. Lae Wstępnym jest ojciec, matka, drindek, babka itd. Zstępnym jest syn, córka, wnuk, wnuczka itd."
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "kopię dokumentu potwierdzającego pozostawanie wyborcy z osobą, która wyraziła zgodę na przyjęcie neti Omosnietwa w A przysposo bienia/o pieki/kurateli_ (załącza się wyłącznie w przypadku, gdy taki stosunek istnieje).",
+     "children": [
+      {
+       "type": "text",
+       "text": "—— a ri, i Oświadczam, że wszystkie dane zawarte we wniosku są zgodne z prawdą. | Wyborca wyraża zgodę na to, by w postępowaniu w sprawie sporządzenia aktu pełnomocnictwa był reprezentowany przez osobę, która wyraziła zgodę na przyjęcie pełnomocnictwa: TAK NIE”"
+      },
+      {
+       "type": "text",
+       "text": "Wyborca nie może lub nie umie złożyć podpisu: TAK NIE” Data wypełnienia (dzień-miesiąc-rok]:"
+      },
+      {
+       "type": "text",
+       "text": "PE RZE \"TEZY"
+      },
+      {
+       "type": "text",
+       "text": "| Podpis wyborcy (w przypadku ett pare ue ante lub nie umie złożyć podpisu, w miejscu tym podpis składa osoba, która wyraziła zgodę na przyjęcie pełnomocnictwa):"
+      },
+      {
+       "type": "text",
+       "text": ". Niepotrzebne skreślić. Lae Wstępnym jest ojciec, matka, drindek, babka itd. Zstępnym jest syn, córka, wnuk, wnuczka itd."
+      }
+     ]
     }
    ]
   },
@@ -454,22 +467,14 @@
     },
     {
      "type": "note",
-     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "| Piszę o pozosawisnię aktu pełnomocnictwa do SdaówiA do odbioru w wats aisyfdoręczewie na"
+     "type": "text",
+     "text": "| Piszę o pozosawisnię aktu pełnomocnictwa do SdaówiA do odbioru w wats aisyfdoręczewie na | Informuję, że wyraziłam/wyraziłem” już zgodę na przyjęcie pełnomocnictwa do głosowania od (należy podać imię + | i nazwisko, PESEL, a dla obywatela UE niebędącego obywatelem polskim — nr paszportu lub nazwę i nr innego dokumentu stwierdzającego | | tożsamość oraz adres zamieszkania wyborcy): I || Oświadczam, że wszystkie powyższe dane są zgodne z prawdą. Lod ls] isl 1 on 1 1 | Podpis osoby, która wyraziła zgodę na przyjęcie pełnomocnictwa:"
     },
     {
-     "type": "ocr",
-     "text": "| Informuję, że wyraziłam/wyraziłem” już zgodę na przyjęcie pełnomocnictwa do głosowania od (nalezy podać imię + | i nazwisko, PESEL, a dla obywatela UE niebędącego obywatelem polskim — nr paszportu lub nazwę i nr innego dokumentu stwierdzającego | | tożsamość oraz adres zamieszkania wyborcy): I"
-    },
-    {
-     "type": "ocr",
-     "text": "|| Oświadczam, że wszystkie powyższe dane są zgodne z prawdą. Lod ls] isl 1 on 1 1 | Podpis osoby, która wyraziła zgodę na przyjęcie pełnomocnictwa:"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "__ Nieporzebne skreślić cue THEPHY jest ojeńec, matin, driadek, babka itd. Zstępnym jest syn, cdrka, wnuk, wnuczka itd."
     }
    ]
@@ -500,7 +505,7 @@
     },
     {
      "type": "text",
-     "text": "WYKAZ SPORZĄDZONYCH AKTÓW PEŁNOMOCNICTWA DO GŁOSOWANIA Dziennik Ustaw Nr 142 — 11315 — Poz. 959"
+     "text": "WYKAZ SPORZĄDZONYCH AKTÓW PEŁNOMOCNICTWA DO GŁOSOWANIA"
     },
     {
      "type": "note",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2009/1232",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 18 września 2009 r. w sprawie zakresu i sposobu przeprowadzania badań technicznych pojazdów oraz wzorów dokumentów stosowanych przy tych badaniach",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2009/1232/text.pdf",
  "body": [
   {
@@ -664,12 +664,11 @@
    "num": "12",
    "path": "par_12",
    "text": "Rozporządzenie wchodzi w życie z dniem 22 września 2009 r., z wyjątkiem § 1 pkt 1 lit. c oraz pkt 11.5 i 11.6 działu I załącznika nr 1 do rozporządzenia, które wchodzą w życie z dniem 31 marca 2010 r.[^8]",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Infrastruktury: w z. T. Jarmuziewicz"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Infrastruktury: w z. T. Jarmuziewicz"
   }
  ],
  "annexes": [
@@ -678,7 +677,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ CZYNNOŚCI KONTROLNYCH ORAZ METODY IKRYTERIA OCENY STANU TECHNICZNEGO POJAZDU PODCZAS PRZEPROWADZANIA OKRESOWEGO BADANIA TECHNICZNEGO POJAZDU Dziennik Ustaw Nr 155 — 11977 — Poz. 1232"
+     "text": "WYKAZ CZYNNOŚCI KONTROLNYCH ORAZ METODY IKRYTERIA OCENY STANU TECHNICZNEGO POJAZDU PODCZAS PRZEPROWADZANIA OKRESOWEGO BADANIA TECHNICZNEGO POJAZDU"
     },
     {
      "type": "note",
@@ -4599,18 +4598,18 @@
     },
     {
      "type": "note",
-     "text": "[Strona 48 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 48 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "*kk* Dla pojazdu nowego lub zarejestrowanego na terytorium Rzeczypospolitej Polskiej przed dniem I października 2004 r., data pierwszej rejestracji w kraju jest datą pierwszej rejestracji."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "****kNależy wpisywać przekroczone parametry administracyjne w zakresie mas, wymiarów, nacisków oraz ich wartości, stwierdzone niezgodności z warunkami technicznymi pojazdów, stwierdzone usterki, ograniczenia przy zezwoleniu na używanie pojazdu i jego termin, a także: informacje dotyczące wyposażenia pojazdu w zamontowane urządzenie techniczne z podaniem numeru i daty wystawienia protokołu i decyzji dopuszczającej urządzenie do eksploatacji wydanej przez właściwy organ dozoru technicznego oraz zapis informujący o braku w dowodzie rejestracyjnym miejsca przeznaczonego na odpowiedni wpis. ***kktNiepotrzebne skreślić oraz wpisać potwierdzenie przeprowadzenia czynności innych niż badanie techniczne lub spełnienie dodatkowych warunków technicznych. W przypadku badania technicznego pojażdu, o którym mowa w art. 81 ust. ll pkt 7 ustawy, wpisać odpowiednio jeden z punktów wymienionych w art. 86 ust. 4 pkt 1-4 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. Nr 54, poz. 535, z późn. zm.), np.: „art. 86 ust. 4 pkt E” (jeden)."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "UWAGA: Na wzorze zaświadczenia dopuszcza się stosowanie w tle znaków firmowych podmiotu prowadzącego stację kontroli pojazdów z zastrzeżeniem, że barwa znaków i miejsce umieszczenia znaków nie pogorszy czytelności zaświadczenia."
     }
    ]
@@ -4628,71 +4627,102 @@
     },
     {
      "type": "note",
-     "text": "[Strona 50 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 50 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(administracyjny - przewidziany przepisami krajowymi)"
     },
     {
-     "type": "ocr",
-     "text": "30. Maksymalny nacisk osi tylnej 2 ........... ee eecensnenseeesasssssnatsccsesecsesssserseeesesssssceseatisnesavevaner 0” duaugavasaucaeravacsaavernuves kN (konstrukcyjny - przewidziany przez producenta)"
+     "type": "ust",
+     "num": "30",
+     "path": "ust_30",
+     "text": "Maksymalny nacisk osi tylnej 2 ........... ee eecensnenseeesasssssnatsccsesecsesssserseeesesssssceseatisnesavevaner 0” duaugavasaucaeravacsaavernuves kN (konstrukcyjny - przewidziany przez producenta)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "31. Dopuszczalny nacisk Ogl tylnej 27) ......... eau nana aa. kN (administracyjny - przewidziany przepisami krajowymi) 32.Maksymalny nacisk osi tylnej 3... aaa zaawan ya 0 ayreveenesaeeusavengueeavasaeess kN (konstrukcyjny - przewidziany przez producenta)"
+     "type": "ust",
+     "num": "31",
+     "path": "ust_31",
+     "text": "Dopuszczalny nacisk Ogl tylnej 27) ......... eau nana aa. kN (administracyjny - przewidziany przepisami krajowymi) 32.Maksymalny nacisk osi tylnej 3... aaa zaawan ya 0 ayreveenesaeeusavengueeavasaeess kN (konstrukcyjny - przewidziany przez producenta)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "33. DOPUSZCZAINY NACISK osi tylne] 3° aaa zacz: kN (administracyjny - przewidziany przepisami krajowymi)"
+     "type": "ust",
+     "num": "33",
+     "path": "ust_33",
+     "text": "DOPUSZCZAINY NACISK osi tylne] 3° aaa zacz: kN (administracyjny - przewidziany przepisami krajowymi)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "34. Pojemność skokowa Silnika 0.0... cccccccccescesecesccseseesenecseecescasccscnvsveaeveesraesesausensasatateserssenacenteess"
+     "type": "ust",
+     "num": "34",
+     "path": "ust_34",
+     "text": "Pojemność skokowa Silnika 0.0... cccccccccescesecesccseseesenecseecescasccscnvsveaeveesraesesausensasatateserssenacenteess",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "35. Rodzaj silnika / rodzaje paliwa oo... es ee seseceeeeeeseeeecseeesneeeetaenauenecescesassessseessesusesassaecsnecesseasesssenases"
+     "type": "ust",
+     "num": "35",
+     "path": "ust_35",
+     "text": "Rodzaj silnika / rodzaje paliwa oo... es ee seseceeeeeeseeeecseeesneeeetaenauenecescesassessseessesusesassaecsnecesseasesssenases",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "36. Rodzaj dopalacza katalitycznego ..........-.....e.oe eee eee taaa any iza ati akta ika czarana"
+     "type": "ust",
+     "num": "36",
+     "path": "ust_36",
+     "text": "Rodzaj dopalacza katalitycznego ..........-.....e.oe eee eee taaa any iza ati akta ika czarana",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "37. Maksymalna moc silnika przy obrotach .......eeuesaaasaarzarsanać"
+     "type": "ust",
+     "num": "37",
+     "path": "ust_37",
+     "text": "Maksymalna moc silnika przy obrotach .......eeuesaaasaarzarsanać",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "38. Miejsce mocowania tabliczki ........-...- e eaeesa eau aaa aaa icii zaa"
+     "type": "ust",
+     "num": "38",
+     "path": "ust_38",
+     "text": "Miejsce mocowania tabliczki ........-...- e eaeesa eau aaa aaa icii zaa",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "39. Miejsce wybicia numeru VIN lub nadwozia(podwozia-ramy)? ...c..ccccescccccsccceseesseessccsecssessses enia"
+     "type": "ust",
+     "num": "39",
+     "path": "ust_39",
+     "text": "Miejsce wybicia numeru VIN lub nadwozia(podwozia-ramy)? ...c..ccccescccccsccceseesseessccsecssessses enia",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "40. Długość 7 ce ccescseeessecesereessensecesensueessssassaesesesstecssnasenseesassessseacsusesenateceneseceneaee —ococooe: _ ee m AD, SZETOKOSE ooo ec ccc cece ee veacene cane secenes saeeceseesace cane case EEEE m AZ, WYSOKOŚĆ oon. ccc cess enence rere en ceneeeneeeeesseenseneesnevineenenensveesaenenenaecanscaesinessenscseneceaesaastsaenasssasieccieneuesees 0 eeatasasaueeecsaeesaecsegeecense m AB. to) Se) coo [1| 1] | NOOO"
-    },
-    {
-     "type": "ocr",
-     "text": "(tres¢ opinii rzeczoznawcy samochodowego, firma)"
-    },
-    {
-     "type": "ocr",
-     "text": "Dodatkowe informacje***:"
-    },
-    {
-     "type": "ocr",
-     "text": "(data badania) (pieczątka identyfikacyjna (podpis, pieczątka imienna uprawnionego diagnosty) uprawnionego diagnosty)"
-    },
-    {
-     "type": "ocr",
-     "text": "UWAGA: W pozycjach niedotyczących danego rodzaju pojazdu należy umieścić znak „X”."
-    },
-    {
-     "type": "ocr",
-     "text": "*) Niepotrzebne skreślić. ™) W przypadku naczep przez długość rozumie się odległość między osią sworznia sicdtowego urządzenia sprzęgającego a tylnym obrysem naczępy. *mNależy wymienić dodatkowe wyposażenie pojazdu takie, jak np. hak, urządzenia podlegające dozorowi technicznemu, wyposażenie w instalację do zasilania gazem. Vwyariant/wersję podać, o ile występuje. A Wskazać tylko jeden z podstawowych kalorów, np: biały, żółty, pomarańczowy, czerwony, fioletowy, niebieski, zielony, szary, brązowy, czamy. , * Podkreślić wartość największą."
+     "type": "ust",
+     "num": "40",
+     "path": "ust_40",
+     "text": "Długość 7 ce ccescseeessecesereessensecesensueessssassaesesesstecssnasenseesassessseacsusesenateceneseceneaee —ococooe: _ ee m AD, SZETOKOSE ooo ec ccc cece ee veacene cane secenes saeeceseesace cane case EEEE m AZ, WYSOKOŚĆ oon. ccc cess enence rere en ceneeeneeeeesseenseneesnevineenenensveesaenenenaecanscaesinessenscseneceaesaastsaenasssasieccieneuesees 0 eeatasasaueeecsaeesaecsegeecense m AB. to) Se) coo [1| 1] | NOOO",
+     "children": [
+      {
+       "type": "text",
+       "text": "(tres¢ opinii rzeczoznawcy samochodowego, firma)"
+      },
+      {
+       "type": "text",
+       "text": "Dodatkowe informacje***:"
+      },
+      {
+       "type": "text",
+       "text": "(data badania) (pieczątka identyfikacyjna (podpis, pieczątka imienna uprawnionego diagnosty) uprawnionego diagnosty)"
+      },
+      {
+       "type": "text",
+       "text": "UWAGA: W pozycjach niedotyczących danego rodzaju pojazdu należy umieścić znak „X”."
+      },
+      {
+       "type": "text",
+       "text": "*) Niepotrzebne skreślić. ™) W przypadku naczep przez długość rozumie się odległość między osią sworznia sicdtowego urządzenia sprzęgającego a tylnym obrysem naczępy. *mNależy wymienić dodatkowe wyposażenie pojazdu takie, jak np. hak, urządzenia podlegające dozorowi technicznemu, wyposażenie w instalację do zasilania gazem. Vwyariant/wersję podać, o ile występuje. A Wskazać tylko jeden z podstawowych kalorów, np: biały, żółty, pomarańczowy, czerwony, fioletowy, niebieski, zielony, szary, brązowy, czamy. , * Podkreślić wartość największą."
+      }
+     ]
     }
    ]
   },
@@ -4701,7 +4731,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ CZYNNOŚCI KONTROLNYCH ORAZ METODY IKRYTERIA OCENY STANU TECHNICZNEGO POJAZDU PODCZAS PRZEPROWADZANIA DODATKOWEGO BADANIA TECHNICZNEGO POJAZDU Dziennik Ustaw Nr 155 — 12022 — Poz. 1232"
+     "text": "WYKAZ CZYNNOŚCI KONTROLNYCH ORAZ METODY IKRYTERIA OCENY STANU TECHNICZNEGO POJAZDU PODCZAS PRZEPROWADZANIA DODATKOWEGO BADANIA TECHNICZNEGO POJAZDU"
     },
     {
      "type": "note",
@@ -5344,83 +5374,131 @@
     },
     {
      "type": "note",
-     "text": "[Strona 63 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 63 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "OBJAŚNIENIA: ) Kategoria pojazdu przyjęta na potrzeby homologacji (odpowiednio N), No, lub N; dla pojazdów samochodowych i Oj, O2, O3, lub Og dla przyczep i naczep). > Wykreślić, jeżeli nie dotyczy badanego pojazdu. Odpowiednio do wyniku badania uprawniony diagnosta stwierdza w zaświadczeniu, że pojazd odpowiada warunkom technicznym podanym w załączniku B do umowy ADR dla określonych w tym załączniku następujących typów pojazdów:"
     },
     {
-     "type": "ocr",
-     "text": "l) ,,FL\" — oznaczającego:"
+     "type": "lit",
+     "num": "l",
+     "path": "lit_l",
+     "text": ",,FL\" — oznaczającego:",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "a) pojazd przeznaczony do przewozu materiałów ciekłych o temperaturze zapłonu nie wyższej niż 60 °C (z wyjątkiem UN 1202 paliwa do silników Diesla zgodnego z normą EN 590:2004, oleju gazowego i oleju opałowego (lekkiego) o temperaturze zapłonu określonej w normie EN 590:2004) w cysternach stałych lub odejmowalnych o pojemności przekraczającej I m* lub w kontenerach-cysternach lub cysternach przenośnych o pojemności całkowitej przekraczającej 3 m”; lub"
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "pojazd przeznaczony do przewozu materiałów ciekłych o temperaturze zapłonu nie wyższej niż 60 °C (z wyjątkiem UN 1202 paliwa do silników Diesla zgodnego z normą EN 590:2004, oleju gazowego i oleju opałowego (lekkiego) o temperaturze zapłonu określonej w normie EN 590:2004) w cysternach stałych lub odejmowalnych o pojemności przekraczającej I m* lub w kontenerach-cysternach lub cysternach przenośnych o pojemności całkowitej przekraczającej 3 m”; lub",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "b) pojazd przeznaczony do przewozu gazów palnych w cysternach stałych lub cysternach odejmowalnych o pojemności przekraczającej 1 m* lub w kontenerachcysternach, cysternach przenośnych lub wieloelementowych kontenerach do gazu"
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "pojazd przeznaczony do przewozu gazów palnych w cysternach stałych lub cysternach odejmowalnych o pojemności przekraczającej 1 m* lub w kontenerachcysternach, cysternach przenośnych lub wieloelementowych kontenerach do gazu",
+     "children": [
+      {
+       "type": "text",
+       "text": "(MEGC) o pojemności całkowitej przekraczającej 3 m”; lub"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "(MEGC) o pojemności całkowitej przekraczającej 3 m”; lub"
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "pojazd-baterię przeznaczony do przewozu gazów palnych o pojemności całkowitej przekraczającej 3 m;",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "c) pojazd-baterię przeznaczony do przewozu gazów palnych o pojemności całkowitej przekraczającej 3 m;"
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": ",OX\" - oznaczającego pojazd przeznaczony do przewozu nadtlenku wodoru stabilizowanego lub nadtlenku wodoru stabilizowanego w roztworze wodnym, o zawartości nadtlenku wodoru przekraczającego 60 % (klasa 5.1 według umowy ADR, numer UN 2015), w cysternach stałych lub cysternach odejmowalnych o pojemności przekraczającej 1 m’, albo w kontenerach-cysternach lub cysternach przenośnych, o pojemności całkowitej przekraczającej 3 m”;",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2) ,OX\" - oznaczającego pojazd przeznaczony do przewozu nadtlenku wodoru stabilizowanego lub nadtlenku wodoru stabilizowanego w roztworze wodnym, o zawartości nadtlenku wodoru przekraczającego 60 % (klasa 5.1 według umowy ADR, numer UN 2015), w cysternach stałych lub cysternach odejmowalnych o pojemności przekraczającej 1 m’, albo w kontenerach-cysternach lub cysternach przenośnych, o pojemności całkowitej przekraczającej 3 m”;"
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": ",AT\" — oznaczającego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_3/lit_a",
+       "text": "pojazd inny niż pojazd EX/III, „FL\" lub „OX”, przeznaczony do przewozu towarów niebezpiecznych w cysternach stałych, cysternach odejmowalnych o pojemności przekraczającej 1 mó, lub w kontenerach-cysternach, cysternach przenośnych lub wieloelementowych kontenerach do gazu (MEGC) o pojemności całkowitej przekraczającej 3 m”; lub",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_3/lit_b",
+       "text": "pojazd-baterię, inny niż pojazd FL, o pojemności całkowitej przekraczającej 1 m”;",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "3) ,AT\" — oznaczającego:"
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": ",,EX/II\" - oznaczającego pojazd przeznaczony do przewozu materiałów i przedmiotów wybuchowych (klasy 1);",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "a) pojazd inny niż pojazd EX/III, „FL\" lub „OX”, przeznaczony do przewozu towarów niebezpiecznych w cysternach stałych, cysternach odejmowalnych o pojemności przekraczającej 1 mó, lub w kontenerach-cysternach, cysternach przenośnych lub wieloelementowych kontenerach do gazu (MEGC) o pojemności całkowitej przekraczającej 3 m”; lub"
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": ",EX/II” - oznaczającego pojazd inny niż pojazd „EX/IT”, przeznaczony do przewozu materiałów i przedmiotów wybuchowych (klasy 1); albo stwierdza, że nie spełnia tych wymagań dla żadnego z wymienionych typów pojazdów;",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "b) pojazd-baterię, inny niż pojazd FL, o pojemności całkowitej przekraczającej 1 m”;"
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": ",MEMU” — oznaczającego jednostkę wytwarzającą lub pojazd z zamontowaną jednostką służącą do wytwarzania i elaborowania materiałów wybuchowych otrzymywanych z towarów niebezpiecznych, które nie są materiałami wybuchowymi. Jednostka taka składa się z cysterm, kontenerów do przewozu luzem, aparatury do wytwarzania, pomp, oraz związanego z nimi wyposażenia. >?) Odpowiednio do wyniku badania technicznego pojazdu uprawniony diagnosta podaje dodatkowo w zaświadczeniu następujące informacje:",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4) ,,EX/II\" - oznaczającego pojazd przeznaczony do przewozu materiałów i przedmiotów wybuchowych (klasy 1);"
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "numer, datę wydania i datę ważności protokołu Transportowego Dozoru Technicznego (TDT), stwierdzającego, że cysterna (y) lub elementy pojazdu-baterii/MEMU odpowiadają warunkom technicznym podanym w załączniku B do umowy ADR - w przypadku określonych w tym załączniku cystern lub elementów pojazdu-baterii;",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "5) ,EX/II” - oznaczającego pojazd inny niż pojazd „EX/IT”, przeznaczony do przewozu materiałów i przedmiotów wybuchowych (klasy 1); albo stwierdza, że nie spełnia tych wymagań dla żadnego z wymienionych typów pojazdów;"
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "dopuszczalną masę całkowitą jednostki transportowej, dla której wystarczająca jest skuteczność zwalniacza - w przypadku pojazdów samochodowych typu: ,,FL\", „OX”, „AT”, „EŚJIII\", „MEMU”, dla których zwalniacz jest wymagany na podstawie przepisów załącznika B do umowy ADR;",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "6) ,MEMU” — oznaczającego jednostkę wytwarzającą lub pojazd z zamontowaną jednostką służącą do wytwarzania i elaborowania materiałów wybuchowych otrzymywanych z towarów niebezpiecznych, które nie są materiałami wybuchowymi. Jednostka taka składa się z cysterm, kontenerów do przewozu luzem, aparatury do wytwarzania, pomp, oraz związanego z nimi wyposażenia. >?) Odpowiednio do wyniku badania technicznego pojazdu uprawniony diagnosta podaje dodatkowo w zaświadczeniu następujące informacje:"
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "stwierdzenie, że instalacja elektryczna w przedziale ładunkowym odpowiada dodatkowym warunkom technicznym określonym w załączniku B do umowy ADR dla materiałów",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 64 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "wybuchowych klasy pierwszej, grupy zgodności J według umowy ADR - w przypadku pojazdów ,,EX/II\" i „EAAII\" przeznaczonych do przewozu tych materiałów, oraz"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "1) numer, datę wydania i datę ważności protokołu Transportowego Dozoru Technicznego (TDT), stwierdzającego, że cysterna (y) lub elementy pojazdu-baterii/MEMU odpowiadają warunkom technicznym podanym w załączniku B do umowy ADR - w przypadku określonych w tym załączniku cystern lub elementów pojazdu-baterii;"
-    },
-    {
-     "type": "ocr",
-     "text": "2) dopuszczalną masę całkowitą jednostki transportowej, dla której wystarczająca jest skuteczność zwalniacza - w przypadku pojazdów samochodowych typu: ,,FL\", „OX”, „AT”, „EŚJIII\", „MEMU”, dla których zwalniacz jest wymagany na podstawie przepisów załącznika B do umowy ADR;"
-    },
-    {
-     "type": "ocr",
-     "text": "3) stwierdzenie, że instalacja elektryczna w przedziale ładunkowym odpowiada dodatkowym warunkom technicznym określonym w załączniku B do umowy ADR dla materiałów"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 64 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "wybuchowych klasy pierwszej, grupy zgodności J według umowy ADR - w przypadku pojazdów ,,EX/II\" i „EAAII\" przeznaczonych do przewozu tych materiałów, oraz"
-    },
-    {
-     "type": "ocr",
-     "text": "4) numer, datę wydania 1 nazwę upoważnionej jednostki badawczej z wyciągu ze świadectwa homologacji wystawionego przez producenta lub importera pojazdu na podstawie Regulaminu EKG ONZ Nr 105 - w przypadku gdy dla typu pojazdu podstawowego badanego pojazdu wydano takie świadectwo homologacji i przedstawiono je przed rozpoczęciem badania technicznego pojazdu. Dla pojazdu-cysterny lub pojazdu-baterii lub pojazdu MEMU podkreślić właściwą nazwę. W pozostałych przypadkach skreślić całe zdanie. W przypadku pojazdów samochodowych, dla których wymagany jest zwalniacz, wpisać właściwą wartość. W pozostałych przypadkach skreślić całe zdanie. ® W przypadku pojazdu „EX/IP” lub ,,EX/III” właściwe podkreślić. W pozostałych przypadkach skreślić całe zdanie. W przypadku gdy nie przedstawiono wyciągu ze Świadectwa homologacji typu pojazdu, wykreślić całe zdanie."
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "numer, datę wydania 1 nazwę upoważnionej jednostki badawczej z wyciągu ze świadectwa homologacji wystawionego przez producenta lub importera pojazdu na podstawie Regulaminu EKG ONZ Nr 105 - w przypadku gdy dla typu pojazdu podstawowego badanego pojazdu wydano takie świadectwo homologacji i przedstawiono je przed rozpoczęciem badania technicznego pojazdu. Dla pojazdu-cysterny lub pojazdu-baterii lub pojazdu MEMU podkreślić właściwą nazwę. W pozostałych przypadkach skreślić całe zdanie. W przypadku pojazdów samochodowych, dla których wymagany jest zwalniacz, wpisać właściwą wartość. W pozostałych przypadkach skreślić całe zdanie. ® W przypadku pojazdu „EX/IP” lub ,,EX/III” właściwe podkreślić. W pozostałych przypadkach skreślić całe zdanie. W przypadku gdy nie przedstawiono wyciągu ze Świadectwa homologacji typu pojazdu, wykreślić całe zdanie.",
+     "children": []
     }
    ]
   },
@@ -5450,35 +5528,51 @@
     },
     {
      "type": "note",
-     "text": "[Strona 67 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 67 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Objaśnienia: 1."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "SKP - skrót wyrazów Stacja Kontroli Pojazdów."
     },
     {
-     "type": "ocr",
-     "text": "2. XXX/000, XXX/000/P - kody rozpoznawcze stacji kontroli pojazdów składające się z następujących elementów: XXX - właściwy wyróżnik województwa i powiatu oznaczony według przepisów dotyczących rejestracji I oznaczania pojazdów (dwie lub odpowiednio trzy litery), 000 - numer kolejny stacji kontroli pojazdów (dla stacji działających w dniu wejścia w życie rozporządzenia - numer nadany na podstawie dotychczasowych przepisów), P - stały element kodu rozpoznawczego podstawowych stacji kontroli pojazdów. XXX/D/0000 - numer uprawnienia diagnosty składający się z następujących elementów: XXX - właściwy wyróżnik województwa i powiatu oznaczony według przepisów dotyczących rejestracji i oznaczania pojazdów (dwie lub odpowiednio trzy litery), D - stały element numeru uprawnienia diagnosty, oznaczający: ,diagnosta\", 0600 - kolejny numer diagnosty. UWAGA: Numer uprawnienia diagnosty zostaje zachowany w przypadku:"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "XXX/000, XXX/000/P - kody rozpoznawcze stacji kontroli pojazdów składające się z następujących elementów: XXX - właściwy wyróżnik województwa i powiatu oznaczony według przepisów dotyczących rejestracji I oznaczania pojazdów (dwie lub odpowiednio trzy litery), 000 - numer kolejny stacji kontroli pojazdów (dla stacji działających w dniu wejścia w życie rozporządzenia - numer nadany na podstawie dotychczasowych przepisów), P - stały element kodu rozpoznawczego podstawowych stacji kontroli pojazdów. XXX/D/0000 - numer uprawnienia diagnosty składający się z następujących elementów: XXX - właściwy wyróżnik województwa i powiatu oznaczony według przepisów dotyczących rejestracji i oznaczania pojazdów (dwie lub odpowiednio trzy litery), D - stały element numeru uprawnienia diagnosty, oznaczający: ,diagnosta\", 0600 - kolejny numer diagnosty. UWAGA: Numer uprawnienia diagnosty zostaje zachowany w przypadku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "zmiany uprawnienia diagnosty;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "zmiany stacji kontroli pojazdów, na której jest zatrudniony;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "zmiany miejsca zamieszkania związanej ze zmianą właściwości miejscowej organu wydającego uprawnienie diagnosty. Przykładowa nazwa, adres i numer telefonu stacji kontroli pojazdów upoważnionej do przeprowadzania badań technicznych pojazdów. Przykładowe dane uprawnionego diagnosty. Symbole rodzajów pojazdów: A - motocykle i motorowery, B- pojazdy samochodowe o dopuszczalnej masie całkowitej do 3,5 t, z wyłączeniem motocykli i motorowerów, C - pojazdy samochodowe o dopuszczalnej masie całkowitej powyżej 3,5 t do 16 t, lub CC - pojazdy samochodowe o dopuszczalnej masie całkowitej powyżej 3,5 t, D - autobusy o dopuszczalnej masie całkowitej powyżej 3,5 t, T - ciągniki rolnicze, E - przyczepy przeznaczone do łączenia z pojazdami silnikowymi, do których jest upoważniona stacja kontroli pojazdów.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "1) zmiany uprawnienia diagnosty;"
-    },
-    {
-     "type": "ocr",
-     "text": "2) zmiany stacji kontroli pojazdów, na której jest zatrudniony;"
-    },
-    {
-     "type": "ocr",
-     "text": "3) zmiany miejsca zamieszkania związanej ze zmianą właściwości miejscowej organu wydającego uprawnienie diagnosty. Przykładowa nazwa, adres i numer telefonu stacji kontroli pojazdów upoważnionej do przeprowadzania badań technicznych pojazdów. Przykładowe dane uprawnionego diagnosty. Symbole rodzajów pojazdów: A - motocykle i motorowery, B- pojazdy samochodowe o dopuszczalnej masie całkowitej do 3,5 t, z wyłączeniem motocykli i motorowerów, C - pojazdy samochodowe o dopuszczalnej masie całkowitej powyżej 3,5 t do 16 t, lub CC - pojazdy samochodowe o dopuszczalnej masie całkowitej powyżej 3,5 t, D - autobusy o dopuszczalnej masie całkowitej powyżej 3,5 t, T - ciągniki rolnicze, E - przyczepy przeznaczone do łączenia z pojazdami silnikowymi, do których jest upoważniona stacja kontroli pojazdów."
-    },
-    {
-     "type": "ocr",
-     "text": "7. Symbole rodzajów badań: a - autobusów, których dopuszczalna prędkość na autostradzie i drodze ekspresowej wynosi 100 km/h, ¢ - pojazdów przystosowanych do zasilania gazem, d - pojazdów zarejestrowanych po raz pierwszy za granicą lub pojazdów nowego typu wyprodukowanych lub importowanych w ilości jednej sztuki rocznie, e - pojazdów skierowanych na badania techniczne przez organ kontroli ruchu drogowego lub starostę, dla których wymagane jest specjalistyczne badanie, oraz pojazdów, w których dokonano zmian konstrukcyjnych lub wymiany elementów powodujących zmianę danych w dowodzie rejestracyjnym, f - pojazdu marki „SAM” co do zgodności z warunkami technicznymi, h - umieszczanie nadanych cech identyfikacyjnych pojazdu."
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Symbole rodzajów badań: a - autobusów, których dopuszczalna prędkość na autostradzie i drodze ekspresowej wynosi 100 km/h, ¢ - pojazdów przystosowanych do zasilania gazem, d - pojazdów zarejestrowanych po raz pierwszy za granicą lub pojazdów nowego typu wyprodukowanych lub importowanych w ilości jednej sztuki rocznie, e - pojazdów skierowanych na badania techniczne przez organ kontroli ruchu drogowego lub starostę, dla których wymagane jest specjalistyczne badanie, oraz pojazdów, w których dokonano zmian konstrukcyjnych lub wymiany elementów powodujących zmianę danych w dowodzie rejestracyjnym, f - pojazdu marki „SAM” co do zgodności z warunkami technicznymi, h - umieszczanie nadanych cech identyfikacyjnych pojazdu.",
+     "children": []
     }
    ]
   }

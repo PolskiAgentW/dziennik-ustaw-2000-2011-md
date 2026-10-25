@@ -1,7 +1,7 @@
 {
  "eli": "DU/2003/163",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 stycznia 2003 r. w sprawie postępowania przy zwalczaniu chorób zakaźnych zwierząt",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/163/text.pdf",
  "body": [
   {
@@ -3975,10 +3975,6 @@
     {
      "type": "text",
      "text": "1 2 3 4 5 6 7 8 9 10 Zam. 93 — korekta: 04.02.2003 r."
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 18 — 1260 — Poz. 163"
     }
    ]
   },
@@ -3995,47 +3991,59 @@
     },
     {
      "type": "note",
-     "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 23 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Il. DOCHODZENIE EPIZOOTYCZNE"
     },
     {
-     "type": "ocr",
-     "text": "1. Wyjaśnienia posiadacza zwierzęcia:"
-    },
-    {
-     "type": "ocr",
-     "text": "(data i podpis składającego zeznania) 2.Wyjaśnienia świadków : imię i nazwisko oraz adres 1. eee aaa aaa"
-    },
-    {
-     "type": "note",
-     "text": "[Strony 24-25 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 26 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "VI. ROZPOZNANIE Na podstawie przebiegu choroby, wyniku badania: klinicznego — poubojowego — sekcyjnego — laboratoryjnego ”"
-    },
-    {
-     "type": "ocr",
-     "text": "1) została stwierdzona choroba zakaźna zwierząt"
-    },
-    {
-     "type": "ocr",
-     "text": "( podpis i pieczęć powiatowego lekarza weterynarii )"
-    },
-    {
-     "type": "ocr",
-     "text": "*) Niepotrzebne skreślić."
-    },
-    {
-     "type": "ocr",
-     "text": "VII. UWAGI —- powiatowego lekarza weterynarii dotyczące w szczególności: wydanych decyzji, przeprowadzonych perlustracji, szczepień, oczyszczania i odkażania gospodarstw oraz miejsc uboju zwierząt i przerobu mięsa, a także innych miejsc przetwarzania artykułów zwierzęcego pochodzenia, m.in. mleczarni, garbarni, zakładów utylizacyjnych, miejsc spalania zwłok zwierzęcych, grzebowisk, przebiegu epizootii, daty wygaszenia ogniska choroby."
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wyjaśnienia posiadacza zwierzęcia:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(data i podpis składającego zeznania) 2.Wyjaśnienia świadków : imię i nazwisko oraz adres 1. eee aaa aaa"
+      },
+      {
+       "type": "note",
+       "text": "[Strony 24-25 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 26 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "VI. ROZPOZNANIE"
+      },
+      {
+       "type": "text",
+       "text": "Na podstawie przebiegu choroby, wyniku badania: klinicznego — poubojowego — sekcyjnego — laboratoryjnego ”"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "została stwierdzona choroba zakaźna zwierząt",
+       "children": [
+        {
+         "type": "text",
+         "text": "( podpis i pieczęć powiatowego lekarza weterynarii )"
+        },
+        {
+         "type": "text",
+         "text": "*) Niepotrzebne skreślić."
+        },
+        {
+         "type": "text",
+         "text": "VII. UWAGI —- powiatowego lekarza weterynarii dotyczące w szczególności: wydanych decyzji, przeprowadzonych perlustracji, szczepień, oczyszczania i odkażania gospodarstw oraz miejsc uboju zwierząt i przerobu mięsa, a także innych miejsc przetwarzania artykułów zwierzęcego pochodzenia, m.in. mleczarni, garbarni, zakładów utylizacyjnych, miejsc spalania zwłok zwierzęcych, grzebowisk, przebiegu epizootii, daty wygaszenia ogniska choroby."
+        }
+       ]
+      }
+     ]
     }
    ]
   },
@@ -4052,135 +4060,191 @@
     },
     {
      "type": "note",
-     "text": "[Strona 28 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 28 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "B. Badanie wewnętrzne"
     },
     {
-     "type": "ocr",
-     "text": "1. Jama brzuszna"
-    },
-    {
-     "type": "ocr",
-     "text": "1) niewłaściwa zawartość .......-s ccesecssssssssssesssnscessesusesssssoesssaaessersenesescaessacscesssaustessecessuseessesessens"
-    },
-    {
-     "type": "ocr",
-     "text": "2) położenie widocznych CZESCi oo... eseseseecesessesesessecessscssesseseseacsesnsecsussussesesacsnsseassessuatensscsseueneacers"
-    },
-    {
-     "type": "ocr",
-     "text": "3) wygląd widocznych CZĘŚCI oc. eseeeesssesssesessecstacscseecsessesasssseseecsesescessesceescsescsesssuseescacssecssseecees"
-    },
-    {
-     "type": "ocr",
-     "text": "4) PEZOPOMA PONO OCZEK vy YO"
-    },
-    {
-     "type": "ocr",
-     "text": "6) jelito czcze i biodrowe occ ue aaa aaa aaa ananasa aaa POKO zai: OCENE"
-    },
-    {
-     "type": "ocr",
-     "text": "8) jelito Slepe EA"
-    },
-    {
-     "type": "ocr",
-     "text": "9) krezka wraz z gruczołami chłonnymi |... cece ssseseceecessesecsessssanesesssesssseseatsseacaesseseeneces"
-    },
-    {
-     "type": "ocr",
-     "text": "10) SledZioma AA TL) trzustha WO EEEE"
-    },
-    {
-     "type": "ocr",
-     "text": "12) dwunastnica i żołądek ........ceccescesesessscoescoesescssnsscscsessaesesssssasssseesvsssususussusussasscsavasseseceasaens u przeżuwaczy: A) ZWACT Z DB) KS UE A WIOCHA |G) trawieniec .........-.eemueaaaanaaaaananii EEEE"
-    },
-    {
-     "type": "ocr",
-     "text": "13) Watroba OE"
-    },
-    {
-     "type": "ocr",
-     "text": "14) pecherzyk ZOICIOWY ZEE"
-    },
-    {
-     "type": "ocr",
-     "text": "15) nerki i nadnercza oo... eeeseseesscsesessssssssesescsencsssssesssssscnesesssesesesssesesesessssassusesscsvaseonssasssasseesaens"
-    },
-    {
-     "type": "ocr",
-     "text": "16) pęcherz moczowy i MOCZOWOJY ..........esceesesceessesesessesssesssescousssscsesssseaesesessssessseeneeensestasscascess"
-    },
-    {
-     "type": "ocr",
-     "text": "17) wewnętrzne organy płciowe |... userow aaa rara rawa"
-    },
-    {
-     "type": "ocr",
-     "text": "18) aorta brzuszna i większe naczynia krwionośne ...........c.ccccssesssessssssscsssscscsesscsescesecsescectavscnenees"
-    },
-    {
-     "type": "ocr",
-     "text": "19) mięśnie kręgosłupa i miednicy 0.0.0... eee ecsssceecsesescsescessesceseacasonssacececorsesssscsesessussuscescnenseaceceese"
-    },
-    {
-     "type": "ocr",
-     "text": "20) kości kręgosłupa i miednicy oo... eee ceesseseecsenecsesessesecesessesassssatsaesssasesseseesseaesecesesensesensesauss"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Jama piersiowa"
-    },
-    {
-     "type": "ocr",
-     "text": "1) mięśnie klatki piersiowej oo... esesessessssesssessessessesssansnssesseseecssesseeeasesensassevasssssesssecneaserenes"
-    },
-    {
-     "type": "ocr",
-     "text": "2) mostek i części chrzęstne żeber .........csesssesssssssecsssessscseseesecanscscessssscesscsesssesasesssesssssscavaveseees"
-    },
-    {
-     "type": "ocr",
-     "text": "3) opłucna i jama opłucnowa ........escscsessessessessssesscssessscasssvessenssessucsesancsncsecscseesesssaceesersessesssesess"
-    },
-    {
-     "type": "ocr",
-     "text": "4) wygląd i wielkość widocznych części płuc... sowa anawa azotan naw etwa"
-    },
-    {
-     "type": "ocr",
-     "text": "5) śródpiersie wraz z węzłami chłonnymi ...........cccscescsscseesesseeecsssessseuscscassssuseecssacssuessevseeencaces"
-    },
-    {
-     "type": "ocr",
-     "text": "6) większe naczynia krwionośne ..........ccccssssscsssecssescscsesessescscsevesssssvsssvsvesssssasssscsavaneseesesarenavenesaes"
-    },
-    {
-     "type": "ocr",
-     "text": "7) worek osierdziowy wraz Z ZAWartoŚCIiĄ |... eee awa wwa aaa CYK (EEE"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 29 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 30 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "C. Orzeczenie Na podstawie wyniku sekcji stwierdzam, że wyżej opisane zwierzę(ta) padło(y)* , zabito z nakazu organu Inspekcji Weterynaryjnej* - było(y) / nie było(y)* dotknięte chorobą zakaźną ..........-ee.2e- eee eee ana a owa aawawaaaaawaaaaaaaa zenon ( podać nazwę choroby zakażnej ) - padło(y) wskutek zastosowania zabiegów nakazanych przez organy Inspekcji Weterynaryjnej."
-    },
-    {
-     "type": "ocr",
-     "text": "(data) (pieczęć i podpis powiatowego lekarza weterynarii)"
-    },
-    {
-     "type": "ocr",
-     "text": "* Niepotrzebne skreślić."
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Jama brzuszna",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "niewłaściwa zawartość .......-s ccesecssssssssssesssnscessesusesssssoesssaaessersenesescaessacscesssaustessecessuseessesessens",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "położenie widocznych CZĘŚCi oo... eseseseecesessesesessecessscssesseseseacsesnsecsussussesesacsnsseassessuatensscsseueneacers",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "wygląd widocznych CZĘŚCI oc. eseeeesssesssesessecstacscseecsessesasssseseecsesescessesceescsescsesssuseescacssecssseecees",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "PEZOPOMA PONO OCZEK vy YO",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "jelito czcze i biodrowe occ ue aaa aaa aaa ananasa aaa POKO zai: OCENĘ",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "jelito Ślepe EA",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_1/pkt_9",
+       "text": "krezka wraz z gruczołami chłonnymi |... cece ssseseceecessesecsessssanesesssesssseseatsseacaesseseeneces",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_1/pkt_10",
+       "text": "SledZioma AA TL) trzustha WO EEEE",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_1/pkt_12",
+       "text": "dwunastnica i żołądek ........ceccescesesessscoescoesescssnsscscsessaesesssssasssseesvsssususussusussasscsavasseseceasaens u przeżuwaczy: A) ZWACT Z",
+       "children": [
+        {
+         "type": "text",
+         "text": "„_ d) trawieniec oo... cece eeceeeeen EEEE",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "13) Watroba OE",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "14) pęcherzyk ZOICIOWY ZEE",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "15) nerki i nadnercza oo... eeeseseesscsesessssssssesescsencsssssesssssscnesesssesesesssesesesessssassusesscsvaseonssasssasseesaens",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "16) pęcherz moczowy i MOCZOWOAY .......cscesssssesesessssssescsecsessesesesesessseseessnsescauevsssussaeserensuneseaesens",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "17) wewnętrzne organy płciowe ......... ce esesessesesseestenececsenssseseneauaccesscscsesesssssssesescnessseesseneceasersctanes",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "18) aorta brzuszna i większe naczynia krwionośne ...........c.ccccssesssessssssscsssscscsesscsescesecsescectavscnenees",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "19) mięśnie kręgosłupa i miednicy 0.0.0... eee ecsssceecsesescsescessesceseacasonssacececorsesssscsesessussuscescnenseaceceese",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "20) kości kręgosłupa i miednicy oo... eee ceesseseecsenecsesessesecesessesassssatsaesssasesseseesseaesecesesensesensesauss",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Jama piersiowa",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) mięśnie klatki piersiowej oo... esesessessssesssessessessesssansnssesseseecssesseeeasesensassevasssssesssecneaserenes",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) mostek i części chrzęstne żeber .........csesssesssssssecsssessscseseesecanscscessssscesscsesssesasesssesssssscavaveseees",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) opłucna i jama opłucnowa ........escscsessessessessssesscssessscasssvessenssessucsesancsncsecscseesesssaceesersessesssesess",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) wygląd i wielkość widocznych części płuc... sowa a nawa azotan naw etwa",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5) śródpiersie wraz z węzłami chłonnymi ...........cccscescsscseesesseeecsssessseuscscassssuseecssacssuessevseeencaces",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6) większe naczynia krwionośne ..........ccccssssscsssecssescscsesessescscsevesssssvsssvsvesssssasssscsavaneseesesarenavenesaes",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "7) worek osierdziowy wraz Z ZAWartoŚCIiĄ |... eee awa wwa aaa CYK (EEE",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 29 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 30 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "C. Orzeczenie Na podstawie wyniku sekcji stwierdzam, że wyżej opisane zwierzę(ta) padło(y)* , zabito z nakazu organu Inspekcji Weterynaryjnej* - było(y) / nie było(y)* dotknięte chorobą zakaźną ..........-ee.2e- eee eee ana a owa aawawaaaaawaaaaaaaa zenon ( podać nazwę choroby zakażnej ) - padło(y) wskutek zastosowania zabiegów nakazanych przez organy Inspekcji Weterynaryjnej.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "(data) (pieczęć i podpis powiatowego lekarza weterynarii)",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "* Niepotrzebne skreślić.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
     }
    ]
   },

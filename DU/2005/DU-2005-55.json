@@ -1,7 +1,7 @@
 {
  "eli": "DU/2005/55",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 grudnia 2004 r. w sprawie sposobu prowadzenia ewidencji wód, urządzeń melioracji wodnych oraz zmeliorowanych gruntów",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/55/text.pdf",
  "body": [
   {
@@ -490,22 +490,17 @@
    "num": "7",
    "path": "par_7",
    "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Rolnictwa i Rozwoju Wsi: w z. S. Kowalczyk"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa i Rozwoju Wsi: w z. S. Kowalczyk"
   }
  ],
  "annexes": [
   {
    "heading": "Załączniki do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 grudnia 2004 r. (poz. 55) Załącznik nr 1",
    "body": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 7 — 579 — Poz. 55"
-    },
     {
      "type": "note",
      "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
@@ -702,26 +697,26 @@
     },
     {
      "type": "note",
-     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(znak)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(objaśnienie) akwedukt"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "przewał"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(znak) (objaśnienie) .. PW przepust wałowy ... PP bród przepust z piętrzeniem ... PRZ myst —t ST hydrant ai stopień studzienka na rurociągu jaz grawitacyjnym studzienka na rurociągu kładka tłocznym z podaniem funkcji, np. hydrantowa-H ... SN .. MN mnich syfon"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "ujęcie wody gruntowej PD pompownia x deszczowniana wodopój PO . oo pompownia odwadniajaca wylot ..PR próg zastawka"
     }
    ]
@@ -755,7 +750,7 @@
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "rowy wpadające do rowu zbiorczego bezpośrednio lub pośrednio — symbole R-B , R-B , R-B itd., zaczynając od ujścia rowu zbiorczego;¹²³",
+     "text": "rowy wpadające do rowu zbiorczego bezpośrednio lub pośrednio — symbole R-B₁, R-B₂, R-B₃ itd., zaczynając od ujścia rowu zbiorczego;",
      "children": []
     },
     {

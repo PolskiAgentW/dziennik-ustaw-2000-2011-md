@@ -1,7 +1,7 @@
 {
  "eli": "DU/2007/980",
  "title": "Rozporządzenie Ministra Rozwoju Regionalnego z dnia 19 lipca 2007 r. zmieniające rozporządzenie w sprawie przyjęcia Uzupełnienia Sektorowego Programu Operacyjnego Wzrost konkurencyjności przedsiębiorstw, lata 2004-2006",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2007/980/text.pdf",
  "body": [
   {
@@ -132,55 +132,72 @@
     },
     {
      "type": "note",
-     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Nazwa poddziałania 1.4.1 Projekty celowe obejmujące badania stosowane i prace rozwojowe: wyłącznie w zakresie badań przemysłowych i przedkonkurencyjnych prowadzonych przez przedsiębiorstwa lub grupy przedsiębiorstw samodzielnie albo we współpracy z instytucjami sfery B+R,"
+     "type": "text",
+     "text": "Nazwa poddziałania",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "1.4.2 [nwestycje związane z budową, modernizacją i wyposażeniem laboratoriów świadczących specjalistyczne usługi dla przedsiębiorstw, realizowane przez jednostki naukowe,"
+     "type": "text",
+     "text": "Okres kwalifikowalności wydatków",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "1.4.3 Inwestycje związane z budową, modernizacją i wyposażeniem specjalistycznych laboratoriów CZT i Centrów Doskonałości działających w priorytetowych dziedzinach rozwoju polskiej gospodarki,"
+     "type": "text",
+     "text": "Instytucja Zarządzająca",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "1.4.4 Projekty celowe realizowane przez CZT,"
+     "type": "text",
+     "text": "Instytucja Pośrednicząca Beneficjent Końcowy (instytucja wdrażająca)",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "1.4.5 Projekty badawcze i celowe w obszarze monitorowania i prognozowania rozwoju technologii (z ang. foresight)"
+     "type": "text",
+     "text": "Ostateczni Odbiorcy (beneficjenci)",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "Okres kwalifikowalności wydatków Początkowa data: 2004 r."
+     "type": "text",
+     "text": "Instytucja Płatnicza",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "Końcowa data: czerwiec 2008 r."
+     "type": "text",
+     "text": "1.4.1 Projekty celowe obejmujące badania stosowane i prace rozwojowe: wyłącznie w zakresie badań przemysłowych i przedkonkurencyjnych prowadzonych przez przedsiębiorstwa lub grupy przedsiębiorstw samodzielnie albo we współpracy z instytucjami sfery B+R, 1.4.2 [nwestycje związane z budową, modernizacją i wyposażeniem laboratoriów świadczących specjalistyczne usługi dla przedsiębiorstw, realizowane przez jednostki naukowe, 1.4.3 Inwestycje związane z budową, modernizacją i wyposażeniem specjalistycznych laboratoriów CZT i Centrów Doskonałości działających w priorytetowych dziedzinach rozwoju polskiej gospodarki, 1.4.4 Projekty celowe realizowane przez CZT, 1.4.5 Projekty badawcze i celowe w obszarze monitorowania i prognozowania rozwoju technologii (z ang. foresight)",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "Instytucja Zarządzająca Minister właściwy do spraw rozwoju regionalnego"
+     "type": "text",
+     "text": "Początkowa data: 2004 r. Końcowa data: czerwiec 2008 r.",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "Instytucja Pośrednicząca Minister właściwy do spraw nauki"
+     "type": "text",
+     "text": "Minister właściwy do spraw rozwoju regionalnego",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "Beneficjent Końcowy (instytucja wdrażająca) Minister właściwy do spraw nauki"
+     "type": "text",
+     "text": "Minister właściwy do spraw nauki",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "Ostateczni Odbiorcy (beneficjenci) Przedsiębiorstwa, grupy przedsiębiorstw (instytucje sfery B+R) organizacje (sieci, konsorcja) sfery B+R i inne instytucje wspierające przedsiębiorczość oraz innowacyjność"
+     "type": "text",
+     "text": "Minister właściwy do spraw nauki",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "Instytucja Płatnicza Minister właściwy do spraw finansów publicznych"
+     "type": "text",
+     "text": "Przedsiębiorstwa, grupy przedsiębiorstw (instytucje sfery B+R) organizacje (sieci, konsorcja) sfery B+R i inne instytucje wspierające przedsiębiorczość oraz innowacyjność",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Minister właściwy do spraw finansów publicznych",
+     "quoted": true
     },
     {
      "type": "note",
@@ -327,11 +344,6 @@
        "quoted": true
       },
       {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 139 — 10096 — Poz. 980",
-       "quoted": true
-      },
-      {
        "type": "note",
        "text": "[Na stronie 11 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
       },
@@ -378,12 +390,7 @@
       },
       {
        "type": "text",
-       "text": "——————— Europejski Fundusz Społeczny (zang. European Social Fund—ESF). Europejski Fundusz Orientacji iGwarancji wRolnictwie (zang. European Agriculture Guidance and Guarantee Fund — EAGGF). Finansowy Instrument Wspierania Rybołówstwa (zang. Financial Instrument for Fisheries Guidance — FIFG). Dziennik Ustaw Nr 139 — 10098 — Poz. 980",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "b) tabela „Tablica finansowa * dla Uzupełnienia (zobowiązania), ogółem 2004—2006 (€) ceny SPO-WKP według Priorytetów, działań i roku z 2004 r.” otrzymuje brzmienie:",
+       "text": "——————— Europejski Fundusz Społeczny (zang. European Social Fund—ESF). Europejski Fundusz Orientacji iGwarancji wRolnictwie (zang. European Agriculture Guidance and Guarantee Fund — EAGGF). Finansowy Instrument Wspierania Rybołówstwa (zang. Financial Instrument for Fisheries Guidance — FIFG). b) tabela „Tablica finansowa * dla Uzupełnienia (zobowiązania), ogółem 2004—2006 (€) ceny SPO-WKP według Priorytetów, działań i roku z 2004 r.” otrzymuje brzmienie:",
        "quoted": true
       },
       {
@@ -618,15 +625,14 @@
        "type": "text",
        "text": "§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
        "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Minister Rozwoju Regionalnego: w z. T. Nowakowski",
-       "quoted": true
       }
      ]
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rozwoju Regionalnego: w z. T. Nowakowski"
   }
  ],
  "annexes": [],

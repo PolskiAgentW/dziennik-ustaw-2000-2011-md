@@ -1,7 +1,7 @@
 {
  "eli": "DU/2002/437",
  "title": "Rozporządzenie Ministra Finansów z dnia 25 kwietnia 2002 r. w sprawie dokonania przeniesień dochodów i wydatków oraz limitów zatrudnienia i kwot wynagrodzeń określonych w ustawie budżetowej na rok 2002.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2002/437/text.pdf",
  "body": [
   {
@@ -83,15 +83,17 @@
    "num": "5",
    "path": "par_5",
    "text": "Rozporządzenie wchodzi w życie z dniem 1 maja 2002 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Finansów: w z. W. Ciesielski"
-    },
-    {
-     "type": "text",
-     "text": "Załączniki do rozporządzenia Ministra Finansów z dnia 25 kwietnia 2002 r. (poz. 437)"
-    },
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: w z. W. Ciesielski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Finansów z dnia 25 kwietnia 2002 r. (poz. 437)",
+   "body": [
     {
      "type": "text",
      "text": "Załącznik nr 1"
@@ -105,9 +107,7 @@
      "text": "[Na stronie 1 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
     }
    ]
-  }
- ],
- "annexes": [
+  },
   {
    "heading": "Załącznik nr 2",
    "body": [
@@ -121,279 +121,263 @@
     },
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "la | 2] 3 | 4 75007 Jednostki terenowe podległe naczelnym i centralnym organom administracji rządowej"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4020 Wynagrodzenia osobowe członków korpusu służby cywilnej | | 4040 Dodatkowe wynagrodzenie roczne"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Pozostałe należności żołnierzy zawodowych i nadterminowych oraz funkcjonariusz"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "408.688"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "2.523"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "7.149"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4070 Nagrody roczne dla żołnierzy zawodowych i nadterminowych oraz funkcjonariuszy 4110"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "yi] PR Zakup pomocy naukowych, dydaktycznych i książek | ||] 14260 | Zakup energii lo] | [4270 | Zakup usług remontowych [|]. [4300 Zakup usług pozostałych lo] ]4440 | Podróże służbowe krajowe"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4480 Podatek od nieruchomości 4500 Pozostałe podatki na rzecz budżetów jednostek samorządu terytorialnego"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "19"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Budżet, finanse publiczne i instytucje finansowe ja publiczna"
     },
     {
-     "type": "ocr",
-     "text": "|. prse | | [| 98000 | ntegracja z Unią Europejską | [4270 __ |Zakupusługremontowyh |_| |_| |. [4300 | Zakup usług pozostałych | |]. 4410 Podróże służbowe krajowe"
+     "type": "text",
+     "text": "|. prse | | [| 98000 | ntegracja z Unią Europejską | [4270 __ |Zakupusługremontowyh |_| |_| |. [4300 | Zakup usług pozostałych | |]. 4410 Podróże służbowe krajowe a ia || | ff 4430 Różne opłaty i składki 1.472 KEINE ZN) wci NA | I socjalnych"
     },
     {
-     "type": "ocr",
-     "text": "a ia || | ff 4430 Różne opłaty i składki 1.472 KEINE ZN) wci NA | I socjalnych"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "3020 Nagrody i wydatki osobowe niezaliczone 14.274 do wynagrodzeń | 00] |4oto | Wynagrodzenia osobowe pracowników 4.885 |"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "p 35] 1 4050 Uposażenia żołnierzy zawodowych 302.236 i nadterminowych oraz funkcjonariusz 4060"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3.653"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Składki na ubezpieczenia społeczne 42.258 Składki na Fundusz Pracy 6.477 Wpłaty na Państwowy Fundusz 39 Rehabilitacji Osób Niepełnosprawnych Do]. |a210 ___ | Zakup materiałówi żeni 5.455 57"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "2.896] ||| | 1347] ||| 0 11.743 929"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "196 13"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4550 Szkolenia członków korpusu służby 3 cywilnej"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "| [4210 | Zakup materiałów i wyposażenia | 1 20"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "|] | 4420 Podróże służbowe zagraniczne | 4240 Zakup pomocy naukowych, dydaktycznych i książek 4550 Szkolenia członków korpusu służby cywilnej 6050 Wydatki inwestycyjne jednostek budżetowych 6060 Wydatki na zakupy inwestycyjne jednostek budżetowych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "| 476.870 38.700"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "18"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "476.870"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "211"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5.290"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "104"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "11.181"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "20.698"
     },
     {
      "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "75001 Urzędy naczelnych i centralnych organów administracji rządowej Wynagrodzenia osobowe pracowników Dodatkowe wynagrodzenie roczne Składki na ubezpieczenia społeczne Składki na Fundusz Prac Zakup materiałów i wyposażenia Zakup energii Zakup usług remontowych Zakup usług pozostałych Podróże służbowe krajowe Podróże służbowe zagraniczne Różne opłaty i składki"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "La"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "a"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "W"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4010"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4110 4120 4210 4260 4270 4300 4410 4420 4430"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "GO"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "2.649"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "241"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "45"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "389"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1.769"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4020 Wynagrodzenia osobowe członków korpusu służby cywilnej |"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "75012 Główny Urząd Ceł w likwidacji 26.833 | 3020 Nagrody i wydatki osobowe niezaliczone 201 do wynagrodzeń — 4010 Wynagrodzenia osobowe pracowników 342 1.506"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Dodatkowe wynagrodzenie roczne | 74"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4260 Zakup energii 4270 Zakup usług remontowych 4300 usług pozostałych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "| 4050 Uposażenia żołnierzy zawodowych 19.755 i nadterminowych oraz funkcjonariusz 4060 Pozostałe należności żołnierzy 227 zawodowych i nadterminowych oraz funkcjonariusz 4070 Nagrody roczne dla żołnierzy 241 zawodowych i nadterminowych oraz funkcjonariuszy o] | 4110 Składki na ubezpieczenia społeczne 3.597 Składki na Fundusz Pracy 544 | Wpłaty na Państwowy Fundusz 7 Rehabilitacji Osób Niepełnosprawnych [4210 | Zakup materiałów i wyposażenia | 55"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Podróże służbowe krajowe Podróże służbowe zagraniczne"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "samorządu terytorialnego | | __|lzbycelnei urzędycene | | [| | e Ee do wynagrodzeń | [4010 ____|Wynagrodzenia osobowe pracowników | |_| MENEM WEW korpusu służby cywilnej | 40 | Dodatkowe wynagrodzenie roczne"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "75013"
     },
     {
-     "type": "ocr",
-     "text": "4050 Uposażenia żołnierzy zawodowych i nadterminowych oraz funkcjonariusz"
+     "type": "text",
+     "text": "4050 Uposażenia żołnierzy zawodowych i nadterminowych oraz funkcjonariusz po"
     },
     {
-     "type": "ocr",
-     "text": "po"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "4060 Pozostałe należności żołnierzy zawodowych i nadterminowych oraz funkcjonariusz | 4070 Nagrody roczne dla żołnierzy zawodowych i nadterminowych oraz funkcjonariuszy"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "408.688 14.274"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4.885 2.523"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "135 302.236"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "7.149"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3.653"
     },
     {
      "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "+44 4110 Składki na bempisceen spoteczne | zo 258 6.477 Wpłaty na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawn Dob] | 4210 Zakup materiałów i wyposażenia"
+     "type": "text",
+     "text": "+44 4110 Składki na bempisceen społeczne | zo 258 6.477 Wpłaty na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawn Dob] | 4210 Zakup materiałów i wyposażenia ch"
     },
     {
-     "type": "ocr",
-     "text": "ch"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "5.455"
     },
     {
-     "type": "ocr",
-     "text": "dydaktycznych i książek |. || 4260 |Zakupenergii ||| | | 2.896 || |4270 | Zakup usług remontowych 1.347 | sf 4300s Zakup ustug pozostalych 11.743 | A410 | Podróże służbowe krajowe 929 a ee EEEE 4420 Podróże służbowe zagraniczne 556 lo |]. [4430 ___ | Różne opłaty i składki 1.472 4440 Odpisy na zakładowy fundusz świadczeń 364 socjalnych [ [4480 | Podatek od nieruchomości 196] 4500 Pozostałe podatki na rzecz budżetów 13 jednostek samorządu terytorialnego 4550 Szkolenia członków korpusu służby cywilnej"
-    },
-    {
-     "type": "ocr",
-     "text": "m I LO] _ [Razem 476.870 476.870"
+     "type": "text",
+     "text": "dydaktycznych i książek |. || 4260 |Zakupenergii ||| | | 2.896 || |4270 | Zakup usług remontowych 1.347 | sf 4300s Zakup usług pozostałych 11.743 | A410 | Podróże służbowe krajowe 929 a ee EEEE 4420 Podróże służbowe zagraniczne 556 lo |]. [4430 ___ | Różne opłaty i składki 1.472 4440 Odpisy na zakładowy fundusz świadczeń 364 socjalnych [ [4480 | Podatek od nieruchomości 196] 4500 Pozostałe podatki na rzecz budżetów 13 jednostek samorządu terytorialnego 4550 Szkolenia członków korpusu służby cywilnej m I LO] _ [Razem 476.870 476.870"
     }
    ]
   },
@@ -402,7 +386,7 @@
    "body": [
     {
      "type": "text",
-     "text": "PRZENIESIENIA LIMITÓW ZATRUDNIENIA I WYNAGRODZEŃ Dziennik Ustaw Nr 46 — 3347 — Poz. 437"
+     "text": "PRZENIESIENIA LIMITÓW ZATRUDNIENIA I WYNAGRODZEŃ"
     },
     {
      "type": "note",

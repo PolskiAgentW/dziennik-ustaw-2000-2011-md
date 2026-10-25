@@ -1,7 +1,7 @@
 {
  "eli": "DU/2006/713",
  "title": "Rozporządzenie Ministra Transportu z dnia 31 maja 2006 r. w sprawie rejestru i oznakowania pojazdów kolejowych",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2006/713/text.pdf",
  "body": [
   {
@@ -1270,7 +1270,7 @@
     },
     {
      "type": "text",
-     "text": "Dane o eksploatacji pojazdu kolejowego Dziennik Ustaw Nr 105 — 5263 — Poz. 713"
+     "text": "Dane o eksploatacji pojazdu kolejowego"
     },
     {
      "type": "note",
@@ -1624,83 +1624,130 @@
     },
     {
      "type": "note",
-     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "32. PN-K-02059: 1994 Tabor kolejowy. Tablice i znaki ostrzegawcze przed porażeniem prądem elektrycznym."
+     "type": "ust",
+     "num": "32",
+     "path": "ust_32",
+     "text": "PN-K-02059: 1994 Tabor kolejowy. Tablice i znaki ostrzegawcze przed porażeniem prądem elektrycznym.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "33. PN-K-89100:1997 Kolejowy sprzęt sygnałowy. Tarcza końca pociągu."
+     "type": "ust",
+     "num": "33",
+     "path": "ust_33",
+     "text": "PN-K-89100:1997 Kolejowy sprzęt sygnałowy. Tarcza końca pociągu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Il. Wykaz norm UIC (Union Internationale des Chemins de Fer — Międzynarodowy Związek Kolei):"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "Il. Wykaz norm UIC (Union Internationale des Chemins de Fer — Międzynarodowy Związek Kolei):"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "UIC 438-1 Identification marking for hauled passenger stock (Oznaczenia identyfikacyjne wagonów pasażerskich)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "1. UIC 438-1 Identification marking for hauled passenger stock (Oznaczenia identyfikacyjne wagonów pasażerskich)"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "UIC 438-2 Identification marking for wagonów towarowych) freight rolling stock (Oznaczenia identyfikacyjne",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2. UIC 438-2 Identification marking for freight rolling stock (Oznaczenia identyfikacyjne wagonow towarowych)"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "UIC 438-3 Identification marking for tractive stock (Oznaczenia identyfikacyjne kolejowych pojazdów trakcyjnych)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "3. UIC 438-3 Identification marking for tractive stock (Oznaczenia identyfikacyjne kolejowych pojazdow trakcyjnych)"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "UIC 438-4 Identification marking for special vehicles (Oznaczenia identyfikacyjne kolejowych pojazdów specjalnych)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4. UIC 438-4 Identification marking for special vehicles (Oznaczenia identyfikacyjne kolejowych pojazdow specjalnych)"
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "UIC 580 Inscriptions and markings, route indicators and number plates to be affixed to coaching stock used in international traffic (Napisy i znaki jak i tablice kierunkowe i numerowe dla wprowadzanych do ruchu międzynarodowego pojazdów transportu osobowego)",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ill. Wykaz norm OSZD (OprHuzaujna CoTpyAHUUECTBa Kene3Hbix Mopor — Organizacja Współpracy Kolei):"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "5. UIC 580 Inscriptions and markings, route indicators and number plates to be affixed to coaching stock used in international traffic (Napisy i znaki jak i tablice kierunkowe i numerowe dla wprowadzanych do ruchu międzynarodowego pojazdów transportu osobowego)"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "OSZD 538-1 OGosHaueHne nacoxupckux BaroHOB (Oznaczenia wagonów pasażerskich)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Ill. Wykaz norm OSZD (OprHuzaujna CoTpyAHUUECTBa Kene3Hbix Mopor — Organizacja Współpracy Kolei):"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "OSŻD 538-2 O6osHaueHne rpy30BbIx BaroHOB (Oznaczenia wagonów towarowych)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "1. OSZD 538-1 OGosHaueHne nacoxupckux BaroHOB (Oznaczenia wagonów pasażerskich)"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "OSZD 538-3 O6os3HaueHne TaroBoro noĄBUXKHOro cocTaBa (Oznaczenia pojazdów trakcyjnych)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2. OSŻD 538-2 O6osHaueHne rpy30BbIx BaroHOB (Oznaczenia wagonów towarowych)"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "OSZD 538-4 MqeHTubnkaunoHHaa MapkupoBKa CNELMAMLHOFO NOĄBUXKHOTO COCTaBa (Oznaczenia identyfikacyjne kolejowych pojazdów specjalnych)",
+     "children": [
+      {
+       "type": "text",
+       "text": "IV. Wykaz Europejskich Norm określających sposoby oznakowania pojazdów kolejowych:"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "3. OSZD 538-3 O6os3HaueHne TaroBoro noĄBUXKHOro cocTaBa (Oznaczenia pojazdów trakcyjnych)"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "EN 14033-1 Railway aplications — Track — Railbound construction and maintenace machines — part 1: Technical requierements for runing (Kolejnictwo — Tor — Maszyny do budowy i utrzymania toru).",
+     "children": [
+      {
+       "type": "text",
+       "text": "V. Wykaz norm UIC / OSŻD"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "4. OSZD 538-4 MqeHTubnkaunoHHaa MapkupoBKa CNELMAMLHOFO NOĄBUXKHOTO COCTaBa (Oznaczenia identyfikacyjne kolejowych pojazdów specjalnych)"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "UIC/OSZD 920-1 EquHoe unucbpoBoe KOĄMPOBAHME %XENe3HOĄOPOXbBIX npeąnpuaTmi u ynpaBnaroLiux uHcppacTpykrypoń (Ujednolicone kody cyfrowe przedsiębiorstw kolejowych i zarządzającyh infrastrukturą)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "IV. Wykaz Europejskich Norm określających sposoby oznakowania pojazdów kolejowych:"
-    },
-    {
-     "type": "ocr",
-     "text": "1. EN 14033-1 Railway aplications — Track — Railbound construction and maintenace machines — part 1: Technical requierements for runing (Kolejnictwo — Tor — Maszyny do budowy i utrzymania toru)."
-    },
-    {
-     "type": "ocr",
-     "text": "V. Wykaz norm UIC / OSŻD"
-    },
-    {
-     "type": "ocr",
-     "text": "1. UIC/OSZD 920-1 EquHoe unucbpoBoe KOĄMPOBAHME %XENe3HOĄOPOXbBIX npeąnpuaTmi u ynpaBnaroLiux uHcppacTpykrypoń (Ujednolicone kody cyfrowe przedsiębiorstw kolejowych i zarządzającyh infrastrukturą)"
-    },
-    {
-     "type": "ocr",
-     "text": "2. UIC/OSZD 920-14 EquHoe uucbpoBoe KOĄMPOBAHME CTDAH ANA UCHONbJOBAHMA Ha Kere3HOĄOPOXHOM TpaHcnopTe (Ujednolicone kody cyfrowe państw stosowane w transporcie kolejowym)"
-    },
-    {
-     "type": "ocr",
-     "text": "Podane normy obowiązują wraz z poprawkami, uzupełnieniami lub aktualizacjami."
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "UIC/OSZD 920-14 EquHoe uucbpoBoe KOĄMPOBAHME CTDAH ANA UCHONbJOBAHMA Ha Kere3HOĄOPOXHOM TpaHcnopTe (Ujednolicone kody cyfrowe państw stosowane w transporcie kolejowym)",
+     "children": [
+      {
+       "type": "text",
+       "text": "Podane normy obowiązują wraz z poprawkami, uzupełnieniami lub aktualizacjami."
+      }
+     ]
     }
    ]
   },
@@ -2115,69 +2162,87 @@
         },
         {
          "type": "note",
-         "text": "[Strona 21 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+         "text": "[Strona 21 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Pojazd szynowo-drogowy kategorii 4"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Cyfra 7 Cyfra 8 Pojazd lub maszyna"
-        },
-        {
-         "type": "ocr",
-         "text": "1. |Wagon laboratoryjny 2 |Wagon do pomiaru toru 3 _ |Wagon do pomiaru sieci trakcyjnej"
-        },
-        {
-         "type": "ocr",
-         "text": "6. 4. |Drezyna do pomiaru geometrii toru Specjal- 5 |Wagon do pomiaru sygnalizacji ne pojazdy 6 |Wagon do pomiaru sygnalizacji kabinowej i emisji fal radiowych pomiarowe 7 8"
-        },
-        {
-         "type": "ocr",
-         "text": "9 0 |Pozostałe 1 |Żuraw do usuwania skutków wypadków kolejowych 2 |Pojazd silnikowy do holowania ratowniczego 3 |Pociąg do usuwania skutków wypadków w tunelach"
-        },
-        {
-         "type": "ocr",
-         "text": "7. 4 |Wagon ratowniczy Pojazdy 5 _ |Wagon przeciwpożarowy (pojazd strażacki) do usuwania 6 |Pojazd sanitarny awarii f |Wagon do przewozu sprzętu ratowniczego 8 _ |Dźwig awaryjny 9 |Przewoźnik awaryjny 0 |Pozostałe 1 |Pojazd trakcyjny 2 3 |Drezyna transportowa (oprócz 59)"
-        },
-        {
-         "type": "ocr",
-         "text": "8. 4 |Wagon zasilający Silniko- 5. |Drezyna lub wagon silnikowy we pojazdy 6 transportowe 7 |Pojazd do przewozu betonu 8"
-        },
-        {
-         "type": "ocr",
-         "text": "= 0 |Pozostałe 1 |Pług odśnieżny z własnym napędem 2 |Pług odśnieżny bez napędu"
-        },
-        {
-         "type": "ocr",
-         "text": "9. 3 _ |Odśnieżarka toru (szczotkowa Urzą- 4 _ |Maszyna do usuwania lodu dzenia do 5 |Pojazd lub maszyna do odchwaszczania torów usuwania 6 _ |Maszyna do czyszczenia torów (maszyna do mycia zanieczysz- 7 czeń 8 9 0 |Pozostate z Pojazd szynowo-drogowy kategorii 1 0 A Pojazd szynowo-drogowy kategorii 2 szyna, 2 Pojazd szynowo-drogowy kategorii 3 -drogowe 7 8 9"
-        },
-        {
-         "type": "ocr",
-         "text": "0"
-        },
-        {
-         "type": "ocr",
-         "text": "Pozostałe"
-        },
-        {
-         "type": "text",
-         "text": "Tablica 9"
-        },
-        {
-         "type": "text",
-         "text": "PRZYKŁADY ZMIANY OZNAKOWANIA KOLEJOWYCH POJAZDÓW TRAKCYJNYCH I SPECJALNYCH EKSPLOATOWANYCH W POLSCE"
-        },
-        {
-         "type": "note",
-         "text": "[Na stronie 22 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "Oznakowanie pojazdów metra"
         }
        ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "|Wagon laboratoryjny 2 |Wagon do pomiaru toru 3 _ |Wagon do pomiaru sieci trakcyjnej",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "4. |Drezyna do pomiaru geometrii toru Specjał- 5 |Wagon do pomiaru sygnalizacji ne pojazdy 6 |Wagon do pomiaru sygnalizacji kabinowej i emisji fal radiowych pomiarowe 7 8",
+     "children": [
+      {
+       "type": "text",
+       "text": "9 0 |Pozostałe 1 |Żuraw do usuwania skutków wypadków kolejowych 2 |Pojazd silnikowy do holowania ratowniczego 3 |Pociąg do usuwania skutków wypadków w tunelach"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "4 |Wagon ratowniczy Pojazdy 5 _ |Wagon przeciwpożarowy (pojazd strażacki) do usuwania 6 |Pojazd sanitarny awarii f |Wagon do przewozu sprzętu ratowniczego 8 _ |Dźwig awaryjny 9 |Przewoźnik awaryjny 0 |Pozostałe 1 |Pojazd trakcyjny 2 3 |Drezyna transportowa (oprócz 59)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "4 |Wagon zasilający Silniko- 5. |Drezyna lub wagon silnikowy we pojazdy 6 transportowe 7 |Pojazd do przewozu betonu 8",
+     "children": [
+      {
+       "type": "text",
+       "text": "= 0 |Pozostałe 1 |Pług odśnieżny z własnym napędem 2 |Pług odśnieżny bez napędu"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "3 _ |Odśnieżarka toru (szczotkowa Urzą- 4 _ |Maszyna do usuwania lodu dzenia do 5 |Pojazd lub maszyna do odchwaszczania torów usuwania 6 _ |Maszyna do czyszczenia torów (maszyna do mycia zanieczysz- 7 czeń 8 9 0 |Pozostałe z Pojazd szynowo-drogowy kategorii 1 0 A Pojazd szynowo-drogowy kategorii 2 szyna, 2 Pojazd szynowo-drogowy kategorii 3 -drogowe 7 8 9",
+     "children": [
+      {
+       "type": "text",
+       "text": "0"
+      },
+      {
+       "type": "text",
+       "text": "Pozostałe"
+      },
+      {
+       "type": "text",
+       "text": "Tablica 9"
+      },
+      {
+       "type": "text",
+       "text": "PRZYKŁADY ZMIANY OZNAKOWANIA KOLEJOWYCH POJAZDÓW TRAKCYJNYCH I SPECJALNYCH EKSPLOATOWANYCH W POLSCE"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 22 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Oznakowanie pojazdów metra"
       }
      ]
     },
@@ -2514,7 +2579,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Rys. 5 . Wzór wykonania tabliczki określającej dopuszczalną prędkość eksploatacyjną pojazdu trakcyjnego lub specjalnego oraz pojazdu metra, umieszczanej nad stanowiskiem maszynisty."
+         "text": "Rys. 5. Wzór wykonania tabliczki określającej dopuszczalną prędkość eksploatacyjną pojazdu trakcyjnego lub specjalnego oraz pojazdu metra, umieszczanej nad stanowiskiem maszynisty."
         }
        ]
       }

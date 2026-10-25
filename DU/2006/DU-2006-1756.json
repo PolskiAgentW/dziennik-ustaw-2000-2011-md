@@ -1,7 +1,7 @@
 {
  "eli": "DU/2006/1756",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 14 grudnia 2006 r. zmieniające rozporządzenie w sprawie zakresu niezbędnych informacji gromadzonych przez świadczeniodawców, szczegółowego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2006/1756/text.pdf",
  "body": [
   {
@@ -808,22 +808,22 @@
     },
     {
      "type": "note",
-     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Bilans zdrowia"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wyrób medyczny będący przedmiotem ortopedycznym lub środkiem pomocniczym znajdujący się w wykazie określonym Wyrób medyczny w przepisach wydanych na podstawie art. 40 ust. 5 ustawy, który spełnia wymagania określone w poszczególnych funkcjach określonych w tabeli B. Szczepienia obowiązkowe, gdyż tylko takie szczepienia Szczepienie finansowane są ze środków publicznych."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Badanie przesiewowe"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Świadczenie profilaktyczne"
     },
     {
@@ -840,341 +840,421 @@
     },
     {
      "type": "note",
-     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Swiadczenie jednostka sprawozdawcza funkcja ochrony zdrowia"
+     "type": "text",
+     "text": "Świadczenie jednostka sprawozdawcza funkcja ochrony zdrowia"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1.3. Leczenie ambulatoryjne"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1.3.1. Leczenie w ramach podstawowej | porada opieki zdrowotnej Obejmuje czynności związane ze patronażowa stawianiem diagnozy i podejmowaniem | bilans zdrowia leczenia przez lekarza podstawowej opieki zdrowotnej. 1.3.2. Leczenie stomatologiczne Obejmuje świadczenia udzielone ambulatoryjnie przez lekarzy dentystów 1.3.3. Leczenie ambulatoryjne specjalistyczne Obejmuje świadczenia lekarskie inne niż zawarte w kategorii leczenie w ramach podstawowej opieki zdrowotnej, w tym usługi psychiatrii ambulatoryjnej, oraz „małej chirurgii”."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "uzdrowiskowe"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1.3.6. Leczenie w trybie dziennym Wykonywana na rzecz pacjenta przyjętego do zakładu z intencją wypisania go w tym samym dniu. Opieka taka oferowana jest pacjentom, którzy w nocy przebywają we własnych domach."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "osoba leczona"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "porada"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "badanie"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1.3.9. Pozostała opieka ambulatoryjna Obejmuje inne świadczenia ambulatoryjne wykonywane przez lekarzy i innych przedstawicieli zawodów medycznych (z wyjątkiem fizjoterapeutów, którzy są wykazani w kategorii dotyczącej rehabilitacji) oraz wykonywane przez psychologów."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "sesja"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "cykl leczenia"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "hemodializa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "osoba leczona"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Np. porady domowe lekarza rodzinnego, wizyty pielęgniarki środowiskowo- porada -rodzinnej, dializa domowa czy porady lub wizyty patronażowe."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1.4. Świadczenia w domu pacjenta"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "porada patronażowa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Kod D świadczenia"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Obejmuje głównie opiekę psychiatryczną i leczenie uzależnień. Nie uwzględnia cykli leczenia w ramach: - rehabilitacji dziennej, przyjmujących kod 10.8; - długoterminowej dziennej opieki, przyjmujących kod 15.8."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Do tej kategorii należą m.in. świadczenia izby przyjęć i szpitalnych oddziałów ratunkowych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(SOR) oraz poradni medycyny paliatywnej, jeżeli nie zakończyły się pobytem w oddziale szpitalnym."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Nie uwzględnia cyklu leczenia w ramach rehabilitacji ambulatoryjnej, przyjmującej kod 11.8 albo 13.8."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Obejmuje także opiekę wyjazdową. Nie uwzględnia porad wykonanych w ramach: - rehabilitacji w domu pacjenta, przyjmujących kod 12.4, - długoterminowej opieki w domu pacjenta, przyjmujących kod 16.4."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "bilans zdrowia osoba leczona"
     },
     {
      "type": "note",
-     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Świadczenie jednostka Sprawozdawcza nazwa"
+     "type": "text",
+     "text": "Świadczenie jednostka Sprawozdawcza funkcja ochrony zdrowia nazwa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "wizyta"
     },
     {
-     "type": "ocr",
-     "text": "funkcja ochrony zdrowia Obejmuje także opiekę wyjazdową. Nie uwzględnia wizyt wykonanych w ramach: - rehabilitacji w domu pacjenta przyjmujących kod 12.6, - długoterminowej opieki w domu pacjenta, przyjmujących kod 16.6."
+     "type": "text",
+     "text": "wizyta patronażowa sesja"
     },
     {
-     "type": "ocr",
-     "text": "Kod świadczenia"
-    },
-    {
-     "type": "ocr",
-     "text": "wizyta patronażowa 8.7 sesja 8.10"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "cykl leczenia"
     },
     {
-     "type": "ocr",
-     "text": "Nie uwzględnia cykli leczenia w ramach: - rehabilitacji w domu pacjenta, przyjmujących kod 12.8, - długoterminowej opieki w domu pacjenta, przyjmujących kod 16.8. badanie =| 8"
+     "type": "text",
+     "text": "Kod świadczenia Obejmuje także opiekę wyjazdową. Nie uwzględnia wizyt wykonanych w ramach: - rehabilitacji w domu pacjenta przyjmujących kod 12.6, - długoterminowej opieki w domu pacjenta, przyjmujących kod 16.6. 8.7 8.10 Nie uwzględnia cykli leczenia w ramach: - rehabilitacji w domu pacjenta, przyjmujących kod 12.8, - długoterminowej opieki w domu pacjenta, przyjmujących kod 16.8. badanie =| 8"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "osoba leczona"
     },
     {
-     "type": "ocr",
-     "text": "2. Grupa - świadczenia rehabilitacyjne"
-    },
-    {
-     "type": "ocr",
-     "text": "Obejmują świadczenia, w których nacisk położony jest głównie na poprawę sprawności pacjenta, a ograniczenie sprawności wynika z epizodu choroby, urazu lub jest wynikiem nawrotu choroby. 2.1. Rehabilitacja stacjonarna . . pobyt w oddziale Wykonywana na rzecz pacjenta A 9.1 . . , szpitalnym ętego na oddział szpitaln 2.2. Rehabilitacja dzienna Wykonywana na rzecz pacjenta y do ks"
-    },
-    {
-     "type": "ocr",
-     "text": "W przypadku gdy pacjenci nie są wpisywani ięgi głównej przyjęć i wypisów. wsaagowymsanyman, __|oobacom | | am o isania go w tym samym dniu osoba leczona 10.11"
-    },
-    {
-     "type": "ocr",
-     "text": "10"
-    },
-    {
-     "type": "ocr",
-     "text": "11 2.3. Rehabilitacja ambulatoryjna"
-    },
-    {
-     "type": "ocr",
-     "text": "dochodzącego"
-    },
-    {
-     "type": "ocr",
-     "text": "porada 12.4 2.4. Rehabilitacja w domu pacjenta Wykonywana w domu pacjenta"
-    },
-    {
-     "type": "ocr",
-     "text": "2.5. Pozostała rehabilitacja ambulatoryjna Wszystkie formy rehabilitacji, których nie | cykl leczenia"
-    },
-    {
-     "type": "ocr",
-     "text": "8"
-    },
-    {
-     "type": "ocr",
-     "text": "13.8 można zaliczyć do poprzednich kategorii | osoba leczona"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Grupa - opieka długoterminowa"
-    },
-    {
-     "type": "ocr",
-     "text": "Obejmuje opiekę pielęgniarską i lekarską wykonywaną na rzecz pacjenta w warunkach stacjonarnych lub domowych, której przyczyną jest przewlekła choroba lub niesprawność pacjenta bądź też ograniczenie jego możliwości do niezależnego wypełniania codziennych funkcji życiowych. Opieka długoterminowa jest z reguły połączeniem opieki zdrowotnej i socjalnej. Do kategorii tej wlicza się opiekę nad osobami w podeszłym wieku, w której istotną część stanowi opieka zdrowotna, w tym świadczenia wykonywane przez hospicja i zakłady opieki paliat j."
-    },
-    {
-     "type": "ocr",
-     "text": "13.11"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "jednostka sprawozdawcza funkcja ochrony zdrowia"
-    },
-    {
-     "type": "ocr",
-     "text": "3.1. Stacjonarna długoterminowa opieka Wykonywana na rzecz pacjenta byt w oddzial przyjętego na pobyt w zakładzie. po ZIAĆ szpitalnym 3.2. Długoterminowa dzienna opieka Wykonywana na rzecz pacjenta przyjętego do zakładu z intencją wypisania go w tym samym dniu. Opieka taka oferowana jest pacjentom o ograniczonej samodzielności, którzy w nocy przebywają we własnych domach. 3.3. Długoterminowa opieka świadczona | porada w domu pacjenta Wykonywana w domu pacjenta opieka | wizyta medyczna i pielęgnacyjna na rzecz osób z trwałą niesprawnością lub cierpiących na choroby przewlekłe, które zmniejszają możliwość samoobsługi. 3.4. Długoterminowa opieka świadczona | pobyt w trybie hostelowym osoba leczona"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Grupa - pomocnicze usługi opieki Pomocnicze usługi opieki zdrowotnej; zwykle zdrowotnej wykonywane przez średni personel medyczny. Obejmują badania diagnostyczne wykonywane na materiale pobranym od 4.1. Badania laboratoryjne badacie pacjenta, takim jak mocz, krew, kał, wymazy, w podstawowej opiece zdrowotnej zeskrobiny czy fragmenty tkanki. Wykazywane tylko w zakresie podstawowej opieki zdrowotnej."
-    },
-    {
-     "type": "ocr",
-     "text": "Obejmuje badania diagnostyczne wykonywane za pomocą technik obrazowych i nieobrazowych na rzecz pacjenta ambulatoryjnego."
-    },
-    {
-     "type": "ocr",
-     "text": "cykl leczenia"
-    },
-    {
-     "type": "ocr",
-     "text": "osoba leczona"
-    },
-    {
-     "type": "ocr",
-     "text": "4.2. Diagnostyka obrazowa i nieobrazowa na rzecz pacjenta ambulatoryjnego"
-    },
-    {
-     "type": "ocr",
-     "text": "badanie badanie"
-    },
-    {
-     "type": "ocr",
-     "text": "badanie Scyntygrafia 23.9 badanie badanie Endoskopia 25.9 badanie Inne (obrazowe 26.9"
-    },
-    {
-     "type": "ocr",
-     "text": "badanie"
-    },
-    {
-     "type": "ocr",
-     "text": "4.2.9. Diagnostyka nieobrazowa badanie"
-    },
-    {
-     "type": "ocr",
-     "text": "Obejmuje (a) świadczenia ratownictwa 4.3. Ratownictwo medyczne i przewóz medycznego przedszpitalnega ; pacjenta (b) transportowanie pacjenta do i od świadczeniodawcy niepołączone z udzielaniem świadczenia. 4.3.3. Pomoc doraźna - ratownicze . 28.12 zespoł azdowe 4.3.4. Pomoc doraźna - ratownictwo Co przelot 29.15 lotnicze i śmigłowcowe 4.3.5. Pomoc doraźna - wodne pogotowie ratunkowe 4.3.6. Pomoc doraźna - ratownictwo górskie 4.3.7. Pozostałe"
-    },
-    {
-     "type": "ocr",
-     "text": "akcja ratownicza 30.13"
-    },
-    {
-     "type": "ocr",
-     "text": "akcja ratownicza 31.13"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Świadczenie"
-    },
-    {
-     "type": "ocr",
-     "text": "jednostka Sprawozdawcza Kod funkcja ochrony zdrowia opis świadczenia"
-    },
-    {
-     "type": "ocr",
-     "text": "4371. | ||| (00000000 Jpzewóz | 8 Pozostałe -Transport pacjenta przelot 32.15"
-    },
-    {
-     "type": "ocr",
-     "text": "33.6"
-    },
-    {
-     "type": "ocr",
-     "text": "wizyta 4.6. Usługi pielęgnacyjne"
-    },
-    {
-     "type": "ocr",
-     "text": "Inne niewymienione wyżej usługi pomocnicze. 4.9. Pozostałe usługi pomocnicze ™ Nalezy wpisać kod odpowiedniej jedno stki sprawozdawczej zgodnie z kodem określonym w tabeli A."
-    },
-    {
-     "type": "ocr",
-     "text": "5. Produkty medyczne dla pacjentów ambulatoryjnych"
-    },
-    {
-     "type": "ocr",
-     "text": "Obejmuje dostarczanie pacjentom sprzętu 5.2. Sprzęt terapeutyczny i pozostałe medycznego, wraz z towarzyszącymi temu dobra medyczne trwałego użytku czynnościami, jak sprzedaż detaliczna, dopasowywanie, napraw Obejmują oprócz szkieł optycznych również soczewki kontaktowe, płyny do ich konserwacji oraz usługi, jakie związane są z dopasowaniem i sprzedażą ww. materiałów."
-    },
-    {
-     "type": "ocr",
-     "text": "5.2.2. Przedmioty ortopedyczne Obejmują protezy kończyn, pasy chirurgiczne i inne środki techniczne z zakresu protetyki. Nie obejmują protez | wyrób medyczny 36.18 wszczepialnych, zaliczanych do usługi wszczepienia (np. endoproteza stawu go p=\"\"jwową Obejmują wszystkie usuwalne aparaty 5.2.3. Srodki wspomagania słuchu wyrób medyczny słuchowe wraz z odpowiednim 37.18 oprzyrządowaniem. pm\" wow Obejmują wózki inwalidzkie i inne urządzenia 5.2.4. Techniczne urządzenia medyczne | wyrób medyczny wspomagające poruszanie się osób niepełnosprawnych. 5.2.5 Przedmioty protetyki wyrób medyczny 39.18 stomatologiczne"
-    },
-    {
-     "type": "ocr",
-     "text": "5.2.9. Pozostałe medyczne dobra Pozostałe przedmioty ortopedyczne i środki 40.18 Z pomocnicze trwałego użytku. i"
-    },
-    {
-     "type": "ocr",
-     "text": "trwałego użytku Obejmuje świadczenia i działania, których zasadniczym celem jest poprawa stanu zdrowia populacji, w odróżnieniu od świadczeń, których celem jest poprawa stanu zdrowia poszczególnych osób. Dotyczy świadczeń wykonywanych w ramach programów zdrowotnych w rozumieniu art. 5 pkt 30 ustawy."
-    },
-    {
-     "type": "ocr",
-     "text": "Zdrowie matki i dziecka, planowanie rodziny 6.1. Opieka nad matką i dzieckiem, i poradnictwo rodzinne; obejmuje szeroki planowanie rodziny i poradnictwo zakres świadczeń od poradnictwa rodzinne genetycznego, zapobiegania wadom rozwojowym, przygotowania do porodu, szczepienia dzieci przedszkolnych. 6.1.1. Planowanie rodziny i poradnictwo Em rodzinne ** Należy wpisać kod odpowiedniej jednostki 6.1.2. Zdrowie matki i dziecka | sprawozdawczej zgodnie z kodem określonym 6.1.3. Opieka nad zdrowym dzieckiem | |... |wtabeliA. 6.1.4. Inna"
-    },
-    {
-     "type": "ocr",
-     "text": "5.2.1. Okulary i pozostałe produkty optyczne wyrób medyczny"
-    },
-    {
-     "type": "ocr",
-     "text": "wyrób medyczny"
-    },
-    {
-     "type": "ocr",
-     "text": "6. Profilaktyka i zdrowie publiczne"
-    },
-    {
-     "type": "note",
-     "text": "[Na stronie 14 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Załącznik nr 2"
-    },
-    {
-     "type": "text",
-     "text": "IDENTYFIKATOR ŚWIADCZENIODAWCY"
-    },
-    {
-     "type": "text",
-     "text": "Identyfikator świadczeniodawcy i jego komórki organizacyjnej udzielającej świadczenia, jeżeli jest ona wyróżniona w strukturze świadczeniodawcy, składa się z następujących elementów:"
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "pkt_1",
-     "text": "numer księgi rejestrowej, a jeżeli świadczeniodawcy nie nadano numeru księgi rejestrowej — pierwsze dziewięć cyfr jego numeru identyfikacyjnego REGON;",
-     "children": []
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "pkt_2",
-     "text": "część VII resortowego kodu identyfikacyjnego.",
-     "children": []
+     "path": "ust_2",
+     "text": "Grupa - świadczenia rehabilitacyjne",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.1. Rehabilitacja stacjonarna . . pobyt w oddziale Wykonywana na rzecz pacjenta A . . , szpitalnym ętego na oddział szpitaln 2.2. Rehabilitacja dzienna Wykonywana na rzecz pacjenta y"
+      },
+      {
+       "type": "text",
+       "text": "Obejmują świadczenia, w których nacisk położony jest głównie na poprawę sprawności pacjenta, a ograniczenie sprawności wynika z epizodu choroby, urazu lub jest wynikiem nawrotu choroby."
+      },
+      {
+       "type": "text",
+       "text": "9.1"
+      },
+      {
+       "type": "text",
+       "text": "W przypadku gdy pacjenci nie są wpisywani 10"
+      },
+      {
+       "type": "text",
+       "text": "8 do ks ięgi głównej przyjęć i wypisów. wsaagowymsanyman, __|oobacom | | am o isania go w tym samym dniu osoba leczona"
+      },
+      {
+       "type": "text",
+       "text": "2.3. Rehabilitacja ambulatoryjna"
+      },
+      {
+       "type": "text",
+       "text": "dochodzącego"
+      },
+      {
+       "type": "text",
+       "text": "porada 2.4. Rehabilitacja w domu pacjenta Wykonywana w domu pacjenta"
+      },
+      {
+       "type": "text",
+       "text": "2.5. Pozostała rehabilitacja ambulatoryjna Wszystkie formy rehabilitacji, których nie | cykl leczenia można zaliczyć do poprzednich kategorii | osoba leczona"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Grupa - opieka długoterminowa",
+     "children": [
+      {
+       "type": "text",
+       "text": "10.11"
+      },
+      {
+       "type": "text",
+       "text": "11"
+      },
+      {
+       "type": "text",
+       "text": "12.4"
+      },
+      {
+       "type": "text",
+       "text": "13.8 13.11 Obejmuje opiekę pielęgniarską i lekarską wykonywaną na rzecz pacjenta w warunkach stacjonarnych lub domowych, której przyczyną jest przewlekła choroba lub niesprawność pacjenta bądź też ograniczenie jego możliwości do niezależnego wypełniania codziennych funkcji życiowych. Opieka długoterminowa jest z reguły połączeniem opieki zdrowotnej i socjalnej. Do kategorii tej wlicza się opiekę nad osobami w podeszłym wieku, w której istotną część stanowi opieka zdrowotna, w tym świadczenia wykonywane przez hospicja i zakłady opieki paliat j."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "jednostka sprawozdawcza funkcja ochrony zdrowia"
+      },
+      {
+       "type": "text",
+       "text": "3.1. Stacjonarna długoterminowa opieka Wykonywana na rzecz pacjenta byt w oddział przyjętego na pobyt w zakładzie. po ZIAĆ szpitalnym 3.2. Długoterminowa dzienna opieka Wykonywana na rzecz pacjenta przyjętego do zakładu z intencją wypisania go w tym samym dniu. Opieka taka oferowana jest pacjentom o ograniczonej samodzielności, którzy w nocy przebywają we własnych domach. 3.3. Długoterminowa opieka świadczona | porada w domu pacjenta Wykonywana w domu pacjenta opieka | wizyta medyczna i pielęgnacyjna na rzecz osób cykl leczenia z trwałą niesprawnością lub cierpiących na choroby przewlekłe, które osoba leczona zmniejszają możliwość samoobsługi. 3.4. Długoterminowa opieka świadczona | pobyt w trybie hostelowym osoba leczona"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Grupa - pomocnicze usługi opieki zdrowotnej",
+     "children": [
+      {
+       "type": "text",
+       "text": "4.1. Badania laboratoryjne badacie w podstawowej opiece zdrowotnej"
+      },
+      {
+       "type": "text",
+       "text": "4.2. Diagnostyka obrazowa i nieobrazowa na rzecz pacjenta ambulatoryjnego"
+      },
+      {
+       "type": "text",
+       "text": "badanie badanie badanie"
+      },
+      {
+       "type": "text",
+       "text": "badanie badanie badanie badanie 4.2.9. Diagnostyka nieobrazowa badanie"
+      },
+      {
+       "type": "text",
+       "text": "4.3. Ratownictwo medyczne i przewóz pacjenta"
+      },
+      {
+       "type": "text",
+       "text": "4.3.3. Pomoc doraźna - ratownicze zespół azdowe ."
+      },
+      {
+       "type": "text",
+       "text": "4.3.4. Pomoc doraźna - ratownictwo Co przelot lotnicze i śmigłowcowe 4.3.5. Pomoc doraźna - wodne pogotowie akcja ratownicza ratunkowe 4.3.6. Pomoc doraźna - ratownictwo akcja ratownicza górskie 4.3.7. Pozostałe"
+      },
+      {
+       "type": "text",
+       "text": "Pomocnicze usługi opieki zdrowotnej; zwykle wykonywane przez średni personel medyczny. Obejmują badania diagnostyczne wykonywane na materiale pobranym od pacjenta, takim jak mocz, krew, kał, wymazy, zeskrobiny czy fragmenty tkanki. Wykazywane tylko w zakresie podstawowej opieki zdrowotnej. Obejmuje badania diagnostyczne wykonywane za pomocą technik obrazowych i nieobrazowych na rzecz pacjenta ambulatoryjnego."
+      },
+      {
+       "type": "text",
+       "text": "Scyntygrafia 23.9"
+      },
+      {
+       "type": "text",
+       "text": "Endoskopia 25.9 Inne (obrazowe 26.9"
+      },
+      {
+       "type": "text",
+       "text": "Obejmuje (a) świadczenia ratownictwa medycznego przedszpitalnega ;"
+      },
+      {
+       "type": "text",
+       "text": "(b) transportowanie pacjenta do i od świadczeniodawcy niepołączone z udzielaniem świadczenia."
+      },
+      {
+       "type": "text",
+       "text": "28.12"
+      },
+      {
+       "type": "text",
+       "text": "29.15"
+      },
+      {
+       "type": "text",
+       "text": "30.13"
+      },
+      {
+       "type": "text",
+       "text": "31.13"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Świadczenie jednostka Sprawozdawcza funkcja ochrony zdrowia"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4371",
+     "path": "ust_4371",
+     "text": "| ||| (00000000 Jpzewóz | Pozostałe -Transport pacjenta przelot",
+     "children": [
+      {
+       "type": "text",
+       "text": "wizyta 4.6. Usługi pielęgnacyjne"
+      },
+      {
+       "type": "text",
+       "text": "4.9. Pozostałe usługi pomocnicze"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Produkty medyczne dla pacjentów ambulatoryjnych",
+     "children": [
+      {
+       "type": "text",
+       "text": "5.2. Sprzęt terapeutyczny i pozostałe dobra medyczne trwałego użytku"
+      },
+      {
+       "type": "text",
+       "text": "5.2.1. Okulary i pozostałe produkty optyczne wyrób medyczny"
+      },
+      {
+       "type": "text",
+       "text": "5.2.2. Przedmioty ortopedyczne Obejmują protezy kończyn, pasy chirurgiczne i inne środki techniczne z zakresu protetyki. Nie obejmują protez | wyrób medyczny wszczepialnych, zaliczanych do usługi wszczepienia (np. endoproteza stawu go"
+      },
+      {
+       "type": "text",
+       "text": "Kod opis świadczenia 8 32.15"
+      },
+      {
+       "type": "text",
+       "text": "33.6"
+      },
+      {
+       "type": "text",
+       "text": "Inne niewymienione wyżej usługi pomocnicze. ™ Należy wpisać kod odpowiedniej jedno stki sprawozdawczej zgodnie z kodem określonym w tabeli A."
+      },
+      {
+       "type": "text",
+       "text": "Obejmuje dostarczanie pacjentom sprzętu medycznego, wraz z towarzyszącymi temu czynnościami, jak sprzedaż detaliczna, dopasowywanie, napraw Obejmują oprócz szkieł optycznych również soczewki kontaktowe, płyny do ich konserwacji oraz usługi, jakie związane są z dopasowaniem i sprzedażą ww. materiałów."
+      },
+      {
+       "type": "text",
+       "text": "36.18"
+      },
+      {
+       "type": "text",
+       "text": "p=\"\"jwową Obejmują wszystkie usuwalne aparaty 5.2.3. Srodki wspomagania słuchu wyrób medyczny słuchowe wraz z odpowiednim 37.18 oprzyrządowaniem. pm\" wow Obejmują wózki inwalidzkie i inne urządzenia 5.2.4. Techniczne urządzenia medyczne | wyrób medyczny"
+      },
+      {
+       "type": "text",
+       "text": "5.2.5 Przedmioty protetyki wyrób medyczny stomatologiczne"
+      },
+      {
+       "type": "text",
+       "text": "5.2.9. Pozostałe medyczne dobra wyrób medyczny trwałego użytku Z"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Profilaktyka i zdrowie publiczne",
+     "children": [
+      {
+       "type": "text",
+       "text": "6.1. Opieka nad matką i dzieckiem, planowanie rodziny i poradnictwo rodzinne"
+      },
+      {
+       "type": "text",
+       "text": "6.1.1. Planowanie rodziny i poradnictwo Em rodzinne wspomagające poruszanie się osób niepełnosprawnych."
+      },
+      {
+       "type": "text",
+       "text": "39.18"
+      },
+      {
+       "type": "text",
+       "text": "Pozostałe przedmioty ortopedyczne i środki 40.18 pomocnicze trwałego użytku. i"
+      },
+      {
+       "type": "text",
+       "text": "Obejmuje świadczenia i działania, których zasadniczym celem jest poprawa stanu zdrowia populacji, w odróżnieniu od świadczeń, których celem jest poprawa stanu zdrowia poszczególnych osób. Dotyczy świadczeń wykonywanych w ramach programów zdrowotnych w rozumieniu art. 5 pkt 30 ustawy."
+      },
+      {
+       "type": "text",
+       "text": "Zdrowie matki i dziecka, planowanie rodziny i poradnictwo rodzinne; obejmuje szeroki zakres świadczeń od poradnictwa genetycznego, zapobiegania wadom rozwojowym, przygotowania do porodu, szczepienia dzieci przedszkolnych."
+      },
+      {
+       "type": "text",
+       "text": "** Należy wpisać kod odpowiedniej jednostki 6.1.2. Zdrowie matki i dziecka | sprawozdawczej zgodnie z kodem określonym 6.1.3. Opieka nad zdrowym dzieckiem | |... |wtabeliA. 6.1.4. Inna"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 14 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Załącznik nr 2"
+      },
+      {
+       "type": "text",
+       "text": "IDENTYFIKATOR ŚWIADCZENIODAWCY"
+      },
+      {
+       "type": "text",
+       "text": "Identyfikator świadczeniodawcy i jego komórki organizacyjnej udzielającej świadczenia, jeżeli jest ona wyróżniona w strukturze świadczeniodawcy, składa się z następujących elementów:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "numer księgi rejestrowej, a jeżeli świadczeniodawcy nie nadano numeru księgi rejestrowej — pierwsze dziewięć cyfr jego numeru identyfikacyjnego REGON;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "część VII resortowego kodu identyfikacyjnego.",
+       "children": []
+      }
+     ]
     }
    ]
   },
@@ -1323,7 +1403,7 @@
       },
       {
        "type": "text",
-       "text": "6.3. KOMUNIKAT POTWIERDZENIA DANYCH O DEKLARACJACH POZ Dziennik Ustaw Nr 242 — 12179 — Poz. 1756"
+       "text": "6.3. KOMUNIKAT POTWIERDZENIA DANYCH O DEKLARACJACH POZ"
       }
      ]
     },
@@ -1439,11 +1519,11 @@
       },
       {
        "type": "text",
-       "text": "9 — nieznana Dziennik Ustaw Nr 242 — 12180 — Poz. 1756 Nagłówek komunikatów"
+       "text": "9 — nieznana Nagłówek komunikatów"
       },
       {
        "type": "text",
-       "text": "Przedstawiony poniżej nagłówek komunikatu stosowany jest we wszystkich komunikatach z danymi, przesyłanych od świadczeniodawcy do płatnika, oraz komunikatach odpowiedzi przesyłanych od płatnika do świadczeniodawcy. Dziennik Ustaw Nr 242 — 12181 — Poz. 1756"
+       "text": "Przedstawiony poniżej nagłówek komunikatu stosowany jest we wszystkich komunikatach z danymi, przesyłanych od świadczeniodawcy do płatnika, oraz komunikatach odpowiedzi przesyłanych od płatnika do świadczeniodawcy."
       },
       {
        "type": "note",
@@ -1507,7 +1587,7 @@
       },
       {
        "type": "text",
-       "text": "Komunikat potwierdzenia odbioru komunikatu z danymi Dziennik Ustaw Nr 242 — 12183 — Poz. 1756"
+       "text": "Komunikat potwierdzenia odbioru komunikatu z danymi"
       },
       {
        "type": "note",
@@ -1575,7 +1655,7 @@
       },
       {
        "type": "text",
-       "text": "Uwaga! Przedstawiona poniżej generalna struktura komunikatu obejmuje tylko główne elementy. Szczegółowa specyfikacja przedstawiona jest w następnym podrozdziale. Dziennik Ustaw Nr 242 — 12185 — Poz. 1756"
+       "text": "Uwaga! Przedstawiona poniżej generalna struktura komunikatu obejmuje tylko główne elementy. Szczegółowa specyfikacja przedstawiona jest w następnym podrozdziale."
       },
       {
        "type": "note",
@@ -1591,7 +1671,7 @@
       },
       {
        "type": "text",
-       "text": "Nagłówek komunikatu — elementy „komunikat” i „swiadczeniodawca” Dziennik Ustaw Nr 242 — 12186 — Poz. 1756"
+       "text": "Nagłówek komunikatu — elementy „komunikat” i „swiadczeniodawca”"
       },
       {
        "type": "note",
@@ -1599,7 +1679,7 @@
       },
       {
        "type": "text",
-       "text": "Elementy „zestaw-swiadczen” i „dane-zestawu” Dziennik Ustaw Nr 242 — 12187 — Poz. 1756"
+       "text": "Elementy „zestaw-swiadczen” i „dane-zestawu”"
       },
       {
        "type": "note",
@@ -1943,7 +2023,7 @@
       },
       {
        "type": "text",
-       "text": "Element „kom-org” Dziennik Ustaw Nr 242 — 12196 — Poz. 1756"
+       "text": "Element „kom-org”"
       },
       {
        "type": "note",
@@ -1959,7 +2039,7 @@
       },
       {
        "type": "text",
-       "text": "Element „transport” Dziennik Ustaw Nr 242 — 12197 — Poz. 1756"
+       "text": "Element „transport”"
       },
       {
        "type": "note",
@@ -1971,7 +2051,7 @@
       },
       {
        "type": "text",
-       "text": "”a r ud e c o r p „ t m n e e l E Komunikat potwierdzenia danych o świadczeniach ambulatoryjnych i szpitalnych Dziennik Ustaw Nr 242 — 12199 — Poz. 1756"
+       "text": "”a r ud e c o r p „ t m n e e l E Komunikat potwierdzenia danych o świadczeniach ambulatoryjnych i szpitalnych"
       },
       {
        "type": "note",
@@ -2031,7 +2111,7 @@
       },
       {
        "type": "text",
-       "text": "Ogólna budowa komunikatu danych Dziennik Ustaw Nr 242 — 12201 — Poz. 1756"
+       "text": "Ogólna budowa komunikatu danych"
       },
       {
        "type": "note",
@@ -2039,7 +2119,7 @@
       },
       {
        "type": "text",
-       "text": "Szczegółowa specyfikacja komunikatu danych o zaopatrzeniu w przedmioty ortopedyczne i środki pomocnicze Dziennik Ustaw Nr 242 — 12202 — Poz. 1756"
+       "text": "Szczegółowa specyfikacja komunikatu danych o zaopatrzeniu w przedmioty ortopedyczne i środki pomocnicze"
       },
       {
        "type": "note",
@@ -2259,7 +2339,7 @@
       },
       {
        "type": "text",
-       "text": "Komunikat potwierdzenia danych o zaopatrzeniu w przedmioty ortopedyczne i środki pomocnicze Dziennik Ustaw Nr 242 — 12205 — Poz. 1756"
+       "text": "Komunikat potwierdzenia danych o zaopatrzeniu w przedmioty ortopedyczne i środki pomocnicze"
       },
       {
        "type": "note",
@@ -2403,7 +2483,7 @@
       },
       {
        "type": "text",
-       "text": "Szczegółowa struktura komunikatu danych o deklaracjach POZ Dziennik Ustaw Nr 242 — 12208 — Poz. 1756"
+       "text": "Szczegółowa struktura komunikatu danych o deklaracjach POZ"
       },
       {
        "type": "note",
@@ -2559,7 +2639,7 @@
       },
       {
        "type": "text",
-       "text": "Komunikat potwierdzenia danych o deklaracjach POZ Dziennik Ustaw Nr 242 — 12211 — Poz. 1756"
+       "text": "Komunikat potwierdzenia danych o deklaracjach POZ"
       },
       {
        "type": "note",
@@ -2635,7 +2715,7 @@
       },
       {
        "type": "text",
-       "text": "Szczegółowa struktura komunikatu danych o poradach POZ Dziennik Ustaw Nr 242 — 12213 — Poz. 1756"
+       "text": "Szczegółowa struktura komunikatu danych o poradach POZ"
       },
       {
        "type": "note",
@@ -2751,7 +2831,7 @@
       },
       {
        "type": "text",
-       "text": "Komunikat potwierdzenia danych o poradach POZ Dziennik Ustaw Nr 242 — 12215 — Poz. 1756"
+       "text": "Komunikat potwierdzenia danych o poradach POZ"
       },
       {
        "type": "note",
@@ -2823,7 +2903,7 @@
       },
       {
        "type": "text",
-       "text": "Szczegółowa struktura komunikatu danych zbiorczych o świadczeniach udzielonych w ramach POZ Dziennik Ustaw Nr 242 — 12217 — Poz. 1756"
+       "text": "Szczegółowa struktura komunikatu danych zbiorczych o świadczeniach udzielonych w ramach POZ"
       },
       {
        "type": "note",
@@ -2835,7 +2915,7 @@
       },
       {
        "type": "text",
-       "text": "Do potwierdzenia danych o świadczeniach udzielonych w ramach POZ stosowany jest ogólny komunikat „potwierdzenia odbioru”, przedstawiony w osobnym rozdziale. Przyjęciu lub odrzuceniu przez płatnika podlega całość danych zbiorczych, przekazanych w potwierdzanym komunikacie. Dziennik Ustaw Nr 242 — 12218 — Poz. 1756"
+       "text": "Do potwierdzenia danych o świadczeniach udzielonych w ramach POZ stosowany jest ogólny komunikat „potwierdzenia odbioru”, przedstawiony w osobnym rozdziale. Przyjęciu lub odrzuceniu przez płatnika podlega całość danych zbiorczych, przekazanych w potwierdzanym komunikacie."
       },
       {
        "type": "note",
@@ -2847,7 +2927,7 @@
       },
       {
        "type": "text",
-       "text": "Szczegółowa struktura komunikatu danych o listach oczekujących Dziennik Ustaw Nr 242 — 12219 — Poz. 1756"
+       "text": "Szczegółowa struktura komunikatu danych o listach oczekujących"
       },
       {
        "type": "note",
@@ -3043,7 +3123,7 @@
       },
       {
        "type": "text",
-       "text": "Do potwierdzenia danych olistach oczekujących stosowany jest ogólny komunikat „potwierdzenia odbioru”, przedstawiony wosobnym rozdziale. Przyjęciu lub odrzuceniu przez płatnika podlega całość danych o listach, przekazanych w potwierdzanym komunikacie. Dziennik Ustaw Nr 242 — 12223 — Poz. 1756"
+       "text": "Do potwierdzenia danych olistach oczekujących stosowany jest ogólny komunikat „potwierdzenia odbioru”, przedstawiony wosobnym rozdziale. Przyjęciu lub odrzuceniu przez płatnika podlega całość danych o listach, przekazanych w potwierdzanym komunikacie."
       },
       {
        "type": "note",

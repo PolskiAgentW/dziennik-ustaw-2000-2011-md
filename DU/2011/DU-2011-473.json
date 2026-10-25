@@ -1,7 +1,7 @@
 {
  "eli": "DU/2011/473",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 23 marca 2011 r. w sprawie wzoru formularza do przekazywania informacji dotyczących publicznego transportu zbiorowego",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2011/473/text.pdf",
  "body": [
   {
@@ -44,7 +44,7 @@
      "type": "pkt",
      "num": "2",
      "path": "par_2/pkt_2",
-     "text": "i nformacji dotyczących publicznego transportu zbiorowego marszałkowi województwa (formularz nr 2) organizowanego przez:",
+     "text": "informacji dotyczących publicznego transportu zbiorowego marszałkowi województwa (formularz nr 2) organizowanego przez:",
      "children": [
       {
        "type": "lit",
@@ -87,7 +87,7 @@
      "type": "pkt",
      "num": "3",
      "path": "par_2/pkt_3",
-     "text": "z biorczej informacji dotyczącej publicznego transportu zbiorowego ministrowi właściwemu do spraw transportu przez marszałka województwa (formularz nr 3) określa załącznik nr 3 do rozporządzenia.",
+     "text": "zbiorczej informacji dotyczącej publicznego transportu zbiorowego ministrowi właściwemu do spraw transportu przez marszałka województwa (formularz nr 3) określa załącznik nr 3 do rozporządzenia.",
      "children": []
     }
    ]
@@ -239,7 +239,11 @@
     },
     {
      "type": "text",
-     "text": "4 Łączna liczba przewiezionych pasażerów w danym roku kalendarzowym , liczona według liczby: Dziennik Ustaw Nr 86 — 5283 — Poz. 473 — sprzedanych biletów jednorazowych, gdzie jeden bilet = 1 pasażer"
+     "text": "4 Łączna liczba przewiezionych pasażerów w danym roku kalendarzowym , liczona według liczby:"
+    },
+    {
+     "type": "text",
+     "text": "— sprzedanych biletów jednorazowych, gdzie jeden bilet = 1 pasażer"
     },
     {
      "type": "text",
@@ -280,7 +284,7 @@
      "type": "pkt",
      "num": "12",
      "path": "pkt_12",
-     "text": "8 Uwagi Dziennik Ustaw Nr 86 — 5284 — Poz. 473 CZĘŚĆ B DWORCE I PRZYSTANKI",
+     "text": "8 Uwagi CZĘŚĆ B DWORCE I PRZYSTANKI",
      "children": [
       {
        "type": "text",
@@ -335,7 +339,11 @@
      "children": [
       {
        "type": "text",
-       "text": ".................................................................................................................... Dziennik Ustaw Nr 86 — 5285 — Poz. 473 POUCZENIE"
+       "text": "...................................................................................................................."
+      },
+      {
+       "type": "text",
+       "text": "POUCZENIE"
       }
      ]
     },
@@ -383,11 +391,18 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_4/pkt_1",
-       "text": "Należy wpisać właściwy podmiot wykonujący zadania organizatora publicznego transportu zbiorowego, o którym mowa w art. 7 ust. 4 pkt 1—5 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym; w przypadku: — porozumienia międzygminnego albo porozumienia powiatów — wskazać, że podany organizator jest organizatorem, któremu powierzono zadanie organizacji publicznego transportu zbiorowego na mocy porozumienia między odpowiednimi gminami albo powiatami, oraz wymienić wszystkie jednostki samorządu terytorialnego wchodzące w skład porozumienia międzygminnego albo porozumienia powiatów w pkt 12 formularza („Uwagi”), — związku międzygminnego albo związku powiatów — podać numer wpisu takiego związku w rejestrze prowadzonym przez ministra właściwego do spraw administracji publicznej. W przypadku przewozu wykonywanego na obszarze: — g miny, związku międzygminnego, porozumienia międzygminnego — wpisać odpowiednio: komunikacja miejska albo gminne przewozy pasażerskie, — p owiatu, związku powiatów, porozumienia powiatów — wpisać: powiatowe przewozy pasażerskie. Należy umieścić pieczątkę odpowiednio: — gminy, — związku międzygminnego, — powiatu, — związku powiatów. Wstawić odpowiednio: — t ransporcie drogowym, — t ransporcie kolejowym, — t ransporcie innym szynowym, — t ransporcie linowym, — t ransporcie linowo-terenowym, — t ransporcie morskim, — ż egludze śródlądowej. Dziennik Ustaw Nr 86 — 5286 — Poz. 473 5) Ustawa z dnia 29 stycznia 2004 r. — Prawo zamówień publicznych (Dz. U. z 2010 r. Nr 113, poz. 759, z późn. zm.). 6) Ustawa z dnia 9 stycznia 2009 r. o koncesji na roboty budowlane lub usługi (Dz. U. Nr 19, poz. 101, z późn. zm.). 7) Należy podać informacje dotyczące przewozów niebędących przewozami o charakterze użyteczności publicznej wykonywanymi na podstawie potwierdzenia zgłoszenia przewozu (w transporcie drogowym do dnia 31 grudnia 2016 r., na podstawie zezwolenia na wykonywanie krajowych regularnych przewozów osób w transporcie drogowym). 8) Dotyczy przewozów wykonywanych w transporcie drogowym, kolejowym oraz innym szynowym. 9) Dotyczy przewozów wykonywanych w transporcie drogowym. 10) Uzupełnić w przypadku, gdy formularz dotyczy przewozów wykonywanych w transporcie innym niż transport drogowy. 11) Inne informacje dotyczące przewozów o charakterze użyteczności publicznej wykonywanych w zakresie publicznego transportu zbiorowego, które organizator uzna za zasadne. 12) W przypadku nieposiadania przez właściwego organizatora wszystkich danych dotyczących przewozów wykonywanych na obszarze właściwości tego organizatora należy wskazać, jakiego zakresu (w liczbie i procentach) przewozów, w stosunku do wszystkich przewozów, dotyczą podane dane.",
+       "text": "Należy wpisać właściwy podmiot wykonujący zadania organizatora publicznego transportu zbiorowego, o którym mowa w art. 7 ust. 4 pkt 1—5 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym; w przypadku: — porozumienia międzygminnego albo porozumienia powiatów — wskazać, że podany organizator jest organizatorem, któremu powierzono zadanie organizacji publicznego transportu zbiorowego na mocy porozumienia między odpowiednimi gminami albo powiatami, oraz wymienić wszystkie jednostki samorządu terytorialnego wchodzące w skład porozumienia międzygminnego albo porozumienia powiatów w pkt 12 formularza („Uwagi”), — związku międzygminnego albo związku powiatów — podać numer wpisu takiego związku w rejestrze prowadzonym przez ministra właściwego do spraw administracji publicznej. W przypadku przewozu wykonywanego na obszarze: — g miny, związku międzygminnego, porozumienia międzygminnego — wpisać odpowiednio: komunikacja miejska albo gminne przewozy pasażerskie, — p owiatu, związku powiatów, porozumienia powiatów — wpisać: powiatowe przewozy pasażerskie. Należy umieścić pieczątkę odpowiednio: — gminy, — związku międzygminnego, — powiatu, — związku powiatów. Wstawić odpowiednio: — t ransporcie drogowym, — t ransporcie kolejowym, — t ransporcie innym szynowym, — t ransporcie linowym, — t ransporcie linowo-terenowym, — t ransporcie morskim, — ż egludze śródlądowej.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_4/pkt_5",
+       "text": "Ustawa z dnia 29 stycznia 2004 r. — Prawo zamówień publicznych (Dz. U. z 2010 r. Nr 113, poz. 759, z późn. zm.). 6) Ustawa z dnia 9 stycznia 2009 r. o koncesji na roboty budowlane lub usługi (Dz. U. Nr 19, poz. 101, z późn. zm.). 7) Należy podać informacje dotyczące przewozów niebędących przewozami o charakterze użyteczności publicznej wykonywanymi na podstawie potwierdzenia zgłoszenia przewozu (w transporcie drogowym do dnia 31 grudnia 2016 r., na podstawie zezwolenia na wykonywanie krajowych regularnych przewozów osób w transporcie drogowym). 8) Dotyczy przewozów wykonywanych w transporcie drogowym, kolejowym oraz innym szynowym. 9) Dotyczy przewozów wykonywanych w transporcie drogowym. 10) Uzupełnić w przypadku, gdy formularz dotyczy przewozów wykonywanych w transporcie innym niż transport drogowy. 11) Inne informacje dotyczące przewozów o charakterze użyteczności publicznej wykonywanych w zakresie publicznego transportu zbiorowego, które organizator uzna za zasadne. 12) W przypadku nieposiadania przez właściwego organizatora wszystkich danych dotyczących przewozów wykonywanych na obszarze właściwości tego organizatora należy wskazać, jakiego zakresu (w liczbie i procentach) przewozów, w stosunku do wszystkich przewozów, dotyczą podane dane.",
        "children": [
         {
          "type": "text",
-         "text": "Opis formularza: — format A-4, poziomo. Dziennik Ustaw Nr 86 — 5287 — Poz. 473"
+         "text": "Opis formularza: — format A-4, poziomo."
         }
        ]
       }
@@ -456,7 +471,7 @@
     },
     {
      "type": "text",
-     "text": "— w gminnych przewozach pasażerskich Dziennik Ustaw Nr 86 — 5288 — Poz. 473 — w powiatowych przewozach pasażerskich"
+     "text": "— w gminnych przewozach pasażerskich — w powiatowych przewozach pasażerskich"
     },
     {
      "type": "text",
@@ -530,7 +545,7 @@
       },
       {
        "type": "text",
-       "text": "— w gminnych przewozach pasażerskich Dziennik Ustaw Nr 86 — 5289 — Poz. 473 — w powiatowych przewozach pasażerskich"
+       "text": "— w gminnych przewozach pasażerskich — w powiatowych przewozach pasażerskich"
       },
       {
        "type": "text",
@@ -594,7 +609,7 @@
       },
       {
        "type": "text",
-       "text": "9 Uwagi Dziennik Ustaw Nr 86 — 5290 — Poz. 473 CZĘŚĆ B DWORCE I PRZYSTANKI"
+       "text": "9 Uwagi CZĘŚĆ B DWORCE I PRZYSTANKI"
       },
       {
        "type": "text",
@@ -678,7 +693,7 @@
       },
       {
        "type": "text",
-       "text": "— własnością lub w zarządzie innych niż województwo podmiotów Dziennik Ustaw Nr 86 — 5291 — Poz. 473 11) 12 Inne informacje"
+       "text": "— własnością lub w zarządzie innych niż województwo podmiotów 11) 12 Inne informacje"
       }
      ]
     },
@@ -708,7 +723,11 @@
     },
     {
      "type": "text",
-     "text": "...................................................................................................................................... Dziennik Ustaw Nr 86 — 5292 — Poz. 473 POUCZENIE"
+     "text": "......................................................................................................................................"
+    },
+    {
+     "type": "text",
+     "text": "POUCZENIE"
     },
     {
      "type": "ust",
@@ -735,7 +754,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Opis formularza: — format A-4, poziomo. Dziennik Ustaw Nr 86 — 5293 — Poz. 473"
+         "text": "Opis formularza: — format A-4, poziomo."
         }
        ]
       }

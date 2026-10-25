@@ -1,7 +1,7 @@
 {
  "eli": "DU/2005/2098",
  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 9 grudnia 2005 r. w sprawie zakresu informacji o zmianach wymogów dotyczących zawodów regulowanych oraz o podjętych decyzjach w sprawach uznania kwalifikacji do wykonywania zawodu regulowanego, a także terminów ich składania",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/2098/text.pdf",
  "body": [
   {
@@ -130,10 +130,6 @@
   {
    "heading": "Załączniki do rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2005 r. (poz. 2098) Załącznik nr 1",
    "body": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 248 — 16233 — Poz. 2098"
-    },
     {
      "type": "note",
      "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
@@ -369,123 +365,135 @@
     },
     {
      "type": "note",
-     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Państwo, miejsce i data ukończenia , : M soe"
+     "type": "text",
+     "text": "Państwo, miejsce i data ukończenia (państwo miasto — dzień miesiqc , :"
     },
     {
-     "type": "ocr",
-     "text": "(państwo miasto — dzień miesiqc Uwagi (np. czas trwania kursu lub uzyskany tytut)"
+     "type": "text",
+     "text": "Uwagi (np. czas trwania kursu lub uzyskany tytuł)"
     },
     {
-     "type": "ocr",
-     "text": "6. Wynik przeprowadzonego postępowania w sprawie 0 uznanie kwalifikacji Decyzja: [I pozytywna [I negatywna"
+     "type": "text",
+     "text": "M soe"
     },
     {
-     "type": "ocr",
-     "text": "Data wydaniadecyzji: aes na A (dzień — miesiąc — rok)"
-    },
-    {
-     "type": "ocr",
-     "text": "Streszczenie uzasadnienia faktycznego decyzji:"
-    },
-    {
-     "type": "ocr",
-     "text": "[I na poziomie trzecim"
-    },
-    {
-     "type": "ocr",
-     "text": "[I na poziomie drugim"
-    },
-    {
-     "type": "ocr",
-     "text": "Kwalifikacje wnioskodawcy D na poziomie pierwszym"
-    },
-    {
-     "type": "ocr",
-     "text": "[ zaświadczenie potwierdzające kompetencje"
-    },
-    {
-     "type": "ocr",
-     "text": "[I doświadczenie zawodowe O NIE DO TAK Ow długości kształcenia lub szkolenia Stwierdzenie znaczącej różnicy, o której mowa E w programie kształcenia lub szkolenia w art. 1 1 ustawy z dnia 26 kwietnia 2001 r. o zasadach [ w zakresie wykonywanego zawodu uznawania nabytych w państwach członkowskich W następstw ioskod He wr ."
-    },
-    {
-     "type": "ocr",
-     "text": "Unii Europejskiej kwalifikacji do wykonywania PASTERZE SOCAN ES zawodów regulowanych"
-    },
-    {
-     "type": "ocr",
-     "text": "O przedstawił dokumenty potwierdzające posiadanie doświadczenia zawodowego albo [I odbył staż adaptacyjny, albo [ przystąpił do testu umiejętności"
-    },
-    {
-     "type": "ocr",
-     "text": "Część B należy wypełnić oddzielnie dla każdej decyzji, od której wniesiono odwołanie / wniosek o ponowne rozpatrzenie sprawy / skargę do wojewódzkiego sądu administracyjnego / skargę kasacyjną do NSA"
-    },
-    {
-     "type": "ocr",
-     "text": "Odwołania"
-    },
-    {
-     "type": "ocr",
-     "text": "Data wniesienia odwołania O DEE Organ, do którego wniesiono odwołanie Data wydania decyzji w postępowaniu odwoławczym s o 5 | DE"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Wnioski o ponowne rozpatrzenie sprawy Nr sprawy, o którym mowa w części A, pkt 2 Data wniesienia wniosku o ponowne rozpatrzenie sprawy"
-    },
-    {
-     "type": "ocr",
-     "text": "ze - aa nan... (dzień — miesiąc — rok) Streszczenie wniosku o ponowne rozpatrzenie sprawy Data wydania decyzji po rozpatrzeniu wniosku o ponowne rozpatrzenie sprawy Sentencja i streszczenie uzasadnienia decyzji"
-    },
-    {
-     "type": "ocr",
-     "text": "Skargi do wojewódzkiego sądu administracyjnego Nr sprawy, o którym mowa w części A, pkt 2"
-    },
-    {
-     "type": "ocr",
-     "text": "a - aaa” wii. (dzień — miesiąc — rok)"
-    },
-    {
-     "type": "ocr",
-     "text": "Data wniesienia skargi do wojewódzkiego sądu administracyjnego RE - a ac. (dzień — miesiąc — rok) Streszczenie skargi do wojewódzkiego sądu administracyjnego"
-    },
-    {
-     "type": "ocr",
-     "text": "Data wydania wyroku przez wojewódzki sąd administracyjny"
-    },
-    {
-     "type": "ocr",
-     "text": "Sentencja 1 streszczenie uzasadnienia wyroku"
-    },
-    {
-     "type": "ocr",
-     "text": "RE - eee” cece (dzień — miesiąc — rok)"
-    },
-    {
-     "type": "ocr",
-     "text": "Skargi kasacyjne do Naczelnego Sądu Administracyjnego Nr sprawy, o którym mowa w części A, pkt 2 Data wniesienia skargi kasacyjnej do NSA Streszczenie skargi kasacyjnej"
-    },
-    {
-     "type": "ocr",
-     "text": "RE - anie uuu. (dzień — miesiąc — rok)"
-    },
-    {
-     "type": "ocr",
-     "text": "Data wydania wyroku przez NSA"
-    },
-    {
-     "type": "ocr",
-     "text": "RE - eee” cece (dzień — miesiąc — rok)"
-    },
-    {
-     "type": "ocr",
-     "text": "Sentencja i streszczenie wyroku NSA"
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Wynik przeprowadzonego postępowania w sprawie 0 uznanie kwalifikacji Decyzja: [I pozytywna [I negatywna",
+     "children": [
+      {
+       "type": "text",
+       "text": "Data wydaniadecyzji: aes na"
+      },
+      {
+       "type": "text",
+       "text": "Streszczenie uzasadnienia faktycznego decyzji:"
+      },
+      {
+       "type": "text",
+       "text": "A (dzień — miesiąc — rok)"
+      },
+      {
+       "type": "text",
+       "text": "[I na poziomie trzecim"
+      },
+      {
+       "type": "text",
+       "text": "[I na poziomie drugim"
+      },
+      {
+       "type": "text",
+       "text": "Kwalifikacje wnioskodawcy D na poziomie pierwszym"
+      },
+      {
+       "type": "text",
+       "text": "[ zaświadczenie potwierdzające kompetencje"
+      },
+      {
+       "type": "text",
+       "text": "[I doświadczenie zawodowe"
+      },
+      {
+       "type": "text",
+       "text": "O NIE DO TAK Stwierdzenie znaczącej różnicy, o której mowa w art. 1 1 ustawy z dnia 26 kwietnia 2001 r. o zasadach uznawania nabytych w państwach członkowskich W następstw He"
+      },
+      {
+       "type": "text",
+       "text": "Ow długości kształcenia lub szkolenia E w programie kształcenia lub szkolenia [ w zakresie wykonywanego zawodu ioskod wr ."
+      },
+      {
+       "type": "text",
+       "text": "Unii Europejskiej kwalifikacji do wykonywania PASTERZE SOCAN ES O przedstawił dokumenty potwierdzające posiadanie doświadczenia zawodów regulowanych zawodowego albo [I odbył staż adaptacyjny, albo [ przystąpił do testu umiejętności"
+      },
+      {
+       "type": "text",
+       "text": "Część B należy wypełnić oddzielnie dla każdej decyzji, od której wniesiono odwołanie / wniosek o ponowne rozpatrzenie sprawy / skargę do wojewódzkiego sądu administracyjnego / skargę kasacyjną do NSA"
+      },
+      {
+       "type": "text",
+       "text": "Odwołania"
+      },
+      {
+       "type": "text",
+       "text": "Data wniesienia odwołania O DEE Organ, do którego wniesiono odwołanie Data wydania decyzji w postępowaniu odwoławczym s o 5 | DE"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Wnioski o ponowne rozpatrzenie sprawy Nr sprawy, o którym mowa w części A, pkt 2 Data wniesienia wniosku o ponowne rozpatrzenie sprawy Streszczenie wniosku o ponowne rozpatrzenie sprawy Data wydania decyzji po rozpatrzeniu wniosku o ponowne rozpatrzenie sprawy Sentencja i streszczenie uzasadnienia decyzji"
+      },
+      {
+       "type": "text",
+       "text": "Skargi do wojewódzkiego sądu administracyjnego Nr sprawy, o którym mowa w części A, pkt 2 Data wniesienia skargi do wojewódzkiego sądu administracyjnego"
+      },
+      {
+       "type": "text",
+       "text": "Streszczenie skargi do wojewódzkiego sądu administracyjnego"
+      },
+      {
+       "type": "text",
+       "text": "Data wydania wyroku przez wojewódzki sąd administracyjny"
+      },
+      {
+       "type": "text",
+       "text": "Sentencja 1 streszczenie uzasadnienia wyroku ze - aa nań... (dzień — miesiąc — rok)"
+      },
+      {
+       "type": "text",
+       "text": "a - aaa” wii. (dzień — miesiąc — rok)"
+      },
+      {
+       "type": "text",
+       "text": "RE - a ac. (dzień — miesiąc — rok)"
+      },
+      {
+       "type": "text",
+       "text": "RE - eee” cece (dzień — miesiąc — rok)"
+      },
+      {
+       "type": "text",
+       "text": "Skargi kasacyjne do Naczelnego Sądu Administracyjnego Nr sprawy, o którym mowa w części A, pkt 2 Data wniesienia skargi kasacyjnej do NSA Streszczenie skargi kasacyjnej Data wydania wyroku przez NSA"
+      },
+      {
+       "type": "text",
+       "text": "Sentencja i streszczenie wyroku NSA"
+      },
+      {
+       "type": "text",
+       "text": "RE - anie uuu. (dzień — miesiąc — rok)"
+      },
+      {
+       "type": "text",
+       "text": "RE - eee” cece (dzień — miesiąc — rok)"
+      }
+     ]
     }
    ]
   }

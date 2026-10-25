@@ -1,7 +1,7 @@
 {
  "eli": "DU/2000/481",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 19 maja 2000 r. w sprawie ustalenia limitów cen leków, preparatów diagnostycznych i sprzętu jednorazowego użytku, wydawanych ubezpieczonym bezpłatnie, za opłatą ryczałtową lub za częściową odpłatnością.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/481/text.pdf",
  "body": [
   {
@@ -2909,10 +2909,6 @@
         },
         {
          "type": "ocr",
-         "text": "Dziennik Ustaw Nr 42 — 2666 — Poz. 481"
-        },
-        {
-         "type": "ocr",
          "text": "Clivarin 1432 roztw. do ini. 0,25ml"
         },
         {
@@ -3250,7 +3246,11 @@
        "children": [
         {
          "type": "text",
-         "text": "Diflucan Fluconazolum Fluconazole kaps. 0, lg Diflucan tabl. powl. 0,005g 0,575 Adamed"
+         "text": "Diflucan"
+        },
+        {
+         "type": "text",
+         "text": "Fluconazolum Fluconazole kaps. 0, lg Diflucan tabl. powl. 0,005g 0,575 Adamed"
         },
         {
          "type": "text",
@@ -3435,7 +3435,12 @@
         },
         {
          "type": "text",
-         "text": "GAGA NOA krem 0,05% - 15 g 14,500 Peete = 0 NIĄ . | 3 | Fluticasoni propionas",
+         "text": "GAGA NOA krem 0,05% - 15 g 14,500",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Peete = 0 NIĄ . | 3 | Fluticasoni propionas",
          "quoted": true
         },
         {
@@ -3634,7 +3639,12 @@
         },
         {
          "type": "text",
-         "text": "inj. 0,08g/2ml Krka |",
+         "text": "inj. 0,08g/2ml Krka",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "|",
          "quoted": true
         },
         {

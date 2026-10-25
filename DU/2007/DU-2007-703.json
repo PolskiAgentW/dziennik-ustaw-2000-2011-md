@@ -1,7 +1,7 @@
 {
  "eli": "DU/2007/703",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju wsi z dnia 29 maja 2007 r. w sprawie oznakowania pasz",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2007/703/text.pdf",
  "body": [
   {
@@ -904,7 +904,7 @@
        "type": "pkt",
        "num": "4",
        "path": "par_9/ust_2/pkt_4",
-       "text": "witamin B lub biotyny, których zawartość podaje się w mikrogramach¹² na kilogram.",
+       "text": "witamin B₁₂ lub biotyny, których zawartość podaje się w mikrogramach na kilogram.",
        "children": []
       }
      ]
@@ -1050,15 +1050,17 @@
    "num": "19",
    "path": "par_19",
    "text": "Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Rolnictwa i Rozwoju Wsi: w z. M. Jabłoński"
-    },
-    {
-     "type": "text",
-     "text": "Załączniki do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 maja 2007 r. (poz. 703)"
-    },
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa i Rozwoju Wsi: w z. M. Jabłoński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 maja 2007 r. (poz. 703)",
+   "body": [
     {
      "type": "text",
      "text": "Załącznik nr 1"
@@ -1080,8 +1082,9 @@
      "text": "1 2 3"
     },
     {
-     "type": "text",
-     "text": "I. Ziarno zbóż, ich produkty i produkty uboczne"
+     "type": "heading",
+     "label": "I.",
+     "text": "Ziarno zbóż, ich produkty i produkty uboczne"
     },
     {
      "type": "text",
@@ -1268,8 +1271,9 @@
      "text": "1.46 Wywar gorzelniczy ciemny suszony białko ogólne"
     },
     {
-     "type": "text",
-     "text": "II. Nasiona oleiste, owoce oleiste, ich produkty i produkty uboczne"
+     "type": "heading",
+     "label": "II.",
+     "text": "Nasiona oleiste, owoce oleiste, ich produkty i produkty uboczne"
     },
     {
      "type": "text",
@@ -1404,8 +1408,9 @@
      "text": "2.33 Łuski kakaowe włókno surowe"
     },
     {
-     "type": "text",
-     "text": "III. Nasiona roślin strączkowych, ich produkty i produkty uboczne"
+     "type": "heading",
+     "label": "III.",
+     "text": "Nasiona roślin strączkowych, ich produkty i produkty uboczne"
     },
     {
      "type": "text",
@@ -1460,8 +1465,9 @@
      "text": "3.13 Wyka siewna —"
     },
     {
-     "type": "text",
-     "text": "IV. Bulwy, korzeniowe, ich produkty i produkty uboczne"
+     "type": "heading",
+     "label": "IV.",
+     "text": "Bulwy, korzeniowe, ich produkty i produkty uboczne"
     },
     {
      "type": "text",
@@ -1520,8 +1526,9 @@
      "text": "4.14 Żelowana skrobia ziemniaczana skrobia"
     },
     {
-     "type": "text",
-     "text": "V. Inne nasiona i owoce, ich produkty i produkty uboczne"
+     "type": "heading",
+     "label": "V.",
+     "text": "Inne nasiona i owoce, ich produkty i produkty uboczne"
     },
     {
      "type": "text",
@@ -1552,8 +1559,9 @@
      "text": "5.07 Pestki winogronowe tłuszcz surowy, włókno surowe, jeżeli jest > 45 %"
     },
     {
-     "type": "text",
-     "text": "VI. Pasze z zielonek i pasze objętościowe"
+     "type": "heading",
+     "label": "VI.",
+     "text": "Pasze z zielonek i pasze objętościowe"
     },
     {
      "type": "text",
@@ -1584,8 +1592,9 @@
      "text": "6.07 Słoma zbożowa po obróbce sód, jeżeli do obróbki użyto NaOH"
     },
     {
-     "type": "text",
-     "text": "VII. Inne rośliny, ich produkty i produkty uboczne"
+     "type": "heading",
+     "label": "VII.",
+     "text": "Inne rośliny, ich produkty i produkty uboczne"
     },
     {
      "type": "text",
@@ -1604,8 +1613,9 @@
      "text": "7.04 Mączka z wodorostów morskich popiół surowy"
     },
     {
-     "type": "text",
-     "text": "VIII. Produkty mleczne"
+     "type": "heading",
+     "label": "VIII.",
+     "text": "Produkty mleczne"
     },
     {
      "type": "text",
@@ -1636,8 +1646,9 @@
      "text": "8.07 Laktoza w proszku laktoza, wilgotność, jeżeli jest > 5 % 1 2 3"
     },
     {
-     "type": "text",
-     "text": "IX. Produkty zwierzęce ze zwierząt lądowych"
+     "type": "heading",
+     "label": "IX.",
+     "text": "Produkty zwierzęce ze zwierząt lądowych"
     },
     {
      "type": "text",
@@ -1672,8 +1683,9 @@
      "text": "9.08 Tłuszcz zwierzęcy wilgotność, jeżeli jest > 1 %"
     },
     {
-     "type": "text",
-     "text": "X. Ryby, inne organizmy morskie, ich produkty i produkty uboczne"
+     "type": "heading",
+     "label": "X.",
+     "text": "Ryby, inne organizmy morskie, ich produkty i produkty uboczne"
     },
     {
      "type": "text",
@@ -1692,8 +1704,9 @@
      "text": "10.04 Rafinowany i utwardzony olej rybny liczba jodowa, wilgotność, jeżeli jest > 1 %"
     },
     {
-     "type": "text",
-     "text": "XI. Substancje mineralne"
+     "type": "heading",
+     "label": "XI.",
+     "text": "Substancje mineralne"
     },
     {
      "type": "text",
@@ -1768,8 +1781,9 @@
      "text": "11.18 Wodorowęglan sodu sód"
     },
     {
-     "type": "text",
-     "text": "XII. Różne"
+     "type": "heading",
+     "label": "XII.",
+     "text": "Różne"
     },
     {
      "type": "text",
@@ -1912,9 +1926,7 @@
      "text": "18 Różne skrobia, jeżeli jest > 30 %, białko ogólne, jeżeli jest > 10 %, tłuszcz surowy, jeżeli jest > 10 %, włókno surowe, cukier całkowity, w przeliczeniu na sacharozę, jeżeli jest > 10 %"
     }
    ]
-  }
- ],
- "annexes": [
+  },
   {
    "heading": "Załącznik nr 2",
    "body": [
@@ -1960,7 +1972,7 @@
         },
         {
          "type": "text",
-         "text": "1.4.1. Produkty pocho- Grzybnia, wilgotny produkt Zakiszona grzybnia uzyskana — zawartość azotu wyrażo- — gatunek lub kategoria dzące z produk- uboczny uzyskany w wyniku podczas produkcji penicyliny na jako białko ogólne, zwierząt cji antybiotyków wytwarzania penicyliny, zaki- — popiół surowy, wdrodze fermen- szony za pomocą Lactobacillus — zawartość wody tacji brevis, plantarun, sake, kolenoid i Streptococcus lactis w celu inaktywowania penicyliny oraz poddany obróbce cieplnej Dziennik Ustaw Nr 102 — 6662 — Poz. 703 1 2 3 4 5"
+         "text": "1.4.1. Produkty pocho- Grzybnia, wilgotny produkt Zakiszona grzybnia uzyskana — zawartość azotu wyrażo- — gatunek lub kategoria dzące z produk- uboczny uzyskany w wyniku podczas produkcji penicyliny na jako białko ogólne, zwierząt cji antybiotyków wytwarzania penicyliny, zaki- — popiół surowy, wdrodze fermen- szony za pomocą Lactobacillus — zawartość wody tacji brevis, plantarun, sake, kolenoid i Streptococcus lactis w celu inaktywowania penicyliny oraz poddany obróbce cieplnej 1 2 3 4 5"
         }
        ]
       }
@@ -1994,7 +2006,7 @@
       },
       {
        "type": "text",
-       "text": "——————— Dziennik Ustaw Nr 102 — 6663 — Poz. 703"
+       "text": "———————"
       }
      ]
     }
@@ -2096,7 +2108,7 @@
      "children": [
       {
        "type": "text",
-       "text": "2.1. Sole amonowe Mleczan amonu wytworzony przez Mleczan amonu wytworzony przez — ilość produktu zawartego w mieszance fermentację Lactobacillus bulgaricus fermentację paszowej, — % całkowitej ilości białka ogólnego dostarczonego przez azot niebiałkowy, — wskazanie w instrukcjach użycia poziomu całkowitej ilości azotu niebiałkowego, której nie powinno się przekraczać w dziennej porcji dla każdego gatunku lub kategorii zwierząt Dziennik Ustaw Nr 102 — 6665 — Poz. 703 1 2 3 4"
+       "text": "2.1. Sole amonowe Mleczan amonu wytworzony przez Mleczan amonu wytworzony przez — ilość produktu zawartego w mieszance fermentację Lactobacillus bulgaricus fermentację paszowej, — % całkowitej ilości białka ogólnego dostarczonego przez azot niebiałkowy, — wskazanie w instrukcjach użycia poziomu całkowitej ilości azotu niebiałkowego, której nie powinno się przekraczać w dziennej porcji dla każdego gatunku lub kategorii zwierząt 1 2 3 4"
       },
       {
        "type": "text",
@@ -2116,7 +2128,7 @@
       },
       {
        "type": "text",
-       "text": "——————— Dziennik Ustaw Nr 102 — 6666 — Poz. 703"
+       "text": "———————"
       }
      ]
     }

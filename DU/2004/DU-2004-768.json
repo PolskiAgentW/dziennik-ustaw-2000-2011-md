@@ -1,7 +1,7 @@
 {
  "eli": "DU/2004/768",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 7 kwietnia 2004 r. w sprawie warunków dostępu i korzystania z infrastruktury kolejowej",
- "converter": "eli2md 0.6.17",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/768/text.pdf",
  "body": [
   {
@@ -639,7 +639,7 @@
      "children": [
       {
        "type": "text",
-       "text": "S = (k + l + w) x (1 + m) ij ij ij"
+       "text": "Sij = (kij + lij + w) x (1 + m)"
       },
       {
        "type": "text",
@@ -647,11 +647,11 @@
       },
       {
        "type": "text",
-       "text": "k — oznacza jednostkowy koszt zmienny jednego ij pociągo-kilometra, ustalony dla parametrów przyjętych w tablicach 1—4 (dla i-tego wiersza i j-tej kolumny),"
+       "text": "kij — oznacza jednostkowy koszt zmienny jednego pociągo-kilometra, ustalony dla parametrów przyjętych w tablicach 1—4 (dla i-tego wiersza i j-tej kolumny),"
       },
       {
        "type": "text",
-       "text": "l — oznacza koszt stały odniesiony do jednego poij ciągo-kilometra, ustalony dla parametrów przyjętych w tablicach 1—4 (dla i-tego wiersza i j-tej kolumny),"
+       "text": "lij — oznacza koszt stały odniesiony do jednego pociągo-kilometra, ustalony dla parametrów przyjętych w tablicach 1—4 (dla i-tego wiersza i j-tej kolumny),"
       },
       {
        "type": "text",
@@ -1642,12 +1642,11 @@
    "num": "20",
    "path": "par_20",
    "text": "Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.[^3]",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Infrastruktury: w z. A. Piłat"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Infrastruktury: w z. A. Piłat"
   }
  ],
  "annexes": [
@@ -1656,7 +1655,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WZÓR Dziennik Ustaw Nr 83 — 5282 — Poz. 768"
+     "text": "WZÓR"
     },
     {
      "type": "note",

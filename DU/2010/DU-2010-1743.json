@@ -1,7 +1,7 @@
 {
  "eli": "DU/2010/1743",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 grudnia 2010 r. w sprawie zgłaszania i przyjmowania danych niezbędnych do zameldowania i wymeldowania oraz prowadzenia ewidencji ludności i ewidencji wydanych i unieważnionych dowodów osobistych.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2010/1743/text.pdf",
  "body": [
   {
@@ -656,10 +656,6 @@
    "heading": "Załącznik nr 1",
    "body": [
     {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 257 — 18069 — Poz. 1743"
-    },
-    {
      "type": "note",
      "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
     },
@@ -698,75 +694,125 @@
     },
     {
      "type": "note",
-     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "4. GMINA r"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "GMINA r",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "5. KOD POCZTOWY"
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "KOD POCZTOWY",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "6. MIEJSCOWOŚĆ | [LI LI | | ttt tty Pi ttt | | J tf aaa"
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "MIEJSCOWOŚĆ | [LI LI |",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "8. NUMER DOMU 9. NUMER LOKALU oy"
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "ULICA",
+     "children": [
+      {
+       "type": "text",
+       "text": "| ttt tty Pi ttt | | J tf aaa"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "LI |"
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "NUMER DOMU LI",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "10. DATA ZAMELDOWANIA (dzień-miesiąc-rok):"
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "DATA ZAMELDOWANIA (dzień-miesiąc-rok):",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "11. OKRES ZAMELDOWANIA NA POBYT CZASOWY (dzień-miesiąc-rok): OD DO |- LTT LL] LL] L1"
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "OKRES ZAMELDOWANIA NA POBYT CZASOWY (dzień-miesiąc-rok):",
+     "children": [
+      {
+       "type": "text",
+       "text": "OD |- LTT"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "12. KRAJ MIEJSCA POBYTU STAŁEGO***** | | | tt m LIT Ltt."
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "KRAJ MIEJSCA POBYTU STAŁEGO***** |",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "V. Podstawa prawna upowainiajaca do otrzymania numeru PESEL — wskazanie konkretnego przepisu, z którego wynika obowiązek posiadania numeru PESEL:"
-    },
-    {
-     "type": "ocr",
-     "text": "7. ULICA"
-    },
-    {
-     "type": "ocr",
-     "text": "Vi. Powód zmiany numeru PESEL** Cl sprostowanie daty urodzenia osoby, dla której był nadany; CJ sprostowanie oznaczenia lub zmiany płci osoby, dla której był nadany; LJ sporządzenie nowego aktu urodzenia stosownie do przepisów ustawy z dnia 29 września 1986r. — Prawo o aktach stanu cywilnego (Dz. U. z 2004 r. Nr 161, poz. 1688); stwierdzenie faktu wprowadzenia w błąd organu co do tożsamości osoby, dla której był nadany."
-    },
-    {
-     "type": "ocr",
-     "text": "VII. Forma przekazania wnioskodawcy powiadomienia o nadaniu numeru PESEL******"
-    },
-    {
-     "type": "ocr",
-     "text": "FORMA POWIADOMIENIA* PISEMNA DOKUMENT ELEKTRONICZNY"
-    },
-    {
-     "type": "ocr",
-     "text": "Podpis wnioskodawcy / podpis i pieczęć podmiotu wnioskującego o nadanie numeru PESEL"
-    },
-    {
-     "type": "ocr",
-     "text": "Data złożenia wniosku (dzień-miesiąc-rok) - LL|- LL]"
-    },
-    {
-     "type": "ocr",
-     "text": "POUCZENIE Zgłoszenie należy wypełnić komputerowo (maszynowo) lub pismem odręcznym, kolorem niebieskim lub czarnym, drukowanymi literami."
-    },
-    {
-     "type": "ocr",
-     "text": "* Wypełnić w przypadku zmiany numeru PESEL. ** Właściwe zaznaczyć. *** Dotyczy osób zameldowanych na terytorium Rzeczypospolitej Polskiej, **** Nie dotyczy osoby składającej wniosek w trybie art. 31b ust. 1 ustawy z dnia 10 kwietnia 1974r. o ewidencji ludności i dowodach osobistych. *«*** Wypełnia osoba niezameldowana na pobyt stały na terytorium Rzeczypospolitej Polskiej. ****** Dotyczy płatnika składek ubezpieczeniowych oraz osoby, o której mowa w art. 31b ust. 1 ustawy z dnia 10 kwietnia 1974r. o ewidencji ludności i dowodach osobistych."
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "NUMER LOKALU oy |",
+     "children": [
+      {
+       "type": "text",
+       "text": "DO LL] LL] L1"
+      },
+      {
+       "type": "text",
+       "text": "| | tt m LIT Ltt."
+      },
+      {
+       "type": "text",
+       "text": "V. Podstawa prawna upowainiajaca do otrzymania numeru PESEL — wskazanie konkretnego przepisu, z którego wynika obowiązek posiadania numeru PESEL:"
+      },
+      {
+       "type": "text",
+       "text": "Vi. Powód zmiany numeru PESEL**"
+      },
+      {
+       "type": "text",
+       "text": "Cl sprostowanie daty urodzenia osoby, dla której był nadany; CJ sprostowanie oznaczenia lub zmiany płci osoby, dla której był nadany; LJ sporządzenie nowego aktu urodzenia stosownie do przepisów ustawy z dnia 29 września 1986r. — Prawo o aktach stanu cywilnego (Dz. U. z 2004 r. Nr 161, poz. 1688); stwierdzenie faktu wprowadzenia w błąd organu co do tożsamości osoby, dla której był nadany."
+      },
+      {
+       "type": "text",
+       "text": "VII. Forma przekazania wnioskodawcy powiadomienia o nadaniu numeru PESEL******"
+      },
+      {
+       "type": "text",
+       "text": "FORMA POWIADOMIENIA* PISEMNA DOKUMENT ELEKTRONICZNY"
+      },
+      {
+       "type": "text",
+       "text": "Podpis wnioskodawcy / podpis i pieczęć podmiotu wnioskującego o nadanie numeru PESEL"
+      },
+      {
+       "type": "text",
+       "text": "Data złożenia wniosku (dzień-miesiąc-rok) - LL|- LL]"
+      },
+      {
+       "type": "text",
+       "text": "POUCZENIE Zgłoszenie należy wypełnić komputerowo (maszynowo) lub pismem odręcznym, kolorem niebieskim lub czarnym, drukowanymi literami."
+      },
+      {
+       "type": "text",
+       "text": "* Wypełnić w przypadku zmiany numeru PESEL. ** Właściwe zaznaczyć. *** Dotyczy osób zameldowanych na terytorium Rzeczypospolitej Polskiej, **** Nie dotyczy osoby składającej wniosek w trybie art. 31b ust. 1 ustawy z dnia 10 kwietnia 1974r. o ewidencji ludności i dowodach osobistych. *«*** Wypełnia osoba niezameldowana na pobyt stały na terytorium Rzeczypospolitej Polskiej. ****** Dotyczy płatnika składek ubezpieczeniowych oraz osoby, o której mowa w art. 31b ust. 1 ustawy z dnia 10 kwietnia 1974r. o ewidencji ludności i dowodach osobistych."
+      }
+     ]
     }
    ]
   }

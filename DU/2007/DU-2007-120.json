@@ -1,7 +1,7 @@
 {
  "eli": "DU/2007/120",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 stycznia 2007 r. w sprawie limitów tolerancji zawartości składników pokarmowych i dodatków paszowych",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2007/120/text.pdf",
  "body": [
   {
@@ -39,12 +39,11 @@
    "num": "3",
    "path": "par_3",
    "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Rolnictwa i Rozwoju Wsi: w z. M. Zagórski"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa i Rozwoju Wsi: w z. M. Zagórski"
   }
  ],
  "annexes": [
@@ -53,7 +52,7 @@
    "body": [
     {
      "type": "text",
-     "text": "LIMITY TOLERANCJI ZAWARTOŚCI SKŁADNIKÓW POKARMOWYCH I DODATKÓW PASZOWYCH Dziennik Ustaw Nr 20 — 1193 — Poz. 120"
+     "text": "LIMITY TOLERANCJI ZAWARTOŚCI SKŁADNIKÓW POKARMOWYCH I DODATKÓW PASZOWYCH"
     },
     {
      "type": "note",
@@ -61,50 +60,50 @@
     },
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Ś GI - Og fezAmod"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "% OL - OGL OP OZ PO pos BZ - 0z feziuod ‘eludem ueJGSM - Ś GI Og fezAmod"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "- % OL OGL OP OZ PO udem"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "- Bz 0z feziuod ‘ZeuBew U0]S04"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Bor - 00L fezAmod"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "% OL - 00L OP OS PO Bg - gg feziuod BPOAA"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Bor - QO} fezAmod"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "% OL OO} OP OS PO BG - Og feziuod Amoins ł+Qldoq"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "ŚL - Op fezAmod"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "% GL - OPL OP 09 PO 66 - 09 feziuod OMOJNS OUĄCĘĄĄ - SED Og fezAmod"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "- % Zh OSL OP 0G PO AMOJNS - 69 Og feziuod zozsną | BIO a"
     },
     {
@@ -345,7 +344,7 @@
      "type": "pkt",
      "num": "5",
      "path": "pkt_5",
-     "text": "3 Liczba kwasowa została podana jako liczba niemianowana i wyraża ilość wodorotlenku potasu (KOH) niezbędną do zobojętnienia wolnych kwasów organicznych zawartych w1 gramie materiału paszowego. Dziennik Ustaw Nr 20 — 1200 — Poz. 120",
+     "text": "3 Liczba kwasowa została podana jako liczba niemianowana i wyraża ilość wodorotlenku potasu (KOH) niezbędną do zobojętnienia wolnych kwasów organicznych zawartych w1 gramie materiału paszowego.",
      "children": []
     }
    ]

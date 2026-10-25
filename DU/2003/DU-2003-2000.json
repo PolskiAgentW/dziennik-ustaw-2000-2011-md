@@ -1,7 +1,7 @@
 {
  "eli": "DU/2003/2000",
  "title": "Rozporządzenie Ministra Finansów z dnia 18 listopada 2003 r. w sprawie szczegółowego zakresu, formy i zasad sporządzania rocznych sprawozdań dotyczących transakcji przeprowadzanych w ubezpieczeniowej grupie kapitałowej",
- "converter": "eli2md 0.6.17",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/2000/text.pdf",
  "body": [
   {
@@ -89,15 +89,17 @@
    "num": "8",
    "path": "par_8",
    "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2004 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Finansów: w z. W. Ciesielski"
-    },
-    {
-     "type": "text",
-     "text": "Załącznik do rozporządzenia Ministra Finansów z dnia 18 listopada 2003 r. (poz. 2000)"
-    },
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: w z. W. Ciesielski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Finansów z dnia 18 listopada 2003 r. (poz. 2000)",
+   "body": [
     {
      "type": "text",
      "text": "ROCZNE SPRAWOZDANIE DOTYCZĄCE TRANSAKCJI PRZEPROWADZANYCH W UBEZPIECZENIOWEJ GRUPIE KAPITAŁOWEJ"
@@ -115,16 +117,19 @@
      "text": "Strona tytułowa"
     },
     {
-     "type": "text",
-     "text": "I. Informacje o ubezpieczeniowej grupie kapitałowej I.1. Wykaz zakładów ubezpieczeń wchodzących w skład ubezpieczeniowej grupy kapitałowej I.2. Schemat organizacyjny ubezpieczeniowej grupy kapitałowej"
+     "type": "heading",
+     "label": "I.",
+     "text": "Informacje o ubezpieczeniowej grupie kapitałowej I.1. Wykaz zakładów ubezpieczeń wchodzących w skład ubezpieczeniowej grupy kapitałowej I.2. Schemat organizacyjny ubezpieczeniowej grupy kapitałowej"
     },
     {
-     "type": "text",
-     "text": "II. Transakcje w ramach ubezpieczeniowej grupy kapitałowej II.1. Lokaty w ramach ubezpieczeniowej grupy kapitałowej II.2. Gwarancje oraz inne transakcje pozabilansowe w ramach ubezpieczeniowej grupy kapitałowej II.3. Środki stanowiące pokrycie marginesu wypłacalności w ramach ubezpieczeniowej grupy kapitałowej II.4. Działalność reasekuracyjna w ramach ubezpieczeniowej grupy kapitałowej II.5. Porozumienia co do podziału kosztów w ramach ubezpieczeniowej grupy kapitałowej"
+     "type": "heading",
+     "label": "II.",
+     "text": "Transakcje w ramach ubezpieczeniowej grupy kapitałowej II.1. Lokaty w ramach ubezpieczeniowej grupy kapitałowej II.2. Gwarancje oraz inne transakcje pozabilansowe w ramach ubezpieczeniowej grupy kapitałowej II.3. Środki stanowiące pokrycie marginesu wypłacalności w ramach ubezpieczeniowej grupy kapitałowej II.4. Działalność reasekuracyjna w ramach ubezpieczeniowej grupy kapitałowej II.5. Porozumienia co do podziału kosztów w ramach ubezpieczeniowej grupy kapitałowej"
     },
     {
-     "type": "text",
-     "text": "III. Podpisy ROCZNE SPRAWOZDANIE DOTYCZĄCE TRANSAKCJI PRZEPROWADZANYCH W UBEZPIECZENIOWEJ GRUPIE KAPITAŁOWEJ"
+     "type": "heading",
+     "label": "III.",
+     "text": "Podpisy ROCZNE SPRAWOZDANIE DOTYCZĄCE TRANSAKCJI PRZEPROWADZANYCH W UBEZPIECZENIOWEJ GRUPIE KAPITAŁOWEJ"
     },
     {
      "type": "text",
@@ -187,8 +192,9 @@
      "text": "Sporządzone na dzień ......................... r."
     },
     {
-     "type": "text",
-     "text": "I. Informacje o ubezpieczeniowej grupie kapitałowej"
+     "type": "heading",
+     "label": "I.",
+     "text": "Informacje o ubezpieczeniowej grupie kapitałowej"
     },
     {
      "type": "text",
@@ -215,377 +221,392 @@
      "text": "3."
     },
     {
-     "type": "ust",
-     "num": "4",
-     "path": "par_8/ust_4",
-     "text": "Dziennik Ustaw Nr 206 — 14262 — Poz. 2000 Roczne sprawozdanie dotyczące transakcji przeprowadzanych w ubezpieczeniowej grupie kapitałowej",
-     "children": [
-      {
-       "type": "text",
-       "text": "Nazwa zakładu ubezpieczeń:"
-      },
-      {
-       "type": "text",
-       "text": "Sporządzone na dzień ......................... r."
-      },
-      {
-       "type": "text",
-       "text": "I. Informacje o ubezpieczeniowej grupie kapitałowej I.2. Schemat organizacyjny ubezpieczeniowej grupy kapitałowej Roczne sprawozdanie dotyczące transakcji przeprowadzanych w ubezpieczeniowej grupie kapitałowej"
-      },
-      {
-       "type": "text",
-       "text": "Nazwa zakładu ubezpieczeń:"
-      },
-      {
-       "type": "text",
-       "text": "Sporządzone na dzień ......................... r."
-      },
-      {
-       "type": "text",
-       "text": "II. Transakcje w ramach ubezpieczeniowej grupy kapitałowej II.1. Lokaty w ramach ubezpieczeniowej grupy kapitałowej"
-      },
-      {
-       "type": "text",
-       "text": "Nazwa zakładu ubezpieczeń wchodzącego Wartość Wartość Data Przewidywany termin w skład ubezpieczeniowej grupy nabycia bilansowa nabycia lokaty zbycia / spłaty / kapitałowej wymagalności lokaty"
-      },
-      {
-       "type": "text",
-       "text": "A B C D E"
-      },
-      {
-       "type": "text",
-       "text": "A. Lokaty zakładu ubezpieczeń sporządzającego sprawozdanie w innych zakładach ubezpieczeń wchodzących w skład ubezpieczeniowej grupy kapitałowej"
-      },
-      {
-       "type": "text",
-       "text": "I. Akcje i udziały"
-      },
-      {
-       "type": "text",
-       "text": "1."
-      },
-      {
-       "type": "text",
-       "text": "2."
-      },
-      {
-       "type": "text",
-       "text": "3."
-      },
-      {
-       "type": "text",
-       "text": "4."
-      },
-      {
-       "type": "text",
-       "text": "II. Pożyczki"
-      },
-      {
-       "type": "text",
-       "text": "1."
-      },
-      {
-       "type": "text",
-       "text": "2."
-      },
-      {
-       "type": "text",
-       "text": "3."
-      },
-      {
-       "type": "text",
-       "text": "4."
-      },
-      {
-       "type": "text",
-       "text": "III. Dłużne papiery wartościowe"
-      },
-      {
-       "type": "text",
-       "text": "1."
-      },
-      {
-       "type": "text",
-       "text": "2."
-      },
-      {
-       "type": "text",
-       "text": "3."
-      },
-      {
-       "type": "text",
-       "text": "4."
-      },
-      {
-       "type": "text",
-       "text": "IV. Pozostałe lokaty"
-      },
-      {
-       "type": "text",
-       "text": "1."
-      },
-      {
-       "type": "text",
-       "text": "2."
-      },
-      {
-       "type": "text",
-       "text": "3."
-      },
-      {
-       "type": "text",
-       "text": "4."
-      },
-      {
-       "type": "text",
-       "text": "B. Lokaty zakładów ubezpieczeń wchodzących w skład ubezpieczeniowej grupy kapitałowej w zakładzie ubezpieczeń sporządzającym sprawozdanie"
-      },
-      {
-       "type": "text",
-       "text": "I. Pożyczki"
-      },
-      {
-       "type": "text",
-       "text": "1."
-      },
-      {
-       "type": "text",
-       "text": "2."
-      },
-      {
-       "type": "text",
-       "text": "3."
-      },
-      {
-       "type": "text",
-       "text": "4."
-      },
-      {
-       "type": "text",
-       "text": "II. Dłużne papiery wartościowe"
-      },
-      {
-       "type": "text",
-       "text": "1."
-      },
-      {
-       "type": "text",
-       "text": "2."
-      },
-      {
-       "type": "text",
-       "text": "3."
-      },
-      {
-       "type": "text",
-       "text": "4."
-      },
-      {
-       "type": "text",
-       "text": "III. Pozostałe lokaty"
-      },
-      {
-       "type": "text",
-       "text": "1."
-      },
-      {
-       "type": "text",
-       "text": "2."
-      },
-      {
-       "type": "text",
-       "text": "3."
-      },
-      {
-       "type": "text",
-       "text": "4."
-      },
-      {
-       "type": "text",
-       "text": "Roczne sprawozdanie dotyczące transakcji przeprowadzanych w ubezpieczeniowej grupie kapitałowej"
-      },
-      {
-       "type": "text",
-       "text": "Nazwa zakładu ubezpieczeń:"
-      },
-      {
-       "type": "text",
-       "text": "Sporządzone na dzień ......................... r."
-      },
-      {
-       "type": "text",
-       "text": "II. Transakcje w ramach ubezpieczeniowej grupy kapitałowej II.2. Gwarancje oraz inne transakcje pozabilansowe w ramach ubezpieczeniowej grupy kapitałowej"
-      },
-      {
-       "type": "text",
-       "text": "Nazwa zakładu ubezpieczeń wchodzącego Wartość Okres w skład ubezpieczeniowej grupy kapitałowej Opis transakcji transakcji obowiązywania transakcji"
-      },
-      {
-       "type": "text",
-       "text": "A B C D"
-      },
-      {
-       "type": "text",
-       "text": "A. Transakcje udzielone"
-      },
-      {
-       "type": "text",
-       "text": "I. Gwarancje i poręczenia"
-      },
-      {
-       "type": "text",
-       "text": "1."
-      },
-      {
-       "type": "text",
-       "text": "2."
-      },
-      {
-       "type": "text",
-       "text": "3."
-      },
-      {
-       "type": "text",
-       "text": "4."
-      },
-      {
-       "type": "text",
-       "text": "II. Zabezpieczenia z tytułu reasekuracji ustanowione przez zakład ubezpieczeń na rzecz cedentów"
-      },
-      {
-       "type": "text",
-       "text": "1."
-      },
-      {
-       "type": "text",
-       "text": "2."
-      },
-      {
-       "type": "text",
-       "text": "3."
-      },
-      {
-       "type": "text",
-       "text": "4."
-      },
-      {
-       "type": "text",
-       "text": "III. Pozostałe transakcje udzielone"
-      },
-      {
-       "type": "text",
-       "text": "1."
-      },
-      {
-       "type": "text",
-       "text": "2."
-      },
-      {
-       "type": "text",
-       "text": "3."
-      },
-      {
-       "type": "text",
-       "text": "4."
-      },
-      {
-       "type": "text",
-       "text": "B. Transakcje otrzymane"
-      },
-      {
-       "type": "text",
-       "text": "I. Gwarancje i poręczenia"
-      },
-      {
-       "type": "text",
-       "text": "1."
-      },
-      {
-       "type": "text",
-       "text": "2."
-      },
-      {
-       "type": "text",
-       "text": "3."
-      },
-      {
-       "type": "text",
-       "text": "4."
-      },
-      {
-       "type": "text",
-       "text": "II. Zabezpieczenia z tytułu reasekuracji ustanowione na rzecz zakładu ubezpieczeń"
-      },
-      {
-       "type": "text",
-       "text": "1."
-      },
-      {
-       "type": "text",
-       "text": "2."
-      },
-      {
-       "type": "text",
-       "text": "3."
-      },
-      {
-       "type": "text",
-       "text": "4."
-      },
-      {
-       "type": "text",
-       "text": "III. Pozostałe transakcje otrzymane"
-      },
-      {
-       "type": "text",
-       "text": "1."
-      },
-      {
-       "type": "text",
-       "text": "2."
-      },
-      {
-       "type": "text",
-       "text": "3."
-      },
-      {
-       "type": "text",
-       "text": "4."
-      },
-      {
-       "type": "text",
-       "text": "Roczne sprawozdanie dotyczące transakcji przeprowadzanych w ubezpieczeniowej grupie kapitałowej"
-      },
-      {
-       "type": "text",
-       "text": "Nazwa zakładu ubezpieczeń:"
-      },
-      {
-       "type": "text",
-       "text": "Sporządzone na dzień ......................... r."
-      },
-      {
-       "type": "text",
-       "text": "II. Transakcje w ramach ubezpieczeniowej grupy kapitałowej II.3. Środki stanowiące pokrycie marginesu wypłacalności w ramach ubezpieczeniowej grupy kapitałowej"
-      },
-      {
-       "type": "text",
-       "text": "Nazwa zakładu ubezpieczeń wchodzącego w skład Opis transakcji Wartość Data transakcji ubezpieczeniowej grupy kapitałowej bilansowa"
-      },
-      {
-       "type": "text",
-       "text": "A B C D"
-      },
-      {
-       "type": "text",
-       "text": "A. Aktywa zakładu ubezpieczeń, sporządzającego sprawozdanie, finansujące kapitały własne innych zakładów ubezpieczeń należących do tej samej ubezpieczeniowej grupy kapitałowej"
-      }
-     ]
+     "type": "text",
+     "text": "4."
+    },
+    {
+     "type": "text",
+     "text": "Roczne sprawozdanie dotyczące transakcji przeprowadzanych w ubezpieczeniowej grupie kapitałowej"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa zakładu ubezpieczeń:"
+    },
+    {
+     "type": "text",
+     "text": "Sporządzone na dzień ......................... r."
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Informacje o ubezpieczeniowej grupie kapitałowej I.2. Schemat organizacyjny ubezpieczeniowej grupy kapitałowej Roczne sprawozdanie dotyczące transakcji przeprowadzanych w ubezpieczeniowej grupie kapitałowej"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa zakładu ubezpieczeń:"
+    },
+    {
+     "type": "text",
+     "text": "Sporządzone na dzień ......................... r."
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Transakcje w ramach ubezpieczeniowej grupy kapitałowej II.1. Lokaty w ramach ubezpieczeniowej grupy kapitałowej"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa zakładu ubezpieczeń wchodzącego Wartość Wartość Data Przewidywany termin w skład ubezpieczeniowej grupy nabycia bilansowa nabycia lokaty zbycia / spłaty / kapitałowej wymagalności lokaty"
+    },
+    {
+     "type": "text",
+     "text": "A B C D E"
+    },
+    {
+     "type": "text",
+     "text": "A. Lokaty zakładu ubezpieczeń sporządzającego sprawozdanie w innych zakładach ubezpieczeń wchodzących w skład ubezpieczeniowej grupy kapitałowej"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Akcje i udziały"
+    },
+    {
+     "type": "text",
+     "text": "1."
+    },
+    {
+     "type": "text",
+     "text": "2."
+    },
+    {
+     "type": "text",
+     "text": "3."
+    },
+    {
+     "type": "text",
+     "text": "4."
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Pożyczki"
+    },
+    {
+     "type": "text",
+     "text": "1."
+    },
+    {
+     "type": "text",
+     "text": "2."
+    },
+    {
+     "type": "text",
+     "text": "3."
+    },
+    {
+     "type": "text",
+     "text": "4."
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Dłużne papiery wartościowe"
+    },
+    {
+     "type": "text",
+     "text": "1."
+    },
+    {
+     "type": "text",
+     "text": "2."
+    },
+    {
+     "type": "text",
+     "text": "3."
+    },
+    {
+     "type": "text",
+     "text": "4."
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Pozostałe lokaty"
+    },
+    {
+     "type": "text",
+     "text": "1."
+    },
+    {
+     "type": "text",
+     "text": "2."
+    },
+    {
+     "type": "text",
+     "text": "3."
+    },
+    {
+     "type": "text",
+     "text": "4."
+    },
+    {
+     "type": "text",
+     "text": "B. Lokaty zakładów ubezpieczeń wchodzących w skład ubezpieczeniowej grupy kapitałowej w zakładzie ubezpieczeń sporządzającym sprawozdanie"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Pożyczki"
+    },
+    {
+     "type": "text",
+     "text": "1."
+    },
+    {
+     "type": "text",
+     "text": "2."
+    },
+    {
+     "type": "text",
+     "text": "3."
+    },
+    {
+     "type": "text",
+     "text": "4."
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Dłużne papiery wartościowe"
+    },
+    {
+     "type": "text",
+     "text": "1."
+    },
+    {
+     "type": "text",
+     "text": "2."
+    },
+    {
+     "type": "text",
+     "text": "3."
+    },
+    {
+     "type": "text",
+     "text": "4."
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Pozostałe lokaty"
+    },
+    {
+     "type": "text",
+     "text": "1."
+    },
+    {
+     "type": "text",
+     "text": "2."
+    },
+    {
+     "type": "text",
+     "text": "3."
+    },
+    {
+     "type": "text",
+     "text": "4."
+    },
+    {
+     "type": "text",
+     "text": "Roczne sprawozdanie dotyczące transakcji przeprowadzanych w ubezpieczeniowej grupie kapitałowej"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa zakładu ubezpieczeń:"
+    },
+    {
+     "type": "text",
+     "text": "Sporządzone na dzień ......................... r."
+    },
+    {
+     "type": "text",
+     "text": "II. Transakcje w ramach ubezpieczeniowej grupy kapitałowej II.2. Gwarancje oraz inne transakcje pozabilansowe w ramach ubezpieczeniowej grupy kapitałowej"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa zakładu ubezpieczeń wchodzącego Wartość Okres w skład ubezpieczeniowej grupy kapitałowej Opis transakcji transakcji obowiązywania transakcji"
+    },
+    {
+     "type": "text",
+     "text": "A B C D"
+    },
+    {
+     "type": "text",
+     "text": "A. Transakcje udzielone"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Gwarancje i poręczenia"
+    },
+    {
+     "type": "text",
+     "text": "1."
+    },
+    {
+     "type": "text",
+     "text": "2."
+    },
+    {
+     "type": "text",
+     "text": "3."
+    },
+    {
+     "type": "text",
+     "text": "4."
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Zabezpieczenia z tytułu reasekuracji ustanowione przez zakład ubezpieczeń na rzecz cedentów"
+    },
+    {
+     "type": "text",
+     "text": "1."
+    },
+    {
+     "type": "text",
+     "text": "2."
+    },
+    {
+     "type": "text",
+     "text": "3."
+    },
+    {
+     "type": "text",
+     "text": "4."
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Pozostałe transakcje udzielone"
+    },
+    {
+     "type": "text",
+     "text": "1."
+    },
+    {
+     "type": "text",
+     "text": "2."
+    },
+    {
+     "type": "text",
+     "text": "3."
+    },
+    {
+     "type": "text",
+     "text": "4."
+    },
+    {
+     "type": "text",
+     "text": "B. Transakcje otrzymane"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Gwarancje i poręczenia"
+    },
+    {
+     "type": "text",
+     "text": "1."
+    },
+    {
+     "type": "text",
+     "text": "2."
+    },
+    {
+     "type": "text",
+     "text": "3."
+    },
+    {
+     "type": "text",
+     "text": "4."
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Zabezpieczenia z tytułu reasekuracji ustanowione na rzecz zakładu ubezpieczeń"
+    },
+    {
+     "type": "text",
+     "text": "1."
+    },
+    {
+     "type": "text",
+     "text": "2."
+    },
+    {
+     "type": "text",
+     "text": "3."
+    },
+    {
+     "type": "text",
+     "text": "4."
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Pozostałe transakcje otrzymane"
+    },
+    {
+     "type": "text",
+     "text": "1."
+    },
+    {
+     "type": "text",
+     "text": "2."
+    },
+    {
+     "type": "text",
+     "text": "3."
+    },
+    {
+     "type": "text",
+     "text": "4."
+    },
+    {
+     "type": "text",
+     "text": "Roczne sprawozdanie dotyczące transakcji przeprowadzanych w ubezpieczeniowej grupie kapitałowej"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa zakładu ubezpieczeń:"
+    },
+    {
+     "type": "text",
+     "text": "Sporządzone na dzień ......................... r."
+    },
+    {
+     "type": "text",
+     "text": "II. Transakcje w ramach ubezpieczeniowej grupy kapitałowej II.3. Środki stanowiące pokrycie marginesu wypłacalności w ramach ubezpieczeniowej grupy kapitałowej"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa zakładu ubezpieczeń wchodzącego w skład Opis transakcji Wartość Data transakcji ubezpieczeniowej grupy kapitałowej bilansowa"
+    },
+    {
+     "type": "text",
+     "text": "A B C D"
+    },
+    {
+     "type": "text",
+     "text": "A. Aktywa zakładu ubezpieczeń, sporządzającego sprawozdanie, finansujące kapitały własne innych zakładów ubezpieczeń należących do tej samej ubezpieczeniowej grupy kapitałowej"
     },
     {
      "type": "ust",
      "num": "1",
-     "path": "par_8/ust_1",
+     "path": "ust_1",
      "text": "Akcje",
      "children": [
       {
@@ -609,7 +630,7 @@
     {
      "type": "ust",
      "num": "2",
-     "path": "par_8/ust_2",
+     "path": "ust_2",
      "text": "Inne aktywa",
      "children": [
       {
@@ -667,15 +688,15 @@
       {
        "type": "text",
        "text": "3."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "par_8/ust_4",
-     "text": "Dziennik Ustaw Nr 206 — 14267 — Poz. 2000 Roczne sprawozdanie dotyczące transakcji przeprowadzanych w ubezpieczeniowej grupie kapitałowej",
-     "children": [
+      },
+      {
+       "type": "text",
+       "text": "4."
+      },
+      {
+       "type": "text",
+       "text": "Roczne sprawozdanie dotyczące transakcji przeprowadzanych w ubezpieczeniowej grupie kapitałowej"
+      },
       {
        "type": "text",
        "text": "Nazwa zakładu ubezpieczeń:"
@@ -833,7 +854,6 @@
    ]
   }
  ],
- "annexes": [],
  "footnotes": {
   "1": "Minister Finansów kieruje działem administracji rządowej — instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 marca 2002 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 32, poz. 301, Nr 43, poz. 378 i Nr 93, poz. 834). imię nazwisko data podpis imię nazwisko data podpis e–mail telefon faks imię nazwisko data podpis"
  }

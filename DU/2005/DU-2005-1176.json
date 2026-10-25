@@ -1,7 +1,7 @@
 {
  "eli": "DU/2005/1176",
  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 20 lipca 2005 r. zmieniające rozporządzenie w sprawie określenia wzorów formularzy sprawozdawczych, objaśnień co do sposobu ich wypełniania oraz wzorów kwestionariuszy i ankiet statystycznych stosowanych w badaniach statystycznych ustalonych w programie badań statystycznych statystyki publicznej na rok 2005",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/1176/text.pdf",
  "body": [
   {
@@ -101,10 +101,6 @@
   {
    "heading": "Załączniki do rozporządzenia Prezesa Rady Ministrów zdnia 20 lipca 2005 r. (poz. 1176) Załącznik nr 1",
    "body": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 140 — 8774 — Poz. 1176"
-    },
     {
      "type": "note",
      "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
@@ -223,74 +219,78 @@
     },
     {
      "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "DZIAŁ 2B. UDZIELONE ŚWIADCZENIA — ZADANIA WŁASNE GMIN"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "FORMY POMOCY LICZBA OSÓB, LICZBA KWOTA LICZBA LICZBA OSÓB KTÓRYM PRZY- ŚWIADCZEŃ ŚWIADCZEŃ W RODZINACH ZNANO DECY- ZJĄ ŚWIADCZENIE"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "RAZEM"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "ZASIŁKI OKRESOWE - OGÓŁEM w tym: Środki własne dotacja w tym przyznane z powodu: /z wiersza 2 / bezrobocia"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "niepełnosprawności"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "możliwości utrzymania lub nabycia uprawnień do świadczeń z innych systemów zabezpieczenia społecznego"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "USŁUGI OPIEKUŃCZE - OGÓŁEM w tym: specjalistyczne"
     },
     {
-     "type": "ocr",
-     "text": "(ZASIŁEK CELOWY NA POKRYCIE WYDATKÓW NA ŚWIADCZENIA ZDROWOTNE OSOBOM NIEMA- JĄCYM DOCHODU I MOŻLIWOŚCI UZYSKANIA ŚWIAD- ZEN NA PODSTAWIE PRZEPISÓW O POWSZECHNYM UBEZPIECZENIU W NFZ lw tym dla: osób bezdomnych (ZASIŁKI CELOWE NA POKRYCIE WYDATKÓW POWSTA- ILYCH W WYNIKU ZDARZENIA LOSOWEGO"
+     "type": "text",
+     "text": "(ZASIŁEK CELOWY NA POKRYCIE WYDATKÓW NA ŚWIADCZENIA ZDROWOTNE OSOBOM NIEMA- JĄCYM DOCHODU I MOŻLIWOŚCI UZYSKANIA ŚWIĄD- ZEN NA PODSTAWIE PRZEPISÓW O POWSZECHNYM UBEZPIECZENIU W NFZ lw tym dla: osób bezdomnych"
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "(ZASIŁKI CELOWE NA POKRYCIE WYDATKÓW POWSTA- ILYCH W WYNIKU ZDARZENIA LOSOWEGO"
+    },
+    {
+     "type": "text",
      "text": "[ZASIŁKI CELOWE W FORMIE BILETU KREDYTOWANEGO"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "SPRAWIENIE POGRZEBU w tym osobom: bezdomnym INNE ZASIŁKI CELOWE I W NATURZE [OGÓŁEM w tym: zasiłki specjalne celowe"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "POMOC NA EKONOMICZNE USAMODZIELNIENIE - OGÓŁEM w tym: w naturze"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "zasiłki"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "pożyczka"
     },
     {
-     "type": "ocr",
-     "text": "PORADNICTWO SPECJALISTYCZNE Iprawne, psychologiczne, rodzinne/"
+     "type": "text",
+     "text": "PORADNICTWO SPECJALISTYCZNE I prawne, psychologiczne, rodzinne/"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "INTERWENCJA KRYZYSOWA"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "PRACA SOCJALNA"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "a-Srodki własne, b-dotacja W wierszu 1,kolumna 3 „kwota świadczeń w zł \" jest sumą kwot wydatkowanych na świadczenia wymienione w wierszach 2,9,10,12,13,5,17,18,19,21,23 Aw kolumnie 3 We wszystkich wierszach działu 2B -analogicznie jak w całym sprawozdaniu MPiPS-03 należy podawać liczbę osób otrzymujących decyzją świadczenie, liczbę rodzin i liczbę osób w tych rodzinach przy zachowaniu zasady, że osobę / rodzinę / wymieniamy TYLKOraz bez względu na liczbę otrzymanych świadczeń, kwotę świadczeń i częstotliwość otrzymania świadczenia."
     },
     {
@@ -411,110 +411,110 @@
     },
     {
      "type": "note",
-     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "DZIAŁ 2C-2 UDZIELONE ŚWIADCZENIA — ZADANIA WŁASNE REALIZOWANE PRZEZ POWIATOWE CENTRA POMOCY RODZINIE"
     },
     {
-     "type": "ocr",
-     "text": "RODZINY ZASTĘPCZE LICZBA OSOB, LICZBA KWOTA LICZBA LICZBA DZIECI WYSZCZEGOLNIENIE KTORYM PRZY- SWIADCZEN SWIADCZEN RODZIN UMIESZCZONYCH ZNANO DECY- WZŁ W RODZINIE ZASTĘPCZEJ ZJĄ ŚWIADCZENIE 0] „.„.„08\"+\"”, „JJ, „1-7 Jo [4] 5"
+     "type": "text",
+     "text": "RODZINY ZASTĘPCZE LICZBA OSÓB, LICZBA KWOTA LICZBA LICZBA DZIECI WYSZCZEGÓLNIENIE KTÓRYM PRZY- ŚWIADCZEŃ ŚWIADCZEŃ RODZIN UMIESZCZONYCH ZNANO DECY- WZŁ W RODZINIE ZASTĘPCZEJ ZJĄ ŚWIADCZENIE 0] „.„.„08\"+\"”, „JJ, „1-7 Jo [4] 5"
     },
     {
-     "type": "ocr",
-     "text": "RODZINY ZASTEPCZE - OGOLEM 1 x w tym: RODZINY SPOKREWNIONE Z DZIECKIEM 2]"
+     "type": "text",
+     "text": "RODZINY ZASTĘPCZE - OGÓŁEM 1 x w tym: RODZINY SPOKREWNIONE Z DZIECKIEM 2]"
     },
     {
-     "type": "ocr",
-     "text": "pomoc pieniężna dla dziecka - ogotom 3) wtym: pomoc pieniężna na częściowe pokrycie kosztów utrzymania umieszczonego dziecka 4 jednorazowa pomoc na pokrycie wydatków związanych z potrzebami dzięcka przyjmowanego do rodziny 5"
+     "type": "text",
+     "text": "pomoc pieniężna dla dziecka - ogółom 3) wtym: pomoc pieniężna na częściowe pokrycie kosztów utrzymania umieszczonego dziecka 4 jednorazowa pomoc na pokrycie wydatków związanych z potrzebami dzięcka przyjmowanego do rodziny 5"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "jednorazowa pomoc losowa ©"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "okresowa pomoc losowa 7]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "RODZINY NIESPOKREWNIONE Z DZIECKIEM 8]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "pomoc pieniężna dla dziecka - ogółem 9) w tym: pomoc pieniężna na częściowe pokrycie kosztów utrzymania umieszczonego dziecka 10 jednorazowa pomoc na pokrycie wydatków związanych z potrzebami dziecka przyjnowanego do rodziny 1"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "jednorazowa pomoc losowa 12]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "okresowa pomoc losowa 13"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "ZAWODOWE NIESPOKREWNIONE Z DZIECKIEM 14]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "WIELODZIETNE 15"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "pomoc pieniężna dla dziecka - ogółem 16 w tym: pomoc pieniężna na częściowe pokrycię kosztów utrzymania umieszczonego dziecka 17] jednorazowa pomoc na pokrycie wydatków związanych z potrzebami dziecka przyjmowanego do rodziny 18"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "jednorazowa pomoc losowa. 19]"
     },
     {
-     "type": "ocr",
-     "text": "Okrosowa pomoc losowa 20) wynagrodzenie osoby za połnienie funkcji wielodzietnej zawodowej niespokrewnionej z dzieckiem rodziny zastępczej 21"
+     "type": "text",
+     "text": "O krosowa pomoc losowa 20) wynagrodzenie osoby za połnienie funkcji wielodzietnej zawodowej niespokrewnionej z dzieckiem rodziny zastępczej 21"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "SPECJALISTYCZNE 22"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "pomoc pieniężna dla dziecka - ogółom 23) w tym: pomoc pieniężna na częściowe pokrycie kosztów utrzymania umieszczonego dziecka 24 jednorazowa pomoc na pokrycie wydatków związanych z potrzebami dzięcka przyjmowanego do rodziny 25|"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "jednorazowa pomoc losowa 26"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "okresowa pomoc losowa 27] wynagrodzenie osoby za pełnienie funkcji specjalistycznej zawodowej niespokrewnionej z dzieckiem rodziny zastępczej 28"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "O CHARAKTERZE POGOTOWIA RODZINNEGO 29)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "pomoc pieniężna dla dziecka - ogółem 30) w tym: pomoc pieniężna na częściowe pokrycie kosztów utrzymania umieszczonego dziecka 31 jednorazowa pomoc na pokrycie wydatków związanych z potrzebami dziecka przyjmowanego do rodziny 32]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "jednorazowa pomoc losowa 33]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "okresowa pomoc losowa 34)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "wynagrodzenie osoby za pełnienie zadań pogotowia rodzinnego 35]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "wynagrodzenie osoby pozostającej w gotowości"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "pełnienia zadań pogotowia rodzinnego 36} W kolumnie 5 należy podać liczbę wszystkich dzieci umieszczonych w rodzinach zastępczych, a nie tylko przyjętych w okresie sprawozdawczym; za osobę, której decyzją przyznano świadczenie, należy uznać dziecko lub dzieci, na które przyznawane jest świadczenie, lub w przypadku wiersza 21, 28, 35, 36 dorosłego członka rodziny zastępczej, na którego wypłacane jest wynagrodzenie."
     },
     {
@@ -603,51 +603,113 @@
     },
     {
      "type": "note",
-     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "DZIAŁ 4. POWODY PRZYZNANIA POMOCY LICZBA RODZIN LICZBA OSOB W RODZINACH"
+     "type": "heading",
+     "label": "DZIAŁ 4",
+     "text": "POWODY PRZYZNANIA POMOCY"
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "LICZBA RODZIN LICZBA OSÓB W RODZINACH"
+    },
+    {
+     "type": "text",
      "text": "POWÓD TRUDNEJ SYTUACJI ŻYCIOWEJ OGÓŁEM"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "UBÓSTWO"
     },
     {
-     "type": "ocr",
-     "text": "SIEROCTWO BEZDOMNOŚĆ"
+     "type": "text",
+     "text": "SIEROCTWO"
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "BEZDOMNOŚĆ"
+    },
+    {
+     "type": "text",
      "text": "POTRZEBA OCHRONY MACIERZYŃSTWA IW TYM: WIELODZIETNOŚĆ"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "BEZROBOCIE"
     },
     {
-     "type": "ocr",
-     "text": "NIEPEŁNOSPRAWNOŚĆ DŁUGOTRWAŁA LUB CIĘŻKA CHOROBA BEZRADNOŚĆ W SPRAWACH OPIEK.— —WYCH. I PROWADZENIA GOSPO- DARSTWA DOMOWEGO - OGÓŁEM"
+     "type": "text",
+     "text": "NIEPEŁNOSPRAWNOŚĆ"
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "DŁUGOTRWAŁA LUB CIĘŻKA CHOROBA"
+    },
+    {
+     "type": "text",
+     "text": "BEZRADNOŚĆ W SPRAWACH OPIEK.— —WYCH. I PROWADZENIA GOSPO- DARSTWA DOMOWEGO - OGÓŁEM"
+    },
+    {
+     "type": "text",
      "text": "RODZINY NIEPEŁNE"
     },
     {
-     "type": "ocr",
-     "text": "TRUDNOŚCI W PRZYSTOSOWANIU DO ŻYCIA PO ZWOLNIENIU Z ZAKŁADU KARNEGO BRAK UMIEJĘTNOŚCI W PRZYSTO- SOWANIU DO ŻYCIA MŁODZIEŻY OPUSZCZAJĄCEJ PLACÓWKI OPIEKUŃCZO-WYCHOWAWCZE TRUDNOŚCI W INTEGRACJI OSÓB, KTÓRE OTRZYMAŁY STATUS UCHODŹCY ZDARZENIE LOSOWE SYTUACJA KRYZYSOWA KLĘSKA ŻYWIOŁOWA LUB EKOLOGICZNA * Należy wypełnić wyłącznie za I—XIl."
+     "type": "text",
+     "text": "TRUDNOŚCI W PRZYSTOSOWANIU DO ŻYCIA PO ZWOLNIENIU Z ZAKŁADU KARNEGO"
+    },
+    {
+     "type": "text",
+     "text": "BRAK UMIEJĘTNOŚCI W PRZYSTO- SOWANIU DO ŻYCIA MŁODZIEŻY OPUSZCZAJĄCEJ PLACÓWKI OPIEKUŃCZO-WYCHOWAWCZE"
+    },
+    {
+     "type": "text",
+     "text": "TRUDNOŚCI W INTEGRACJI OSÓB, KTÓRE OTRZYMAŁY STATUS UCHODŹCY"
+    },
+    {
+     "type": "text",
+     "text": "ZDARZENIE LOSOWE"
+    },
+    {
+     "type": "text",
+     "text": "SYTUACJA KRYZYSOWA"
+    },
+    {
+     "type": "text",
+     "text": "KLĘSKA ŻYWIOŁOWA LUB EKOLOGICZNA * Należy wypełnić wyłącznie za I—XIl."
     },
     {
      "type": "note",
-     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "DZIAŁ 5 *. Typy rodzin objętych pomocą społeczną LICZBA RODZIN LICZBA OSOB WYSZCZEGÓLNIENIE W RODZINACH OGÓŁEM w tym: NA WSI 0 1 2 3 RODZINY OGÓŁEM I wiersz 2+3+4+5+6+7/ 1 o liczbie osób 1 2 2 3 3 4 4 5 5 6 6 i więcej 7 w tym / z wiersza 1 / rodziny z dziećmi ogółem iwiersz 9+10+11+12+13+14+15/ 8 o liczbie dzieci 1 9 2 10 3 11 4 12 5 13 6 14 7 i więcej 15 RODZINY NIEPEŁNE OGÓŁEM fwiersz 17+18+19+20/ 16 o liczbie dzieci 1 17 2 18 3 19 4 i więcej 20 RODZINY EMERYTÓW I RENCISTÓW OGÓŁEM iwiersz 22+23+24+25/ 21 o liczbie osób 1 22 2 23 3 24 4 i więcej 25 * Należy wypełnić wyłącznie za I—XIl."
+     "type": "heading",
+     "label": "DZIAŁ 5",
+     "text": "*. Typy rodzin objętych pomocą społeczną"
+    },
+    {
+     "type": "text",
+     "text": "WYSZCZEGÓLNIENIE"
+    },
+    {
+     "type": "text",
+     "text": "0 RODZINY OGÓŁEM I wiersz 2+3+4+5+6+7/ o liczbie osób 1 2 3 4 5 6 i więcej w tym / z wiersza 1 / rodziny z dziećmi ogółem i wiersz 9+10+11+12+13+14+15/ o liczbie dzieci 1 2 3 4 5 6 7 i więcej RODZINY NIEPEŁNE OGÓŁEM fwiersz 17+18+19+20/ o liczbie dzieci 1 2 3 4 i więcej RODZINY EMERYTÓW I RENCISTÓW OGÓŁEM i wiersz 22+23+24+25/ o liczbie osób 1 2 3 4 i więcej * Należy wypełnić wyłącznie za I—XIl."
+    },
+    {
+     "type": "text",
+     "text": "LICZBA RODZIN LICZBA OSÓB W RODZINACH OGÓŁEM w tym: NA WSI 1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3 4 5 6 7"
+    },
+    {
+     "type": "text",
+     "text": "8 9 10 11 12 13 14 15 16 17 18 19 20"
+    },
+    {
+     "type": "text",
+     "text": "21 22 23 24 25"
     },
     {
      "type": "note",
@@ -731,290 +793,344 @@
     },
     {
      "type": "note",
-     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Dziat 6B. JEDNOSTKI ORGANIZACYJNE POMOCY SPOLECZNEJ O ZASIEGU PONAD GMINNYM - FINANSOWANE Z BUDŻETU POWIATÓW ZE ŚRODKÓW NA POMOC SPOŁECZNĄ WYSZCZEGÓLNIENIE liczba liczba liczba liczba osób liczba liczba osób jednostek* miejsc** korzystających*** jednostek* miejsc** korzystajacych*** 7"
+     "type": "text",
+     "text": "Dział 6B. JEDNOSTKI ORGANIZACYJNE POMOCY SPOŁECZNEJ O ZASIĘGU PONAD GMINNYM - FINANSOWANE Z BUDŻETU POWIATÓW ZE ŚRODKÓW NA POMOC SPOŁECZNĄ WYSZCZEGÓLNIENIE liczba liczba liczba liczba osób liczba liczba osób jednostek* miejsc** korzystających*** jednostek* miejsc** korzystających*** 7"
     },
     {
-     "type": "ocr",
-     "text": "DOMY POMOCY SPOLECZNEJ OSRODKI WSPARCIA lwtym: prowadzące miejsca całodobowe okresowego pobytu |z tego: /z wiersza 2/ środowiskowe domy samopomocy dzienne domy pomocy noclegownie, schroniska, domy dla bezdomnych ośrodki opiekuńcze inne ośrodki wsparcia"
+     "type": "text",
+     "text": "DOMY POMOCY SPOŁECZNEJ OSRODKI WSPARCIA lwtym: prowadzące miejsca całodobowe okresowego pobytu |z tego: /z wiersza 2/ środowiskowe domy samopomocy dzienne domy pomocy noclegownie, schroniska, domy dla bezdomnych ośrodki opiekuńcze inne ośrodki wsparcia"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "DOMY DLA MATEK Z MAŁOLETNIMI DZIEĆMI I KOBIET W CIĄŻY"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "MIESZKANIA CHRONIONE dla osób usamodzielnianych opuszczających niektóre typy placówek opiek.-wychowawczych, schroniska, zakłady poprawcze i inne dla osób z zaburzeniami psychicznymi"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "OŚRODKI INTERWENCJI KRYZYSOWEJ"
     },
     {
-     "type": "ocr",
-     "text": "OŚRODKI ADOPCYJNO-OPIEKUŃCZE w tym prowadzące pracę: - z rodziną naturalną - zrodziną zastępczą - z rodziną adopcyjną"
+     "type": "text",
+     "text": "OŚRODKI ADOPCYJNO-OPIEKUŃCZE w tym prowadzące pracę: - z rodziną naturalną - z rodziną zastępczą - z rodziną adopcyjną"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "PLACÓWKI OPIEKUŃCZO-WYCHOWAWCZE w tym: placówki wsparcia dziennego w tym: - opiekuńcze - specjalistyczne placówki interwencyjne placówki rodzinne placówki socjalizacyjne placówki wielofunkcyjne"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "JEDNOSTKI SPECJALISTYCZNEGO PORADNICTWA w tym: JEDNOSTKI SPECJALISTYCZNEGO PORADNICTWA RODZINNEGO w tym: - dla rodzin naturalnych - dla rodzin zastępczych i adopcyjnych - terapii rodzinnej * - Liczba jednosteki w ostatnim dniu okresu sprawozdawczego. * _Liczba miejsc wg. statutu. *** „Rzeczywista liczba osób korzystających w okresie sprawozdawczym. Dana osobę należy wykazać tylko raz bez względu na liczbę dni pobytu lub liczbę wizyt."
     },
     {
      "type": "note",
-     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "OBJAŚNIENIA do sporządzenia sprawozdania na formularzu MPiPS-03 z udzielonych świadczeń pomocy społecznej - pieniężnych, w naturze i usługach"
+     "type": "text",
+     "text": "OBJAŚNIENIA"
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "do sporządzenia sprawozdania na formularzu MPiPS-03 z udzielonych świadczeń pomocy społecznej - pieniężnych, w naturze i usługach"
+    },
+    {
+     "type": "text",
      "text": "Dział 1, 2A, 2B, 2 C-1, 2 C-2, 2 C-3, 3, 4, 5, 6A, 6B — dane zbiorcze dla województwa wykonują, na podstawie danych uzyskanych z odpowiednich jednostek organizacyjnych pomocy społecznej, służby wojewody zobowiązane do sporządzania sprawozdania MPiPS-03."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Zgodnie z wyjaśnieniami zawartymi w publikacji Głównego Urzędu Statystycznego „Rocznik Statystyczny Województw” Warszawa 2001, w UWAGACH OGÓLNYCH, str. XX: za osoby lub rodziny „na wsi” należy uznać osoby lub rodziny zamieszkujące obszar położony w granicach jednostek podziału administracyjnego nieposiadających statusu miasta."
     },
     {
      "type": "note",
-     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Dział 1"
-    },
-    {
-     "type": "ocr",
+     "type": "heading",
+     "label": "Dział 1",
      "text": "ZATRUDNIENIE W JEDNOSTKACH ORGANIZACYJNYCH POMOCY SPOŁECZNEJ"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Liczbę pracowników zatrudnionych (na podstawie umowy 0 pracę) należy podać wg stanu na ostatni dzień okresu sprawozdawczego, tj. 30 VI lub 31 XII. Należy uwzględnić wszystkich pracowników zatrudnionych bez względu na wymiar czasu pracy (nie dokonując przeliczenia na pełne etaty). Liczba zatrudnionych nie obejmuje pracowników przebywających na urlopach wychowawczych, opiekuńczych, bezpłatnych."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "W Dziale 1 należy podać liczbę pracowników zgodnie ze stanowiskami wyszczególnionymi w zawartych umowach o pracę. Oznacza to, że np. kierownik ośrodka pomocy społecznej lub jego zastępca wykonujący jednocześnie obowiązki pracownika socjalnego powinni być wykazani wyłącznie w wierszu 22 /kierownicy/ lub 23 /zastępca kierownika/, natomiast nie powinni być wykazani np. w wierszu 26 /specjalista pracy socjalnej/."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wiersz 22 nie obejmuje kierowników sekcji."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Dział 2A"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "UDZIELONE ŚWIADCZENIA - ZADANIA ZLECONE GMINOM"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Za rodzinę należy uznać, zgodnie z art. 6 pkt 14 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. Nr 64, poz. 593, z późn. zm.), osoby spokrewnione lub niespokrewnione pozostające w faktycznym związku, wspólnie zamieszkujące i gospodarujące."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Dział 2A wypełniamy zgodnie z zasadą, że w danym wierszu dotyczącym danego świadczenia na rodzinę, rodzinę należy wymienić tylko raz, bez względu na liczbę otrzymanych decyzji i świadczeń. Na przykład w wierszu 2 zasiłki stałe ogółem w kolumnie 1, 415 wymienimy rodzinę tylko raz, bez względu na liczbę otrzymanych decyzji i zasiłków. Oznacza to, że w przypadku rodziny 3-osobowej, w której jedna osoba otrzymała decyzją zasiłek stały za miesiące marzec — grudzień okresu sprawozdawczego, wiersz 2 wypełniamy w następujący sposób:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "kolumna"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wiersz 2 1 Ma l wyliczona kwota 3 łączna* świadczeń w okresie sprawozdawczym"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "* Kwota łączna świadczeń jest iloczynem liczby Świadczeń przyznanych w danym okresie sprawozdawczym i kwoty świadczenia wymienionego w decyzji. Tak więc kwota łączna Świadczeń w danym okresie sprawozdawczym wymieniona w sprawozdaniu jest wielkością „teoretyczną”, tzn. nie uwzględnia sytuacji, gdy dane Świadczenia z różnych przyczyn nie są wypłacone w danym okresie sprawozdawczym."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Przy zachowaniu tej zasady wypełniamy pozostałe działy Sprawozdania."
     },
     {
      "type": "note",
-     "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 16 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Za świadczenie należy przyjąć w przypadku: — zasiłku stałego — 1 zasiłek — zasiłku celowego na pokrycie wydatków — 1 decyzję przyznajaca daną pomoc związanych z klęską żywiołową lub ekologiczną — specjalistycznej usługi opiekuńczej dla — 1 godzinę usługi osoby z zaburzeniami psychicznymi"
+     "type": "text",
+     "text": "Za świadczenie należy przyjąć w przypadku: — zasiłku stałego — 1 zasiłek — zasiłku celowego na pokrycie wydatków — związanych z klęską żywiołową lub ekologiczną — specjalistycznej usługi opiekuńczej dla — osoby z zaburzeniami psychicznymi"
     },
     {
-     "type": "ocr",
-     "text": "Dział 2B"
+     "type": "text",
+     "text": "1 decyzję przyznajaca daną pomoc"
     },
     {
-     "type": "ocr",
-     "text": "UDZIELONE ŚWIADCZENIA - ZADANIA WŁASNE GMIN"
+     "type": "text",
+     "text": "1 godzinę usługi"
     },
     {
-     "type": "ocr",
-     "text": "Za świadczenie należy przyjąć w przypadku: — zasiłku okresowego — 1 zasiłek — schronienia — |] nocleg lub I zasiłek na 1 nocleg — posiłku — 1 posiłek lub 1 zasiłek na 1 posiłek Przez posiłek rozumiemy | danie gorące. W wierszu 10 wyszczególniamy wszystkie rodziny otrzymujące tę formę pomocy na podstawie art. 17 ust. 1 pkt 3 ipkt 14 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. Nr 64, poz. 593, z późn. zm.). Uw aga — za osobę (osoby), której decyzją przyznano świadczenie, w przypadku posiłków w szkole, należy przyjąć dziecko (lub dzieci), które korzystało z tego świadczenia, a nie matkę lub inną osobę, na którą została wystawiona decyzja. — ubrania — 1 decyzję przyznajaca to świadczenie — usługi opiekuńczej — 1 godzinę usługi — usługi opiekuńczej specjalistycznej — 1 godzinę usługi — zasiłku celowego na pokrycie wydatków na — 1 zasiłek świadczenia zdrowotne osobom niemajacym dochodu i możliwości uzyskania Świadczeń na podst. przepisów o powszechnym ubezpieczeniu w NFZ — zasiłków celowych na pokrycie wydatków — 1 zasiłek powstałych w wyniku zdarzenia losowego — zasiłku celowego w formie biletu kredytowanego — 1 bilet — pogrzebu — liczbę osób zmarłych"
+     "type": "text",
+     "text": "Dział 2B UDZIELONE ŚWIADCZENIA - ZADANIA WŁASNE GMIN"
     },
     {
-     "type": "ocr",
-     "text": "— pomocy na ekonomiczne usamodzielnienie — 1 zasiłek, 1 pożyczka, 1 decyzja przyznająca pomoc w naturze"
+     "type": "text",
+     "text": "Za świadczenie należy przyjąć w przypadku: — zasiłku okresowego — schronienia — posiłku"
+    },
+    {
+     "type": "text",
+     "text": "— ubrania — usługi opiekuńczej — usługi opiekuńczej specjalistycznej"
+    },
+    {
+     "type": "text",
+     "text": "— 1 zasiłek — |] nocleg lub I zasiłek na 1 nocleg — 1 posiłek lub 1 zasiłek na 1 posiłek Przez posiłek rozumiemy | danie gorące. W wierszu 10 wyszczególniamy wszystkie rodziny otrzymujące tę formę pomocy na podstawie art. 17 ust. 1 pkt 3 ipkt 14 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. Nr 64, poz. 593, z późn. zm.). Uw aga — za osobę (osoby), której decyzją przyznano świadczenie, w przypadku posiłków w szkole, należy przyjąć dziecko (lub dzieci), które korzystało z tego świadczenia, a nie matkę lub inną osobę, na którą została wystawiona decyzja. — 1 decyzję przyznajaca to świadczenie — 1 godzinę usługi — 1 godzinę usługi — zasiłku celowego na pokrycie wydatków na — 1 zasiłek świadczenia zdrowotne osobom niemającym dochodu i możliwości uzyskania Świadczeń na podst. przepisów o powszechnym ubezpieczeniu w NFZ — zasiłków celowych na pokrycie wydatków powstałych w wyniku zdarzenia losowego"
+    },
+    {
+     "type": "text",
+     "text": "— 1 zasiłek"
+    },
+    {
+     "type": "text",
+     "text": "— zasiłku celowego w formie biletu kredytowanego — 1 bilet — pogrzebu — pomocy na ekonomiczne usamodzielnienie"
+    },
+    {
+     "type": "text",
+     "text": "— liczbę osób zmarłych — 1 zasiłek, 1 pożyczka, 1 decyzja przyznająca pomoc w naturze"
     },
     {
      "type": "note",
-     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Dział 3 RZECZYWISTA LICZBA OSÓB I RODZIN OBJĘTYCH POMOCĄ SPOŁECZNĄ"
+     "type": "heading",
+     "label": "Dział 3",
+     "text": "RZECZYWISTA LICZBA OSÓB I RODZIN OBJĘTYCH POMOCĄ SPOŁECZNĄ"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Dział 3. „Rzeczywista liczba osób i rodzin objętych pomocą społeczną\" wypełniamy przy zachowaniu zasady, iż dana rodzina korzystająca ze świadczeń przyznanych w ramach zadań zleconych, a także zadań własnych wystąpi tylko raz w wierszu 2 (otrzymała świadczenia przyznane w ramach zadań zleconych), tylko raz w wierszu 3 (otrzymała świadczenia przyznane w ramach zadań własnych), a także tylko raz w wierszu 1 (otrzymała pomoc niezależnie od źródła finansowania - zadania zlecone - własne)."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Przykład I"
     },
     {
-     "type": "ocr",
-     "text": "Rodzina 5-osobowa — mieszkająca w mieście (mąż, żona i troje dzieci), w której osoby otrzymały: mąż — zasiłek okresowy w styczniu, lutym i następnie w kwietniu i maju, żona — zasiłek stały w okresie czerwiec—grudzien."
+     "type": "text",
+     "text": "Rodzina 5-osobowa — mieszkająca w mieście (mąż, żona i troje dzieci), w której osoby otrzymały: mąż — zasiłek okresowy w styczniu, lutym i następnie w kwietniu i maju, żona — zasiłek stały w okresie czerwiec—grudzień."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wiersze 1—5 należy wypełnić w następujący sposób:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "kolumna"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wiersz | mąż — korzystają z pomocy bez względu na źródło| 2 1 - żona finansowania (zlecone — własne) Wiersz 2 żona — zasiłek stały 1 1 - Wiersz 3 mąż — zasiłek okresowy 1 1 - Wiersz 4 - - - - Wiersz 5 - - - -"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Przykład 2"
     },
     {
-     "type": "ocr",
-     "text": "Rodzina 6-osobowa —mieszkająca na wsi: mąż, żona, 2 dzieci, teść, teściowa - otrzymująca: mąż — zasiłek okresowy przez 5 miesięcy zona — zasitek staty w okresie pazdziernik—grudzien pierwsze dziecko (chłopiec) — posiłek w okresie styczeń—czerwiec drugie dziecko (dziewczynka) — ubranie w miesiącu sierpniu teściowa — zasiłek celowy na pokrycie wydatków na świadczenia zdrowotne oraz bilety kredytowane w maju i czerwcu teść — specjalistyczne usługi opiekuńcze w okresie marzec—grudzien"
+     "type": "text",
+     "text": "Rodzina 6-osobowa —mieszkająca na wsi: mąż, żona, 2 dzieci, teść, teściowa - otrzymująca: mąż — zasiłek okresowy przez 5 miesięcy zona — zasiłek staty w okresie październik—grudzień pierwsze dziecko (chłopiec) — posiłek w okresie styczeń—czerwiec drugie dziecko (dziewczynka) — ubranie w miesiącu sierpniu teściowa — zasiłek celowy na pokrycie wydatków na świadczenia zdrowotne oraz bilety kredytowane w maju i czerwcu teść — specjalistyczne usługi opiekuńcze w okresie marzec—grudzień"
     },
     {
      "type": "note",
-     "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 18 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Sposób wypełniania tabeli: kolumna"
+     "type": "text",
+     "text": "Sposób wypełniania tabeli:"
     },
     {
-     "type": "ocr",
-     "text": "Wiersz 2 żona — zasiłek stały 1 1 1 Wiersz 3 pierwsze dziecko — posiłek 5 1 1 6 drugie dziecko — ubranie teściowa — zasiłek celowy na pokrycie wydatków na świadczenia zdrowotne oraz bilet kredytowany — zasiłek okresowy mąż — specjalistyczne usługi opiekuńcze teść"
+     "type": "text",
+     "text": "Wiersz 2 żona — zasiłek stały Wiersz 3 pierwsze dziecko — posiłek drugie dziecko — ubranie kolumna"
     },
     {
-     "type": "ocr",
-     "text": "Wiersz 1 mąż — zasiłek okresowy 6 1 1 6 żona — zasiłek stały teść — specjalistyczne usługi opiekuńcze teściowa — zasiłek celowy na pokrycie wydatków na świadczenia zdrowotne oraz bilet kredytowany — posiłek pierwsze dziecko — ubranie drugie dziecko"
+     "type": "text",
+     "text": "1 1 1"
     },
     {
-     "type": "ocr",
-     "text": "Wiersz 4 - - - - -"
+     "type": "text",
+     "text": "5 1 1 6"
     },
     {
-     "type": "ocr",
-     "text": "Wiersz 5 - - - - -"
+     "type": "text",
+     "text": "teściowa — zasiłek celowy na pokrycie wydatków na świadczenia zdrowotne oraz bilet kredytowany — zasiłek okresowy mąż — specjalistyczne usługi opiekuńcze teść"
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "Wiersz 1 mąż — zasiłek okresowy żona — zasiłek stały"
+    },
+    {
+     "type": "text",
+     "text": "6 1 1 6"
+    },
+    {
+     "type": "text",
+     "text": "teść — specjalistyczne usługi opiekuńcze teściowa — zasiłek celowy na pokrycie wydatków na świadczenia zdrowotne oraz bilet kredytowany — posiłek pierwsze dziecko — ubranie drugie dziecko"
+    },
+    {
+     "type": "text",
+     "text": "Wiersz 4 -"
+    },
+    {
+     "type": "text",
+     "text": "Wiersz 5 -"
+    },
+    {
+     "type": "text",
+     "text": "- - - -"
+    },
+    {
+     "type": "text",
+     "text": "- - - -"
+    },
+    {
+     "type": "text",
      "text": "W przypadku pomocy w formie kolonii, obiadów w szkole, ubrania, schronienia, za osobę otrzymującą decyzją świadczenie należy uznać dziecko, ewentualnie dzieci korzystające z tego świadczenia."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Podany powyżej sposób wypełniania tabeli pozwoli na wykazanie faktycznej liczby osób, którym decyzją przyznano świadczenie (a także liczby rodzin oraz liczby osób w tych rodzinach) w ramach zadań zleconych - wiersz 2, własnych - wiersz 3 oraz korzystających z pomocy bez względu na sposób finansowania (zlecone, własne) - wiersz 1. Pozwoli to uniknąć w danym wierszu 1, 2, 3 zawyżenia liczby rodzin i osób korzystających z danego rodzaju pomocy."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wiersz 1 nie będzie więc sumą wiersza 2, wiersza 3 i wiersza 4."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Zarówno w wierszu 1,2 jak i 3 nie podajemy osób, którym pomoc została udzielona wyłącznie w formie pracy socjalnej. Osoby, rodziny, liczbę osób w tych rodzinach otrzymujące tę formę pomocy wykazujemy wyłącznie w wierszu 5."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Oznacza to, iż osoba (rodzina), która otrzymała pomoc w formie: zasiłku stałego, zasiłku okresowego, biletu kredytowanego, zasiłku celowego oraz której udzielono pomoc w formie pracy socjalnej, zostanie wykazana raz w wierszu | (korzysta z pomocy społecznej), raz w wierszu 2 (zasiłek stały), raz w wierszu 3 (zasiłek okresowy, celowy, bilet kredytowany) oraz raz w wierszu 4 (otrzymała pomoc w formie pracy socjalnej)."
     },
     {
-     "type": "ocr",
-     "text": "Dział 3 „RZECZYWISTA LICZBA OSÓB I RODZIN OBJĘTYCH POMOCĄ SPOŁECZNĄ” obejmuje łącznie osoby lub rodziny objęte pomocą społeczną wyszczególnioną w działach 2 A,2B,2C—l, 2C2,2C-3."
+     "type": "heading",
+     "label": "Dział 3",
+     "text": "„RZECZYWISTA LICZBA OSÓB I RODZIN OBJĘTYCH POMOCĄ SPOŁECZNĄ” obejmuje łącznie osoby lub rodziny objęte pomocą społeczną wyszczególnioną w działach 2 A,2B,2C—l, 2C2,2C-3."
     },
     {
-     "type": "ocr",
-     "text": "Dział 4"
-    },
-    {
-     "type": "ocr",
+     "type": "heading",
+     "label": "Dział 4",
      "text": "POWODY PRZYZNANIA POMOCY"
     },
     {
-     "type": "ocr",
-     "text": "Charakteryzując rodzinę z punktu widzenia powodu przyznania pomocy, należy podać wszystkie przyczyny trudnej sytuacji życiowej wymienione w art. 7 ustawy z dnia 12 marca 2004 r. opomocy społecznej (Dz. U. Nr 64, poz. 593, z późn. zm.). Oznacza to, iż w jednej rodzinie może wystąpić kilka przyczyn przyznania pomocy, np. bezrobocie, alkoholizm, a więc dana rodzina winna być wykazana w kilku odpowiednich wierszach."
+     "type": "text",
+     "text": "Charakteryzując rodzinę z punktu widzenia powodu przyznania pomocy, należy podać wszystkie przyczyny trudnej sytuacji życiowej wymienione w art. 7 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. Nr 64, poz. 593, z późn. zm.). Oznacza to, iż w jednej rodzinie może wystąpić kilka przyczyn przyznania pomocy, np. bezrobocie, alkoholizm, a więc dana rodzina wierszach."
+    },
+    {
+     "type": "text",
+     "text": "winna być wykazana w kilku odpowiednich"
     },
     {
      "type": "note",
-     "text": "[Strona 19 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 19 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Przykład:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Rodzina otrzymuje pomoc z powodu trudnej sytuacji życiowej spowodowanej np. bezrobociem i alkoholizmem, Rodzinę tę należy wykazać raz w wierszu 6 (bezrobocie) oraz raz w wierszu 13 (alkoholizm)."
     },
     {
-     "type": "ocr",
-     "text": "Za rodziny wielodzietne należy uznać rodziny posiadające 4 i więcej dzieci. Za osobę lub rodzinę, której powodem przyznania pomocy było „UBÓSTWO” — wiersz 1, należy uznać osobę lub rodzinę, w której dochód na osobę był RÓWNY LUB NIŻSZY od kwot wymienionych w art. 8 ustawy o pomocy społecznej."
+     "type": "text",
+     "text": "Za rodziny wielodzietne należy uznać rodziny posiadające 4 i więcej dzieci."
     },
     {
-     "type": "ocr",
-     "text": "Dział 5"
+     "type": "text",
+     "text": "Za osobę lub rodzinę, której powodem przyznania pomocy było „UBÓSTWO” — wiersz 1, należy uznać osobę lub rodzinę, w której dochód na osobę był RÓWNY LUB NIŻSZY od kwot wymienionych w art. 8 ustawy o pomocy społecznej."
     },
     {
-     "type": "ocr",
+     "type": "heading",
+     "label": "Dział 5",
      "text": "TYPY RODZIN OBJĘTYCH POMOCĄ SPOŁECZNĄ Dział 5. „Typy rodzin objętych pomocą społeczną\" - należy wypełniać wyłącznie w okresach rocznych, tj. za I-XII."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Przy wypełnianiu tego formularza należy uwzględniać ogólną zasadę, że rodzina objęta pomocą występuje tylko raz w wierszu I niezależnie od rodzaju, formy, liczby oraz źródła finansowania udzielonej pomocy. Natomiast w zależności od jej typu i składu (liczba osób, liczba dzieci) może wystąpić również w wierszach 8, 16121."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Przykład:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Rodzina 5-osobowa (mąż, żona, troje dzieci), w której przeważającym źródłem utrzymania jest emerytura lub renta. Rodzinę tę należy wykazać w wierszach: 1 oraz 6 8 oraz 11 21 oraz 25."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Rodzina ta nie zostanie natomiast wykazana w wierszach 16—20, gdyż nie jest rodziną niepełną."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Liczba rodzin wykazana w wierszu 1 w kolumnie 1 i liczba osób w tych rodzinach /wiersz 1 kolumna 3/ winna być sumą wiersza | /kolumna 2/ oraz wiersza 5 /kolumna 2/ z Działu 3. Podobnie liczba rodzin na wsi wykazana w wierszu 1 kolumna 2 winna być sumą wiersza 1 /kolumna 3/ i wiersza 5 /kolumna 3/ z Działu 3. Za rodzinę niepełną należy uznać rodzinę, w skład której wchodzi jedno z rodziców (matka lub ojciec) z dzieckiem (z dziećmi)."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Za rodzinę emerytów i rencistów należy uznać rodzinę, w której wyłącznym lub głównym (przeważającym) źródłem utrzymania jest emerytura lub renta."
     },
     {
-     "type": "ocr",
-     "text": "Dział 5. „TYPY RODZIN OBJĘTYCH POMOCĄ SPOŁECZNĄ” obejmuje łącznie osoby lub rodziny objęte pomocą społeczną wymienione w działach 2A, 2B, 2C-1,2C-2,:2C-3."
+     "type": "heading",
+     "label": "Dział 5",
+     "text": "„TYPY RODZIN OBJĘTYCH POMOCĄ SPOŁECZNĄ” obejmuje łącznie osoby lub rodziny objęte pomocą społeczną wymienione w działach 2A, 2B, 2C-1,2C-2,:2C-3."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Liczba rodzin ogółem wykazana w Dziale 5, w wierszu I powinna stanowić sumę liczby rodzin ogółem w Dziale 3, w wierszu 1 oraz liczby rodzin ogółem w Dziale 3, w wierszu 5. Analogicznie liczba rodzin na wsi / liczba osób w rodzinach wykazana w Dziale 5, w wierszu 1 powinny stanowić sumę odpowiednio liczby rodzin na wsi /liczby osób w rodzinach w Dziale 3, w wierszu 1 oraz liczby rodzin na wsi / liczby osób w rodzinach w Dziale 3, w wierszu 5."
     },
     {
@@ -1359,182 +1475,297 @@
     },
     {
      "type": "note",
-     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 25 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "OBJAŚNIENIA DO FORMULARZA OŚ - 2b"
     },
     {
-     "type": "ocr",
-     "text": "Dział 1 - CZĘŚĆ KONTROLNA"
+     "type": "heading",
+     "label": "Dział 1",
+     "text": "- CZĘŚĆ KONTROLNA"
     },
     {
-     "type": "ocr",
-     "text": "1. - Liczba kontroli (rubryki 01—07)"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "- Liczba kontroli (rubryki 01—07)",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. Podział na kontrole: planowe i pozaplanowe (rubryki 03— 04). Przyjąć według definicji zawartej w „Instrukcji przeprowadzania kontroli oraz podejmowania działań pokontrolnych przez służby Inspekcji Ochrony Środowiska — 2005 r.”. 1.2. Kontrole ogółem (rubryka 01)—stanowi sumę rubryk 03 — 04. 1.3. Liczba kontroli, na podstawie których stwierdzono naruszenia wymagań ochrony środowiska (rubryka 01a). 1.4. Liczba kontroli interwencyjnych (rubryka 05) — przyjąć zgodnie z ww. „Instrukcją przeprowadzania kontroli...”. 1.5. Liczba kontroli o charakterze instruktażowym (rubryka 06) — kontrole, podczas których inspektorzy omawiają obowiązki wynikające z przepisów z zakresu ochrony środowiska przyjąć zgodnie z ww.,Instrukcją przeprowadzania kontroli... . 1.6. Liczba kontroli w zakresie nadzoru rynku (rubryka 07) — podać łączną liczbę kontroli przeprowadzonych w ramach prowadzonych kontroli nadzoru rynku zgodnie z ustawą z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.)."
+      },
+      {
+       "type": "text",
+       "text": "Uwaga: Za kontrolę należy uznać wyłącznie postępowanie zakończone protokołem kontroli. Protokoły pobierania próbek, prowadzenia pomiarów, oględzin, przesłuchań świadków itp. nie stanowią podstawy do zaliczenia danego postępowania do kontroli, są jedynie elementem postępowania kontrolnego i załącznikiem do protokołu kontroli."
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "1.1. Podział na kontrole: planowe i pozaplanowe (rubryki 03— 04). Przyjąć według definicji zawartej w „Instrukcji przeprowadzania kontroli oraz podejmowania działań pokontrolnych przez służby Inspekcji Ochrony Środowiska — 2005 r.”. 1.2. Kontrole ogółem (rubryka 01)—stanowi sumę rubryk 03 — 04. 1.3. Liczba kontroli, na podstawie których stwierdzono naruszenia wymagań ochrony środowiska (rubryka 01a). 1.4. Liczba kontroli interwencyjnych (rubryka 05) — przyjąć zgodnie z ww. „Instrukcją przeprowadzania kontroli...”. 1.5. Liczba kontroli o charakterze instruktażowym (rubryka 06) — kontrole, podczas których inspektorzy omawiają obowiązki wynikające z przepisów z zakresu ochrony środowiska przyjąć zgodnie z ww.,Instrukcją przeprowadzania kontroli... . 1.6. Liczba kontroli w zakresie nadzoru rynku (rubryka 07) — podać łączną liczbę kontroli przeprowadzonych w ramach prowadzonych kontroli nadzoru rynku zgodnie z ustawą z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.)."
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Liczba podmiotów korzystających ze środowiska (rubryki 08, 09). 2.1. W ewidencji wojewódzkiego inspektoratu ochrony środowiska (rubryka 08). Podmioty, w których wojewódzki inspektor ochrony Środowiska przeprowadził kontrolę. 2.2. Podmioty skontrolowane w okresie sprawozdawczym (rubryka 09). Liczba podmiotów, w stosunku do których zakończono postępowanie kontrolne i podpisano protokół do ostatniego dnia okresu sprawozdawczego, tj. odpowiednio do dnia 30 czerwca i 31 grudnia.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Uwaga: Za kontrolę należy uznać wyłącznie postępowanie zakończone protokołem kontroli. Protokoły pobierania próbek, prowadzenia pomiarów, oględzin, przesłuchań świadków itp. nie stanowią podstawy do zaliczenia danego postępowania do kontroli, są jedynie elementem postępowania kontrolnego i załącznikiem do protokołu kontroli."
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "- Liczba zarządzeń pokontrolnych (rubryka 10). Jako zarządzenie pokontrolne należy traktować całościowy (składający się z różnej ilości punktów) dokument kierowany do kierownika skontrolowanej jednostki w ramach postępowania pokontrolnego, zgodnie z ww. „Instrukcją przeprowadzania kontroli... ”.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2. Liczba podmiotów korzystających ze środowiska (rubryki 08, 09). 2.1. W ewidencji wojewódzkiego inspektoratu ochrony środowiska (rubryka 08). Podmioty, w których wojewódzki inspektor ochrony Środowiska przeprowadził kontrolę. 2.2. Podmioty skontrolowane w okresie sprawozdawczym (rubryka 09). Liczba podmiotów, w stosunku do których zakończono postępowanie kontrolne i podpisano protokół do ostatniego dnia okresu sprawozdawczego, tj. odpowiednio do dnia 30 czerwca i 31 grudnia."
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Liczba decyzji o wstrzymaniu użytkowania instalacji i wstrzymujących działalność (rubryka 11) wydanych zgodnie z art. 365 ust. 1, art. 367 ust. 1 —3 ustawy z dnia 27 kwietnia 2001 r.— Prawo ochrony środowiska (Dz. U. Nr 62, poz. 627, z późn. zm.), art. 13 ust. 6, art. 23 ust. 2, art. 33 ust. 6, art. 48 ust. 1, art. 59 ust. 3 ustawy z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. Nr 62, poz. 628, z późn. zm.) oraz art. 20g i art. 20h ustawy z dnia 26 lipca 2000 r. o nawozach i nawożeniu (Dz. U. Nr 89, poz. 991, z późn. zm.).",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "3. - Liczba zarządzeń pokontrolnych (rubryka 10). Jako zarządzenie pokontrolne należy traktować całościowy (składający się z różnej ilości punktów) dokument kierowany do kierownika skontrolowanej jednostki w ramach postępowania pokontrolnego, zgodnie z ww. „Instrukcją przeprowadzania kontroli... ”."
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Liczba decyzji wyznaczających termin usunięcia naruszeń lub zaniedbań (rubryka 14) zgodnie z art. 367 ust. 2 ustawy z dnia 27 kwietnia 2001 r.—Prawo ochrony środowiska lub",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 26 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "art. 13 ust. 8, art. 33 ust. 8, art. 48 ust. 2, art. 59 ust. 5 ustawy z dnia 27 kwietnia 2001r. o odpadach."
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "4. Liczba decyzji o wstrzymaniu użytkowania instalacji i wstrzymujących działalność (rubryka 11) wydanych zgodnie z art. 365 ust. 1, art. 367 ust. 1 —3 ustawy z dnia 27 kwietnia 2001 r.— Prawo ochrony środowiska (Dz. U. Nr 62, poz. 627, z późn. zm.), art. 13 ust. 6, art. 23 ust. 2, art. 33 ust. 6, art. 48 ust. 1, art. 59 ust. 3 ustawy z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. Nr 62, poz. 628, z późn. zm.) oraz art. 20g i art. 20h ustawy z dnia 26 lipca 2000 r. o nawozach i nawozeniu (Dz. U. Nr 89, poz. 991, z późn. zm.)."
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Liczba decyzji wyrażających zgodę na podjęcie wstrzymanej działalności (rubryka 15) zgodnie z art. 372 ustawy z dnia 27 kwietnia 2001 r.— Prawo ochrony środowiska.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "5. Liczba decyzji wyznaczających termin usunięcia naruszeń lub zaniedbań (rubryka 14) zgodnie z art. 367 ust. 2 ustawy z dnia 27 kwietnia 2001 r.—Prawo ochrony środowiska lub"
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Liczba postanowień (rubryka 17) — łączna liczba postanowień wydawanych w ramach uzgadniania pozwoleń zintegrowanych, wyznaczających termin na usunięcie niezgodności wyrobu z zasadniczymi wymaganiami lub wycofanie wyrobu z obrotu (art. 41b ust.1 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności) oraz wydawanych w ramach prowadzonych postępowań.",
+     "children": []
     },
     {
-     "type": "note",
-     "text": "[Strona 26 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Liczba wydanych opinii i zaświadczeń (rubryka 18) — obejmuje liczbę opinii i zaświadczeń wydanych na wniosek podmiotów i organów administracji publicznej.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "art. 13 ust. 8, art. 33 ust. 8, art. 48 ust. 2, art. 59 ust. 5 ustawy z dnia 27 kwietnia 2001r. o odpadach."
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Liczba decyzji w zakresie niezgodności wyrobu z zasadniczymi wymaganiami (rubryka 20) — należy w tej rubryce zsumować wszystkie decyzje wydane na podstawie ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.): — zakazujące na okres nie dłuższy niż 2 miesiące dalszego przekazywania wyrobu użytkownikowi, konsumentowi i sprzedawcy — art. 40k ust. 1, — umarzające postępowanie w sprawie wprowadzenia do obrotu wyrobu niezgodnego z zasadniczymi wymaganiami —art. 41c ust. 2, — nakazujące wycofanie wyrobu z obrotu —art. 41c ust. 3 pkt 1, — zakazujące dalszego przekazywania i sprzedawcy — art. 41c ust. 3 pkt 2, — ograniczające dalsze przekazywanie i sprzedawcy — art. 41c ust. 3 pkt 3, wyrobu użytkownikowi, konsumentowi",
+     "children": [
+      {
+       "type": "text",
+       "text": "wyrobu użytkownikowi, konsumentowi"
+      },
+      {
+       "type": "text",
+       "text": "— nakazujące stronie postępowania powiadomić konsumentów lub użytkowników wyrobu o stwierdzonych niezgodnościach z zasadniczymi wymaganiami, określając termin i sposób ich powiadomienia — art. 41c ust. 3 pkt 4."
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "6. Liczba decyzji wyrażających zgodę na podjęcie wstrzymanej działalności (rubryka 15) zgodnie z art. 372 ustawy z dnia 27 kwietnia 2001 r.— Prawo ochrony środowiska."
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Liczba wniosków do organów Ścigania (rubryki 21, 22). 10.1. Ogółem (rubryka 21). — liczba wniosków 0 wszczęcie sprawozdawczym do organów Ścigania.",
+     "children": [
+      {
+       "type": "text",
+       "text": "postępowania, kierowanych w okresie"
+      },
+      {
+       "type": "text",
+       "text": "10.2. Liczba spraw, w których orzeczono winę (rubryka 22). — liczba w okresie sprawozdawczym orzeczeń o winie w sprawach kierowanych przez wojewódzkiego inspektora ochrony Środowiska w okresie sprawozdawczym, jak też w okresach wcześniejszych."
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "7. Liczba postanowień (rubryka 17) — łączna liczba postanowień wydawanych w ramach uzgadniania pozwoleń zintegrowanych, wyznaczających termin na usunięcie niezgodności wyrobu z zasadniczymi wymaganiami lub wycofanie wyrobu z obrotu (art. 41b ust.1 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności) oraz wydawanych w ramach prowadzonych postępowań."
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Liczba wniosków do sądów grodzkich (rubryki 23, 24). — analogicznie do zasad określonych w pkt grodzkich.",
+     "children": [
+      {
+       "type": "text",
+       "text": "10 liczba wniosków kierowanych do sądów"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "8. Liczba wydanych opinii i zaświadczeń (rubryka 18) — obejmuje liczbę opinii i zaświadczeń wydanych na wniosek podmiotów i organów administracji publicznej."
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Liczba udzielonych pouczeń (rubryka 27) — wpisać liczbę wszystkich pouczeń wydanych zgodnie z „Instrukcją przeprowadzania kontroli oraz podejmowania działań pokontrolnych przez służby Inspekcji Ochrony Środowiska ”.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "9. Liczba decyzji w zakresie niezgodności wyrobu z zasadniczymi wymaganiami (rubryka 20) — należy w tej rubryce zsumować wszystkie decyzje wydane na podstawie ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.): — zakazujące na okres nie dłuższy niż 2 miesiące dalszego przekazywania wyrobu użytkownikowi, konsumentowi i sprzedawcy — art. 40k ust. 1, — umarzające postępowanie w sprawie wprowadzenia do obrotu wyrobu niezgodnego z zasadniczymi wymaganiami —art. 41c ust. 2, — nakazujące wycofanie wyrobu z obrotu —art. 41c ust. 3 pkt 1, — zakazujące dalszego przekazywania wyrobu użytkownikowi, konsumentowi i sprzedawcy — art. 41c ust. 3 pkt 2, — ograniczające dalsze przekazywanie wyrobu użytkownikowi, konsumentowi i sprzedawcy — art. 41c ust. 3 pkt 3, — nakazujące stronie postępowania powiadomić konsumentów lub użytkowników wyrobu o stwierdzonych niezgodnościach z zasadniczymi wymaganiami, określając termin i sposób ich powiadomienia — art. 41c ust. 3 pkt 4."
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "Liczba wniosków i wystąpień do organów administracji (rubryki 28, 29, 30, 31).",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 27 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— liczba wszystkich wniosków i wystąpień skierowanych przez wojewódzki inspektorat ochrony środowiska do organów administracji (zgodnie z założonym podziałem w tabeli na organy administracji rządowej — rubryki 28, 29 1 samorządowej — rubryki 30, 31)."
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "10. Liczba wniosków do organów Ścigania (rubryki 21, 22). 10.1. Ogółem (rubryka 21). — liczba wniosków 0 wszczęcie postępowania, kierowanych w okresie sprawozdawczym do organów Ścigania. 10.2. Liczba spraw, w których orzeczono winę (rubryka 22). — liczba w okresie sprawozdawczym orzeczeń o winie w sprawach kierowanych przez wojewódzkiego inspektora ochrony Środowiska w okresie sprawozdawczym, jak też w okresach wcześniejszych."
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "Liczba postępowań egzekucyjnych (rubryki 32, 33). Obejmuje liczbę wszczętych postępowań egzekucyjnych w okresie sprawozdawczym (według założonego podziału 'w tabeli) zgodnie z ustawą z. dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2002 r. Nr 110, poz. 968, z późn. zm.).",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "11. Liczba wniosków do sądów grodzkich (rubryki 23, 24). — analogicznie do zasad określonych w pkt 10 liczba wniosków kierowanych do sądów grodzkich."
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "Liczba podmiotów, które korzystają z odroczenia kar (rubryki 34, 35). Obejmuje liczbę podmiotów, które, korzystając z decyzji odraczających kary (decyzje wojewódzkiego inspektora ochrony środowiska), powinny ukończyć przedsięwzięcia w okresie sprawozdawczym (rubryka 34) i faktycznie ukończyły inwestycje w tym okresie (rubryka 35).",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "12. Liczba udzielonych pouczeń (rubryka 27) — wpisać liczbę wszystkich pouczeń wydanych zgodnie z „Instrukcją przeprowadzania kontroli oraz podejmowania działań pokontrolnych przez służby Inspekcji Ochrony Środowiska ”."
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Liczba przypadków wystąpienia poważnej awarii (rubryki 37, 38). — liczba przypadków wystąpienia poważnej awarii zgodnie z posiadanym przez wojewódzki inspektorat ochrony środowiska wykazem tego typu przypadków, które wystąpiły na terenie województwa w okresie sprawozdawczym (rubryka 37), z wyszczególnieniem przypadków, — w których trakcie wojewódzki inspektorat ochrony środowiska pobierał próbki do analizy lub też prowadził inne pomiary (rubryka 38).",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "13. Liczba wniosków i wystąpień do organów administracji (rubryki 28, 29, 30, 31)."
+     "type": "heading",
+     "label": "DZIAŁ 2",
+     "text": "— DECYZJE"
     },
     {
-     "type": "note",
-     "text": "[Strona 27 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "— liczba wszystkich wniosków i wystąpień skierowanych przez wojewódzki inspektorat ochrony środowiska do organów administracji (zgodnie z założonym podziałem w tabeli na organy administracji rządowej — rubryki 28, 29 1 samorządowej — rubryki 30, 31)."
-    },
-    {
-     "type": "ocr",
-     "text": "14. Liczba postępowań egzekucyjnych (rubryki 32, 33). Obejmuje liczbę wszczętych postępowań egzekucyjnych w okresie sprawozdawczym (według założonego podziału 'w tabeli) zgodnie z ustawą z. dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2002 r. Nr 110, poz. 968, z późn. zm.)."
-    },
-    {
-     "type": "ocr",
-     "text": "15. Liczba podmiotów, które korzystają z odroczenia kar (rubryki 34, 35). Obejmuje liczbę podmiotów, które, korzystając z decyzji odraczających kary (decyzje wojewódzkiego inspektora ochrony środowiska), powinny ukończyć przedsięwzięcia w okresie sprawozdawczym (rubryka 34) i faktycznie ukończyły inwestycje w tym okresie (rubryka 35)."
-    },
-    {
-     "type": "ocr",
-     "text": "16. Liczba przypadków wystąpienia poważnej awarii (rubryki 37, 38). — liczba przypadków wystąpienia poważnej awarii zgodnie z posiadanym przez wojewódzki inspektorat ochrony środowiska wykazem tego typu przypadków, które wystąpiły na terenie województwa w okresie sprawozdawczym (rubryka 37), z wyszczególnieniem przypadków, — w których trakcie wojewódzki inspektorat ochrony środowiska pobierał próbki do analizy lub też prowadził inne pomiary (rubryka 38)."
-    },
-    {
-     "type": "ocr",
-     "text": "DZIAŁ 2 — DECYZJE"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Uwagi ogólne:"
     },
     {
-     "type": "ocr",
-     "text": "1. Wszelkie dane dotyczące decyzji wydawanych przez wojewódzkiego inspektora ochrony środowiska należy odnieść do decyzji ostatecznych."
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wszelkie dane dotyczące decyzji wydawanych przez wojewódzkiego inspektora ochrony środowiska należy odnieść do decyzji ostatecznych.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2. Wielkość środków finansowych należy przyjąć w złotych z dwoma miejscami po przecinku."
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Wielkość środków finansowych należy przyjąć w złotych z dwoma miejscami po przecinku.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "3. Wielkość danych ogółem (wiersz 01, 02) stanowi odpowiednio sumę wierszy określających globalne wielkości dla poszczególnych komponentów środowiska, tj. Ścieki (wiersze 03, 04), woda (wiersze 07, 08), powietrze (wiersze 09,10), hałas (wiersze 11, 12), odpady (wiersze 13, 14), jak również dane związane z naliczeniem kar za produkcję, przywóz, wywóz lub wprowadzenie do obrotu substancji kontrolowanych oraz urządzeń je zawierających (wiersze 15, 16). Przy sumowaniu ogółem kosztów ponoszonych w związku z prowadzeniem kontroli w sumowaniu należy uwzględnić także koszty za badania zanieczyszczenia gleby lub ziemi (wiersze 17, 18) oraz koszty za wykonanie pomiarów wynikających z kontroli prowadzonych zgodnie z ustawą o systemie oceny zgodności (wiersze 19, 20). Należy uwzględnić także koszty kontroli za przekroczenie warunków emisji pól magnetycznych (wiersze 21, 22)."
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wielkość danych ogółem (wiersz 01, 02) stanowi odpowiednio sumę wierszy określających globalne wielkości dla poszczególnych komponentów środowiska, tj. Ścieki (wiersze 03, 04), woda (wiersze 07, 08), powietrze (wiersze 09,10), hałas (wiersze 11, 12), odpady (wiersze 13, 14), jak również dane związane z naliczeniem kar za produkcję, przywóz, wywóz lub wprowadzenie do obrotu substancji kontrolowanych oraz urządzeń je zawierających (wiersze 15, 16). Przy sumowaniu ogółem kosztów ponoszonych w związku z prowadzeniem kontroli w sumowaniu należy uwzględnić także koszty za badania zanieczyszczenia gleby lub ziemi (wiersze 17, 18) oraz koszty za wykonanie pomiarów wynikających z kontroli prowadzonych zgodnie z ustawą o systemie oceny zgodności (wiersze 19, 20). Należy uwzględnić także koszty kontroli za przekroczenie warunków emisji pól magnetycznych (wiersze 21, 22).",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4. Kary za okres trwania naruszenia (rubryki 2, 3)."
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Kary za okres trwania naruszenia (rubryki 2, 3).",
+     "children": [
+      {
+       "type": "text",
+       "text": "4.1. Kwota kar — wpływy (wiersze z indeksem ,,b”) — stanowi sumę kar, które w okresie sprawozdawczym faktycznie wpłynęły na konto wojewódzkiego inspektoratu ochrony środowiska, w tym także z tytułu konsekwencji wynikających z instytucji odraczania kar bądź rozkładania ich na raty. W kwocie „wpływy” należy ująć także odsetki za nieterminowe płacenie kar."
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "4.1. Kwota kar — wpływy (wiersze z indeksem ,,b”) — stanowi sume kar, które w okresie sprawozdawczym faktycznie wpłynęły na konto wojewódzkiego inspektoratu ochrony środowiska, w tym także z tytułu konsekwencji wynikających z instytucji odraczania kar bądź rozkładania ich na raty. W kwocie „wpływy” należy ująć także odsetki za nieterminowe płacenie kar."
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Kary odroczone (rubryki 4, 5). Liczba decyzji ostatecznych oraz na jaką kwotę zostały wydane w okresie sprawozdawczym.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 28 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "5. Kary odroczone (rubryki 4, 5). Liczba decyzji ostatecznych oraz na jaką kwotę zostały wydane w okresie sprawozdawczym."
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Kary rozliczone w związku z realizacją inwestycji (rubryki 6, 7). Liczba decyzji rozliczających inwestycje, w związku z których realizacją udzielono odroczenia terminu płatności kar (rubryka 6) oraz na jakie kwoty (rubryka 7).",
+     "children": []
     },
     {
-     "type": "note",
-     "text": "[Strona 28 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Kary wymierzone w związku z nieukończeniem przedsięwzięcia lub nieusunięciem przyczyn wymierzenia odroczonej kary (rubryki 6a, 7a). Liczba decyzji wymierzających ww. kary (rubryka 6a) oraz na jakie kwoty (rubryka 7a).",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "6. Kary rozliczone w związku z realizacją inwestycji (rubryki 6, 7). Liczba decyzji rozliczających inwestycje, w związku z których realizacją udzielono odroczenia terminu płatności kar (rubryka 6) oraz na jakie kwoty (rubryka 7)."
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Kary rozłożone na raty (rubryki 8, 9). Liczba decyzji ostatecznych oraz łączna kwota kar za okres sprawozdawczy z uwzględnieniem opłaty prolongacyjnej.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "7. Kary wymierzone w związku z nieukończeniem przedsięwzięcia lub nieusunięciem przyczyn wymierzenia odroczonej kary (rubryki 6a, 7a). Liczba decyzji wymierzających ww. kary (rubryka 6a) oraz na jakie kwoty (rubryka 7a)."
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Kary niewyegzekwowane (rubryki 10, 11, 12, 13).",
+     "children": [
+      {
+       "type": "text",
+       "text": "W rubryki 10i 11 należy wpisać liczbę decyzji oraz ich kwotę obejmującą globalną sumę kar niewyegzekwowanych na koniec okresu sprawozdawczego, w tym także decyzji z okresów (lat) wcześniejszych, spraw prowadzonych wyłącznie przez wojewódzki inspektorat ochrony Środowiska; w rubrykach 10 i 11 nie należy uwzględniać liczby decyzji oraz kwot odroczonych i rozłożonych na raty, których termin rozliczenia lub płatności nie przypada na okres sprawozdawczy. Analogicznie w rubryki 12 i 13 należy wpisać odpowiednio dane dotyczące tylko decyzji, których termin płatności przypadał na rok objęty sprawozdaniem."
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "8. Kary rozłożone na raty (rubryki 8, 9). Liczba decyzji ostatecznych oraz łączna kwota kar za okres sprawozdawczy z uwzględnieniem opłaty prolongacyjnej."
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Koszty pobierania próbek, wykonania pomiarów i analiz (rubryki 14—16).",
+     "children": [
+      {
+       "type": "text",
+       "text": "10.1. Liczba wydanych decyzji oraz wysokość ustalonych w nich kosztów w wierszu ,,a” (rubryki 141 15); dotyczy decyzji wydanych w okresie sprawozdawczym zgodnie z art. 18 ust. 2 ustawy z dnia 20 lipca 1991 r.o Inspekcji Ochrony Środowiska (Dz. U. z 2002 r. Nr 112, poz. 982, z późn. zm.)."
+      },
+      {
+       "type": "text",
+       "text": "10.2. Kwota określana w wierszu „b” (rubryka 15) obejmuje wielkość środków, jaka faktycznie wpłynęła na konto wojewódzkiego inspektoratu ochrony środowiska do końca okresu sprawozdawczego, w tym także wcześniejszych."
+      },
+      {
+       "type": "text",
+       "text": "wynikająca z decyzji wydanych w okresach"
+      },
+      {
+       "type": "text",
+       "text": "10.3. Kwota określona w rubryce 16 obejmuje globalne zadłużenie w przedmiotowym zakresie na koniec okresu sprawozdawczego, w tym także środki wynikające z decyzji wydanych w okresach wcześniejszych."
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "9. Kary niewyegzekwowane (rubryki 10, 11, 12, 13)."
+     "type": "heading",
+     "label": "DZIAŁ 3",
+     "text": "— PODZIAŁ ŚRODKÓW FINANSOWYCH"
     },
     {
-     "type": "ocr",
-     "text": "W rubryki 10i 11 należy wpisać liczbę decyzji oraz ich kwotę obejmującą globalną sumę kar niewyegzekwowanych na koniec okresu sprawozdawczego, w tym także decyzji z okresów (lat) wcześniejszych, spraw prowadzonych wyłącznie przez wojewódzki inspektorat ochrony Środowiska; w rubrykach 10 i 11 nie należy uwzględniać liczby decyzji oraz kwot odroczonych i rozłożonych na raty, których termin rozliczenia lub płatności nie przypada na okres sprawozdawczy. Analogicznie w rubryki 12 i 13 należy wpisać odpowiednio dane dotyczące tylko decyzji, których termin płatności przypadał na rok objęty sprawozdaniem."
-    },
-    {
-     "type": "ocr",
-     "text": "10. Koszty pobierania próbek, wykonania pomiarów i analiz (rubryki 14—16)."
-    },
-    {
-     "type": "ocr",
-     "text": "10.1. Liczba wydanych decyzji oraz wysokość ustalonych w nich kosztów w wierszu ,,a” (rubryki 141 15); dotyczy decyzji wydanych w okresie sprawozdawczym zgodnie z art. 18 ust. 2 ustawy z dnia 20 lipca 1991 r.o Inspekcji Ochrony Środowiska (Dz. U. z 2002 r. Nr 112, poz. 982, z późn. zm.)."
-    },
-    {
-     "type": "ocr",
-     "text": "10.2. Kwota określana w wierszu „b” (rubryka 15) obejmuje wielkość środków, jaka faktycznie wpłynęła na konto wojewódzkiego inspektoratu ochrony środowiska do końca okresu sprawozdawczego, w tym także wynikająca z decyzji wydanych w okresach wcześniejszych."
-    },
-    {
-     "type": "ocr",
-     "text": "10.3. Kwota określona w rubryce 16 obejmuje globalne zadłużenie w przedmiotowym zakresie na koniec okresu sprawozdawczego, w tym także środki wynikające z decyzji wydanych w okresach wcześniejszych."
-    },
-    {
-     "type": "ocr",
-     "text": "DZIAŁ 3 — PODZIAŁ ŚRODKÓW FINANSOWYCH"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Środki finansowe z tytułu kar przekazane na rzecz Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz wojewódzkiego, powiatowego i gminnego funduszu ochrony środowiska i gospodarki wodnej (kolumny 1-4) dotyczą wielkości środków finansowych z tytułu kar (wraz z odsetkami za zwłokę) przekazywanych w okresie sprawozdawczym do dnia 31 grudnia oraz do dnia 30 czerwca danego roku."
     },
     {

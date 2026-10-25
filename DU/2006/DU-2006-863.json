@@ -1,7 +1,7 @@
 {
  "eli": "DU/2006/863",
  "title": "Rozporządzenie Ministra Gospodarki z dnia 9 czerwca 2006 r. zmieniające rozporządzenie w sprawie bezpieczeństwa i higieny pracy, prowadzenia ruchu oraz specjalistycznego zabezpieczenia przeciwpożarowego w podziemnych zakładach górniczych",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2006/863/text.pdf",
  "body": [
   {
@@ -640,7 +640,7 @@
       },
       {
        "type": "text",
-       "text": "W = 50 + ———— 100–n W – 0,625n [%] 100 pw",
+       "text": "W = 50 + ———— 100–n Wpw – 0,625n [%] 100",
        "quoted": true
       },
       {
@@ -650,7 +650,7 @@
       },
       {
        "type": "text",
-       "text": "W — zawartość wody przemijającej, uniemożliwiająca przeniesienie wybuchu pyłu węglowego [%], n — zawartość części niepalnych stałych w pyle kopalnianym [%], W — zawartość wilgoci przemijającej pw węgla, to jest części wilgoci całkowitej zawartej w węglu, którą traci on podczas suszenia aż do osiągnięcia przybliżonej równowagi z wilgocią powietrza otaczającego (dla węgli pochodzących z różnych pokładów należy do obliczeń przyjąć najwyższą wartość W pw ) [%].”;",
+       "text": "W — zawartość wody przemijającej, uniemożliwiająca przeniesienie wybuchu pyłu węglowego [%], n — zawartość części niepalnych stałych w pyle kopalnianym [%], Wpw — zawartość wilgoci przemijającej węgla, to jest części wilgoci całkowitej zawartej w węglu, którą traci on podczas suszenia aż do osiągnięcia przybliżonej równowagi z wilgocią powietrza otaczającego (dla węgli pochodzących z różnych pokładów należy do obliczeń przyjąć najwyższą wartość Wpw) [%].”;",
        "quoted": true
       }
      ]
@@ -1664,7 +1664,7 @@
        "children": [
         {
          "type": "text",
-         "text": "„5.13.6.7. Prowadniki szybowe, po uwzględnieniu zużycia przez starcie lub korozję, powinny wykazywać w przekrojach najbardziej obciążonych współczynniki bezpieczeństwa w stosunku do wytrzymałości na rozciąganie (R ) nie mniejsze niż: m",
+         "text": "„5.13.6.7. Prowadniki szybowe, po uwzględnieniu zużycia przez starcie lub korozję, powinny wykazywać w przekrojach najbardziej obciążonych współczynniki bezpieczeństwa w stosunku do wytrzymałości na rozciąganie (Rm) nie mniejsze niż:",
          "quoted": true
         },
         {
@@ -1679,7 +1679,12 @@
         },
         {
          "type": "text",
-         "text": "5.13.6.8. Dźwigary szybowe, po uwzględnieniu ubytku korozyjnego, powinny wykazywać w przekrojach najbardziej obciążonych współczynniki bezpieczeństwa w stosunku do wytrzymałości na rozciąganie (R ) nie mniejsze niż: 1) 2,5 od działania m sił poziomych i pionowych przy jeździe ludzi,",
+         "text": "5.13.6.8. Dźwigary szybowe, po uwzględnieniu ubytku korozyjnego, powinny wykazywać w przekrojach najbardziej obciążonych współczynniki bezpieczeństwa w stosunku do wytrzymałości na rozciąganie (Rm) nie mniejsze niż:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) 2,5 od działania sił poziomych i pionowych przy jeździe ludzi,",
          "quoted": true
         },
         {
@@ -2769,7 +2774,7 @@
    "body": [
     {
      "type": "text",
-     "text": "Wzór nr 6 Dziennik Ustaw Nr 124 — 6492 — Poz. 863"
+     "text": "Wzór nr 6"
     },
     {
      "type": "note",
@@ -2850,26 +2855,26 @@
     },
     {
      "type": "note",
-     "text": "[Strona 20 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 20 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Strona 2"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Data badania"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wynik badania"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Data następnego badania"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Data wystawienia pierwszego paszportu: .........eeesa aaa aaa aaa aaa aaa ana a zana ana zaanaawawanaca Pieczęć i podpis osoby uprawnionej do badań"
     }
    ]
@@ -2887,35 +2892,39 @@
     },
     {
      "type": "note",
-     "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 22 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "strona 2"
     },
     {
-     "type": "ocr",
-     "text": "6.1. Wózek nieobciążony — całkowita droga biegu wózka Baopuszezalna 77777 m — droga hamowania Hdopuszevalna 0000007\" m Próba l: | Lp Sven m LĄ sssteteteseeeeeeeeees m Próba II: Lp =..................... m | m (po odwróceniu wózka) 6.2. Wózek obciążony zestawem O MASI ow... eeseeseeetseeteereeeeee kg — droga hamowania (Ślad) Hegopuszczalna 77\" m — uzyskana droga hamowania Le aa m"
-    },
-    {
-     "type": "ocr",
-     "text": "Numer protokołu z odbioru stanowiska prób wózków hamulcowych przez rzeczoznawcę:"
-    },
-    {
-     "type": "ocr",
-     "text": "Numer protokołu z ostatniej rocznej kontroli stanowiska prób wózków hamulcowych przez rzeczoznawcę:"
-    },
-    {
-     "type": "ocr",
-     "text": "(miejscowość)"
-    },
-    {
-     "type": "ocr",
-     "text": "(pieczęć i podpis badającego)"
-    },
-    {
-     "type": "ocr",
-     "text": "6. Próby ruchowe"
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Próby ruchowe 6.1. Wózek nieobciążony — całkowita droga biegu wózka — droga hamowania Próba l: | Lp Sven m Próba II: Lp =..................... m 6.2. Wózek obciążony zestawem O MASI — droga hamowania (Ślad) — uzyskana droga hamowania",
+     "children": [
+      {
+       "type": "text",
+       "text": "Baopuszezalna 77777 m Hdopuszevalna 0000007\" m LĄ sssteteteseeeeeeeeees m | m (po odwróceniu wózka) ow... eeseeseeetseeteereeeeee kg Hegopuszczalna 77\" m Le aa m"
+      },
+      {
+       "type": "text",
+       "text": "Numer protokołu z odbioru stanowiska prób wózków hamulcowych przez rzeczoznawcę:"
+      },
+      {
+       "type": "text",
+       "text": "Numer protokołu z ostatniej rocznej kontroli stanowiska prób wózków hamulcowych przez rzeczoznawcę:"
+      },
+      {
+       "type": "text",
+       "text": "(miejscowość)"
+      },
+      {
+       "type": "text",
+       "text": "(pieczęć i podpis badającego)"
+      }
+     ]
     },
     {
      "type": "ust",
@@ -3193,7 +3202,7 @@
       },
       {
        "type": "text",
-       "text": "4.3.4.1. W metodzie obliczeniowej oceny stopnia zużycia sekcji obudowy zmechanizowanej oblicza się wskaźnik A , biorąc pod uwagę następujące uwarunkowania: w"
+       "text": "4.3.4.1. W metodzie obliczeniowej oceny stopnia zużycia sekcji obudowy zmechanizowanej oblicza się wskaźnik Aw , biorąc pod uwagę następujące uwarunkowania:"
       }
      ]
     },
@@ -3201,46 +3210,60 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "rodzaj obudowy zmechanizowanej, określony współczynnikiem A ,",
+     "text": "rodzaj obudowy zmechanizowanej, określony współczynnikiem A₁ ,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "liczbę lat od roku produkcji, remontu¹ lub modernizacji obudowy zmechanizowanej, określoną współczynnikiem A ,",
+     "text": "liczbę lat od roku produkcji, remontu lub modernizacji obudowy zmechanizowanej, określoną współczynnikiem A₂ ,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "sumaryczną wielkość wybiegu²ścian, w których zabudowana była sekcja obudowy zmechanizowanej, powiększoną o wybieg projektowanej ściany, określoną współczynnikiem A ,",
+     "text": "sumaryczną wielkość wybiegu ścian, w których zabudowana była sekcja obudowy zmechanizowanej, powiększoną o wybieg projektowanej ściany, określoną współczynnikiem A₃ ,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "warunki górniczo-geologiczne³ ściany:",
+     "text": "warunki górniczo-geologiczne ściany:",
      "children": [
       {
        "type": "lit",
        "num": "a",
        "path": "pkt_4/lit_a",
-       "text": "obciążenie, jakie sekcja obudowy zmechanizowanej przenosi w pokładach zagrożonych tąpaniami, określone współczynnikiem A , b) rodzaj stosowanego 4.1.i zabezpieczenia sekcji obudowy zmechanizowanej przed obciążeniem dynamicznym, określony współczynnikiem A , c) wykonywanie robót strzałowych 4.2.i w wyrobiskach wyposażonych w sekcje obudowy zmechanizowanej, określone współczynnikiem A 4.3.i .",
+       "text": "obciążenie, jakie sekcja obudowy zmechanizowanej przenosi w pokładach zagrożonych tąpaniami, określone współczynnikiem A4.1.i ,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_4/lit_b",
+       "text": "rodzaj stosowanego zabezpieczenia sekcji obudowy zmechanizowanej przed obciążeniem dynamicznym, określony współczynnikiem A4.2.i ,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_4/lit_c",
+       "text": "wykonywanie robót strzałowych w wyrobiskach wyposażonych w sekcje obudowy zmechanizowanej, określone współczynnikiem A4.3.i .",
        "children": [
         {
          "type": "text",
-         "text": "4.3.4.2. Wskaźnik A w oblicza się według wzoru:"
+         "text": "4.3.4.2. Wskaźnik Aw oblicza się według wzoru:"
         },
         {
          "type": "text",
-         "text": "A A = A +A (—–² +1)Σ(A n · A · A · A ) w 0 1 1 3.i 4.1.i 4.2.i 4.3.i A₃"
+         "text": "A₂ Aw = A₀+A₁ (—– +1)Σ(A n3.i · A4.1.i · A4.2.i · A4.3.i) A₃₁"
         },
         {
          "type": "text",
-         "text": "4.3.4.3. Współczynnik A wynosi:"
+         "text": "4.3.4.3. Współczynnik A₀ wynosi:"
         }
        ]
       }
@@ -3250,7 +3273,7 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "w przypadku⁰obudowy zmechanizowanej niepoddanej remontowi i modernizacji — 0,",
+     "text": "w przypadku obudowy zmechanizowanej niepoddanej remontowi i modernizacji — 0,",
      "children": []
     },
     {
@@ -3261,7 +3284,7 @@
      "children": [
       {
        "type": "text",
-       "text": "4.3.4.4. Współczynnik A wynosi:"
+       "text": "4.3.4.4. Współczynnik A₁ wynosi:"
       }
      ]
     },
@@ -3269,7 +3292,7 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "w przypadku¹obudowy osłonowej (O) i osłonowo-podporowej (OP), pracujących w ścianach z zawałem stropu:",
+     "text": "w przypadku obudowy osłonowej (O) i osłonowo-podporowej (OP), pracujących w ścianach z zawałem stropu:",
      "children": [
       {
        "type": "lit",
@@ -3374,11 +3397,11 @@
        "children": [
         {
          "type": "text",
-         "text": "4.3.4.5. Współczynnik A przyjmuje następujące wartości:²"
+         "text": "4.3.4.5. Współczynnik A₂ przyjmuje następujące wartości:"
         },
         {
          "type": "text",
-         "text": "Liczba lat od roku produkcji, A modernizacji lub remontu²"
+         "text": "Liczba lat od roku produkcji, A₂ modernizacji lub remontu"
         },
         {
          "type": "text",
@@ -3422,7 +3445,7 @@
         },
         {
          "type": "text",
-         "text": "Jeżeli w sekcji obudowy zmechanizowanej wymieniono niektóre elementy nośne, współczynnik A przyjmuje wartość jak dla liczby lat od roku² produkcji najstarszego elementu nośnego rozpatrywanej sekcji."
+         "text": "Jeżeli w sekcji obudowy zmechanizowanej wymieniono niektóre elementy nośne, współczynnik A₂ przyjmuje wartość jak dla liczby lat od roku produkcji najstarszego elementu nośnego rozpatrywanej sekcji."
         },
         {
          "type": "text",
@@ -3430,19 +3453,19 @@
         },
         {
          "type": "text",
-         "text": "A₃ = Σ A 3.i"
+         "text": "A₃ = Σ A3.i"
         },
         {
          "type": "text",
-         "text": "4.3.4.7. Współczynnik A odnosi się do wybiegu (i)-tej ściany i jest 3.i obliczany według wzoru:"
+         "text": "4.3.4.7. Współczynnik A3.i odnosi się do wybiegu (i)-tej ściany i jest obliczany według wzoru:"
         },
         {
          "type": "text",
-         "text": "wybieg (i)-tej ściany [m] A = ——————————————— 3.i 100 [m]"
+         "text": "wybieg (i)-tej ściany [m] A3.i = ——————————————— 100 [m]"
         },
         {
          "type": "text",
-         "text": "4.3.4.8. Współczynnik A wynosi:"
+         "text": "4.3.4.8. Współczynnik A4.1.i wynosi:"
         }
        ]
       }
@@ -3452,7 +3475,7 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "w przypadku 4.1.i pokładów niezagrożonych tąpaniami — 1,0,",
+     "text": "w przypadku pokładów niezagrożonych tąpaniami — 1,0,",
      "children": []
     },
     {
@@ -3483,7 +3506,7 @@
        "children": [
         {
          "type": "text",
-         "text": "4.3.4.9. Współczynnik A wynosi:"
+         "text": "4.3.4.9. Współczynnik A4.2.i wynosi:"
         }
        ]
       }
@@ -3493,7 +3516,7 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "jeżeli sekcja obudowy 4.2.i zmechanizowanej pracuje w pokładach zagrożonych tąpaniami, a stojak nie jest wyposażony w zawór upustowy lub inne zabezpieczenia — 2,5,",
+     "text": "jeżeli sekcja obudowy zmechanizowanej pracuje w pokładach zagrożonych tąpaniami, a stojak nie jest wyposażony w zawór upustowy lub inne zabezpieczenia — 2,5,",
      "children": []
     },
     {
@@ -3511,7 +3534,7 @@
      "children": [
       {
        "type": "text",
-       "text": "4.3.4.10. Współczynnik A wynosi:"
+       "text": "4.3.4.10. Współczynnik A4.3.i wynosi:"
       }
      ]
     },
@@ -3519,7 +3542,7 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "jeżeli roboty strzałowe 4.3.i są wykonywane — 1,5,",
+     "text": "jeżeli roboty strzałowe są wykonywane — 1,5,",
      "children": []
     },
     {
@@ -3530,11 +3553,11 @@
      "children": [
       {
        "type": "text",
-       "text": "4.3.4.11. Wynik oceny stopnia zużycia sekcji obudowy zmechanizowanej, otrzymany metodą obliczeniową, jest wynikiem pozytywnym, jeżeli wartość wskaźnika A w < 4000."
+       "text": "4.3.4.11. Wynik oceny stopnia zużycia sekcji obudowy zmechanizowanej, otrzymany metodą obliczeniową, jest wynikiem pozytywnym, jeżeli wartość wskaźnika Aw < 4000."
       },
       {
        "type": "text",
-       "text": "4.3.4.12. W protokole z przeprowadzonej metodą obliczeniową oceny stopnia zużycia sekcji obudowy zmechanizowanej określa się wartość wskaźnika A oraz wartości wszystkich współczynników w służących do obliczenia tego wskaźnika. Protokół, zatwierdzony przez kierownika ruchu zakładu górniczego, przechowuje się wraz z książką kontroli obudowy zmechanizowanej."
+       "text": "4.3.4.12. W protokole z przeprowadzonej metodą obliczeniową oceny stopnia zużycia sekcji obudowy zmechanizowanej określa się wartość wskaźnika Aw oraz wartości wszystkich współczynników służących do obliczenia tego wskaźnika. Protokół, zatwierdzony przez kierownika ruchu zakładu górniczego, przechowuje się wraz z książką kontroli obudowy zmechanizowanej."
       },
       {
        "type": "text",
@@ -3542,7 +3565,7 @@
       },
       {
        "type": "text",
-       "text": "4.3.5.1. Przegląd techniczny przeprowadza się po obliczeniu wskaźnika A , z wyjątkiem przypadków, o których mowa w w pkt 4.3.3 ppkt 2 i 3 oraz pkt 4.3.7.2. Zakres czynności przeglądu technicznego powinien odpowiadać zakresowi przeglądów okresowych wyszczególnionych w dokumentacji techniczno-ruchowej lub poradniku obudowy zmechanizowanej, poszerzonemu o badania nieniszczące. Zakres badań nieniszczących określa komisja, o której mowa w pkt 4.3.1 ppkt 2."
+       "text": "4.3.5.1. Przegląd techniczny przeprowadza się po obliczeniu wskaźnika Aw , z wyjątkiem przypadków, o których mowa w pkt 4.3.3 ppkt 2 i 3 oraz pkt 4.3.7.2. Zakres czynności przeglądu technicznego powinien odpowiadać zakresowi przeglądów okresowych wyszczególnionych w dokumentacji techniczno-ruchowej lub poradniku obudowy zmechanizowanej, poszerzonemu o badania nieniszczące. Zakres badań nieniszczących określa komisja, o której mowa w pkt 4.3.1 ppkt 2."
       },
       {
        "type": "text",
@@ -3787,11 +3810,15 @@
       },
       {
        "type": "text",
-       "text": "4.3.7.1. Jeżeli wskaźnik A w osiągnie wartość:"
+       "text": "4.3.7.1. Jeżeli wskaźnik Aw osiągnie wartość:"
       },
       {
        "type": "text",
-       "text": "A < 4000, a wynik przeglądu w technicznego jest pozytywny, obudowa zmechanizowana może być nadal eksploatowana."
+       "text": "Aw < 4000,"
+      },
+      {
+       "type": "text",
+       "text": "a wynik przeglądu technicznego jest pozytywny, obudowa zmechanizowana może być nadal eksploatowana."
       },
       {
        "type": "text",
@@ -3835,11 +3862,11 @@
       },
       {
        "type": "text",
-       "text": "4.3.7.2. Jeżeli wskaźnik A w osiągnie wartość:"
+       "text": "4.3.7.2. Jeżeli wskaźnik Aw osiągnie wartość:"
       },
       {
        "type": "text",
-       "text": "A w ≥ 4000,"
+       "text": "Aw ≥ 4000,"
       },
       {
        "type": "text",
@@ -4179,7 +4206,7 @@
         },
         {
          "type": "text",
-         "text": "C α ≤ 0,5 μJ/m³ raz na kwartał Krótkożyciowe produkty C α — stężenie energii potencjalnej rozpadu radonu alfa w powietrzu 0,5 μJ/m³ < C α raz na miesiąc *"
+         "text": "Cα ≤ 0,5 μJ/m³ raz na kwartał Krótkożyciowe produkty Cα — stężenie energii potencjalnej rozpadu radonu alfa w powietrzu 0,5 μJ/m³ < Cα raz na miesiąc *"
         },
         {
          "type": "text",
@@ -4187,11 +4214,11 @@
         },
         {
          "type": "text",
-         "text": "C — sumaryczne stężenie Wody kopalniane Raw — raz w roku izotopów radu Ra-226 i Ra-228"
+         "text": "CRaw — sumaryczne stężenie Wody kopalniane — raz w roku izotopów radu Ra-226 i Ra-228"
         },
         {
          "type": "text",
-         "text": "C — sumaryczna aktywność Osady kopalniane właściwa Rao izotopów radu Ra-226 — raz w roku i Ra-228"
+         "text": "CRao — sumaryczna aktywność Osady kopalniane właściwa izotopów radu Ra-226 — raz w roku i Ra-228"
         },
         {
          "type": "text",
@@ -4215,19 +4242,19 @@
         },
         {
          "type": "text",
-         "text": "E = E + E + E gdzie:"
+         "text": "E = Eα + Eγ + ERa gdzie:"
         },
         {
          "type": "text",
-         "text": "E — oznacza dawkę skuteczną wynikającą α z oddziaływania energii potencjalnej alfa w powietrzu krótkożyciowych produktów rozpadu radonu,"
+         "text": "Eα — oznacza dawkę skuteczną wynikającą z oddziaływania energii potencjalnej alfa w powietrzu krótkożyciowych produktów rozpadu radonu,"
         },
         {
          "type": "text",
-         "text": "E — oznacza dawkę skuteczną wynikającą γ z ekspozycji na zewnętrzne promieniowanie gamma,"
+         "text": "Eγ — oznacza dawkę skuteczną wynikającą z ekspozycji na zewnętrzne promieniowanie gamma,"
         },
         {
          "type": "text",
-         "text": "E — oznacza dawkę obciążającą spowo- Ra dowaną wniknięciem izotopów radu Ra-226 i Ra-228 do organizmu w rozpatrywanym czasie."
+         "text": "ERa — oznacza dawkę obciążającą spowodowaną wniknięciem izotopów radu Ra-226 i Ra-228 do organizmu w rozpatrywanym czasie."
         },
         {
          "type": "text",
@@ -4235,15 +4262,15 @@
         },
         {
          "type": "text",
-         "text": "E α = 0,0014 · (C α – 0,1) · t . E γ = 1,4 · 10 -3 · (K – 0,1) · t"
+         "text": "Eα = 0,0014 · (Cα – 0,1) · t . Eγ = 1,4 · 10 -3 · (K – 0,1) · t"
         },
         {
          "type": "text",
-         "text": "C α [μJ/m³] — stężenie energii potencjalnej alfa w powietrzu krótkożyciowych produktów rozpadu radonu . K [μGy/h] — moc kermy promieniowania gamma w powietrzu"
+         "text": "Cα [μJ/m³] — stężenie energii potencjalnej alfa w powietrzu krótkożyciowych produktów rozpadu radonu . K [μGy/h] — moc kermy promieniowania gamma w powietrzu"
         },
         {
          "type": "text",
-         "text": "t [h] — czas, dla którego obliczana jest wartość dawki . W przypadku gdy C ≤ 0,1 μJ/m , przyjmuje się E = 0, a w przypadku gdy K ≤ 0,1μGy/h, przyjmuje się E = 0."
+         "text": "t [h] — czas, dla którego obliczana jest wartość dawki . W przypadku gdy Cα ≤ 0,1 μJ/m³, przyjmuje się Eα= 0, a w przypadku gdy K ≤ 0,1μGy/h, przyjmuje się Eγ = 0."
         },
         {
          "type": "text",
@@ -4255,7 +4282,7 @@
         },
         {
          "type": "text",
-         "text": "8.13. Wymienioną w pkt 8.9 dawkę obciążającą E ocenia akredytowane laboratorium na podstawie Ra szczegółowych informacji dostarczonych przez inspektora ochrony radiologicznej, a w szczególności informacji o czasie kontaktu z wodami kopalnianymi i osadami kopalnianymi, charakterze wykonywanej pracy i zastosowanej technologii, zapyleniu i wilgotności powietrza oraz stosowanych ochronach osobistych."
+         "text": "8.13. Wymienioną w pkt 8.9 dawkę obciążającą ERa ocenia akredytowane laboratorium na podstawie szczegółowych informacji dostarczonych przez inspektora ochrony radiologicznej, a w szczególności informacji o czasie kontaktu z wodami kopalnianymi i osadami kopalnianymi, charakterze wykonywanej pracy i zastosowanej technologii, zapyleniu i wilgotności powietrza oraz stosowanych ochronach osobistych."
         },
         {
          "type": "text",
@@ -4274,6 +4301,6 @@
  ],
  "footnotes": {
   "1": "Minister Gospodarki kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 31 października 2005 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki (Dz. U. Nr 220, poz. 1888).",
-  "2": "Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 20 lipca 2005 r., pod numerem 2005/0368/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych (Dz. Urz. WE L 204 z 21.07.1998, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337). α γ Ra α³ α γ"
+  "2": "Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 20 lipca 2005 r., pod numerem 2005/0368/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych (Dz. Urz. WE L 204 z 21.07.1998, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337)."
  }
 }

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2009/291",
  "title": "Rozporządzenie Ministra Rozwoju Regionalnego z dnia 26 lutego 2009 r. zmieniające rozporządzenie w sprawie przyjęcia Uzupełnienia Sektorowego Programu Operacyjnego Wzrost konkurencyjności przedsiębiorstw, lata 2004-2006",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2009/291/text.pdf",
  "body": [
   {
@@ -117,83 +117,112 @@
         },
         {
          "type": "note",
-         "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+         "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
         },
         {
-         "type": "ocr",
-         "text": "Ostateczni Odbiorcy (beneficjenci)"
+         "type": "text",
+         "text": "Ostateczni Odbiorcy (beneficjenci)",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Instytucja Płatnicza"
+         "type": "text",
+         "text": "Instytucja Płatnicza",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "podmiotów"
+         "type": "text",
+         "text": "Rodzaj pomocy",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Podmioty zarządzające parkami przemysłowymi, naukowo-technologicznymi i inkubatorami technologicznymi, w tym przedsiębiorczości akademickiej, np.: agencje rozwoju regionalnego, fundacje, stowarzyszenia lub inne podmioty prawne z udziałem w szczególności samorządów regionalnych i lokalnych, przedsiębiorców, uczelni wyższych i innych"
+         "type": "text",
+         "text": "Maksymalna wysokość pomocy (w % kwalifikujących się wydatków)",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Minister właściwy do spraw finansów publicznych"
+         "type": "text",
+         "text": "Podmioty zarządzające parkami przemysłowymi, naukowo-technologicznymi i inkubatorami technologicznymi, w tym przedsiębiorczości akademickiej, np.: agencje rozwoju regionalnego, fundacje, stowarzyszenia lub inne podmioty prawne z udziałem w szczególności samorządów regionalnych i lokalnych, przedsiębiorców, uczelni wyższych i innych podmiotów",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Maksymalna wysokość pomocy (w % kwalifikujących się wydatków)"
+         "type": "text",
+         "text": "Minister właściwy do spraw finansów publicznych",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Rodzaj pomocy Wsparcie finansowe"
+         "type": "text",
+         "text": "Wsparcie finansowe",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Wsparcie dla parków przemysłowych i naukowo-technologicznych oraz inkubatorów technologicznych — 100%"
+         "type": "text",
+         "text": "Wsparcie dla parków przemysłowych i naukowo-technologicznych oraz inkubatorów technologicznych — 100%",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Wsparcie dla przedsiębiorców działających w parkach przemysłowych i naukowo-technologicznych oraz inkubatorach technologicznych — zasadniczo nie przewiduje się udzielania pomocy publicznej, jednak w przypadku gdyby wystąpiła w określonych projektach, będzie udzielana na zasadzie de minimis"
+         "type": "text",
+         "text": "Wsparcie dla przedsiębiorców działających w parkach przemysłowych i naukowo-technologicznych oraz inkubatorach technologicznych — zasadniczo nie przewiduje się udzielania pomocy publicznej, jednak w przypadku gdyby wystąpiła w określonych projektach, będzie udzielana na zasadzie de minimis",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Publiczne wsparcie finansowe ogółem | 197,51 mln €"
+         "type": "text",
+         "text": "Publiczne wsparcie finansowe ogółem | 197,51 mln €",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Wsparcie finansowe z EFRR 148,13 mln €"
+         "type": "text",
+         "text": "Wsparcie finansowe z EFRR",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Publiczne wsparcie finansowe krajowe | 49,38 mln € (budżet państwa, budżet j.s.t. i inne środki publiczne) Środki prywatne 0,00 min €"
+         "type": "text",
+         "text": "148,13 mln €",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Wkład publiczny w środkach ogółem | 100,00 % (w %)"
+         "type": "text",
+         "text": "Publiczne wsparcie finansowe krajowe | 49,38 mln € (budżet państwa, budżet j.s.t. i inne środki publiczne) Środki prywatne 0,00 min €",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Wkład EFRR w całości środków | 75,00% publicznych (w %)"
+         "type": "text",
+         "text": "Wkład publiczny w środkach ogółem | 100,00 % (w %)",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Wkład krajowy publiczny w całości | 25,00% środków publicznych (w %)"
+         "type": "text",
+         "text": "Wkład EFRR w całości środków | 75,00% publicznych (w %)",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Wkład EFRR w środkach ogółem 75,00% (w %) |"
+         "type": "text",
+         "text": "Wkład krajowy publiczny w całości | 25,00% środków publicznych (w %)",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "kach ogółem (w %)"
+         "type": "text",
+         "text": "Wkład EFRR w środkach ogółem",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Wkład publiczny krajowy w środkach | 25,00% ogółem (w %)"
+         "type": "text",
+         "text": "75,00% (w %) |",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Wkład środków prywatnych w środ- 0,00 %"
+         "type": "text",
+         "text": "Wkład publiczny krajowy w środkach | 25,00% ogółem (w %)",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Wkład środków prywatnych w środkach ogółem (w %)",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "0,00 %",
+         "quoted": true
         },
         {
          "type": "note",
@@ -285,31 +314,37 @@
       },
       {
        "type": "note",
-       "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
-       "type": "ocr",
-       "text": "Nazwa poddziałania"
+       "type": "text",
+       "text": "Nazwa poddziałania",
+       "quoted": true
       },
       {
-       "type": "ocr",
-       "text": "Projekty celowe obejmujące badania stosowane i prace rozwojowe, wyłącznie w zakresie badań przemysłowych i przedkonkurencyjnych prowadzonych przez przedsiębiorstwa lub grupy przedsiębiorstw samodzielnie albo we współpracy z instytucjami sfery B+R"
+       "type": "text",
+       "text": "Projekty celowe obejmujące badania stosowane i prace rozwojowe, wyłącznie w zakresie badań przemysłowych i przedkonkurencyjnych prowadzonych przez przedsiębiorstwa lub grupy przedsiębiorstw samodzielnie albo we współpracy z instytucjami sfery B+R",
+       "quoted": true
       },
       {
-       "type": "ocr",
-       "text": "Inwestycje związane z budową, modernizacją i wyposażeniem laboratoriów świadczących specjalistyczne usługi dla przedsiębiorstw, realizowane przez jednostki naukowe"
+       "type": "text",
+       "text": "Inwestycje związane z budową, modernizacją i wyposażeniem laboratoriów świadczących specjalistyczne usługi dla przedsiębiorstw, realizowane przez jednostki naukowe",
+       "quoted": true
       },
       {
-       "type": "ocr",
-       "text": "Inwestycje związane z budową, modernizacją i wyposażeniem specjalistycznych laboratoriów CZT i Centrów Doskonałości dziatających w priorytetowych dziedzinach rozwoju polskiej gospodarki"
+       "type": "text",
+       "text": "Inwestycje związane z budową, modernizacją i wyposażeniem specjalistycznych laboratoriów CZT i Centrów Doskonałości działających w priorytetowych dziedzinach rozwoju polskiej gospodarki",
+       "quoted": true
       },
       {
-       "type": "ocr",
-       "text": "Projekty celowe realizowane przez CZT"
+       "type": "text",
+       "text": "Projekty celowe realizowane przez CZT",
+       "quoted": true
       },
       {
-       "type": "ocr",
-       "text": "Kategoria interwencji 181, 182, 183"
+       "type": "text",
+       "text": "Kategoria interwencji 181, 182, 183",
+       "quoted": true
       },
       {
        "type": "note",
@@ -589,27 +624,62 @@
         },
         {
          "type": "note",
-         "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+         "text": "[Strona 23 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
         },
         {
-         "type": "ocr",
-         "text": "Instytucja Płatnicza Minister właściwy do Spraw finansów publicznych Rodzaj pomocy Bezzwrotne wsparcie finansowe"
+         "type": "text",
+         "text": "Instytucja Płatnicza",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Maksymalna wysokość pomocy Zróżnicowanie -— zgodnie z aktualną (w % kwalifikujących się wydatków) |mapą pomocy regionalnej dla Polski, lecz nie mniej niż 10 tys. PLN i nie więcej niż 1 250 tys. PLN, w ramach danego projektu Publiczne wsparcie finansowe 377,02 mln € ogółem Wsparcie finansowe z EFRR 263,91 mln € Publiczne wsparcie finansowe 113,11 mln € krajowe Środki prywatne 377,02 mln €"
+         "type": "text",
+         "text": "Rodzaj pomocy Maksymalna wysokość pomocy (w % kwalifikujących się wydatków)",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Wkład UE w całości środków 70,00% publicznych (w %) Wkład krajowy publiczny w całości 30,00 % środków publicznych (w %)"
+         "type": "text",
+         "text": "Publiczne wsparcie finansowe ogółem Wsparcie finansowe z EFRR Publiczne wsparcie finansowe krajowe Środki prywatne i 5 5 (w %) Wkład UE w całości środków publicznych (w %) Wkład krajowy publiczny w całości środków publicznych (w %)",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Wkład UE w środkach ogółem (w % 35,00 % Wkład publiczny krajowy w środkach 15,00 % ogółem (w %) Wkład środków prywatnych w środkach |50,00 % Ó %)"
+         "type": "text",
+         "text": "Wkład UE w środkach ogółem (w % Wkład publiczny krajowy w środkach ogółem (w %) Wkład środków prywatnych w środkach Ó %)",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "i 5 5 50,00 % (w %)"
+         "type": "text",
+         "text": "Minister właściwy do Spraw finansów publicznych Bezzwrotne wsparcie finansowe Zróżnicowanie -— zgodnie z aktualną |mapą pomocy regionalnej dla Polski, lecz nie mniej niż 10 tys. PLN i nie więcej niż 1 250 tys. PLN, w ramach danego projektu 377,02 mln €",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "263,91 mln € 113,11 mln €",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "377,02 mln € 50,00 %",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "70,00%",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "30,00 %",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "35,00 % 15,00 %",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "|50,00 %",
+         "quoted": true
         },
         {
          "type": "note",
@@ -930,7 +1000,7 @@
        "type": "lit",
        "num": "a",
        "path": "par_1/pkt_14/lit_a",
-       "text": "część „Tablica finansowa * dla Uzupełnienia SPO-WKP według Priorytetów idziałań (zobowiązania) — ogółem 2004—2006 (€) wcenach z2004 r.”otrzymuje brzmienie: „Tablica finansowa * dla Uzupełnienia SPO-WKP według Priorytetów idziałań (zobowiązania) — ogółem 2004—2006 (€) wcenach z2004 r. Dziennik Ustaw Nr 37 — 3654 — Poz. 291",
+       "text": "część „Tablica finansowa * dla Uzupełnienia SPO-WKP według Priorytetów idziałań (zobowiązania) — ogółem 2004—2006 (€) wcenach z2004 r.”otrzymuje brzmienie: „Tablica finansowa * dla Uzupełnienia SPO-WKP według Priorytetów idziałań (zobowiązania) — ogółem 2004—2006 (€) wcenach z2004 r.",
        "children": [
         {
          "type": "note",
@@ -938,7 +1008,7 @@
         },
         {
          "type": "text",
-         "text": "* Wplanach finansowych ujęte są tylko koszty kwalifikowalne (rozporządzenie 448/2004).” Dziennik Ustaw Nr 37 — 3655 — Poz. 291"
+         "text": "* Wplanach finansowych ujęte są tylko koszty kwalifikowalne (rozporządzenie 448/2004).”"
         },
         {
          "type": "note",
@@ -954,7 +1024,7 @@
        "children": [
         {
          "type": "text",
-         "text": "——————— Dziennik Ustaw Nr 37 — 3656 — Poz. 291"
+         "text": "———————"
         },
         {
          "type": "note",
@@ -1038,7 +1108,7 @@
         },
         {
          "type": "text",
-         "text": "* Wplanach finansowych ujęte są tylko koszty kwalifikowalne (rozporządzenie 448/2004).” Dziennik Ustaw Nr 37 — 3660 — Poz. 291"
+         "text": "* Wplanach finansowych ujęte są tylko koszty kwalifikowalne (rozporządzenie 448/2004).”"
         },
         {
          "type": "note",
@@ -2235,182 +2305,182 @@
      "children": [
       {
        "type": "note",
-       "text": "[Strona 55 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "text": "[Strona 55 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Numer działania SPO-WKP"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Nazwa programu pomocowego Numer pomocy"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Odniesienie Czas trwania"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "1.2.3"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "N/599/2005- Polska"
       },
       {
-       "type": "ocr",
-       "text": "Wspieranie tworzenia funduszy kapitatu zalazkowego (rozporządzenie Ministra Gospodarki z dnia 13 lipca 2006 r. w sprawie udzielania pomocy finansowej funduszom kapitału zalążkowego (Dz. U. Nr 141, poz. 1000, z późn. zm.))"
+       "type": "text",
+       "text": "Wspieranie tworzenia funduszy kapitału zalążkowego (rozporządzenie Ministra Gospodarki z dnia 13 lipca 2006 r. w sprawie udzielania pomocy finansowej funduszom kapitału zalążkowego (Dz. U. Nr 141, poz. 1000, z późn. zm.))"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Decyzja KE z dnia 19 czerwca 2006 r. nr K (2006)2876"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "31.12.2007"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "N/528/2005"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Pomoc istniejąca"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Wsparcie dla badań przemysłowych i przedkonkurencyjnych (rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 20 lutego 2007 r. w sprawie warunków i trybu przyznawania pomocy publicznej na badania przemysłowe i badania przedkonkurencyjne (Dz. U. Nr 36, poz. 230))"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Decyzja zatwierdzająca KE z dnia 9 czerwca 2006 r. nr K (2006)2340"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "31.12.2007"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "2.1"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "XS 3/2007"
       },
       {
-       "type": "ocr",
-       "text": "Rozporzadzenie 70/2001"
+       "type": "text",
+       "text": "Rozporządzenie 70/2001"
       },
       {
-       "type": "ocr",
-       "text": "Rozporzadzenie 1998/2006"
+       "type": "text",
+       "text": "Rozporządzenie 1998/2006"
       },
       {
-       "type": "ocr",
-       "text": "Wsparcie w zakresie doradztwa udzielane matym i srednim przedsiebiorcom posiadajacym siedzibe na terytorium Rzeczypospolitej Polskiej (rozporządzenie Ministra Gospodarki i Pracy z dnia 27 sierpnia 2004 r. w sprawie udzielania przez Polską"
+       "type": "text",
+       "text": "Wsparcie w zakresie doradztwa udzielane małym i średnim przedsiębiorcom posiadającym siedzibę na terytorium Rzeczypospolitej Polskiej (rozporządzenie Ministra Gospodarki i Pracy z dnia 27 sierpnia 2004 r. w sprawie udzielania przez Polską"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Brak"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "31.12.2008"
       },
       {
        "type": "note",
-       "text": "[Strona 56 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "text": "[Strona 56 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Numer działania SPO-WKP"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Nazwa programu pomocowego"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Numer pomocy Odniesienie Czas trwania"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Sekto-"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "rowego Programu Operacyjnego — Wzrost konkurency|- ności przedsiębiorstw (Dz. U. Nr 195, poz. 2010, z późn. zm.))"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "2.2.1"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Wsparcie dla przedsiębiorstw dokonujących nowych inwestycji (rozporządzenie Ministra Gospodarki i Pracy z dnia 27 sierpnia 2004 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Sektorowego Programu Operacyjnego — Wzrost konkurencyjności przedsiębiorstw (Dz. U. Nr 195, poz. 2010, z późn. zm.))"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "XS 4/2007 Brak Rozporządzenie 70/2001"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "31.12.2008"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "2.2.2"
       },
       {
-       "type": "ocr",
-       "text": "Wsparcie dla przedsiebiorstw uczestniczących w targach i wystawach za granicą (rozporządzenie Ministra Gospodarki z dnia 22 grudnia 2005r. w sprawie udzielania pomocy de minimis przedsiębiorcom uczestniczącym w targach lub wystawach za granicą (Dz.U. Nr 265, poz. 2217, z późn. zm.)."
+       "type": "text",
+       "text": "Wsparcie dla przedsiębiorstw uczestniczących w targach i wystawach za granicą (rozporządzenie Ministra Gospodarki z dnia 22 grudnia 2005r. w sprawie udzielania pomocy de minimis przedsiębiorcom uczestniczącym w targach lub wystawach za granicą (Dz.U. Nr 265, poz. 2217, z późn. zm.)."
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Rozporządzenie | Brak 1998/2006"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "30.06.2008"
       },
       {
        "type": "note",
-       "text": "[Strona 57 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "text": "[Strona 57 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Numer działania SPO-WKP"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "2.3"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Nazwa programu pomocowego"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Wsparcie dla przedsiębiorstw uczestniczących w wyjazdowych misjach gospodarczych związanych z udziałem w targach i wystawach za granicą (rozporządzenie Ministra Gospodarki z dnia 22 grudnia 2005 r. w sprawie udzielania pomocy de minimis przedsiębiorcom uczestniczącym w wyjazdowych misjach gospodarczych związanych z udziałem w targach lub wystawach za granicą (Dz.U. Nr 265, poz. 2218, z późn. zm.)"
       },
       {
-       "type": "ocr",
-       "text": "Wsparcie w zakresie inwestycji udzielane matym i średnim przedsiębiorcom posiadającym siedzibę na terytorium Rzeczypospolitej Polskiej (rozporządzenie Ministra Gospodarki i Pracy z dnia 27 sierpnia 2004 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Sektorowego Programu Operacyjnego — Wzrost konkurencyjności przedsiębiorstw (Dz. U. Nr 195, poz. 2010, z późn. zm.))"
+       "type": "text",
+       "text": "Wsparcie w zakresie inwestycji udzielane małym i średnim przedsiębiorcom posiadającym siedzibę na terytorium Rzeczypospolitej Polskiej (rozporządzenie Ministra Gospodarki i Pracy z dnia 27 sierpnia 2004 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Sektorowego Programu Operacyjnego — Wzrost konkurencyjności przedsiębiorstw (Dz. U. Nr 195, poz. 2010, z późn. zm.))"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Numer pomocy Odniesienie Czas trwania"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "XS 2/2007 Brak"
       },
       {
-       "type": "ocr",
-       "text": "Rozporzadzenie 70/2001"
+       "type": "text",
+       "text": "Rozporządzenie 70/2001"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "31.12.2008"
       },
       {

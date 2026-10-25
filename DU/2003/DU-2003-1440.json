@@ -1,7 +1,7 @@
 {
  "eli": "DU/2003/1440",
  "title": "Czwarty Protokół do Układu ogólnego w sprawie handlu usługami (GATS), sporządzony w Genewie dnia 15 kwietnia 1997 r.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/1440/text.pdf",
  "body": [
   {
@@ -116,7 +116,11 @@
     },
     {
      "type": "text",
-     "text": "* Radiodyfuzja jest definiowana jako nieprzerwany łańcuch transmisyjny niezbędny dla publicznej dystrybucji sygnałów programów radiowych itelewizyjnych, lecz nieobejmujący linii dystrybucyjnych pomiędzy operatorami. Dziennik Ustaw Nr 148 — 9995 — Poz. 1440 Sposoby dostarczania: 1) świadczenie transgraniczne; 2) konsumpcja za granicą; 3) obecność handlowa; 4) obecność osób fizycznych"
+     "text": "* Radiodyfuzja jest definiowana jako nieprzerwany łańcuch transmisyjny niezbędny dla publicznej dystrybucji sygnałów programów radiowych itelewizyjnych, lecz nieobejmujący linii dystrybucyjnych pomiędzy operatorami."
+    },
+    {
+     "type": "text",
+     "text": "Sposoby dostarczania: 1) świadczenie transgraniczne; 2) konsumpcja za granicą; 3) obecność handlowa; 4) obecność osób fizycznych"
     },
     {
      "type": "text",
@@ -140,7 +144,7 @@
     },
     {
      "type": "text",
-     "text": "(4) Bez zobowiązań, z wyjątkiem (4) Bez zobowiązań, z wyjątkiem środków horyzontalnych. środków horyzontalnych Dziennik Ustaw Nr 148 — 9996 — Poz. 1440 Sposoby dostarczania: 1) świadczenie transgraniczne; 2) konsumpcja za granicą; 3) obecność handlowa; 4) obecność osób fizycznych"
+     "text": "(4) Bez zobowiązań, z wyjątkiem (4) Bez zobowiązań, z wyjątkiem środków horyzontalnych. środków horyzontalnych Sposoby dostarczania: 1) świadczenie transgraniczne; 2) konsumpcja za granicą; 3) obecność handlowa; 4) obecność osób fizycznych"
     },
     {
      "type": "text",
@@ -164,7 +168,7 @@
     },
     {
      "type": "text",
-     "text": "(2) Bez ograniczeń, zwyjątkiem: — tylko przy użyciu sieci międzynarodowej TP S.A. do 31 grudnia 2002 r. izgodnie zporozumieniami międzynarodowymi Dziennik Ustaw Nr 148 — 9997 — Poz. 1440 Sposoby dostarczania: 1) świadczenie transgraniczne; 2) konsumpcja za granicą 3); obecność handlowa; 4) obecność osób fizycznych"
+     "text": "(2) Bez ograniczeń, zwyjątkiem: — tylko przy użyciu sieci międzynarodowej TP S.A. do 31 grudnia 2002 r. izgodnie zporozumieniami międzynarodowymi Sposoby dostarczania: 1) świadczenie transgraniczne; 2) konsumpcja za granicą 3); obecność handlowa; 4) obecność osób fizycznych"
     },
     {
      "type": "text",
@@ -200,7 +204,11 @@
     },
     {
      "type": "text",
-     "text": "Uwaga 2: Projekt nowej ustawy ołączności zostanie przygotowany do końca 1997 r. Dziennik Ustaw Nr 148 — 9998 — Poz. 1440 RZECZPOSPOLITA POLSKA"
+     "text": "Uwaga 2: Projekt nowej ustawy ołączności zostanie przygotowany do końca 1997 r."
+    },
+    {
+     "type": "text",
+     "text": "RZECZPOSPOLITA POLSKA"
     }
    ]
   }
@@ -413,50 +421,66 @@
       },
       {
        "type": "note",
-       "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "FOURTH PROTOCOL TO THE GENERAL AGREEMENT ON TRADE IN SERVICES"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Members of the World Trade Organization (hereinafter referred to as the \"WTO\") whose Schedules of Specific Commitments and Lists of Exemptions from Article II of the General Agreement on Trade in Services concerning basic telecommunications are annexed to this Protocol (hereinafter referred to as \" Members concerned\"),"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Having carried out negotiations under the terms of the Ministerial Decision on Negotiations on Basic Telecommunications adopted at Marrakesh on 15 April 1994,"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Having regard to the Annex on Negotiations on Basic Telecommunications, |."
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Agree as follows:"
-      },
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Upon the entry into force of this Protocol, a Schedule of Specific Commitments and a List of Exemptions from Article II concerning basic telecommunications annexed to this Protocol relating to a Member shall, in accordance with the terms specified therein, supplement or modify the Schedule — of Specific Commitments and the List of Article II Exemptions of that Member.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "This Protocol shall be open for acceptance, by signature or otherwise, by the Members concerned until 30 November 1997.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "The Protocol shall enter into force on 1 January 1998 provided it has been accepted by all Members concerned. If by 1 December 1997 the Protocol has not been accepted by all Members concerned, those Members which have accepted it by that date may decide, prior to 1 January 1998, on its entry into force.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "This Protocol shall be deposited with the Director-General of the WTO. The Director-General of the WTO shall promptly furnish to each Member of the WTO a certified copy of this Protocol and . notifications of acceptances thereof.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "This Protocol shall be registered in accordance with the provisions of Article 102 of the Charter of the United Nations.",
+     "children": [
       {
-       "type": "ocr",
-       "text": "1. Upon the entry into force of this Protocol, a Schedule of Specific Commitments and a List of Exemptions from Article II concerning basic telecommunications annexed to this Protocol relating to a Member shall, in accordance with the terms specified therein, supplement or modify the Schedule — of Specific Commitments and the List of Article II Exemptions of that Member."
-      },
-      {
-       "type": "ocr",
-       "text": "2. This Protocol shall be open for acceptance, by signature or otherwise, by the Members concerned until 30 November 1997."
-      },
-      {
-       "type": "ocr",
-       "text": "3. The Protocol shall enter into force on 1 January 1998 provided it has been accepted by all Members concerned. If by 1 December 1997 the Protocol has not been accepted by all Members concerned, those Members which have accepted it by that date may decide, prior to 1 January 1998, on its entry into force."
-      },
-      {
-       "type": "ocr",
-       "text": "4. This Protocol shall be deposited with the Director-General of the WTO. The Director-General of the WTO shall promptly furnish to each Member of the WTO a certified copy of this Protocol and . notifications of acceptances thereof."
-      },
-      {
-       "type": "ocr",
-       "text": "5. This Protocol shall be registered in accordance with the provisions of Article 102 of the Charter of the United Nations."
-      },
-      {
-       "type": "ocr",
+       "type": "text",
        "text": "Done at Geneva this fifteenth day of April one thousand nine hundred and ninety-seven, in a single copy in the English, French and Spanish languages, each text being authentic, except as otherwiseprovided for in respect of the Schedules annexed hereto."
       },
       {
@@ -813,106 +837,114 @@
       },
       {
        "type": "note",
-       "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "The Republic of Poland ANNEX Additional commitments Schedule on basic telecom services Scope The following are definitions and principles on the regulatory framework for the basic telecommunications services. Definitions Users mean service consumers and service suppliers. Essential facilities mean facilities of a public telecommunications transport network or service that"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "(a) are exclusively or predominantly provided by a single or limited number of suppliers; and"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "(b) cannot feasibly be economically or technically substituted in order to provide a service. A major supplier is a supplier which has the ability to materially affect the terms of participation (having regard to price and supply) in the relevant market for basic telecommunications services as a result of:"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "(a) control over essential facilities; or"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "(b) use of its position in the market."
-      },
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Competitive safeguards 1.1 Prevention of anti-competitive practices in telecommunications Appropriate measures shall be maintained for the purpose of preventing suppliers who, alone or together, are a major supplier from engaging in or continuing anti-competitive practices. 1.2 Safeguards The anti-competitive practices referred to above shall include in particular:",
+     "children": [
       {
-       "type": "ocr",
-       "text": "1. Competitive safeguards 1.1 Prevention of anti-competitive practices in telecommunications Appropriate measures shall be maintained for the purpose of preventing suppliers who, alone or together, are a major supplier from engaging in or continuing anti-competitive practices. 1.2 Safeguards The anti-competitive practices referred to above shall include in particular:"
-      },
-      {
-       "type": "ocr",
+       "type": "text",
        "text": "(a) engaging in anti-competitive cross-subsidisation;"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "(b) using information obtained from competitors with anti-competitive results; and"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "(c) not making available to other services suppliers on a timely basis technical information about essential facilities and commercially relevant information which are necessary for them to provide services."
       },
       {
        "type": "note",
-       "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
+       "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Interconnection",
+     "children": [
       {
-       "type": "ocr",
-       "text": "2. Interconnection"
-      },
-      {
-       "type": "ocr",
+       "type": "text",
        "text": "2.1 This section applies to linking with suppliers providing public telecommunications transport networks or services in order to allow the users of one supplier to communicate with users of another supplier and to access services provided by another supplier, where specific commitments are undertaken."
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "2.2 Interconnection to be ensured"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Interconnection with a major supplier will be ensured at any technically feasible point in the network. Such interconnection is provided."
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "(a) under non-discriminatory terms, conditions (including technical standards and specifications) and rates and of a quality no less favourable than that provided for its own like services or for like services of non-affiliated service suppliers or for its subsidiaries or other affiliates;"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "(b) in a timely fashion, on terms, conditions (including technical standards and specifications) and cost-oriented rates that are transparent, reasonable, having regard - to economic feasibility, and sufficiently unbundied so that the supplier need not pay for network components or facilities that it does not require for the service to be provided; and"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "(c) upon request, at points in addition to the network termination points offered to the majority of users, subject to charges that reflect the cost of construction of necessary additional facilities."
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "2.3 Public availability of the procedures for interconnection negotiations"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "The procedures applicable for interconnection to a major supplier will be made publicly available."
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "2.4 Transparency of interconnection arrangements"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "It is ensured that a major supplier will make publicly available either its interconnection agreements or a reference interconnection offer."
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "2.5 Interconnection: dispute settlement"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "A service supplier requesting interconnection with a major supplier will have recourse, either:"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "(a) at any time or"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "(b) after a reasonable period of time which has been made publicly known to an independent domestic body, which may be a regulatory body as referred to in paragraph 5 below, to resolve disputes regarding appropriate terms, conditions and rates for interconnection within a reasonable period of time, to the extent that these have not been established previously."
       },
       {

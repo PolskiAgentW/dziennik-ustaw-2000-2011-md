@@ -1,7 +1,7 @@
 {
  "eli": "DU/2005/1607",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 19 września 2005 r. w sprawie określenia sposobu i organizacji leczenia krwią w zakładach opieki zdrowotnej, w których przebywają pacjenci ze wskazaniami do leczenia krwią i jej składnikami",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/1607/text.pdf",
  "body": [
   {
@@ -2895,7 +2895,7 @@
    "body": [
     {
      "type": "text",
-     "text": "Wzór nr 1 Dziennik Ustaw Nr 191 — 11898 — Poz. 1607"
+     "text": "Wzór nr 1"
     },
     {
      "type": "note",
@@ -2915,22 +2915,22 @@
     },
     {
      "type": "note",
-     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Ostatnia strona Treść procedury"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Oświadczam, że zapoznałam/em się z powyższą procedurą i zobowiązuję się do [jej stosowania Lp. | Imię i nazwisko osoby Data szkolenia Podpis przeszkolonej"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Zweryfikowano data ..................122.222 Pieczątka i podpis ..................."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Procedura nr .... Wersja nr ........ Strona .... Z......."
     },
     {
@@ -2983,107 +2983,120 @@
     },
     {
      "type": "note",
-     "text": "[Strona 24 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 24 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "strona 2"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "WYPEŁNIA ................euaa.2.2... CENTRUM KRWIODAWSTWA I KRWIOLECZNICTWA"
     },
     {
-     "type": "ocr",
-     "text": "Ocena związku z transfuzją 0. wykluczono"
-    },
-    {
-     "type": "ocr",
-     "text": "1. wątpliwy"
-    },
-    {
-     "type": "ocr",
-     "text": "2. możliwy"
-    },
-    {
-     "type": "ocr",
-     "text": "3. pewny, udowodniony"
-    },
-    {
-     "type": "ocr",
-     "text": "Wnioski lub stwierdzone zespoły"
-    },
-    {
-     "type": "ocr",
-     "text": "hemoliza — niezgodność w ABO hemoliza — obecność odpornościowych przeciwciał poprzetoczeniowa skaza małopłytkowa alergia wstrząs anafilaktyczny TRALI duszność poprzetoczeniowa (TAD) zakażenie o bakteryjne"
-    },
-    {
-     "type": "ocr",
-     "text": "0OOCOOCLLC"
-    },
-    {
-     "type": "ocr",
-     "text": "o HBV o HCV o CMV W inny czynnik uodpornienie antygenami, swoistość przeciwciał Oo krwinek czerwonych o HLA ONE IZA O granulocytów uses asesora nasza nia winaca o IgA"
-    },
-    {
-     "type": "ocr",
-     "text": "o niehemolityczny odczyn gorączkowy o choroba potransfuzyjna przeszczep przeciwko biorcy Oo obrzęk płuc (niewydolność krążenia, przeciążenie krążenia) o__hemosyderoza Data Wypełnił: ......es saa saa aaa aa ninnc"
-    },
-    {
      "type": "text",
-     "text": "Wzór nr 9"
+     "text": "Ocena związku z transfuzją"
     },
     {
-     "type": "note",
-     "text": "[Na stronie 25 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+     "type": "ust",
+     "num": "0",
+     "path": "ust_0",
+     "text": "wykluczono",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Wzór nr 10"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "wątpliwy",
+     "children": []
     },
     {
-     "type": "note",
-     "text": "[Na stronie 26 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "możliwy",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Wzór nr 11"
-    },
-    {
-     "type": "note",
-     "text": "[Na stronie 27 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Wzór nr 12"
-    },
-    {
-     "type": "note",
-     "text": "[Na stronie 28 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Wzór nr 13"
-    },
-    {
-     "type": "note",
-     "text": "[Na stronie 29 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Wzór nr 14"
-    },
-    {
-     "type": "note",
-     "text": "[Na stronie 30 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Wzór nr 15"
-    },
-    {
-     "type": "note",
-     "text": "[Na stronie 31 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "pewny, udowodniony hemoliza — niezgodność w ABO Wnioski lub stwierdzone",
+     "children": [
+      {
+       "type": "text",
+       "text": "0OOCOOCLLC hemoliza — obecność odpornościowych przeciwciał zespoły poprzetoczeniowa skaza małopłytkowa alergia wstrząs anafilaktyczny TRALI duszność poprzetoczeniowa (TAD) zakażenie o bakteryjne"
+      },
+      {
+       "type": "text",
+       "text": "o HBV o HCV o CMV W inny czynnik uodpornienie antygenami, swoistość przeciwciał Oo o ONE O o krwinek czerwonych HLA"
+      },
+      {
+       "type": "text",
+       "text": "IZA granulocytów uses asesora nasza nią winaca IgA"
+      },
+      {
+       "type": "text",
+       "text": "o niehemolityczny odczyn gorączkowy o choroba potransfuzyjna przeszczep przeciwko biorcy Oo obrzęk płuc (niewydolność krążenia, przeciążenie krążenia) o__hemosyderoza Data Wypełnił: ......es saa saa aaa aa ninnc"
+      },
+      {
+       "type": "text",
+       "text": "Wzór nr 9"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 25 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Wzór nr 10"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 26 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Wzór nr 11"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 27 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Wzór nr 12"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 28 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Wzór nr 13"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 29 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Wzór nr 14"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 30 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Wzór nr 15"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 31 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      }
+     ]
     }
    ]
   }

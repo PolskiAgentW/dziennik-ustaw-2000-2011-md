@@ -1,7 +1,7 @@
 {
  "eli": "DU/2002/1626",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 7 listopada 2002 r. w sprawie wzoru wniosku o udzielenie zezwolenia na wytwarzanie produktów leczniczych.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2002/1626/text.pdf",
  "body": [
   {
@@ -112,22 +112,22 @@
     },
     {
      "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "2.4. Produkty radiofarmaceutyczne"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "2.5. Pakowanie lub przepakowywanie 2.5.1. Postaci płynnych 2.5.2. Postaci półstałych 2.5.3. Postaci stałych 2.5.3.1. W opakowania bezpośrednie 2.5.3.2. W opakowania zewnętrzne 2.5.4. Gazów medycznych 2.6. Produkty do badań klinicznych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Lista postaci produktów (kategorie według drogi podawania)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Preparaty doustne - płynne i półstałe Preparaty doustne - stałe Preparaty działające na śluzówki i dziąsła Preparaty stomatologiczne Preparaty skórne i przezskórne Preparaty do oczu Preparaty do uszu Preparaty do nosa Preparaty dopochwowe 3.10. Preparaty doodbytnicze 3.11. Preparaty do inhalacji 3.12. Preparaty pozajelitowe 3.13. Implanty 3.14. Preparaty do dializy Preparaty podawane do pęcherza moczowego i moczowodów Preparaty oskrzelowo-płucne Preparaty podawane do szyjki macicy Preparaty podawane do przewodów mlecznych Preparaty domaciczne Preparaty środowiskowe Inne"
     }
    ]
@@ -137,7 +137,7 @@
    "body": [
     {
      "type": "text",
-     "text": "LISTA WYTWARZANYCH PRODUKTÓW LECZNICZYCH Dziennik Ustaw Nr 193 — 12171 — Poz. 1626"
+     "text": "LISTA WYTWARZANYCH PRODUKTÓW LECZNICZYCH"
     },
     {
      "type": "note",

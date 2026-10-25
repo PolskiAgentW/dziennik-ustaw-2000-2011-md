@@ -1,7 +1,7 @@
 {
  "eli": "DU/2006/760",
  "title": "Rozporządzenie Ministra Finansów z dnia 20 czerwca 2006 r. w sprawie stawek, szczegółowego sposobu i trybu udzielania i rozliczania dotacji przedmiotowych do posiłków sprzedawanych w barach mlecznych",
- "converter": "eli2md 0.6.18",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2006/760/text.pdf",
  "body": [
   {
@@ -286,15 +286,17 @@
    "num": "13",
    "path": "par_13",
    "text": "Rozporządzenie wchodzi w życie z dniem 1 lipca 2006 r.[^1]",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Finansów: w z. J. Pietras"
-    },
-    {
-     "type": "text",
-     "text": "Załączniki do rozporządzenia Ministra Finansów z dnia 20 czerwca 2006 r. (poz. 760)"
-    },
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: w z. J. Pietras"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Finansów z dnia 20 czerwca 2006 r. (poz. 760)",
+   "body": [
     {
      "type": "text",
      "text": "Załącznik nr 1"
@@ -306,126 +308,124 @@
     {
      "type": "pkt",
      "num": "1",
-     "path": "par_13/pkt_1",
+     "path": "pkt_1",
      "text": "mleko,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "par_13/pkt_2",
+     "path": "pkt_2",
      "text": "napoje mleczne,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
-     "path": "par_13/pkt_3",
+     "path": "pkt_3",
      "text": "śmietana i śmietanka,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "4",
-     "path": "par_13/pkt_4",
+     "path": "pkt_4",
      "text": "masło,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "5",
-     "path": "par_13/pkt_5",
+     "path": "pkt_5",
      "text": "twarogi i sery,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "6",
-     "path": "par_13/pkt_6",
+     "path": "pkt_6",
      "text": "jaja i przetwory z jaj,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "7",
-     "path": "par_13/pkt_7",
+     "path": "pkt_7",
      "text": "tłuszcze roślinne,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "8",
-     "path": "par_13/pkt_8",
+     "path": "pkt_8",
      "text": "pieczywo,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "9",
-     "path": "par_13/pkt_9",
+     "path": "pkt_9",
      "text": "mąka, kasza, ryż i inne przetwory zbożowe, 10) makarony,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "11",
-     "path": "par_13/pkt_11",
+     "path": "pkt_11",
      "text": "cukier, miód naturalny i sztuczny,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "12",
-     "path": "par_13/pkt_12",
+     "path": "pkt_12",
      "text": "przetwory owocowe i warzywne (dżemy, soki, kompoty, koncentrat pomidorowy itp.),",
      "children": []
     },
     {
      "type": "pkt",
      "num": "13",
-     "path": "par_13/pkt_13",
+     "path": "pkt_13",
      "text": "ziemniaki i przetwory ziemniaczane,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "14",
-     "path": "par_13/pkt_14",
+     "path": "pkt_14",
      "text": "warzywa i owoce,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "15",
-     "path": "par_13/pkt_15",
+     "path": "pkt_15",
      "text": "mrożone półprodukty i wyroby kulinarne (z wyjątkiem mięsnych, drobiowych, podrobowych, półmięsnych itp.), 16) herbata, kawa-namiastki,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "17",
-     "path": "par_13/pkt_17",
+     "path": "pkt_17",
      "text": "koncentraty,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "18",
-     "path": "par_13/pkt_18",
+     "path": "pkt_18",
      "text": "przyprawy,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "19",
-     "path": "par_13/pkt_19",
+     "path": "pkt_19",
      "text": "grzyby uprawiane.",
      "children": []
     }
    ]
-  }
- ],
- "annexes": [
+  },
   {
    "heading": "Załącznik nr 2",
    "body": [
@@ -463,7 +463,7 @@
     },
     {
      "type": "text",
-     "text": "....................................................... dnia ...................... Dziennik Ustaw Nr 112 — 5731 — Poz. 760"
+     "text": "....................................................... dnia ......................"
     }
    ]
   }

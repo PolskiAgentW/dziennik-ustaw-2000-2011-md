@@ -1,7 +1,7 @@
 {
  "eli": "DU/2003/1766",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2003 r. w sprawie dokumentacji prowadzonej przez uprawnionego do rybactwa",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/1766/text.pdf",
  "body": [
   {
@@ -573,10 +573,6 @@
    "heading": "Załączniki do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2003 r. (poz. 1766) Załącznik nr 1 WZÓR PROTOKOŁU ZARYBIEŃ",
    "body": [
     {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 180 — 12240 — Poz. 1766"
-    },
-    {
      "type": "note",
      "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
     },
@@ -707,103 +703,106 @@
     },
     {
      "type": "note",
-     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Strona B"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Objaśnienia do protokołu połowu ryb i raków"
     },
     {
-     "type": "ocr",
-     "text": "Stosownie do $ 5 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2003 r. w sprawie dokumentacji prowadzonej przez uprawnionego do rybactwa (Dz. U. Nr 180, poz. 1766), protokół połowu ryb i raków sporządza się niezwłocznie po zakończeniu połowu, podając w pozycji:"
+     "type": "text",
+     "text": "Stosownie do § 5 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2003 r. w sprawie dokumentacji prowadzonej przez uprawnionego do rybactwa (Dz. U. Nr 180, poz. 1766), protokół połowu ryb i raków sporządza się niezwłocznie po zakończeniu połowu, podając w pozycji:"
     },
     {
-     "type": "ocr",
-     "text": "„1. Uprawniony do rybactwa” — imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres uprawnionego do rybactwa;"
+     "type": "text",
+     "text": "„1. Uprawniony do rybactwa” — imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres uprawnionego do rybactwa;",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "„ża. Region wodny” — nazwę regionu wodnego, w którym dokonano połowu ryb lub raków;"
+     "type": "text",
+     "text": "„ża. Region wodny” — nazwę regionu wodnego, w którym dokonano połowu ryb lub raków;",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "„ab. Miejsce połowu” — miejsce w obwodzie rybackim, w którym dokonano połowu ryb lub raków;"
+     "type": "text",
+     "text": "„ab. Miejsce połowu” — miejsce w obwodzie rybackim, w którym dokonano połowu ryb lub raków;",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "„2c. Obwód rybacki” — nazwę i numer obwodu rybackiego, w którym dokonano połowu, zgodne z nazwą i numerem obwodu rybackiego podanym w rozporządzeniu dyrektora regionalnego zarządu gospodarki wodnej w sprawie ustanowienia obwodów rybackich;"
+     "type": "text",
+     "text": "„2c. Obwód rybacki” — nazwę i numer obwodu rybackiego, w którym dokonano połowu, zgodne z nazwą i numerem obwodu rybackiego podanym w rozporządzeniu dyrektora regionalnego zarządu gospodarki wodnej w sprawie ustanowienia obwodów rybackich;",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "„3. Data połowu” — dzień, miesiąc i rok, w którym ryby lub raki wyjęto z rybackich narzędzi lub urządzeń połowowych,"
+     "type": "text",
+     "text": "„3. Data połowu” — dzień, miesiąc i rok, w którym ryby lub raki wyjęto z rybackich narzędzi lub urządzeń połowowych,",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "„4. Miejsce sporządzenia protokołu” — miejsce, w którym sporządzono protokół;"
+     "type": "text",
+     "text": "„4. Miejsce sporządzenia protokołu” — miejsce, w którym sporządzono protokół;",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "„5. Gatunek” — nazwę gatunkową ryb i raków, które odłowiono — polską a w przypadku jej braku — łacińską;"
+     "type": "text",
+     "text": "„5. Gatunek” — nazwę gatunkową ryb i raków, które odłowiono — polską a w przypadku jej braku — łacińską;",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "„6. Sortyment/produkt\" — sortyment wagowy złowionych ryb albo nazwę pozyskanego produktu (ikra, mlecz);"
+     "type": "text",
+     "text": "„6. Sortyment/produkt\" — sortyment wagowy złowionych ryb albo nazwę pozyskanego produktu (ikra, mlecz);",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "nf. Ilość” — szacunkową ilość ryb, raków lub produktów od nich pozyskanych, wyrażoną jednostką miary: kilogram, sztuka albo litr;"
+     "type": "text",
+     "text": "nf. Ilość” — szacunkową ilość ryb, raków lub produktów od nich pozyskanych, wyrażoną jednostką miary: kilogram, sztuka albo litr;",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "„8. Sposób zagospodarowania” — przeznaczenie lub sposób, w. jaki wykorzystano złowione ryby i raki;"
+     "type": "text",
+     "text": "„8. Sposób zagospodarowania” — przeznaczenie lub sposób, w. jaki wykorzystano złowione ryby i raki;",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "„9. Imiona i nazwiska osób dokonujących połowu” — imiona i nazwiska osób, które wyjęły ryby lub raki z rybackich narzędzi lub urządzeń połowowych;"
+     "type": "text",
+     "text": "„9. Imiona i nazwiska osób dokonujących połowu” — imiona i nazwiska osób, które wyjęły ryby lub raki z rybackich narzędzi lub urządzeń połowowych;",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "„10. Uwagi” — adnotację o nieobecności właściciela wody lub osoby przez niego upoważnionej oraz o sposobie i terminie powiadomienia o planowanym miejscu i terminie połowu oraz informacje o dokonanym połowie, inne niż wymienione w pozycjach 1-9 protokołu;"
+     "type": "text",
+     "text": "„10. Uwagi” — adnotację o nieobecności właściciela wody lub osoby przez niego upoważnionej oraz o sposobie i terminie powiadomienia o planowanym miejscu i terminie połowu oraz informacje o dokonanym połowie, inne niż wymienione w pozycjach 1-9 protokołu;",
+     "quoted": true
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "ita. Imię i nazwisko” — imię i nazwisko uprawnionego do rybactwa albo osoby przez niego upoważnionej do sporządzenia protokołu;"
     },
     {
-     "type": "ocr",
-     "text": "„11b. Podpis” — która sporządziła protokół;"
+     "type": "text",
+     "text": "„11b. Podpis” — która podpis osoby, sporządziła protokół;",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "podpis osoby,"
+     "type": "text",
+     "text": "miesiąc i rok „lic. Data” dzień, sporządzenia protokołu;"
     },
     {
-     "type": "ocr",
-     "text": "„lic. Data” dzień, sporządzenia protokołu;"
+     "type": "text",
+     "text": "„2a. Właściciel wody” — nazwę, siedzibę i adres właściciela wody;",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "miesiąc i rok"
+     "type": "text",
+     "text": "„12b. Czytelny podpis” — czytelny podpis, z podaniem imienia i nazwiska osoby upoważnionej do potwierdzenia protokołu;",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "„2a. Właściciel wody” — nazwę, siedzibę i adres właściciela wody;"
-    },
-    {
-     "type": "ocr",
-     "text": "„12b. Czytelny podpis” — czytelny podpis, z podaniem imienia i nazwiska osoby upoważnionej do potwierdzenia protokołu;"
-    },
-    {
-     "type": "ocr",
-     "text": "„12c. Data” — dzień, potwierdzenia protokołu."
-    },
-    {
-     "type": "ocr",
-     "text": "miesiąc i rok"
+     "type": "text",
+     "text": "miesiąc i rok „12c. Data” — dzień, potwierdzenia protokołu."
     },
     {
      "type": "text",
@@ -1356,83 +1355,130 @@
     },
     {
      "type": "note",
-     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Strona B Strona B"
     },
     {
-     "type": "ocr",
-     "text": "7. Amatorskie połowy ryb"
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Amatorskie połowy ryb",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "7b. Zestawienie sporządzono za rok ń Lp. 7c. Gatunek 7d. Ilość Lp. 7c. Gatunek 7d. Ilość [kg] [kg]"
+     "type": "ust",
+     "num": "7b",
+     "path": "ust_7b",
+     "text": "Zestawienie sporządzono za rok ń Lp. 7c. Gatunek 7d. Ilość Lp. 7c. Gatunek 7d. Ilość [kg]",
+     "children": [
+      {
+       "type": "text",
+       "text": "2"
+      },
+      {
+       "type": "text",
+       "text": "Łosoś Troć jeziorowa 3 4"
+      },
+      {
+       "type": "text",
+       "text": "Troć wędrowna Pstrąg potokowy 5 6"
+      },
+      {
+       "type": "text",
+       "text": "Pstrąg tęczowy Głowacica 7 8"
+      },
+      {
+       "type": "text",
+       "text": "Sielawa Sieja 9 10"
+      },
+      {
+       "type": "text",
+       "text": "Lipień 11"
+      },
+      {
+       "type": "text",
+       "text": "Stynka Szczupak Płoć/wzdręga” Jelec/kleń/jaż” Amur Boleń"
+      },
+      {
+       "type": "text",
+       "text": "[kg] NM Świnka 1 Brzana/brzanka” Ukleja Krąp Leszcz Certa Karaś” Karp Tołpyga” Sum Miętus Sandacz Okoń Jazgarz Pozostałe"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "1"
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Amatorskie połowy ryb razem Amatorskie połowy ryb razem (suma kg podanych w kolumnie 7d w pozycjach od 1 do 32) Objaśnienia do stron A i B zestawienia rocznego: ” ilość raków podaje się łącznie dla wszystkich złowionych raków, niezależnie od ich gatunku; 2) ilość ryb podaje się łącznie dla wszystkich wymienionych w tej pozycji gatunków; ” ilość ryb podaje się łącznie dla wszystkich złowionych ryb rodzaju Carassius; 9. ilość ryb podaje się łącznie dla wszystkich złowionych ryb gatunku Hypophthalmichthys molitrix oraz Aristichthys nobilis; ” należy zakreślić właściwą literę, zgodnie z informacją podaną w księdze gospodarczej.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Strona C Strona C nr (każdą stronę C zestawienia rocznego należy ponumerować)"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "2 3 4 5 6 7 8 9 10 11 Szczupak Mietus Płoć/wzdręga” Sandacz Jelec/kleń/jaż” Okoń Amur Jazgarz Boleń Pozostałe"
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Materiał zarybieniowy wprowadzony do wód obwodu rybackiego przez uprawnionego do rybactwa",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "NM Łosoś Świnka Troć jeziorowa Brzana/brzanka” Troć wędrowna Ukleja Pstrąg potokowy Krąp Pstrąg tęczowy Leszcz Głowacica Certa Sielawa Karaś” Sieja Karp Lipień Tołpyga” Stynka Sum"
+     "type": "ust",
+     "num": "9a",
+     "path": "ust_9a",
+     "text": "Gatunek",
+     "children": [
+      {
+       "type": "text",
+       "text": "2"
+      },
+      {
+       "type": "text",
+       "text": "3"
+      },
+      {
+       "type": "text",
+       "text": "4"
+      },
+      {
+       "type": "text",
+       "text": "6"
+      },
+      {
+       "type": "text",
+       "text": "[ [|"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "8. Amatorskie połowy ryb razem Amatorskie połowy ryb razem (suma kg podanych w kolumnie 7d w pozycjach od 1 do 32) Objaśnienia do stron A i B zestawienia rocznego: ” ilość raków podaje się łącznie dla wszystkich złowionych raków, niezależnie od ich gatunku; 2) ilość ryb podaje się łącznie dla wszystkich wymienionych w tej pozycji gatunków; ” ilość ryb podaje się łącznie dla wszystkich złowionych ryb rodzaju Carassius; 9. ilość ryb podaje się łącznie dla wszystkich złowionych ryb gatunku Hypophthalmichthys molitrix oraz Aristichthys nobilis; ” należy zakreślić właściwą literę, zgodnie z informacją podaną w księdze gospodarczej."
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Wartość materiału zarybieniowego razem (suma wartości podanych w kolumnie 9d w pozycjach od 1 do 17 na wszystkich stronach C zestawienia rocznego . : , 12. Data",
+     "children": []
     },
     {
-     "type": "note",
-     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Sporządzający zestawienie roczne",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Strona C Strona C nr (każdą stronę C zestawienia rocznego należy ponumerować)"
-    },
-    {
-     "type": "ocr",
-     "text": "9. Materiał zarybieniowy wprowadzony do wód obwodu rybackiego przez uprawnionego do rybactwa"
-    },
-    {
-     "type": "ocr",
-     "text": "9a. Gatunek"
-    },
-    {
-     "type": "ocr",
-     "text": "2"
-    },
-    {
-     "type": "ocr",
-     "text": "3"
-    },
-    {
-     "type": "ocr",
-     "text": "4"
-    },
-    {
-     "type": "ocr",
-     "text": "6"
-    },
-    {
-     "type": "ocr",
-     "text": "[ [|"
-    },
-    {
-     "type": "ocr",
-     "text": "10. Wartość materiału zarybieniowego razem (suma wartości podanych w kolumnie 9d w pozycjach od 1 do 17 na wszystkich stronach C zestawienia rocznego . : , 12. Data"
-    },
-    {
-     "type": "ocr",
-     "text": "11. Sporządzający zestawienie roczne"
-    },
-    {
-     "type": "ocr",
-     "text": "11a. Imię 11b. Podpis i nazwisko"
+     "type": "ust",
+     "num": "11a",
+     "path": "ust_11a",
+     "text": "Imię 11b. Podpis i nazwisko",
+     "children": []
     }
    ]
   }

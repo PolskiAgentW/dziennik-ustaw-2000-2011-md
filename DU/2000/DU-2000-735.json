@@ -1,7 +1,7 @@
 {
  "eli": "DU/2000/735",
  "title": "Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 30 maja 2000 r. w sprawie warunków technicznych, jakim powinny odpowiadać drogowe obiekty inżynierskie i ich usytuowanie.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2000/735/text.pdf",
  "body": [
   {
@@ -1284,7 +1284,7 @@
       },
       {
        "type": "text",
-       "text": "5 5 5"
+       "text": "5 55"
       }
      ]
     },
@@ -7913,7 +7913,7 @@
        "type": "pkt",
        "num": "1",
        "path": "par_164/ust_2/pkt_1",
-       "text": "zawartość określona ułamkiem masowym krzemianu trójwapniowego (alitu) C S — nie większa niż 60%,³",
+       "text": "zawartość określona ułamkiem masowym krzemianu trójwapniowego (alitu) C₃S — nie większa niż 60%,",
        "children": []
       },
       {
@@ -8508,7 +8508,7 @@
        "type": "pkt",
        "num": "2",
        "path": "par_172/ust_1/pkt_2",
-       "text": "stanowić opór dla dyfuzji dwutlenku węgla (CO ), z zastrzeżeniem ust. 5 pkt 1,²",
+       "text": "stanowić opór dla dyfuzji dwutlenku węgla (CO₂), z zastrzeżeniem ust. 5 pkt 1,",
        "children": []
       },
       {
@@ -8530,7 +8530,7 @@
        "type": "pkt",
        "num": "1",
        "path": "par_172/ust_2/pkt_1",
-       "text": "dla dwutlenku węgla (CO ) — nie mniej niż 50 m oporu dyfuzji słupa powietrza,²",
+       "text": "dla dwutlenku węgla (CO₂) — nie mniej niż 50 m oporu dyfuzji słupa powietrza,",
        "children": []
       },
       {
@@ -16119,1315 +16119,1743 @@
     },
     {
      "type": "note",
-     "text": "[Strona 58 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 58 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "1.3.4.4. Jeżeli przeprawa drogowa projektowana jest na odcinku ujściowym rzeki, należy rozpatrzyć wpływ wezbrania na rzece głównej na podniesienie się zwierciadła w przekroju przeprawy."
+     "type": "text",
+     "text": "1.3.4.4. Jeżeli przeprawa drogowa projektowana jest na odcinku ujściowym rzeki, należy rozpatrzyć wpływ wezbrania na rzece głównej przeprawy."
     },
     {
-     "type": "ocr",
-     "text": "1.4. Dane wyjściowe do obliczeń"
+     "type": "text",
+     "text": "1.4. Dane wyjściowe do obliczeń na podniesienie się zwierciadła w przekroju"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Do obliczeń niezbędne są informacje pochodzące z istniejących map, planów, materiałów pomiarowych i inwentaryzacyjnych, projektów i prac studialnych oraz pomiarów terenowych i badań gruntu, pozwalające na: - zorientowanie się co do charakteru cieku, stabilności jego koryta, zmian przebiegu nurtu, występowania rozgałęzień itp., - określenie miarodajnej rzędnej zwierciadła wody i spadku zwierciadła wody przy przepływie miarodajnym, - określenie przekrojów koryta w osi przeprawy, powyżej i poniżej, - określenie warunków transportu rumowiska w cieku w czasie wezbrań i ustalenie, czy ruch ten odbywa się całym przekrojem, czy tylko korytem głównym cieku, - określenie prędkości nierozmywających w przekroju pod mostem bądź za przepustem,"
     },
     {
-     "type": "ocr",
-     "text": "2. Obliczenia hydrauliczne mostów"
-    },
-    {
-     "type": "ocr",
-     "text": "2.1. Zasady obliczeń"
-    },
-    {
-     "type": "ocr",
-     "text": "2.1.1. Obliczenia hydrauliczne mostów obejmują: - wyznaczenie minimalnego światła mostu, - określenie spodziewanego pogłębienia koryta w przekroju mostowym, - określenie rozmyć lokalnych przy filarach, - określenie wysokości spiętrzenia przed mostem."
-    },
-    {
-     "type": "ocr",
-     "text": "2.1.2. Minimalne światło mostu należy wyznaczać z warunku dopuszczalnych rozmyć w przekroju mostowym. Jeżeli nie jest przewidywane rozmycie (pogłębienie) koryta, prędkość w przekroju mostowym nie może przekraczać prędkości nierozmywających, natomiast w przypadku dopuszczalnego pogłębienia koryta obliczenia opierają się na warunku zrównania ilości transportowanego rumowiska w przekroju niezabudowanym i w przekroju mostowym."
-    },
-    {
-     "type": "ocr",
-     "text": "Podstawową zależnością stosowaną w załączniku, wiążącą parametry dwóch przekrojów (1 i 2) ze względu na wyrównanie zdolności transportowej, jest wzór:"
-    },
-    {
-     "type": "ocr",
-     "text": "B, \\Q h,"
-    },
-    {
-     "type": "ocr",
-     "text": "gdzie B — szerokość koryta, h — jego głębokość, Q — przepływ w korycie."
-    },
-    {
-     "type": "ocr",
-     "text": "2.1.3. Schematyzacja przekroju mostowego:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) do obliczeń należy przyjąć rzędną zwierciadła wody w przekroju mostowym równą rzędnej miarodajnej zm,"
-    },
-    {
-     "type": "ocr",
-     "text": "b) w przypadku przekroju mostowego, obejmującego koryto główne oraz część terenów zalewowych, na których nie występuje znaczący ruch rumowiska, do obliczeń pogłębienia koryta należy stosować schemat przekroju dwuczęściowego złożonego z części: głównej i"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 59 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "zalewowej, obejmującej oba tarasy łącznie; dla każdej z tych części określa się głębokość średnią i prędkość Średnią,"
-    },
-    {
-     "type": "ocr",
-     "text": "c) we wszystkich innych przypadkach należy określać głębokość średnią i prędkość średnią dla całego przekroju mostowego."
-    },
-    {
-     "type": "ocr",
-     "text": "2.1.4. Podstawowe oznaczenia"
-    },
-    {
-     "type": "ocr",
-     "text": "2.1.4.1. Przekrój niezabudowany, przekrój powyżej mostu"
-    },
-    {
-     "type": "ocr",
-     "text": "Przy określaniu parametrów koryta niezabudowanego używa się podziału na koryta o przekroju „wielodzielnym” i „zwartym”. Schemat przekroju wielodzielnego należy stosować w przypadku, gdy intensywny ruch rumowiska odbywa się wyłącznie korytem głównym, a na terenach zalewowych występują tylko lokalne rozmycia i odkłady materiału niesionego przez rzekę. W pozostałych przypadkach należy stosować schemat przekroju zwartego."
-    },
-    {
-     "type": "ocr",
-     "text": "Dla przekroju wielodzielnego (rys. 2.1) stosuje się oznaczenia:"
-    },
-    {
-     "type": "ocr",
-     "text": "Fs — pole przekroju poprzecznego koryta głównego, Foz = Foz + Fozp — pole przekroju poprzecznego koryta nad obu tarasami zalewowymi, Bog — szerokość zwierciadła wody w korycie głównym, Boz = Bon + Bozp — szerokość zwierciadła wody na obu tarasach zalewowych, hog = Fog/ Bog — Średnia głębokość w korycie głównym, Nox = Foz/ Boz — Średnia głębokość na terenach zalewowych, Qos — przepływ w korycie głównym, Qoz > Qm — Qos — przepływ po terenach zalewowych, Vog = Qog/Fog — średnia prędkość w korycie głównym, Voz = Qoz/F oz — Średnia prędkość na terenach zalewowych,"
-    },
-    {
-     "type": "ocr",
-     "text": "Rys.2.1. Przekrój wielodzielny powyżej mostu"
-    },
-    {
-     "type": "ocr",
-     "text": "Do oznaczenia elementów hydraulicznych przekroju zwartego lub całego przekroju wielodzielnego używa się symboli z pojedynczym indeksem Fy, Bo, ho, Qo= Om Vo."
-    },
-    {
-     "type": "ocr",
-     "text": "2.1.4.2. Zabudowany przekrój mostowy"
-    },
-    {
-     "type": "ocr",
-     "text": "W obliczeniach zabudowanego przekroju mostowego wyróżnia się dwa schematy zależnie od stosowanego schematu obliczeniowego. Schemat „dwuczęściowy” dotyczy przypadku, gdy pod mostem, w części przekroju, nazwanej główną, odbywa się transport rumowiska, natomiast w częściach bocznych dno jest nierozmywalne lub mogą powstać tylko rozmycia lokalne wywołane przekroczeniem prędkości nierozmywających. Schemat ten należy stosować tylko wtedy, gdy koryto niezabudowane jest korytem wielodzielnym. We wszystkich innych przypadkach należy stosować schemat „jednoczęściowy”."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 60 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Dla przekroju dwuczęściowego (rys.2.2) przed wystąpieniem rozmyć stosuje się oznaczenia: F, — pole części przekroju mostowego, w której odbywa się znaczny ruch rumowiska, F, =F, + Fy, — pole części przekroju mostowego, w której nie ma ruchu rumowiska, L, — światło mostu w części Fy przekroju mostowego, L, = Lz + Ly, — Światło mostu w części F, przekroju mostowego, hg = Fs/Ls — średnia głębokość w części Fy przekroju, h, = F,/L, — średnia głębokość w części F, przekroju, Q; — przepływ w części F, przekroju, Q,, — przepływ w części F, przekroju, Vg = Q,/F, — średnia prędkość w części F; przekroju, vz = Q,/F, — Średnia prędkość w części F, przekroju."
-    },
-    {
-     "type": "ocr",
-     "text": "L =L brutto — (Suma szerokości filarów)"
-    },
-    {
-     "type": "ocr",
-     "text": "Rys.2.2. Zabudowany przekrój dwuczęściowy"
-    },
-    {
-     "type": "ocr",
-     "text": "Dla przekroju jednoczęściowego używa się symboli F, L, h,v bez indeksów."
-    },
-    {
-     "type": "ocr",
-     "text": "2.1.4.3. Rzędne charakterystyczne (rys. 2.3): Zm —— miarodajna rzędna zwierciadła wody w niezabudowanym przekroju mostowym, odpowiadająca przeptywowi miarodajnemu Qn, zs — rzędna spiętrzonego zwierciadła wody powyżej zabudowanego przekroju mostowego, przy przepływie miarodajnym, Az = Zs — Zm — spiętrzenie wywołane przez most."
-    },
-    {
-     "type": "ocr",
-     "text": "Rys.2.3. Rzędne i głębokości charakterystyczne"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 61 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "2.2. Światło mostu 2.2.1. Tok obliczeń Światło mostu należy ustalać drogą prób, polegających na określeniu światła minimalnego, założeniu położenia przyczółków, filarów i ich wymiarów, na obliczeniu przewidywanych rozmyć i spiętrzenia, a następnie ich porównaniu z warunkami określonymi w rozporządzeniu oraz wynikającymi z uzgodnień. 2.2.2. Przypadki obliczeniowe 2.2.2.1. Ruch w korycie niezabudowanym, przy przepływie miarodajnym, jest ruchem spokojnym. Ze względu na różnice w sposobie obliczeń wyróżnia się następujące przypadki:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) dno w przekroju mostowym jest rozmywalne, ruch rumowiska odbywa się w całej szerokości tego przekroju,"
-    },
-    {
-     "type": "ocr",
-     "text": "b) dno w przekroju mostowym jest rozmywalne, ruch rumowiska odbywa się tylko na części tego przekroju (na ogół korytem głównym),"
-    },
-    {
-     "type": "ocr",
-     "text": "c) dno w przekroju mostowym jest nierozmywalne, ruch rumowiska odbywa się nad tym dnem, bez jego naruszenia. 2.2.2.2. Ruch w korycie niezabudowanym, przy przepływie miarodajnym, jest ruchem rwącym. Zaleca się doprowadzenie przepływu do przeprawy i przeprowadzenie go pod mostem uregulowanym korytem, bez jego zwężenia konstrukcją mostu. Podane dalej zasady obliczeń nie dotyczą tego przypadku. 2.2.3. Obliczenia dla przekroju mostowego z dnem rozmywalnym i ruchem rumowiska na całej szerokości przekroju 2.2.3.1. Wymiarowania światła mostu należy dokonać ze względu na przewidywane pogłębienie dna, wyznaczone z warunku zachowania ciągłości ruchu rumowiska w cieku. Wyjściowymi wielkościami do obliczeń w przypadku ogólnym są: Qos, Bog, Nog, Vog. Jeżeli ruch rumowiska odbywa się całym przekrojem niezabudowanym, to w obliczeniach stosuje się parametry dla całego przekroju: Qog = Om Bog = Bo, Nog = ho, Vog = Vo- 2.2.3.2. Określenie minimalnego Światła mostu L polega na założeniu stopnia rozmycia P zgodnie z 2.3.1.1 i obliczeniu: L= Bog [2 pv? [2.2] og Przyjmuje się rozmycie koryta proporcjonalnie do pierwotnych głębokości. Jeśli w przekroju mostowym, powyżej linii przewidywanego rozmycia, leżą warstwy trudno rozmywalne, dla których prędkości nierozmywające Vp; (zob. 2.3.1.2) są większe od prędkości w przekroju zabudowanym, należy uznać, że rozmycia nastąpią tylko do tych warstw. 2.2.3.3. Stopień rozmycia koryta pod mostem o założonym świetle £ należy obliczać z wzoru: —2/3 8/9 p-|2] [2a 2.3] Bog Ov."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 62 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "2.2.4. Obliczenia dla przekroju mostowego z dnem rozmywalnym i ruchem rumowiska w części przekroju"
-    },
-    {
-     "type": "ocr",
-     "text": "2.2.4.1. Przekrój mostowy dzieli się na część główną o świetle L, usytuowaną w części koryta, w której odbywa się ruch rumowiska, poszerzonej ewentualnymi wcięciami, oraz na części boczne o łącznym świetle Ł,, w których nie występuje znaczący ruch rumowiska. Rozmycia dla części głównej przekroju należy obliczać z warunku zachowania ciągłości ruchu rumowiska. W częściach bocznych ewentualne rozmycia należy określać, porównując powstałe tam prędkości z prędkościami nierozmywającymi. 2.2.4.2. Określenie minimalnego Światła mostu L polega na obliczeniu przepływu przypadającego na część główną przekroju o Świetle Zs, przy jego rozmyciu w stopniu P określonym zgodnie z 2.3.1.1, a następnie doborze światła L, koniecznego dla przepuszczenia pozostałej części przepływu. Tok postępowania jest następujący:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) określenie światła Ly w głównej części koryta,"
-    },
-    {
-     "type": "ocr",
-     "text": "b) obliczenie przepływu przez część przekroju o świetle Ls"
-    },
-    {
-     "type": "ocr",
-     "text": "3/4 L,"
-    },
-    {
-     "type": "ocr",
-     "text": "Q, =Q, ta pers [2.4] og"
-    },
-    {
-     "type": "ocr",
-     "text": "c) obliczenie przepływu przez część przekroju o świetle L,"
-    },
-    {
-     "type": "ocr",
-     "text": "O, = Qm- Os [2.5]"
-    },
-    {
-     "type": "ocr",
-     "text": "d) obliczenie wartości współczynnika:"
-    },
-    {
-     "type": "ocr",
-     "text": "Vou — Moe f= = [2.6] 7 ve +0,92iB, gdzie: g — przyspieszenie ziemskie, i — spadek cieku, B, = By —Ły, przy jednostronnym tarasie zalewowym, B, =0,5 (Bo — Ler) przy symetrycznych terenach zalewowych; dla niesymetrycznych terenów zalewowych należy przyjmować pośrednie wartości Bj. Ly: — szerokość przekroju mostowego między przyczółkami."
-    },
-    {
-     "type": "ocr",
-     "text": "e) obliczenie wartości przepływu Qo»x przypadającego w korycie niezabudowanym na szerokość światła mostu L, brutto (rys.2.4): Own = LL [2.7] Vt SQ, FO) — JF"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 63 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Światło mostu brutto"
-    },
-    {
-     "type": "ocr",
-     "text": "Qoz lewy"
-    },
-    {
-     "type": "ocr",
-     "text": "Lewy teren zalewowy główne teren zalewowy"
-    },
-    {
-     "type": "ocr",
-     "text": "Qoz = Qox lewy + Qoz prawy Qozx = Qozx lewy + Qozx prawy Rys.2.4. Podział przepływu w przekroju niezabudowanym"
-    },
-    {
-     "type": "ocr",
-     "text": "f) określenie położenia przyczółków w przekroju mostowym. 2.2.4.3. Określenie pogłębienia w przekroju mostowym dla założonych Świateł mostu w obu częściach koryta L, i Ł, polega na:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) wyznaczeniu przepływu Qozx przypadającego w korycie nie zabudowanym na część objętą światłem L, wraz z szerokością filarów ustawionych w tej części przekroju,"
-    },
-    {
-     "type": "ocr",
-     "text": "b) określeniu współczynników:"
-    },
-    {
-     "type": "ocr",
-     "text": "[2.8]"
-    },
-    {
-     "type": "ocr",
-     "text": "oraz współczynnika fz wzoru [2.6],"
-    },
-    {
-     "type": "ocr",
-     "text": "c) wyznaczeniu wartości B, = Q o» /Qosg jako pierwiastka równania kwadratowego: Q/B; -1- 1)B, +20+ /)B,B, + f — A+ f)B5=0 [2.9]"
-    },
-    {
-     "type": "ocr",
-     "text": "d) obliczeniu przepływów Q, = B,Qos i Qs = Om — Q:,"
-    },
-    {
-     "type": "ocr",
-     "text": "e) obliczeniu średniej głębokości po rozmyciu w korycie głównym z wzoru: L —2/3 Q 8/9 „|>| (2 [2.10] Bou Oss"
-    },
-    {
-     "type": "ocr",
-     "text": "f) obliczeniu średniej głębokości po rozmyciu na terenie zalewowym z wzoru: h, =e [2.11] mw LV"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 64 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "gdzie vp, — prędkość nierozmywająca określona wg 2.3.1.2."
-    },
-    {
-     "type": "ocr",
-     "text": "2.2.5. Obliczenia dla przekroju mostowego z dnem nierozmywalnym"
-    },
-    {
-     "type": "ocr",
-     "text": "2.2.5.1. Dno w przekroju mostowym nie ulegnie pogłębieniu, jeżeli średnia prędkość w tym przekroju będzie nie większa: - dla naturalnego podłoża — od prędkości nierozmywającej v,, określonej wg 2.3.1.2, - dla podłoża umocnionego -— od prędkości dopuszczalnych vg określonych wg 2.3.1.3."
-    },
-    {
-     "type": "ocr",
-     "text": "2.2.5.2. Minimalne światło mostu należy określać z wzoru:"
-    },
-    {
-     "type": "ocr",
-     "text": "L — Q, uhv gdzie: h— średnia głębokość w przekroju mostowym, vy — założona średnia prędkość przepływu, nie większa niż:"
-    },
-    {
-     "type": "ocr",
-     "text": "[2.12]"
-    },
-    {
-     "type": "ocr",
-     "text": "- prędkość krytyczna Vp, = Jgh , - najmniejsza w przekroju prędkość nierozmywająca Vp; lub dopuszczalna vg, | — współczynnik, który należy przyjmować: dla mostów jednoprzęsłowych z tabeli 3.5, dla filarów zaokrąglonych od strony napływu wody p= 0,78 + 0,021 VL, dla filarów zaostrzonych od strony napływu wody L= 0,85 + 0,014VL , (we wzorach tych L wyrazone jest w metrach), jeżeli światło mostu Z jest większe niż 100 m, przyjmuje się u = 0,99, dla mostów o świetle mniejszym niż 30 m, gdy miarodajnemu przepływowi towarzyszy spływ lodów, zaleca się zmniejszyć obliczoną wartość po 0,05. 2.2.5.3. Średnią prędkość przepływu, dla założonego światła L należy obliczać z wzoru: ve Cn [2.13] u"
-    },
-    {
-     "type": "ocr",
-     "text": "2.3. Rozmycia dna"
-    },
-    {
-     "type": "ocr",
-     "text": "2.3.1. Pogłębienie dna w przekroju mostowym"
-    },
-    {
-     "type": "ocr",
-     "text": "2.3.1.1. Wielkość pogłębienia dna wyraża się przez stopień rozmycia przekroju mostowego P. Jest to stosunek średnich głębokości po rozmyciu i przed rozmyciem dna, obliczonych dła miarodajnej rzędnej zwierciadła wody zm. Dopuszczalne wartości stopnia rozmycia, w zależności od sposobu fundamentowania podpór, podano w tabeli 2.1."
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 2.1. Dopuszczalny stopień rozmycia P"
-    },
-    {
-     "type": "ocr",
-     "text": "Nieopływowy Półopływowy Rodzaj fundamentu podpory fundament w fundament w granicach rozmycia | granicach rozmycia Masywne fundamenty głębokie, na palach wielkośrednicowych i fundamentowanie bezpośrednio na skałach Fundamenty na palach w ściance szczelnej Fundamenty na palach bez Ścianki szczelnej - Zz"
-    },
-    {
-     "type": "ocr",
-     "text": "Fundamentowanie bezpośrednio na gruncie"
-    },
-    {
-     "type": "ocr",
-     "text": "Przyjmuje się, że głebokości po rozmyciu są proporcjonalne do pierwotnych głębokości w przekroju, a więc otrzymuje się je przez pomnożenie głębokości w przekroju nierozmytym i stopnia rozmycia P."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 65 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "2.3.1.2. Średnie prędkości wody, nie powodujące rozmycia podłoża Vy, przy głębokości strumienia równej I m, podano w tabelach 2.2 i 2.3. Tabela 2.2. Prędkości nierozmywające v,, dla gruntów niespoistych przy głębokości strumienia równej I m"
-    },
-    {
-     "type": "ocr",
-     "text": "Rodzaj gruntu"
-    },
-    {
-     "type": "ocr",
-     "text": "4 0,60 + 0,70 0.70-+ 0,85"
-    },
-    {
-     "type": "ocr",
-     "text": "Średnia średnica ziaren Prędkość (m/s) (mm)"
-    },
-    {
-     "type": "ocr",
-     "text": "0,85 = 1,05 1,05 = 1.20 [8_ |Otoczakidrobne | | 1503250 20140 [9 jotoczakiśtednie 25.0 40,00 80 10 [Otoczaki grube M jskałysłabe || 2504350 12 |Skały twarde m 850 5,00 |"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 2.3. Prędkości nierozmywające v,, (m/s) dla gruntów spoistych przy głębokości strumienia równej I m"
-    },
-    {
-     "type": "ocr",
-     "text": "Przy głębokościach różnych od lm prędkości odczytane z tabeli należy pomnożyć przez h'”, gdzie h jest głębokością cieku podaną w metrach. Dla gruntów spoistych, przy głębokościach wody większych od 3 m, prędkość nierozmywającą przyjmuje się jak dla głębokości równej 3 m. Dla niejednorodnych gruntów niespoistych za miarodajną do określenia prędkości nierozmywającej przyjmuje się średnią ważoną średnicę cząstek gruntu, obliczoną wg wzoru: dp"
-    },
-    {
-     "type": "ocr",
-     "text": "dn = LAP, [2.14] 100 gdzie: d;, — średnica frakcji i, pi — udział procentowy frakcji i. Dla gruntów o dużej nierównomierności uziarnienia, zawierających frakcje od ilastej do kamienistej, za miarodajne prędkości nierozmywające należy przyjmować prędkości odpowiadające średnicy dgom. Jest to Średnica ziaren, które wraz z mniejszymi stanowią 80% masy gruntu. 2.3.1.3. Przy przepływie nad dnem umocnionym rozmycie nie nastąpi pod warunkiem nieprzekroczenia prędkości przepływu vg podanych w tabeli 2.4."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 66 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 2.4. Prędkości dopuszczalne w korytach umocnionych vg"
-    },
-    {
-     "type": "ocr",
-     "text": "Prędkość (m/s) | |Bamiowanie | napłask MB] --damina w płotkach wiklinowych | 1.8 | ża 28] 27] 88]"
-    },
-    {
-     "type": "ocr",
-     "text": "- kamień o grubości 7,5 cm"
-    },
-    {
-     "type": "ocr",
-     "text": "- kamień o grubości 15 cm"
-    },
-    {
-     "type": "ocr",
-     "text": "- kamień o grubości 10 cm"
-    },
-    {
-     "type": "ocr",
-     "text": "| = - pojedynczy o grubości (15-25) cm na warstwie mchu 2,5 + 3,0"
-    },
-    {
-     "type": "ocr",
-     "text": "- pojedynczy z kamienia łamanego o grubości (20-25) cm na warstwie tłucznia 10 cm 3,5 — 4,0"
-    },
-    {
-     "type": "ocr",
-     "text": "1, 1,"
-    },
-    {
-     "type": "ocr",
-     "text": "- pojedynczy o grubości (15-25) cm w płotkach wiklinowych 3,0 -- 3,5"
-    },
-    {
-     "type": "ocr",
-     "text": "Materace faszynowe o grubości 50 cm"
-    },
-    {
-     "type": "ocr",
-     "text": "1"
-    },
-    {
-     "type": "ocr",
-     "text": "3"
-    },
-    {
-     "type": "ocr",
-     "text": "| 30 Koryta z okładziną: po 6,0 + 8,0 \"m"
-    },
-    {
-     "type": "ocr",
-     "text": "- z kamienia łamanego na zaprawie 5,0 + 6,0"
-    },
-    {
-     "type": "ocr",
-     "text": "- wyściółka faszynowa o grubości (15-25) cm PD - wyściółka z kiszek faszynowych o grubości (25-30) cm PD - wyściółka kamienna faszynowa"
-    },
-    {
-     "type": "ocr",
-     "text": "2 8"
-    },
-    {
-     "type": "ocr",
-     "text": "2,4 2,7 S 3,3 > kamień o grubości 20 em"
-    },
-    {
-     "type": "ocr",
-     "text": "3,5 3,0"
-    },
-    {
-     "type": "ocr",
-     "text": "„2 2,2 „3"
-    },
-    {
-     "type": "ocr",
-     "text": "2.3.2. Rozmycia dna przy filarach mostowych 2.3.2.1. Niezależnie od pogłębienia koryta cieku pod mostem, bezpośrednio przy podporach mostowych powstają rozmycia lokalne (wyboje), mające wpływ na stateczność podpór. 2.3.2.2. Głębokość rozmyć lokalnych zależy od kształtu filara, prędkości w korycie przed mostem, rodzaju gruntu i kierunku napływu wody na filar. Należy ją obliczyć z wzoru: 2 h,, = K,K,(a+K,)=-c [2.15] 8 gdzie: hy — głębokość wyboju mierzona od poziomu rozmytego dna cieku przy filarze, v — średnia prędkość wody w odpowiedniej części przekroju powyżej mostu, K, — współczynnik zależny od kształtu filara; jego wartość dla najczęściej występujących kształtów podano w tabeli 2.5."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 67 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 2.5. Schematy wybranych filarów i wartości współczynnika K,"
-    },
-    {
-     "type": "ocr",
-     "text": "Schemat filara K, | Typ Schemat filara"
-    },
-    {
-     "type": "ocr",
-     "text": "Ky— współczynnik określany z wykresu (rys.2.5.) w funkcji wyrażenia v*/(gb,), w którym:"
-    },
-    {
-     "type": "ocr",
-     "text": "b, — szerokość zastępcza filara przyjmowana (tab. 2.5): dla filarów typu A, Bi Dprzya=0 b,=b, dla filarów typu A, Bi D przy a#0 b,= l sina + bcosa, dla filarów typu D przy dowolnym a b, = b, gdzie a - kąt odchylenia osi podpory od kierunku napływu wody"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 68 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "0,6 0,5 0,4 0,3"
-    },
-    {
-     "type": "ocr",
-     "text": "0,2 0,001 0,01"
-    },
-    {
-     "type": "ocr",
-     "text": "0,05 0,1"
-    },
-    {
-     "type": "ocr",
-     "text": "0,2 0,3"
-    },
-    {
-     "type": "ocr",
-     "text": "0,4 0,6"
-    },
-    {
-     "type": "ocr",
-     "text": "0,8"
-    },
-    {
-     "type": "ocr",
-     "text": "1,0 1,5"
-    },
-    {
-     "type": "ocr",
-     "text": "2,0"
-    },
-    {
-     "type": "ocr",
-     "text": "2,5"
-    },
-    {
-     "type": "ocr",
-     "text": "3,0 4,0"
-    },
-    {
-     "type": "ocr",
-     "text": "5,0"
-    },
-    {
-     "type": "ocr",
-     "text": "6,0"
-    },
-    {
-     "type": "ocr",
-     "text": "7,0"
-    },
-    {
-     "type": "ocr",
-     "text": "8,0 | <"
-    },
-    {
-     "type": "ocr",
-     "text": "N 09"
-    },
-    {
-     "type": "ocr",
-     "text": "="
-    },
-    {
-     "type": "ocr",
-     "text": "Rys.2.5. Wartości współczynnika K> a — współczynnik uwzględniający rozkład prędkości w przekroju rzeki: dla koryta głównego a = 0,6, dla części przybrzeżnych przekroju i terenów zalewowych a = 1,0, K;z — współczynnik zależny od stosunku głębokości w korycie rozmytym do szerokości zastępczej filara h,/b,, odczytywany z nomogramu (rys. 2.6)"
-    },
-    {
-     "type": "ocr",
-     "text": "K, 1,2 1,0 0,8 0,6 0,4 | 0,2 0,0 00 05 1,0 1,5 2,0 25 3,0 3,5 40 45 50 5,5 60 65 hy bz Rys.2.6. Wartości współczynnika K3 c — wielkość zależna od rodzaju gruntu stanowiącego podłoże cieku: dla gruntów sypkich c = 30 doo, dla grunt6w spoistych c=6 Var-/ g, gdzie: doo — Średnica charakterystyczna w m, Vnr — prędkość nierozmywająca określona z tabeli 2.3"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 69 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Filar składający się z dwóch okrągłych elementów (studni, pali) ustawionych jeden za drugim należy traktować jak filar typu C (tabela 2.5). W przypadku innych kształtów filarów niż podane w tej tabeli należy przyjmować wartości współczynnika K, jak dla najbliższego schematu występującego w tabeli 2.5. lub na podstawie literatury."
-    },
-    {
-     "type": "ocr",
-     "text": "2.3.2.3. Obliczoną wg wzoru [2.15] głębokość wyboju hw należy zmniejszyć o 20% w przypadku: - rzeki o spadku doliny i < I %o i płaskich falach wezbraniowych, - przekroju mostowego poniżej zbiornika wodnego (jeziora lub zbiornika sztucznego)."
-    },
-    {
-     "type": "ocr",
-     "text": "2.3.2.4. Jeżeli kształt projektowanego filara odbiega w sposób istotny od kształtów podanych w tabeli 2.5, należy określić wielkość i zasięg rozmycia na podstawie literatury lub badań modelowych."
-    },
-    {
-     "type": "ocr",
-     "text": "2.4. Spiętrzenie przed mostem"
-    },
-    {
-     "type": "ocr",
-     "text": "2.4.1. Spiętrzenie przy nierozmytym przekroju mostowym"
-    },
-    {
-     "type": "ocr",
-     "text": "2.4.1.1. Spiętrzenie Az należy obliczać z wzoru: Az= Ko 4 ao(ve = ¥5) [2.16] 2g 2g"
-    },
-    {
-     "type": "ocr",
-     "text": "w którym: v — średnia prędkość pod mostem w przekroju nierozmytym ograniczonym miarodajną rzędną zwierciadła wody, Vo — Średnia prędkość w przekroju niezabudowanym równa Q,,/ Fo, v; — średnia prędkość powyżej mostu, po spiętrzeniu, równa Q,,/(F'>+B.Az), Qo, 00 — współczynniki Saint-Venanta odpowiednio w przekroju przed i pod mostem obliczone wg 2.4.1.3, K — współczynnik strat obliczany wg 2.4.1.2."
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość Az określa się metodą kolejnych przybliżeń, przyjmując w pierwszym przybliżeniu wartość w nawiasie równą zeru."
-    },
-    {
-     "type": "ocr",
-     "text": "Jeżeli powierzchnia przekroju cieku przed mostem z uwzględnieniem spiętrzenia Az, określonego w pierwszym przybliżeniu, nie różni się od powierzchni pierwotnej więcej niż o 5%, obliczona wartość spiętrzenia nie wymaga korekty. W przeciwnym przypadku należy obliczyć wartości Vo i vs i wprowadzić je do wzoru [2.16]."
-    },
-    {
-     "type": "ocr",
-     "text": "2.4.1.2. Współczynnik strat K oblicza się z wzoru:"
-    },
-    {
-     "type": "ocr",
-     "text": "K=K,+AK;+ AK, + AKy [2.17] w którym:"
-    },
-    {
-     "type": "ocr",
-     "text": "K,— podstawowy współczynnik strat zależny od stopnia zwężenia cieku przez przyczółki i od ich kształtu; jego wartość odczytuje się z wykresu (rys. 2.7) w zależności od wartości współczynnika"
-    },
-    {
-     "type": "ocr",
-     "text": "M = Q/Qm [2.18]"
-    },
-    {
-     "type": "ocr",
-     "text": "gdzie: Q; — przepływ w części koryta niezabudowanego odpowiadającej powierzchni przekroju mostowego brutto, Qm— przepływ miarodajny."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 70 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Jeżeli odległość między przyczółkami jest większa niż 60 m, to wartość współczynnika K, odczytuje się z krzywej | niezależnie od kształtu przyczółka. Przy odległości między przyczółkami mniejszej oraz: - przyczółkach zakończonych stożkami nasypowymi, przyczółkach o skrzydłach pionowych odchylonych o kat (30+45)°, współczynnik odczytuje się z krzywej 1, - przyczółkach o skrzydłach pionowych odchylonych o kąt 60°, współczynnik odczytuje się z krzywej 2, - przyczółkach o skrzydłach pionowych równoległych do kierunku przepływu, współczynnik odczytuje się z krzywej 3."
-    },
-    {
-     "type": "ocr",
-     "text": "2,4 23 2,0 4 0"
-    },
-    {
-     "type": "ocr",
-     "text": "1,6 h—"
-    },
-    {
-     "type": "ocr",
-     "text": "1,2"
-    },
-    {
-     "type": "ocr",
-     "text": "0,8"
-    },
-    {
-     "type": "ocr",
-     "text": "0,4"
-    },
-    {
-     "type": "ocr",
-     "text": "0"
-    },
-    {
-     "type": "ocr",
-     "text": "0,0 0,10 0,20 0,30 0,40 0,50 0,60 0,70"
-    },
-    {
-     "type": "ocr",
-     "text": "Rys.2.7. Wartości podstawowego współczynnika strat Ko"
-    },
-    {
-     "type": "ocr",
-     "text": "AK;— poprawka uwzględniająca wpływ filarów równa mAKy ; wartości m oraz AKę określa się z rys. 2.8 w zależności od kształtu filara, wartości współczynnika M oraz wyrażenia F;/Fy,, w którym Ff jest to pole powierzchni zajętej przez filary, a Fy, — pole powierzchni przekroju ograniczone ścianami przyczółków."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 71 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "AK; 0,350 0,300 0,250 0,200 0,150 0,100 0,050 0,000 0,00 0,02 0,04 0,06 0,08 0,10 0,12 0,14 0,16 Fę Rys.2.8. Wartości współczynników m i AK?’ AK, — poprawka uwzględniająca wpływ niesymetryczności zwężenia cieku; wartość jej odczytuje się z wykresu na rys. 2.9 w zależności od wartości M oraz wartości e=1- e (jeżeli Q,>Q,), lub e=1- 9 (jeżeli O, > ©) [2.19] gdzie: Q, 1 Q|— przepływy w częściach prawej i lewej koryta niezabudowanego, zamkniętych nasypami dojazdowymi."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 72 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "AK 0,18 0,16 0,14 0,12 0,10 0,08 0,06"
-    },
-    {
-     "type": "ocr",
-     "text": "Rys.2.9. Wartości współczynnika poprawkowego AK,"
-    },
-    {
-     "type": "ocr",
-     "text": "AK; — poprawka uwzględniająca wpływ ukośnego usytuowania mostu w stosunku do osi cieku; jej wartość określa się z wykresu na rys. 2.10 w zależności od wartości M i kąta skrzyżowania osi mostu z osią cieku 0."
-    },
-    {
-     "type": "ocr",
-     "text": "A T"
-    },
-    {
-     "type": "ocr",
-     "text": "4 |= 0,00 =800 - 0,10 210° - 0,20 26 - 0,30 oO - 0,40 z O - 0,50 ao - - 0,60 0,30 0,35 0,40 0,45 0,50 0,55 0,60 0,65 0,70 0,75 0,80 0,85 0,90 0,95 M"
-    },
-    {
-     "type": "ocr",
-     "text": "Rys.2.10. Wartości współczynnika poprawkowego AK,"
-    },
-    {
-     "type": "ocr",
-     "text": "2.4.1.3. Współczynnik Saint-Venanta dla przekroju przed mostem a, dla przekroju zwartego należy przyjmować równy 1,2. Dla przekroju wielodzielnego należy go obliczać z wzoru:"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 73 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "2 2 v Qo. + Voz O a, =1,1— vO, [2.20] Oznaczenia we wzorze wg 2.1.4.1. Współczynnik Saint-Venanta w przekroju pod mostem a należy przyjmować jako równy: a = 1+ M(a,-1) [2.21] 2.4.2. Spiętrzenie po wystąpieniu rozmycia dna należy obliczyć z wzoru: Az, = C, Az [2.22] w którym: Az — spiętrzenia obliczone wg 2.4.1.1, C, — współczynnik korekcyjny, zależny od stosunku pola przekroju mostowego przed rozmyciem F do pola tego przekroju po rozmyciu F,, równy: C, = (FIE, [2.23]"
-    },
-    {
-     "type": "ocr",
-     "text": "2.5. Rzędna spodu konstrukcji mostowej 2.5.1. Minimalną rzędną spodu konstrukcji zk należy wyznaczać z wzoru Zk = Zs + hy + Ah [2.24] gdzie: z, — rzędna spiętrzonej wody powyżej mostu, h,, — wysokość fali i spiętrzenia wiatrowego określonego zgodnie z 2.5.2., Ah — wolna przestrzeń określona zgodnie z odnośnymi przepisami. 2.5.2. Oddziaływanie wiatru Spiętrzenie wiatrowe oraz falowanie powierzchni wody należy uwzględniać na ujściowych odcinkach rzek wpadających do morza oraz na odcinkach rzek wpływających do lub wypływających z naturalnych lub sztucznych zbiorników wodnych. Wysokość hy; określającą całkowite oddziaływanie wiatru należy obliczać z wzoru: hum = he + 0,5 hę [2.25] gdzie: hę — wysokość spiętrzenia wiatrowego (eolicznego), hę — wysokość fali. Wysokości te zależne są od miarodajnej prędkości wiatru, głębokości wody w zbiorniku lub korycie oraz długości rozbiegu fali. Obliczenia he i hę należy wykonać wg zasad podanych w opracowaniu Centralnego Biura Studiów i Projektów Budownictwa Wodnego „Hydroprojekt” w Warszawie, pt. „Obliczanie falowania na zbiornikach - wytyczne projektowania”. Stosując powyższe wytyczne dla obiektów mostowych należy przyjmować miarodajną prędkość wiatru równą 20 m/s oraz wysokość fali o prawdopodobieństwie wystąpienia 1%, czyli hę = hig."
-    },
-    {
-     "type": "ocr",
-     "text": "2.6. Zasady projektowania wałów kierujących 2.6.1. Części wału kierującego i jego ogólny kształt Podane dalej zalecenia dotyczą sytuacji, gdy most jest budowany na prostoliniowym odcinku rzeki, a układ przepływu jest w miarę symetryczny. W innych przypadkach należy stosować zalecenia podawane w literaturze przedmiotu."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 74 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Wał kierujący (rys. 2.11.) składa się z wału górnego i wału dolnego. Obie te części zakończone są głowicami. Os wału kierującego górnego jest łukiem eliptycznym, oś wału dolnego zaś - odcinkiem łuku kołowego zakończonego odcinkiem prostym."
-    },
-    {
-     "type": "ocr",
-     "text": "głowica górna"
-    },
-    {
-     "type": "ocr",
-     "text": "ow r=0,2b a= 90 - 120°"
-    },
-    {
-     "type": "ocr",
-     "text": "a=Kb"
-    },
-    {
-     "type": "ocr",
-     "text": "a/2"
-    },
-    {
-     "type": "ocr",
-     "text": "głowica dolna"
-    },
-    {
-     "type": "ocr",
-     "text": "Rys. 2.11. Osie wałów kierujących i ich głowic"
-    },
-    {
-     "type": "ocr",
-     "text": "2.6.2. Wyznaczanie osi wału górnego Długości półosi elipsy: dużej a i małej b, wyznaczających oś wału górnego określone są w zależności od stopnia zwężenia koryta 6. - dla jednostronnego terenu zalewowego 6= Św Om - dla każdego z obustronnych terenów zalewowych 61) = dro . Qozi,p + 0,5 Qog gdzie: Q),— część przepływu miarodajnego Q,,, jaka w warunkach naturalnych przypadała na zamkniętą nasypem część terenu zalewowego (lewą lub prawą), Qoz 1.p — część przepływu miarodajnego, jaka w warunkach naturalnych przypadała na teren zalewowy (lewy lub prawy), Qog — część przepływu miarodajnego, jaka w warunkach naturalnych przypadała na koryto główne cieku. Stosunek długości dużej i małej półosi elipsy K= a/b wyznacza się wg poniższych zależności: dla 6< 0,15 K=1,50, dła0,16<0<0,25 K=1,67, dla 0,26<65<0,35 K=1,83, dla 6< 0,36 K=2,0."
-    },
-    {
-     "type": "ocr",
-     "text": "Długość krótszej półosi elipsy b określa się z wzoru: b=AB [2.26] gdzie: B — szerokość zwierciadła wody brzegowej, A — parametr zależny od stopnia zwężenia koryta 6 wg tabeli 2.6."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 75 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 2.6. Zależność parametru A od stopnia zwężenia koryta"
-    },
-    {
-     "type": "ocr",
-     "text": "Dziennik Ustaw Nr 63 — 3915 — Poz. 735"
-    },
-    {
-     "type": "ocr",
-     "text": "A"
-    },
-    {
-     "type": "ocr",
-     "text": "A"
-    },
-    {
-     "type": "ocr",
-     "text": "tereny zalewowe | tereny zalewowe tereny zalewowe | tereny zalewowe 0,481"
-    },
-    {
-     "type": "ocr",
-     "text": "Dla określonych długości krótszej półosi elipsy b, oraz wartości parametru K, współrzędne osi wału górnego x, y wyznacza się korzystając z tabeli 2.7."
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 2.7. Bezwymiarowe współrzędne osi górnego wału kierującego"
-    },
-    {
-     "type": "ocr",
-     "text": "| 0,00 | 0; ,"
-    },
-    {
-     "type": "ocr",
-     "text": "[0000 | 000 | 000 | 00 | 000 | 0.25 0.50 [095 [0438 | 060 | 0065 | 060 | 0058 | 060 | 0.088 |"
-    },
-    {
-     "type": "ocr",
-     "text": "p - [166 | 0890 | 180 | 0819 | 198 | 087 | | 16 | 100 | 1.81 | 0852 | 20 | 1000 = 25 rs8 | 1000 | 3 3] 2.6.3. Wyznaczanie osi wału dolnego Oś wału dolnego stanowi odcinek łuku kołowego o środku położonym na osi mostu i promieniu równym podwójnej wartości dużej półosi elipsy (r=2a). Promieniem tym należy zatoczyć łuk od osi drogi o kącie wewnętrznym (7+8)°, a następnie przedłużyć odcinkiem prostej stycznej tak, aby długość rzutu całego wału dolnego na kierunek prostopadły do osi drogi była równa połowie długości rzutu wału górnego (rys.2.11)."
-    },
-    {
-     "type": "ocr",
-     "text": "2.6.4. Głowice wału kierującego"
-    },
-    {
-     "type": "ocr",
-     "text": "Górna 1 dolna głowica wału kierującego stanowią zakończenia górnego i dolnego wału. Osie głowic mają kształt odcinków łuku kołowego o promieniu r=0,2b odłożonym na prostej normalnej do końcowego punktu łuku elipsy (dla wału górnego) lub do odcinka prostego (dla wału dolnego). Oś głowicy górnej stanowi łuk o kącie wewnętrznym (90+120)°, dolnej zaś łuk o kącie do 90°."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 76 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "2.6.5. Inne zalecenia projektowe:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) rzędna korony wału górnego powinna być wyższa o 0,5 m od rzędnej zwierciadła wody miarodajnej, spiętrzonej przed mostem, natomiast rzędna korony wału dolnego wyższa o 0,5 m od rzędnej zwierciadła wody miarodajnej; szerokość korony wałów powinna wynosić co najmniej I m,"
-    },
-    {
-     "type": "ocr",
-     "text": "b) ubezpieczenia skarp i konstrukcja wałów kierujących iich głowic powinny być wykonywane jak dla innych budowli regulacyjnych w zależności od ich usytuowania w korycie wielkich wód i od przewidywanych prędkości wody,"
-    },
-    {
-     "type": "ocr",
-     "text": "c) we wszystkich bardziej złożonych układach topograficznych i hydraulicznych kształty wałów kierujących i ich wymiary należy określić na podstawie hydraulicznych badań modelowych,"
-    },
-    {
-     "type": "ocr",
-     "text": "d) przyjęte rozwiązania projektowe wałów kierujących należy dowiązać do istniejących lub projektowanych wałów przeciwpowodziowych i uzgodnić z ich projektantem lub służbami eksploatacyjnymi."
-    },
-    {
-     "type": "ocr",
-     "text": "3. Obliczenia hydrauliczne przepustów i małych mostów"
-    },
-    {
-     "type": "ocr",
-     "text": "3.1. Określenia podstawowe i zasady obliczeń"
-    },
-    {
-     "type": "ocr",
-     "text": "3.1.1. Obliczenia hydrauliczne przepustów i małych mostów obejmują: - wyznaczenie wymiarów przepustu (przewodu, wlotu i wylotu) lub światła małego mostu, - określenie wysokości spiętrzenia przed budowlą, - określenie rozmyć za budowlą i dobór odpowiednich umocnień."
-    },
-    {
-     "type": "ocr",
-     "text": "3.1.2. Oznaczenia"
-    },
-    {
-     "type": "ocr",
-     "text": "a) dla cieku przed przepustem, po jego spiętrzeniu do projektowanej rzędnej: B, — szerokość zwierciadła wody, F,— pole przekroju cieku, Vo = Qm/Fo — prędkość wody dopływającej, H — wzniesienie zwierciadła nad dnem przepustu na jego wlocie, H, = H + vo /2g — wysokość energii strumienia na wlocie do przepustu,"
-    },
-    {
-     "type": "ocr",
-     "text": "b) dla przepustu: b— szerokość przewodu przepustu lub łączna szerokość przewodów przepustu wielootworowego, hy — wysokość przewodu przepustu, D — średnica przewodu przepustu o przekroju kołowym, F,— pole przekroju przewodu przepustu, L,— długość przewodu przepustu, i, — spadek dna przewodu przepustu, F — pole przekroju strumienia wody w przewodzie przepustu, v = Q,,/F — prędkość wody w przepuście, hkr — głębokość krytyczna w przepuście, i, — spadek hydrauliczny przy przepływie Qm wypełniającym cały przekrój przewodu przepustu,"
-    },
-    {
-     "type": "ocr",
-     "text": "c) dla wylotu z przepustu i wypadu: hwy, — głębokość wody na wyłocie z przewodu przepustu, Vwyl — prędkość na wylocie z przewodu przepustu, ha — wzniesienie zwierciadła wody za przepustem nad dnem wylotu przewodu,"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 77 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "B,, — szerokość wypadu, h,, — głębokość wody na wypadzie."
-    },
-    {
-     "type": "ocr",
-     "text": "3.1.3. Przepusty długie i krótkie Przepust długi jest to przepust o długości przewodu Ly = 20 hp, a przepust krótki — o długości L, < 20 h,. W obliczeniach przepustów krótkich nie uwzględnia się strat energii na długości przewodu przepustu."
-    },
-    {
-     "type": "ocr",
-     "text": "3.2. Światło przepustów i spiętrzenie przed przepustami"
-    },
-    {
-     "type": "ocr",
-     "text": "3.2.1. Tok postępowania obejmuje:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) wybranie rodzaju przepustu: kształtu przekroju przewodu i wlotu do przepustu,"
-    },
-    {
-     "type": "ocr",
-     "text": "b) ustalenie profilu podłużnego przepustu: długości, rzędnych dna na wlocie i wylocie przepustu,"
-    },
-    {
-     "type": "ocr",
-     "text": "c) dobranie schematu obliczeniowego (wg 3.2.2),"
-    },
-    {
-     "type": "ocr",
-     "text": "d) dla założonej wysokości spiętrzenia przed przepustem H, wyznaczenie minimalnych wymiarów przewodu przepustu: średnicy, szerokości lub pola przekroju,"
-    },
-    {
-     "type": "ocr",
-     "text": "e) założenie wymiarów przepustu i obliczenie rzeczywistej wysokości spiętrzenia,"
-    },
-    {
-     "type": "ocr",
-     "text": "f) sprawdzenie zgodności dobranego schematu z wynikami obliczeń, w razie potrzeby dobranie innego schematu obliczeniowego i powtórzenie obliczeń od punktu d),"
-    },
-    {
-     "type": "ocr",
-     "text": "g) obliczenie głębokości i prędkości na wylocie z przepustu,"
-    },
-    {
-     "type": "ocr",
-     "text": "h) obliczenie głębokości rozmycia za przepustem, porównanie otrzymanych wyników z wartościami dopuszczalnymi,"
-    },
-    {
-     "type": "ocr",
-     "text": "i) dobranie niezbędnych umocnień koryta za przepustem, biorąc pod uwagę głębokość rozmycia."
-    },
-    {
-     "type": "ocr",
-     "text": "Do realizacji wybiera się rozwiązanie zapewniające nieprzekroczenie dopuszczalnego spiętrzenia i prędkości oraz techniczno - ekonomicznie korzystną głębokość zakończenia umocnień."
-    },
-    {
-     "type": "ocr",
-     "text": "3.2.2. Przypadki obliczeniowe"
-    },
-    {
-     "type": "ocr",
-     "text": "3.2.2.1. Dla przepustów nizinnych, na ciekach o spadkach i < 0,02, zaleca się do stosowania następujące podstawowe i najczęściej występujące schematy hydrauliczne (rys.3.1.):"
-    },
-    {
-     "type": "ocr",
-     "text": "a) przepust o niezatopionych wlocie i wylocie (rys.3.1.a.) spełniający warunki: - niezatopienia wlotu H< 1,2 h, [3.1] - niezatopienia wylotu hy £ 1,25 hy [3.2]"
-    },
-    {
-     "type": "ocr",
-     "text": "b) przepust o zatopionym wlocie i niezatopionym wylocie prowadzący wodę niepełnym przekrojem (ze swobodnym zwierciadłem wody w przewodzie, rys. 3.1.b), spełniający warunki: - zatopienia wlotu H > 1,2 hy [3.3] - niezatopienia wylotu hy £ 1,25 Ir [3.4]"
-    },
-    {
-     "type": "ocr",
-     "text": "c) przepust o zatopionym wlocie i niezatopionym wylocie prowadzący wodę pełnym przekrojem (rys.3.1c), spełniający warunki: - zatopienia wlotu i przepływu pełnym przekrojem, co wymaga jednoczesnego: . zastosowania opływowego wlotu, - głębokości przed przepustem H > 1,4 hy, [3.5] - spadku ip < b, [3.6] - niezatopienia wylotu ha < 1,1 hy, [3.7]"
-    },
-    {
-     "type": "ocr",
-     "text": "d) przepust o zatopionych wlocie i wylocie (rys. 3.1.d) prowadzący wodę pełnym przekrojem, spełniający warunki: - zatopienia wlotu H > 1,2 h, [3.8] - zatopienia wylotu hg 2 1,1 hp [3.9]"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 78 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "a 2"
-    },
-    {
-     "type": "ocr",
-     "text": ") Vo Warunki wystąpienia 2g 1)H< 1,2h p p <1,25h,,"
-    },
-    {
-     "type": "ocr",
-     "text": "Warunki wystapienia 1)H > 1,2h, 2)hy < 1,25h,,"
-    },
-    {
-     "type": "ocr",
-     "text": "Warunki wystąpienia"
-    },
-    {
-     "type": "ocr",
-     "text": "1) wlot opływowy"
-    },
-    {
-     "type": "ocr",
-     "text": "2) H > 1,4h,"
-    },
-    {
-     "type": "ocr",
-     "text": "3) ip Się"
-    },
-    {
-     "type": "ocr",
-     "text": "4) hy Ś 1,1h,"
-    },
-    {
-     "type": "ocr",
-     "text": "c)"
-    },
-    {
-     "type": "ocr",
-     "text": "d) 5 Warunki wystąpienia Vo DH > 1,2h, CE 2)hg> Il h"
-    },
-    {
-     "type": "ocr",
-     "text": "H | Ho hp h ha hm Ip — wyl Pp"
-    },
-    {
-     "type": "ocr",
-     "text": "L | p"
-    },
-    {
-     "type": "ocr",
-     "text": "Rys.3.1. Schematy hydrauliczne przepustów"
-    },
-    {
-     "type": "ocr",
-     "text": "Przepusty: a) z niezatopionym wlotem i wylotem, b) z zatopionym wlotem, niezatopionym wylotem, przepływ niepełnym przekrojem, c) z zatopionym wlotem, niezatopionym wylotem, przepływ pełnym przekrojem, d) z zatopionym wlotem i wylotem."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 79 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Metody obliczeń dotyczące wymienionych schematów hydraulicznych można wykorzystywać także i do innych przypadków, niewiele się od nich różniących. Nie zaleca się stosowania przepustów, dla których H >1,2h, i jednocześnie ha >1,25 hy. Obliczenia takich przepustów nie są omówione w załączniku. 3.2.2.2. Przepusty na potokach, w których panuje ruch rwący, w przypadku gdy budowa ich jest dopuszczalna, projektować należy tak, aby na doprowadzeniu do nich, w samym przewodzie i na początkowym odcinku odprowadzenia za nim, zachowany był ruch rwący i wykluczona możliwość powstania odskoku hydraulicznego. Jako jedno z możliwych rozwiązań służących temu zaleca się stosowanie łącznie: - przepustu o dnie wykonanym ze spadkiem zbliżonym do spadku cieku, - bystrotoku doprowadzającego strumień do przepustu; szerokość bystrotoku nie powinna przekraczać dwukrotnej szerokości zwierciadła wody w przepuście przy przepływie miarodajnym, - długiego 1 płynnego przejścia od bystrotoku do wlotu przepustu. 3.2.3. Obliczenia przepustów o niezatopionych wlocie i wylocie (rys. 3.1.a) 3.2.3.1. Dla przepustów krótkich zależność przepływu w przepuście (zdolności przepustowej) © od wysokości energii H, strumienia spiętrzonego przed przepustem wyraża wzór: Q=m by J2g Hy [3.10] gdzie: by, — Światło przepustu prostokątnego; dla innych przepustów: F, byy = [3.11] My, hy, I Fk — głębokość krytyczna i pole przekroju strumienia przy tej głębokości, m — współczynnik wydatku z tabeli 3.1. Z wzoru [3.10] można wyznaczyć wstępnie, dla © = Op, minimalne światło przepustu by,. Wysokość linii energii spiętrzonego strumienia przed wlotem do przepustu H, wynosi: O 2/3 H. = m 3.12"
-    },
-    {
-     "type": "ocr",
-     "text": "Głębokość wody górnej należy wyznaczać drogą prób z równania: vo H=H,- — [3.13] 28 3.2.3.2. Głębokość wody Ha przed przepustem długim, o długości Ł, > 20h), wyznacza sie z wzoru: 2 H, =H, +(0,05L, —h ) 3 [3.14] P gdzie: Hy — głębokość wody przed przepustem określona jak dla przepustu krótkiego wzorami [3.12] i [3.13]. 3.2.4. Obliczanie przepustów o zatopionym wlocie, niezatopionym wylocie, częściowo wypełnionych (rys. 3.1.b)"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 80 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "3.2.4.1.Dla przepustów krótkich zależność zdolności przepustowej Q od wysokości energii Ho strumienia spiętrzonego przed przepustem wyraża wzór: Q=uF, J2g(H, -€h,) [3.15] gdzie: gw, €— współczynniki z tabeli 3.1. Wysokość energii H, spiętrzonego strumienia przy przepływie miarodajnym wynosi: 2 H, = —Śm + eh, [3.16] (u F,) 2g Wartość H wyznacza się z wzoru [3.13]. 3.2.4.2. Przepusty długie, o spadkach dna 0 < i, < iks, mogą prowadzić wodę przewodem wypełnionym wodą częściowo lub całkowicie. Dlatego przypadku zaleca się wykonanie obliczeń jak dla przepustu krótkiego wg 3.2.4.1 oraz jak dla przepustu o niezatopionym wylocie, prowadzącego wodę pełnym przekrojem wg 3.2.5. Za miarodajny należy przyjąć schemat mniej korzystny, tzn. dający mniejszą przepustowość lub większą wysokość spiętrzenia. 3.2.5. Obliczanie przepustów o zatopionym wlocie i niezatopionym wylocie, całkowicie wypełnionych wodą (rys. 3.1.c), Zależność zdolności przepustowej Q od wysokości energii H, strumienia spiętrzonego przed przepustem wyraża wzór: Q=uF,.|2g(H, + iL, - eh) [3.17] Współczynnik wydatku u należy obliczać z wzoru: 1"
-    },
-    {
-     "type": "ocr",
-     "text": "_ | SM [3.18] s | + Ów + CL gdzie: 6,, — współczynnik straty na wlocie o wartościach orientacyjnych: - dla wlotów kołnierzowych, korytarzowych, portalowych i rozchylonych 0,33, - dla wlotów podwyższonych i opływowych 0,20, - dla przewodu wysuniętego z nasypu bez konstrukcji wlotowej 0,60, CL — współczynnik strat na długości równy: CL = wom [3.19] n — współczynnik szorstkości przewodu przepustu, L, — długość obliczeniowa przepustu Ly = Ly — 3,6 ky, [3.20] R, — promień hydrauliczny, €— współczymnik z tabeli 3.1. Dla wlotu podwyższonego z rozchylonymi skrzydłami przyjmować można: u = 0,83 € =0,85. Wysokość energii H, spiętrzonego strumienia przy przepływie miarodajnym wynosi:"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 81 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "2"
-    },
-    {
-     "type": "ocr",
-     "text": "Pp Wysokość H należy wyznaczać z wzoru [3.13]. 3.2.6. Obliczanie przepustów z zatopionym wlotem i zatopionym wylotem oraz przepływem pełnym przekrojem przewodu (rys. 3.1.d). Zależność zdolności przepustowej Q od wysokości energii H, strumienia spiętrzonego przed przepustem wyraża wzór: Q=uF, 2g (H, + i,L, - hy) [3.22] gdzie: u— współczynnik wydatku wg wzoru [3.18]. Wysokość energii H, spiętrzonego strumienia o przepływie miarodajnym wynosi: QO. ; A, =h, +——-- -i Z 3.23 0 d 2g F? we pp [ l"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 3.1. Wartości współczynników m, € i u dla niektórych przepustów"
-    },
-    {
-     "type": "ocr",
-     "text": "korytarzowego, | kołnieczołowego ze | rzowego stożkami"
-    },
-    {
-     "type": "ocr",
-     "text": "ze skrzydłami ukośnymi przy kącie odchylenia"
-    },
-    {
-     "type": "ocr",
-     "text": "0082 058 \"| 061 0.64 [0.68 | |"
-    },
-    {
-     "type": "ocr",
-     "text": "| =]"
-    },
-    {
-     "type": "ocr",
-     "text": "| 065 | 0,62 | 0,66 | 0,69 | 0,70 | * Podane w tabeli wartości m dotyczą przypadku pełnego dławienia bocznego, tzn. przypadku gdy B, 2 6b. Dla przepustów z niepełnym dławieniem bocznym m wyznacza się z wzoru: 0.385— m, 5, [3.24] 3F,-2F\" °"
-    },
-    {
-     "type": "ocr",
-     "text": "M = M, +"
-    },
-    {
-     "type": "ocr",
-     "text": "gdzie: m, — wartość współczynnika m odczytana z tabeli 3.1., F, — pole przekroju wlotu przewodu przepustu przy rzędnej zwierciadła wody spiętrzonej. 3.2.7. Przepusty z przewodami o przekroju kołowym 3.2.7.1. Dla przepustów z niezatopionym wylotem (rys.3.1.a, b, cjomówionych w 3.2.3,3.2.4 i 3.2.5 wstępnego doboru średnicy przewodu przepustu D dla przepływu © = Qm można dokonać korzystając z tabeli 3.2. Podaje ona dla różnych przepływów Q i średnic D wysokości spiętrzonej wody przed przepustem H i prędkości wody w przepuście v. Tabela ta dotyczy przypadku szczególnego: - przepust krótki, o spadku dna zbliżonym do spadku krytycznego, - pełne dławienie boczne na wlocie, czyli B, 2 6b,"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 82 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "- przepust z wlotem prostopadłym, ze współczynnikami: m = 0,31, € = 0,79, u = 0,65 - pomijalnie mała prędkość dopływowa vo, czyli H, = H. Dla innych przypadków odczytane wartości mają charakter orientacyjny. 3.2.7.2. Parametry ruchu krytycznego hy, by i Fr obliczyć można korzystając z tabeli 3.3. Wartości względne tych parametrów odczytuje się w funkcji parametru pomocniczego: Q Wo = —— [3.25] D’ J eD 3.2.7.3. Dla przepustów całkowicie wypełnionych wodą (rys.3.1.c id) omówionych w 3.2.5 i 3.2.6.: - wartość współczynnika Ćw zależy od geometrii wlotu; należy ją przyjmować z literatury lub w przybliżeniu wg 3.2.5, - wartość współczynnika C, jest równa 2gn L, L= o1s7 pi [3.26] można ją również obliczyć z wzoru L ÓL=A D [3.27] przyjmując A = 0,025-+0,03 zależnie od szorstkości przewodu przepustu."
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 3.2. Orientacyjne zdolności przepustowe, głębokości spiętrzonej wody 1 prędkości przepływu dla przepustów o kołowym przekroju przewodu"
-    },
-    {
-     "type": "ocr",
-     "text": "D (m)"
-    },
-    {
-     "type": "ocr",
-     "text": "oto PE — | H(m) | v(m/s) | Hm | v(ms) | v(m/s) | H(m) | v(m/s) | | 04 | 060 | 169 | 055 | 160 | osz | 153 | 050 | 149 | | 06 | 076 | 194 | 069 | 180 | 065 | 174 | 062 | 08 | 091 | 218 | 081 | 198 | 076 | 188 | 0,72 | 12 | 132 | 269 | 108 | 230 | 0.95 | 214 | 090 | 205 |"
-    },
-    {
-     "type": "ocr",
-     "text": "| 20 | — | — | 157 | 292 | 129 | 258 | 119 | 24 | | 25 | — | = | 201 | 338 | 154 | 284 | 136 | 261 | 30 | — | — | 255 | 39 | 180 | 312 | 152 | 281 | 35 | — | = | = | = | 210 | 342 | 168 | 3,0 | 140 | — | — | — | = | 2% | 355 | 192 | 320 | 145 | — | — |] — | — | — |] 2a4 | 340 | 50 | — | = | — | — | = [| -— | 238 | 363 |"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 83 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 3.3. Parametry ruchu krytycznego w przewodach o przekroju kołowym"
-    },
-    {
-     "type": "ocr",
-     "text": "0,7956 1.2332 0.8002"
-    },
-    {
-     "type": "ocr",
-     "text": "3.3. Obliczenia stanowiska dolnego 3.3.1. Cel i zakres obliczeń Obliczenia mają na celu zaprojektowanie dolnego stanowiska budowli w sposób zapobiegający jej zniszczeniu wskutek podmycia fundamentów. Zakres analiz i obliczeń obejmuje: - wymiary i kształt wylotu, - wymiary umocnień koryta w dolnym stanowisku, - głębokość rozmyć, - zaprojektowanie umocnień koryta. 3.3.2. Głębokość i prędkość na wylocie z przewodu przepustu 3.3.2.1. Głębokości wody hy w przekroju wylotowym przewodu przepustu, potrzebne do oceny warunków przepływu za budowlą, można przyjmować wg tabeli 3.4. 3.3.2.2. Prędkości wody w przekroju wylotowym przewodu przepustu należy określać z wzoru: — Q, wm [3.28] wyl"
-    },
-    {
-     "type": "ocr",
-     "text": "gdzie: Fwy — pole przekroju strumienia na wylocie odpowiadające napełnieniu hwy. 3.3.3. Ukształtowanie wypadu Odpowiednio ukształtowany i umocniony odcinek koryta poniżej wylotu, nazywany wypadem, ma na celu rozprowadzenie przepływu na większą szerokość i zmniejszenie głębokości rozmyć koryta. Podane dalej zalecenia ograniczają się tylko do konstrukcji wypadu i nie obejmują sposobów kształtowania przejść z wypadu w koryto naturalne. Wypad wymaga umocnienia, gdy Vwy > 1,2 v„,. Prędkość nierozmywającą vy, należy przyjmować wg 2.3.1.2."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 84 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Wypad powinien być ukształtowany względem osi przewodu przepustu tak, aby strumień rozszerzał się symetrycznie z szerokości wylotu byy (rys.3.2) do szerokości koryta umocnionego By, na długości zależnej od warunków hydraulicznych w dolnym stanowisku budowli. Tabela 3.4. Głębokości w przekroju wylotowym przepustu"
-    },
-    {
-     "type": "ocr",
-     "text": "Lp. Warunki przepływu w Warunki wypływu na | Spadek dna Głębokość na przewodzie przepustu wylocie przepustu i, wylocie hwy Przepływ niepełnym prze - nie zatopiony (0,7 + 0,8) Ais krojem (o swobodnym zwier- (0,7 +1,0) h4* ciadle wody w przewodzie) zatopiony ha (0,7 = 1,0) ho* Przepływ pełnym prze- | __nie zatopiony | = | 0.85 hy | 6 | krojem (pod ciśnieniem) | zatopiony [= | h"
-    },
-    {
-     "type": "ocr",
-     "text": "gdzie: ho — głębokość w ruchu jednostajnym w przewodzie, * — za głębokość bezpieczną zaleca się przyjmować hyy = 0,7ho."
-    },
-    {
-     "type": "ocr",
-     "text": "umocnienia"
-    },
-    {
-     "type": "ocr",
-     "text": "p ¥"
-    },
-    {
-     "type": "ocr",
-     "text": "element koncowy umocnien"
-    },
-    {
-     "type": "ocr",
-     "text": "No."
-    },
-    {
-     "type": "ocr",
-     "text": "Rys.3.2. Schemat wypadu 1 jego umocnien"
-    },
-    {
-     "type": "ocr",
-     "text": "Jeśli wypad ma charakter umocnionej powierzchni, a przekrój poprzeczny koryta cieku jest bardzo mały lub koryto nie jest wykształcone, zaleca się formowanie wypadu w postaci prostokątnej powierzchni umocnionej o wymiarach w planie Ly x By. We wszystkich przypadkach, gdy koryto wypadu przechodzi w ukształtowane koryto cieku, np. rowu, zaleca się stosowanie prostoliniowego w planie rozszerzenia wypadu. Podane dalej zalecenia dotyczą przypadków, gdy uskok dna na końcu wylotu przepustu p nie"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 85 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "przekracza 0,2 m. Gdy uskok ten jest wiekszy, w obliczeniach wypadu należy uwzględnić rzeczywistą wysokość energii strumienia wody spadajacego na płytę wypadu. Kąt B odchylenia ścian wypadu od jego osi (rys.3.2) należy określać: - dla ruchu rwącego w korycie odpływowym z wzoru: 1 = arc tg | ——_______ 3.29"
-    },
-    {
-     "type": "ocr",
-     "text": "B Ę Ę Fra + aa :"
-    },
-    {
-     "type": "ocr",
-     "text": "v gdzie: Fryy = 7 _ —— liczba Froude’a w przekroju wylotowym Ś wyl - dla ruchu spokojnego w tym korycie z wykresu Serenkova na rys. 3.3 2 gdzie: Frg= i — liczba Froude’a w przekroju koryta odpływowego, za wypadem. &§"
-    },
-    {
-     "type": "ocr",
-     "text": "B"
-    },
-    {
-     "type": "ocr",
-     "text": "60"
-    },
-    {
-     "type": "ocr",
-     "text": "50"
-    },
-    {
-     "type": "ocr",
-     "text": "40"
-    },
-    {
-     "type": "ocr",
-     "text": "30"
-    },
-    {
-     "type": "ocr",
-     "text": "20"
-    },
-    {
-     "type": "ocr",
-     "text": "10"
-    },
-    {
-     "type": "ocr",
-     "text": "1 2 4 6 8 10 12 14 Fr wy Rys.3.3. Wykres Serenkova do określania kata B w stopniach Wartości hwy i vwy! należy określać zgodnie z 3.3.2.1 i 3.3.2.2, a wartość średniej głębokości wody h i prędkości va wyznaczać z warunków przepływu w korycie odpływowym przy przepływie miarodajnym. Jeśli na wylocie przepustu występuje uskok dna, to przy obliczeniach głębokość odmierza się od dna koryta lub powierzchni umocnionej. Po określeniu kąta B rozszerzenia ścian wylotu przepustu lub umocnionego koryta za małym mostem należy obliczyć długość wypadu L,,, na którym następuje całkowite rozszerzenie się strumienia: By - by L= W [3.30] 2tg B w którym za By należy podstawiać szerokość umocnień na wypadzie równą: — szerokości koryta wypadu (dno i skarpy umocnione) równej (2--3) świateł małego mostu lub (3--5) świateł przepustu,"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 86 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "— szerokości umocnionej powierzchni traktowanej jako szerokość wypadu, gdy dolina cieku jest płaska i szeroka, zatapiana w czasie przejścia przepływu miarodajnego, a koryto cieku niewykształcone lub bardzo małe. 3.3.4. Ocena warunków hydraulicznych poniżej wylotu. Warunki przepływu w dolnym stanowisku budowli kształtują się pod wpływem głębokości i prędkości przepływu w przekroju wylotu i w korycie odpływowym. Głębokość h„ w dolnym stanowisku budowli określa się jako różnicę rzędnej zwierciadła wody odpowiadającej przepływowi miarodajnemu i rzędnej dna wypadu (dna koryta poniżej wylotu). W celu ustalenia warunków hydraulicznych na wypadzie, w przypadku ruchu spokojnego w korycie odpływowym, należy porównać h„y z głębokością Ay, w przewodzie przepustu. Jeżeli hwy < hkr, to w obrębie stanowiska dolnego wystąpi odskok hydrauliczny i wymagane jest specjalne ukształtowanie odcinka koryta - wypadu. Jeżeli hwy 2 hkr, to na wylocie z przepustu odskok hydrauliczny nie wystąpi i wystarczy wtedy umocnienie dna odpowiednie dla prędkości wylotowej. W przypadku wystąpienia odskoku należy obliczyć: - głębokość sprzężoną z głębokością na wylocie:"
-    },
-    {
-     "type": "ocr",
-     "text": "h, 2"
-    },
-    {
-     "type": "ocr",
-     "text": "Py = > (| + SB. i han - J [3.31] wyl"
-    },
-    {
-     "type": "ocr",
-     "text": "wyl"
-    },
-    {
-     "type": "ocr",
-     "text": "- głębokość strumienia w ruchu rwącym, w przekroju poprzecznym na końcu rozszerzenia wypadu hy, z równania: 2 V wy =pth,, + 2 [3.32]"
-    },
-    {
-     "type": "ocr",
-     "text": "1,1 O; 2gh, By gdzie: By— szerokość umocnień na wypadzie dobrana wg 3.3.3, p — wzniesienie dna przepustu na wylocie nad poziomem płyty dna wypadu; - głębokość strumienia sprzężoną z głębokością hy z równania:"
-    },
-    {
-     "type": "ocr",
-     "text": "h 2 h=— | + gt - 1 [3.33] 2 gB, hy"
-    },
-    {
-     "type": "ocr",
-     "text": "Porównanie wartości obliczonych głębokości pozwala zakwalifikować rozpatrywaną sytuację do jednego z następujących przypadków:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) hawy £ ha — przejście z ruchu rwącego w przewodzie w ruch spokojny w korycie odbywa się w formie odskoku zatapiającego strumień w przekroju wylotowym budowli,"
-    },
-    {
-     "type": "ocr",
-     "text": "b) howy > hm 2 how — odskok powstaje na długości rozszerzającego się wypadu lub w jego końcowym przekroju,"
-    },
-    {
-     "type": "ocr",
-     "text": "c) hay > hm — odskok jest odsunięty, co oznacza, że powstaje on w korycie, poniżej rozszerzonego wypadu, gdzie: hm = ha +p — głębokość w kanale odpływowym, odpowiadająca rzędnej miarodajnej zm."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 87 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "3.3.5. Umocnienia wypadu Koryto za wylotem przepustu lub małego mostu powinno być umocnione, a długość umocnień Ly powinna spełniać następujące warunki: -Ly2Ly, gdzie Ly — długość wypadu określona wg 3.3.3., - Ly = (2+3)D lub (2+3)b; D — średnica przewodu kołowego, b — szerokość otworu prostokątnego. Typ umocnienia należy dobierać w zależności od prędkości obliczeniowej voy, której wartość zaleca się przyjmować jako równą 1,5 vwy i powinno być ono układane na filtrze odwrotnym. Zaleca się stosować na końcu umocnień pionowy lub nachylony element ochronny (rys.3.4), zagłębiony na h, 2 1,3 Ah,, gdzie: Ah, — głębokość rozmycia obliczona dla występującego w dolnym stanowisku rodzaju ruchu wg 3.3.6. 3.3.6. Głębokość rozmycia Do zaprojektowania głębokości założenia elementu zabezpieczającego na końcu umocnień potrzebna jest znajomość głębokości rozmycia koryta. Teoretyczną głębokość rozmycia należy obliczać w zależności od lokalizacji odskoku zgodnie z przypadkami podanymi w 3.3.4: - w przypadku a), gdy odskok zatapia wylot budowli: V wył Ah, = ha | —— - 1 [3.34] 4"
-    },
-    {
-     "type": "ocr",
-     "text": "- w przypadku b), gdy odskok powstaje na rozszerzającym się wypadzie: Ah, = 1,85 how — ha [3.35] - w przypadku c), gdy odskok powstaje poza wypadem: Ah, = 1,5 ha [3.36] Rzeczywistą maksymalną głębokość rozmycia oblicza się z wzoru: Ahymax = k Ah, [3.37] Współczynnik redukcyjny k należy przyjmować z przedziału (0,6+0,8), przy czym wartości mniejsze odpowiadają małym zlewniom, w których wezbrania są krótkotrwałe. Jeśli obliczona głębokość rozmyć przekracza 2 m, należy na wylocie budowli zaprojektować urządzenie do rozpraszania energii (nieckę, próg, szykany itp.) zgodnie z zasadami projektowania wypadów budowli piętrzących lub zastąpić przepust małym mostem."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 88 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Rys.3.4. Typy umocnień poniżej przepustów i małych mostów: 1 — pryzma kamieni, 2 — narzut, bruk, płyty lub inne umocnienia dna, 3 — element kończący umocnienie."
-    },
-    {
-     "type": "ocr",
-     "text": "3.4. Światło małego mostu z dnem umocnionym"
-    },
-    {
-     "type": "ocr",
-     "text": "3.4.1. Przypadki obliczeniowe"
-    },
-    {
-     "type": "ocr",
-     "text": "W korycie cieku może panować ruch rwący (podkrytyczny) lub spokojny (nadkrytyczny). Metody obliczeń podane dalej nie obejmują przypadku, gdy mały most powoduje przejście z ruchu rwącego w spokojny powyżej obiektu. Zasady rozwiązań pozwalających na uniknięcie zmiany rodzaju ruchu przed mostem podane są w p.3.2.2.2."
-    },
-    {
-     "type": "ocr",
-     "text": "Dla małego mostu zbudowanego na cieku, w którym panuje ruch spokojny, mogą wystąpić dwa przypadki różniące się sposobem obliczeń. Kryterium podziału stanowi warunek:"
-    },
-    {
-     "type": "ocr",
-     "text": "NH > hg [3.38]"
-    },
-    {
-     "type": "ocr",
-     "text": "gdzie: N— współczymnik zależny od kształtów przyczółków, dobierany z tabeli 3.5, H — głębokość wody spiętrzonej przed mostem równa różnicy rzędnej zwierciadła wody spiętrzonej z, i rzędnej umocnionego dna pod mostem, ha — głębokość wody poniżej mostu równa różnicy rzędnej zwierciadła wody i rzędnej umocnionego dna pod mostem."
-    },
-    {
-     "type": "ocr",
-     "text": "Jeżeli warunek [3.38] jest spełniony, wytwarza się spiętrzenie przed mostem, głębokość pod mostem maleje do głębokości krytycznej, a za mostem powstaje niebezpieczeństwo silnych rozmyć związanych z przejściem do ruchu spokojnego."
-    },
-    {
-     "type": "ocr",
-     "text": "Jeżeli warunek [3.38] nie jest spełniony, przepływ w przekroju mostowym nie zmienia charakteru (ruch spokojny pozostaje spokojnym, a rwący - rwącym)."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 89 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "3.4.2. Wyznaczanie minimalnego światła mostu dla założonego spiętrzenia przed mostem Po ustaleniu wysokości wzniesienia spiętrzonej wody nad umocnionym dnem pod mostem H, należy obliczyć prędkość w przekroju przed mostem po spiętrzeniu v, oraz wysokość energii przed mostem H, =H + vę/2ę. Dla wybranego rodzaju przyczółków należy dobrać z tabeli 3.5 wartość współczynnika N i sprawdzić warunek [3.38]. Jeżeli jest on spełniony, to minimalne światło mostu Z należy obliczać ze wzoru:"
-    },
-    {
-     "type": "ocr",
-     "text": "m.J2gH;y\" Jeżeli warunek [3.38] nie jest spełniony, to minimalne światło mostu Z jest równe: Qn [3.40] L — uh, |2g(H, ~hy) Wartości współczynników m i u dobiera się z tabeli 3.5. 3.4.3. Wyznaczanie minimalnego światła mostu dla założonej prędkości pod mostem. Prędkość dopuszczalną pod mostem v dobiera się w zależności od odporności podłoża na rozmycia (vy, wg 2.3.1.2.) lub zastosowanych umocnień (va wg 2.3.1.3.). Dla przypadku spełnienia warunku [3.38] minimalne światło mostu należy obliczać z wzoru: p= —S2n_ [3.41] 2,6 mow Jeżeli warunek [3.38] nie jest spełniony, to minimalne światło mostu równe jest: Qn [3.42] 7 uv (H, —v /2g) H, we wzorze [3.42] oblicza sie wstępnie dla warunków przepływu bez spiętrzenia. Przed przyjęciem światła mostu nie jest możliwe określenie wartości H, i H, zatem warunek [3.38] nie może być więc sprawdzony. Należy więc obliczyć L wzorem [3.41], następnie określić H dla tego przypadku i sprawdzić warunek [3.38]. Jeżeli warunek ten nie jest spełniony, obliczenia należy wykonać wzorem [3.42]. 3.4.4. Obliczanie głębokości wody spiętrzonej H przed mostem o przyjętym świetle Z Jeżeli warunek [3.38] jest spełniony, to: (2 v. mL „J2g 2g Ze względu na zależność v, od głębokości H, obliczenie należy prowadzić metodą iteracyjną, przyjmując w pierwszym przybliżeniu v; równe prędkości w przekroju bez spiętrzenia vy."
-    },
-    {
-     "type": "ocr",
-     "text": "[3.43]"
-    },
-    {
-     "type": "ocr",
-     "text": "Prędkość przepływu w przekroju mostowym należy obliczać z wzoru: pa Bn [3.44] KLH gdzie: k— współczynnik dobrany z tabeli 3.5. Jeżeli warunek [3.38] nie jest spełniony, spiętrzenie przed mostem jest niewielkie i może być określone wg 2.4."
-    },
-    {
-     "type": "text",
-     "text": "Załącznik nr 2"
-    },
-    {
-     "type": "note",
-     "text": "[Na stronie 90 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "KLASY OBCIĄŻEŃ TABOREM SAMOCHODOWYM OBIEKTÓW INŻYNIERSKICH"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Obliczenia hydrauliczne mostów",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.1. Zasady obliczeń"
+      },
+      {
+       "type": "text",
+       "text": "2.1.1. Obliczenia hydrauliczne mostów obejmują: - wyznaczenie minimalnego światła mostu, - określenie spodziewanego pogłębienia koryta w przekroju mostowym, - określenie rozmyć lokalnych przy filarach, - określenie wysokości spiętrzenia przed mostem."
+      },
+      {
+       "type": "text",
+       "text": "2.1.2. Minimalne światło mostu należy wyznaczać z warunku dopuszczalnych rozmyć w przekroju mostowym. Jeżeli nie jest przewidywane rozmycie (pogłębienie) koryta, prędkość w przekroju mostowym nie może przekraczać prędkości nierozmywających, natomiast w przypadku dopuszczalnego pogłębienia koryta obliczenia opierają się na warunku zrównania ilości transportowanego rumowiska w przekroju niezabudowanym i w przekroju mostowym."
+      },
+      {
+       "type": "text",
+       "text": "Podstawową zależnością stosowaną w załączniku, wiążącą parametry dwóch przekrojów (1 i 2) ze względu na wyrównanie zdolności transportowej, jest wzór:"
+      },
+      {
+       "type": "text",
+       "text": "B, \\Q"
+      },
+      {
+       "type": "text",
+       "text": "gdzie B — szerokość koryta, h — jego głębokość,"
+      },
+      {
+       "type": "text",
+       "text": "2.1.3. Schematyzacja przekroju mostowego:"
+      },
+      {
+       "type": "text",
+       "text": "h,"
+      },
+      {
+       "type": "text",
+       "text": "Q — przepływ w korycie."
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/lit_a",
+       "text": "do obliczeń należy przyjąć rzędną zwierciadła wody w przekroju mostowym równą rzędnej miarodajnej zm,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/lit_b",
+       "text": "w przypadku przekroju mostowego, obejmującego koryto główne oraz część terenów zalewowych, na których nie występuje znaczący ruch rumowiska, do obliczeń pogłębienia koryta należy stosować schemat przekroju dwuczęściowego złożonego z części: głównej i",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 59 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "zalewowej, obejmującej oba tarasy łącznie; dla każdej z tych części określa się głębokość średnią i prędkość Średnią,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/lit_c",
+       "text": "we wszystkich innych przypadkach należy określać głębokość średnią i prędkość średnią dla całego przekroju mostowego.",
+       "children": [
+        {
+         "type": "text",
+         "text": "2.1.4. Podstawowe oznaczenia"
+        },
+        {
+         "type": "text",
+         "text": "2.1.4.1. Przekrój niezabudowany, przekrój powyżej mostu"
+        },
+        {
+         "type": "text",
+         "text": "Przy określaniu parametrów koryta niezabudowanego używa się podziału na koryta o przekroju „wielodzielnym” i „zwartym”. Schemat przekroju wielodzielnego należy stosować w przypadku, gdy intensywny ruch rumowiska odbywa się wyłącznie korytem głównym, a na terenach zalewowych występują tylko lokalne rozmycia i odkłady materiału niesionego przez rzekę. W pozostałych przypadkach należy stosować schemat przekroju zwartego."
+        },
+        {
+         "type": "text",
+         "text": "Dla przekroju wielodzielnego (rys. 2.1) stosuje się oznaczenia:"
+        },
+        {
+         "type": "text",
+         "text": "Fs — pole przekroju poprzecznego koryta głównego, Foz = Foz + Fozp — pole przekroju poprzecznego koryta nad obu tarasami zalewowymi, Bog — szerokość zwierciadła wody w korycie głównym, Boz = Bon + Bozp — szerokość zwierciadła wody na obu tarasach zalewowych, hog = Fog/ Bog — Średnia głębokość w korycie głównym, Nox = Foz/ Boz — Średnia głębokość na terenach zalewowych, Qos — przepływ w korycie głównym, Qoz > Qm — Qos — przepływ po terenach zalewowych, Vog = Qog/Fog — średnia prędkość w korycie głównym, Voz = Qoz/F oz — Średnia prędkość na terenach zalewowych,"
+        },
+        {
+         "type": "text",
+         "text": "Rys.2.1. Przekrój wielodzielny powyżej mostu"
+        },
+        {
+         "type": "text",
+         "text": "Do oznaczenia elementów hydraulicznych przekroju zwartego lub całego przekroju wielodzielnego używa się symboli z pojedynczym indeksem Fy, Bo, ho, Qo= Om Vo."
+        },
+        {
+         "type": "text",
+         "text": "2.1.4.2. Zabudowany przekrój mostowy"
+        },
+        {
+         "type": "text",
+         "text": "W obliczeniach zabudowanego przekroju mostowego wyróżnia się dwa schematy zależnie od stosowanego schematu obliczeniowego. Schemat „dwuczęściowy” dotyczy przypadku, gdy pod mostem, w części przekroju, nazwanej główną, odbywa się transport rumowiska, natomiast w częściach bocznych dno jest nierozmywalne lub mogą powstać tylko rozmycia lokalne wywołane przekroczeniem prędkości nierozmywających. Schemat ten należy stosować tylko wtedy, gdy koryto niezabudowane jest korytem wielodzielnym. We wszystkich innych przypadkach należy stosować schemat „jednoczęściowy”."
+        },
+        {
+         "type": "note",
+         "text": "[Strona 60 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Dla przekroju dwuczęściowego (rys.2.2) przed wystąpieniem rozmyć stosuje się oznaczenia: F, — pole części przekroju mostowego, w której odbywa się znaczny ruch rumowiska, F, =F, + Fy, — pole części przekroju mostowego, w której nie ma ruchu rumowiska, L, — światło mostu w części Fy przekroju mostowego, L, = Lz + Ly, — Światło mostu w części F, przekroju mostowego, hg = Fs/Ls — średnia głębokość w części Fy przekroju, h, = F,/L, — średnia głębokość w części F, przekroju, Q; — przepływ w części F, przekroju, Q,, — przepływ w części F, przekroju, Vg = Q,/F, — średnia prędkość w części F; przekroju, vz = Q,/F, — Średnia prędkość w części F, przekroju."
+        },
+        {
+         "type": "text",
+         "text": "L =L brutto — (Suma szerokości filarów)"
+        },
+        {
+         "type": "text",
+         "text": "Rys.2.2. Zabudowany przekrój dwuczęściowy"
+        },
+        {
+         "type": "text",
+         "text": "Dla przekroju jednoczęściowego używa się symboli F, L, h,v bez indeksów."
+        },
+        {
+         "type": "text",
+         "text": "2.1.4.3. Rzędne charakterystyczne (rys. 2.3): Zm —— miarodajna rzędna zwierciadła wody w niezabudowanym przekroju mostowym, odpowiadająca przepływowi miarodajnemu Qn, zs — rzędna spiętrzonego zwierciadła wody powyżej zabudowanego przekroju mostowego, przy przepływie miarodajnym, Az = Zs — Zm — spiętrzenie wywołane przez most."
+        },
+        {
+         "type": "text",
+         "text": "Rys.2.3. Rzędne i głębokości charakterystyczne"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 61 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "2.2. Światło mostu 2.2.1. Tok obliczeń Światło mostu należy ustalać drogą prób, polegających na określeniu światła minimalnego, założeniu położenia przyczółków, filarów i ich wymiarów, na obliczeniu przewidywanych rozmyć i spiętrzenia, a następnie ich porównaniu z warunkami określonymi w rozporządzeniu oraz wynikającymi z uzgodnień. 2.2.2. Przypadki obliczeniowe 2.2.2.1. Ruch w korycie niezabudowanym, przy przepływie miarodajnym, jest ruchem spokojnym. Ze względu na różnice w sposobie obliczeń wyróżnia się następujące przypadki:"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/lit_a",
+       "text": "dno w przekroju mostowym jest rozmywalne, ruch rumowiska odbywa się w całej szerokości tego przekroju,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/lit_b",
+       "text": "dno w przekroju mostowym jest rozmywalne, ruch rumowiska odbywa się tylko na części tego przekroju (na ogół korytem głównym),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/lit_c",
+       "text": "dno w przekroju mostowym jest nierozmywalne, ruch rumowiska odbywa się nad tym dnem, bez jego naruszenia. 2.2.2.2. Ruch w korycie niezabudowanym, przy przepływie miarodajnym, jest ruchem rwącym. Zaleca się doprowadzenie przepływu do przeprawy i przeprowadzenie go pod mostem uregulowanym korytem, bez jego zwężenia konstrukcją mostu. Podane dalej zasady obliczeń nie dotyczą tego przypadku. 2.2.3. Obliczenia dla przekroju mostowego z dnem rozmywalnym i ruchem rumowiska na całej szerokości przekroju 2.2.3.1. Wymiarowania światła mostu należy dokonać ze względu na przewidywane pogłębienie dna, wyznaczone z warunku zachowania ciągłości ruchu rumowiska w cieku. Wyjściowymi wielkościami do obliczeń w przypadku ogólnym są: Qos, Bog, Nog, Vog. Jeżeli ruch rumowiska odbywa się całym przekrojem niezabudowanym, to w obliczeniach stosuje się parametry dla całego przekroju: Qog = Om Bog = Bo,",
+       "children": [
+        {
+         "type": "text",
+         "text": "Nog = ho, Vog = Vo- 2.2.3.2. Określenie minimalnego Światła mostu L polega na założeniu stopnia rozmycia P zgodnie z 2.3.1.1 i obliczeniu: L= Bog [2 pv? [2.2] og Przyjmuje się rozmycie koryta proporcjonalnie do pierwotnych głębokości. Jeśli w przekroju mostowym, powyżej linii przewidywanego rozmycia, leżą warstwy trudno rozmywalne, dla których prędkości nierozmywające Vp; (zob. 2.3.1.2) są większe od prędkości w przekroju zabudowanym, należy uznać, że rozmycia nastąpią tylko do tych warstw. 2.2.3.3. Stopień rozmycia koryta pod mostem o założonym świetle £ należy obliczać z wzoru: —2/3 8/9 p-|2] [2a 2.3] Bog"
+        },
+        {
+         "type": "text",
+         "text": "Ov."
+        },
+        {
+         "type": "note",
+         "text": "[Strona 62 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "2.2.4. Obliczenia dla przekroju mostowego z dnem rozmywalnym i ruchem rumowiska w części przekroju 2.2.4.1. Przekrój mostowy dzieli się na część główną o świetle L, usytuowaną w części koryta, w której odbywa się ruch rumowiska, poszerzonej ewentualnymi wcięciami, oraz na części boczne o łącznym świetle Ł,, w których nie występuje znaczący ruch rumowiska. Rozmycia dla części głównej przekroju należy obliczać z warunku zachowania ciągłości ruchu rumowiska. W częściach bocznych ewentualne rozmycia należy określać, porównując powstałe tam prędkości z prędkościami nierozmywającymi. 2.2.4.2. Określenie minimalnego Światła mostu L polega na obliczeniu przepływu przypadającego na część główną przekroju o Świetle Zs, przy jego rozmyciu w stopniu P określonym zgodnie z 2.3.1.1, a następnie doborze światła L, koniecznego dla przepuszczenia pozostałej części przepływu. Tok postępowania jest następujący:"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/lit_a",
+       "text": "określenie światła Ly w głównej części koryta,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/lit_b",
+       "text": "obliczenie przepływu przez część przekroju o świetle Ls Q, =Q, ta L,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "og"
+      },
+      {
+       "type": "text",
+       "text": "3/4 pers [2.4]"
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/lit_c",
+       "text": "obliczenie przepływu przez część przekroju o świetle L, O, = Qm- Os",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_2/lit_d",
+       "text": "obliczenie wartości współczynnika:",
+       "children": [
+        {
+         "type": "text",
+         "text": "[2.5]"
+        },
+        {
+         "type": "text",
+         "text": "Vou — Moe f= = [2.6] 7 ve +0,92iB, gdzie: g — przyspieszenie ziemskie, i — spadek cieku, B, = By —Ły, przy jednostronnym tarasie zalewowym, B, =0,5 (Bo — Ler) przy symetrycznych terenach zalewowych; dla niesymetrycznych terenów zalewowych należy przyjmować pośrednie wartości Bj. Ly: — szerokość przekroju mostowego między przyczółkami."
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_2/lit_e",
+       "text": "obliczenie wartości przepływu Qo»x przypadającego w korycie niezabudowanym na szerokość światła mostu L, brutto (rys.2.4): Own = LL [2.7] Vt SQ, FO) — JF",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 63 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Światło mostu brutto"
+        },
+        {
+         "type": "text",
+         "text": "Qoz lewy"
+        },
+        {
+         "type": "text",
+         "text": "Lewy teren zalewowy główne teren zalewowy"
+        },
+        {
+         "type": "text",
+         "text": "Qoz = Qox lewy + Qoz prawy Qozx = Qozx lewy + Qozx prawy Rys.2.4. Podział przepływu w przekroju niezabudowanym"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_2/lit_f",
+       "text": "określenie położenia przyczółków w przekroju mostowym. 2.2.4.3. Określenie pogłębienia w przekroju mostowym dla założonych Świateł mostu w obu częściach koryta L, i Ł, polega na:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/lit_a",
+       "text": "wyznaczeniu przepływu Qozx przypadającego w korycie nie zabudowanym na część objętą światłem L, wraz z szerokością filarów ustawionych w tej części przekroju,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/lit_b",
+       "text": "określeniu współczynników:",
+       "children": [
+        {
+         "type": "text",
+         "text": "[2.8]"
+        },
+        {
+         "type": "text",
+         "text": "oraz współczynnika fz wzoru [2.6],"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/lit_c",
+       "text": "wyznaczeniu wartości B, = Q o» /Qosg jako pierwiastka równania kwadratowego: Q/B; -1- 1)B, +20+ /)B,B, + f — A+ f)B5=0 [2.9]",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_2/lit_d",
+       "text": "obliczeniu przepływów Q, = B,Qos i Qs = Om — Q:,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_2/lit_e",
+       "text": "obliczeniu średniej głębokości po rozmyciu w korycie głównym z wzoru: L —2/3 Q 8/9 „|>| (2 [2.10] Bou Oss",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_2/lit_f",
+       "text": "obliczeniu średniej głębokości po rozmyciu na terenie zalewowym z wzoru: h, =e [2.11] mw LV",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 64 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "gdzie vp, — prędkość nierozmywająca określona wg 2.3.1.2."
+        },
+        {
+         "type": "text",
+         "text": "2.2.5. Obliczenia dla przekroju mostowego z dnem nierozmywalnym"
+        },
+        {
+         "type": "text",
+         "text": "2.2.5.1. Dno w przekroju mostowym nie ulegnie pogłębieniu, jeżeli średnia prędkość w tym przekroju będzie nie większa: - dla naturalnego podłoża — od prędkości nierozmywającej v,, określonej wg 2.3.1.2, - dla podłoża umocnionego -— od prędkości dopuszczalnych vg określonych wg 2.3.1.3."
+        },
+        {
+         "type": "text",
+         "text": "2.2.5.2. Minimalne światło mostu należy określać z wzoru:"
+        },
+        {
+         "type": "text",
+         "text": "L — Q, uhv gdzie: h— średnia głębokość w przekroju mostowym, vy — założona średnia prędkość przepływu, nie większa niż:"
+        },
+        {
+         "type": "text",
+         "text": "[2.12]"
+        },
+        {
+         "type": "text",
+         "text": "- prędkość krytyczna Vp, = Jgh , - najmniejsza w przekroju prędkość nierozmywająca Vp; lub dopuszczalna vg, | — współczynnik, który należy przyjmować: dla mostów jednoprzęsłowych z tabeli 3.5, dla filarów zaokrąglonych od strony napływu wody p= 0,78 + 0,021 VL, dla filarów zaostrzonych od strony napływu wody L= 0,85 + 0,014VL , (we wzorach tych L wyrażone jest w metrach), jeżeli światło mostu Z jest większe niż 100 m, przyjmuje się u = 0,99, dla mostów o świetle mniejszym niż 30 m, gdy miarodajnemu przepływowi towarzyszy spływ lodów, zaleca się zmniejszyć obliczoną wartość po 0,05. 2.2.5.3. Średnią prędkość przepływu, dla założonego światła L należy obliczać z wzoru: ve Cn [2.13] u"
+        },
+        {
+         "type": "text",
+         "text": "2.3. Rozmycia dna"
+        },
+        {
+         "type": "text",
+         "text": "2.3.1. Pogłębienie dna w przekroju mostowym"
+        },
+        {
+         "type": "text",
+         "text": "2.3.1.1. Wielkość pogłębienia dna wyraża się przez stopień rozmycia przekroju mostowego P. Jest to stosunek średnich głębokości po rozmyciu i przed rozmyciem dna, obliczonych dła miarodajnej rzędnej zwierciadła wody zm. Dopuszczalne wartości stopnia rozmycia, w zależności od sposobu fundamentowania podpór, podano w tabeli 2.1."
+        },
+        {
+         "type": "text",
+         "text": "Tabela 2.1. Dopuszczalny stopień rozmycia P"
+        },
+        {
+         "type": "text",
+         "text": "Nieopływowy Półopływowy Rodzaj fundamentu podpory fundament w fundament w granicach rozmycia | granicach rozmycia Masywne fundamenty głębokie, na palach wielkośrednicowych i fundamentowanie bezpośrednio na skałach Fundamenty na palach w ściance szczelnej Fundamenty na palach bez Ścianki szczelnej - Zz"
+        },
+        {
+         "type": "text",
+         "text": "Fundamentowanie bezpośrednio na gruncie"
+        },
+        {
+         "type": "text",
+         "text": "Przyjmuje się, że głębokości po rozmyciu są proporcjonalne do pierwotnych głębokości w przekroju, a więc otrzymuje się je przez pomnożenie głębokości w przekroju nierozmytym i stopnia rozmycia P."
+        },
+        {
+         "type": "note",
+         "text": "[Strona 65 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "2.3.1.2. Średnie prędkości wody, nie powodujące strumienia równej I m, podano w tabelach 2.2 i 2.3."
+        },
+        {
+         "type": "text",
+         "text": "rozmycia podłoża Vy, przy głębokości"
+        },
+        {
+         "type": "text",
+         "text": "Tabela 2.2. Prędkości nierozmywające v,, dla gruntów niespoistych przy głębokości strumienia równej I m Średnia średnica ziaren Prędkość (m/s) Rodzaj gruntu (mm)"
+        },
+        {
+         "type": "text",
+         "text": "4"
+        },
+        {
+         "type": "text",
+         "text": "0,60 + 0,70 0.70-+ 0,85 0,85 = 1,05 1,05 = 1.20 [8_ |Otoczakidrobne | | 1503250 20140 [9 jotoczakiśtednie 25.0 40,00 80 10 [Otoczaki grube M jskałysłabe || 2504350 12 |Skały twarde m 850 5,00 |"
+        },
+        {
+         "type": "text",
+         "text": "Tabela 2.3. Prędkości nierozmywające v,, (m/s) dla gruntów spoistych przy głębokości strumienia równej I m"
+        },
+        {
+         "type": "text",
+         "text": "Przy głębokościach różnych od lm prędkości odczytane z tabeli należy pomnożyć przez h'”, gdzie h jest głębokością cieku podaną w metrach. Dla gruntów spoistych, przy głębokościach wody większych od 3 m, prędkość nierozmywającą przyjmuje się jak dla głębokości równej 3 m. Dla niejednorodnych gruntów niespoistych za miarodajną do określenia prędkości nierozmywającej przyjmuje się średnią ważoną średnicę cząstek gruntu, obliczoną wg wzoru: dn = LAP, dp 100 gdzie: d;, — średnica frakcji i, pi — udział procentowy frakcji i."
+        },
+        {
+         "type": "text",
+         "text": "[2.14]"
+        },
+        {
+         "type": "text",
+         "text": "Dla gruntów o dużej nierównomierności uziarnienia, zawierających frakcje od ilastej do kamienistej, za miarodajne prędkości nierozmywające należy przyjmować prędkości odpowiadające średnicy dgom. Jest to Średnica ziaren, które wraz z mniejszymi stanowią 80% masy gruntu. 2.3.1.3. Przy przepływie nad dnem umocnionym rozmycie nie nastąpi pod warunkiem nieprzekroczenia prędkości przepływu vg podanych w tabeli 2.4."
+        },
+        {
+         "type": "note",
+         "text": "[Strona 66 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Tabela 2.4. Prędkości dopuszczalne w korytach umocnionych vg"
+        },
+        {
+         "type": "text",
+         "text": "Prędkość (m/s) | |Bamiowanie | napłask MB] --damina w płotkach wiklinowych | 1.8 | ża 28] 27] 88]"
+        },
+        {
+         "type": "text",
+         "text": "- kamień o grubości 7,5 cm"
+        },
+        {
+         "type": "text",
+         "text": "- kamień o grubości 15 cm"
+        },
+        {
+         "type": "text",
+         "text": "- kamień o grubości 10 cm"
+        },
+        {
+         "type": "text",
+         "text": "| = - pojedynczy o grubości (15-25) cm na warstwie mchu 2,5 + 3,0"
+        },
+        {
+         "type": "text",
+         "text": "- pojedynczy z kamienia łamanego o grubości (20-25) cm na warstwie tłucznia 10 cm 3,5 — 4,0"
+        },
+        {
+         "type": "text",
+         "text": "1, 1,"
+        },
+        {
+         "type": "text",
+         "text": "- pojedynczy o grubości (15-25) cm w płotkach wiklinowych 3,0 -- 3,5"
+        },
+        {
+         "type": "text",
+         "text": "Materace faszynowe o grubości 50 cm"
+        },
+        {
+         "type": "text",
+         "text": "1"
+        },
+        {
+         "type": "text",
+         "text": "3"
+        },
+        {
+         "type": "text",
+         "text": "| 30 Koryta z okładziną: po 6,0 + 8,0 \"m"
+        },
+        {
+         "type": "text",
+         "text": "- z kamienia łamanego na zaprawie 5,0 + 6,0"
+        },
+        {
+         "type": "text",
+         "text": "- wyściółka faszynowa o grubości (15-25) cm PD - wyściółka z kiszek faszynowych o grubości (25-30) cm PD - wyściółka kamienna faszynowa"
+        },
+        {
+         "type": "text",
+         "text": "2 8"
+        },
+        {
+         "type": "text",
+         "text": "2,4 2,7 S 3,3 > kamień o grubości 20 em"
+        },
+        {
+         "type": "text",
+         "text": "3,5 3,0"
+        },
+        {
+         "type": "text",
+         "text": "„2 2,2 „3",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2.3.2. Rozmycia dna przy filarach mostowych 2.3.2.1. Niezależnie od pogłębienia koryta cieku pod mostem, bezpośrednio przy podporach mostowych powstają rozmycia lokalne (wyboje), mające wpływ na stateczność podpór. 2.3.2.2. Głębokość rozmyć lokalnych zależy od kształtu filara, prędkości w korycie przed mostem, rodzaju gruntu i kierunku napływu wody na filar. Należy ją obliczyć z wzoru: 2 h,, = K,K,(a+K,)=-c [2.15] 8 gdzie: hy — głębokość wyboju mierzona od poziomu rozmytego dna cieku przy filarze, v — średnia prędkość wody w odpowiedniej części przekroju powyżej mostu, K, — współczynnik zależny od kształtu filara; jego wartość dla najczęściej występujących kształtów podano w tabeli 2.5.",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 67 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Tabela 2.5. Schematy wybranych filarów i wartości współczynnika K,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Schemat filara K, | Typ Schemat filara",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Ky— współczynnik określany z wykresu (rys.2.5.) w funkcji wyrażenia v*/(gb,), w którym:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b, — szerokość zastępcza filara przyjmowana (tab. 2.5): dla filarów typu A, Bi Dprzya=0 b,=b, dla filarów typu A, Bi D przy a#0 b,= l sina + bcosa, dla filarów typu D przy dowolnym a b, = b, gdzie a - kąt odchylenia osi podpory od kierunku napływu wody",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 68 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "0,6 0,5 0,4",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "0,3",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "0,2 0,001 0,05 0,01 0,2",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "0,4 0,1",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "0,3",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "N 1,0 0,6",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "0,8",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1,5",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2,0",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2,5",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3,0 4,0",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5,0",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6,0",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "7,0",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "8,0 | < = 09",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rys.2.5. Wartości współczynnika K> a — współczynnik uwzględniający rozkład prędkości w przekroju rzeki: dla koryta głównego a = 0,6, dla części przybrzeżnych przekroju i terenów zalewowych a = 1,0, K;z — współczynnik zależny od stosunku głębokości w korycie rozmytym do szerokości zastępczej filara h,/b,, odczytywany z nomogramu (rys. 2.6)",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "K, 1,2 1,0 0,8 0,6 0,4 | 0,2 0,0 00 05 1,0 1,5 2,0 25",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3,0 3,5 40 45 50 5,5 60 65 hy bz Rys.2.6. Wartości współczynnika K3 c — wielkość zależna od rodzaju gruntu stanowiącego podłoże cieku: dla gruntów sypkich dla grunt6w spoistych c = 30 doo, c=6 Var-/ g, gdzie: doo — Średnica charakterystyczna w m, Vnr — prędkość nierozmywająca określona z tabeli 2.3",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 69 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Filar składający się z dwóch okrągłych elementów (studni, pali) ustawionych jeden za drugim należy traktować jak filar typu C (tabela 2.5). W przypadku innych kształtów filarów niż podane w tej tabeli należy przyjmować wartości współczynnika K, jak dla najbliższego schematu występującego w tabeli 2.5. lub na podstawie literatury.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2.3.2.3. Obliczoną wg wzoru [2.15] głębokość wyboju hw należy zmniejszyć o 20% w przypadku: - rzeki o spadku doliny i < I %o i płaskich falach wezbraniowych, - przekroju mostowego poniżej zbiornika wodnego (jeziora lub zbiornika sztucznego).",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2.3.2.4. Jeżeli kształt projektowanego filara odbiega w sposób istotny od kształtów podanych w tabeli 2.5, należy określić wielkość i zasięg rozmycia na podstawie literatury lub badań modelowych.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2.4. Spiętrzenie przed mostem",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2.4.1. Spiętrzenie przy nierozmytym przekroju mostowym",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2.4.1.1. Spiętrzenie Az należy obliczać z wzoru: Az= Ko 4 ao(ve = ¥5) [2.16] 2g 2g",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "w którym: v — średnia prędkość pod mostem w przekroju nierozmytym ograniczonym miarodajną rzędną zwierciadła wody, Vo — Średnia prędkość w przekroju niezabudowanym równa Q,,/ Fo, v; — średnia prędkość powyżej mostu, po spiętrzeniu, równa Q,,/(F'>+B.Az), Qo, 00 — współczynniki Saint-Venanta odpowiednio w przekroju przed i pod mostem obliczone wg 2.4.1.3, K — współczynnik strat obliczany wg 2.4.1.2.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Wartość Az określa się metodą kolejnych przybliżeń, przyjmując w pierwszym przybliżeniu wartość w nawiasie równą zeru.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Jeżeli powierzchnia przekroju cieku przed mostem z uwzględnieniem spiętrzenia Az, określonego w pierwszym przybliżeniu, nie różni się od powierzchni pierwotnej więcej niż o 5%, obliczona wartość spiętrzenia nie wymaga korekty. W przeciwnym przypadku należy obliczyć wartości Vo i vs i wprowadzić je do wzoru [2.16].",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2.4.1.2. Współczynnik strat K oblicza się z wzoru:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "K=K,+AK;+ AK, + AKy [2.17] w którym:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "K,— podstawowy współczynnik strat zależny od stopnia zwężenia cieku przez przyczółki i od ich kształtu; jego wartość odczytuje się z wykresu (rys. 2.7) w zależności od wartości współczynnika",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "M = Q/Qm [2.18]",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "gdzie: Q; — przepływ w części koryta niezabudowanego odpowiadającej powierzchni przekroju mostowego brutto, Qm— przepływ miarodajny.",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 70 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Jeżeli odległość między przyczółkami jest większa niż 60 m, to wartość współczynnika K, odczytuje się z krzywej | niezależnie od kształtu przyczółka. Przy odległości między przyczółkami mniejszej oraz: - przyczółkach zakończonych stożkami nasypowymi, przyczółkach o skrzydłach pionowych odchylonych o kat (30+45)°, współczynnik odczytuje się z krzywej 1, - przyczółkach o skrzydłach pionowych odchylonych o kąt 60°, współczynnik odczytuje się z krzywej 2, - przyczółkach o skrzydłach pionowych równoległych do kierunku przepływu, współczynnik odczytuje się z krzywej 3.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2,4 23 2,0 4 0",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1,6 h—",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1,2",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "0,8",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "0,4",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "0",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "0,0 0,10 0,20 0,30 0,40 0,50 0,60 0,70",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rys.2.7. Wartości podstawowego współczynnika strat Ko",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "AK;— poprawka uwzględniająca wpływ filarów równa mAKy ; wartości m oraz AKę określa się z rys. 2.8 w zależności od kształtu filara, wartości współczynnika M oraz wyrażenia F;/Fy,, w którym Ff jest to pole powierzchni zajętej przez filary, a Fy, — pole powierzchni przekroju ograniczone ścianami przyczółków.",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 71 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "AK; 0,350 0,300 0,250 0,200 0,150 0,100 0,050 0,000 0,00 0,02 0,04 0,06 0,08 0,10 0,12 0,14 0,16 Fę Rys.2.8. Wartości współczynników m i AK?’ AK, — poprawka uwzględniająca wpływ niesymetryczności zwężenia cieku; wartość jej odczytuje się z wykresu na rys. 2.9 w zależności od wartości M oraz wartości e=1- e (jeżeli Q,>Q,), lub e=1- 9 (jeżeli O, > ©) [2.19] gdzie: Q, 1 Q|— przepływy w częściach prawej i lewej koryta niezabudowanego, zamkniętych nasypami dojazdowymi.",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 72 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "AK 0,18 0,16 0,14 0,12 0,10 0,08 0,06",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rys.2.9. Wartości współczynnika poprawkowego AK,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "AK; — poprawka uwzględniająca wpływ ukośnego usytuowania mostu w stosunku do osi cieku; jej wartość określa się z wykresu na rys. 2.10 w zależności od wartości M i kąta skrzyżowania osi mostu z osią cieku 0.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "A T",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4 |= 0,00 =800 - 0,10 210° - 0,20 26 - 0,30 oO - 0,40 z O - 0,50 ao - - 0,60 0,30 0,35 0,40 0,45 0,50 0,55 0,60 0,65 0,70 0,75 0,80 0,85 0,90 0,95 M",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rys.2.10. Wartości współczynnika poprawkowego AK,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2.4.1.3. Współczynnik Saint-Venanta dla przekroju przed mostem a, dla przekroju zwartego należy przyjmować równy 1,2. Dla przekroju wielodzielnego należy go obliczać z wzoru:",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 73 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "2 2 v Qo. + Voz O a, =1,1— vO, [2.20] Oznaczenia we wzorze wg 2.1.4.1. Współczynnik Saint-Venanta w przekroju pod mostem a należy przyjmować jako równy: a = 1+ M(a,-1) [2.21] 2.4.2. Spiętrzenie po wystąpieniu rozmycia dna należy obliczyć z wzoru: Az, = C, Az w którym: Az — spiętrzenia obliczone wg 2.4.1.1,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "[2.22]",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "C, — współczynnik korekcyjny, zależny od stosunku pola przekroju mostowego przed rozmyciem F do pola tego przekroju po rozmyciu F,, równy: C, = (FIE,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2.5. Rzędna spodu konstrukcji mostowej",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "[2.23]",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2.5.1. Minimalną rzędną spodu konstrukcji zk należy wyznaczać z wzoru Zk = Zs + hy + Ah [2.24] gdzie: z, — rzędna spiętrzonej wody powyżej mostu, h,, — wysokość fali i spiętrzenia wiatrowego określonego zgodnie z 2.5.2., Ah — wolna przestrzeń określona zgodnie z odnośnymi przepisami. 2.5.2. Oddziaływanie wiatru Spiętrzenie wiatrowe oraz falowanie powierzchni wody należy uwzględniać na ujściowych odcinkach rzek wpadających do morza oraz na odcinkach rzek wpływających do lub wypływających z naturalnych lub sztucznych zbiorników wodnych. Wysokość hy; określającą całkowite oddziaływanie wiatru należy obliczać z wzoru: hum = he + 0,5 hę [2.25] gdzie: hę — wysokość spiętrzenia wiatrowego (eolicznego), hę — wysokość fali. Wysokości te zależne są od miarodajnej prędkości wiatru, głębokości wody w zbiorniku lub korycie oraz długości rozbiegu fali. Obliczenia he i hę należy wykonać wg zasad podanych w opracowaniu Centralnego Biura Studiów i Projektów Budownictwa Wodnego „Hydroprojekt” w Warszawie, pt. „Obliczanie falowania na zbiornikach - wytyczne projektowania”. Stosując powyższe wytyczne dla obiektów mostowych należy przyjmować miarodajną prędkość wiatru równą 20 m/s oraz wysokość fali o prawdopodobieństwie wystąpienia 1%, czyli hę = hig.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2.6. Zasady projektowania wałów kierujących 2.6.1. Części wału kierującego i jego ogólny kształt Podane dalej zalecenia dotyczą sytuacji, gdy most jest budowany na prostoliniowym odcinku rzeki, a układ przepływu jest w miarę symetryczny. zalecenia podawane w literaturze przedmiotu.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "W innych przypadkach należy stosować",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 74 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Wał kierujący (rys. 2.11.) składa się z wału górnego i wału dolnego. Obie te części zakończone są głowicami. Os wału kierującego górnego jest łukiem eliptycznym, oś wału dolnego zaś - odcinkiem łuku kołowego zakończonego odcinkiem prostym.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "głowica górna",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "ow r=0,2b a= 90 - 120°",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a=Kb",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a/2",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "głowica dolna",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rys. 2.11. Osie wałów kierujących i ich głowic",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2.6.2. Wyznaczanie osi wału górnego Długości półosi elipsy: dużej a i małej b, wyznaczających oś wału górnego określone są w zależności od stopnia zwężenia koryta 6. - dla jednostronnego terenu zalewowego 6= Św Om - dla każdego z obustronnych terenów zalewowych 61) = dro . Qozi,p + 0,5 Qog gdzie: Q),— część przepływu miarodajnego Q,,, jaka w warunkach naturalnych przypadała na zamkniętą nasypem część terenu zalewowego (lewą lub prawą), Qoz 1.p — część przepływu miarodajnego, jaka w warunkach naturalnych przypadała na teren zalewowy (lewy lub prawy), Qog — część przepływu miarodajnego, jaka w warunkach naturalnych przypadała na koryto główne cieku. Stosunek długości dużej i małej półosi elipsy K= a/b wyznacza się wg poniższych zależności: dla 6< 0,15 K=1,50, dła0,16<0<0,25 K=1,67, dla 0,26<65<0,35 K=1,83, dla 6< 0,36 K=2,0.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Długość krótszej półosi elipsy b określa się z wzoru: b=AB [2.26]",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "gdzie: B — szerokość zwierciadła wody brzegowej, A — parametr zależny od stopnia zwężenia koryta 6 wg tabeli 2.6.",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 75 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Tabela 2.6. Zależność parametru A od stopnia zwężenia koryta A",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "tereny zalewowe | tereny zalewowe",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "A",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "tereny zalewowe | tereny zalewowe 0,481",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Dla określonych długości krótszej półosi elipsy b, oraz wartości parametru K, współrzędne osi wału górnego x, y wyznacza się korzystając z tabeli 2.7. Tabela 2.7. Bezwymiarowe współrzędne osi górnego wału kierującego",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "[0000 | 000 | 000 | 00 | 000 | | 0,00 | 0; 0.25 0.50",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": ",",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "[095 [0438 | 060 | 0065 | 060 | 0058 | 060 | 0.088 |",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "p - [166 | 0890 |",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "180 | 0819 | 198 | 087 | | 16 | 100 | 1.81 | 0852 | 20 | 1000 = 25 2.6.3. Wyznaczanie osi wału dolnego rs8 | 1000 | 3 3]",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Oś wału dolnego stanowi odcinek łuku kołowego o środku położonym na osi mostu i promieniu równym podwójnej wartości dużej półosi elipsy (r=2a). Promieniem tym należy zatoczyć łuk od osi drogi o kącie wewnętrznym (7+8)°, a następnie przedłużyć odcinkiem prostej stycznej tak, aby długość rzutu całego wału dolnego na kierunek prostopadły do osi drogi była równa połowie długości rzutu wału górnego (rys.2.11). 2.6.4. Głowice wału kierującego Górna 1 dolna głowica wału kierującego stanowią zakończenia górnego i dolnego wału. Osie głowic mają kształt odcinków łuku kołowego o promieniu r=0,2b odłożonym na prostej normalnej do końcowego punktu łuku elipsy (dla wału górnego) lub do odcinka prostego (dla wału dolnego). Oś głowicy górnej stanowi łuk o kącie wewnętrznym (90+120)°, dolnej zaś łuk o kącie do 90°.",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 76 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "2.6.5. Inne zalecenia projektowe:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a) rzędna korony wału górnego powinna być wyższa o 0,5 m od rzędnej zwierciadła wody miarodajnej, spiętrzonej przed mostem, natomiast rzędna korony wału dolnego wyższa o 0,5 m od rzędnej zwierciadła wody miarodajnej; szerokość korony wałów powinna wynosić co najmniej I m,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b) ubezpieczenia skarp i konstrukcja wałów kierujących iich głowic powinny być wykonywane jak dla innych budowli regulacyjnych w zależności od ich usytuowania w korycie wielkich wód i od przewidywanych prędkości wody,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "c) we wszystkich bardziej złożonych układach topograficznych i hydraulicznych kształty wałów kierujących i ich wymiary należy określić na podstawie hydraulicznych badań modelowych,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "d) przyjęte rozwiązania projektowe wałów kierujących należy dowiązać do istniejących lub projektowanych wałów przeciwpowodziowych i uzgodnić z ich projektantem lub służbami eksploatacyjnymi.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Obliczenia hydrauliczne przepustów i małych mostów",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3.1. Określenia podstawowe i zasady obliczeń",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3.1.1. Obliczenia hydrauliczne przepustów i małych mostów obejmują: - wyznaczenie wymiarów przepustu (przewodu, wlotu i wylotu) lub światła małego mostu, - określenie wysokości spiętrzenia przed budowlą, - określenie rozmyć za budowlą i dobór odpowiednich umocnień.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3.1.2. Oznaczenia",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a) dla cieku przed przepustem, po jego spiętrzeniu do projektowanej rzędnej: B, — szerokość zwierciadła wody, F,— pole przekroju cieku, Vo = Qm/Fo — prędkość wody dopływającej, H — wzniesienie zwierciadła nad dnem przepustu na jego wlocie, H, = H + vo /2g — wysokość energii strumienia na wlocie do przepustu,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b) dla przepustu: b— szerokość przewodu przepustu lub łączna szerokość przewodów przepustu wielootworowego, hy — wysokość przewodu przepustu, D — średnica przewodu przepustu o przekroju kołowym, F,— pole przekroju przewodu przepustu, L,— długość przewodu przepustu, i, — spadek dna przewodu przepustu, F — pole przekroju strumienia wody w przewodzie przepustu, v = Q,,/F — prędkość wody w przepuście, hkr — głębokość krytyczna w przepuście, i, — spadek hydrauliczny przy przepływie Qm wypełniającym cały przekrój przewodu przepustu,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "c) dla wylotu z przepustu i wypadu: hwy, — głębokość wody na wyłocie z przewodu przepustu, Vwyl — prędkość na wylocie z przewodu przepustu, ha — wzniesienie zwierciadła wody za przepustem nad dnem wylotu przewodu,",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 77 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "B,, — szerokość wypadu, h,, — głębokość wody na wypadzie.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3.1.3. Przepusty długie i krótkie Przepust długi jest to przepust o długości przewodu Ly = 20 hp, a przepust krótki — o długości L, < 20 h,. W obliczeniach przepustów krótkich nie uwzględnia się strat energii na długości przewodu przepustu.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3.2. Światło przepustów i spiętrzenie przed przepustami",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3.2.1. Tok postępowania obejmuje:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a) wybranie rodzaju przepustu: kształtu przekroju przewodu i wlotu do przepustu,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b) ustalenie profilu podłużnego przepustu: długości, rzędnych dna na wlocie i wylocie przepustu,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "c) dobranie schematu obliczeniowego (wg 3.2.2),",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "d) dla założonej wysokości spiętrzenia przed przepustem H, wyznaczenie minimalnych wymiarów przewodu przepustu: średnicy, szerokości lub pola przekroju,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "e) założenie wymiarów przepustu i obliczenie rzeczywistej wysokości spiętrzenia,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "f) sprawdzenie zgodności dobranego schematu z wynikami obliczeń, w razie potrzeby dobranie innego schematu obliczeniowego i powtórzenie obliczeń od punktu d),",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "g) obliczenie głębokości i prędkości na wylocie z przepustu,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "h) obliczenie głębokości rozmycia za przepustem, porównanie otrzymanych wyników z wartościami dopuszczalnymi,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "i) dobranie niezbędnych umocnień koryta za przepustem, biorąc pod uwagę głębokość rozmycia.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Do realizacji wybiera się rozwiązanie zapewniające nieprzekroczenie dopuszczalnego spiętrzenia i prędkości oraz techniczno - ekonomicznie korzystną głębokość zakończenia umocnień.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3.2.2. Przypadki obliczeniowe",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3.2.2.1. Dla przepustów nizinnych, na ciekach o spadkach i < 0,02, zaleca się do stosowania następujące podstawowe i najczęściej występujące schematy hydrauliczne (rys.3.1.):",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a) przepust o niezatopionych wlocie i wylocie (rys.3.1.a.) spełniający warunki: - niezatopienia wlotu - niezatopienia wylotu",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "H< 1,2 h, [3.1] hy £ 1,25 hy [3.2]",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b) przepust o zatopionym wlocie i niezatopionym wylocie prowadzący wodę niepełnym przekrojem (ze swobodnym zwierciadłem wody w przewodzie, rys. 3.1.b), spełniający warunki: - zatopienia wlotu - niezatopienia wylotu",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "H > 1,2 hy [3.3] hy £ 1,25 Ir [3.4]",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "c) przepust o zatopionym wlocie i niezatopionym wylocie prowadzący wodę pełnym przekrojem (rys.3.1c), spełniający warunki: - zatopienia wlotu i przepływu pełnym przekrojem, co wymaga jednoczesnego: . zastosowania opływowego wlotu, - głębokości przed przepustem - spadku - niezatopienia wylotu",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "H > 1,4 hy, [3.5] ip < b, [3.6] ha < 1,1 hy, [3.7]",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "d) przepust o zatopionych wlocie i wylocie (rys. 3.1.d) prowadzący wodę pełnym przekrojem, spełniający warunki: - zatopienia wlotu - zatopienia wylotu",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "H > 1,2 h, [3.8] hg 2 1,1 hp [3.9]",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 78 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "a 2",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": ") Vo Warunki wystąpienia 2g 1)H< 1,2h p p <1,25h,,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Warunki wystąpienia 1)H > 1,2h, 2)hy < 1,25h,,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Warunki wystąpienia",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) wlot opływowy",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) H > 1,4h,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) ip Się",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) hy Ś 1,1h, c)",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "d) 5 Warunki wystąpienia Vo DH > 1,2h, CE 2)hg> Il h",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "H | Ho hp h ha hm Ip — wył Pp",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "L | p",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rys.3.1. Schematy hydrauliczne przepustów",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Przepusty: a) z niezatopionym wlotem i wylotem, b) z zatopionym wlotem, niezatopionym wylotem, przepływ niepełnym przekrojem, c) z zatopionym wlotem, niezatopionym wylotem, przepływ pełnym przekrojem, d) z zatopionym wlotem i wylotem.",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 79 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Metody obliczeń dotyczące wymienionych schematów hydraulicznych można wykorzystywać także i do innych przypadków, niewiele się od nich różniących. Nie zaleca się stosowania przepustów, dla których H >1,2h, i jednocześnie ha >1,25 hy. Obliczenia takich przepustów nie są omówione w załączniku. 3.2.2.2. Przepusty na potokach, w których panuje ruch rwący, w przypadku gdy budowa ich jest dopuszczalna, projektować należy tak, aby na doprowadzeniu do nich, w samym przewodzie i na początkowym odcinku odprowadzenia za nim, zachowany był ruch rwący i wykluczona możliwość powstania odskoku hydraulicznego. Jako jedno z możliwych rozwiązań służących temu zaleca się stosowanie łącznie: - przepustu o dnie wykonanym ze spadkiem zbliżonym do spadku cieku, - bystrotoku doprowadzającego strumień do przepustu; szerokość bystrotoku nie powinna przekraczać dwukrotnej szerokości zwierciadła miarodajnym, wody w przepuście przy przepływie",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "- długiego 1 płynnego przejścia od bystrotoku do wlotu przepustu. 3.2.3. Obliczenia przepustów o niezatopionych wlocie i wylocie (rys. 3.1.a) 3.2.3.1. Dla przepustów krótkich zależność przepływu w przepuście (zdolności przepustowej) © od wysokości energii H, strumienia spiętrzonego przed przepustem wyraża wzór: Q=m by J2g Hy [3.10] gdzie: by, — Światło przepustu prostokątnego; dla innych przepustów: F, byy = My,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "[3.11]",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "hy, I Fk — głębokość krytyczna i pole przekroju strumienia przy tej głębokości, m — współczynnik wydatku z tabeli 3.1. Z wzoru [3.10] można wyznaczyć wstępnie, dla © = Op, minimalne światło przepustu by,. Wysokość linii energii spiętrzonego strumienia przed wlotem do przepustu H, wynosi:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "O H. = m",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2/3 3.12",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Głębokość wody górnej należy wyznaczać drogą prób z równania: vo H=H,- — 28",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "[3.13]",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3.2.3.2. Głębokość wody Ha przed przepustem długim, o długości Ł, > 20h), wyznacza się z wzoru: 2 H, =H, +(0,05L, —h ) 3 [3.14] P gdzie: Hy — głębokość wody przed przepustem określona jak dla przepustu krótkiego wzorami [3.12] i [3.13]. 3.2.4. Obliczanie przepustów o zatopionym wlocie, niezatopionym wylocie, częściowo wypełnionych (rys. 3.1.b)",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 80 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "3.2.4.1.Dla przepustów krótkich zależność zdolności przepustowej Q od wysokości energii Ho strumienia spiętrzonego przed przepustem wyraża wzór: Q=uF, J2g(H, -€h,) [3.15] gdzie: gw, €— współczynniki z tabeli 3.1. Wysokość energii H, spiętrzonego strumienia przy przepływie miarodajnym wynosi: 2 H, = —Śm + eh, [3.16] (u F,) 2g Wartość H wyznacza się z wzoru [3.13]. 3.2.4.2. Przepusty długie, o spadkach dna 0 < i, < iks, mogą prowadzić wodę przewodem wypełnionym wodą częściowo lub całkowicie. Dlatego przypadku zaleca się wykonanie obliczeń jak dla przepustu krótkiego wg 3.2.4.1 oraz jak dla przepustu o niezatopionym wylocie, prowadzącego wodę pełnym przekrojem wg 3.2.5. Za miarodajny należy przyjąć schemat mniej korzystny, tzn. dający mniejszą przepustowość lub większą wysokość spiętrzenia. 3.2.5. Obliczanie przepustów o zatopionym wlocie i niezatopionym wylocie, całkowicie wypełnionych wodą (rys. 3.1.c), Zależność zdolności przepustowej Q od wysokości energii H, strumienia spiętrzonego przed przepustem wyraża wzór: Q=uF,.|2g(H, + iL, - eh) [3.17] Współczynnik wydatku u należy obliczać z wzoru: 1",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "_ | SM [3.18] s | + Ów + CL gdzie: 6,, — współczynnik straty na wlocie o wartościach orientacyjnych: - dla wlotów kołnierzowych, korytarzowych, portalowych i rozchylonych 0,33, - dla wlotów podwyższonych i opływowych 0,20, - dla przewodu wysuniętego z nasypu bez konstrukcji wlotowej 0,60, CL — współczynnik strat na długości równy: CL = wom [3.19] n — współczynnik szorstkości przewodu przepustu, L, — długość obliczeniowa przepustu Ly = Ly — 3,6 ky, [3.20] R, — promień hydrauliczny, €— współczymnik z tabeli 3.1. Dla wlotu podwyższonego z rozchylonymi skrzydłami przyjmować można: u = 0,83 € =0,85. Wysokość energii H, spiętrzonego strumienia przy przepływie miarodajnym wynosi:",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 81 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "2",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Pp Wysokość H należy wyznaczać z wzoru [3.13]. 3.2.6. Obliczanie przepustów z zatopionym wlotem i zatopionym wylotem oraz przepływem pełnym przekrojem przewodu (rys. 3.1.d). Zależność zdolności przepustowej Q od wysokości energii H, strumienia spiętrzonego przed przepustem wyraża wzór: Q=uF, 2g (H, + i,L, - hy) [3.22]",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "gdzie: u— współczynnik wydatku wg wzoru [3.18]. Wysokość energii H, spiętrzonego strumienia o przepływie miarodajnym wynosi: QO. ; A, =h, +——-- -i Z 3.23 0 d 2g F? we pp [ l",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Tabela 3.1. Wartości współczynników m, € i u dla niektórych przepustów",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "korytarzowego, | kołnieczołowego ze | rzowego stożkami ze skrzydłami ukośnymi przy kącie odchylenia",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "0082 058 \"| 061 0.64 [0.68 | |",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "| =]",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "| 065 | 0,62 | 0,66 | 0,69 | 0,70 | * Podane w tabeli wartości m dotyczą przypadku pełnego dławienia bocznego, tzn. przypadku gdy B, 2 6b. Dla przepustów z niepełnym dławieniem bocznym m wyznacza się z wzoru: 0.385— m, 5, [3.24] 3F,-2F\" °",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "M = M, +",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "gdzie: m, — wartość współczynnika m odczytana z tabeli 3.1., F, — pole przekroju wlotu przewodu przepustu przy rzędnej zwierciadła wody spiętrzonej. 3.2.7. Przepusty z przewodami o przekroju kołowym 3.2.7.1. Dla przepustów z niezatopionym wylotem (rys.3.1.a, b, cjomówionych w 3.2.3,3.2.4 i 3.2.5 wstępnego doboru średnicy przewodu przepustu D dla przepływu © = Qm można dokonać korzystając z tabeli 3.2. Podaje ona dla różnych przepływów Q i średnic D wysokości spiętrzonej wody przed przepustem H i prędkości wody w przepuście v. Tabela ta dotyczy przypadku szczególnego: - przepust krótki, o spadku dna zbliżonym do spadku krytycznego, - pełne dławienie boczne na wlocie, czyli B, 2 6b,",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 82 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "- przepust z wlotem prostopadłym, ze współczynnikami: m = 0,31, € = 0,79, u = 0,65 - pomijalnie mała prędkość dopływowa vo, czyli H, = H. Dla innych przypadków odczytane wartości mają charakter orientacyjny. 3.2.7.2. Parametry ruchu krytycznego hy, by i Fr obliczyć można korzystając z tabeli 3.3. Wartości względne tych parametrów odczytuje się w funkcji parametru pomocniczego: Q Wo = —— [3.25] D’ J eD 3.2.7.3. Dla przepustów całkowicie wypełnionych wodą (rys.3.1.c id) omówionych w 3.2.5 i 3.2.6.: - wartość współczynnika Ćw zależy od geometrii wlotu; należy ją przyjmować z literatury lub w przybliżeniu wg 3.2.5, - wartość współczynnika C, jest równa",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "L= można ją również obliczyć z wzoru",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2gn L, o1s7 pi [3.26]",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "L ÓL=A D [3.27] przyjmując A = 0,025-+0,03 zależnie od szorstkości przewodu przepustu.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Tabela 3.2. Orientacyjne zdolności przepustowe, głębokości spiętrzonej wody 1 prędkości przepływu dla przepustów o kołowym przekroju przewodu oto PE — D (m) | H(m) | v(m/s) | Hm | v(ms) | v(m/s) | H(m) | v(m/s) | | 04 | 060 | 169 | 055 | | 06 | 076 | 194 | 069 | | 08 | 091 | 218 | 081 | | 12 | 132 | 269 | 108 |",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "| 20 | — | — | 157 | | 25 | — | = | 201 | 30 | — | — | 255 | 35 | — | = | = | 140 | — | — | — | 145 | — | — |] | 50 | — | = | — |",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "160 | osz | 153 | 050 | 149 | 180 | 065 | 174 | 062 198 | 076 | 188 | 0,72 230 | 0.95 | 214 | 090 | 205 |",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "292 | 129 | 258 | 119 | 24 | 338 | 154 | 284 | 136 | 261 | 39 | 180 | 312 | 152 | 281 | = | 210 | 342 | 168 | 3,0 | = | 2% | 355 | 192 | 320 | — | — | — |] 2a4 | 340 — | = [| -— | 238 | 363 |",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 83 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Tabela 3.3. Parametry ruchu krytycznego w przewodach o przekroju kołowym",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "0,7956 1.2332 0.8002",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3.3. Obliczenia stanowiska dolnego",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3.3.1. Cel i zakres obliczeń Obliczenia mają na celu zaprojektowanie dolnego stanowiska budowli w sposób zapobiegający jej zniszczeniu wskutek podmycia fundamentów. Zakres analiz i obliczeń obejmuje: - wymiary i kształt wylotu, - wymiary umocnień koryta w dolnym stanowisku, - głębokość rozmyć, - zaprojektowanie umocnień koryta.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3.3.2. Głębokość i prędkość na wylocie z przewodu przepustu 3.3.2.1. Głębokości wody hy w przekroju wylotowym przewodu przepustu, potrzebne do oceny warunków przepływu za budowlą, można przyjmować wg tabeli 3.4.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3.3.2.2. Prędkości wody w przekroju wylotowym przewodu przepustu należy określać z wzoru:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "— Q, wm [3.28] wył",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "gdzie: Fwy — pole przekroju strumienia na wylocie odpowiadające napełnieniu hwy. 3.3.3. Ukształtowanie wypadu",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Odpowiednio ukształtowany i umocniony odcinek koryta poniżej wylotu, nazywany wypadem, ma na celu rozprowadzenie przepływu na większą szerokość i zmniejszenie głębokości rozmyć koryta. Podane dalej zalecenia ograniczają się tylko do konstrukcji wypadu i nie obejmują sposobów kształtowania przejść z wypadu w koryto naturalne. Wypad wymaga umocnienia, gdy Vwy > 1,2 v„,. Prędkość nierozmywającą vy, należy przyjmować wg 2.3.1.2.",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 84 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Wypad powinien być ukształtowany względem osi przewodu przepustu tak, aby strumień rozszerzał się symetrycznie z szerokości wylotu byy (rys.3.2) do szerokości koryta umocnionego By, na długości zależnej od warunków hydraulicznych w dolnym stanowisku budowli. Tabela 3.4. Głębokości w przekroju wylotowym przepustu",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Lp. Warunki przepływu w Warunki wypływu na | Spadek dna Głębokość na przewodzie przepustu wylocie przepustu i, wylocie hwy Przepływ niepełnym prze - nie zatopiony (0,7 + 0,8) Ais krojem (o swobodnym zwier- (0,7 +1,0) h4* ciadle wody w przewodzie) zatopiony ha (0,7 = 1,0) ho* Przepływ pełnym prze- | __nie zatopiony | = | 0.85 hy | 6 | krojem (pod ciśnieniem) | zatopiony [= | h",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "gdzie: ho — głębokość w ruchu jednostajnym w przewodzie, * — za głębokość bezpieczną zaleca się przyjmować hyy = 0,7ho.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "umocnienia",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "p ¥",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "element końcowy umocnień",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "No.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rys.3.2. Schemat wypadu 1 jego umocnień",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Jeśli wypad ma charakter umocnionej powierzchni, a przekrój poprzeczny koryta cieku jest bardzo mały lub koryto nie jest wykształcone, zaleca się formowanie wypadu w postaci prostokątnej powierzchni umocnionej o wymiarach w planie Ly x By.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "We wszystkich przypadkach, gdy koryto wypadu przechodzi w ukształtowane koryto cieku, np. rowu, zaleca się stosowanie prostoliniowego w planie rozszerzenia wypadu. Podane dalej zalecenia dotyczą przypadków, gdy uskok dna na końcu wylotu przepustu p nie",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 85 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "przekracza 0,2 m. Gdy uskok ten jest większy, w obliczeniach wypadu należy uwzględnić rzeczywistą wysokość energii strumienia wody spadającego na płytę wypadu. Kąt B odchylenia ścian wypadu od jego osi (rys.3.2) należy określać: - dla ruchu rwącego w korycie odpływowym z wzoru: 1 = arc tg | ——_______ 3.29",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "B Ę Ę Fra + aa :",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "v gdzie: Fryy = 7 _ —— liczba Froude’a w przekroju wylotowym Ś wył - dla ruchu spokojnego w tym korycie z wykresu Serenkova na rys. 3.3 2 gdzie: Frg= i — liczba Froude’a w przekroju koryta odpływowego, za wypadem. &§",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "B",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "60",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "50",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "40",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "30",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "20",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "10",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1 2 4 6 8 10 12 14 Fr wy Rys.3.3. Wykres Serenkova do określania kata B w stopniach Wartości hwy i vwy! należy określać zgodnie z 3.3.2.1 i 3.3.2.2, a wartość średniej głębokości wody h i prędkości va wyznaczać z warunków przepływu w korycie odpływowym przy przepływie miarodajnym. Jeśli na wylocie przepustu występuje uskok dna, to przy obliczeniach głębokość odmierza się od dna koryta lub powierzchni umocnionej. Po określeniu kąta B rozszerzenia ścian wylotu przepustu lub umocnionego koryta za małym mostem należy obliczyć długość wypadu L,,, na którym następuje całkowite rozszerzenie się strumienia: By - by L= W [3.30] 2tg B w którym za By należy podstawiać szerokość umocnień na wypadzie równą: — szerokości koryta wypadu (dno i skarpy umocnione) równej (2--3) świateł małego mostu lub (3--5) świateł przepustu,",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 86 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "— szerokości umocnionej powierzchni traktowanej jako szerokość wypadu, gdy dolina cieku jest płaska i szeroka, zatapiana w czasie niewykształcone lub bardzo małe.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "przejścia przepływu miarodajnego, a koryto cieku",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3.3.4. Ocena warunków hydraulicznych poniżej wylotu. Warunki przepływu w dolnym stanowisku budowli kształtują się pod wpływem głębokości i prędkości przepływu w przekroju wylotu i w korycie odpływowym. Głębokość h„ w dolnym stanowisku budowli określa się jako różnicę rzędnej zwierciadła wody odpowiadającej przepływowi miarodajnemu i rzędnej dna wypadu (dna koryta poniżej wylotu). W celu ustalenia warunków hydraulicznych na wypadzie, w przypadku ruchu spokojnego w korycie odpływowym, należy porównać h„y z głębokością Ay, w przewodzie przepustu. Jeżeli hwy < hkr, to w obrębie stanowiska dolnego wystąpi odskok hydrauliczny i wymagane jest specjalne ukształtowanie odcinka koryta - wypadu. Jeżeli hwy 2 hkr, to na wylocie z przepustu odskok hydrauliczny nie wystąpi i wystarczy wtedy umocnienie dna odpowiednie dla prędkości wylotowej. W przypadku wystąpienia odskoku należy obliczyć: - głębokość sprzężoną z głębokością na wylocie:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "h, Py = >",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "(| + SB. i han - J [3.31] 2",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "wył wył",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "- głębokość strumienia w ruchu rwącym, w przekroju poprzecznym na końcu rozszerzenia wypadu hy, z równania: 2 1,1 O; V wy =pth,, + 2 [3.32] 2gh, By gdzie: By— szerokość umocnień na wypadzie dobrana wg 3.3.3, p — wzniesienie dna przepustu na wylocie nad poziomem płyty dna wypadu; - głębokość strumienia sprzężoną z głębokością hy z równania:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "h",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2 h=— | + gt - 1 [3.33] 2 gB, hy",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Porównanie wartości obliczonych głębokości pozwala zakwalifikować rozpatrywaną sytuację do jednego z następujących przypadków:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a) hawy £ ha — przejście z ruchu rwącego w przewodzie w ruch spokojny w korycie odbywa się w formie odskoku zatapiającego strumień w przekroju wylotowym budowli,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b) howy > hm 2 how — odskok powstaje na długości rozszerzającego się wypadu lub w jego końcowym przekroju,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "c) hay > hm — odskok jest odsunięty, rozszerzonego wypadu, co oznacza, że powstaje on w korycie, poniżej",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "gdzie: hm = ha +p — głębokość w kanale odpływowym, odpowiadająca rzędnej miarodajnej zm.",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 87 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "3.3.5. Umocnienia wypadu Koryto za wylotem przepustu lub małego mostu powinno być umocnione, a długość umocnień Ly powinna spełniać następujące warunki: -Ly2Ly, gdzie Ly — długość wypadu określona wg 3.3.3., - Ly = (2+3)D lub (2+3)b; D — średnica przewodu kołowego, b — szerokość otworu prostokątnego. Typ umocnienia należy dobierać w zależności od prędkości obliczeniowej voy, której wartość zaleca się przyjmować jako równą 1,5 vwy i powinno być ono układane na filtrze odwrotnym. Zaleca się stosować na końcu umocnień pionowy lub nachylony element ochronny (rys.3.4), zagłębiony na h, 2 1,3 Ah,, gdzie: Ah, — głębokość rozmycia obliczona dla występującego w dolnym stanowisku rodzaju ruchu wg 3.3.6. 3.3.6. Głębokość rozmycia Do zaprojektowania głębokości założenia elementu zabezpieczającego na końcu umocnień potrzebna jest znajomość głębokości rozmycia koryta. Teoretyczną głębokość rozmycia należy obliczać w zależności od lokalizacji odskoku zgodnie z przypadkami podanymi w 3.3.4: - w przypadku a), gdy odskok zatapia wylot budowli: V wył Ah, = ha | —— 4",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "- 1 [3.34]",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "- w przypadku b), gdy odskok powstaje na rozszerzającym się wypadzie: Ah, = 1,85 how — ha [3.35] - w przypadku c), gdy odskok powstaje poza wypadem: Ah, = 1,5 ha [3.36] Rzeczywistą maksymalną głębokość rozmycia oblicza się z wzoru: Ahymax = k Ah, Współczynnik redukcyjny k należy przyjmować z",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "[3.37] przedziału (0,6+0,8), przy czym wartości mniejsze odpowiadają małym zlewniom, w których wezbrania są krótkotrwałe. Jeśli obliczona głębokość rozmyć przekracza 2 m, należy na wylocie budowli zaprojektować urządzenie do rozpraszania energii (nieckę, próg, szykany itp.) zgodnie z zasadami projektowania wypadów budowli piętrzących lub zastąpić przepust małym mostem.",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 88 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Rys.3.4. Typy umocnień poniżej przepustów i małych mostów: 1 — pryzma kamieni, 2 — narzut, bruk, płyty lub inne umocnienia dna, 3 — element kończący umocnienie.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3.4. Światło małego mostu z dnem umocnionym",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3.4.1. Przypadki obliczeniowe",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "W korycie cieku może panować ruch rwący (podkrytyczny) lub spokojny (nadkrytyczny). Metody obliczeń podane dalej nie obejmują przypadku, gdy mały most powoduje przejście z ruchu rwącego w spokojny powyżej obiektu. Zasady rozwiązań pozwalających na uniknięcie zmiany rodzaju ruchu przed mostem podane są w p.3.2.2.2.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Dla małego mostu zbudowanego na cieku, w którym panuje ruch spokojny, mogą wystąpić dwa przypadki różniące się sposobem obliczeń. Kryterium podziału stanowi warunek:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "NH > hg [3.38]",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "gdzie: N— współczymnik zależny od kształtów przyczółków, dobierany z tabeli 3.5, H — głębokość wody spiętrzonej przed mostem równa różnicy rzędnej zwierciadła wody spiętrzonej z, i rzędnej umocnionego dna pod mostem, ha — głębokość wody poniżej mostu równa różnicy rzędnej zwierciadła wody i rzędnej umocnionego dna pod mostem.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Jeżeli warunek [3.38] jest spełniony, wytwarza się spiętrzenie przed mostem, głębokość pod mostem maleje do głębokości krytycznej, a za mostem powstaje niebezpieczeństwo silnych rozmyć związanych z przejściem do ruchu spokojnego.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Jeżeli warunek [3.38] nie jest spełniony, przepływ w przekroju mostowym nie zmienia charakteru (ruch spokojny pozostaje spokojnym, a rwący - rwącym).",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 89 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "3.4.2. Wyznaczanie minimalnego światła mostu dla założonego spiętrzenia przed mostem Po ustaleniu wysokości wzniesienia spiętrzonej wody nad umocnionym dnem pod mostem H, należy obliczyć prędkość w przekroju przed mostem po spiętrzeniu v, oraz wysokość energii przed mostem H, =H + vę/2ę. Dla wybranego rodzaju przyczółków należy dobrać z tabeli 3.5 wartość współczynnika N i sprawdzić warunek [3.38]. Jeżeli jest on spełniony, to minimalne światło mostu Z należy obliczać ze wzoru:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "m.J2gH;y\" Jeżeli warunek [3.38] nie jest spełniony, to minimalne światło mostu Z jest równe: Qn L — [3.40] uh, |2g(H, ~hy) Wartości współczynników m i u dobiera się z tabeli 3.5. 3.4.3. Wyznaczanie minimalnego światła mostu dla założonej prędkości pod mostem. Prędkość dopuszczalną pod mostem v dobiera się w zależności od odporności podłoża na rozmycia (vy, wg 2.3.1.2.) lub zastosowanych umocnień (va wg 2.3.1.3.). Dla przypadku spełnienia warunku [3.38] minimalne światło mostu należy obliczać z wzoru: p= —S2n_ [3.41] 2,6 mow Jeżeli warunek [3.38] nie jest spełniony, to minimalne światło mostu równe jest: Qn [3.42] 7 uv (H, —v /2g) H, we wzorze [3.42] oblicza się wstępnie dla warunków przepływu bez spiętrzenia. Przed przyjęciem światła mostu nie jest możliwe określenie wartości H, i H, zatem warunek [3.38] nie może być więc sprawdzony. Należy więc obliczyć L wzorem [3.41], następnie określić H dla tego przypadku i sprawdzić warunek [3.38]. Jeżeli warunek ten nie jest spełniony, obliczenia należy wykonać wzorem [3.42]. 3.4.4. Obliczanie głębokości wody spiętrzonej H przed mostem o przyjętym świetle Z Jeżeli warunek [3.38] jest spełniony, to: (2 v. [3.43] mL „J2g 2g Ze względu na zależność v, od głębokości H, obliczenie należy prowadzić metodą iteracyjną, przyjmując w pierwszym przybliżeniu v; równe prędkości w przekroju bez spiętrzenia vy. Prędkość przepływu w przekroju mostowym należy obliczać z wzoru: pa Bn [3.44]",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "gdzie: k— współczynnik dobrany z tabeli 3.5.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "KLH",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Jeżeli warunek [3.38] nie jest spełniony, spiętrzenie przed mostem jest niewielkie i może być określone wg 2.4.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Załącznik nr 2",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Na stronie 90 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "KLASY OBCIĄŻEŃ TABOREM SAMOCHODOWYM OBIEKTÓW INŻYNIERSKICH",
+         "quoted": true
+        }
+       ]
+      }
+     ]
     }
    ]
   },

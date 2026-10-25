@@ -1,7 +1,7 @@
 {
  "eli": "DU/2007/786",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 czerwca 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania \"Zalesianie gruntów rolnych oraz zalesianie gruntów innych niż rolne\", objętego Programem Rozwoju Obszarów Wiejskich",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2007/786/text.pdf",
  "body": [
   {
@@ -1406,51 +1406,58 @@
     },
     {
      "type": "note",
-     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "2) Schemat Il - zalesianie gruntów innych niż rolne"
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Schemat Il - zalesianie gruntów innych niż rolne",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zalesianie na terenach o korzystnej konfiguracji 4620 5240 | B | Zalesianie n na stokach c o , nachyleniu ' powyżej 12° | aa"
+      },
+      {
+       "type": "text",
+       "text": "L wyżej 5550"
+      },
+      {
+       "type": "text",
+       "text": "5720 i: 4160 6260 a 4870 E | Zalesianie w warunkach niekorzystnych | o złłha ae | / (grunty wodochronne i glebochronne) na GWO SA / terenach o korzystnej konfiguracji 4420 | 5040 „ai SE 5270 | -- 5960 | naturalnej na terenach o karystej | konfiguracji | 1700 | 1790 | Zalesianie z z wykorzystaniem sukcesji . | zł/ha _ naturalnej na terenach o nachyleniu R R = , powyżej 12° zee"
+      },
+      {
+       "type": "text",
+       "text": "- na at hektar oproneene) mek '-na at metr r bieżący ogrodzonej uprawy |"
+      },
+      {
+       "type": "text",
+       "text": "ona IGiEnsEh: o arayeinej ponngurae) -n -na a stokach o o nachyleniu powyżej ie. a"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Premia pielęgnacyjna dla upraw , zakładanych w warunkach niekorzystnych (grunty we i Sere: -na terenach o korzystnej konfi guracji '-na stokach o nachyleniu powyżej 12° Premia p pielęgnacyjna dla upraw zakładanych z ada sukcesji _naturalnel: -na terenach O korzystnej koniigutacj - na stokach o nachyleniu pom ee? 12° | Ochrona upraw przed zwierzyną: - zabezpieczenie repelentami - zabezpieczenie 3 palikami - zabezpieczenie owczą wełną złlha na rok"
+      },
+      {
+       "type": "text",
+       "text": "1460 2050"
+      },
+      {
+       "type": "text",
+       "text": "złłha na rok"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "Zalesianie na terenach o korzystnej konfiguracji 4620 5240 | B | Zalesianie n na stokach c o , nachyleniu ' powyżej 12° | aa"
-    },
-    {
-     "type": "ocr",
-     "text": "L wyzej 5550 5720 i: 4160 6260 a 4870 E | Zalesianie w warunkach niekorzystnych | o złłha ae | / (grunty wodochronne i glebochronne) na GWO SA / terenach o korzystnej konfiguracji 4420 | 5040 „ai SE 5270 | -- 5960 | naturalnej na terenach o karystej | konfiguracji | 1700 | 1790 | Zalesianie z z wykorzystaniem sukcesji . | zł/ha _ naturalnej na terenach o nachyleniu R R = , powyżej 12° zee"
-    },
-    {
-     "type": "ocr",
-     "text": "- na at hektar oproneene) mek '-na at metr r bieżący ogrodzonej uprawy |"
-    },
-    {
-     "type": "ocr",
-     "text": "ona IGiEnsEh: o arayeinej ponngurae) -n -na a stokach o o nachyleniu powyżej ie. a"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Premia pielęgnacyjna dla upraw , zakładanych w warunkach niekorzystnych (grunty we i Sere: -na terenach o korzystnej konfi guracji '-na stokach o nachyleniu powyżej 12° Premia p pielęgnacyjna dla upraw zakładanych z ada sukcesji _naturalnel: -na terenach O korzystnej koniigutacj - na stokach o nachyleniu pom ee? 12° | Ochrona upraw przed zwierzyną: - zabezpieczenie repelentami - zabezpieczenie 3 palikami - zabezpieczenie owczą wełną"
-    },
-    {
-     "type": "ocr",
-     "text": "złlha na rok"
-    },
-    {
-     "type": "ocr",
-     "text": "1460 2050"
-    },
-    {
-     "type": "ocr",
-     "text": "złłha na rok"
-    },
-    {
-     "type": "ocr",
-     "text": "1250. 4750 'złłha na rok 190 700 280"
+     "type": "ust",
+     "num": "1250",
+     "path": "ust_1250",
+     "text": "4750 'złłha na rok 190 700 280",
+     "children": []
     }
    ]
   },
@@ -1562,7 +1569,7 @@
        "children": [
         {
          "type": "text",
-         "text": "¹⁾ Podstawowy parametr do wyliczenia wszystkich składników płatności. Dziennik Ustaw Nr 114 — 7796 — Poz. 786"
+         "text": "¹⁾ Podstawowy parametr do wyliczenia wszystkich składników płatności."
         },
         {
          "type": "note",

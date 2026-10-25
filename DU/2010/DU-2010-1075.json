@@ -1,7 +1,7 @@
 {
  "eli": "DU/2010/1075",
  "title": "Rozporządzenie Ministra Finansów z dnia 30 sierpnia 2010 r. w sprawie dokumentu dostawy, ewidencji wyrobów akcyzowych objętych zwolnieniem od akcyzy ze względu na ich przeznaczenie, warunków i sposobu ich zwrotu oraz środków skażających alkohol etylowy",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2010/1075/text.pdf",
  "body": [
   {
@@ -123,7 +123,7 @@
        "type": "pkt",
        "num": "4",
        "path": "par_2/ust_1/pkt_4",
-       "text": "p odmiot zużywający — w przypadku importu przez niego wyrobów zwolnionych.",
+       "text": "podmiot zużywający — w przypadku importu przez niego wyrobów zwolnionych.",
        "children": []
       }
      ]
@@ -189,14 +189,14 @@
        "type": "pkt",
        "num": "1",
        "path": "par_2/ust_4/pkt_1",
-       "text": "p otwierdza prawidłowość danych zawartych w dokumencie dostawy na jego drugim egzemplarzu;",
+       "text": "potwierdza prawidłowość danych zawartych w dokumencie dostawy na jego drugim egzemplarzu;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "par_2/ust_4/pkt_2",
-       "text": "d ołącza do zwracanych albo przemieszczanych do składu podatkowego wyrobów zwolnionych drugi egzemplarz dokumentu dostawy, o którym mowa w pkt 1, przeznaczony dla podmiotu, który go wystawił.",
+       "text": "dołącza do zwracanych albo przemieszczanych do składu podatkowego wyrobów zwolnionych drugi egzemplarz dokumentu dostawy, o którym mowa w pkt 1, przeznaczony dla podmiotu, który go wystawił.",
        "children": []
       }
      ]
@@ -576,12 +576,11 @@
    "num": "10",
    "path": "par_10",
    "text": "Rozporządzenie wchodzi w życie z dniem 1 września 2010 r.[^3]",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Finansów: w z. W. Szczuka"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: w z. W. Szczuka"
   }
  ],
  "annexes": [
@@ -620,7 +619,7 @@
      "type": "pkt",
      "num": "5",
      "path": "pkt_5",
-     "text": "W przypadku podmiotu, o którym mowa w art. 2 ust. 1 pkt 22 lit. b ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, należy podać dane statku powietrznego lub jednostki pływającej, na który/ którą są dostarczane wyroby zwolnione, i miejsce jego/jej postoju. /In the case of entity mentioned in art. 2 (1)(22)(b) of Act of excise duty, data of aircraft or ship is given on which exempted products are delivered and the place of its stop./ Dziennik Ustaw Nr 160 — 12229 — Poz. 1075",
+     "text": "W przypadku podmiotu, o którym mowa w art. 2 ust. 1 pkt 22 lit. b ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, należy podać dane statku powietrznego lub jednostki pływającej, na który/ którą są dostarczane wyroby zwolnione, i miejsce jego/jej postoju. /In the case of entity mentioned in art. 2 (1)(22)(b) of Act of excise duty, data of aircraft or ship is given on which exempted products are delivered and the place of its stop./",
      "children": [
       {
        "type": "note",
@@ -650,7 +649,7 @@
      "type": "pkt",
      "num": "8",
      "path": "pkt_8",
-     "text": "W przypadku niedostarczenia wyrobów zwolnionych do podmiotu odbierającego należy wpisać ich ilość, przyczynę oraz datę powrotnego dostarczenia do składu podatkowego lub podmiotu pośredniczącego. /In the case when exempted products are not delivered to receipt entity, quantity, reason and date of return delivery to the warehouse keeper or excise agent is given./ Dziennik Ustaw Nr 160 — 12230 — Poz. 1075",
+     "text": "W przypadku niedostarczenia wyrobów zwolnionych do podmiotu odbierającego należy wpisać ich ilość, przyczynę oraz datę powrotnego dostarczenia do składu podatkowego lub podmiotu pośredniczącego. /In the case when exempted products are not delivered to receipt entity, quantity, reason and date of return delivery to the warehouse keeper or excise agent is given./",
      "children": [
       {
        "type": "note",
@@ -673,31 +672,35 @@
     },
     {
      "type": "note",
-     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "a NANEEENNENNA WEEENENNNEEMM Mieszanina olejku EAST lub kompozycji l 500 g zapachowej niekonsumpcyjnej"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5 i alkoholu izopropylowego (propan-2-ol) 6 000 ml 16 | Mieszanina oleju rycynowego 1 000 ml"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5 i ftalanu dietylu"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Nipagina (aseptina)"
     },
     {
-     "type": "ocr",
-     "text": "20 | Ogólny środek skażający 500 ml Ogólny środek skażający - zgodny z Polską Normą PN-C-97911 „Ogólny środek skazajacy\""
+     "type": "text",
+     "text": "20 | Ogólny środek skażający 500 ml Ogólny środek skażający - zgodny z Polską Normą PN-C-97911 „Ogólny środek skażający\""
     },
     {
-     "type": "ocr",
-     "text": "Toluol lub toluen 3 000 ml 23 | Benzoesan denatonium 2g rozpuszczony w 130 ml alkoholu tert-butylowego"
+     "type": "text",
+     "text": "Toluol lub toluen 3 000 ml"
+    },
+    {
+     "type": "text",
+     "text": "23 | Benzoesan denatonium 2g rozpuszczony w 130 ml alkoholu tert-butylowego"
     }
    ]
   }

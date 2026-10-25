@@ -1,7 +1,7 @@
 {
  "eli": "DU/2006/403",
  "title": "Rozporządzenie Ministra Rozwoju Regionalnego z dnia 20 marca 2006 r. w sprawie wzorów sprawozdań sporządzanych w ramach Programu Operacyjnego Pomoc Techniczna 2004-2006",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2006/403/text.pdf",
  "body": [
   {
@@ -110,183 +110,238 @@
     },
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "4. Prognoza realizacji projektu w kolejnym okresie sprawozdawczym:"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Prognoza realizacji projektu w kolejnym okresie sprawozdawczym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_4/lit_a",
+       "text": "czy w następnym okresie sprawozdawczym planuje się złożenie wniosku o płatność końcową? tak: nie:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_4/lit_b",
+       "text": "opis zadań planowanych do zrealizowania w ramach projektu w kolejnym okresie sprawozdawczym",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "a) czy w następnym okresie sprawozdawczym planuje się złożenie wniosku o płatność końcową? tak: nie:"
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Wskaźniki postępu rzeczowego realizacji projektu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_5/lit_a",
+       "text": ". osiągnięte wskaźniki",
+       "children": [
+        {
+         "type": "text",
+         "text": "Wartość bazowa Wartość docelowa Jednostka wskaźników wskaźnika miary określona określona wskaźnika we wniosku we wniosku o dofinansowanie | o dofinansowanie"
+        },
+        {
+         "type": "text",
+         "text": "1 Projekt Nazwa wskaźnika produktu"
+        },
+        {
+         "type": "text",
+         "text": "Wartość Osiągnięta Osiągnięta | %- stopień wskaźników wartość wartość realizacji planowana wskaźników wskaźników | wskaźnika — do osiągnięcia w okresie od początku obliczony w następnym objętym realizacji wg wzoru: okresie sprawozdaniem projektu 61(4-3)x100 % sprawozdawczym"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_5/lit_b",
+       "text": "informacja na temat stopnia realizacji zakładanych wskaźników produktu w porównaniu z docelowymi wartościami określonymi we wniosku o dofinansowanie",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "b) opis zadań planowanych do zrealizowania w ramach projektu w kolejnym okresie sprawozdawczym"
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Opis przeprowadzonych kontroli realizacji projektu (z uwzględnieniem wyników kontroli, zaleceń pokontrolnych i planowanych działań wynikających z kontroli)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "5. Wskaźniki postępu rzeczowego realizacji projektu:"
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Opis najczęściej napotykanych problemów przy realizacji projektu wraz z informacją o środkach zaradczych podjętych przez beneficjenta",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ill. POSTĘP FINANSOWY PROJEKTU"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "a) . osiągnięte wskaźniki Wartość wskaźników planowana do osiągnięcia w następnym okresie sprawozdawczym"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych, poniesionych w ramach projektu (tabela 1)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Osiągnięta Osiągnięta | %- stopień wartość wartość realizacji wskaźników wskaźników | wskaźnika — w okresie od początku obliczony objętym realizacji wg wzoru: sprawozdaniem projektu 61(4-3)x100 %"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zestawienie prognozowanych wartości wniosków o płatność, które zostaną złożone do Instytucji Zarządzającej POPT 2004-2006 w okresie czterech kolejnych kwartałów (tabela 2)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Wartość bazowa Wartość docelowa Jednostka wskaźników wskaźnika miary określona określona wskaźnika we wniosku we wniosku o dofinansowanie | o dofinansowanie"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Informacja odnośnie do poziomu absorpcji środków w ramach realizowanego projektu",
+     "children": [
+      {
+       "type": "text",
+       "text": "IV. ZGODNOŚĆ PROJEKTU Z POLITYKAMI WSPÓLNOTY"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "1"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Zgodność projektu z przepisami o zamówieniach publicznych Rodzaj stosowanego trybu postępowania",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Jeśli stosowane są inne tryby postępowania niż we wniosku o dofinansowanie, proszę podać uzasadnienie zmiany oraz określić podstawę prawną"
+      },
+      {
+       "type": "text",
+       "text": "Proszę opisać stopień realizacji stosowanych trybów postępowania"
+      },
+      {
+       "type": "text",
+       "text": "Jeśli procedury zamówień publicznych nie są stosowane, proszę podać, na jakiej podstawie"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "Projekt Nazwa wskaźnika produktu"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zgodność projektu z polityką ochrony środowiska: dotyczy nie dotyczy",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "b) informacja na temat stopnia realizacji zakładanych wskaźników produktu w porównaniu z docelowymi wartościami określonymi we wniosku o dofinansowanie"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Zgodność projektu z polityką równych szans: dotyczy nie dotyczy",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "6. Opis przeprowadzonych kontroli realizacji projektu (z uwzględnieniem wyników kontroli, zaleceń pokontrolnych i planowanych działań wynikających z kontroli)"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Zgodność projektu z przepisami o pomocy publicznej: dotyczy nie dotyczy Czy projekt jest realizowany zgodnie z przepisami o pomocy publicznej? tak: nie: W przypadku gdy projekt jest realizowany niezgodnie z przepisami o pomocy publicznej, należy wskazać przyczyny niezgodności",
+     "children": [
+      {
+       "type": "text",
+       "text": "V. PROMOCJA PROJEKTU Główne działania promujące projekt podjęte przez beneficjenta w okresie sprawozdawczym"
+      },
+      {
+       "type": "text",
+       "text": "VI. ZAGROŻENIA REALIZACJI PROJEKTU Należy opisać zidentyfikowane lub przewidywalne zagrożenia realizacji projektu"
+      },
+      {
+       "type": "text",
+       "text": "VII. TABELE"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "7. Opis najczęściej napotykanych problemów przy realizacji projektu wraz z informacją o środkach zaradczych podjętych przez beneficjenta"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych, poniesionych w ramach projektu (tabela 1)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Ill. POSTĘP FINANSOWY PROJEKTU"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych, poniesionych w ramach projektu (tabela 1)"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Zestawienie prognozowanych wartości wniosków o płatność, które zostaną złożone do Instytucji Zarządzającej POPT 2004-2006 w okresie czterech kolejnych kwartałów (tabela 2)"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Informacja odnośnie do poziomu absorpcji środków w ramach realizowanego projektu"
-    },
-    {
-     "type": "ocr",
-     "text": "IV. ZGODNOŚĆ PROJEKTU Z POLITYKAMI WSPÓLNOTY"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Zgodność projektu z przepisami o zamówieniach publicznych Rodzaj stosowanego trybu postępowania"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Jeśli stosowane są inne tryby postępowania niż we wniosku o dofinansowanie, proszę podać uzasadnienie zmiany oraz określić podstawę prawną"
-    },
-    {
-     "type": "ocr",
-     "text": "Proszę opisać stopień realizacji stosowanych trybów postępowania"
-    },
-    {
-     "type": "ocr",
-     "text": "Jeśli procedury zamówień publicznych nie są stosowane, proszę podać, na jakiej podstawie"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Zgodność projektu z polityką ochrony środowiska: dotyczy nie dotyczy"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Zgodność projektu z polityką równych szans: dotyczy nie dotyczy"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Zgodność projektu z przepisami o pomocy publicznej: dotyczy nie dotyczy Czy projekt jest realizowany zgodnie z przepisami o pomocy publicznej? tak: nie: W przypadku gdy projekt jest realizowany niezgodnie z przepisami o pomocy publicznej, należy wskazać przyczyny niezgodności"
-    },
-    {
-     "type": "ocr",
-     "text": "V. PROMOCJA PROJEKTU Główne działania promujące projekt podjęte przez beneficjenta w okresie sprawozdawczym"
-    },
-    {
-     "type": "ocr",
-     "text": "VI. ZAGROŻENIA REALIZACJI PROJEKTU Należy opisać zidentyfikowane lub przewidywalne zagrożenia realizacji projektu"
-    },
-    {
-     "type": "ocr",
-     "text": "VII. TABELE"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych, poniesionych w ramach projektu (tabela 1)"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Zestawienie prognozowanych wartości wniosków o płatność, które zostaną złożone do Instytucji Zarządzającej Programem Operacyjnym Pomoc Techniczna 2004-2006 w okresie czterech kolejnych kwartałów (tabela 2)"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 1. Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych, poniesionych w ramach projektu Wydatki poniesione od momentu rozpoczęcia realizacji projektu"
-    },
-    {
-     "type": "ocr",
-     "text": "Wydatki poniesione w SEEGETELWĄTEWIU okresie sprawozdawczym"
-    },
-    {
-     "type": "ocr",
-     "text": "Wydatki kwalifikowalne"
-    },
-    {
-     "type": "ocr",
-     "text": "Wydatki niekwalifikowalne"
-    },
-    {
-     "type": "ocr",
-     "text": "Suma"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 2. Zestawienie prognozowanych wartości wniosków o płatność, które zostaną złożone do Instytucji Zarządzającej Programem Operacyjnym Pomoc Techniczna 2004-2006 w okresie czterech kolejnych kwartałów Środki publiczne Udział wkład , , a , , , krajowy wktad publiczn współfinansowania Tytuł projektu Ogółem ogółem wspólnotowy ey P z Srodki KĘ wspólnotowego EFRR! ogółem _| budżet państwa - (w %) publiczne 1=2+7 2=3+4 3 4=5+6 5 6 7 8 = (3/1)x100 % OGÓŁEM (wydatki związane z EFRR’) Kwartał ............ | Kwartał ............ | Kwartał ............ | Kwartał ............ Europejski Fundusz Rozwoju Regionalnego."
-    },
-    {
-     "type": "ocr",
-     "text": "8g IN MeJSsf) Aluueizq"
-    },
-    {
-     "type": "ocr",
-     "text": "9E97"
-    },
-    {
-     "type": "ocr",
-     "text": "€0v “20d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "VIII. OŚWIADCZENIE BENEFICJENTA Imię i nazwisko osoby wypełniającej sprawozdanie Adres Numer telefonu kontaktowego/faksu Adres poczty elektronicznej Oświadczam, iż informacje zawarte w niniejszym sprawozdaniu są zgodne z prawdą. Data: Pieczęć i podpis:"
-    },
-    {
-     "type": "ocr",
-     "text": "WYPEŁNIA INSTYTUCJA OTRZYMUJĄCA SPRAWOZDANIE Data wpłynięcia sprawozdania: Numer referencyjny sprawozdania:"
-    },
-    {
-     "type": "ocr",
-     "text": "Sprawozdanie sprawdzone przez: Imię i nazwisko: Podpis: Data:"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zestawienie prognozowanych wartości wniosków o płatność, które zostaną złożone do Instytucji Zarządzającej Programem Operacyjnym Pomoc Techniczna 2004-2006 w okresie czterech kolejnych kwartałów (tabela 2)",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Tabela 1. Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych, poniesionych w ramach projektu Wydatki poniesione od momentu rozpoczęcia realizacji projektu"
+      },
+      {
+       "type": "ocr",
+       "text": "Wydatki poniesione w SEEGETELWĄTEWIU okresie sprawozdawczym"
+      },
+      {
+       "type": "ocr",
+       "text": "Wydatki kwalifikowalne"
+      },
+      {
+       "type": "ocr",
+       "text": "Wydatki niekwalifikowalne"
+      },
+      {
+       "type": "ocr",
+       "text": "Suma"
+      },
+      {
+       "type": "ocr",
+       "text": "Tabela 2. Zestawienie prognozowanych wartości wniosków o płatność, które zostaną złożone do Instytucji Zarządzającej Programem Operacyjnym Pomoc Techniczna 2004-2006 w okresie czterech kolejnych kwartałów Środki publiczne Udział wkład , , a , , , krajowy wktad publiczn współfinansowania Tytuł projektu Ogółem ogółem wspólnotowy ey P z Srodki KĘ wspólnotowego EFRR! ogółem _| budżet państwa - (w %) publiczne 1=2+7 2=3+4 3 4=5+6 5 6 7 8 = (3/1)x100 % OGÓŁEM (wydatki związane z EFRR’) Kwartał ............ | Kwartał ............ | Kwartał ............ | Kwartał ............ Europejski Fundusz Rozwoju Regionalnego."
+      },
+      {
+       "type": "ocr",
+       "text": "8g IN MeJSsf) Aluueizq"
+      },
+      {
+       "type": "ocr",
+       "text": "9E97"
+      },
+      {
+       "type": "ocr",
+       "text": "€0v “20d"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "VIII. OŚWIADCZENIE BENEFICJENTA Imię i nazwisko osoby wypełniającej sprawozdanie Adres Numer telefonu kontaktowego/faksu Adres poczty elektronicznej Oświadczam, iż informacje zawarte w niniejszym sprawozdaniu są zgodne z prawdą. Data: Pieczęć i podpis:"
+      },
+      {
+       "type": "text",
+       "text": "WYPEŁNIA INSTYTUCJA OTRZYMUJĄCA SPRAWOZDANIE Data wpłynięcia sprawozdania: Numer referencyjny sprawozdania:"
+      },
+      {
+       "type": "text",
+       "text": "Sprawozdanie sprawdzone przez: Imię i nazwisko: Podpis: Data:"
+      }
+     ]
     }
    ]
   },
@@ -303,179 +358,267 @@
     },
     {
      "type": "note",
-     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Projekt Nazwa wskaźnika roduktu Nazwa wskaźnika rezultatu"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Wskaźniki postępu realizacji projektu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_4/lit_a",
+       "text": "osiągnięte wskaźniki 1",
+       "children": [
+        {
+         "type": "text",
+         "text": "Wartość e Jednostka | wskaźników a"
+        },
+        {
+         "type": "text",
+         "text": ", . , . 2 Wartość"
+        },
+        {
+         "type": "text",
+         "text": "o o pealiZael planowana . : wskaźników wskaźników | wskaźników | wskaźnika . a miary okreslona kreślon wskaźnika | we wniosku o focia aplikacyjnym | We Wnlosku"
+        },
+        {
+         "type": "text",
+         "text": "REA GE eA bli do osiągnięcia biet a ai +o [CZONY w następnym OBJĘTYM. realizacji | wg wzoru: okresie aplikacyjnym | sprawozdaniem projektu |6/(4-3)x100 %"
+        },
+        {
+         "type": "text",
+         "text": "1 2 3 4"
+        },
+        {
+         "type": "text",
+         "text": "Projekt Nazwa wskaźnika roduktu Nazwa wskaźnika produktu Nazwa wskaźnika rezultatu"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_4/lit_b",
+       "text": "osiągnięte wskaźniki 2 Wartość wskaźników Jednostka do zrealizowania | Wartość Mist w ramach wskaźnika ez projektu (wartość | osiągnięta docelowa w 2004 r. wskaźnika — wartość bazowa 1 2 3",
+       "children": [
+        {
+         "type": "text",
+         "text": "Projekt Nazwa wskaźnika roduktu Nazwa wskaźnika rezultatu sprawozdawczym"
+        },
+        {
+         "type": "text",
+         "text": "5 6 7 8"
+        },
+        {
+         "type": "text",
+         "text": "Wartość Wartość Wartość Wartość wskaźnika wskaźnika | wskaźnika | wskaźnika osiągnięta osiągnięta | osiągnięta | osiągnięta w 2005 r. w 2006 r. w 2007 r. | w 2008 r."
+        },
+        {
+         "type": "text",
+         "text": "5 6 7 8"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_4/lit_c",
+       "text": "informacja na temat stopnia osiągnięcia zakładanych wartości wskaźników w okresie objętym sprawozdaniem",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_4/lit_d",
+       "text": "inne niemierzalne wskaźniki",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "Dziennik Ustaw Nr 58 — 2539 — Poz. 403"
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Opis przeprowadzonych kontroli realizacji projektu",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4. Wskaźniki postępu realizacji projektu:"
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Opis najczęściej napotykanych problemów przy realizacji projektu wraz z informacją o środkach zaradczych podjętych przez beneficjenta",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Ill. POSTĘP FINANSOWY PROJEKTU"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "a) osiągnięte wskaźniki 1"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych, poniesionych w okresie sprawozdawczym w ramach projektu (tabela 1)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Wartość e , . , . 2 Wartość"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zestawienie prognozowanych wartości wniosków o płatność, jakie zrealizowane będą na rzecz beneficjenta, i odpowiadającego im współfinansowania krajowego dla projektu w następnym okresie sprawozdawczym (tabela 2)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Jednostka | wskaźników a o o pealiZael planowana . : wskaźników wskaźników | wskaźników | wskaźnika . a miary okreslona kreślon REA GE eA bli do osiągnięcia wskaźnika | we wniosku o focia biet a ai +o [CZONY w następnym aplikacyjnym | We Wnlosku OBJĘTYM. realizacji | wg wzoru: okresie aplikacyjnym | sprawozdaniem projektu |6/(4-3)x100 % sprawozdawczym"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Informacja na temat poziomu absorpcji środków w ramach realizowanego projektu",
+     "children": [
+      {
+       "type": "text",
+       "text": "IV. ZGODNOŚĆ PROJEKTU Z POLITYKAMI WSPÓLNOTY"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "1 2 3 4 5 6 7 8"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Zgodność projektu z przepisami o zamówieniach publicznych Rodzaj stosowanych procedur",
+     "children": [
+      {
+       "type": "text",
+       "text": "Jeśli stosowane są inne procedury niż we wniosku o dofinansowanie, proszę podać uzasadnienie zmiany oraz określić podstawę prawną"
+      },
+      {
+       "type": "text",
+       "text": "Proszę opisać stopień realizacji stosowanych procedur"
+      },
+      {
+       "type": "text",
+       "text": "Jeśli procedury zamówień publicznych nie są stosowane, proszę podać, na jakiej podstawie"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "Projekt Nazwa wskaznika roduktu Nazwa wskaznika produktu Nazwa wskaznika rezultatu"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zgodność projektu z polityką ochrony środowiska: [] dotyczy || nie dotyczy",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "b) osiągnięte wskaźniki 2 Wartość wskaźników Jednostka do zrealizowania | Wartość Wartość Wartość Wartość Wartość Mist w ramach wskaźnika wskaźnika wskaźnika | wskaźnika | wskaźnika ez projektu (wartość | osiągnięta osiągnięta osiągnięta | osiągnięta | osiągnięta docelowa w 2004 r. w 2005 r. w 2006 r. w 2007 r. | w 2008 r. wskaźnika — wartość bazowa 1 2 3 5 6 7 8"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Zgodność projektu z polityką równych szans: dotyczy nie dotyczy",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "c) informacja na temat stopnia osiągnięcia zakładanych wartości wskaźników w okresie objętym sprawozdaniem"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Zgodność projektu z przepisami o pomocy publicznej: dotyczy nie dotyczy Czy projekt jest realizowany zgodnie z przepisami o pomocy tak: nie: publicznej? W przypadku gdy projekt jest realizowany niezgodnie z przepisami o pomocy publicznej, należy wskazać przyczyny niezgodności",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "V. « PROMOCJA PROJEKTU Główne działania promujące projekt podjęte przez beneficjenta w okresie sprawozdawczym"
+      },
+      {
+       "type": "text",
+       "text": "VI. ZAGROŻENIA REALIZACJI PROJEKTU Należy przedstawić zidentyfikowane lub przewidywalne zagrożenia realizacji projektu"
+      },
+      {
+       "type": "text",
+       "text": "VII. TABELE"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "d) inne niemierzalne wskaźniki"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych, poniesionych w okresie sprawozdawczym w ramach projektu (tabela 1)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "5. Opis przeprowadzonych kontroli realizacji projektu"
-    },
-    {
-     "type": "ocr",
-     "text": "6. Opis najczęściej napotykanych problemów przy realizacji projektu wraz z informacją o środkach zaradczych podjętych przez beneficjenta"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Ill. POSTĘP FINANSOWY PROJEKTU"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych, poniesionych w okresie sprawozdawczym w ramach projektu (tabela 1)"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Zestawienie prognozowanych wartości wniosków o płatność, jakie zrealizowane będą na rzecz beneficjenta, i odpowiadającego im współfinansowania krajowego dla projektu w następnym okresie sprawozdawczym (tabela 2)"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Informacja na temat poziomu absorpcji środków w ramach realizowanego projektu"
-    },
-    {
-     "type": "ocr",
-     "text": "IV. ZGODNOŚĆ PROJEKTU Z POLITYKAMI WSPÓLNOTY"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Zgodność projektu z przepisami o zamówieniach publicznych Rodzaj stosowanych procedur"
-    },
-    {
-     "type": "ocr",
-     "text": "Jeśli stosowane są inne procedury niż we wniosku o dofinansowanie, proszę podać uzasadnienie zmiany oraz określić podstawę prawną"
-    },
-    {
-     "type": "ocr",
-     "text": "Proszę opisać stopień realizacji stosowanych procedur"
-    },
-    {
-     "type": "ocr",
-     "text": "Jeśli procedury zamówień publicznych nie są stosowane, proszę podać, na jakiej podstawie"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Zgodność projektu z polityką ochrony środowiska: [] dotyczy || nie dotyczy"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Zgodność projektu z polityką równych szans: dotyczy nie dotyczy"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Zgodność projektu z przepisami o pomocy publicznej: dotyczy nie dotyczy Czy projekt jest realizowany zgodnie z przepisami o pomocy tak: nie: publicznej? W przypadku gdy projekt jest realizowany niezgodnie z przepisami o pomocy publicznej, należy wskazać przyczyny niezgodności"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "V. « PROMOCJA PROJEKTU Główne działania promujące projekt podjęte przez beneficjenta w okresie sprawozdawczym"
-    },
-    {
-     "type": "ocr",
-     "text": "VI. ZAGROŻENIA REALIZACJI PROJEKTU Należy przedstawić zidentyfikowane lub przewidywalne zagrożenia realizacji projektu"
-    },
-    {
-     "type": "ocr",
-     "text": "VII. TABELE"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych, poniesionych w okresie sprawozdawczym w ramach projektu (tabela 1)"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Zestawienie prognozowanych wartości wniosków o płatność, jakie zrealizowane będą na rzecz beneficjenta, i odpowiadającego im współfinansowania krajowego dla projektu w następnym okresie sprawozdawczym (tabela 2)"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 1: Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych, poniesionych w okresie sprawozdawczym w ramach projektu Wydatki poniesione | Wydatki poniesione od Kategoria wydatku w okresie momentu rozpoczęcia sprawozdawczym realizacji projektu Wydatki kwalifikowalne Wydatki niekwalifikowalne Suma"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 2. Zestawienie prognozowanych wartości wniosków o płatność, jakie zrealizowane będą na rzecz beneficjenta, i odpowiadającego im współfinansowania krajowego dla projektu w następnym okresie sprawozdawczym Środki Środki publiczne Udział publiczne wkład krai kład publi poi owanie . . ć h rajowy wkład publiczny Tytuł projektu Ogółem ogółem wspólnotowy - Sód Inne wspólnotowego 1 . . , inne Srodki w % EFRR ogółem budżet państwa publiczne (w %) 1=2+7 2=3+4 3 4=5+6 5 6 7 8 = 3/1x100% OGÓŁEM (wydatki związane z EFRR’) kolejny rok realizacji projektu...... \"Europejski Fundusz Rozwoju Regionalnego."
-    },
-    {
-     "type": "ocr",
-     "text": "8g IN MeJSsf) Aluueizq"
-    },
-    {
-     "type": "ocr",
-     "text": "CVC"
-    },
-    {
-     "type": "ocr",
-     "text": "€0v “20d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "VIII. OŚWIADCZENIE BENEFICJENTA Imię i nazwisko osoby wypetniającej sprawozdanie Adres"
-    },
-    {
-     "type": "ocr",
-     "text": "Numer telefonu kontaktowego/faksu Adres poczty elektronicznej Oświadczam, iż informacje zawarte w niniejszym raporcie są zgodne z prawdą. Data: Pieczęć i podpis: WYPEŁNIA INSTYTUCJA OTRZYMUJĄCA SPRAWOZDANIE"
-    },
-    {
-     "type": "ocr",
-     "text": "Data wpłynięcia sprawozdania: Numer referencyjny sprawozdania:"
-    },
-    {
-     "type": "ocr",
-     "text": "Sprawozdanie sprawdzone przez: Imię i nazwisko: Podpis: Data:"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zestawienie prognozowanych wartości wniosków o płatność, jakie zrealizowane będą na rzecz beneficjenta, i odpowiadającego im współfinansowania krajowego dla projektu w następnym okresie sprawozdawczym (tabela 2)",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Tabela 1: Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych, poniesionych w okresie sprawozdawczym w ramach projektu Wydatki poniesione | Wydatki poniesione od Kategoria wydatku w okresie momentu rozpoczęcia sprawozdawczym realizacji projektu Wydatki kwalifikowalne Wydatki niekwalifikowalne Suma"
+      },
+      {
+       "type": "ocr",
+       "text": "Tabela 2. Zestawienie prognozowanych wartości wniosków o płatność, jakie zrealizowane będą na rzecz beneficjenta, i odpowiadającego im współfinansowania krajowego dla projektu w następnym okresie sprawozdawczym Środki Środki publiczne Udział publiczne wkład krai kład publi poi owanie . . ć h rajowy wkład publiczny Tytuł projektu Ogółem ogółem wspólnotowy - Sód Inne wspólnotowego 1 . . , inne Srodki w % EFRR ogółem budżet państwa publiczne (w %) 1=2+7 2=3+4 3 4=5+6 5 6 7 8 = 3/1x100% OGÓŁEM (wydatki związane z EFRR’) kolejny rok realizacji projektu...... \"Europejski Fundusz Rozwoju Regionalnego."
+      },
+      {
+       "type": "ocr",
+       "text": "8g IN MeJSsf) Aluueizq"
+      },
+      {
+       "type": "ocr",
+       "text": "CVC"
+      },
+      {
+       "type": "ocr",
+       "text": "€0v “20d"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "VIII. OŚWIADCZENIE BENEFICJENTA Imię i nazwisko osoby wypełniającej sprawozdanie Adres"
+      },
+      {
+       "type": "text",
+       "text": "Numer telefonu kontaktowego/faksu Adres poczty elektronicznej"
+      },
+      {
+       "type": "text",
+       "text": "Oświadczam, iż informacje zawarte w niniejszym raporcie są zgodne z prawdą."
+      },
+      {
+       "type": "text",
+       "text": "Data:"
+      },
+      {
+       "type": "text",
+       "text": "Pieczęć i podpis:"
+      },
+      {
+       "type": "text",
+       "text": "WYPEŁNIA INSTYTUCJA OTRZYMUJĄCA SPRAWOZDANIE"
+      },
+      {
+       "type": "text",
+       "text": "Data wpłynięcia sprawozdania: Numer referencyjny sprawozdania:"
+      },
+      {
+       "type": "text",
+       "text": "Sprawozdanie sprawdzone przez: Imię i nazwisko: Podpis: Data:"
+      }
+     ]
     }
    ]
   },
@@ -492,179 +635,190 @@
     },
     {
      "type": "note",
-     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "4. Wskaźniki postępu rzeczowego realizacji projektu:"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Wskaźniki postępu rzeczowego realizacji projektu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_4/lit_a",
+       "text": ". osiągnięte wskaźniki Wartość bazowa Jednostka wskaźników miary określona we wskaźnika wniosku o dofinansowanie 2",
+       "children": [
+        {
+         "type": "text",
+         "text": "3 Projekt Nazwa wskaźnika produktu Nazwa wskaźnika produktu Nazwa wskaźnika rezultatu"
+        },
+        {
+         "type": "text",
+         "text": "% — stopień realizacji Wartość docelowa Osiągnięta wartość wskaźników wskaźnika — wskaźników od określona we obliczone początku realizacji wniosku wg wzoru areo [5/(4-3)]x100% o dofinansowanie"
+        },
+        {
+         "type": "text",
+         "text": "4"
+        },
+        {
+         "type": "text",
+         "text": "5 6"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_4/lit_b",
+       "text": "- informacja na temat stopnia realizacji zakładanych wskaźników w porównaniu z docelowymi wartościami określonymi we wniosku o dofinansowanie",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_4/lit_c",
+       "text": "inne niemierzalne wskaźniki",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "a) . osiągnięte wskaźniki"
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Opis przeprowadzonych kontroli realizacji projektu",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Jednostka miary wskaźnika"
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Opis najczęściej napotykanych problemów przy realizacji projektu wraz z informacją o środkach zaradczych podjętych przez beneficjenta",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ill. POSTĘP FINANSOWY PROJEKTU"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "Wartość bazowa wskaźników określona we wniosku o dofinansowanie"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych, poniesionych w okresie sprawozdawczym w ramach projektu Wydatki poniesione w okresie Kategoria wydatku",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wydatki poniesione od momentu sprawozdawczym Wydatki kwalifikowalne"
+      },
+      {
+       "type": "text",
+       "text": "Wydatki niekwalifikowalne"
+      },
+      {
+       "type": "text",
+       "text": "Suma rozpoczęcia realizacji projektu"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "Wartość docelowa wskaźników określona we wniosku o dofinansowanie"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Informacja na temat poziomu absorpcji środków w ramach realizowanego projektu",
+     "children": [
+      {
+       "type": "text",
+       "text": "IV. ZGODNOŚĆ PROJEKTU Z POLITYKAMI WSPÓLNOTY"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "% — stopień realizacji wskaźnika — obliczone wg wzoru"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Zgodność projektu z przepisami o zamówieniach publicznych Rodzaj stosowanych wszystkich procedur",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Jeśli stosowane są inne procedury niż we wniosku o dofinansowanie, proszę podać uzasadnienie zmiany oraz określić podstawę prawną"
+      },
+      {
+       "type": "text",
+       "text": "Proszę opisać stopień realizacji stosowanych procedur"
+      },
+      {
+       "type": "text",
+       "text": "Jeśli procedury zamówień publicznych nie są stosowane, proszę podać, na jakiej podstawie"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "Osiągnięta wartość wskaźników od początku realizacji areo [5/(4-3)]x100%"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zgodność projektu z polityką ochrony środowiska: dotyczy nie dotyczy",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Zgodność projektu z polityką równych szans: || dotyczy || nie dotyczy",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "3 4"
-    },
-    {
-     "type": "ocr",
-     "text": "5 6 Projekt Nazwa wskaźnika produktu Nazwa wskaźnika produktu Nazwa wskaźnika rezultatu"
-    },
-    {
-     "type": "ocr",
-     "text": "b) - informacja na temat stopnia realizacji zakładanych wskaźników w porównaniu z docelowymi wartościami określonymi we wniosku o dofinansowanie"
-    },
-    {
-     "type": "ocr",
-     "text": "c) inne niemierzalne wskaźniki"
-    },
-    {
-     "type": "ocr",
-     "text": "5. Opis przeprowadzonych kontroli realizacji projektu"
-    },
-    {
-     "type": "ocr",
-     "text": "6. Opis najczęściej napotykanych problemów przy realizacji projektu wraz z informacją o środkach zaradczych podjętych przez beneficjenta"
-    },
-    {
-     "type": "ocr",
-     "text": "Ill. POSTĘP FINANSOWY PROJEKTU"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych, poniesionych w okresie sprawozdawczym w ramach projektu"
-    },
-    {
-     "type": "ocr",
-     "text": "Kategoria wydatku"
-    },
-    {
-     "type": "ocr",
-     "text": "Wydatki poniesione w okresie sprawozdawczym"
-    },
-    {
-     "type": "ocr",
-     "text": "Wydatki poniesione od momentu rozpoczęcia realizacji projektu"
-    },
-    {
-     "type": "ocr",
-     "text": "Wydatki kwalifikowalne"
-    },
-    {
-     "type": "ocr",
-     "text": "Wydatki niekwalifikowalne"
-    },
-    {
-     "type": "ocr",
-     "text": "Suma"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Informacja na temat poziomu absorpcji środków w ramach realizowanego projektu"
-    },
-    {
-     "type": "ocr",
-     "text": "IV. ZGODNOŚĆ PROJEKTU Z POLITYKAMI WSPÓLNOTY"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Zgodność projektu z przepisami o zamówieniach publicznych"
-    },
-    {
-     "type": "ocr",
-     "text": "Rodzaj stosowanych wszystkich procedur"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Jeśli stosowane są inne procedury niż we wniosku o dofinansowanie, proszę podać uzasadnienie zmiany oraz określić podstawę prawną"
-    },
-    {
-     "type": "ocr",
-     "text": "Proszę opisać stopień realizacji stosowanych procedur"
-    },
-    {
-     "type": "ocr",
-     "text": "Jeśli procedury zamówień publicznych nie są stosowane, proszę podać, na jakiej podstawie"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Zgodność projektu z polityką ochrony środowiska: dotyczy nie dotyczy"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Zgodność projektu z polityką równych szans: || dotyczy || nie dotyczy"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Zgodność projektu z przepisami o pomocy publicznej: dotyczy nie dotyczy Czy projekt jest realizowany zgodnie z przepisami o pomocy tak: nie: publicznej? W przypadku gdy projekt jest realizowany niezgodnie z przepisami o pomocy publicznej, należy wskazać przyczyny niezgodności"
-    },
-    {
-     "type": "ocr",
-     "text": "V. PROMOCJA PROJEKTU Główne działania promujące projekt podjęte przez beneficjenta w okresie sprawozdawczym"
-    },
-    {
-     "type": "ocr",
-     "text": "VI. OCENA SKUTECZNOŚCI STOSOWANYCH INSTRUMENTÓW REALIZACYJNYCH Ocena skuteczności stosowanych instrumentów realizacyjnych, w tym zastosowanych procedur"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "VII. OŚWIADCZENIE BENEFICJENTA Imię i nazwisko osoby wypełniającej sprawozdanie Adres"
-    },
-    {
-     "type": "ocr",
-     "text": "Numer telefonu kontaktowego/faksu Adres poczty elektronicznej"
-    },
-    {
-     "type": "ocr",
-     "text": "Oświadczam, iż informacje zawarte w niniejszym sprawozdaniu są zgodne z prawdą."
-    },
-    {
-     "type": "ocr",
-     "text": "Data: Pieczęć i podpis:"
-    },
-    {
-     "type": "ocr",
-     "text": "WYPEŁNIA INSTYTUCJA OTRZYMUJĄCA SPRAWOZDANIE"
-    },
-    {
-     "type": "ocr",
-     "text": "Data wpłynięcia sprawozdania: Numer referencyjny sprawozdania:"
-    },
-    {
-     "type": "ocr",
-     "text": "Sprawozdanie sprawdzone przez: Imię i nazwisko: Podpis: Data:"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Zgodność projektu z przepisami o pomocy publicznej: dotyczy nie dotyczy Czy projekt jest realizowany zgodnie z przepisami o pomocy tak: nie: publicznej? W przypadku gdy projekt jest realizowany niezgodnie z przepisami o pomocy publicznej, należy wskazać przyczyny niezgodności",
+     "children": [
+      {
+       "type": "text",
+       "text": "V. PROMOCJA PROJEKTU Główne działania promujące projekt podjęte przez beneficjenta w okresie sprawozdawczym"
+      },
+      {
+       "type": "text",
+       "text": "VI. OCENA SKUTECZNOŚCI STOSOWANYCH INSTRUMENTÓW REALIZACYJNYCH Ocena skuteczności stosowanych instrumentów realizacyjnych, w tym zastosowanych procedur"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 16 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "VII. OŚWIADCZENIE BENEFICJENTA Imię i nazwisko osoby wypełniającej sprawozdanie Adres"
+      },
+      {
+       "type": "text",
+       "text": "Numer telefonu kontaktowego/faksu Adres poczty elektronicznej"
+      },
+      {
+       "type": "text",
+       "text": "Oświadczam, iż informacje zawarte w niniejszym sprawozdaniu są zgodne z prawdą."
+      },
+      {
+       "type": "text",
+       "text": "Data: Pieczęć i podpis:"
+      },
+      {
+       "type": "text",
+       "text": "WYPEŁNIA INSTYTUCJA OTRZYMUJĄCA SPRAWOZDANIE"
+      },
+      {
+       "type": "text",
+       "text": "Data wpłynięcia sprawozdania: Numer referencyjny sprawozdania:"
+      },
+      {
+       "type": "text",
+       "text": "Sprawozdanie sprawdzone przez: Imię i nazwisko: Podpis: Data:"
+      }
+     ]
     }
    ]
   },
@@ -681,395 +835,489 @@
     },
     {
      "type": "note",
-     "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 18 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "a)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "DZIAŁANIA PODJĘTE PRZEZ INSTYTUCJĘ ZARZĄDZAJĄCĄ I KOMITET MONITORUJĄCY DLA ZAPEWNIENIA PRAWIDŁOWOŚCI I SPRAWNOŚCI WDRAŻANEGO PROGRAMU"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Opis najczęściej napotykanych problemów przy realizacji Programu wraz z informacją o środkach zaradczych podjętych przez instytucję zarządzającą: problemy przy realizacji Programu napotkane w ostatnim okresie sprawozdawczym, wynikające ze stosowanych rozwiązań systemowych opisanych w Programie"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "problemy przy realizacji Programu napotkane w ostatnim okresie sprawozdawczym, wynikające z okoliczności zewnętrznych, niepowiązanych z rozwiązaniami zastosowanymi w ramach systemu wdrażania Programu"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Działania Komitetu Monitorującego i Instytucji Zarządzającej służące poprawie wdrażania Programu"
     },
     {
-     "type": "ocr",
-     "text": "3. Informacja o dokonanych modyfikacjach/usprawnieniach systemu wdrażania"
-    },
-    {
-     "type": "ocr",
-     "text": "IV. POSTĘP FINANSOWY PROGRAMU 1. Ogólne informacje dotyczące postępu finansowego"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Porównanie zakładanego stopnia realizacji zobowiązań z osiągniętym w danym okresie sprawozdawczym"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych dla Programu za okres sprawozdawczy (tabela 2)"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Zestawienie źródeł, z których sfinansowane zostały od początku uruchomienia Programu wydatki kwalifikowalne stanowiące podstawę zrealizowanych płatności (tabela 3)"
-    },
-    {
-     "type": "ocr",
-     "text": "5. Zestawienie wartości płatności zrealizowanych na rzecz beneficjentów i odpowiadającego im współfinansowania krajowego dla Programu od początku uruchomienia Programu (tabela 4)"
-    },
-    {
-     "type": "ocr",
-     "text": "6. Zestawienie prognozowanych wartości płatności, które zostaną zrealizowane na rzecz beneficjentów, i odpowiadającego im współfinansowania krajowego dla Programu (w zł) (tabela 5)"
-    },
-    {
-     "type": "ocr",
-     "text": "7. Kwota odsetek narosłych od środków zgromadzonych na realizację Programu Kwota odsetek V. INFORMACJA O ZGODNOŚCI REALIZACJI PROGRAMU Z ZASADAMI POLITYK WSPÓLNOTOWYCH"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Zgodność realizowanego Programu z przepisami o zamówieniach publicznych Czy w trakcie realizacji Programu nastąpiło naruszenie przepisów tak: nie: o zamówieniach publicznych? W przypadku naruszenia przepisów o zamówieniach publicznych proszę opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 19 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Zgodność Programu z polityką ochrony środowiska Czy w trakcie realizacji Programu nastąpiło naruszenie zasady zgodności z polityką ochrony środowiska? tak: nie: nie dotyczy: W przypadku naruszenia zasad polityki ochrony środowiska należy opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Zgodność realizowanego Programu z polityką równych szans Czy w trakcie realizacji Programu nastąpiło naruszenie zasady zgodności z polityką równych szans? tak: nie: nie dotyczy: W przypadku naruszenia zasady równych szans należy opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Zgodność Programu z przepisami o pomocy publicznej tak: nie: nie dotyczy: Wielkość udzielonej pomocy technicznej w ramach Programu Wielkość pomocy publicznej przekazanej beneficjentom od początku Działanie uruchomienia Programu wspólnotowe krajowe 1 2 3"
-    },
-    {
-     "type": "ocr",
-     "text": "5. Wnioski dotyczące funkcjonowania systemu monitorowania zgodności Programu z zasadami polityk Wspólnoty"
-    },
-    {
-     "type": "ocr",
-     "text": "VI. WYPEŁNIANIE OBOWIĄZKÓW W ZAKRESIE INFORMACJI I PROMOCJI PROGRAMU"
-    },
-    {
-     "type": "ocr",
-     "text": "Opis działań podjętych w ramach realizacji planu informacji i promocji Programu"
-    },
-    {
-     "type": "ocr",
-     "text": "VII. OCENA SYSTEMU WDRAŻANIA PROGRAMU"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Opis i ocena systemu wdrażania Programu"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Informacja o planowanych modyfikacjach/usprawnieniach systemu wdrażania"
-    },
-    {
-     "type": "ocr",
-     "text": "VIII. INFORMACJA O PRZEPROWADZONYCH KONTROLACH I STWIERDZONYCH NIEPRAWIDŁOWOŚCIACH W REALIZACJI PROGRAMU"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Informacja o działaniach podjętych przez Instytucję Zarządzającą lub upoważnioną przez nią jednostkę w ramach kontroli postępów realizacji Programu, ich wynikach i planowanych lub realizowanych działaniach pokontrolnych"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 20 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Informacja o działaniach podjętych przez Instytucję Zarządzającą lub upoważnioną przez nią jednostkę w ramach kontroli systemu wraz z informacją o ich wynikach, sformułowanych zaleceniach i planowanych lub realizowanych działaniach pokontrolnych*"
-    },
-    {
-     "type": "ocr",
-     "text": "* Dodatkowo należy dołączyć protokoły przeprowadzonych kontroli"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Informacja o ewentualnych działaniach kontrolnych podjętych przez inne instytucje (np. NIK, UKS)"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Raporty o nieprawidłowościach"
-    },
-    {
-     "type": "ocr",
-     "text": "a) czy w okresie sprawozdawczym przygotowano raport(y) z nieprawidłowości w Programie? tak: nie:"
-    },
-    {
-     "type": "ocr",
-     "text": "b) jeśli raporty zostały przygotowane, to ile raportów przekazano do Biura Międzynarodowych Relacji Skarbowych w Ministerstwie Finansów?"
-    },
-    {
-     "type": "ocr",
-     "text": "IX. ZDOLNOŚĆ INSTYTUCJONALNA"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Opis i ocena zdolności instytucjonalnej"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Stan zatrudnienia w instytucjach zaangażowanych w zarządzanie i wdrażanie Programu (tabela 6) X. INFORMACJA NA TEMAT DUŻYCH PROJEKTÓW Postęp finansowy i postęp we wdrażaniu projektów"
-    },
-    {
-     "type": "ocr",
-     "text": "XI. REKOMENDACJE DLA DALSZEJ REALIZACJI PROGRAMU"
-    },
-    {
-     "type": "ocr",
-     "text": "XII. TABELE"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Tabela 1. Stan realizacji projektów w ramach priorytetów/działań (w zł)"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Tabela 2. Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych dla Programu za okres sprawozdawczy"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Tabela 3. Zestawienie Źródeł, z których sfinansowane zostały od początku uruchomienia Programu wydatki kwalifikowalne stanowiące podstawę zrealizowanych płatności"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Tabela 4. Zestawienie wartości płatności zrealizowanych na rzecz beneficjentów i odpowiadającego im współfinansowania krajowego dla Programu od początku uruchomienia Programu"
-    },
-    {
-     "type": "ocr",
-     "text": "5. Tabela 5. Zestawienie prognozowanych wartości płatności, które zostaną zrealizowane na rzecz beneficjentów, i odpowiadającego im współfinansowania krajowego dla Programu (w zł)"
-    },
-    {
-     "type": "ocr",
-     "text": "6. Tabela 6. Stan zatrudnienia w instytucjach zaangażowanych w zarządzanie i wdrażanie Programu"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 21 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 1. Stan realizacji projektów w ramach priorytetów/działań (w zł) Umowy (decyzje) o dofinansowanie projektu podpisane (wydane) od początku uruchomienia Programu"
-    },
-    {
-     "type": "ocr",
-     "text": "Projekty zrealizowane od początku uruchomienia Programu poziom wydatków określonych w umowach"
-    },
-    {
-     "type": "ocr",
-     "text": "wartość środków"
-    },
-    {
-     "type": "ocr",
-     "text": "zo) [e] po) c o£ . wartość środków wydatki poniesione w ramach projektów płatności ©"
-    },
-    {
-     "type": "ocr",
-     "text": "© o (decyzjach) ZY eh funduszy wartość płatności | dokonane z kont o 2° . M . strukturalnych z kont programowych od ę E ‘ a i lear objetych umowami programowych poczatku"
-    },
-    {
-     "type": "ocr",
-     "text": "rz) oe - o dofinansowanie od początku uruchomienia N PE EA zawartymi uruchomienia Programu = Ns © od poczatku od początku © Programu do konica 2 38 4 w tym wartość uruchomienia ruchomieni Ą w tym wartość | do końca okr rzedni 5 ge 8 w tym wartość | dofinansowania Programu AU dO KOŃ 8 w tym wartość wydatków orawozdawczegć Po okresu Z 82 m ogółem wydatków ze środków do końca okresu Programu do końca \"_ | ogółem wydatków oe śro dków sprawozdawczego okresu a | 22 kwalifikowalnych sprawozdawczego | Poprzedniego okresu kwalifikowalnych jako | sprawozdawczego zw wspólnotowych iako % sprawozdawczego wspólnotowych | zobowiązań jako % 8 8 zobowiązań jako % funduszy zobowiązań Na fundusz: zobowiązań funduszy strukturalnych funduszy u strukturalnych strukturalnych na lata 2004-2006 strukturalnych na lata 2004-2006 na lata 2004—2006 na lata 2004—2006 0 1 2 3 4 5 6 7 8 9 10 11 12 13"
-    },
-    {
-     "type": "ocr",
-     "text": "UWAGI:"
-    },
-    {
-     "type": "ocr",
-     "text": "8g IN MeJSsf) Aluueizq"
-    },
-    {
-     "type": "ocr",
-     "text": "CGGC"
-    },
-    {
-     "type": "ocr",
-     "text": "07 z0d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 2. Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych dla Programu za okres sprawozdawczy Wydatki poniesione Wydatki poniesione Kategoria wydatku w okresie od momentu rozpoczęcia sprawozdawczym realizacji Programu Wydatki kwalifikowalne Priorytet 1 Działanie 1 Całkowite wydatki kwalifikowalne Wydatki niekwalifikowalne Priorytet 1 Działanie 1 Całkowite wydatki niekwalifikowalne Całkowity koszt programu"
-    },
-    {
-     "type": "ocr",
-     "text": "p JT"
-    },
-    {
-     "type": "ocr",
-     "text": "8g IN MeJSsf) Aluueizq"
-    },
-    {
-     "type": "ocr",
-     "text": "EGGZ"
-    },
-    {
-     "type": "ocr",
-     "text": "07 z0d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 3. Zestawienie źródeł, z których sfinansowane zostały od początku uruchomienia Programu wydatki kwalifikowalne stanowiące podstawę zrealizowanych płatności Środki publiczne Z tego z budżet budżet Z tego z kolumny 2 jednostek jednostek A kolumny | („środki . środki J ! ee Srodki („Ogółem”) mę Ogółem ubliczne budżet samorządu | samorządu | inne środki prywatne Inne środki publiczne ia ółem państwa terytorialnego terytorialnego | publiczne y z pożyczek ogółem”) środki 9 szczebla szczebla p Eb z pożyczek na regionalnego |_ lokalnego prefinansowanie 1 2=3+4+5+6 3 4 5 6 7 8 9 10 OGOLEM Ogółem Priorytet 1 Działanie 1"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 4. Zestawienie wartości płatności zrealizowanych na rzecz beneficjentów i odpowiadającego im współfinansowania krajowego dla Programu od początku uruchomienia Programu"
-    },
-    {
-     "type": "ocr",
-     "text": "Środki publiczne Środki z pożyczek EBI"
-    },
-    {
-     "type": "ocr",
-     "text": "Udział współfinansowania Ogółem , krajowy wktad publiczny Inne wspólnotowego stem wkład wspólnotowy - (w %) 090 ERDF ogółem | pudżet mne 9 państwa 1 2 3 4 5 6 7 8 9 OGOLEM OGOLEM"
-    },
-    {
-     "type": "ocr",
-     "text": "Priorytet 1 Dziatanie 1"
-    },
-    {
-     "type": "ocr",
-     "text": "8g IN MeJSsf) Aluueizq"
-    },
-    {
-     "type": "ocr",
-     "text": "vac"
-    },
-    {
-     "type": "ocr",
-     "text": "€0v “20d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 24 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 5. Zestawienie prognozowanych wartości płatności, które zostaną zrealizowane na rzecz beneficjentów, i odpowiadającego im współfinansowania krajowego dla Programu (w zł) Środki publiczne wkład wspólnotowy ERDF"
-    },
-    {
-     "type": "ocr",
-     "text": "krajowy wkład publiczny ogółem"
-    },
-    {
-     "type": "ocr",
-     "text": "budżet państwa"
-    },
-    {
-     "type": "ocr",
-     "text": "Środki z pożyczek EBI"
-    },
-    {
-     "type": "ocr",
-     "text": "Udział współfinansowania wspólnotowego (w %) 3"
-    },
-    {
-     "type": "ocr",
-     "text": "4"
-    },
-    {
-     "type": "ocr",
-     "text": "5"
-    },
-    {
-     "type": "ocr",
-     "text": "9 OGÓŁEM OGÓŁEM Priorytet 1 Kwartał I Kwartał II"
-    },
-    {
-     "type": "ocr",
-     "text": "Kwartał III"
-    },
-    {
-     "type": "ocr",
-     "text": "Kwartał IV"
-    },
-    {
-     "type": "ocr",
-     "text": "Priorytet 2"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 6. Stan zatrudnienia w instytucjach zaangażowanych w zarządzanie i wdrażanie Programu Liczba przyznanych etatów"
-    },
-    {
-     "type": "ocr",
-     "text": "Faktyczny stan zatrudnienia w obecnym okresie sprawozdawczym"
-    },
-    {
-     "type": "ocr",
-     "text": "Zapotrzebowanie na dodatkowe etaty,"
-    },
-    {
-     "type": "ocr",
-     "text": "Rotacja kadr"
-    },
-    {
-     "type": "ocr",
-     "text": "8g IN MeJSsf) Aluueizq"
-    },
-    {
-     "type": "ocr",
-     "text": "KEETA"
-    },
-    {
-     "type": "ocr",
-     "text": "t niezbedne dla jczba at i w tym ści żąni . A A iczba etatów, i syta Nazwa instytucji wszystkie przyznane wszystkie - wigsciwego worazania liczba etatow, ktore które zostały oe rzyznane | etaty w ramach | obsadzone w tym finansowane rogramu (różnica zostały zwolnione obsadzone p A t y tat z pomocy technicznej pomiędzy optymalną w okresie raat nd t chnicznej EW liczbą pracowników sprawozdawczym W OKTESIE echnicznej a kolumną 3) sprawozdawczym 1 2 3 4 5 6 7 8 9"
-    },
-    {
-     "type": "ocr",
-     "text": "07 z0d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "XIII. OŚWIADCZENIE INSTYTUCJI ZARZĄDZAJĄCEJ Imię i nazwisko osoby wypetniającej sprawozdanie Adres Numer telefonu kontaktowego i faksu Adres poczty elektronicznej"
-    },
-    {
-     "type": "ocr",
-     "text": "Oświadczam, iż informacje zawarte w niniejszym sprawozdaniu są zgodne z prawdą."
-    },
-    {
-     "type": "ocr",
-     "text": "Data: Pieczęć i podpis:"
-    },
-    {
-     "type": "ocr",
-     "text": "WYPEŁNIA INSTYTUCJA OTRZYMUJĄCA SPRAWOZDANIE"
-    },
-    {
-     "type": "ocr",
-     "text": "Data wpłynięcia sprawozdania: Numer referencyjny sprawozdania:"
-    },
-    {
-     "type": "ocr",
-     "text": "Sprawozdanie sprawdzone przez: Imię i nazwisko: Podpis: Data:"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Informacja o dokonanych modyfikacjach/usprawnieniach systemu wdrażania",
+     "children": [
+      {
+       "type": "text",
+       "text": "IV. POSTĘP FINANSOWY PROGRAMU 1. Ogólne informacje dotyczące postępu finansowego"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Porównanie zakładanego stopnia realizacji zobowiązań z osiągniętym w danym okresie sprawozdawczym",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych dla Programu za okres sprawozdawczy (tabela 2)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Zestawienie źródeł, z których sfinansowane zostały od początku uruchomienia Programu wydatki kwalifikowalne stanowiące podstawę zrealizowanych płatności (tabela 3)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Zestawienie wartości płatności zrealizowanych na rzecz beneficjentów i odpowiadającego im współfinansowania krajowego dla Programu od początku uruchomienia Programu (tabela 4)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Zestawienie prognozowanych wartości płatności, które zostaną zrealizowane na rzecz beneficjentów, i odpowiadającego im współfinansowania krajowego dla Programu (w zł) (tabela 5)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Kwota odsetek narosłych od środków zgromadzonych na realizację Programu Kwota odsetek V. INFORMACJA O ZGODNOŚCI REALIZACJI PROGRAMU Z ZASADAMI POLITYK WSPÓLNOTOWYCH",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Zgodność realizowanego Programu z przepisami o zamówieniach publicznych Czy w trakcie realizacji Programu nastąpiło naruszenie przepisów tak: nie: o zamówieniach publicznych? W przypadku naruszenia przepisów o zamówieniach publicznych proszę opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 19 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zgodność Programu z polityką ochrony środowiska Czy w trakcie realizacji Programu nastąpiło naruszenie zasady zgodności z polityką ochrony środowiska? tak: nie: nie dotyczy: W przypadku naruszenia zasad polityki ochrony środowiska należy opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Zgodność realizowanego Programu z polityką równych szans Czy w trakcie realizacji Programu nastąpiło naruszenie zasady zgodności z polityką równych szans? tak: nie: nie dotyczy: W przypadku naruszenia zasady równych szans należy opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Zgodność Programu z przepisami o pomocy publicznej tak: nie: nie dotyczy: Wielkość udzielonej pomocy technicznej w ramach Programu Wielkość pomocy publicznej przekazanej beneficjentom od początku Działanie uruchomienia Programu wspólnotowe 1 2 krajowe 3",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Wnioski dotyczące funkcjonowania systemu monitorowania zgodności Programu z zasadami polityk Wspólnoty",
+     "children": [
+      {
+       "type": "text",
+       "text": "VI. WYPEŁNIANIE OBOWIĄZKÓW W ZAKRESIE INFORMACJI I PROMOCJI PROGRAMU"
+      },
+      {
+       "type": "text",
+       "text": "Opis działań podjętych w ramach realizacji planu informacji i promocji Programu"
+      },
+      {
+       "type": "text",
+       "text": "VII. OCENA SYSTEMU WDRAŻANIA PROGRAMU"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Opis i ocena systemu wdrażania Programu",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Informacja o planowanych modyfikacjach/usprawnieniach systemu wdrażania",
+     "children": [
+      {
+       "type": "text",
+       "text": "VIII. INFORMACJA O PRZEPROWADZONYCH KONTROLACH I STWIERDZONYCH NIEPRAWIDŁOWOŚCIACH W REALIZACJI PROGRAMU"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Informacja o działaniach podjętych przez Instytucję Zarządzającą lub upoważnioną przez nią jednostkę w ramach kontroli postępów realizacji Programu, ich wynikach i planowanych lub realizowanych działaniach pokontrolnych",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 20 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Informacja o działaniach podjętych przez Instytucję Zarządzającą lub upoważnioną przez nią jednostkę w ramach kontroli systemu wraz z informacją o ich wynikach, sformułowanych zaleceniach i planowanych lub realizowanych działaniach pokontrolnych*",
+     "children": [
+      {
+       "type": "text",
+       "text": "* Dodatkowo należy dołączyć protokoły przeprowadzonych kontroli"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Informacja o ewentualnych działaniach kontrolnych podjętych przez inne instytucje (np. NIK, UKS)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Raporty o nieprawidłowościach",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_4/lit_a",
+       "text": "czy w okresie sprawozdawczym przygotowano raport(y) z nieprawidłowości w Programie? tak: nie:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_4/lit_b",
+       "text": "jeśli raporty zostały przygotowane, to ile raportów przekazano do Biura Międzynarodowych Relacji Skarbowych w Ministerstwie Finansów?",
+       "children": [
+        {
+         "type": "text",
+         "text": "IX. ZDOLNOŚĆ INSTYTUCJONALNA"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Opis i ocena zdolności instytucjonalnej",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Stan zatrudnienia w instytucjach zaangażowanych w zarządzanie i wdrażanie Programu (tabela 6) X. INFORMACJA NA TEMAT DUŻYCH PROJEKTÓW Postęp finansowy i postęp we wdrażaniu projektów",
+     "children": [
+      {
+       "type": "text",
+       "text": "XI. REKOMENDACJE DLA DALSZEJ REALIZACJI PROGRAMU"
+      },
+      {
+       "type": "text",
+       "text": "XII. TABELE"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Tabela 1. Stan realizacji projektów w ramach priorytetów/działań (w zł)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Tabela 2. Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych dla Programu za okres sprawozdawczy",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Tabela 3. Zestawienie Źródeł, z których sfinansowane zostały od początku uruchomienia Programu wydatki kwalifikowalne stanowiące podstawę zrealizowanych płatności",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Tabela 4. Zestawienie wartości płatności zrealizowanych na rzecz beneficjentów i odpowiadającego im współfinansowania krajowego dla Programu od początku uruchomienia Programu",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Tabela 5. Zestawienie prognozowanych wartości płatności, które zostaną zrealizowane na rzecz beneficjentów, i odpowiadającego im współfinansowania krajowego dla Programu (w zł)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Tabela 6. Stan zatrudnienia w instytucjach zaangażowanych w zarządzanie i wdrażanie Programu",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 21 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Tabela 1. Stan realizacji projektów w ramach priorytetów/działań (w zł) Umowy (decyzje) o dofinansowanie projektu podpisane (wydane) od początku uruchomienia Programu"
+      },
+      {
+       "type": "ocr",
+       "text": "Projekty zrealizowane od początku uruchomienia Programu poziom wydatków określonych w umowach"
+      },
+      {
+       "type": "ocr",
+       "text": "wartość środków"
+      },
+      {
+       "type": "ocr",
+       "text": "zo) [e] po) c o£ . wartość środków wydatki poniesione w ramach projektów płatności ©"
+      },
+      {
+       "type": "ocr",
+       "text": "© o (decyzjach) ZY eh funduszy wartość płatności | dokonane z kont o 2° . M . strukturalnych z kont programowych od ę E ‘ a i lear objetych umowami programowych poczatku"
+      },
+      {
+       "type": "ocr",
+       "text": "rz) oe - o dofinansowanie od początku uruchomienia N PE EA zawartymi uruchomienia Programu = Ns © od poczatku od początku © Programu do konica 2 38 4 w tym wartość uruchomienia ruchomieni Ą w tym wartość | do końca okr rzedni 5 ge 8 w tym wartość | dofinansowania Programu AU dO KOŃ 8 w tym wartość wydatków orawozdawczegć Po okresu Z 82 m ogółem wydatków ze środków do końca okresu Programu do końca \"_ | ogółem wydatków oe śro dków sprawozdawczego okresu a | 22 kwalifikowalnych sprawozdawczego | Poprzedniego okresu kwalifikowalnych jako | sprawozdawczego zw wspólnotowych iako % sprawozdawczego wspólnotowych | zobowiązań jako % 8 8 zobowiązań jako % funduszy zobowiązań Na fundusz: zobowiązań funduszy strukturalnych funduszy u strukturalnych strukturalnych na lata 2004-2006 strukturalnych na lata 2004-2006 na lata 2004—2006 na lata 2004—2006 0 1 2 3 4 5 6 7 8 9 10 11 12 13"
+      },
+      {
+       "type": "ocr",
+       "text": "UWAGI:"
+      },
+      {
+       "type": "ocr",
+       "text": "8g IN MeJSsf) Aluueizq"
+      },
+      {
+       "type": "ocr",
+       "text": "CGGC"
+      },
+      {
+       "type": "ocr",
+       "text": "07 z0d"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Tabela 2. Zestawienie wydatków kwalifikowalnych i niekwalifikowalnych dla Programu za okres sprawozdawczy Wydatki poniesione Wydatki poniesione Kategoria wydatku w okresie od momentu rozpoczęcia sprawozdawczym realizacji Programu Wydatki kwalifikowalne Priorytet 1 Działanie 1 Całkowite wydatki kwalifikowalne Wydatki niekwalifikowalne Priorytet 1 Działanie 1 Całkowite wydatki niekwalifikowalne Całkowity koszt programu"
+      },
+      {
+       "type": "ocr",
+       "text": "p JT"
+      },
+      {
+       "type": "ocr",
+       "text": "8g IN MeJSsf) Aluueizq"
+      },
+      {
+       "type": "ocr",
+       "text": "EGGZ"
+      },
+      {
+       "type": "ocr",
+       "text": "07 z0d"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Tabela 3. Zestawienie źródeł, z których sfinansowane zostały od początku uruchomienia Programu wydatki kwalifikowalne stanowiące podstawę zrealizowanych płatności Środki publiczne Z tego z budżet budżet Z tego z kolumny 2 jednostek jednostek A kolumny | („środki . środki J ! ee Srodki („Ogółem”) mę Ogółem ubliczne budżet samorządu | samorządu | inne środki prywatne Inne środki publiczne ia ółem państwa terytorialnego terytorialnego | publiczne y z pożyczek ogółem”) środki 9 szczebla szczebla p Eb z pożyczek na regionalnego |_ lokalnego prefinansowanie 1 2=3+4+5+6 3 4 5 6 7 8 9 10 OGOLEM Ogółem Priorytet 1 Działanie 1"
+      },
+      {
+       "type": "ocr",
+       "text": "Tabela 4. Zestawienie wartości płatności zrealizowanych na rzecz beneficjentów i odpowiadającego im współfinansowania krajowego dla Programu od początku uruchomienia Programu"
+      },
+      {
+       "type": "ocr",
+       "text": "Środki publiczne Środki z pożyczek EBI"
+      },
+      {
+       "type": "ocr",
+       "text": "Udział współfinansowania Ogółem , krajowy wktad publiczny Inne wspólnotowego stem wkład wspólnotowy - (w %) 090 ERDF ogółem | pudżet mne 9 państwa 1 2 3 4 5 6 7 8 9 OGOLEM OGOLEM"
+      },
+      {
+       "type": "ocr",
+       "text": "Priorytet 1 Dziatanie 1"
+      },
+      {
+       "type": "ocr",
+       "text": "8g IN MeJSsf) Aluueizq"
+      },
+      {
+       "type": "ocr",
+       "text": "vac"
+      },
+      {
+       "type": "ocr",
+       "text": "€0v “20d"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 24 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Tabela 5. Zestawienie prognozowanych wartości płatności, które zostaną zrealizowane na rzecz beneficjentów, i odpowiadającego im współfinansowania krajowego dla Programu (w zł) Środki publiczne wkład wspólnotowy ERDF"
+      },
+      {
+       "type": "ocr",
+       "text": "krajowy wkład publiczny ogółem"
+      },
+      {
+       "type": "ocr",
+       "text": "budżet państwa"
+      },
+      {
+       "type": "ocr",
+       "text": "Środki z pożyczek EBI"
+      },
+      {
+       "type": "ocr",
+       "text": "Udział współfinansowania wspólnotowego (w %) 3"
+      },
+      {
+       "type": "ocr",
+       "text": "4"
+      },
+      {
+       "type": "ocr",
+       "text": "5"
+      },
+      {
+       "type": "ocr",
+       "text": "9 OGÓŁEM OGÓŁEM Priorytet 1 Kwartał I Kwartał II"
+      },
+      {
+       "type": "ocr",
+       "text": "Kwartał III"
+      },
+      {
+       "type": "ocr",
+       "text": "Kwartał IV"
+      },
+      {
+       "type": "ocr",
+       "text": "Priorytet 2"
+      },
+      {
+       "type": "ocr",
+       "text": "Tabela 6. Stan zatrudnienia w instytucjach zaangażowanych w zarządzanie i wdrażanie Programu Liczba przyznanych etatów"
+      },
+      {
+       "type": "ocr",
+       "text": "Faktyczny stan zatrudnienia w obecnym okresie sprawozdawczym"
+      },
+      {
+       "type": "ocr",
+       "text": "Zapotrzebowanie na dodatkowe etaty,"
+      },
+      {
+       "type": "ocr",
+       "text": "Rotacja kadr"
+      },
+      {
+       "type": "ocr",
+       "text": "8g IN MeJSsf) Aluueizq"
+      },
+      {
+       "type": "ocr",
+       "text": "KEETA"
+      },
+      {
+       "type": "ocr",
+       "text": "t niezbedne dla jczba at i w tym ści żąni . A A iczba etatów, i syta Nazwa instytucji wszystkie przyznane wszystkie - wigsciwego worazania liczba etatow, ktore które zostały oe rzyznane | etaty w ramach | obsadzone w tym finansowane rogramu (różnica zostały zwolnione obsadzone p A t y tat z pomocy technicznej pomiędzy optymalną w okresie raat nd t chnicznej EW liczbą pracowników sprawozdawczym W OKTESIE echnicznej a kolumną 3) sprawozdawczym 1 2 3 4 5 6 7 8 9"
+      },
+      {
+       "type": "ocr",
+       "text": "07 z0d"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 25 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "XIII. OŚWIADCZENIE INSTYTUCJI ZARZĄDZAJĄCEJ Imię i nazwisko osoby wypełniającej sprawozdanie Adres Numer telefonu kontaktowego i faksu Adres poczty elektronicznej"
+      },
+      {
+       "type": "text",
+       "text": "Oświadczam, iż informacje zawarte w niniejszym sprawozdaniu są zgodne z prawdą."
+      },
+      {
+       "type": "text",
+       "text": "Data: Pieczęć i podpis:"
+      },
+      {
+       "type": "text",
+       "text": "WYPEŁNIA INSTYTUCJA OTRZYMUJĄCA SPRAWOZDANIE"
+      },
+      {
+       "type": "text",
+       "text": "Data wpłynięcia sprawozdania: Numer referencyjny sprawozdania:"
+      },
+      {
+       "type": "text",
+       "text": "Sprawozdanie sprawdzone przez: Imię i nazwisko: Podpis: Data:"
+      }
+     ]
     }
    ]
   },
@@ -1086,311 +1334,403 @@
     },
     {
      "type": "note",
-     "text": "[Strona 27 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Stan realizacji projektów w ramach priorytetów/działań Tabela A. Stan realizacji projektów w ramach priorytetów/działań w obecnym okresie sprawozdawczym Priorytet/działanie numer nazwa 1 2 3 4 5 6 Projekty w trakcie Kategoria(e) Projekty poate! Zarejestrowane interwencji zrealizowane* e s wnioski dla projektów ilość wartość realizowanych w ramach działania"
-    },
-    {
-     "type": "ocr",
-     "text": "Stan w obecnym okresie sprawozdawczym"
-    },
-    {
-     "type": "ocr",
-     "text": "Priorytet 1 Działanie 1.1 Działanie 1.2 Działanie 1.3 Działanie 1.4 Działanie 1.5 Priorytet 2 Działanie 2.1 Działanie 2.2 Działanie 2.3 Działanie 2.4 Działanie 2.5 Priorytet 3 Działanie 3.1 Działanie 3.2 Działanie 3.3 Ogółem dla Programu * Projekty, na które przedstawiono wniosek o płatność końcową. ** Projekty zaakceptowane do realizacji na podstawie umowy lub decyzji, dla których nie przedstawiono jeszcze wniosku o płatność końcową."
-    },
-    {
-     "type": "ocr",
-     "text": "3. | Wskaźniki postępu rzeczowego realizacji Programu:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) . osiągnięte wskaźniki Wartość wskaźników Wartość Wartość Wartość Wartość Wartość Jednostka określona | wskaźników | wskaźników | wskaźników | wskaźników | wskaźników miary w Programie | osiągnięta osiągnięta osiągnięta osiągnięta | osiągnięta wskaźnika i jego w 2004 r. w 2005 r. w 2006 r. w 2007 r. w 2008 r. Uzupełnieniu*"
-    },
-    {
-     "type": "ocr",
-     "text": "Numer i nazwa Programu/ priorytetu/działania"
-    },
-    {
-     "type": "ocr",
-     "text": "Dodatkowe KE * Jako różnica między wartością docelową a wartością bazową wskaźnika określoną w Uzupełnieniu Programu Operacyjnego Pomoc Techniczna."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 28 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "b)"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa i numer działania"
-    },
-    {
-     "type": "ocr",
-     "text": "osiągnięte wskaźniki dla działań Wartość Wartość Wartość Wartość wskaźnika osiągnięta"
-    },
-    {
-     "type": "ocr",
-     "text": "% - stopień wskaźnika realizacji osiągnięta wskaźnika: . tk ."
-    },
-    {
-     "type": "ocr",
-     "text": "w Uzupełnieniu | w Uzupełnieniu WESCEO ese j ze P sprawozdawczym 6/(4-3)x100 % rogramu Programu Programu"
-    },
-    {
-     "type": "ocr",
-     "text": "bazowa docelowa wskaznika wskaźnika określona określona"
-    },
-    {
-     "type": "ocr",
-     "text": "Jednostka miary wskaźnika"
-    },
-    {
-     "type": "ocr",
-     "text": "1"
-    },
-    {
-     "type": "ocr",
-     "text": "3 4 5 6 7 Priorytet Działanie Nazwa wskaźnika produktu Nazwa wskaźnika rezultatu Komentarz"
-    },
-    {
-     "type": "ocr",
-     "text": "c) informacja na temat stopnia osiągnięcia zakładanych wartości wskaźników w okresie objętym sprawozdaniem"
-    },
-    {
-     "type": "ocr",
-     "text": "d) inne niemierzalne wskaźniki"
-    },
-    {
-     "type": "ocr",
-     "text": "e) informacja na temat oddziaływania Programu"
-    },
-    {
-     "type": "ocr",
-     "text": "IV. POSTĘP FINANSOWY PROGRAMU"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Ogólne informacje dotyczące postępu finansowego"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Porównanie zakładanego stopnia realizacji zobowiązań z osiągniętymi w danym okresie sprawozdawczym"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Zestawienie faktycznie poniesionych i poświadczonych przez Instytucję Płatniczą wydatków kwalifikowalnych (w euro) (tabela 1)"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Zestawienie całkowitych kosztów kwalifikowalnych (zobowiązania) dla lat 2004—2006 i certyfikowanych w danym roku przez Instytucję Płatniczą (tabela 2)"
-    },
-    {
-     "type": "ocr",
-     "text": "5. Zestawienie prognozowanych wartości wniosków o płatność, jakie zrealizowane będą na rzecz beneficjentów, i odpowiadającego im współfinansowania krajowego w następnych okresach sprawozdawczych (tabela 3)"
-    },
-    {
-     "type": "ocr",
-     "text": "V. DZIAŁANIA PODJĘTE PRZEZ INSTYTUCJĘ ZARZĄDZAJĄCĄ I KOMITET MONITORUJĄCY DLA ZAPEWNIENIA PRAWIDEOWOSCI I SPRAWNOŚCI WDRAZANEGO PROGRAMU"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Działania Komitetu Monitorującego i Instytucji Zarządzającej służące poprawie wdrażania Programu"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Informacja o dokonanych modyfikacjach i usprawnieniach systemu wdrażania"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 29 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "VI. MONITORING I EWALUACJA"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Opis przyjętego systemu monitoringu"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Opis działań związanych z monitoringiem i ewaluacjg*"
-    },
-    {
-     "type": "ocr",
-     "text": "*Dodatkowo należy załączyć wyniki przeprowadzonych ewaluacji. 3. 4. VII."
-    },
-    {
-     "type": "ocr",
-     "text": "Uchwały Komitetu Monitorującego (tabela 4.) Lista organizacji reprezentowanych w Komitecie Monitorującym (tabela 5) INFORMACJA O PRZEPROWADZONYCH KONTROLACH I NAPOTKANYCH PROBLEMACH W TRAKCIE REALIZACJI PROGRAMU Informacja o działaniach podjętych przez Instytucję Zarządzającą lub upoważnioną przez nią jednostkę w ramach kontroli postępów realizacji Programu, ich wynikach i planowanych lub realizowanych działaniach pokontrolnych"
-    },
-    {
-     "type": "ocr",
-     "text": "Informacja o działaniach podjętych przez Instytucję Zarządzającą lub upoważnioną przez nią jednostkę w ramach kontroli systemu wraz z informacją o ich wynikach, sformułowanych zaleceniach i planowanych lub realizowanych działaniach pokontrolnych*"
-    },
-    {
-     "type": "ocr",
-     "text": "* Dodatkowo należy dołączyć protokoły przeprowadzonych kontroli 3."
-    },
-    {
-     "type": "ocr",
-     "text": "Czy w okresie sprawozdawczym przygotowano raport(y) o nieprawidłowościach w Programie? tak: nie: Jeśli raporty zostały przygotowane, to kiedy i ile raportów przekazano do Biura Międzynarodowych Relacji Skarbowych w Ministerstwie Finansów?"
-    },
-    {
-     "type": "ocr",
-     "text": "4."
-    },
-    {
-     "type": "ocr",
-     "text": "Przedstawienie finansowych skutków nieprawidłowości oraz działań służących ich skorygowaniu"
-    },
-    {
-     "type": "ocr",
-     "text": "VIII. WYPEŁNIENIE ZOBOWIĄZAŃ W ZAKRESIE INFORMACJI I PROMOCJI Opis działań podjętych w ramach realizacji planu informacji i promocji Programu"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Czy właściwe instytucje na wszystkich szczeblach wdrażania Programu wywiązują się z zobowiązań w zakresie informacji i promocji? tak: | nie:"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Jeśli nie, należy opisać, gdzie i na czym polegały zaniedbania oraz jakie środki zaradcze podjęto"
-    },
-    {
-     "type": "ocr",
-     "text": "IX. INFORMACJA O ZGODNOŚCI REALIZACJI PROGRAMU Z ZASADAMI POLITYK WSPOLNOTOWYCH"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Zgodność realizowanego Programu z przepisami o zamówieniach publicznych Czy w trakcie realizacji Programu nastąpiło naruszenie przepisów o tak: nie: zamówieniach publicznych?"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 30 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "W przypadku naruszenia przepisów o zamówieniach publicznych proszę opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Zgodność Programu z polityką ochrony środowiska Czy w trakcie realizacji Programu nastąpiło naruszenie zasady zgodności z polityką ochrony środowiska? tak: nie: W przypadku naruszenia zasad polityki ochrony środowiska należy opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze."
-    },
-    {
-     "type": "ocr",
-     "text": "3. Zgodność realizowanego Programu z polityką równych szans Czy w trakcie realizacji Programu nastąpiło naruszenie zasady zgodności z polityką równych szans? tak: nie: W przypadku naruszenia zasady równych szans należy opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Zgodność Programu z przepisami o pomocy publicznej tak: nie: W przypadku naruszenia przepisów o pomocy publicznej należy opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte Środki zaradcze"
-    },
-    {
-     "type": "ocr",
-     "text": "5. Wnioski dotyczące funkcjonowania systemu monitorowania zgodności Programu z zasadami polityk Wspólnoty"
-    },
-    {
-     "type": "ocr",
-     "text": "X. INFORMACJA NA TEMAT DUŻYCH PROJEKTÓW"
-    },
-    {
-     "type": "ocr",
-     "text": "XI. TABELE"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Zestawienie faktycznie poniesionych i poświadczonych przez Instytucję Płatniczą wydatków kwalifikowalnych (w euro) (tabela 1)"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Zestawienie catkowitych kosztów kwalifikowalnych (zobowiązania) dla lat 2004—2006 i certyfikowanych w danym roku przez Instytucję Płatniczą (tabela 2)"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Zestawienie prognozowanych wartości wniosków o płatność, jakie zrealizowane będą na rzecz beneficjentów, i odpowiadającego im współfinansowania krajowego w następnych okresach sprawozdawczych (tabela 3)"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Uchwały Komitetu Monitorującego (tabela 4)"
-    },
-    {
-     "type": "ocr",
-     "text": "5. Lista organizacji reprezentowanych w Komitecie Monitorującym (tabela 5)"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 31 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 1. Zestawienie faktycznie poniesionych i poświadczonych przez Instytucję Płatniczą wydatków kwalifikowalnych (w euro) Zestawienie faktycznie poniesionych i poświadczonych w —....... roku przez Instytucję ; ; ; Płatniczą wydatków kwalifikowalnych PUGRYACZEJEWIE publiczne prywatne wydatki ogółem wspólnotowe inne publiczne 1 2 3 4 5=2+3+4 Ogółem wydatki związane z ERDF"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 2. Zestawienie całkowitych kosztów kwalifikowalnych (zobowiązania) dla lat 2004—2006 i certyfikowanych w danym roku przez Instytucję Płatniczą (w euro) A Koszty Catkowite koszty oe leone A cence nę — kwalifikowalne - : certyfikowane w........ See LANGE lev roku przez Instytucje Płatniczą (w euro) 1 2 3 4=3/2 5 6 Ogółem wydatki związane z ERDF"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 3. Zestawienie prognozowanych wartości wniosków o płatność, jakie zrealizowane będą na rzecz beneficjentów, i odpowiadającego im współfinansowania krajowego w następnych okresach"
-    },
-    {
-     "type": "ocr",
-     "text": "% kosztów Priorytet/działanie kwalifikowalnych Inne Kody kategorii interwencji"
-    },
-    {
-     "type": "ocr",
-     "text": "sprawozdawczych Środki Środki publiczne publiczne wkład i ; Udziat Ogółem | ogółem | wspólnotowy krajowy wktad publiczny Inne | współfinansowania > . inne środki wspólnotowego (w %) EFRR ogółem budżet państwa publiczne 1=2+7 2=3+4 3 4=5+6 5 6 7 8 = 3/1x100%"
-    },
-    {
-     "type": "ocr",
-     "text": "OGÓŁEM (wydatki związane z EFRR’) kolejny rok realizacji Programu kolejny rok realizacji Programu"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 4. Uchwały Komitetu Monitorującego Data Liczba porządkowa"
-    },
-    {
-     "type": "ocr",
-     "text": "Uchwały Komitetu Monitorującego"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 32 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 5. Lista organizacji reprezentowanych w Komitecie Monitorującym Lp. Nazwa organizacji"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 33 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "XII. OŚWIADCZENIE INSTYTUCJI ZARZĄDZAJĄCEJ Imię i nazwisko osoby wypełniającej sprawozdanie Adres Numer telefonu kontaktowego i faksu Adres poczty elektronicznej"
-    },
-    {
-     "type": "ocr",
-     "text": "Oświadczam, iż informacje zawarte w niniejszym sprawozdaniu są zgodne z prawdą."
-    },
-    {
-     "type": "ocr",
-     "text": "Data: Pieczęć i podpis:"
-    },
-    {
-     "type": "ocr",
-     "text": "WYPEŁNIA INSTYTUCJA OTRZYMUJĄCA SPRAWOZDANIE"
-    },
-    {
-     "type": "ocr",
-     "text": "Data wpłynięcia sprawozdania: Numer referencyjny sprawozdania:"
-    },
-    {
-     "type": "ocr",
-     "text": "Sprawozdanie sprawdzone przez: Imię i nazwisko: Podpis: Data:"
+     "text": "[Strona 27 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Stan realizacji projektów w ramach priorytetów/działań Tabela A. Stan realizacji projektów w ramach priorytetów/działań w obecnym okresie sprawozdawczym Priorytet/działanie numer nazwa 1 2 3",
+     "children": [
+      {
+       "type": "text",
+       "text": "Projekty zrealizowane*"
+      },
+      {
+       "type": "text",
+       "text": "Priorytet 1 Działanie 1.1 Działanie 1.2 Działanie 1.3 Działanie 1.4 Działanie 1.5 Priorytet 2 Działanie 2.1 Działanie 2.2 Działanie 2.3 Działanie 2.4 Działanie 2.5 Priorytet 3 Działanie 3.1 Działanie 3.2 Działanie 3.3 Ogółem dla Programu"
+      },
+      {
+       "type": "text",
+       "text": "Stan w obecnym okresie sprawozdawczym 4 5 6 Projekty w trakcie Kategoria(e) poate! Zarejestrowane interwencji e s wnioski dla projektów ilość wartość realizowanych w ramach działania"
+      },
+      {
+       "type": "text",
+       "text": "* Projekty, na które przedstawiono wniosek o płatność końcową. ** Projekty zaakceptowane do realizacji na podstawie umowy lub decyzji, dla których nie przedstawiono jeszcze wniosku o płatność końcową."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "| Wskaźniki postępu rzeczowego realizacji Programu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_3/lit_a",
+       "text": ". osiągnięte wskaźniki Wartość wskaźników Numer i nazwa",
+       "children": [
+        {
+         "type": "text",
+         "text": "Wartość Wartość Wartość Wartość Wartość Jednostka określona | wskaźników | wskaźników | wskaźników | wskaźników | wskaźników Programu/ miary w Programie | osiągnięta osiągnięta osiągnięta osiągnięta | osiągnięta priorytetu/działania wskaźnika i jego Uzupełnieniu*"
+        },
+        {
+         "type": "text",
+         "text": "Dodatkowe KE w 2004 r. w 2005 r. w 2006 r. w 2007 r. w 2008 r."
+        },
+        {
+         "type": "text",
+         "text": "* Jako różnica między wartością docelową a wartością bazową wskaźnika określoną w Uzupełnieniu Programu Operacyjnego Pomoc Techniczna."
+        },
+        {
+         "type": "note",
+         "text": "[Strona 28 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_3/lit_b",
+       "text": "osiągnięte wskaźniki dla działań Wartość Wartość bazowa docelowa Jednostka wskaźnika wskaźnika Nazwa i numer miary działania określona określona wskaźnika w Uzupełnieniu | w Uzupełnieniu P rogramu Programu 1",
+       "children": [
+        {
+         "type": "text",
+         "text": "3 4 Priorytet Działanie Nazwa wskaźnika produktu Nazwa wskaźnika rezultatu Komentarz"
+        },
+        {
+         "type": "text",
+         "text": "Wartość Wartość % - stopień wskaźnika realizacji wskaźnika osiągnięta wskaźnika: osiągnięta . tk ."
+        },
+        {
+         "type": "text",
+         "text": "WESCEO ese j ze sprawozdawczym 6/(4-3)x100 % Programu 5 6 7"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_3/lit_c",
+       "text": "informacja na temat stopnia osiągnięcia zakładanych wartości wskaźników w okresie objętym sprawozdaniem",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_3/lit_d",
+       "text": "inne niemierzalne wskaźniki",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_3/lit_e",
+       "text": "informacja na temat oddziaływania Programu",
+       "children": [
+        {
+         "type": "text",
+         "text": "IV. POSTĘP FINANSOWY PROGRAMU"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Ogólne informacje dotyczące postępu finansowego",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Porównanie zakładanego stopnia realizacji zobowiązań z osiągniętymi w danym okresie sprawozdawczym",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Zestawienie faktycznie poniesionych i poświadczonych przez Instytucję Płatniczą wydatków kwalifikowalnych (w euro) (tabela 1)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Zestawienie całkowitych kosztów kwalifikowalnych (zobowiązania) dla lat 2004—2006 i certyfikowanych w danym roku przez Instytucję Płatniczą (tabela 2)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Zestawienie prognozowanych wartości wniosków o płatność, jakie zrealizowane będą na rzecz beneficjentów, i odpowiadającego im współfinansowania krajowego w następnych okresach sprawozdawczych (tabela 3)",
+     "children": [
+      {
+       "type": "text",
+       "text": "V. DZIAŁANIA PODJĘTE PRZEZ INSTYTUCJĘ ZARZĄDZAJĄCĄ I KOMITET MONITORUJĄCY DLA ZAPEWNIENIA PRAWIDEOWOSCI I SPRAWNOŚCI WDRAZANEGO PROGRAMU"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Działania Komitetu Monitorującego i Instytucji Zarządzającej służące poprawie wdrażania Programu",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Informacja o dokonanych modyfikacjach i usprawnieniach systemu wdrażania",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 29 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "VI. MONITORING I EWALUACJA"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Opis przyjętego systemu monitoringu",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Opis działań związanych z monitoringiem i ewaluacjg*",
+     "children": [
+      {
+       "type": "text",
+       "text": "*Dodatkowo należy załączyć wyniki przeprowadzonych ewaluacji. 3. 4. VII."
+      },
+      {
+       "type": "text",
+       "text": "Uchwały Komitetu Monitorującego (tabela 4.) Lista organizacji reprezentowanych w Komitecie Monitorującym (tabela 5) INFORMACJA O PRZEPROWADZONYCH KONTROLACH I NAPOTKANYCH PROBLEMACH W TRAKCIE REALIZACJI PROGRAMU Informacja o działaniach podjętych przez Instytucję Zarządzającą lub upoważnioną przez nią jednostkę w ramach kontroli postępów realizacji Programu, ich wynikach i planowanych lub realizowanych działaniach pokontrolnych"
+      },
+      {
+       "type": "text",
+       "text": "Informacja o działaniach podjętych przez Instytucję Zarządzającą lub upoważnioną przez nią jednostkę w ramach kontroli systemu wraz z informacją o ich wynikach, sformułowanych zaleceniach i planowanych lub realizowanych działaniach pokontrolnych*"
+      },
+      {
+       "type": "text",
+       "text": "* Dodatkowo należy dołączyć protokoły przeprowadzonych kontroli 3."
+      },
+      {
+       "type": "text",
+       "text": "Czy w okresie sprawozdawczym przygotowano raport(y) o nieprawidłowościach w Programie? tak: nie: Jeśli raporty zostały przygotowane, to kiedy i ile raportów przekazano do Biura Międzynarodowych Relacji Skarbowych w Ministerstwie Finansów?"
+      },
+      {
+       "type": "text",
+       "text": "4"
+      },
+      {
+       "type": "text",
+       "text": "Przedstawienie finansowych skutków nieprawidłowości oraz działań służących ich skorygowaniu"
+      },
+      {
+       "type": "text",
+       "text": "VIII. WYPEŁNIENIE ZOBOWIĄZAŃ W ZAKRESIE INFORMACJI I PROMOCJI Opis działań podjętych w ramach realizacji planu informacji i promocji Programu"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Czy właściwe instytucje na wszystkich szczeblach wdrażania Programu wywiązują się z zobowiązań w zakresie informacji i promocji? tak: | nie:",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Jeśli nie, należy opisać, gdzie i na czym polegały zaniedbania oraz jakie środki zaradcze podjęto",
+     "children": [
+      {
+       "type": "text",
+       "text": "IX. INFORMACJA O ZGODNOŚCI REALIZACJI PROGRAMU Z ZASADAMI POLITYK WSPÓLNOTOWYCH"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Zgodność realizowanego Programu z przepisami o zamówieniach publicznych Czy w trakcie realizacji Programu nastąpiło naruszenie przepisów o tak: nie: zamówieniach publicznych?",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 30 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "W przypadku naruszenia przepisów o zamówieniach publicznych proszę opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zgodność Programu z polityką ochrony środowiska Czy w trakcie realizacji Programu nastąpiło naruszenie zasady zgodności z polityką ochrony środowiska? tak: nie: W przypadku naruszenia zasad polityki ochrony środowiska należy opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Zgodność realizowanego Programu z polityką równych szans Czy w trakcie realizacji Programu nastąpiło naruszenie zasady zgodności z polityką równych szans? tak: nie: W przypadku naruszenia zasady równych szans należy opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Zgodność Programu z przepisami o pomocy publicznej tak: nie: W przypadku naruszenia przepisów o pomocy publicznej należy opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte Środki zaradcze",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Wnioski dotyczące funkcjonowania systemu monitorowania zgodności Programu z zasadami polityk Wspólnoty",
+     "children": [
+      {
+       "type": "text",
+       "text": "X. INFORMACJA NA TEMAT DUŻYCH PROJEKTÓW"
+      },
+      {
+       "type": "text",
+       "text": "XI. TABELE"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Zestawienie faktycznie poniesionych i poświadczonych przez Instytucję Płatniczą wydatków kwalifikowalnych (w euro) (tabela 1)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zestawienie całkowitych kosztów kwalifikowalnych (zobowiązania) dla lat 2004—2006 i certyfikowanych w danym roku przez Instytucję Płatniczą (tabela 2)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Zestawienie prognozowanych wartości wniosków o płatność, jakie zrealizowane będą na rzecz beneficjentów, i odpowiadającego im współfinansowania krajowego w następnych okresach sprawozdawczych (tabela 3)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Uchwały Komitetu Monitorującego (tabela 4)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Lista organizacji reprezentowanych w Komitecie Monitorującym (tabela 5)",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 31 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 1. Zestawienie faktycznie poniesionych i poświadczonych przez Instytucję Płatniczą wydatków kwalifikowalnych (w euro) Zestawienie faktycznie poniesionych i poświadczonych w —....... roku przez Instytucję Płatniczą wydatków kwalifikowalnych PUGRYACZEJEWIE publiczne prywatne wydatki ogółem ; ; ;"
+      },
+      {
+       "type": "text",
+       "text": "wspólnotowe 1 2 inne publiczne 3 4 5=2+3+4 Ogółem wydatki związane z ERDF"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 2. Zestawienie całkowitych kosztów kwalifikowalnych (zobowiązania) dla lat 2004—2006 i certyfikowanych w danym roku przez Instytucję Płatniczą (w euro) A Koszty Całkowite koszty oe leone A cence nę — kwalifikowalne Priorytet/działanie"
+      },
+      {
+       "type": "text",
+       "text": "% kosztów - : certyfikowane w........ Inne Kody kategorii interwencji kwalifikowalnych See LANGE lev roku przez Instytucje Płatniczą (w euro) 1 2 3"
+      },
+      {
+       "type": "text",
+       "text": "4=3/2 5 6 Ogółem wydatki związane z ERDF"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 3. Zestawienie prognozowanych wartości wniosków o płatność, jakie zrealizowane będą na rzecz beneficjentów, i odpowiadającego im współfinansowania krajowego w następnych okresach sprawozdawczych Środki Środki publiczne publiczne wkład Ogółem | ogółem | wspólnotowy i ; Udział krajowy wkład publiczny Inne | współfinansowania . inne środki wspólnotowego (w %) EFRR ogółem budżet państwa publiczne >"
+      },
+      {
+       "type": "text",
+       "text": "1=2+7 2=3+4 3 4=5+6 5 6 7 8 = 3/1x100%"
+      },
+      {
+       "type": "text",
+       "text": "OGÓŁEM (wydatki związane z EFRR’) kolejny rok realizacji Programu kolejny rok realizacji Programu"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 4. Uchwały Komitetu Monitorującego Data Liczba porządkowa"
+      },
+      {
+       "type": "text",
+       "text": "Uchwały Komitetu Monitorującego"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 32 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 33 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "XII. OŚWIADCZENIE INSTYTUCJI ZARZĄDZAJĄCEJ Imię i nazwisko osoby wypełniającej sprawozdanie Adres Numer telefonu kontaktowego i faksu Adres poczty elektronicznej"
+      },
+      {
+       "type": "text",
+       "text": "Oświadczam, iż informacje zawarte w niniejszym sprawozdaniu są zgodne z prawdą."
+      },
+      {
+       "type": "text",
+       "text": "Data: Pieczęć i podpis:"
+      },
+      {
+       "type": "text",
+       "text": "WYPEŁNIA INSTYTUCJA OTRZYMUJĄCA SPRAWOZDANIE"
+      },
+      {
+       "type": "text",
+       "text": "Data wpłynięcia sprawozdania: Numer referencyjny sprawozdania:"
+      },
+      {
+       "type": "text",
+       "text": "Sprawozdanie sprawdzone przez: Imię i nazwisko: Podpis: Data:"
+      }
+     ]
     }
    ]
   },
@@ -1407,367 +1747,443 @@
     },
     {
      "type": "note",
-     "text": "[Strona 35 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Stan realizacji projektów w ramach priorytetów/działań Tabela A. Stan realizacji projektów w ramach priorytetów/działań w obecnym okresie sprawozdawczym Priorytet/działanie numer nazwa 1 2 3 4 5 6 Projekty w trakcie Kategoria(e) Projekty realizacji Zarejestrowane interwencji zrealizowane* \"e s wnioski dla projektów ilość wartość realizowanych w ramach działania"
-    },
-    {
-     "type": "ocr",
-     "text": "Stan w obecnym okresie sprawozdawczym"
-    },
-    {
-     "type": "ocr",
-     "text": "Priorytet 1 Działanie 1.1 Działanie 1.2 Działanie 1.3 Działanie 1.4 Działanie 1.5 Priorytet 2 Działanie 2.1 Działanie 2.2 Działanie 2.3 Działanie 2.4 Działanie 2.5 Priorytet 3 Działanie 3.1 Działanie 3.2 Działanie 3.3 Ogółem dla Programu * Projekty, na które przedstawiono wniosek o płatność końcową. ** Projekty zaakceptowane do realizacji na podstawie umowy lub decyzji, dla których nie przedstawiono jeszcze wniosku o płatność końcową."
-    },
-    {
-     "type": "ocr",
-     "text": "3. | Wskaźniki postępu rzeczowego realizacji Programu:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) osiągnięte wskaźniki Wartość wskaźników Wartość Wartość Wartość Wartość Wartość Jednostka | określonaw | wskaźników | wskaźników | wskaźników | wskaźników | wskaźników miary Programie osiągnięta osiągnięta osiągnięta osiągnięta osiągnięta wskaźnika i jego w 2004 r. w 2005 r. w 2006 r. w 2007 r. w 2008 r. Uzupełnieniu"
-    },
-    {
-     "type": "ocr",
-     "text": "Numer i nazwa Programu/priorytetu/ działania"
-    },
-    {
-     "type": "ocr",
-     "text": "l 2 |_8_ | 4 |] s] e | 70 | 80"
-    },
-    {
-     "type": "ocr",
-     "text": "Priorytet | | | CT Cd CC [brainer | | | EE\" Nazwa wskaznika produktu Mae | ||| produktu"
-    },
-    {
-     "type": "ocr",
-     "text": "Dodatkowe informacje"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 36 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "b)"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa i numer działania"
-    },
-    {
-     "type": "ocr",
-     "text": "osiągnięte wskaźniki dla działań"
-    },
-    {
-     "type": "ocr",
-     "text": "Jednostka miary wskaźnika"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość bazowa wskaźnika określona w Uzupełnieniu Programu"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość docelowa wskaźnika określona w Uzupełnieniu Programu"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość wskaźnika osiągnięta w okresie sprawozdawczym"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość wskaźnika osiągnięta od początku realizacji Programu"
-    },
-    {
-     "type": "ocr",
-     "text": "% — stopień realizacji wskaźnika: iloraz 6/(4- 3)x100 %"
-    },
-    {
-     "type": "ocr",
-     "text": "1"
-    },
-    {
-     "type": "ocr",
-     "text": "3"
-    },
-    {
-     "type": "ocr",
-     "text": "4"
-    },
-    {
-     "type": "ocr",
-     "text": "5"
-    },
-    {
-     "type": "ocr",
-     "text": "6"
-    },
-    {
-     "type": "ocr",
-     "text": "7"
-    },
-    {
-     "type": "ocr",
-     "text": "Działanie"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa wskaźnika produktu"
-    },
-    {
-     "type": "ocr",
-     "text": "Komentarz"
-    },
-    {
-     "type": "ocr",
-     "text": "informacja na temat stopnia osiągnięcia zakładanych wartości wskaźników w okresie objętym sprawozdaniem"
-    },
-    {
-     "type": "ocr",
-     "text": "a) inne niemierzalne wskaźniki"
-    },
-    {
-     "type": "ocr",
-     "text": "e)"
-    },
-    {
-     "type": "ocr",
-     "text": "informacja na temat oddziaływania Programu"
-    },
-    {
-     "type": "ocr",
-     "text": "POSTĘP FINANSOWY PROGRAMU Ogólne informacje dotyczące postępu finansowego"
-    },
-    {
-     "type": "ocr",
-     "text": "Porównanie zakładanego stopnia realizacji zobowiązań z osiągniętymi w danym okresie sprawozdawczym"
-    },
-    {
-     "type": "ocr",
-     "text": "Zestawienie faktycznie poniesionych i poświadczonych przez Instytucję Płatniczą wydatków kwalifikowalnych (w euro) (tabela 1) Zestawienie całkowitych kosztów kwalifikowalnych (zobowiązania) dla lat 2004—2006 i certyfikowanych przez Instytucję Płatniczą w danym roku (w euro) (tabela 2) DZIAŁANIA PODJĘTE PRZEZ INSTYTUCJĘ ZARZĄDZAJĄCĄ I KOMITET MONITORUJĄCY DLA ZAPEWNIENIA PRAWIDŁOWOSŚCI I SPRAWNOŚCI WDRAZANEGO PROGRAMU"
-    },
-    {
-     "type": "ocr",
-     "text": "Działania Komitetu Monitorującego i Instytucji Zarządzającej służące poprawie wdrażania Programu"
-    },
-    {
-     "type": "ocr",
-     "text": "Informacja o dokonanych modyfikacjach i usprawnieniach systemu wdrażania"
-    },
-    {
-     "type": "ocr",
-     "text": "VI."
-    },
-    {
-     "type": "ocr",
-     "text": "MONITORING I EWALUACJA"
-    },
-    {
-     "type": "ocr",
-     "text": "Opis przyjętego systemu monitoringu"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 37 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Opis działań związanych z monitoringiem i ewaluacją*"
-    },
-    {
-     "type": "ocr",
-     "text": "*Dodatkowo należy załączyć wyniki przeprowadzonych ewaluacji."
-    },
-    {
-     "type": "ocr",
-     "text": "3. | Uchwały Komitetu Monitorującego (tabela 3)"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Lista organizacji reprezentowanych w Komitecie Monitorującym (tabela 4) VII. INFORMACJA O PRZEPROWADZONYCH KONTROLACH I NAPOTKANYCH PROBLEMACH W TRAKCIE REALIZACJI PROGRAMU"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Informacja o działaniach podjętych przez Instytucję Zarządzającą lub upoważnioną przez nią jednostkę w ramach kontroli postępów realizacji Programu, ich wynikach i planowanych lub realizowanych działaniach pokontrolnych"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Informacja o działaniach podjętych przez Instytucję Zarządzającą lub upoważnioną przez nią jednostkę w ramach kontroli systemu wraz z informacją o ich wynikach, sformułowanych zaleceniach i planowanych lub realizowanych działaniach pokontrolnych*"
-    },
-    {
-     "type": "ocr",
-     "text": "* Dodatkowo należy dołączyć protokoły przeprowadzonych kontroli"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Czy w okresie sprawozdawczym przygotowano raport(y) o nieprawidłowościach w Programie? tak: nie: Jeśli raporty zostały przygotowane, to kiedy i ile raportów przekazano do Biura Międzynarodowych Relacji Skarbowych w Ministerstwie Finansów?"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Przedstawienie finansowych skutków nieprawidłowości oraz działań służących ich skorygowaniu"
-    },
-    {
-     "type": "ocr",
-     "text": "VIII. WYPEŁNIENIE ZOBOWIĄZAŃ W ZAKRESIE INFORMACJI I PROMOCJI"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Opis działań podjętych w ramach realizacji planu informacji i promocji Programu"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Czy właściwe instytucje na wszystkich szczeblach wdrażania Programu wywiązują się z zobowiązań w zakresie informacji i promocji? tak: nie:"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Jeśli nie, to należy opisać, gdzie i na czym polegały zaniedbania oraz jakie środki zaradcze podjęto"
-    },
-    {
-     "type": "ocr",
-     "text": "IX. INFORMACJA O ZGODNOŚCI REALIZACJI PROGRAMU Z ZASADAMI POLITYK WSPÓLNOTOWYCH"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Zgodność realizowanego Programu z przepisami o zamówieniach publicznych Czy w trakcie realizacji Programu nastąpiło naruszenie przepisów tak: nie: o zamówieniach publicznych? W przypadku naruszenia przepisów o zamówieniach publicznych proszę opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 38 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Zgodność Programu z polityką ochrony środowiska Czy w trakcie realizacji Programu nastąpiło naruszenie zasady zgodności z polityką ochrony środowiska?"
-    },
-    {
-     "type": "ocr",
-     "text": "tak:"
-    },
-    {
-     "type": "ocr",
-     "text": "nie:"
-    },
-    {
-     "type": "ocr",
-     "text": "nie dotyczy: W przypadku naruszenia zasad polityki ochrony środowiska należy opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Zgodność realizowanego Programu z polityką równych szans Czy w trakcie realizacji Programu nastąpiło naruszenie zasady zgodności z polityką równych szans? tak:"
-    },
-    {
-     "type": "ocr",
-     "text": "nie:"
-    },
-    {
-     "type": "ocr",
-     "text": "nie dotyczy: W przypadku naruszenia zasady równych szans należy opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze"
-    },
-    {
-     "type": "ocr",
-     "text": "4. Zgodność Programu z przepisami o pomocy publicznej tak:"
-    },
-    {
-     "type": "ocr",
-     "text": "nie:"
-    },
-    {
-     "type": "ocr",
-     "text": "nie dotyczy: W przypadku naruszenia przepisów o pomocy publicznej należy opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze"
-    },
-    {
-     "type": "ocr",
-     "text": "polityk Wspólnoty"
-    },
-    {
-     "type": "ocr",
-     "text": "5. Wnioski dotyczące funkcjonowania systemu monitorowania zgodności Programu z zasadami"
-    },
-    {
-     "type": "ocr",
-     "text": "X. INFORMACJA NA TEMAT DUŻYCH PROJEKTÓW"
-    },
-    {
-     "type": "ocr",
-     "text": "X"
-    },
-    {
-     "type": "ocr",
-     "text": ". TABELE"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Zestawienie faktycznie poniesionych i poświadczonych przez Instytucję Płatniczą wydatków kwalifikowalnych (w euro) (tabela 1)"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Zestawienie całkowitych kosztów kwalifikowalnych (zobowiązania) dla lat 2004—2006 i certyfikowanych przez Instytucję Płatniczą w danym roku (w euro) (tabela 2) Uchwały Komitetu Monitorującego (tabela 3) Lista organizacji reprezentowanych w Komitecie Monitorującym (tabela 4)"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 39 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 1. Zestawienie faktycznie poniesionych i poświadczonych przez Instytucję Płatniczą wydatków kwalifikowalnych (w euro) Zestawienie faktycznie poniesionych i poświadczonych w czasie realizowania Programu ; ; ; przez Instytucję Płatniczą wydatków kwalifikowalnych Priorytet/działanie publiczne prywatne wydatki ogółem wspólnotowe inne publiczne 1 2 3 4 5=2+3+4 Ogółem wydatki związane z ERDF"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 2. Zestawienie całkowitych kosztów kwalifikowalnych (zobowiązania) dla lat 2004—2006 i certyfikowanych przez Instytucję Płatniczą w danym roku (w euro)"
-    },
-    {
-     "type": "ocr",
-     "text": "Całkowite koszty"
-    },
-    {
-     "type": "ocr",
-     "text": "Koszty kwalifikowalne certyfikowane % kosztów Kody kategorii interwencji"
-    },
-    {
-     "type": "ocr",
-     "text": "Priorytet/dziatanie kwalifikowalne — |wczasie realizowania | Inne zobowiązania z lat Programu przez kwalifikowalnych 2004-2006 Instytucję Płatniczą (w euro) 1 2 3 4=3/2 5 6 Ogółem wydatki związane z ERDF"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 3. Uchwały Komitetu Monitorującego Liczba . AE Data porządkowa Uchwały Komitetu Monitorującego"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 4. Lista organizacji reprezentowanych w Komitecie Monitorującym Lp."
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa organizacji"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 40 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "XII. OŚWIADCZENIE INSTYTUCJI ZARZĄDZAJĄCEJ Imię i nazwisko osoby wypetniającej sprawozdanie Adres Numer telefonu kontaktowego i faksu Adres poczty elektronicznej"
-    },
-    {
-     "type": "ocr",
-     "text": "Oświadczam, iż informacje zawarte w niniejszym sprawozdaniu są zgodne z prawdą."
-    },
-    {
-     "type": "ocr",
-     "text": "Data: Pieczęć i podpis:"
-    },
-    {
-     "type": "ocr",
-     "text": "WYPEŁNIA INSTYTUCJA OTRZYMUJĄCA SPRAWOZDANIE"
-    },
-    {
-     "type": "ocr",
-     "text": "Data wpłynięcia raportu: Numer referencyjny raportu:"
-    },
-    {
-     "type": "ocr",
-     "text": "Sprawozdanie sprawdzone przez: Imię i nazwisko: Podpis: Data:"
+     "text": "[Strona 35 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Stan realizacji projektów w ramach priorytetów/działań Tabela A. Stan realizacji projektów w ramach priorytetów/działań w obecnym okresie sprawozdawczym Priorytet/działanie Stan w obecnym okresie sprawozdawczym numer nazwa 1 2 3",
+     "children": [
+      {
+       "type": "text",
+       "text": "4 5 6 Projekty w trakcie Kategoria(e) Projekty realizacji Zarejestrowane interwencji zrealizowane* \"e s wnioski dla projektów ilość wartość realizowanych"
+      },
+      {
+       "type": "text",
+       "text": "Priorytet 1 Działanie 1.1 Działanie 1.2 Działanie 1.3 Działanie 1.4 Działanie 1.5 Priorytet 2 Działanie 2.1 Działanie 2.2 Działanie 2.3 Działanie 2.4 Działanie 2.5 Priorytet 3 Działanie 3.1 Działanie 3.2 Działanie 3.3 Ogółem dla Programu w ramach działania"
+      },
+      {
+       "type": "text",
+       "text": "* Projekty, na które przedstawiono wniosek o płatność końcową. ** Projekty zaakceptowane do realizacji na podstawie umowy lub decyzji, dla których nie przedstawiono jeszcze wniosku o płatność końcową."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "| Wskaźniki postępu rzeczowego realizacji Programu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_3/lit_a",
+       "text": "osiągnięte wskaźniki Wartość wskaźników Wartość Wartość Wartość Wartość Wartość Numer i nazwa Jednostka | określonaw | wskaźników | wskaźników | wskaźników | wskaźników | wskaźników Programu/priorytetu/ miary Programie osiągnięta osiągnięta osiągnięta osiągnięta osiągnięta działania wskaźnika i jego w 2004 r. w 2005 r. w 2006 r. w 2007 r. w 2008 r. Uzupełnieniu l 2 |_8_ | 4",
+       "children": [
+        {
+         "type": "text",
+         "text": "|] s] e | 70 | 80"
+        },
+        {
+         "type": "text",
+         "text": "Priorytet | | | CT Cd CC [brainer | | | EE\" Nazwa wskaźnika produktu Mae | ||| produktu"
+        },
+        {
+         "type": "text",
+         "text": "Dodatkowe informacje"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 36 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "b)"
+        },
+        {
+         "type": "text",
+         "text": "Nazwa i numer działania osiągnięte wskaźniki dla działań"
+        },
+        {
+         "type": "text",
+         "text": "Jednostka miary wskaźnika"
+        },
+        {
+         "type": "text",
+         "text": "Wartość bazowa wskaźnika określona w Uzupełnieniu Programu"
+        },
+        {
+         "type": "text",
+         "text": "Wartość docelowa wskaźnika określona w Uzupełnieniu Programu"
+        },
+        {
+         "type": "text",
+         "text": "Wartość wskaźnika osiągnięta w okresie sprawozdawczym"
+        },
+        {
+         "type": "text",
+         "text": "Wartość wskaźnika osiągnięta od początku realizacji Programu"
+        },
+        {
+         "type": "text",
+         "text": "% — stopień realizacji wskaźnika: iloraz 6/(4- 3)x100 %"
+        },
+        {
+         "type": "text",
+         "text": "1"
+        },
+        {
+         "type": "text",
+         "text": "3"
+        },
+        {
+         "type": "text",
+         "text": "4"
+        },
+        {
+         "type": "text",
+         "text": "5"
+        },
+        {
+         "type": "text",
+         "text": "6"
+        },
+        {
+         "type": "text",
+         "text": "7"
+        },
+        {
+         "type": "text",
+         "text": "Działanie"
+        },
+        {
+         "type": "text",
+         "text": "Nazwa wskaźnika produktu"
+        },
+        {
+         "type": "text",
+         "text": "Komentarz"
+        },
+        {
+         "type": "text",
+         "text": "informacja na temat stopnia osiągnięcia zakładanych wartości wskaźników w okresie objętym sprawozdaniem"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_3/lit_a",
+       "text": "inne niemierzalne wskaźniki",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_3/lit_e",
+       "text": "informacja na temat oddziaływania Programu",
+       "children": [
+        {
+         "type": "text",
+         "text": "POSTĘP FINANSOWY PROGRAMU Ogólne informacje dotyczące postępu finansowego"
+        },
+        {
+         "type": "text",
+         "text": "Porównanie zakładanego stopnia realizacji zobowiązań z osiągniętymi w danym okresie sprawozdawczym"
+        },
+        {
+         "type": "text",
+         "text": "Zestawienie faktycznie poniesionych i poświadczonych przez Instytucję Płatniczą wydatków kwalifikowalnych (w euro) (tabela 1) Zestawienie całkowitych kosztów kwalifikowalnych (zobowiązania) dla lat 2004—2006 i certyfikowanych przez Instytucję Płatniczą w danym roku (w euro) (tabela 2) DZIAŁANIA PODJĘTE PRZEZ INSTYTUCJĘ ZARZĄDZAJĄCĄ I KOMITET MONITORUJĄCY DLA ZAPEWNIENIA PRAWIDŁOWOSŚCI I SPRAWNOŚCI WDRAZANEGO PROGRAMU"
+        },
+        {
+         "type": "text",
+         "text": "Działania Komitetu Monitorującego i Instytucji Zarządzającej służące poprawie wdrażania Programu"
+        },
+        {
+         "type": "text",
+         "text": "Informacja o dokonanych modyfikacjach i usprawnieniach systemu wdrażania"
+        },
+        {
+         "type": "text",
+         "text": "VI."
+        },
+        {
+         "type": "text",
+         "text": "MONITORING I EWALUACJA"
+        },
+        {
+         "type": "text",
+         "text": "Opis przyjętego systemu monitoringu"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 37 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Opis działań związanych z monitoringiem i ewaluacją*",
+     "children": [
+      {
+       "type": "text",
+       "text": "*Dodatkowo należy załączyć wyniki przeprowadzonych ewaluacji."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "| Uchwały Komitetu Monitorującego (tabela 3)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Lista organizacji reprezentowanych w Komitecie Monitorującym (tabela 4) VII. INFORMACJA O PRZEPROWADZONYCH KONTROLACH I NAPOTKANYCH PROBLEMACH W TRAKCIE REALIZACJI PROGRAMU",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Informacja o działaniach podjętych przez Instytucję Zarządzającą lub upoważnioną przez nią jednostkę w ramach kontroli postępów realizacji Programu, ich wynikach i planowanych lub realizowanych działaniach pokontrolnych",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Informacja o działaniach podjętych przez Instytucję Zarządzającą lub upoważnioną przez nią jednostkę w ramach kontroli systemu wraz z informacją o ich wynikach, sformułowanych zaleceniach i planowanych lub realizowanych działaniach pokontrolnych*",
+     "children": [
+      {
+       "type": "text",
+       "text": "* Dodatkowo należy dołączyć protokoły przeprowadzonych kontroli"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Czy w okresie sprawozdawczym przygotowano raport(y) o nieprawidłowościach w Programie? tak: nie: Jeśli raporty zostały przygotowane, to kiedy i ile raportów przekazano do Biura Międzynarodowych Relacji Skarbowych w Ministerstwie Finansów?",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Przedstawienie finansowych skutków nieprawidłowości oraz działań służących ich skorygowaniu",
+     "children": [
+      {
+       "type": "text",
+       "text": "VIII. WYPEŁNIENIE ZOBOWIĄZAŃ W ZAKRESIE INFORMACJI I PROMOCJI"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Opis działań podjętych w ramach realizacji planu informacji i promocji Programu",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Czy właściwe instytucje na wszystkich szczeblach wdrażania Programu wywiązują się z zobowiązań w zakresie informacji i promocji? tak: nie:",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Jeśli nie, to należy opisać, gdzie i na czym polegały zaniedbania oraz jakie środki zaradcze podjęto",
+     "children": [
+      {
+       "type": "text",
+       "text": "IX. INFORMACJA O ZGODNOŚCI REALIZACJI PROGRAMU Z ZASADAMI POLITYK WSPÓLNOTOWYCH"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Zgodność realizowanego Programu z przepisami o zamówieniach publicznych Czy w trakcie realizacji Programu nastąpiło naruszenie przepisów tak: nie: o zamówieniach publicznych? W przypadku naruszenia przepisów o zamówieniach publicznych proszę opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 38 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zgodność Programu z polityką ochrony środowiska Czy w trakcie realizacji Programu nastąpiło naruszenie zasady zgodności z polityką ochrony środowiska?",
+     "children": [
+      {
+       "type": "text",
+       "text": "tak:"
+      },
+      {
+       "type": "text",
+       "text": "nie:"
+      },
+      {
+       "type": "text",
+       "text": "nie dotyczy: W przypadku naruszenia zasad polityki ochrony środowiska należy opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Zgodność realizowanego Programu z polityką równych szans Czy w trakcie realizacji Programu nastąpiło naruszenie zasady zgodności z polityką równych szans? tak:",
+     "children": [
+      {
+       "type": "text",
+       "text": "nie:"
+      },
+      {
+       "type": "text",
+       "text": "nie dotyczy: W przypadku naruszenia zasady równych szans należy opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Zgodność Programu z przepisami o pomocy publicznej tak:",
+     "children": [
+      {
+       "type": "text",
+       "text": "nie:"
+      },
+      {
+       "type": "text",
+       "text": "nie dotyczy: W przypadku naruszenia przepisów o pomocy publicznej należy opisać, na czym polegały nieprawidłowości, wskazując działanie, w którym wystąpiły. Należy opisać także podjęte środki zaradcze"
+      },
+      {
+       "type": "text",
+       "text": "polityk Wspólnoty"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Wnioski dotyczące funkcjonowania systemu monitorowania zgodności Programu z zasadami",
+     "children": [
+      {
+       "type": "text",
+       "text": "X. INFORMACJA NA TEMAT DUŻYCH PROJEKTÓW"
+      },
+      {
+       "type": "text",
+       "text": "X"
+      },
+      {
+       "type": "text",
+       "text": ". TABELE"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Zestawienie faktycznie poniesionych i poświadczonych przez Instytucję Płatniczą wydatków kwalifikowalnych (w euro) (tabela 1)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zestawienie całkowitych kosztów kwalifikowalnych (zobowiązania) dla lat 2004—2006 i certyfikowanych przez Instytucję Płatniczą w danym roku (w euro) (tabela 2) Uchwały Komitetu Monitorującego (tabela 3) Lista organizacji reprezentowanych w Komitecie Monitorującym (tabela 4)",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 39 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 1. Zestawienie faktycznie poniesionych i poświadczonych przez Instytucję Płatniczą wydatków kwalifikowalnych (w euro) Zestawienie faktycznie poniesionych i poświadczonych w czasie realizowania Programu ; ; ; przez Instytucję Płatniczą wydatków kwalifikowalnych Priorytet/działanie publiczne prywatne wydatki ogółem wspólnotowe inne publiczne 1 2"
+      },
+      {
+       "type": "text",
+       "text": "3 4 5=2+3+4 Ogółem wydatki związane z ERDF"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 2. Zestawienie całkowitych kosztów kwalifikowalnych (zobowiązania) dla lat 2004—2006 i certyfikowanych przez Instytucję Płatniczą w danym roku (w euro) Koszty kwalifikowalne Całkowite koszty certyfikowane Priorytet/działanie kwalifikowalne — |w czasie realizowania zobowiązania z lat Programu przez 2004-2006 Instytucję Płatniczą (w euro) 1 2 3"
+      },
+      {
+       "type": "text",
+       "text": "% kosztów Kody kategorii interwencji"
+      },
+      {
+       "type": "text",
+       "text": "| Inne kwalifikowalnych"
+      },
+      {
+       "type": "text",
+       "text": "4=3/2 5 6 Ogółem wydatki związane z ERDF"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 3. Uchwały Komitetu Monitorującego Liczba Data porządkowa Uchwały Komitetu Monitorującego . AE"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 4. Lista organizacji reprezentowanych w Komitecie Monitorującym Lp."
+      },
+      {
+       "type": "text",
+       "text": "Nazwa organizacji"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 40 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "XII. OŚWIADCZENIE INSTYTUCJI ZARZĄDZAJĄCEJ Imię i nazwisko osoby wypełniającej sprawozdanie Adres Numer telefonu kontaktowego i faksu Adres poczty elektronicznej"
+      },
+      {
+       "type": "text",
+       "text": "Oświadczam, iż informacje zawarte w niniejszym sprawozdaniu są zgodne z prawdą."
+      },
+      {
+       "type": "text",
+       "text": "Data: Pieczęć i podpis:"
+      },
+      {
+       "type": "text",
+       "text": "WYPEŁNIA INSTYTUCJA OTRZYMUJĄCA SPRAWOZDANIE"
+      },
+      {
+       "type": "text",
+       "text": "Data wpłynięcia raportu: Numer referencyjny raportu:"
+      },
+      {
+       "type": "text",
+       "text": "Sprawozdanie sprawdzone przez: Imię i nazwisko: Podpis: Data:"
+      }
+     ]
     }
    ]
   }

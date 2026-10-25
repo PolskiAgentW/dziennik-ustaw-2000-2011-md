@@ -1,7 +1,7 @@
 {
  "eli": "DU/2004/2002",
  "title": "Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 17 sierpnia 2004 r. w sprawie szczegółowego sposobu i trybu prowadzenia rejestru programów w sieciach kablowych oraz wzoru rejestru i wzoru zgłoszenia o wpis do rejestru",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/2002/text.pdf",
  "body": [
   {
@@ -299,7 +299,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WZÓR REJESTRU PROGRAMÓW W SIECIACH KABLOWYCH Dziennik Ustaw Nr 194 — 13813 — Poz. 2002"
+     "text": "WZÓR REJESTRU PROGRAMÓW W SIECIACH KABLOWYCH"
     },
     {
      "type": "note",
@@ -320,119 +320,149 @@
     },
     {
      "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "15. Nr telefonu 16. Nr faksu/e-mail"
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "Nr telefonu 16. Nr faksu/e-mail",
+     "children": [
+      {
+       "type": "text",
+       "text": "DANE OSOBY UPOWAŻNIONEJ"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "DANE OSOBY UPOWAŻNIONEJ"
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "Imię i nazwisko",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "17. Imię i nazwisko"
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "Seriai nr dowodu osobistego 19. PESEL",
+     "children": [
+      {
+       "type": "text",
+       "text": "B. LISTA WYMAGANYCH ZAŁĄCZNIKÓW"
+      },
+      {
+       "type": "text",
+       "text": "Załącznik Liczba załączników URTIiP do rejestru zgodnie z przepisami ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne Oświadczenie operatora o kolejności wprowadzania programów do sieci - zgodnie z art. 43 ust. l ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji | | Dokumenty, w szczególności umowy, zgody lub oświadczenia,"
+      },
+      {
+       "type": "text",
+       "text": "Kopia zezwolenia lub zaświadczenia o dokonaniu wpisu przez Prezesa"
+      },
+      {
+       "type": "text",
+       "text": "21"
+      },
+      {
+       "type": "text",
+       "text": "wskazujące, że rozprowadzanie programu nie będzie naruszało praw nadawcy programu C. INFORMACJE PROGRAMOWE I TECHNICZNE"
+      },
+      {
+       "type": "text",
+       "text": "INFORMACJE O SIECI KABLOWEJ"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "18. Seriai nr dowodu osobistego 19. PESEL"
+     "type": "ust",
+     "num": "23",
+     "path": "ust_23",
+     "text": "Lokalizacja stacji czołowej",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "B. LISTA WYMAGANYCH ZAŁĄCZNIKÓW"
+     "type": "ust",
+     "num": "24",
+     "path": "ust_24",
+     "text": "Ulica",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Załącznik Liczba załączników URTIiP do rejestru zgodnie z przepisami ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne Oświadczenie operatora o kolejności wprowadzania programów do sieci - zgodnie z art. 43 ust. l ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji | | Dokumenty, w szczególności umowy, zgody lub oświadczenia,"
+     "type": "ust",
+     "num": "26",
+     "path": "ust_26",
+     "text": "Miejscowość",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Kopia zezwolenia lub zaświadczenia o dokonaniu wpisu przez Prezesa"
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "Nr domu",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "21."
+     "type": "ust",
+     "num": "27",
+     "path": "ust_27",
+     "text": "Kod pocztowy | 28. Województwo",
+     "children": [
+      {
+       "type": "text",
+       "text": "Liczba abonentów podłączonych do sieci 29. Liczba"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Nr zezwolenia URTiP lub zaświadczenia o dokonaniu wpisu |30. Numer przez Prezesa URTIP do rejestru zgodnie z przepisami ustawy z dnia 16 lipca 2004 r. Prawo telekomunikacyjne"
+      },
+      {
+       "type": "text",
+       "text": "WYKAZ PROGRAMÓW OBJĘTYCH WNIOSKIEM O REJESTRACJĘ"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "wskazujące, że rozprowadzanie programu nie będzie naruszało praw nadawcy programu C. INFORMACJE PROGRAMOWE I TECHNICZNE"
+     "type": "ust",
+     "num": "31",
+     "path": "ust_31",
+     "text": "Liczba programów objętych wnioskiem o wpis do rejestru",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nazwa i adres | Źródło programu Oznanadawcy (naziemny, nazwa | czenie terminu satelity, nr ważności wpisu transpondera"
+      },
+      {
+       "type": "text",
+       "text": "Lp. Nazwa R/T*"
+      },
+      {
+       "type": "text",
+       "text": "programu"
+      },
+      {
+       "type": "text",
+       "text": "as hs"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "* Dla programów radiowych wpisać R, telewizyjnych T. Oświadczam, że dane zawarte we wniosku oraz załącznikach są zgodne z rzeczywistością. Zobowiązuję się do aktualizowania informacji o stanie faktycznym lub prawnym danych objętych wnioskiem."
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "INFORMACJE O SIECI KABLOWEJ"
-    },
-    {
-     "type": "ocr",
-     "text": "23. Lokalizacja stacji czołowej"
-    },
-    {
-     "type": "ocr",
-     "text": "24. Ulica"
-    },
-    {
-     "type": "ocr",
-     "text": "26. Miejscowość"
-    },
-    {
-     "type": "ocr",
-     "text": "25. Nr domu"
-    },
-    {
-     "type": "ocr",
-     "text": "27. Kod pocztowy | 28. Województwo"
-    },
-    {
-     "type": "ocr",
-     "text": "Liczba abonentów podłączonych do sieci 29. Liczba"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Nr zezwolenia URTiP lub zaświadczenia o dokonaniu wpisu |30. Numer przez Prezesa URTIP do rejestru zgodnie z przepisami ustawy z dnia 16 lipca 2004 r. Prawo telekomunikacyjne"
-    },
-    {
-     "type": "ocr",
-     "text": "WYKAZ PROGRAMÓW OBJĘTYCH WNIOSKIEM O REJESTRACJĘ"
-    },
-    {
-     "type": "ocr",
-     "text": "31. Liczba programów objętych wnioskiem o wpis do rejestru"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa iadres | Źródło programu Oznanadawcy (naziemny, nazwa | czenie terminu satelity, nr ważności wpisu transpondera"
-    },
-    {
-     "type": "ocr",
-     "text": "Lp. Nazwa R/T*"
-    },
-    {
-     "type": "ocr",
-     "text": "programu"
-    },
-    {
-     "type": "ocr",
-     "text": "as"
-    },
-    {
-     "type": "ocr",
-     "text": "hs"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "* Dla programów radiowych wpisać R, telewizyjnych T. Oświadczam, że dane zawarte we wniosku oraz załącznikach są zgodne z rzeczywistością. Zobowiązuję się do aktualizowania informacji o stanie faktycznym lub prawnym danych objętych wnioskiem."
-    },
-    {
-     "type": "ocr",
-     "text": "32. Data wypełnienia wniosku Pieczęć Podpis operatora"
+     "type": "ust",
+     "num": "32",
+     "path": "ust_32",
+     "text": "Data wypełnienia wniosku Pieczęć Podpis operatora",
+     "children": []
     }
    ]
   }

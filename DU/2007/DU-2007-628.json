@@ -1,7 +1,7 @@
 {
  "eli": "DU/2007/628",
  "title": "Rozporządzenie Ministra Finansów z dnia 18 maja 2007 r. w sprawie szczegółowego sposobu, trybu i terminów opracowania materiałów do projektu ustawy budżetowej na rok 2008 r",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2007/628/text.pdf",
  "body": [
   {
@@ -696,7 +696,7 @@
      "type": "ust",
      "num": "6",
      "path": "par_6/ust_6",
-     "text": "Formularze: PZ-1A , BW i BZS (Część A i B) dysponenci, w terminie, o którym mowa w ust. 1, przedstawiają również Szefowi Kancelarii Prezesa Rady Ministrów.",
+     "text": "Formularze: PZ-1A, BW i BZS (Część A i B) dysponenci, w terminie, o którym mowa w ust. 1, przedstawiają również Szefowi Kancelarii Prezesa Rady Ministrów.",
      "children": []
     },
     {
@@ -863,12 +863,11 @@
    "num": "11",
    "path": "par_11",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Finansów: w z. E. Suchocka-Roguska"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: w z. E. Suchocka-Roguska"
   }
  ],
  "annexes": [
@@ -1007,234 +1006,254 @@
     },
     {
      "type": "note",
-     "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 23 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1.5.8"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1.5.9"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1.5.10"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1.5.11"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3.6.10 3.6.11"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3.6.12 3.6.13 3.6.14"
     },
     {
-     "type": "ocr",
-     "text": "2 Dotacja celowa z budzetu na finansowanie lub dofinansowanie zadan zleconych do realizacji stowarzyszeniom Dotacja celowa z budzetu na finansowanie lub dofinansowanie zadan zleconych do realizacji pozostatym jednostkom niezaliczanym do sektora finansów publicznych Dotacja celowa z budżetu państwa na finansowanie lub dofinansowanie ustawowo określonych zadań bieżących realizowanych przez pozostałe jednostki sektora finansów publicznych Dotacja z budżetu państwa stanowiąca zwrot kosztów obsługi świadczeń zleconych do wypłaty Zakładowi Ubezpieczeń Społecznych i Kasie Rolniczego Ubezpieczenia Społecznego oraz dotacja dla Funduszu Koś"
+     "type": "text",
+     "text": "2 Dotacja celowa z budżetu na finansowanie lub dofinansowanie zadań zleconych do realizacji stowarzyszeniom Dotacja celowa z budżetu na finansowanie lub dofinansowanie zadań zleconych do realizacji pozostałym jednostkom niezaliczanym do sektora finansów publicznych Dotacja celowa z budżetu państwa na finansowanie lub dofinansowanie ustawowo określonych zadań bieżących realizowanych przez pozostałe jednostki sektora finansów publicznych Dotacja z budżetu państwa stanowiąca zwrot kosztów obsługi świadczeń zleconych do wypłaty Zakładowi Ubezpieczeń Społecznych i Kasie Rolniczego Ubezpieczenia Społecznego oraz dotacja dla Funduszu Koś"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Pomoc zagraniczna"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Rezerwy subwencji ogólnej Świadczenia na rzecz osób fizycznych Świadczenia społeczne"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Dopłaty do Funduszu Pożyczek i Kredytów Studenckich Stypendia dla uczniów Stypendia różne Inne formy pomocy dla uczniów"
     },
     {
-     "type": "ocr",
-     "text": "Różne wydatki na rzecz osób fizycznych Nagrody o charakterze szczególnym niezaliczone do wynagrodzeń Zasądzone renty Pomoc finansowa państwa na bieżące naprawy prywatnych domów oraz dopłaty do energii cieplnej (z kotłowni własnych) Wydatki osobowe niezaliczone do uposażeń wypłacane żołnierzom i funkcjonariuszom Rezerwy Wydatki bieżące Wynagrodzenia Wynagrodzenia osobowe pracowników Wynagrodzenia osobowe członków korpusu służby cywilnej Wynagrodzenia osobowe sędziów i prokuratorów oraz asesorów i aplikantów Dodatkowe wynagrodzenie roczne Uposażenia żołnierzy zawodowych i nadterminowych oraz funkcjonariuszy Pozostałe należności żołnierzy zawodowych i nadterminowych oraz funkcjonariuszy Dodatkowe uposażenie roczne dla żołnierzy zawodowych oraz nagrody roczne dla funkcjonariuszy Uposażenia i świadczenia pieniężne wypłacane przez okres roku żotnierzom i funkcjonariuszom zwolnionym ze służby Honoraria Wynagrodzenia agencyjno-prowizyjne Wynagrodzenia bezosobowe Równoważniki pieniężne i ekwiwalenty dla żołnierzy i funkcjonariuszy Nagrody motywacyjne Pochodne od wynagrodzeń Składki na ubezpieczenia społeczne Składki na Fundusz Pracy"
+     "type": "text",
+     "text": "Różne wydatki na rzecz osób fizycznych Nagrody o charakterze szczególnym niezaliczone do wynagrodzeń Zasądzone renty Pomoc finansowa państwa na bieżące naprawy prywatnych domów oraz dopłaty do energii cieplnej (z kotłowni własnych) Wydatki osobowe niezaliczone do uposażeń wypłacane żołnierzom i funkcjonariuszom Rezerwy Wydatki bieżące Wynagrodzenia Wynagrodzenia osobowe pracowników Wynagrodzenia osobowe członków korpusu służby cywilnej Wynagrodzenia osobowe sędziów i prokuratorów oraz asesorów i aplikantów Dodatkowe wynagrodzenie roczne Uposażenia żołnierzy zawodowych i nadterminowych oraz funkcjonariuszy Pozostałe należności żołnierzy zawodowych i nadterminowych oraz funkcjonariuszy Dodatkowe uposażenie roczne dla żołnierzy zawodowych oraz nagrody roczne dla funkcjonariuszy Uposażenia i świadczenia pieniężne wypłacane przez okres roku żołnierzom i funkcjonariuszom zwolnionym ze służby Honoraria Wynagrodzenia agencyjno-prowizyjne Wynagrodzenia bezosobowe Równoważniki pieniężne i ekwiwalenty dla żołnierzy i funkcjonariuszy Nagrody motywacyjne Pochodne od wynagrodzeń Składki na ubezpieczenia społeczne Składki na Fundusz Pracy"
     },
     {
-     "type": "ocr",
-     "text": "Cta Pozostałe podatki na rzecz budżetu państwa Opłaty na rzecz budżetu państwa Podatek od towarów i usług (VAT)"
+     "type": "text",
+     "text": "Cła Pozostałe podatki na rzecz budżetu państwa Opłaty na rzecz budżetu państwa Podatek od towarów i usług (VAT)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Podatek od nieruchomości Pozostałe podatki na rzecz budżetów jednostek samorządu terytorialnego Opłaty na rzecz budżetów jednostek samorządu terytorialnego Zakupy towarów i usług Zakup materiałów i wyposażenia Zakup środków żywności Zakup leków, wyrobów medycznych i produktów biobójczych Zakup pomocy naukowych, dydaktycznych i książek Zakup sprzętu i uzbrojenia Zakup energii Zakup usług remontowych Zakup usług zdrowotnych Zakup świadczeń zdrowotnych dla osób nieobjętych obowiązkiem ubezpieczenia zdrowotnego Zakup usług pozostałych Zakup usług remontowo-konserwatorskich dotyczących obiektów zabytkowych będących w użytkowaniu jednostek budżetowych Zakup usług dostępu do sieci Internet Opłaty z tytułu zakupu usług telekomunikacyjnych telefonii komórkowej Opłaty z tytułu zakupu usług telekomunikacyjnych telefonii stacjonarnej"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "282"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "283"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "284"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "323 324 325"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "304 305"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "306"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "307 481"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "405"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "406"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "407"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "447 449 451 453"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "429 430"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "434 435 436 437"
     },
     {
      "type": "note",
-     "text": "[Strona 24 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 24 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "1 2 3.6.15 Zakup usług obejmujących tłumaczenia"
+    },
+    {
+     "type": "text",
+     "text": "3 4 5 6 438 3.6.16 Zakup usług obejmujących wykonanie ekspertyz, analiz i opinii 439 3.6.17 Opłaty za administrowanie i czynsze za budynki, lokale i pomieszczenia garażowe 440 3.6.18 Zakup materiałów papierniczych do sprzętu drukarskiego i urządzeń kserograficznych 474 3.6.19 Zakup akcesoriów komputerowych, w tym programów i licencji 475 Pozostałe wydatki 3.7.1 Składki na ubezpieczenie zdrowotne"
+    },
+    {
+     "type": "text",
+     "text": "413 3.7.2 Wpłaty na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych 414 3.7.3 Dopłaty w spółkach prawa handlowego"
+    },
+    {
+     "type": "text",
+     "text": "415 3.7.4 Pokrycie ujemnego wyniku finansowego i przejętych zobowiązań po likwidowanych i przekształcanych jednostkach zaliczanych do sektora finansów publicznych 3.7.5 Fundusz operacyjny"
+    },
+    {
+     "type": "text",
+     "text": "416 420 3.7.6 Wydatki na sfinansowanie kosztów emisji skarbowych papierów wartościowych oraz innych kosztów i prowizji 3.7.7 Staże i specjalizacje medyczne 3.7.8 Podróże służbowe krajowe 3.7.9 Podróże służbowe zagraniczne 3.7.10 Różne opłaty i składki"
+    },
+    {
+     "type": "text",
+     "text": "431 432 441 442 443 3.7.11 Udzielone pożyczki na zaspokojenie potrzeb mieszkaniowych sędziów i prokuratorów 3.7.12 Składki do organizacji międzynarodowych 3.7.13 Szkolenia członków korpusu służby cywilnej"
+    },
+    {
+     "type": "text",
+     "text": "445 454 455 3.7.14 Odsetki od dotacji wykorzystanych niezgodnie z przeznaczeniem lub pobranych w nadmiernej wysokości"
+    },
+    {
+     "type": "text",
+     "text": "456 3.7.15 Odsetki od nieterminowych wpłat z tytułu pozostałych podatków i opłat 457 3.7.16 Pozostałe odsetki"
+    },
+    {
+     "type": "text",
+     "text": "458 3.7.17 Kary i odszkodowania wypłacane na rzecz osób fizycznych 459 3.7.18 Kary i odszkodowania wypłacane na rzecz osób prawnych i innych jednostek organizacyjnych 3.7.19 Koszty postępowania sądowego i prokuratorskiego"
+    },
+    {
+     "type": "text",
+     "text": "460 461 3.7.20 Odsetki od nieterminowych wpłat podatku dochodowego od osób prawnych 465 3.7.21 Odsetki od nieterminowych wpłat cet"
+    },
+    {
+     "type": "text",
+     "text": "466 3.7.22 Odsetki od nieterminowych wpłat podatku od nieruchomości 467 3.7.23 Odsetki od nieterminowych wpłat podatku od towarów i usług (VAT) 468 3.7.24 Składki do organizacji międzynarodowych, w których uczestnictwo związane jest z członkostwem w Unii Europejskiej"
+    },
+    {
+     "type": "text",
+     "text": "469 3.7.25 Szkolenia pracowników niebędących członkami korpusu służby cywilnej 470 3.7.26 Fundusz dyspozycyjny 3.7.27 Pokrycie zobowiązań zakładów opieki zdrowotnej"
+    },
+    {
+     "type": "text",
+     "text": "471 490 3.7.28 State zaliczki do rozliczenia udzielone placówkom polskim za granicą 496 3.7.29 Wydatki egzekucyjne poniesione w postępowaniu egzekucyjnym wszczętym i prowadzonym na poczet należności objętych wnioskiem obcego państwa, ERA A niesciggnigte od ZODOWIĄZANEO | meneeneanaaaneeoweanaeaeo ana ŚŚ napawa aaa nannneo 3.8 Rezerwy 4|Wydatki majątkowe 4.1 | Wydatki inwestycyjne jednostek budżetowych"
+    },
+    {
+     "type": "text",
+     "text": "481"
+    },
+    {
+     "type": "text",
+     "text": "605 606 613 m"
+    },
+    {
+     "type": "text",
+     "text": "621 Dotacje celowe z budżetu na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych innych jednostek sektora"
+    },
+    {
+     "type": "text",
      "text": "4.7"
     },
     {
-     "type": "ocr",
-     "text": "4.8.2"
-    },
-    {
-     "type": "ocr",
-     "text": "4.8.3"
-    },
-    {
-     "type": "ocr",
-     "text": "4.8.4"
-    },
-    {
-     "type": "ocr",
-     "text": "4.8.5"
-    },
-    {
-     "type": "ocr",
-     "text": "4.8.6"
-    },
-    {
-     "type": "ocr",
-     "text": "4.8.7"
-    },
-    {
-     "type": "ocr",
-     "text": "4.8.8"
-    },
-    {
-     "type": "ocr",
-     "text": "4.8.9"
-    },
-    {
-     "type": "ocr",
-     "text": "Dotacje celowe z budżetu na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych innych jednostek sektora"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Dotacje celowe z budżetu na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek niezaliczanych do sektora finansów publicznych"
     },
     {
-     "type": "ocr",
-     "text": "Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy inwestycyjne z zakresu administracji rządowej oraz innych zadań zleconych gminom ustawami Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy inwestycyjne realizowane przez gminę na podstawie porozumień z organami administracji rządowej Dotacje celowe przekazane z budżetu państwa na realizację inwestycji i zakupów inwestycyjnych własnych gmin (związków gmin) Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy inwestycyjne z zakresu administracji rządowej oraz inne zadania zlecone ustawami realizowane przez powiat Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy inwestycyjne realizowane przez powiat na podstawie porozumień z organami administracji rządowej Dotacje celowe przekazane z budżetu państwa na realizację inwestycji i zakupów inwestycyjnych własnych powiatu Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy inwestycyjne z zakresu administracji rządowej oraz inne zadania zlecone ustawami realizowane przez samorząd województwa Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy inwestycyjne realizowane przez samorząd województwa na podstawie porozumień z organami administracji rządowej Dotacje celowe przekazane z budżetu państwa na realizację inwestycji i zakupów inwestycyjnych własnych samorządu województwa"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "623"
     },
     {
-     "type": "ocr",
-     "text": "631"
+     "type": "text",
+     "text": "Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy inwestycyjne z zakresu administracji rządowej oraz innych zadań zleconych gminom ustawami 4.8.2"
     },
     {
-     "type": "ocr",
-     "text": "632"
+     "type": "text",
+     "text": "631 Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy inwestycyjne realizowane przez gminę na podstawie porozumień z organami administracji rządowej 4.8.3"
     },
     {
-     "type": "ocr",
-     "text": "633"
+     "type": "text",
+     "text": "632 Dotacje celowe przekazane z budżetu państwa na realizację inwestycji i zakupów inwestycyjnych własnych gmin (związków gmin) 4.8.4"
     },
     {
-     "type": "ocr",
-     "text": "641"
+     "type": "text",
+     "text": "633 Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy inwestycyjne z zakresu administracji rządowej oraz inne zadania zlecone ustawami realizowane przez powiat 4.8.5"
     },
     {
-     "type": "ocr",
-     "text": "642"
+     "type": "text",
+     "text": "641 Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy inwestycyjne realizowane przez powiat na podstawie porozumień z organami administracji rządowej 4.8.6"
     },
     {
-     "type": "ocr",
-     "text": "643"
+     "type": "text",
+     "text": "642 Dotacje celowe przekazane z budżetu państwa na realizację inwestycji i zakupów inwestycyjnych własnych powiatu 4.8.7"
     },
     {
-     "type": "ocr",
-     "text": "651"
+     "type": "text",
+     "text": "643 Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy inwestycyjne z zakresu administracji rządowej oraz inne zadania zlecone ustawami realizowane przez samorząd województwa 4.8.8"
     },
     {
-     "type": "ocr",
-     "text": "652"
+     "type": "text",
+     "text": "651 Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy inwestycyjne realizowane przez samorząd województwa na podstawie porozumień z organami administracji rządowej 4.8.9"
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "652 Dotacje celowe przekazane z budżetu państwa na realizację inwestycji i zakupów inwestycyjnych własnych samorządu województwa"
+    },
+    {
+     "type": "text",
      "text": "653"
     },
     {
-     "type": "ocr",
-     "text": "1 2 3 4 5 6 3.6.15 Zakup usług obejmujących tłumaczenia 438 3.6.16 Zakup usług obejmujących wykonanie ekspertyz, analiz i opinii 439 3.6.17 Opłaty za administrowanie i czynsze za budynki, lokale i pomieszczenia garażowe 440 3.6.18 Zakup materiałów papierniczych do sprzętu drukarskiego i urządzeń kserograficznych 474 3.6.19 Zakup akcesoriów komputerowych, w tym programów i licencji 475 Pozostałe wydatki 3.7.1 Składki na ubezpieczenie zdrowotne 413 3.7.2 Wpłaty na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych 414 3.7.3 Dopłaty w spółkach prawa handlowego 415 3.7.4 Pokrycie ujemnego wyniku finansowego i przejętych zobowiązań po likwidowanych i przekształcanych jednostkach zaliczanych do sektora finansów publicznych 416 3.7.5 Fundusz operacyjny 420 3.7.6 Wydatki na sfinansowanie kosztów emisji skarbowych papierów wartościowych oraz innych kosztów i prowizji 431 3.7.7 Staże i specjalizacje medyczne 432 3.7.8 Podróże służbowe krajowe 441 3.7.9 Podróże służbowe zagraniczne 442 3.7.10 Różne opłaty i składki 443 3.7.11 Udzielone pożyczki na zaspokojenie potrzeb mieszkaniowych sędziów i prokuratorów 445 3.7.12 Składki do organizacji międzynarodowych 454 3.7.13 Szkolenia członków korpusu służby cywilnej 455 3.7.14 Odsetki od dotacji wykorzystanych niezgodnie z przeznaczeniem lub pobranych w nadmiernej wysokości 456 3.7.15 Odsetki od nieterminowych wpłat z tytułu pozostałych podatków i opłat 457 3.7.16 Pozostałe odsetki 458 3.7.17 Kary i odszkodowania wypłacane na rzecz osób fizycznych 459 3.7.18 Kary i odszkodowania wypłacane na rzecz osób prawnych i innych jednostek organizacyjnych 460 3.7.19 Koszty postępowania sądowego i prokuratorskiego 461 3.7.20 Odsetki od nieterminowych wpłat podatku dochodowego od osób prawnych 465 3.7.21 Odsetki od nieterminowych wpłat cet 466 3.7.22 Odsetki od nieterminowych wpłat podatku od nieruchomości 467 3.7.23 Odsetki od nieterminowych wpłat podatku od towarów i usług (VAT) 468 3.7.24 Składki do organizacji międzynarodowych, w których uczestnictwo związane jest z członkostwem w Unii Europejskiej 469 3.7.25 Szkolenia pracowników niebędących członkami korpusu służby cywilnej 470 3.7.26 Fundusz dyspozycyjny 471 3.7.27 Pokrycie zobowiązań zakładów opieki zdrowotnej 490 3.7.28 State zaliczki do rozliczenia udzielone placówkom polskim za granicą 496 3.7.29 Wydatki egzekucyjne poniesione w postępowaniu egzekucyjnym wszczętym i prowadzonym na poczet należności objętych wnioskiem obcego państwa, ERA A niesciggnigte od ZODOWIĄZANEO | meneeneanaaaneeoweanaeaeo ana ŚŚ napawa aaa nannneo 3.8 Rezerwy 481 4|Wydatki majątkowe 4.1 | Wydatki inwestycyjne jednostek budżetowych 605 606 613 m"
-    },
-    {
-     "type": "ocr",
-     "text": "621"
-    },
-    {
      "type": "note",
-     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 25 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4.9|Dotacje rozwojowe Wydatki na zakup i objęcie akcji, wniesienie wkładów do spółek prawa handlowego oraz na uzupełnienie funduszy statutowych banków państwowych"
     },
     {
-     "type": "ocr",
-     "text": "Środki przekazywane z budżetu państwa na Fundusz Rozwoju Inwestycji Komunalnych 4.13|Rezerwy na inwestycje i zakupy inwestycyjne 5|Obsługa długu publicznego 5.1 |Rozliczenia z bankami związane z obsługą długu publicznego ___ 5.3|Odsetki i opłaty od otrzymanych pożyczek i kredytów zagranicznych, odsetki i dyskonto od obligacji skarbowych wyemitowanych za granicą oraz odsetki od obligacji Brady'ego 5.4|Odsetki i dyskonto od krajowych skarbowych papierów wartościowych oraz od krajowych pożyczek i kredytów 5.5|Rozliczenia z tytułu transakcji finansowych na instrumentach pochodnych, polegających na wymianie płatności odsetkowych 5.6| Wydatki związane z finansowaniem programu F-16 6|Środki własne Unii Europejskiej 6.1| Wpłata obliczona na podstawie Dochodu Narodowego Brutto 6.2|Wpłata obliczona, zgodnie z metodologią wynikajacą z przepisów Unii Europejskiej, na podstawie podatku od towarów i usług 6.3|Wpłata z tytułu udziału w opłatach celnych | opłatach rolnych __"
+     "type": "text",
+     "text": "Środki przekazywane z budżetu państwa na Fundusz Rozwoju Inwestycji Komunalnych 4.13|Rezerwy na inwestycje i zakupy inwestycyjne 5|Obsługa długu publicznego 5.1 |Rozliczenia z bankami związane z obsługą długu publicznego ___ 5.3|Odsetki i opłaty od otrzymanych pożyczek i kredytów zagranicznych, odsetki i dyskonto od obligacji skarbowych wyemitowanych za granicą oraz odsetki od obligacji Brady'ego 5.4|Odsetki i dyskonto od krajowych skarbowych papierów wartościowych oraz od krajowych pożyczek i kredytów 5.5|Rozliczenia z tytułu transakcji finansowych na instrumentach pochodnych, polegających na wymianie płatności odsetkowych 5.6| Wydatki związane z finansowaniem programu F-16 6|Środki własne Unii Europejskiej 6.1| Wpłata obliczona na podstawie Dochodu Narodowego Brutto 6.2|Wpłata obliczona, zgodnie z metodologią wynikającą z przepisów Unii Europejskiej, na podstawie podatku od towarów i usług 6.3|Wpłata z tytułu udziału w opłatach celnych | opłatach rolnych __"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "6.5|Różne rozliczenia finansowe 6.6|Wpłata z tytułu finansowania rabatu brytyjskiego OGÓŁEM"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1 klasyfikacja paragrafów wydatków jest czterocyfrowa; czwartą cyfrą jest odpowiednia cyfra od 1 do 9 lub cyfra 0"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Sporządził ..... eee (imię i nazwisko, stanowisko służbowe) nr telefonu .............1......-... adres e-mail «00.0.0... ee data ... podpis ..."
     }
    ]
@@ -1253,7 +1272,7 @@
    "body": [
     {
      "type": "text",
-     "text": "zgodnie zart. 80 i81 ustawy zdnia 27 sierpnia 2004 r. oświadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z 2005 r. Nr 94, poz. 788, Nr 132, poz. 1110, Nr 138, poz. 1154, Nr 157, poz. 1314, Nr 164, poz.1366, Nr 169, poz. 1411 i Nr 179, poz. 1485, z 2006 r. Nr 75, poz. 519, Nr 104, poz. 708 i 711, Nr 143, poz. 1030, Nr 170, poz.1217, Nr191, poz. 1410, Nr 227, poz. 1658 i Nr 249, poz. 1824 oraz z2007 r. Nr 64, poz. 427 i433 iNr 82, poz. 559) Dziennik Ustaw Nr 94 — 5715 — Poz. 628"
+     "text": "zgodnie zart. 80 i81 ustawy zdnia 27 sierpnia 2004 r. oświadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z 2005 r. Nr 94, poz. 788, Nr 132, poz. 1110, Nr 138, poz. 1154, Nr 157, poz. 1314, Nr 164, poz.1366, Nr 169, poz. 1411 i Nr 179, poz. 1485, z 2006 r. Nr 75, poz. 519, Nr 104, poz. 708 i 711, Nr 143, poz. 1030, Nr 170, poz.1217, Nr191, poz. 1410, Nr 227, poz. 1658 i Nr 249, poz. 1824 oraz z2007 r. Nr 64, poz. 427 i433 iNr 82, poz. 559)"
     },
     {
      "type": "note",
@@ -1324,7 +1343,7 @@
     },
     {
      "type": "text",
-     "text": "k i n zc ą ł a Z 2) dla celów planistycznych podstawą do ustalenia w cenach bieżących 2008 r. wartości kosztorysowej inwestycji kontynuowanych, polegających na budownictwie inwestycyjnym, jest wartość w cenach realizacji każdego roku, uwzględniająca wszystkie zmiany dokonane do końca 2006 r. Tę część wartości kosztorysowej, która pozostała do wykonania po 2006 r., należy przeliczyć na ceny 2007 r. woparciu oaktualne prognozy wzrostu cen inwestycyjnych, otrzymując wten sposób wielkość zaangażowania nakładów po 2006 r. wcenach 2007 r. Po odjęciu od tak ustalonego zaangażowania przewidywanego wykonania nakładów w2007 r. pozostają nakłady do poniesienia po 2007 r., które należy przeliczyć na ceny 2008 r., posługując się prognozowanym wskaźnikiem wzrostu cen inwestycyjnych, podanym w materiałach, o których mowa w§3 ust. 2 rozporządzenia. Wartość kosztorysową inwestycji kontynuowanych wcenach bieżących 2008 r. stanowi zatem suma wartości: nakładów poniesionych do końca 2006 r. wcenach realizacji minionych lat, wielkości przewidywanego wykonania nakładów w2007 r. oraz zaangażowania po 2007 r., przeliczonego na ceny 2008 r. Dziennik Ustaw Nr 94 — 5723 — Poz. 628"
+     "text": "k i n zc ą ł a Z 2) dla celów planistycznych podstawą do ustalenia w cenach bieżących 2008 r. wartości kosztorysowej inwestycji kontynuowanych, polegających na budownictwie inwestycyjnym, jest wartość w cenach realizacji każdego roku, uwzględniająca wszystkie zmiany dokonane do końca 2006 r. Tę część wartości kosztorysowej, która pozostała do wykonania po 2006 r., należy przeliczyć na ceny 2007 r. woparciu oaktualne prognozy wzrostu cen inwestycyjnych, otrzymując wten sposób wielkość zaangażowania nakładów po 2006 r. wcenach 2007 r. Po odjęciu od tak ustalonego zaangażowania przewidywanego wykonania nakładów w2007 r. pozostają nakłady do poniesienia po 2007 r., które należy przeliczyć na ceny 2008 r., posługując się prognozowanym wskaźnikiem wzrostu cen inwestycyjnych, podanym w materiałach, o których mowa w§3 ust. 2 rozporządzenia. Wartość kosztorysową inwestycji kontynuowanych wcenach bieżących 2008 r. stanowi zatem suma wartości: nakładów poniesionych do końca 2006 r. wcenach realizacji minionych lat, wielkości przewidywanego wykonania nakładów w2007 r. oraz zaangażowania po 2007 r., przeliczonego na ceny 2008 r."
     },
     {
      "type": "note",
@@ -1396,18 +1415,18 @@
     },
     {
      "type": "note",
-     "text": "[Strona 37 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 37 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Część D. Efekty inwestycji oraz inne wskaźniki Jednostka Dane me } ae"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": ". Inne wskaźniki"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(imię i nazwisko, stanowisko służbowe) nr telefonu ......................... adres e-mail oo... cece es eeeee seen ees"
     },
     {
@@ -1559,26 +1578,26 @@
     },
     {
      "type": "note",
-     "text": "[Strona 53 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 53 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Pozostałe świadczenia Fundusz rentowy Renty Emerytury przyznane z urzędu zamiast renty Dodatki do emerytur i rent: pielęgnacyjne, dla sierot zupełnych, za tajne nauczanie Zasiłki pogrzebowe Prewencja rentowa Fundusz chorobowy Zasiłki chorobowe Zasiłki macierzyńskie Zasiłki opiekuńcze Świadczenia rehabilitacyjne Pozostałe świadczenia Wynagrodzenia dla płatników składek Fundusz wypadkowy Renty Dodatki do rent: pielęgnacyjne, dla sierot zupełnych Zasiłki chorobowe Jednorazowe odszkodowania Świadczenia rehabilitacyjne Pozostałe świadczenia Prewencja wypadkowa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Stan funduszu na koniec roku (I+ll-IV) z tego: Środki pieniężne Należności Zobowiązania (minus) w tym: z tytułu zaciągniętego kredytu Dane uzupełniające Fundusz emerytalny Składki (przypis) Pozostałe przychody (przypis) Fundusz rentowy Składki (przypis) Pozostałe przychody (przypis) Fundusz chorobowy Składki (przypis) Pozostałe przychody (przypis) Fundusz wypadkowy Składki (przypis) Pozostałe przychody (przypis)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "EE"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1 wydatki na realizację zadań powinny być wykazywane w podziale na wydatki bieżące i wydatki majątkowe"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "SpOrZĄdził ..... een"
     }
    ]
@@ -1715,170 +1734,171 @@
     },
     {
      "type": "note",
-     "text": "[Strona 62 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 62 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1 2 3 4 5 6 7 9.4.2| - podatki stanowiące źródło dochodów własnych jednostek samorządu terytorialnego x - opłaty za wieczyste użytkowanie gruntów x - opłaty urzędowe x 194.5. |. - Wpłaty NAPERON, eee eee. A AA A NA NOA 1.9.5. |- WYNAGrOdZENIA | mmmmmmamamannamooronnnonaainmm OOADECAN NOREK KOREKKNN NENENNKNK KEEKKEM - osobowe 401"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "19.6.1| - składki na ubezpieczenie społeczne 411 9.6.2 | - składki na Fundusz Pracy 412 9.6.3 | - składka na Fundusz Gwarantowanych Świadczeń Pracowniczych x - świadczenia socjalne x"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "x Pozostałe"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "10.1 |- jednostek zaliczanych do sektora finansów x publicznych z tego dla:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "10.2 |- jednostek niezaliczanych do sektora finansów x publicznych z tego dla:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "11 |Dopłaty do oprocentowania odsetek od kredytów 298 z tego dla:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "12 |Srodki przekazane na realizację zadań bieżących dla jednostek zaliczanych do sektora finansów publicznych 246 z tego dla:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "13 |S p a realizację zadań bieżących dla jednostek niezaliczanych do sektora finansów publicznych 247 z tego dla:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "14 |Srodki przekazane na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek zaliczanych do sektora finansów publicznych 628 z tego dla:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "15 |Srodki przekazane na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek niezaliczanych do sektora finansów publicznych 629 z tego dla:"
     },
     {
-     "type": "ocr",
-     "text": "[16.1 |- obsługa długu ee WREN SARA ee ee ee ieee ii |_17 |Majatkowe SA 613,614 NANA NAAROANENNNENA WARNER WORKER NANA 18 |Pozostałe koszty x"
+     "type": "text",
+     "text": "[16.1 |- obsługa długu ee WREN SARA ee ee ee ieee ii |_17 |Majątkowe SA 613,614 NANA NAAROANENNNENA WARNER WORKER NANA 18 |Pozostałe koszty x"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "IV |WYNIK ZDARZEŃ NADZWYCZAJNYCH x"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "- zyski nadzwyczajne x - straty nadzwyczajne x"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "V |WYNIK BRUTTO (I - II +/ III)”"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "VI JOBOWIAZKOWE OBCIĄŻENIA WYNIKU FINANSOWEGO"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Podatek dochodowy od osób prawnych 446"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "VII |WYNIK NETTO (IV - Vv)”"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": ") niepotrzebne skreślić 1 klasyfikacja paragrafów wydatków jest czterocyfrowa; czwartą cyfrą jest odpowiednia cyfra od 1 do 9 lub cyfra 0; przychody należy ujmować, stosując czwarte cyfry właściwe dla klasyfikacji dochodów"
     },
     {
-     "type": "ocr",
-     "text": "2) dodatni wynik należy oznaczyć znakiem \"+\", a ujemny wynik znakiem \"-\""
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "dodatni wynik należy oznaczyć znakiem \"+\", a ujemny wynik znakiem \"-\"",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 63 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Część B. Dane uzupełniające Lp."
+      },
+      {
+       "type": "text",
+       "text": "Wyszczególnienie 31.12.2006 r."
+      },
+      {
+       "type": "text",
+       "text": "Stan na dzień"
+      },
+      {
+       "type": "text",
+       "text": "Plan na dzień | Plan na dzień 31.12.2007 r. | 31.12.2008 r."
+      },
+      {
+       "type": "text",
+       "text": "Plan na dzień | Plan na dzień 31.12.2009 r. | 31.12.2010 r. w tysiącach złotych"
+      },
+      {
+       "type": "text",
+       "text": "AKTYWA"
+      },
+      {
+       "type": "text",
+       "text": "AKTYWA TRWAŁE”"
+      },
+      {
+       "type": "text",
+       "text": "ednos dsektora rządowego _. ednostkom podsektora samorządowego Akcje i udziały”"
+      },
+      {
+       "type": "text",
+       "text": "ednostkom podsektora samorządowego Akcje i udziały” ZOBOWIĄZANIA I REZERWY NA ZOBOWIĄZANIA” Papiery wartościowe"
+      },
+      {
+       "type": "text",
+       "text": "w tym wymagalne Rezerwy na zobowiązania LICZBA ZATRUDNIONYCH (w przeliczeniu na pełne etaty)"
+      },
+      {
+       "type": "text",
+       "text": "3% wartość pozycji niniejszych powinna być zgodna z wartością wykazaną w sprawozdaniu rocznym 5 pozycja ta powinna uwzględniać zmianę stanu akcji i udziałów będącą wynikiem transakcji bez zmiany wartości kursu (przeszacowania) akcji i udzi ałów"
+      }
+     ]
     },
     {
-     "type": "note",
-     "text": "[Strona 63 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "heading",
+     "label": "Część C",
+     "text": "Dane uzupełniające Lp."
     },
     {
-     "type": "ocr",
-     "text": "Część B. Dane uzupełniające Lp."
-    },
-    {
-     "type": "ocr",
-     "text": "Wyszczególnienie 31.12.2006 r."
-    },
-    {
-     "type": "ocr",
-     "text": "Stan na dzień"
-    },
-    {
-     "type": "ocr",
-     "text": "Plan na dzień | Plan na dzień 31.12.2007 r. | 31.12.2008 r."
-    },
-    {
-     "type": "ocr",
-     "text": "Plan na dzień | Plan na dzień 31.12.2009 r. | 31.12.2010 r. w tysiącach złotych"
-    },
-    {
-     "type": "ocr",
-     "text": "AKTYWA"
-    },
-    {
-     "type": "ocr",
-     "text": "AKTYWA TRWAŁE”"
-    },
-    {
-     "type": "ocr",
-     "text": "ednos dsektora rządowego _. ednostkom podsektora samorządowego Akcje i udziały”"
-    },
-    {
-     "type": "ocr",
-     "text": "ednostkom podsektora samorządowego Akcje i udziały” ZOBOWIĄZANIA I REZERWY NA ZOBOWIĄZANIA” Papiery wartościowe"
-    },
-    {
-     "type": "ocr",
-     "text": "w tym wymagalne Rezerwy na zobowiązania LICZBA ZATRUDNIONYCH (w przeliczeniu na pełne etaty)"
-    },
-    {
-     "type": "ocr",
-     "text": "3% wartość pozycji niniejszych powinna być zgodna z wartością wykazaną w sprawozdaniu rocznym 5 pozycja ta powinna uwzględniać zmianę stanu akcji i udziałów będącą wynikiem transakcji bez zmiany wartości kursu (przeszacowania) akcji i udzi"
-    },
-    {
-     "type": "ocr",
-     "text": "ałów"
-    },
-    {
-     "type": "ocr",
-     "text": "Część C. Dane uzupełniające Lp."
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Wyszczególnienie"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Stan na dzień 31.12.2006 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień | Plan na dzień 31.12.2007 r. | 31.12.2008 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień | Plan na dzień 31.12.2009 r. | 31.12.2010 r. w tysiącach złotych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "ZOBOWIĄZANIA według wartości nominalnej"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "ednostek podsektora samorządowego ednostek spoza sektora finansów publicznych Zobowiązania wymagalne"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Część D. Informacje dodatkowe Przewidywane | Projekt planu Projekt planu Projekt planu Lp Wyszczególnienie wykonanie na 2008 r. na 2009 r. na 2010 r. i w 2007 r. w tysiącach złotych 1 2 3 4 5 6 Nakłady na budowę, ulepszenie i zakup środków trwałych oraz wartości niematerialnych i prawnych Przychody z tytułu sprzedaży środków trwałych Wartość nieodpłatnie przekazanych środków trwałych Wartość nieodpłatnie otrzymanych środków trwałych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(imię i nazwisko, stanowisko służbowe) nr telefonu wee adres e-mail woes"
     }
    ]
@@ -1892,143 +1912,156 @@
     },
     {
      "type": "note",
-     "text": "[Strona 65 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 65 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Środki przekazane na realizację zadań bieżących dla jednostek niezaliczanych do sektora finansów publicznych z tego dla:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Środki przekazane na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek zaliczanych do sektora finansów publicznych z tego dla:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "|Środki przekazane na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek niezaliczanych do sektora finansów publicznych z tego dla:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "- obsługa długu Pozostałe koszty"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "247"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "628"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "629"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1 2 3 4 5 6 7"
     },
     {
-     "type": "ocr",
-     "text": "14. |Srodki przekazane na realizację zadań bieżących dla jednostek zaliczanych do sektora finansów publicznych 246 z tego dla:"
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "|Srodki przekazane na realizację zadań bieżących dla jednostek zaliczanych do sektora finansów publicznych 246 z tego dla:",
+     "children": [
+      {
+       "type": "text",
+       "text": "WYNIK ZDARZEŃ NADZWYCZAJNYCH"
+      },
+      {
+       "type": "text",
+       "text": "- zyski nadzwyczajne - straty nadzwyczajne WYNIK BRUTTO (I - II +/- III)?"
+      },
+      {
+       "type": "text",
+       "text": "OBOWIĄZKOWE OBCIĄŻENIA WYNIKU FINANSOWEGO"
+      },
+      {
+       "type": "text",
+       "text": "Podatek dochodowy od osób prawnych VI"
+      },
+      {
+       "type": "text",
+       "text": "WYNIK NETTO (IV - Vy?)"
+      },
+      {
+       "type": "text",
+       "text": "© klasyfikacja paragrafów wydatków jest czterocyfrowa; czwartą cyfrą jest odpowiednia cyfra od 1 do 9 lub cyfra 0; przychody należy ujmować, stosując czwarte cyfry właściwe dla klasyfikacji dochodów 2 dodatni wynik należy oznaczyć znakiem \"+\", a ujemny wynik znakiem \"-\" Część"
+      },
+      {
+       "type": "text",
+       "text": "B. Dane uzupełniające Stan na dzień"
+      },
+      {
+       "type": "text",
+       "text": "Plan na dzień"
+      },
+      {
+       "type": "text",
+       "text": "Plan na dzień | Plan na dzień Plan na dzień Lp. Wyszczególnienie 31.12.2006 r. | 31.12.2007 r. | 31.12.2008 r. | 31.12.2009r. | 31.12.2010 r. w tysiącach złotych 1 2 3 4 5 6 7"
+      },
+      {
+       "type": "text",
+       "text": "AKTYWA"
+      },
+      {
+       "type": "text",
+       "text": "24"
+      },
+      {
+       "type": "text",
+       "text": "- jednostkom podsektora rządowego jed d d"
+      },
+      {
+       "type": "text",
+       "text": "Należności krótkoterminowe, w ty! - należności tytułu udzielonych pożyczek, w tym:"
+      },
+      {
+       "type": "text",
+       "text": "Akcje i udziały” ZOBOWIĄZANIA"
+      },
+      {
+       "type": "text",
+       "text": "(w tym wymagalne LICZBA ZATRUDNIONYCH (w przeliczeniu na pełne etaty)"
+      },
+      {
+       "type": "text",
+       "text": "% pozycja ta powinna uwzględniać zmianę stanu akcji i udziałów będącą wynikiem transakcji bez zmiany wartości kursu (przeszacowania) akcji i udziałów"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 66 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "WYNIK ZDARZEŃ NADZWYCZAJNYCH"
+     "type": "heading",
+     "label": "Część C",
+     "text": "Dane uzupełniające L Wyszczególnienie p. ¥ 9"
     },
     {
-     "type": "ocr",
-     "text": "- zyski nadzwyczajne - straty nadzwyczajne WYNIK BRUTTO (I - II +/- III)?"
+     "type": "text",
+     "text": "1 2 ZOBOWIĄZANIA według wartości nominalnej 1__ |Papiery wartościowe 2"
     },
     {
-     "type": "ocr",
-     "text": "OBOWIĄZKOWE OBCIĄŻENIA WYNIKU FINANSOWEGO"
-    },
-    {
-     "type": "ocr",
-     "text": "Podatek dochodowy od osób prawnych VI"
-    },
-    {
-     "type": "ocr",
-     "text": "WYNIK NETTO (IV - Vy?)"
-    },
-    {
-     "type": "ocr",
-     "text": "© klasyfikacja paragrafów wydatków jest czterocyfrowa; czwartą cyfrą jest odpowiednia cyfra od 1 do 9 lub cyfra 0; przychody należy ujmować, stosując czwarte cyfry właściwe dla klasyfikacji dochodów 2 dodatni wynik należy oznaczyć znakiem \"+\", a ujemny wynik znakiem \"-\" Część"
-    },
-    {
-     "type": "ocr",
-     "text": "B. Dane uzupełniające Stan na dzień"
-    },
-    {
-     "type": "ocr",
-     "text": "Plan na dzień"
-    },
-    {
-     "type": "ocr",
-     "text": "Plan na dzień | Plan na dzień Plan na dzień Lp. Wyszczególnienie 31.12.2006 r. | 31.12.2007 r. | 31.12.2008 r. | 31.12.2009r. | 31.12.2010 r. w tysiącach złotych 1 2 3 4 5 6 7"
-    },
-    {
-     "type": "ocr",
-     "text": "AKTYWA"
-    },
-    {
-     "type": "ocr",
-     "text": "24"
-    },
-    {
-     "type": "ocr",
-     "text": "- jednostkom podsektora rządowego jed d d"
-    },
-    {
-     "type": "ocr",
-     "text": "Należności krótkoterminowe, w ty! - należności tytułu udzielonych pożyczek, w tym:"
-    },
-    {
-     "type": "ocr",
-     "text": "Akcje i udziały” ZOBOWIĄZANIA"
-    },
-    {
-     "type": "ocr",
-     "text": "(w tym wymagalne LICZBA ZATRUDNIONYCH (w przeliczeniu na pełne etaty)"
-    },
-    {
-     "type": "ocr",
-     "text": "% pozycja ta powinna uwzględniać zmianę stanu akcji i udziałów będącą wynikiem transakcji bez zmiany wartości kursu (przeszacowania) akcji i udziałów"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 66 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Część C. Dane uzupełniające"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "- jednostek podsektora ubezpieczeń społecznych dnostek ktora fi blicznych _"
     },
     {
-     "type": "ocr",
-     "text": "L Wyszczególnienie Stan na dzień | Plan nadzień | Plan nadzień | Plannadzień | Plan na dzień p. ¥ 9 31.12.2006 r. | 31.12.2007 r. | 31.12.2008 r. | 31.12.2009r. | 31.12.2010r. w tysiącach złotych 1 2 3 4 5 6 7"
+     "type": "text",
+     "text": "Część D. Informacje dodatkowe"
     },
     {
-     "type": "ocr",
-     "text": "ZOBOWIAZANIA według wartości nominalnej"
+     "type": "text",
+     "text": "L Wyszczedólnienie p. yszczeg"
     },
     {
-     "type": "ocr",
-     "text": "1__ |Papiery wartościowe 2"
+     "type": "text",
+     "text": "1 2 1 |Nakłady na budowę, ulepszenie i zakup środków trwałych oraz wartości niematerialnych i prawnych 2 |Przychody z tytułu sprzedaży środków trwałych 3 _ |Wartość nieodpłatnie przekazanych środków trwałych 4 |WartoSsé nieodpłatnie otrzymanych środków trwałych"
     },
     {
-     "type": "ocr",
-     "text": "Część D. Informacje dodatkowe Przewidywane | Projekt planu | Projekt planu | Projekt planu L Wyszczedólnienie wykonanie na 2008 r. na 2009 r. na 2010 r. p. yszczeg w 2007 r. w tysiącach złotych 1 2 3 4 5 6 1 |Naktady na budowę, ulepszenie i zakup środków trwałych oraz wartości niematerialnych i prawnych 2 |Przychody z tytułu sprzedaży środków trwałych 3 _ |Wartość nieodpłatnie przekazanych środków trwałych"
+     "type": "text",
+     "text": "sporządził ... (imię i nazwisko, stanowisko służbowe)"
     },
     {
-     "type": "ocr",
-     "text": "4 |WartoSsé nieodpłatnie otrzymanych środków trwałych"
+     "type": "text",
+     "text": "Stan na dzień | Plan nadzień | Plan nadzień | Plannadzień | Plan na dzień 31.12.2006 r. | 31.12.2007 r. | 31.12.2008 r. | 31.12.2009r. | 31.12.2010r. w tysiącach złotych 3 4 5 6 7"
     },
     {
-     "type": "ocr",
-     "text": "sporządził ... (imię i nazwisko, stanowisko służbowe) nr telefonu ......................... adres e-mail ....0..0.0.. eee eee data wee POODIS oo. eee"
+     "type": "text",
+     "text": "Przewidywane | Projekt planu | Projekt planu | Projekt planu wykonanie na 2008 r. na 2009 r. na 2010 r. w 2007 r. w tysiącach złotych 3 4 5 6"
+    },
+    {
+     "type": "text",
+     "text": "nr telefonu ......................... adres e-mail ....0..0.0.. eee eee data wee POODIS oo. eee"
     }
    ]
   },
@@ -2041,115 +2074,140 @@
     },
     {
      "type": "note",
-     "text": "[Strona 68 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 68 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Część B. Informacja dodatkowa Wyszczególnienie"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Stan na dzień 1.01.2007 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień 1.01.2008 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień | Plan na dzień 31.12.2008 r. | 31.12.2009 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień 31.12.2010 r. w tysiącach złotych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "AKTYWA TRWAŁE"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Środki pieniężne"
     },
     {
-     "type": "ocr",
-     "text": "Część C. Informacja dodatkowa Lp. Wyszczególnienie"
+     "type": "heading",
+     "label": "Część C",
+     "text": "Informacja dodatkowa Lp. Wyszczególnienie"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Stan na dzień 31.12.2007 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień 31.12.2008 r. w tysiącach"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień | Plan na dzień 31.12.2009 r. | 31.12.2010 r. złotych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "ZOBOWIĄZANIA według wartości nominalnej Papiery wartościowe - jednostek podsektora rządowego"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4 Zobowiązania wymagalne"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Część D. Informacje dodatkowe"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wyszczególnienie"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Stan na dzień 31.12.2007 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień 31.12.2008 r. w tysiącach"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień | Plan na dzień 31.12.2009 r. | 31.12.2010 r. złotych 2 wartości niematerialnych i prawnych"
     },
     {
-     "type": "ocr",
-     "text": "Nakłady na budowę, ulepszenie i zakup środków trwatych oraz Przychody z tytułu sprzedaży środków trwałych Wartość nieodpłatnie przekazanych środków trwałych Wartość nieodpłatnie otrzymanych środków trwałych"
+     "type": "text",
+     "text": "Nakłady na budowę, ulepszenie i zakup środków trwałych oraz Przychody z tytułu sprzedaży środków trwałych Wartość nieodpłatnie przekazanych środków trwałych Wartość nieodpłatnie otrzymanych środków trwałych"
     },
     {
      "type": "note",
-     "text": "[Strona 69 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 69 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Część E. Informacja dodatkowa Przewidywane Projekt planu | Projekt planu | Projekt planu Wyszczególnienie Paragraf | wykonanie w 2007 r. na 2008 r. na 2009 r. na 2010 r. w tysiącach złotych 2 3 4 5 6 7"
+     "type": "text",
+     "text": "Część E. Informacja dodatkowa Przewidywane Projekt planu | Projekt planu | Projekt planu Wyszczególnienie Paragraf | wykonanie w 2007 r. na 2008 r. na 2009 r. na 2010 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "2"
+    },
+    {
+     "type": "text",
      "text": "ILWYDATKI"
     },
     {
-     "type": "ocr",
-     "text": "1. Wypłaty wsparcia na: 1.1. | - zadania bieżące dla: 1.1.1. - jednostek zaliczanych do sektora finansów publicznych 246 z tego dla:"
-    },
-    {
-     "type": "ocr",
-     "text": "1.1.2. - jednostek niezaliczanych do sektora finansów publicznych 247 z tego dla:"
-    },
-    {
-     "type": "ocr",
-     "text": "1.2. | - zadania inwestycyjne dla: 1.2.1. - jednostek zaliczanych do sektora finansów publicznych 628 z tego dla:"
-    },
-    {
-     "type": "ocr",
-     "text": "1.2.2. - jednostek niezaliczanych do sektora finansów publicznych 629 z tego dla:"
-    },
-    {
-     "type": "ocr",
-     "text": "sporządził nS (imię i nazwisko, stanowisko służbowe) nr telefonu .. adres e-MAIl ............-eeeoaa aaa"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wypłaty wsparcia na: 1.1. | - zadania bieżące dla: 1.1.1. - jednostek zaliczanych do sektora finansów publicznych z tego dla:",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1.2. - jednostek niezaliczanych do sektora finansów publicznych z tego dla:"
+      },
+      {
+       "type": "text",
+       "text": "1.2. | - zadania inwestycyjne dla: 1.2.1. - jednostek zaliczanych do sektora finansów publicznych z tego dla:"
+      },
+      {
+       "type": "text",
+       "text": "1.2.2. - jednostek niezaliczanych do sektora finansów publicznych z tego dla:"
+      },
+      {
+       "type": "text",
+       "text": "sporządził nS (imię i nazwisko, stanowisko służbowe) nr telefonu .. adres e-MAIl ............-eeeoaa aaa w tysiącach złotych 3 4 5 6 7"
+      },
+      {
+       "type": "text",
+       "text": "246"
+      },
+      {
+       "type": "text",
+       "text": "247"
+      },
+      {
+       "type": "text",
+       "text": "628"
+      },
+      {
+       "type": "text",
+       "text": "629"
+      }
+     ]
     }
    ]
   },
@@ -2162,147 +2220,156 @@
     },
     {
      "type": "note",
-     "text": "[Strona 71 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 71 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Środki z Unii Europejskiej (rodzaj środków) przekazane dla: - jednostek zaliczanych do sektora finansów publicznych z tego dla:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "publicznych z tego dla:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Środki przekazane na realizację zadań bieżących dla jednostek zaliczanych do sektora finansów publicznych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "przekazane na realizację zadań bieżących dla jednostek niezaliczanych do sektora finansów publicznych z tego dla:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nie kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek zaliczanych do sektora finansów publicznych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek niezaliczanych do sektora finan-"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Podatek dochodowy od osób prawnych Odpis na inwestycje sił zbrojnych RP - wpłata na Fundusz Modernizacji Sił Zbrojnych Odpis na inwestycje jednostek podległych ministrowi do spraw wewnętrznych lub przez niego nadzorowanych - wpłata na Fundusz Modernizacji Bezpieczeństwa Publicznego"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "WYNIK NETTO (IV - v)?"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "9 niepotrzebne skreślić © klasyfikacja paragrafów wydatków jest czterocyfrowa; czwartą cyfrą jest odpowiednia cyfra od 1 do 9 lub cyfra 0: przychody należy ujmować, stosując czwarte cyfry właściwe dla klasyfikacji dochodów"
     },
     {
-     "type": "ocr",
-     "text": "2) dodatni wynik należy oznaczyć znakiem \"+\", a ujemny wynik znakiem \"-\""
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "dodatni wynik należy oznaczyć znakiem \"+\", a ujemny wynik znakiem \"-\"",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 72 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Część B. Dane uzupełniające Lp. Wyszczególnienie"
+      },
+      {
+       "type": "text",
+       "text": "AKTYWA TRWAŁE"
+      },
+      {
+       "type": "text",
+       "text": "- jednostkom podsektora rządowego"
+      },
+      {
+       "type": "text",
+       "text": "Inne w tym wymagalne LICZBA ZATRUDNIONYCH (w przeliczeniu na pełne etaty)"
+      },
+      {
+       "type": "text",
+       "text": "Stan na dzień 31.12.2006 r."
+      },
+      {
+       "type": "text",
+       "text": "Plan na dzień 31.12.2007 r."
+      },
+      {
+       "type": "text",
+       "text": "Plan na dzień 31.12.2008 r. w tysiącach złotych"
+      },
+      {
+       "type": "text",
+       "text": "Plan na dzień 31.12.2009 r."
+      },
+      {
+       "type": "text",
+       "text": "pozycja ta powinna uwzględniać zmianę stanu akcji i udziałów będącą wynikiem transakcji bez zmiany wartości kursu (przeszacowania) akcji i udziałów"
+      }
+     ]
     },
     {
-     "type": "note",
-     "text": "[Strona 72 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "heading",
+     "label": "Część C",
+     "text": "Dane uzupełniające"
     },
     {
-     "type": "ocr",
-     "text": "Część B. Dane uzupełniające Lp. Wyszczególnienie"
-    },
-    {
-     "type": "ocr",
-     "text": "AKTYWA TRWAŁE"
-    },
-    {
-     "type": "ocr",
-     "text": "- jednostkom podsektora rządowego"
-    },
-    {
-     "type": "ocr",
-     "text": "Inne w tym wymagalne LICZBA ZATRUDNIONYCH (w przeliczeniu na pełne etaty)"
-    },
-    {
-     "type": "ocr",
-     "text": "Stan na dzień 31.12.2006 r."
-    },
-    {
-     "type": "ocr",
-     "text": "Plan na dzień 31.12.2007 r."
-    },
-    {
-     "type": "ocr",
-     "text": "Plan na dzień 31.12.2008 r. w tysiącach złotych"
-    },
-    {
-     "type": "ocr",
-     "text": "Plan na dzień 31.12.2009 r."
-    },
-    {
-     "type": "ocr",
-     "text": "pozycja ta powinna uwzględniać zmianę stanu akcji i udziałów będącą wynikiem transakcji bez zmiany wartości kursu (przeszacowania) akcji i udziałów"
-    },
-    {
-     "type": "ocr",
-     "text": "Część C. Dane uzupełniające"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień 31.12.2010 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Lp. Wyszczególnienie"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "ZOBOWIĄZANIA według wartości nominalnej"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Kredyty i pożyczki, w tym zaciągnięte od:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "- jednostek podsektora ubezpieczeń społecznych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Stan na dzień 31.12.2006 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień 31.12.2007 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień 31.12.2008 r. w tysiącach złotych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień 31.12.2009 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień 31.12.2010 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wyszczególnienie"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Przewidywane wykonanie w 2007 r."
     },
     {
-     "type": "ocr",
-     "text": "1. |Nakłady na budowę, ulepszenie i zakup środków trwałych oraz wartości niematerialnych i prawnych Przychody z tytułu sprzedaży środków trwałych Wartość nieodpłatnie przekazanych środków trwałych Wartość nieodpłatnie otrzymanych środków trwałych"
-    },
-    {
-     "type": "ocr",
-     "text": "(imię i nazwisko, stanowisko służbowe) nr telefonu ......................... adres e-mail data ............::2121111- podpis"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "|Nakłady na budowę, ulepszenie i zakup środków trwałych oraz wartości niematerialnych i prawnych Przychody z tytułu sprzedaży środków trwałych Wartość nieodpłatnie przekazanych środków trwałych Wartość nieodpłatnie otrzymanych środków trwałych",
+     "children": [
+      {
+       "type": "text",
+       "text": "(imię i nazwisko, stanowisko służbowe) nr telefonu ......................... adres e-mail data ............::2121111- podpis"
+      }
+     ]
     }
    ]
   },
@@ -2315,111 +2382,120 @@
     },
     {
      "type": "note",
-     "text": "[Strona 74 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 74 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Część B. Dane uzupełniające"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Lp."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wyszczególnienie"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Stan na dzień 31.12.2006 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień| Plan na dzień 31.12.2007 r.|31.12.2008 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień 31.12.2009 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień 31.12.2010 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "w tysiącach złotych 5 AKTYWA AKTYWA TRWAŁE 1.1"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Należności długoterminowe, w tym: - należności z tytułu udzielonych pożyczek, w tym: - jednostkom podsektora rządowego - jednostkom podsektora samorządowego - jednostkom spoza sektora finansów publicznych 1.2"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Akcje i udziały” AKTYWA OBROTOWE 2.1"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Zapasy 2.2"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Srodki pieniężne 2.3"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Należności krótkoterminowe, w tym: - należności z tytułu udzielonych pożyczek, w tym: - jednostkom podsektora rządowego - jednostkom podsektora samorządowego - jednostkom spoza sektora finansów publicznych 2.4"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Akcje i udziały” ZOBOWIĄZANIA według wartości nominalnej Papiery wartościowe"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "NI Kredyty i pożyczki, w tym zaciągnięte od: - jednostek podsektora rządowego - jednostek podsektora samorządowego - jednostek podsektora ubezpieczeń społecznych - jednostek spoza sektora finansów publicznych Depozyty"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3 4"
     },
     {
-     "type": "ocr",
-     "text": "Inne 4.1"
+     "type": "text",
+     "text": "Inne 4.1 w tym wymagalne"
     },
     {
-     "type": "ocr",
-     "text": "w tym wymagalne"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "9 pozycja ta powinna uwzględniać zmianę stanu akcji i udziałów będącą wynikiem transakcji bez zmiany wartości kursu (przeszacowania)"
     },
     {
      "type": "note",
-     "text": "[Strona 75 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 75 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Część C. Informacje dodatkowe Przewidywane Projekt planu | Projekt planu | Projekt planu i 2008 r. na 2009 r. na 2010r. w sInieni wykonanie na yszczególnienie w 2007 r. w tysiącach złotych Przychody ogółem KEEKEEM KE Koszty ogółem || Amortyzacja 4 Przychody z tytułu sprzedaży środków trwałych"
+     "type": "heading",
+     "label": "Część C",
+     "text": "Informacje dodatkowe"
     },
     {
-     "type": "ocr",
-     "text": "Wartość nieodpłatnie otrzymanych środków trwałych"
+     "type": "text",
+     "text": "w sInieni yszczególnienie"
     },
     {
-     "type": "ocr",
-     "text": "Pe es NOE"
+     "type": "text",
+     "text": "Przychody ogółem Koszty ogółem Amortyzacja 4 Przychody z tytułu sprzedaży środków trwałych 5 Wartość nieodpłatnie przekazanych środków trwałych Wartość nieodpłatnie otrzymanych środków trwałych"
     },
     {
-     "type": "ocr",
-     "text": "5 Wartość nieodpłatnie przekazanych środków trwałych"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "(imię i nazwisko, stanowisko służbowe)"
     },
     {
-     "type": "ocr",
-     "text": "EE adres e-mail data oo. podpis"
+     "type": "text",
+     "text": "EE adres e-mail"
+    },
+    {
+     "type": "text",
+     "text": "data oo. podpis"
+    },
+    {
+     "type": "text",
+     "text": "Przewidywane Projekt planu | Projekt planu | Projekt planu i 2008 r. na 2009 r. na 2010r. wykonanie na w 2007 r. w tysiącach złotych"
+    },
+    {
+     "type": "text",
+     "text": "KEEKEEM KE ||"
+    },
+    {
+     "type": "text",
+     "text": "Pe es NOE"
     }
    ]
   },
@@ -2432,130 +2508,87 @@
     },
     {
      "type": "note",
-     "text": "[Strona 77 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 77 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Część B. Dane uzupełniające"
     },
     {
-     "type": "ocr",
-     "text": "Wyszczególnienie 31.12.2006 r. | 31.12.2007 r. | 31.12.2008 r. | 31.12.2009 r. = im 1 |Należności długoterminowe, w tym - należności z tytułu udzielonych pożyczek, w tym ednostkom podsektora rządowego ednostkom podsektora samorządowego ednostkom spoza sektora finansów publicznych"
+     "type": "text",
+     "text": "Wyszczególnienie = im A"
     },
     {
-     "type": "ocr",
-     "text": "2"
-    },
-    {
-     "type": "ocr",
-     "text": "AKTYWA OBROTOWE zapasy ||| Srodki pieniężne Należności krótkoterminowe, w tym - należności z tytułu udzielonych pożyczek, w tym"
-    },
-    {
-     "type": "ocr",
-     "text": "A"
-    },
-    {
-     "type": "ocr",
-     "text": "1. |AKTYWA TRWAŁE"
-    },
-    {
-     "type": "ocr",
-     "text": "pź"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "KT"
     },
     {
-     "type": "ocr",
-     "text": "-J -J -J Akcje i udziały"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "|AKTYWA TRWAŁE 1 |Należności długoterminowe, w tym - należności z tytułu udzielonych pożyczek, w tym ednostkom podsektora rządowego -J ednostkom podsektora samorządowego -J ednostkom spoza sektora finansów publicznych -J 4,1) Akcje i udziały 2 2",
+     "children": [
+      {
+       "type": "text",
+       "text": "AKTYWA OBROTOWE"
+      },
+      {
+       "type": "text",
+       "text": "Stan na dzień | Plan na dzień | Plan na dzień | Plan na dzień| Plan na dzień 31.12.2006 r. | 31.12.2007 r. | 31.12.2008 r. | 31.12.2009 r. 31.12.2010 r."
+      },
+      {
+       "type": "text",
+       "text": "w tysiącach złotych"
+      },
+      {
+       "type": "text",
+       "text": "zapasy ||| pź u N apa"
+      },
+      {
+       "type": "text",
+       "text": "Ss Srodki pieniężne"
+      },
+      {
+       "type": "text",
+       "text": "2 Należności krótkoterminowe, w tym 3 [| - należności z tytułu udzielonych pożyczek, w tym [| - jednostkom podsektora rządowego | jednostkom podsektora samorządowego | - jednostkom spoza sektora finansów publicznych 2.4 |Akcje i udziały” |___ [ZOBOWIĄZANIA według wartości nominalnej Papiery wartościowe Kredyty i pożyczki, w tym zaciągnięte od: EM - jednostek podsektora rządowego | |. - jednostek podsektora samorządowego | [| - jednostek podsektora ubezpieczeń społecznych ednostek spoza sektora finansów publicznych [3 | 3 |Depozyty Zobowiązania wymagalne p || | KZEZZM KZK KONKEKM KA KA | | TT PT KZZM WZZZM ZNA PA WEEA [ PT | KENA NEA KZZZZM KZK KOKA KEEA KA p || | p || |"
+      },
+      {
+       "type": "text",
+       "text": "1 pozycja ta powinna uwzględniać zmianę stanu akcji i udziałów będącą wynikiem transakcji bez zmiany wartości kursu (przeszacowania) akcji i udziałów"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 78 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "apa"
+     "type": "heading",
+     "label": "Część C",
+     "text": "Informacje dodatkowe Przewidywane | Projekt planu | Projekt planu | Projekt planu i 2008 r. na 2009 r. na 2010r."
     },
     {
-     "type": "ocr",
-     "text": "N"
-    },
-    {
-     "type": "ocr",
-     "text": "u"
-    },
-    {
-     "type": "ocr",
-     "text": "2"
-    },
-    {
-     "type": "ocr",
-     "text": "2 3"
-    },
-    {
-     "type": "ocr",
-     "text": "4,1)"
-    },
-    {
-     "type": "ocr",
-     "text": "Ss"
-    },
-    {
-     "type": "ocr",
-     "text": "[| [| | |"
-    },
-    {
-     "type": "ocr",
-     "text": "- jednostkom spoza sektora finansów publicznych | | TT |___ [ZOBOWIĄZANIA według wartości nominalnej | KENA NEA"
-    },
-    {
-     "type": "ocr",
-     "text": "Stan na dzień | Plan na dzień | Plan na dzień | Plan na dzień| Plan na dzień 31.12.2010 r."
-    },
-    {
-     "type": "ocr",
-     "text": "w tysiącach złotych"
-    },
-    {
-     "type": "ocr",
-     "text": "- jednostkom podsektora rządowego p || | jednostkom podsektora samorządowego KZEZZM KZK KONKEKM KA KA PT 2.4 |Akcje i udziały” KZZM WZZZM ZNA PA WEEA [ PT Papiery wartościowe KZZZZM KZK KOKA KEEA KA Kredyty i pożyczki, w tym zaciągnięte od: p || | - jednostek podsektora rządowego p || | EM | |. - jednostek podsektora samorządowego | [| - jednostek podsektora ubezpieczeń społecznych [3 |"
-    },
-    {
-     "type": "ocr",
-     "text": "ednostek spoza sektora finansów publicznych 3 |Depozyty Zobowiązania wymagalne"
-    },
-    {
-     "type": "ocr",
-     "text": "1 pozycja ta powinna uwzględniać zmianę stanu akcji i udziałów będącą wynikiem transakcji bez zmiany wartości kursu (przeszacowania) akcji i udziałów"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 78 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Część C. Informacje dodatkowe Przewidywane | Projekt planu | Projekt planu | Projekt planu i 2008 r. na 2009 r. na 2010r."
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "w ślnieni wykonanie na yszczególnienie w 2007 r. w tysiącach złotych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Przychody ogółem Koszty ogółem Amortyzacja"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5 Wartość nieodpłatnie przekazanych środków trwałych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "| 800] 4,0] 80] 6] a UZNA KENEEMK NEA KEZENN WEN EKEMA KA a UZNA KENEEMK NEA"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wartość nieodpłatnie otrzymanych środków trwałych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(imię i nazwisko, stanowisko służbowe) nr telefonu ......................... adres e-maill ....................i-eaaaaaaaaaaia2 data ......................... PODIS ..............211111111."
     }
    ]
@@ -2569,55 +2602,67 @@
     },
     {
      "type": "note",
-     "text": "[Strona 80 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 80 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Część B. Dane uzupełniające 31.12.2006r. | 31.12.2007 r. | 31.12.2008r. | 31.12.2009r. | 31.12.2010r. w tysiącach złotych | >>... GY | s [R >\" DOJAKMYWA | |||] [1 JAKTYWATRWAŁE | |||] || || es KENA EA |___|- naleznosci z tytułu udzielonych pożyczek, wtym: | Po |__| - jednostkom podsektora rządowego ____—__—_—_—_—_—_—_ | KHZ ee | || - jednostkom podsektora samorządowego ___—_—_—_—_—_ | |_|. - jednostkom spoza sektora finansów publicznych |"
+     "type": "text",
+     "text": "Część B. Dane uzupełniające"
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "| >>..."
+    },
+    {
+     "type": "text",
+     "text": "31.12.2006r. | 31.12.2007 r. | 31.12.2008r. | 31.12.2009r. | 31.12.2010r. w tysiącach złotych GY | s [R >\" DOJAKMYWA | |||] [1 JAKTYWATRWAŁE | |||] || || |___|- należności z tytułu udzielonych pożyczek, wtym: | |__| - jednostkom podsektora rządowego ____—__—_—_—_—_—_—_ | | || - jednostkom podsektora samorządowego ___—_—_—_—_—_ | |_|. - jednostkom spoza sektora finansów publicznych |"
+    },
+    {
+     "type": "text",
      "text": "NP"
     },
     {
-     "type": "ocr",
-     "text": "- jednostkom podsektora samorządowego - jednostkom spoza sektora finansów publicznych Akcje i udziaty” 1"
+     "type": "text",
+     "text": "N Nii 3"
     },
     {
-     "type": "ocr",
-     "text": "3"
+     "type": "text",
+     "text": "- jednostkom podsektora samorządowego - jednostkom spoza sektora finansów publicznych Akcje i udziały” R"
     },
     {
-     "type": "ocr",
-     "text": "No - jednostek podsektora rządowego - jednostek podsektora samorządowego - jednostek podsektora ubezpieczeń społecznych - jednostek spoza sektora finansów publicznych 3 |Depozyty Zobowiązania wymagalne"
+     "type": "text",
+     "text": "1 No - jednostek podsektora rządowego - jednostek podsektora samorządowego - jednostek podsektora ubezpieczeń społecznych - jednostek spoza sektora finansów publicznych 3 |Depozyty Zobowiązania wymagalne a es KENA EA Po KHZ ee"
     },
     {
-     "type": "ocr",
-     "text": "a"
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "pozycja ta powinna uwzględniać zmianę stanu akcji i udziałów będącą wynikiem transakcji bez zmiany wartości kursu (przeszacowania) akcji i udziałów",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "N Nii R"
+     "type": "heading",
+     "label": "Część C",
+     "text": "Informacje dodatkowe"
     },
     {
-     "type": "ocr",
-     "text": "5) pozycja ta powinna uwzględniać zmianę stanu akcji i udziałów będącą wynikiem transakcji bez zmiany wartości kursu (przeszacowania) akcji i udziałów"
+     "type": "text",
+     "text": "Przewidywane | Projekt planu | Projekt planu | Projekt planu wyszczedólnienie yszozeg"
     },
     {
-     "type": "ocr",
-     "text": "Część C. Informacje dodatkowe Przewidywane | Projekt planu | Projekt planu | Projekt planu wyszczedólnienie wykonanie na 2008 r. na 2009 r. na 2010 r. yszozeg w 2007 r. w tysiącach złotych 1 |Nakłady na budowę, ulepszenie i zakup środków trwałych oraz wartości niematerialnych i prawnych"
+     "type": "text",
+     "text": "| 1 |Nakłady na budowę, ulepszenie i zakup środków trwałych oraz wartości niematerialnych i prawnych"
     },
     {
-     "type": "ocr",
-     "text": "3 |Wartość nieodpłatnie przekazanych środków trwałych Wartość nieodpłatnie otrzymanych środków trwałych"
+     "type": "text",
+     "text": "3 |Wartość nieodpłatnie przekazanych środków trwałych"
     },
     {
-     "type": "ocr",
-     "text": "| 800 | 4 0] 8] 6]"
+     "type": "text",
+     "text": "Wartość nieodpłatnie otrzymanych środków trwałych"
     },
     {
-     "type": "ocr",
-     "text": "(imię i nazwisko, stanowisko służbowe) nr telefonu ..............2.4211112. adres e-mail ................eee aaa aaa cniaa"
+     "type": "text",
+     "text": "(imię i nazwisko, stanowisko służbowe) nr telefonu ..............2.4211112. adres e-mail ................eee aaa aaa cniaa wykonanie na 2008 r. na 2009 r. na 2010 r. w 2007 r. w tysiącach złotych 800 | 4 0] 8] 6]"
     }
    ]
   },
@@ -2630,170 +2675,170 @@
     },
     {
      "type": "note",
-     "text": "[Strona 82 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 82 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Czesi"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "¢ B.| Dane uzupełniające"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Lp."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wyszczególnienie"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Przewidywane wykonanie w 2007 r.)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Projekt planu nal 2008 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Projekt planu na 2009 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Projekt planu na 2010 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "w tysiącach złotych 2"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5 STAN ŚRODKÓW NA POCZĄTEK OKRESU WPŁYWY Z ZAGOSPODAROWANIA MIENIA ZASOBU"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3.1"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Ze sprzedaży mienia Zasobu Z odpłatnego korzystania z mienia Zasobu Inne z działalności w zakresie gospodarowania i rozporządzania mieniem Zasobu, w tym: odsetki od środków na rachunkach bankowych WYDATKI OGÓŁEM Non P>"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3.1.1 3.1.2 3.2 3.3 3.4 3.5 3.6 3.6.1 3.6.2 3.6.3] 3.7"
     },
     {
-     "type": "ocr",
-     "text": "Przekazy zewnętrzne, z tego: wpłata do budżetu państwa zasilenie Funduszu Rekompensacyjnego Środki na koszty funkcjonowania Agencji Wydatki w zakresie gospodarowania mieniem Zasobu, z tego: inwestycje i remonty inwestycje i remonty dotyczące mienia Zasobu realizacja ustawy o ksztattowaniu ustroju rolnego bezzwrotna pomoc finansowa utrzymanie zasobów mieszkaniowych utrzymanie mienia niezagospodarowanego (wydatki związane z rozdysponowaniem mienia pozostałe wydatki, z tego: lwsparcie programu restrukturyzacji strategicznych spółek hodowlanych wptaty do US z tytułu VAT inne wydatki wydatki dotyczące JGZ IV."
+     "type": "text",
+     "text": "Przekazy zewnętrzne, z tego: wpłata do budżetu państwa zasilenie Funduszu Rekompensacyjnego Środki na koszty funkcjonowania Agencji Wydatki w zakresie gospodarowania mieniem Zasobu, z tego: inwestycje i remonty inwestycje i remonty dotyczące mienia Zasobu realizacja ustawy o kształtowaniu ustroju rolnego bezzwrotna pomoc finansowa utrzymanie zasobów mieszkaniowych utrzymanie mienia niezagospodarowanego (wydatki związane z rozdysponowaniem mienia pozostałe wydatki, z tego: lwsparcie programu restrukturyzacji strategicznych spółek hodowlanych wpłaty do US z tytułu VAT inne wydatki wydatki dotyczące JGZ IV."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "RÓŻNICA WPŁYWÓW I WYDATKÓW (poz. II.- III.) Różnica wpływów i wydatków do odprowadzenia w roku następnym POZOSTAŁE PRZEPŁYWY Spłata pożyczek Udzielenie pożyczek Pozostałe rozrachunki MI."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "STAN ŚRODKÓW NA KONIEC OKRESU"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Czesi"
     },
     {
-     "type": "ocr",
-     "text": "ZASILENIE FUNDUSZU REKOMPENSACYJNEGO"
+     "type": "text",
+     "text": "ZASILENIE FUNDUSZU REKOMPENSACYJNEGO w tys. zt wptata za IV kwartał 2007 r., płatna do końca stycznia 2008 r. (wpłata za | kwartał 2008 r. (wpłata za II kwartał 2008 r. (wpłata za III kwartał 2008 r."
     },
     {
-     "type": "ocr",
-     "text": "w tys. zt wptata za IV kwartał 2007 r., płatna do końca stycznia 2008 r. (wpłata za | kwartał 2008 r. (wpłata za II kwartał 2008 r. (wpłata za III kwartał 2008 r."
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "ć B.II Dane uzupełniające"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Lp."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wyszczególnienie"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Stan na dzień 31.12.2006 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień 31.12.2007 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień 31.12.2008 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień 31.12.2009 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Plan na dzień 31.12.2010 r. w tysiącach złotych 5 AKTYWA. AKTYWA TRWAŁE Należności długoterminowe, w tym: - należności z tytułu udzielonych pożyczek, w tym: - jednostkom podsektora rządowego - jednostkom podsektora samorządowego (gminy) - jednostkom spoza sektora finansów publicznych Akcje i udziały”) AKTYWA OBROTOWE. 2.1"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Zapasy 2.2"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Środki pieniężne 2.3"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Należności krótkoterminowe, w tym: - należności z tytułu udzielonych pożyczek, w tym: - jednostkom podsektora rządowego - jednostkom podsektora samorządowego - jednostkom spoza sektora finansów publicznych 24"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Akcje i udziały”) ZOBOWIĄZANIA według wartości nominalnej Papiery wartościowe Kredyty i pożyczki, w tym zaciągnięte od: - jednostek podsektora rządowego - jednostek podsektora samorządowego - jednostek podsektora ubezpieczeń społecznych - jednostek spoza sektora finansów publicznych Depozyty Zobowiązania wymagalne"
     },
     {
-     "type": "ocr",
-     "text": "8) pozycja ta powinna uwzględniać zmianę stanu akcji i udziałów będącą wynikiem transakcji bez zmiany wartości kursu (przeszacowania) akcji i udziałów"
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "pozycja ta powinna uwzględniać zmianę stanu akcji i udziałów będącą wynikiem transakcji bez zmiany wartości kursu (przeszacowania) akcji i udziałów",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Część C. Informacje dodatkowe"
+     "type": "heading",
+     "label": "Część C",
+     "text": "Informacje dodatkowe"
     },
     {
-     "type": "ocr",
-     "text": "Przewidywane Projekt planu | Projekt planu | Projekt planu L w ślnieni wykonanie na 2008 r. na 2008 r. na 2010 r. p. łyszczególnienie w 2007 r. w tysiącach złotych 1 2 2 3 4 5 1 |Naktady na budowę, ulepszenie i zakup środków trwałych oraz wartości niematerialnych i prawnych 2 |Przychody z tytułu sprzedaży środków trwałych"
+     "type": "text",
+     "text": "Przewidywane Projekt planu | Projekt planu | Projekt planu L w ślnieni wykonanie na 2008 r. na 2008 r. na 2010 r. p. łyszczególnienie w 2007 r. w tysiącach złotych 1 2 2 3 4 5 1 |Nakłady na budowę, ulepszenie i zakup środków trwałych oraz wartości niematerialnych i prawnych 2 |Przychody z tytułu sprzedaży środków trwałych"
     },
     {
-     "type": "ocr",
-     "text": "3 |Wartosé nieodpłatnie przekazanych środków trwatych"
+     "type": "text",
+     "text": "3 |Wartosé nieodpłatnie przekazanych środków trwałych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4 |Wartość nieodpłatnie otrzymanych środków trwałych"
     },
     {
-     "type": "ocr",
-     "text": "sporządził .... saa (imię i nazwisko, stanowisko stuzbowe)"
+     "type": "text",
+     "text": "sporządził .... saa (imię i nazwisko, stanowisko służbowe)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr telefonu ................1-.1..... adres e-Mail cece cece uuu"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "data eee podpis .......................-"
     }
    ]
@@ -2807,139 +2852,180 @@
     },
     {
      "type": "note",
-     "text": "[Strona 84 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 84 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Część B. Dane uzupełniające"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Poz."
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "Część B. Dane uzupełniające"
+    },
+    {
+     "type": "text",
      "text": "Lp. Wyszczególnienie"
     },
     {
-     "type": "ocr",
-     "text": "Stan na dzień 31.12.2006 r."
-    },
-    {
-     "type": "ocr",
-     "text": "Plan na dzień 31.12.2007 r."
-    },
-    {
-     "type": "ocr",
-     "text": "Plan na dzień 31.12.2008 r."
-    },
-    {
-     "type": "ocr",
-     "text": "w tysiącach złotych"
-    },
-    {
-     "type": "ocr",
-     "text": "Plan na dzień 31.12.2009 r."
-    },
-    {
-     "type": "ocr",
-     "text": "Plan na dzień 31.12.2010 r."
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "1.2 |z tytułu odsetek za nieprzekazane składki do otwartych funduszy emerytalnych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "LICZBA ZATRUDNIONYCH (w przeliczeniu na pełne etaty)"
     },
     {
-     "type": "ocr",
-     "text": "Część C. Dane uzupełniające"
+     "type": "heading",
+     "label": "Część C",
+     "text": "Dane uzupełniające"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Lp. Wyszczególnienie"
     },
     {
-     "type": "ocr",
-     "text": "Stan na dzień 31.12.2006 r."
+     "type": "text",
+     "text": "ZOBOWIĄZANIA według wartości nominalnej 1 |Papiery wartościowe Kredyty i pożyczki, w tym zaciągnięte od: - jednostek podsektora rządowego - jednostek podsektora samorządowego - jednostek podsektora ubezpieczeń społecznych - jednostek spoza sektora finansów publicznych Depozyty w 4 |Inne, w tym: 4.1 |zobowiązania wymagalne 4.2 |z tytułu odsetek za nieprzekazane składki do otwartych funduszy emerytalnych"
     },
     {
-     "type": "ocr",
-     "text": "Plan na dzień 31.12.2007 r."
+     "type": "text",
+     "text": "© klasyfikacja paragrafów wydatków j yf a cyfrą jest odpowiedni Jasyfikacja paragrafów wydatków jest czterocyfrowa; czwartą cyfrą jest odpowiednia cyfra o przychody należy ujmować, stosując czwarte cyfry właściwe dla klasyfikacji dochodów"
     },
     {
-     "type": "ocr",
-     "text": "Plan na dzień 31.12.2008 r."
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "dodatni wynik należy oznaczyć znakiem \"+\", a ujemny wynik znakiem \"-\".",
+     "children": [
+      {
+       "type": "text",
+       "text": "Stan na dzień"
+      },
+      {
+       "type": "text",
+       "text": "Plan na dzień"
+      },
+      {
+       "type": "text",
+       "text": "Plan na dzień"
+      },
+      {
+       "type": "text",
+       "text": "Plan na dzień"
+      },
+      {
+       "type": "text",
+       "text": "Plan na dzień 31.12.2006 r."
+      },
+      {
+       "type": "text",
+       "text": "31.12.2007 r."
+      },
+      {
+       "type": "text",
+       "text": "31.12.2008 r."
+      },
+      {
+       "type": "text",
+       "text": "31.12.2009 r."
+      },
+      {
+       "type": "text",
+       "text": "31.12.2010 r."
+      },
+      {
+       "type": "text",
+       "text": "w tysiącach złotych"
+      },
+      {
+       "type": "text",
+       "text": "Stan na dzień"
+      },
+      {
+       "type": "text",
+       "text": "Plan na dzień"
+      },
+      {
+       "type": "text",
+       "text": "Plan na dzień"
+      },
+      {
+       "type": "text",
+       "text": "Plan na dzień"
+      },
+      {
+       "type": "text",
+       "text": "Plan na dzień 31.12.2006 r."
+      },
+      {
+       "type": "text",
+       "text": "31.12.2007 r."
+      },
+      {
+       "type": "text",
+       "text": "31.12.2008 r."
+      },
+      {
+       "type": "text",
+       "text": "31.12.2009 r."
+      },
+      {
+       "type": "text",
+       "text": "31.12.2010 r."
+      },
+      {
+       "type": "text",
+       "text": "w tysiącach złotych"
+      },
+      {
+       "type": "text",
+       "text": "d 1 do 9 lub 0 lo 9 lub cyfra 0;"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "Plan na dzień 31.12.2009 r."
-    },
-    {
-     "type": "ocr",
-     "text": "Plan na dzień 31.12.2010 r."
-    },
-    {
-     "type": "ocr",
-     "text": "w tysiącach złotych"
-    },
-    {
-     "type": "ocr",
-     "text": "ZOBOWIĄZANIA według wartości nominalnej 1 |Papiery wartościowe Kredyty i pożyczki, w tym zaciągnięte od: - jednostek podsektora rządowego - jednostek podsektora samorządowego - jednostek podsektora ubezpieczeń społecznych - jednostek spoza sektora finansów publicznych Depozyty 4 |Inne, w tym:"
-    },
-    {
-     "type": "ocr",
-     "text": "w"
-    },
-    {
-     "type": "ocr",
-     "text": "4.2 |z tytułu odsetek za nieprzekazane składki do otwartych funduszy emerytalnych"
-    },
-    {
-     "type": "ocr",
-     "text": "4.1 |zobowiązania wymagalne"
-    },
-    {
-     "type": "ocr",
-     "text": "Jasyfikacja paragrafów wydatków jest czterocyfrowa; czwartą cyfrą jest odpowiednia cyfra o lo 9 lub cyfra 0;"
-    },
-    {
-     "type": "ocr",
-     "text": "© klasyfikacja paragrafów wydatków j yf a cyfrą jest odpowiedni d 1 do 9 lub 0 przychody należy ujmować, stosując czwarte cyfry właściwe dla klasyfikacji dochodów"
-    },
-    {
-     "type": "ocr",
-     "text": "2) dodatni wynik należy oznaczyć znakiem \"+\", a ujemny wynik znakiem \"-\"."
-    },
-    {
-     "type": "ocr",
-     "text": "3) pozycja ta powinna uwzględniać zmianę stanu akcji i udziałów będącą wynikiem transakcji bez zmiany wartości kursu (przeszacowania) akcji i udziałów"
-    },
-    {
-     "type": "ocr",
-     "text": "Część D. Informacje dodatkowe Przewidywane | Projekt planu Projekt planu Projekt planu L Wyszczególnienie wykonanie na 2008 r. na 2009 r. na 2010 r. p. yszczeg w 2007 r. w tysiącach złotych 1 3 5 6 4 Nakłady na budowę, ulepszenie i zakup środków trwałych oraz wartości niematerialnych i prawnych 2 Przychody z tytułu sprzedaży środków trwałych"
-    },
-    {
-     "type": "ocr",
-     "text": "3 Wartość nieodpłatnie przekazanych środków trwałych"
-    },
-    {
-     "type": "ocr",
-     "text": "4 Wartość nieodpłatnie otrzymanych środków trwałych"
-    },
-    {
-     "type": "ocr",
-     "text": "sporządził . (imię i nazwisko, stanowisko służbowe)"
-    },
-    {
-     "type": "ocr",
-     "text": "nr telefonu ........................ adres e-mail ......................................"
-    },
-    {
-     "type": "ocr",
-     "text": "data ... podpis ..."
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "pozycja ta powinna uwzględniać zmianę stanu akcji i udziałów będącą wynikiem transakcji bez zmiany wartości kursu (przeszacowania) akcji i udziałów",
+     "children": [
+      {
+       "type": "text",
+       "text": "Część D. Informacje dodatkowe"
+      },
+      {
+       "type": "text",
+       "text": "L Wyszczególnienie p. yszczeg"
+      },
+      {
+       "type": "text",
+       "text": "1 4 Nakłady na budowę, ulepszenie i zakup środków trwałych oraz wartości niematerialnych i prawnych 2 Przychody z tytułu sprzedaży środków trwałych"
+      },
+      {
+       "type": "text",
+       "text": "3 Wartość nieodpłatnie przekazanych środków trwałych"
+      },
+      {
+       "type": "text",
+       "text": "4 Wartość nieodpłatnie otrzymanych środków trwałych"
+      },
+      {
+       "type": "text",
+       "text": "sporządził . (imię i nazwisko, stanowisko służbowe)"
+      },
+      {
+       "type": "text",
+       "text": "nr telefonu ........................ adres e-mail ......................................"
+      },
+      {
+       "type": "text",
+       "text": "data ... podpis ..."
+      },
+      {
+       "type": "text",
+       "text": "Przewidywane | Projekt planu Projekt planu Projekt planu wykonanie na 2008 r. na 2009 r. na 2010 r. w 2007 r. w tysiącach złotych 3 5 6"
+      }
+     ]
     }
    ]
   },
@@ -2952,26 +3038,37 @@
     },
     {
      "type": "note",
-     "text": "[Strona 86 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 86 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Część B. Dane uzupełniające"
     },
     {
-     "type": "ocr",
-     "text": "Stan na dzień Plan na Plan na Plan na Plan na Lp. Wyszczególnienie 31.12.2006 r dzień dzień dzień dzień o \"_ [31.12.2007 r.|31.12.2008 r.|31.12.2009r.| 31.12.2010 r."
+     "type": "text",
+     "text": "Lp. Wyszczególnienie"
     },
     {
-     "type": "ocr",
-     "text": "w tysiącach złotych 1 2 3 4 5 6 7 I AKTYWA 1 AKTYWA TRWAŁE 1.1 |Naleznosci długoterminowe, w tym: - należności z tytułu udzielonych pożyczek, w tym: - jednostkom podsektora rządowego - jednostkom podsektora samorządowego - jednostkom spoza sektora finansów publicznych 1.2 |Akcje i udziały” 2 AKTYWA OBROTOWE 2.1 |Zapasy 2.2 |SŚrodki pieniężne 2.3 |Należności krótkoterminowe, w tym: - należności z tytułu udzielonych pożyczek, w tym: - jednostkom podsektora rządowego - jednostkom podsektora samorządowego - jednostkom spoza sektora finansów publicznych 2.4 |Akcje i udziały” Il ZOBOWIĄZANIA według wartości nominalnej 1 Papiery wartościowe 2 Kredyty i pożyczki, w tym zaciągnięte od: - jednostek podsektora rządowego - jednostek podsektora samorządowego - jednostek spoza sektora finansów publicznych 3 Depozyty 4 Zobowiązania wymagalne LICZBA ZATRUDNIONYCH (w przeliczeniu na pełne etaty)"
+     "type": "text",
+     "text": "1 2 I AKTYWA 1 AKTYWA TRWAŁE 1.1 |Należności długoterminowe, w tym: - należności z tytułu udzielonych pożyczek, w tym: - jednostkom podsektora rządowego - jednostkom podsektora samorządowego - jednostkom spoza sektora finansów publicznych 1.2 |Akcje i udziały” 2 AKTYWA OBROTOWE 2.1 |Zapasy 2.2 |SŚrodki pieniężne 2.3 |Należności krótkoterminowe, w tym: - należności z tytułu udzielonych pożyczek, w tym: - jednostkom podsektora rządowego - jednostkom podsektora samorządowego - jednostkom spoza sektora finansów publicznych 2.4 |Akcje i udziały” Il ZOBOWIĄZANIA według wartości nominalnej 1 Papiery wartościowe 2 Kredyty i pożyczki, w tym zaciągnięte od: - jednostek podsektora rządowego - jednostek podsektora samorządowego - jednostek spoza sektora finansów publicznych 3 Depozyty 4 Zobowiązania wymagalne LICZBA ZATRUDNIONYCH (w przeliczeniu na pełne etaty)"
     },
     {
-     "type": "ocr",
-     "text": "3) pozycja ta powinna uwzględniać zmianę stanu akcji i udziałów będącą wynikiem transakcji bez zmiany wartości kursu (przeszacowania) akcji i udziałów"
+     "type": "text",
+     "text": "Stan na dzień Plan na Plan na Plan na Plan na 31.12.2006 r dzień dzień dzień dzień o \"_ [31.12.2007 r.|31.12.2008 r.|31.12.2009r.| 31.12.2010 r."
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "w tysiącach złotych 3 4 5 6 7"
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "pozycja ta powinna uwzględniać zmianę stanu akcji i udziałów będącą wynikiem transakcji bez zmiany wartości kursu (przeszacowania) akcji i udziałów",
+     "children": []
+    },
+    {
+     "type": "text",
      "text": "sporządził ............u eee eee (imię i nazwisko, stanowisko służbowe) nr telefonu ......................... adres e-mail ......................... data ......................... podpis ........................."
     }
    ]
@@ -4698,7 +4795,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Formularz WPRiR sporządzają dysponenci części budżetowych odpowiedzialni za realizację Wspólnej Polityki Rolnej i Wspólnej Polityki Rybackiej, które wymagają udziału środków budżetowych. Formularz powinien zawierać dane o wszystkich środkach związanych z realizacją zadań, wynikających z członkostwa Polski w Unii Europejskiej, dotyczących Wspólnej Polityki Rolnej i Wspólnej Polityki Rybackiej — z podziałem na środki budżetu państwa i środki przyznane na dany rok przez Komisję Europejską. W kolumnie 5 w odniesieniu do właściwych wierszy należy podać odpowiednią klasyfikację budżetową. Z uwagi na konieczność zapewnienia płynnej realizacji płatności z początkiem roku budżetowego część (np. 5 %) środków na współfinansowanie WPRiR należy zaplanować bezpośrednio w budżetach części 21, 33 i 35, pozostałe zaś 95 % w części 83, łączne środki zaplanowane z tego tytułu należy ująć w wierszach oznaczonych jako „wydatki budżetu państwa”. Rozbicie kwot wydatków na wydatki do sfinansowania z rezerwy celowej oraz wydatki z budżetu części Ministra Gospodarki Morskiej i Ministra Rolnictwa i Rozwoju Wsi nastąpić powinno na kolejnym etapie planowania budżetu poprzez ujęcie odpowiednich kwot w formularzu BW. Wszystkie dochody i wydatki wskazane w tym formularzu powinny być ujęte także w formularzach BD i BW ."
+       "text": "Formularz WPRiR sporządzają dysponenci części budżetowych odpowiedzialni za realizację Wspólnej Polityki Rolnej i Wspólnej Polityki Rybackiej, które wymagają udziału środków budżetowych. Formularz powinien zawierać dane o wszystkich środkach związanych z realizacją zadań, wynikających z członkostwa Polski w Unii Europejskiej, dotyczących Wspólnej Polityki Rolnej i Wspólnej Polityki Rybackiej — z podziałem na środki budżetu państwa i środki przyznane na dany rok przez Komisję Europejską. W kolumnie 5 w odniesieniu do właściwych wierszy należy podać odpowiednią klasyfikację budżetową. Z uwagi na konieczność zapewnienia płynnej realizacji płatności z początkiem roku budżetowego część (np. 5 %) środków na współfinansowanie WPRiR należy zaplanować bezpośrednio w budżetach części 21, 33 i 35, pozostałe zaś 95 % w części 83, łączne środki zaplanowane z tego tytułu należy ująć w wierszach oznaczonych jako „wydatki budżetu państwa”. Rozbicie kwot wydatków na wydatki do sfinansowania z rezerwy celowej oraz wydatki z budżetu części Ministra Gospodarki Morskiej i Ministra Rolnictwa i Rozwoju Wsi nastąpić powinno na kolejnym etapie planowania budżetu poprzez ujęcie odpowiednich kwot w formularzu BW. Wszystkie dochody i wydatki wskazane w tym formularzu powinny być ujęte także w formularzach BD i BW."
       },
       {
        "type": "text",
@@ -6226,7 +6323,7 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_71/pkt_4",
-       "text": "W przypadku wybranych dysponentów, z uwagi na wyjątkową specyfikę ich działalności lub bezpieczeństwo państwa , reguły budżetu zadaniowego należy stosować w sposób wyjątkowy, uwzględniający konieczność zachowania tajemnicy państwowej;",
+       "text": "W przypadku wybranych dysponentów, z uwagi na wyjątkową specyfikę ich działalności lub bezpieczeństwo państwa, reguły budżetu zadaniowego należy stosować w sposób wyjątkowy, uwzględniający konieczność zachowania tajemnicy państwowej;",
        "children": []
       },
       {
@@ -6682,7 +6779,7 @@
         },
         {
          "type": "text",
-         "text": "Wydatkowana kwota będzie przeznaczona na wydatki bieżące (30 tys. zł) oraz wydatki majątkowe (70 tys. zł, w tym 20 tys. zł z rezerwy celowej). Dziennik Ustaw Nr 94 — 5804 — Poz. 628"
+         "text": "Wydatkowana kwota będzie przeznaczona na wydatki bieżące (30 tys. zł) oraz wydatki majątkowe (70 tys. zł, w tym 20 tys. zł z rezerwy celowej)."
         },
         {
          "type": "note",
@@ -6706,7 +6803,7 @@
         },
         {
          "type": "text",
-         "text": "Komentarz: W kolumnie 8 nie wykazano żadnej wartości, ponieważ cała kwota finansowania z funduszu celowego pochodzi z dotacji budżetowej i została wykazana w kolumnie 3. Dziennik Ustaw Nr 94 — 5805 — Poz. 628"
+         "text": "Komentarz: W kolumnie 8 nie wykazano żadnej wartości, ponieważ cała kwota finansowania z funduszu celowego pochodzi z dotacji budżetowej i została wykazana w kolumnie 3."
         },
         {
          "type": "note",
@@ -6730,7 +6827,7 @@
         },
         {
          "type": "text",
-         "text": "Komentarz: Wkolumnie 9 wykazano wartość 5 tys. zł, ponieważ pozostała kwota finansowania zagencji (15 tys. zł) pochodzi zdotacji budżetowej izostała wykazana w kolumnie 3. Dziennik Ustaw Nr 94 — 5806 — Poz. 628"
+         "text": "Komentarz: Wkolumnie 9 wykazano wartość 5 tys. zł, ponieważ pozostała kwota finansowania zagencji (15 tys. zł) pochodzi zdotacji budżetowej izostała wykazana w kolumnie 3."
         },
         {
          "type": "note",
@@ -6750,7 +6847,7 @@
         },
         {
          "type": "text",
-         "text": "Wydatkowana kwota będzie przeznaczona w całości na wydatki majątkowe. Dziennik Ustaw Nr 94 — 5807 — Poz. 628"
+         "text": "Wydatkowana kwota będzie przeznaczona w całości na wydatki majątkowe."
         },
         {
          "type": "note",
@@ -6782,7 +6879,7 @@
         },
         {
          "type": "text",
-         "text": "Komentarz: W kolumnie 8 wykazano pełną wartość środków z funduszu celowego (20 tys. zł), ponieważ w całości są to środki własne funduszu. W kolumnie 9 wykazano wartość 8 tys. zł, ponieważ pozostała kwota finansowania zagencji (2 tys. zł) pochodzi zdotacji budżetowej izostała wykazana wkolumnie 3. Dziennik Ustaw Nr 94 — 5808 — Poz. 628"
+         "text": "Komentarz: W kolumnie 8 wykazano pełną wartość środków z funduszu celowego (20 tys. zł), ponieważ w całości są to środki własne funduszu. W kolumnie 9 wykazano wartość 8 tys. zł, ponieważ pozostała kwota finansowania zagencji (2 tys. zł) pochodzi zdotacji budżetowej izostała wykazana wkolumnie 3."
         },
         {
          "type": "note",
@@ -6878,114 +6975,114 @@
         },
         {
          "type": "note",
-         "text": "[Strona 123 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+         "text": "[Strona 123 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Wyszczególnienie"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Cel"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Miernik Liczba zgłoszeń patentowych polskich rezydentów w EPO, USPTO, JPO powstałych w wyniku realizowania projektów finansowanych przez Ministerstwo Podzadanie 2.3. Rozwój instytucji otoczenia biznesu działających na rzecz współpracy nauki z gospodarką i marketing badań naukowych"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Zwiększenie zainteresowania przedsiębiorców badaniami naukowymi oraz promowanie projektów o charakterze innowacyjnym"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Liczba przedsiębiorstw aplikujących do udziału w projektach celowych"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Podzadanie 2.4. Inicjatywa technologiczna"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Zwiększenie intensywności wykorzystania badań i prac rozwojowych w polskich przedsiębiorstwach oraz intensyfikacja badań na rzecz wzrostu konkurencyjności gospodarki"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Roczny przyrost nakładów sektora prywatnego na działalność B+R (w mid zł) Liczba zgłoszeń patentowych w EPO, USPTO, JPO w rezultacie działania przedsięwzięcia"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Zadanie 3. Infrastruktura nauki polskiej"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Unowocześnienie infrastruktury badawczej nauki polskiej"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Udział inwestycji w aparaturę naukowo- -badawczą i inwestycji w rozbudowę infrastruktury informatycznej nauki w inwestycjach na infrastrukturę ogółem finansowanych przez Ministerstwo Podzadanie 3.1. Inwestycje budowlane i zakupy obiektów budowlanych"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Zapewnienie odpowiedniego zaplecza lokalowego dla działalności B+R"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Udział dotacji budżetowych z działu Nauka w wartości kosztorysowej finansowanych inwestycji"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Wartość finansowanych inwestycji budowlanych (wartość kosztorysowa inwestycji budowlanych obejmuje również przyznane dotacje w latach poprzednich i następnych, czyli w pełnym cyklu ich realizacji) Podzadanie 3.2. Inwestycje | Poprawa stanu aparatury Zużycie aparatury naukowo-badawczej w aparaturę badawczą badawczej (w %) Podzadanie 3.3. Rozbudowa i utrzymanie infrastruktury informatycznej nauki (w tym wydatki PIONIER)"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Poprawa stanu infrastruktury informatycznej nauki"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Liczba nowych i zmodernizowanych sieci komputerowych finansowanych przez Ministerstwo Utrzymanie i rozwój zasobów cyfrowych nauki"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Liczba wejść do baz danych finansowanych z budżetu nauki Zapewnienie dostępu do zasobów sieciowych i obliczeniowych nauki"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Liczba jednostek naukowych wykorzystujących specjalne urządzenia badawcze z zakresu infrastruktury informatycznej nauki Zadanie 4. Upowszechnianie oraz promocja nauki"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Wzrost nastawienia polskich przedsiębiorców na wykorzystywanie wyników badań B+R"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Deklarowana przez przedsiębiorców możliwość wykorzystania polskich osiągnięć nauki (ankieta)"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Popularyzacja wyników polskich osiągnięć naukowych w społeczeństwie"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Stopień świadomości opinii publicznej na temat polskich osiągnięć naukowych Zwiększenie wymiany informacji pomiędzy ośrodkami naukowymi Podzadanie 4.1. Upowszechnianie osiągnięć nauki"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Rozpowszechnianie wiedzy w zakresie osiągnięć polskiej nauki"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Liczba publikacji naukowych dofinansowywanych przez Ministerstwo Liczba uczestników imprez naukowych"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Podzadanie 4.2. Promocja nauki"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Zwiększenie udziału w mediach tematyki dotyczącej osiągnięć naukowców zatrudnionych w polskich placówkach naukowo- -badawczych"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "Ocena na podstawie wyników ankiet badających dostępność do informacji na temat polskiej nauki, przeprowadzonych wśród grupy dziennikarzy zajmujących się problematyką popularnonaukowg"
         },
         {

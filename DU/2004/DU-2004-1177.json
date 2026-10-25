@@ -1,7 +1,7 @@
 {
  "eli": "DU/2004/1177",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2004 r. w sprawie materiału biologicznego wykorzystywanego w rozrodzie zwierząt gospodarskich",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/1177/text.pdf",
  "body": [
   {
@@ -1165,22 +1165,22 @@
     },
     {
      "type": "note",
-     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "strona druga"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wypełnia właściciel klaczy lub upoważniony przez właściciela dzierżawca klaczy"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Stwierdzam, że w dniu (dzień, miesiąc, rok) ...............cce cece ee eees otrzymałem nasienie ogiera (nazwa ogiera) ....................1-11-1. , którym w dniu (dzień, miesiąc, rok) ...........--m.aeaa aaa aaa aa na e eee ee es unasienniona została klacz (nazwa klaczy) .............usaaasaassaaaina"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Ponadto zobowiązuję się do przestrzegania obowiązujących przepisów dotyczących sztucznego unasienniania."
     }
    ]
@@ -1190,7 +1190,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WZÓR ZAŚWIADCZENIA SZTUCZNEGO UNASIENNIANIA KROWY ALBO JAŁÓWKI Dziennik Ustaw Nr 111 — 7785 — Poz. 1177"
+     "text": "WZÓR ZAŚWIADCZENIA SZTUCZNEGO UNASIENNIANIA KROWY ALBO JAŁÓWKI"
     },
     {
      "type": "note",
@@ -1198,39 +1198,32 @@
     },
     {
      "type": "note",
-     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Objaśnienie do wypełniania zaświadczenia sztucznego unasienniania krowy albo jałówki"
     },
     {
-     "type": "ocr",
-     "text": "1) Numer kartoteki jest to numer kolejnego wydawanego zaświadczenia unasienniania, który. informuje o liczbie samic unasiennionych po raz pierwszy w danym roku przez dany punkt unasienniania zwierząt."
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Numer kartoteki jest to numer kolejnego wydawanego zaświadczenia unasienniania, który. informuje o liczbie samic unasiennionych po raz pierwszy w danym roku przez dany punkt unasienniania zwierząt.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2) W zaświadczeniu unasienniania wystawionym po raz pierwszy w danym roku jest wpisywany numer kartoteki obowiązujący do czasu porodu lub poronienia rozpoczynającego laktację."
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "W zaświadczeniu unasienniania wystawionym po raz pierwszy w danym roku jest wpisywany numer kartoteki obowiązujący do czasu porodu lub poronienia rozpoczynającego laktację.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "3) W przypadku unasienniania samicy w okresie powyżej 60 dni od ostatniego nieskutecznego zabiegu, który nie zakończył się porodem lub poronieniem, w zaświadczeniu wpisuje się dotychczasowy numer kartoteki z dopisaną literą „a”. 4"
-    },
-    {
-     "type": "ocr",
-     "text": "— W przypadku powtórnego zabiegu oraz reinseminacji w wystawionym nowym zaświadczeniu unasienniania wpisuje się numer kartoteki poprzedniego zabiegu. 5"
-    },
-    {
-     "type": "ocr",
-     "text": "— Należy wpisać numer siedziby stada nadany przez Agencję Restrukturyzacji i Modernizacji Rolnictwa. 6"
-    },
-    {
-     "type": "ocr",
-     "text": "— W przypadku, gdy zabieg unasienniania jest wykonywany w stadzie poddawanym ocenie wartości użytkowej, należy wpisać numer stada nadany przez podmiot prowadzący ocenę wartości użytkowej. 7"
-    },
-    {
-     "type": "ocr",
-     "text": "— Znajdująca się na słomce sześciocyfrowa data produkcji nasienia składająca się z dwóch cyfr oznaczających rok produkcji nasienia i — po myślniku — trzech cyfr oznaczających kolejny dzień roku kalendarzowego, w którym wyprodukowano wykorzystane do zabiegu nasienie."
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "W przypadku unasienniania samicy nieskutecznego zabiegu, który nie w okresie powyżej 60 dni od ostatniego zakończył się porodem lub poronieniem, w zaświadczeniu wpisuje się dotychczasowy numer kartoteki z dopisaną literą „a”. — 4 W przypadku powtórnego zabiegu oraz reinseminacji w wystawionym nowym zaświadczeniu unasienniania wpisuje się numer kartoteki poprzedniego zabiegu. — 5 Należy wpisać numer siedziby stada nadany przez Agencję Restrukturyzacji i Modernizacji Rolnictwa. — 6 W przypadku, gdy zabieg unasienniania jest wykonywany w stadzie poddawanym ocenie wartości użytkowej, należy wpisać numer stada nadany przez podmiot prowadzący ocenę wartości użytkowej. — 7 Znajdująca się na słomce sześciocyfrowa data produkcji nasienia składająca się z dwóch cyfr oznaczających rok produkcji nasienia i — po myślniku — trzech cyfr oznaczających kolejny dzień roku kalendarzowego, w którym wyprodukowano wykorzystane do zabiegu nasienie.",
+     "children": []
     }
    ]
   },
@@ -1239,7 +1232,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WZÓR ZAŚWIADCZENIA SZTUCZNEGO UNASIENNIANIA LOCHY ALBO LOSZKI Dziennik Ustaw Nr 111 — 7787 — Poz. 1177"
+     "text": "WZÓR ZAŚWIADCZENIA SZTUCZNEGO UNASIENNIANIA LOCHY ALBO LOSZKI"
     },
     {
      "type": "note",
@@ -1247,27 +1240,39 @@
     },
     {
      "type": "note",
-     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Objaśnienie do wypełniania zaświadczenia sztucznego unasienniania lochy albo loszki"
     },
     {
-     "type": "ocr",
-     "text": "1) Numer w rejestrze pokryć jest to numer kolejnego wydawanego zaświadczenia unasienniania, który informuje o liczbie samic unasiennionych po raz pierwszy w danym roku przez dany punkt unasienniania zwierząt. w zaświadczeniu unasienniania wystawionym po raz pierwszy w danym roku wpisywany jest numer kartoteki obowiązujący do czasu porodu lub poronienia rozpoczynającego laktację. w przypadku powtórnego zabiegu oraz reinseminacji w wystawionym nowym zaświadczeniu unasienniania wpisuje się numer kartoteki poprzedniego zabiegu."
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Numer w rejestrze pokryć jest to numer kolejnego wydawanego zaświadczenia unasienniania, który informuje o liczbie samic unasiennionych po raz pierwszy w danym roku przez dany punkt unasienniania zwierząt. w zaświadczeniu unasienniania wystawionym po raz pierwszy w danym roku wpisywany jest numer kartoteki obowiązujący do czasu porodu lub poronienia rozpoczynającego laktację. w przypadku powtórnego zabiegu oraz reinseminacji w wystawionym nowym zaświadczeniu unasienniania wpisuje się numer kartoteki poprzedniego zabiegu.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4) Należy wpisać numer siedziby stada nadany przez Agencję Restrukturyzacji i Modernizacji Rolnictwa."
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Należy wpisać numer siedziby stada nadany przez Agencję Restrukturyzacji i Modernizacji Rolnictwa.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "5) W przypadku gdy zabieg unasienniania jest wykonywany w stadzie poddawanym ocenie wartości użytkowej, należy wpisać numer stada nadany przez podmiot prowadzący ocenę wartości użytkowej."
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "W przypadku gdy zabieg unasienniania jest wykonywany w stadzie poddawanym ocenie wartości użytkowej, należy wpisać numer stada nadany przez podmiot prowadzący ocenę wartości użytkowej.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "6) Znajdujący się na opakowaniu nasienia numer oznaczający kolejny w danym roku kalendarzowym dobry ejakulat pobrany w stacji unasienniania loch."
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "Znajdujący się na opakowaniu nasienia numer oznaczający kolejny w danym roku kalendarzowym dobry ejakulat pobrany w stacji unasienniania loch.",
+     "children": []
     }
    ]
   },
@@ -1276,7 +1281,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WZÓR ZAŚWIADCZENIA SZTUCZNEGO UNASIENNIANIA OWCY ALBO KOZY Dziennik Ustaw Nr 111 — 7789 — Poz. 1177"
+     "text": "WZÓR ZAŚWIADCZENIA SZTUCZNEGO UNASIENNIANIA OWCY ALBO KOZY"
     },
     {
      "type": "note",
@@ -1284,27 +1289,39 @@
     },
     {
      "type": "note",
-     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Objaśnienie do wypełniania zaświadczenia sztucznego unasienniania owcy albo kozy"
     },
     {
-     "type": "ocr",
-     "text": "1) Numer kartoteki jest to numer kolejnego wydawanego zaświadczenia unasienniania, który informuje o liczbie samic unasiennionych po raz pierwszy w danym roku przez dany punkt unasienniania zwierząt."
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Numer kartoteki jest to numer kolejnego wydawanego zaświadczenia unasienniania, który informuje o liczbie samic unasiennionych po raz pierwszy w danym roku przez dany punkt unasienniania zwierząt.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2) W zaświadczeniu unasienniania wystawionym po raz pierwszy w danym roku jest wpisywany numer kartoteki obowiązujący do czasu porodu lub poronienia rozpoczynającego laktację. dw przypadku unasienniania samicy w okresie powyżej 60 dni od ostatniego nieskutecznego zabiegu, który nie zakończył się porodem lub poronieniem, w zaświadczeniu wpisuje się dotychczasowy numer kartoteki z dopisaną literą „a”. 9w przypadku powtórnego zabiegu oraz reinseminacji w wystawionym nowym zaświadczeniu unasienniania wpisuje się numer kartoteki poprzedniego zabiegu."
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "W zaświadczeniu unasienniania wystawionym po raz pierwszy w danym roku jest wpisywany numer kartoteki obowiązujący do czasu porodu lub poronienia rozpoczynającego laktację. dw przypadku unasienniania samicy w okresie powyżej 60 dni od ostatniego nieskutecznego zabiegu, który nie zakończył się porodem lub poronieniem, w zaświadczeniu wpisuje się dotychczasowy numer kartoteki z dopisaną literą „a”. 9w przypadku powtórnego zabiegu oraz reinseminacji w wystawionym nowym zaświadczeniu unasienniania wpisuje się numer kartoteki poprzedniego zabiegu.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "5) Należy wpisać numer siedziby stada nadany przez Agencję Restrukturyzacji i Modernizacji Rolnictwa."
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "Należy wpisać numer siedziby stada nadany przez Agencję Restrukturyzacji i Modernizacji Rolnictwa.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "6) W przypadku gdy zabieg unasienniania jest wykonywany w stadzie poddawanym ocenie wartości użytkowej, należy wpisać numer stada nadany przez podmiot prowadzący ocenę wartości użytkowej. 5 Znajdująca się na opakowaniu nasienia sześciocyfrowa data produkcji nasienia składająca się z dwóch cyfr oznaczających rok produkcji nasienia i — po myślniku— trzech cyfr oznaczających kolejny dzień roku kalendarzowego, w którym wyprodukowano wykorzystane do zabiegu nasienie."
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "W przypadku gdy zabieg unasienniania jest wykonywany w stadzie poddawanym ocenie wartości użytkowej, należy wpisać numer stada nadany przez podmiot prowadzący ocenę wartości użytkowej. 5 Znajdująca się na opakowaniu nasienia sześciocyfrowa data produkcji nasienia składająca się z dwóch cyfr oznaczających rok produkcji nasienia i — po myślniku— trzech cyfr oznaczających kolejny dzień roku kalendarzowego, w którym wyprodukowano wykorzystane do zabiegu nasienie.",
+     "children": []
     }
    ]
   },
@@ -1321,22 +1338,22 @@
     },
     {
      "type": "note",
-     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(strona 2)"
     },
     {
-     "type": "ocr",
-     "text": "POŚWIADCZENIE URODZENIA ŹREBIĘCIA Wymieniona na odwrocie klacz ..............-..--.e---111221 Świadectwo pokrycia Cee eee ence eee cena aaa eee Saeed aaa aaa EE zazna EEE EEE EEE EGS klaczy otrzymatem (numer wpisu w księdze lub rejestrze” i nazwa) ogierka urodziła w dn. ....... ts Cr r. źrebię ee klaczkę (data)"
+     "type": "text",
+     "text": "POŚWIADCZENIE URODZENIA ŹREBIĘCIA Wymieniona na odwrocie klacz ..............-..--.e---111221 Świadectwo pokrycia Cee eee ence eee cena aaa eee Saeed aaa aaa EE zazna EEE EEE EEE EGS klaczy otrzymałem (numer wpisu w księdze lub rejestrze” i nazwa) ogierka urodziła w dn. ....... ts Cr r. źrebię ee klaczkę (data)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(imię i nazwisko oraz adres zamieszkania)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "* Wpisuje się, gdy klacz jest wpisana do księgi lub rejestru. ** Niepotrzebne skreślić."
     }
    ]
@@ -1359,7 +1376,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WZÓR ŚWIADECTWA POKRYCIA BUHAJEM, KNUREM, TRYKIEM ALBO KOZŁEM Dziennik Ustaw Nr 111 — 7794 — Poz. 1177"
+     "text": "WZÓR ŚWIADECTWA POKRYCIA BUHAJEM, KNUREM, TRYKIEM ALBO KOZŁEM"
     },
     {
      "type": "note",
@@ -1367,23 +1384,32 @@
     },
     {
      "type": "note",
-     "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 18 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Objaśnienie do zaświadczenia pokrycia buhajem, knurem, trykiem, kozłem"
     },
     {
-     "type": "ocr",
-     "text": "1) Numer w rejestrze pokryć jest to kolejny numer wydawanego świadectwa pokrycia, który informuje o liczbie samic pokrytych po raz pierwszy w danym roku w danym punkcie kopulacyjnym."
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Numer w rejestrze pokryć jest to kolejny numer wydawanego świadectwa pokrycia, który informuje o liczbie samic pokrytych po raz pierwszy w danym roku w danym punkcie kopulacyjnym.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2) Należy wpisać numer siedziby stada nadany przez Agencję Restrukturyzacji i Modernizacji Rolnictwa."
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Należy wpisać numer siedziby stada nadany przez Agencję Restrukturyzacji i Modernizacji Rolnictwa.",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "3) w przypadku gdy właściciel samicy poddaje stado, z którego pochodzi samica, ocenie wartości użytkowej, należy wpisać numer stada nadany przez podmiot prowadzący ocenę wartości użytkowej."
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "w przypadku gdy właściciel samicy poddaje stado, z którego pochodzi samica, ocenie wartości użytkowej, należy wpisać numer stada nadany przez podmiot prowadzący ocenę wartości użytkowej.",
+     "children": []
     }
    ]
   },

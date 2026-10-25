@@ -1,7 +1,7 @@
 {
  "eli": "DU/2006/1691",
  "title": "Rozporządzenie Ministra Rozwoju Regionalnego z dnia 13 grudnia 2006 r. zmieniające rozporządzenie w sprawie przyjęcia Ubezpieczenia Sektorowego Programu Operacyjnego Wzrost konkurencyjności przedsiębiorstw, lata 2004-2006",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2006/1691/text.pdf",
  "body": [
   {
@@ -150,39 +150,39 @@
      "children": [
       {
        "type": "note",
-       "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Nazwa poddziałania"
       },
       {
-       "type": "ocr",
-       "text": "1.2.1 Dokapitalizowanie funduszy = mikropożyczkowych 1.2.2 Dokapitalizowanie funduszy poręczeń kredytowych 1.2.3 Wspieranie powstawania funduszy kapitału zalążkowego typu seed capital Kategoria interwencji 165 Numer działania 1.2 Okres kwalifikowalności wydatków Początkowa data: 2004 r. Końcowa data: czerwiec 2008 r. Instytucja Zarządzająca"
+       "type": "text",
+       "text": "Kategoria interwencji Numer działania Okres kwalifikowalności wydatków"
       },
       {
-       "type": "ocr",
-       "text": "Minister właściwy do spraw rozwoju regionalnego Instytucja Pośrednicząca"
+       "type": "text",
+       "text": "Instytucja Zarządzająca"
       },
       {
-       "type": "ocr",
-       "text": "Minister właściwy do spraw gospodarki Beneficjent Końcowy (instytucja wdrażająca) PARP Ostateczni Odbiorcy (beneficjenci)"
+       "type": "text",
+       "text": "Instytucja Pośrednicząca Beneficjent Końcowy (instytucja wdrażająca) Ostateczni Odbiorcy (beneficjenci)"
       },
       {
-       "type": "ocr",
-       "text": "1.2.1 regionalne i lokalne fundusze mikropożyczkowe 1.2.2 regionalne i lokalne fundusze poręczeń kredytowych 1.2.3 fundusze kapitału zalążkowego typu seed capital Instytucja Płatnicza"
+       "type": "text",
+       "text": "Instytucja Płatnicza"
       },
       {
-       "type": "ocr",
-       "text": "Minister właściwy do spraw _ finansów publicznych Rodzaj pomocy"
+       "type": "text",
+       "text": "Rodzaj pomocy Maksymalna wysokość pomocy (w % kwalifikujących się wydatków)"
       },
       {
-       "type": "ocr",
-       "text": "Wsparcie finansowe Maksymalna wysokość pomocy (w % kwalifikujących się wydatków)"
+       "type": "text",
+       "text": "Publiczne wsparcie finansowe ogółem Wsparcie finansowe z EFRR Publiczne wsparcie finansowe krajowe Srodki prywatne Wkład publiczny w środkach ogółem (w %)"
       },
       {
-       "type": "ocr",
-       "text": "Wsparcie dla funduszy: 1.2.1 — 70 % (nie jest pomocą publiczną) 1.2.2 — 80 % (nie jest pomocą publiczną) 1.2.3 — 50 % (nie jest pomocą publiczną) Wsparcie dla wszystkich rodzajów funduszy nie może być niższe niż 3 mln PLN i wyższe niż 50 mln PLN. Wsparcie dla przedsiębiorców: 1.2.1, 1.2.2 - zasadniczo nie przewiduje się udzielania pomocy publicznej, w przypadku jednak, gdyby wystąpiła w określonych projektach, będzie udzielana na zasadzie de minimis 1.2.3 -zgodnie z zatwierdzonym programem pomocowym Publiczne wsparcie finansowe ogółem 203,84 mln € Wsparcie finansowe z EFRR 164,20 mln € Publiczne wsparcie finansowe krajowe 39,64 mln € Srodki prywatne 36,16 mln € Wkład publiczny w środkach ogółem (w %) 84,93 %"
+       "type": "text",
+       "text": "1.2.1 Dokapitalizowanie funduszy = mikropożyczkowych 1.2.2 Dokapitalizowanie funduszy poręczeń kredytowych 1.2.3 Wspieranie powstawania funduszy kapitału zalążkowego typu seed capital 165 1.2 Początkowa data: 2004 r. Końcowa data: czerwiec 2008 r. Minister właściwy do spraw rozwoju regionalnego Minister właściwy do spraw gospodarki PARP 1.2.1 regionalne i lokalne fundusze mikropożyczkowe 1.2.2 regionalne i lokalne fundusze poręczeń kredytowych 1.2.3 fundusze kapitału zalążkowego typu seed capital Minister właściwy do spraw _ finansów publicznych Wsparcie finansowe Wsparcie dla funduszy: 1.2.1 — 70 % (nie jest pomocą publiczną) 1.2.2 — 80 % (nie jest pomocą publiczną) 1.2.3 — 50 % (nie jest pomocą publiczną) Wsparcie dla wszystkich rodzajów funduszy nie może być niższe niż 3 mln PLN i wyższe niż 50 mln PLN. Wsparcie dla przedsiębiorców: 1.2.1, 1.2.2 - zasadniczo nie przewiduje się udzielania pomocy publicznej, w przypadku jednak, gdyby wystąpiła w określonych projektach, będzie udzielana na zasadzie de minimis 1.2.3 -zgodnie z zatwierdzonym programem pomocowym 203,84 mln € 164,20 mln € 39,64 mln € 36,16 mln € 84,93 %"
       }
      ]
     },
@@ -279,63 +279,87 @@
       },
       {
        "type": "note",
-       "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
-       "type": "ocr",
-       "text": "Ostateczni Odbiorcy (beneficjenci) Przedsiębiorstwa, grupy przedsiębiorstw (instytucje sfery B+R), organizacje (sieci, konsorcja) sfery B+R i inne instytucje wspierające przedsiębiorczość oraz innowacyjność"
+       "type": "text",
+       "text": "Ostateczni Odbiorcy (beneficjenci)"
       },
       {
-       "type": "ocr",
-       "text": "Instytucja Płatnicza Minister właściwy do spraw finansów publicznych"
+       "type": "text",
+       "text": "Instytucja Płatnicza"
       },
       {
-       "type": "ocr",
-       "text": "Maksymalna wysokość _ pomocy Dla projektów, dla których nie stosuje się przepisów (w % kwalifikujących się wydatków) dotyczących pomocy publicznej — 100 %,"
+       "type": "text",
+       "text": "Maksymalna wysokość _ pomocy (w % kwalifikujących się wydatków)"
       },
       {
-       "type": "ocr",
-       "text": "Dla projektów podlegających zasadom pomocy publicznej pomoc jest udzielana zgodnie z notyfikowanymi programami pomocowymi."
+       "type": "text",
+       "text": "Wkład publiczny w środkach ogółem (w %)"
       },
       {
-       "type": "ocr",
-       "text": "Wkład publiczny w środkach ogółem 10,66 % (w %)"
+       "type": "text",
+       "text": "Wkład EFRR w całości Środków publicznych (w %)"
       },
       {
-       "type": "ocr",
-       "text": "Wkład EFRR w całości Środków 73,00 % publicznych (w %)"
+       "type": "text",
+       "text": "Wkład krajowy publiczny w całości środków publicznych (w %)"
       },
       {
-       "type": "ocr",
-       "text": "Wkład krajowy publiczny w całości 27,00 % środków publicznych (w %)"
+       "type": "text",
+       "text": "Wkład EFRR w środkach ogółem (w %)"
       },
       {
-       "type": "ocr",
-       "text": "Wkład EFRR w środkach ogółem (w %) 51,55 %"
+       "type": "text",
+       "text": "Wkład publiczny krajowy w środkach ogółem (w %)"
       },
       {
-       "type": "ocr",
-       "text": "Wkład publiczny krajowy w środkach 19,11% ogółem (w %)"
+       "type": "text",
+       "text": "Wkład Środków prywatnych w środkach ogółem (w %)"
       },
       {
-       "type": "ocr",
-       "text": "Wkład Środków prywatnych w środkach |29,34% ogółem (w %)"
+       "type": "text",
+       "text": "Skład Grup Roboczych ds. oceny projektów"
       },
       {
-       "type": "ocr",
-       "text": "Skład Grup Roboczych ds. oceny przedstawiciele _ Instytucji _ Zarządzającej projektów (fakultatywnie),"
+       "type": "text",
+       "text": "Przedsiębiorstwa, grupy przedsiębiorstw (instytucje sfery B+R), organizacje (sieci, konsorcja) sfery B+R i inne instytucje wspierające przedsiębiorczość oraz innowacyjność"
       },
       {
-       "type": "ocr",
-       "text": "przedstawiciele _ Instytucji Pośredniczącej właściwej dla działania 1.4,"
+       "type": "text",
+       "text": "Minister właściwy do spraw finansów publicznych"
       },
       {
-       "type": "ocr",
-       "text": "przedstawiciele Beneficjenta Końcowego (instytucji wdrazajacej) właściwej dla działania 1.4,"
+       "type": "text",
+       "text": "Dla projektów, dla których nie stosuje się przepisów dotyczących pomocy publicznej — 100 %, Dla projektów podlegających zasadom pomocy publicznej pomoc jest udzielana zgodnie z notyfikowanymi programami pomocowymi."
       },
       {
-       "type": "ocr",
-       "text": "eksperci. ”"
+       "type": "text",
+       "text": "10,66 %"
+      },
+      {
+       "type": "text",
+       "text": "73,00 %"
+      },
+      {
+       "type": "text",
+       "text": "27,00 %"
+      },
+      {
+       "type": "text",
+       "text": "51,55 %"
+      },
+      {
+       "type": "text",
+       "text": "19,11%"
+      },
+      {
+       "type": "text",
+       "text": "|29,34%"
+      },
+      {
+       "type": "text",
+       "text": "przedstawiciele _ Instytucji _ Zarządzającej (fakultatywnie), przedstawiciele _ Instytucji Pośredniczącej właściwej dla działania 1.4, przedstawiciele Beneficjenta Końcowego (instytucji wdrażającej) właściwej dla działania 1.4, eksperci. ”"
       }
      ]
     },
@@ -361,7 +385,7 @@
        "type": "lit",
        "num": "b",
        "path": "par_1/pkt_8/lit_b",
-       "text": "część „Plan finansowania i poziomy wsparcia dla działania 1.5” oraz część „Tabela finansowa działania 1.5 (w mln €€)” otrzymują brzmienie: „Plan finansowania i poziomy wsparcia dla działania 1.5 W ramach działania nie będzie udzielana pomoc publiczna. Na realizację działania 1.5 przewidziano 110,31 mln € , z czego 82,73 mln € będzie po-",
+       "text": "część „Plan finansowania i poziomy wsparcia dla działania 1.5” oraz część „Tabela finansowa działania 1.5 (w mln €€)” otrzymują brzmienie: „Plan finansowania i poziomy wsparcia dla działania 1.5 W ramach działania nie będzie udzielana pomoc publiczna. Na realizację działania 1.5 przewidziano 110,31 mln €, z czego 82,73 mln € będzie po-",
        "children": [
         {
          "type": "text",
@@ -397,55 +421,94 @@
        "children": [
         {
          "type": "note",
-         "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+         "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
         },
         {
-         "type": "ocr",
-         "text": "Okres kwalifikowalności wydatków Początkowa data: 2004 r. Końcowa data: czerwiec 2008 r."
+         "type": "text",
+         "text": "Okres kwalifikowalności wydatków"
         },
         {
-         "type": "ocr",
-         "text": "Instytucja Zarządzająca Minister właściwy do spraw rozwoju regionalnego"
+         "type": "text",
+         "text": "Instytucja Zarządzająca"
         },
         {
-         "type": "ocr",
-         "text": "Instytucja Pośrednicząca Minister właściwy do spraw gospodarki"
+         "type": "text",
+         "text": "Instytucja Pośrednicząca"
         },
         {
-         "type": "ocr",
-         "text": "Ostateczni Odbiorcy (beneficjenci) MSP posiadające siedzibę na terytorium Rzeczypospolitej Polskiej, z wyłączeniem mikroprzedsiębiorców innych niż mikroprzedsiębiorcy wykonujący działalność gospodarczą:"
+         "type": "text",
+         "text": "Ostateczni Odbiorcy (beneficjenci)"
         },
         {
-         "type": "ocr",
-         "text": "a) od co najmniej 3 lat lub"
+         "type": "text",
+         "text": "Instytucja Płatnicza"
         },
         {
-         "type": "ocr",
-         "text": "b) opartą na wykorzystaniu nowych technologii."
+         "type": "text",
+         "text": "Rodzaj pomocy"
         },
         {
-         "type": "ocr",
-         "text": "Instytucja Płatnicza Minister właściwy do spraw finansów publicznych"
+         "type": "text",
+         "text": "Maksymalna wysokość pomocy (w % kwalifikujących się wydatków)"
         },
         {
-         "type": "ocr",
-         "text": "Rodzaj pomocy Bezzwrotne wsparcie finansowe"
-        },
-        {
-         "type": "ocr",
-         "text": "Maksymalna wysokość pomocy 50 % dla wszystkich projektów, z wyjątkiem (w % kwalifikujących się wydatków) doradztwa dla mikroprzedsiębiorstw prowadzących działalność gospodarczą w oparciu o wykorzystanie nowych technologii, gdzie pomoc może osiągnąć do 100 % wartości wydatków kwalifikowanych (w oparciu o zasadę de minimis), lecz w obu przypadkach nie mniej niż 2,5 tys. PLN i nie więcej niż 250 tys. PLN, w ramach danego projektu."
-        },
-        {
-         "type": "ocr",
+         "type": "text",
          "text": "Publiczne wsparcie finansowe krajowe"
         },
         {
-         "type": "ocr",
-         "text": "Wkład publiczny w środkach ogółem (w %) |50,00 %"
+         "type": "text",
+         "text": "Wkład publiczny w środkach ogółem (w %)"
         },
         {
-         "type": "ocr",
-         "text": "Wkład EFRR w całości środków publicznych |70,00 % (w %)"
+         "type": "text",
+         "text": "Wkład EFRR w całości środków publicznych (w %)"
+        },
+        {
+         "type": "text",
+         "text": "Początkowa data: 2004 r. Końcowa data: czerwiec 2008 r. Minister właściwy do spraw rozwoju regionalnego"
+        },
+        {
+         "type": "text",
+         "text": "Minister właściwy do spraw gospodarki"
+        },
+        {
+         "type": "text",
+         "text": "MSP posiadające siedzibę na terytorium Rzeczypospolitej Polskiej, z wyłączeniem mikroprzedsiębiorców innych niż mikroprzedsiębiorcy wykonujący działalność gospodarczą:"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_9/lit_a",
+       "text": "od co najmniej 3 lat lub",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_9/lit_b",
+       "text": "opartą na wykorzystaniu nowych technologii.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Minister właściwy do spraw finansów publicznych"
+        },
+        {
+         "type": "text",
+         "text": "Bezzwrotne wsparcie finansowe"
+        },
+        {
+         "type": "text",
+         "text": "50 % dla wszystkich projektów, z wyjątkiem doradztwa dla mikroprzedsiębiorstw prowadzących działalność gospodarczą w oparciu o wykorzystanie nowych technologii, gdzie pomoc może osiągnąć do 100 % wartości wydatków kwalifikowanych (w oparciu o zasadę de minimis), lecz w obu przypadkach nie mniej niż 2,5 tys. PLN i nie więcej niż 250 tys. PLN, w ramach danego projektu."
+        },
+        {
+         "type": "text",
+         "text": "|50,00 %"
+        },
+        {
+         "type": "text",
+         "text": "|70,00 %"
         },
         {
          "type": "note",
@@ -566,14 +629,38 @@
         },
         {
          "type": "note",
-         "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+         "text": "[Strona 16 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
         },
         {
-         "type": "ocr",
-         "text": "Instytucja Płatnicza Minister właściwy do spraw finansów publicznych Rodzaj pomocy Wsparcie finansowe Maksymalna wysokość pomocy | 2.2.1 — zgodnie z aktualną mapą pomocy (w % kwalifikujących się wydatków) regionalnej dla Polski 2.2.2 — 50 % (zasada de minimis) Publiczne wsparcie finansowe ogółem 370,17 mln € Wsparcie finansowe z EFRR 253,57 mln € Publiczne wsparcie finansowe krajowe 116,60 mln € Środki prywatne 354,40 min € Wkład publiczny w środkach ogółem (w %) 51,09% Wkład EFRR w całości środków publicznych | 68,50 % (w %) Wkład krajowy publiczny w całości środków | 31,50 % publicznych (w %) Wkład EFRR w środkach ogółem (w %) 35,00 %"
+         "type": "text",
+         "text": "Instytucja Płatnicza"
         },
         {
-         "type": "ocr",
+         "type": "text",
+         "text": "Rodzaj pomocy"
+        },
+        {
+         "type": "text",
+         "text": "Minister właściwy do spraw finansów publicznych Wsparcie finansowe Maksymalna wysokość pomocy | 2.2.1 — zgodnie z aktualną mapą pomocy (w % kwalifikujących się wydatków)"
+        },
+        {
+         "type": "text",
+         "text": "Publiczne wsparcie finansowe ogółem Wsparcie finansowe z EFRR Publiczne wsparcie finansowe krajowe Środki prywatne Wkład publiczny w środkach ogółem (w %) regionalnej dla Polski 2.2.2 — 50 % (zasada de minimis) 370,17 mln €"
+        },
+        {
+         "type": "text",
+         "text": "253,57 mln €"
+        },
+        {
+         "type": "text",
+         "text": "116,60 mln € 354,40 min €"
+        },
+        {
+         "type": "text",
+         "text": "51,09% Wkład EFRR w całości środków publicznych | 68,50 % (w %) Wkład krajowy publiczny w całości środków | 31,50 % publicznych (w %) Wkład EFRR w środkach ogółem (w %) 35,00 %"
+        },
+        {
+         "type": "text",
          "text": "Wkład publiczny krajowy w środkach ogółem | 16,09 % (w %) Wkład środków prywatnych | 48,91 % w środkach ogółem (w %) Skład Grup Roboczych ds. oceny projektów — przedstawiciele Instytucji Zarządzającej (fakultatywnie), — przedstawiciele Instytucji Pośredniczącej właściwej dla działania 2.2, — przedstawiciele Beneficjenta Końcowego (instytucji wdrażającej) właściwego dla poddziałania, — przedstawiciele organizacji przedsiębiorców i instytucji partnerskich _ Beneficjenta Końcowego (instytucja wdrażająca), — przedstawiciele Związku Banków Polskich, — — eksperci (w przypadku gdy zostaną zaproszeni), w _ Odniesieniu do poddziałania 2.2.2 — fakultatywnie.”"
         }
        ]
@@ -713,27 +800,63 @@
         },
         {
          "type": "note",
-         "text": "[Strona 19 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+         "text": "[Strona 19 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
         },
         {
-         "type": "ocr",
-         "text": "Ostateczni Odbiorcy (beneficjenci) MSP posiadający siedzibę na terytorium Rzeczypospolitej Polskiej, z wyłączeniem mikroprzedsiębiorców innych niż mikroprzedsiębiorcy wykonujący działalność gospodarczą od co najmniej 3 lat lub opartą na wykorzystaniu nowych technologii. Instytucja Płatnicza Minister właściwy do spraw finansów publicznych"
+         "type": "text",
+         "text": "Ostateczni Odbiorcy (beneficjenci)"
         },
         {
-         "type": "ocr",
-         "text": "Rodzaj pomocy Bezzwrotne wsparcie finansowe"
+         "type": "text",
+         "text": "Instytucja Płatnicza"
         },
         {
-         "type": "ocr",
-         "text": "Maksymalna wysokość pomocy Zróżnicowanie - zgodnie z mapą pomocy (w % kwalifikujących się regionalnej (maksymalnie 50 %), lecz nie mniej niż wydatków) 10 tys. PLN i nie więcej niż 1 250 tys. PLN, w ramach danego projektu. Publiczne wsparcie finansowe ogółem 428,43 mln € Wsparcie finansowe z EFRR 299,90 mln € Publiczne wsparcie finansowe krajowe 128,53 mln € Środki prywatne 428,43 mln € Wkład publiczny w środkach ogółem (w %) 50,00%"
+         "type": "text",
+         "text": "Rodzaj pomocy"
         },
         {
-         "type": "ocr",
-         "text": "Wkład UE w całości środków publicznych (w %) |70,00 %"
+         "type": "text",
+         "text": "Maksymalna wysokość pomocy (w % kwalifikujących się wydatków)"
         },
         {
-         "type": "ocr",
-         "text": "Wkład krajowy publiczny w całości 30,00% środków publicznych (w %) Wkład UE w środkach ogółem (w %) 35,00 % Wkład publiczny krajowy w środkach 15,00 % ogółem (w %) Wkład środków prywatnych w środkach |50,00 % ogółem (w %)"
+         "type": "text",
+         "text": "Publiczne wsparcie finansowe ogółem Wsparcie finansowe z EFRR Publiczne wsparcie finansowe krajowe Środki prywatne Wkład publiczny w środkach ogółem (w %)"
+        },
+        {
+         "type": "text",
+         "text": "Wkład UE w całości środków publicznych (w %)"
+        },
+        {
+         "type": "text",
+         "text": "Wkład krajowy publiczny w całości środków publicznych (w %) Wkład UE w środkach ogółem (w %) Wkład publiczny krajowy w środkach ogółem (w %) Wkład środków prywatnych w środkach ogółem (w %)"
+        },
+        {
+         "type": "text",
+         "text": "MSP posiadający siedzibę na terytorium Rzeczypospolitej Polskiej, z wyłączeniem mikroprzedsiębiorców innych niż mikroprzedsiębiorcy wykonujący działalność gospodarczą od co najmniej 3 lat lub opartą na wykorzystaniu nowych technologii. Minister właściwy do spraw finansów publicznych"
+        },
+        {
+         "type": "text",
+         "text": "Bezzwrotne wsparcie finansowe"
+        },
+        {
+         "type": "text",
+         "text": "Zróżnicowanie - zgodnie z mapą pomocy regionalnej (maksymalnie 50 %), lecz nie mniej niż 10 tys. PLN i nie więcej niż 1 250 tys. PLN, w ramach danego projektu. 428,43 mln € 299,90 mln € 128,53 mln € 428,43 mln € 50,00%"
+        },
+        {
+         "type": "text",
+         "text": "|70,00 %"
+        },
+        {
+         "type": "text",
+         "text": "30,00%"
+        },
+        {
+         "type": "text",
+         "text": "35,00 % 15,00 %"
+        },
+        {
+         "type": "text",
+         "text": "|50,00 %"
         },
         {
          "type": "note",
@@ -953,63 +1076,83 @@
         },
         {
          "type": "note",
-         "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+         "text": "[Strona 25 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
         },
         {
-         "type": "ocr",
-         "text": "Ostateczni Odbiorcy (beneficjenci) 1. Instytucja Zarządzająca"
+         "type": "text",
+         "text": "Ostateczni Odbiorcy (beneficjenci)"
         },
         {
-         "type": "ocr",
+         "type": "text",
+         "text": "Instytucja Płatnicza"
+        },
+        {
+         "type": "text",
+         "text": "Maksymalna wysokość pomocy (w % kwalifikujących się wydatków)"
+        },
+        {
+         "type": "text",
+         "text": "Wkład publiczny w środkach ogółem (w %) Wkład EFRR w całości środków publicznych (w %) Publiczny wkład krajowy w całości środków publicznych (w %) Wkład EFRR w środkach ogółem (w %) Wkład publiczny krajowy w środkach ogółem (w %) Wkład środków prywatnych w środkach ogółem (w %)"
+        },
+        {
+         "type": "text",
+         "text": "."
+        },
+        {
+         "type": "text",
+         "text": "Skład Grupy Roboczej PT"
+        },
+        {
+         "type": "text",
+         "text": "1. Instytucja Zarządzająca"
+        },
+        {
+         "type": "text",
          "text": "2. Instytucje Pośredniczące"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "3. Beneficjenci Końcowi (instytucje wdrażające) 4, Komitet Monitorujący"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "5. RIF (wnioski składa PARP)"
         },
         {
-         "type": "ocr",
+         "type": "text",
          "text": "6. Grupy Robocze do spraw oceny projektów"
         },
         {
-         "type": "ocr",
-         "text": "7. Grupa Robocza PT Instytucja Płatnicza Minister właściwy do spraw finansów publicznych"
+         "type": "text",
+         "text": "7. Grupa Robocza PT Minister właściwy do spraw finansów publicznych"
         },
         {
-         "type": "ocr",
-         "text": "Maksymalna wysokość 100,00 % (wsparcie nie jest pomocą publiczną) pomocy (w % kwalifikujących się wydatków)"
+         "type": "text",
+         "text": "100,00 % (wsparcie nie jest pomocą publiczną)"
         },
         {
-         "type": "ocr",
-         "text": "Wkład publiczny w środkach ogółem 100,00 % (w %)"
+         "type": "text",
+         "text": "100,00 %"
         },
         {
-         "type": "ocr",
-         "text": "Wkład EFRR w całości środków 75,00 % publicznych (w %)"
+         "type": "text",
+         "text": "75,00 %"
         },
         {
-         "type": "ocr",
-         "text": "Publiczny wkład krajowy w całości 25,00 % środków publicznych (w %)"
+         "type": "text",
+         "text": "25,00 %"
         },
         {
-         "type": "ocr",
-         "text": "Wkład EFRR w środkach ogółem (w %) 75,00 %"
+         "type": "text",
+         "text": "75,00 % 25,00 %"
         },
         {
-         "type": "ocr",
-         "text": "Wkład publiczny krajowy w środkach 25,00 % ogółem (w %)"
+         "type": "text",
+         "text": "0,00 %"
         },
         {
-         "type": "ocr",
-         "text": "Wkład środków prywatnych w środkach 0,00 % ogółem (w %)"
-        },
-        {
-         "type": "ocr",
-         "text": ". Przedstawiciele instytucji zaangażowanych Skład Grupy Roboczej PT w realizację SPO-WKP.”"
+         "type": "text",
+         "text": "Przedstawiciele instytucji zaangażowanych w realizację SPO-WKP.”"
         }
        ]
       },
@@ -1064,7 +1207,7 @@
         },
         {
          "type": "text",
-         "text": "Tabela finansowa działania 3.1 (w mln €€ ) wanie projektu na poziomie regionalnym i lokalnym,",
+         "text": "Tabela finansowa działania 3.1 (w mln €€) wanie projektu na poziomie regionalnym i lokalnym,",
          "quoted": true
         },
         {
@@ -1136,15 +1279,47 @@
         },
         {
          "type": "note",
-         "text": "[Strona 28 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+         "text": "[Strona 28 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
         },
         {
-         "type": "ocr",
-         "text": "Publiczne wsparcie finansowe ogółem 2 300 004 €"
+         "type": "text",
+         "text": "Publiczne wsparcie finansowe ogółem"
         },
         {
-         "type": "ocr",
-         "text": "Wsparcie finansowe z EFRR 1 725 003 € Publiczne wsparcie finansowe krajowe 575 001 € Środki prywatne 0,00 € Wkład publiczny w środkach ogółem 100% (w %) Wkład EFRR w całości środków 75% publicznych (w %) Publiczny wkład krajowy 25% w całości środków publicznych (w %) Wkład EFRR w środkach ogółem 75% (w %) Wkład publiczny krajowy 25 % w środkach ogółem (w %) Wkład środków prywatnych 0% w środkach ogółem (w %) Skład Grupy Roboczej PT Przedstawiciele instytucji zaangażowanych w realizację SPO-WKP.”"
+         "type": "text",
+         "text": "Wsparcie finansowe z EFRR Publiczne wsparcie finansowe krajowe Środki prywatne Wkład publiczny w środkach ogółem (w %) Wkład EFRR w całości środków publicznych (w %) Publiczny wkład krajowy w całości środków publicznych (w %) Wkład EFRR w środkach ogółem (w %) Wkład publiczny krajowy w środkach ogółem (w %) Wkład środków prywatnych w środkach ogółem (w %) Skład Grupy Roboczej PT"
+        },
+        {
+         "type": "text",
+         "text": "2 300 004 €"
+        },
+        {
+         "type": "text",
+         "text": "1 725 003 € 575 001 € 0,00 € 100%"
+        },
+        {
+         "type": "text",
+         "text": "75%"
+        },
+        {
+         "type": "text",
+         "text": "25%"
+        },
+        {
+         "type": "text",
+         "text": "75%"
+        },
+        {
+         "type": "text",
+         "text": "25 %"
+        },
+        {
+         "type": "text",
+         "text": "0%"
+        },
+        {
+         "type": "text",
+         "text": "Przedstawiciele instytucji zaangażowanych w realizację SPO-WKP.”"
         }
        ]
       },
@@ -1234,7 +1409,7 @@
       },
       {
        "type": "text",
-       "text": "„Tablica finansowa dla Uzupełnienia SPO-WKP według Priorytetów i działań (zobowiązania) — ogółem 2004—2006 (€) w cenach z 2004 r. * Dziennik Ustaw Nr 233 — 11537 — Poz. 1691",
+       "text": "„Tablica finansowa dla Uzupełnienia SPO-WKP według Priorytetów i działań (zobowiązania) — ogółem 2004—2006 (€) w cenach z 2004 r. *",
        "quoted": true
       },
       {
@@ -1243,7 +1418,7 @@
       },
       {
        "type": "text",
-       "text": "W planach finansowych ujęte są tylko koszty kwalifikowane (rozporządzenie 448/2004.).”, Dziennik Ustaw Nr 233 — 11538 — Poz. 1691",
+       "text": "W planach finansowych ujęte są tylko koszty kwalifikowane (rozporządzenie 448/2004.).”,",
        "quoted": true
       },
       {
@@ -1268,7 +1443,7 @@
       },
       {
        "type": "text",
-       "text": "———————— Europejski Fundusz Społeczny (zang. European Social Fund — ESF). Europejski Fundusz Orientacji iGwarancji wRolnictwie (zang. European Agriculture Guidance and Guarantee Fund — EAGGE). Finansowy Instrument Wspierania Rybołówstwa (zang. Financial Instrument for Fisheries Guidance — FIFG). Dziennik Ustaw Nr 233 — 11539 — Poz. 1691",
+       "text": "———————— Europejski Fundusz Społeczny (zang. European Social Fund — ESF). Europejski Fundusz Orientacji iGwarancji wRolnictwie (zang. European Agriculture Guidance and Guarantee Fund — EAGGE). Finansowy Instrument Wspierania Rybołówstwa (zang. Financial Instrument for Fisheries Guidance — FIFG).",
        "quoted": true
       },
       {
@@ -1317,7 +1492,7 @@
       },
       {
        "type": "text",
-       "text": "W planach finansowych ujęte są tylko koszty kwalifikowane (rozporządzenie 448/2004.).”; Dziennik Ustaw Nr 233 — 11542 — Poz. 1691",
+       "text": "W planach finansowych ujęte są tylko koszty kwalifikowane (rozporządzenie 448/2004.).”;",
        "quoted": true
       },
       {
@@ -1715,63 +1890,77 @@
         },
         {
          "type": "note",
-         "text": "[Strona 42 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+         "text": "[Strona 42 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
         },
         {
-         "type": "ocr",
-         "text": "Kierunek geograficzny wyjazdowej misji gospodarczej"
+         "type": "text",
+         "text": "Kierunek geograficzny wyjazdowej misji gospodarczej",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "- kraje UE, Rosja, Ukraina, Białoruś, Kazachstan, kraje CEFTA, USA, Kanada, |45 pkt Chiny, Japonia,"
+         "type": "text",
+         "text": "- kraje UE, Rosja, Ukraina, Białoruś, Kazachstan, kraje CEFTA, USA, Kanada, |45 pkt Chiny, Japonia,",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "pozostałe kraje."
+         "type": "text",
+         "text": "pozostałe kraje.",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Realizacja polityk horyzontalnych UE"
+         "type": "text",
+         "text": "Realizacja polityk horyzontalnych UE",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "- ochrony środowiska."
+         "type": "text",
+         "text": "- ochrony środowiska.",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Wniosek, część I, pkt 4 lub część IV pkt. 15."
+         "type": "text",
+         "text": "Wniosek, część I, pkt 4 lub część IV pkt. 15.",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Wniosek, część I, pkt 6."
+         "type": "text",
+         "text": "Wniosek, część I, pkt 6.",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "W przypadku gdy „Projekt bezpośrednio dotyczący ochrony środowiska” lub „Projekt, którego dodatkowym efektem będzie pozytywny wpływ na środowisko”."
+         "type": "text",
+         "text": "W przypadku gdy „Projekt bezpośrednio dotyczący ochrony środowiska” lub „Projekt, którego dodatkowym efektem będzie pozytywny wpływ na środowisko”.",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "- równych szans."
+         "type": "text",
+         "text": "- równych szans.",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Wniosek, część I, pkt 7."
+         "type": "text",
+         "text": "Wniosek, część I, pkt 7.",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "W przypadku gdy „Projekt zorientowany na kwestie równych szans kobiet i mężczyzn” lub „Projekt pozytywny pod względem równych szans kobiet i mężczyzn”."
+         "type": "text",
+         "text": "W przypadku gdy „Projekt zorientowany na kwestie równych szans kobiet i mężczyzn” lub „Projekt pozytywny pod względem równych szans kobiet i mężczyzn”.",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "- rozwoju społeczeństwa informacyjnego."
+         "type": "text",
+         "text": "- rozwoju społeczeństwa informacyjnego.",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "Wniosek, część I, pkt 8."
+         "type": "text",
+         "text": "Wniosek, część I, pkt 8.",
+         "quoted": true
         },
         {
-         "type": "ocr",
-         "text": "W przypadku gdy projekt ma pozytywny wpływ na zagadnienia z zakresu społeczeństwa informacyjnego."
+         "type": "text",
+         "text": "W przypadku gdy projekt ma pozytywny wpływ na zagadnienia z zakresu społeczeństwa informacyjnego.",
+         "quoted": true
         },
         {
          "type": "text",
@@ -2008,7 +2197,7 @@
      "children": [
       {
        "type": "text",
-       "text": "„Załącznik 10a — Schemat obiegu dokumentów i przebiegu kontroli w ramach SPO-WKP dla działań 1.1, 1.2, 1.3, 1.4, 1.5, 2.2 oraz 2.4 Dziennik Ustaw Nr 233 — 11549 — Poz. 1691",
+       "text": "„Załącznik 10a — Schemat obiegu dokumentów i przebiegu kontroli w ramach SPO-WKP dla działań 1.1, 1.2, 1.3, 1.4, 1.5, 2.2 oraz 2.4",
        "quoted": true
       },
       {
@@ -2117,7 +2306,7 @@
       },
       {
        "type": "text",
-       "text": "——————— Zgodnie z zarządzeniem nr 31 Ministra Rozwoju Regionalnego z dnia 3 listopada 2006 r. uchylającym zarządzenie w sprawie powołania Komitetu Sterującego Sektorowego Programu Operacyjnego Wzrost konkurencyjności przedsiębiorstw, lata 2004—2006, Komitet Sterujący został zniesiony. Dziennik Ustaw Nr 233 — 11553 — Poz. 1691",
+       "text": "——————— Zgodnie z zarządzeniem nr 31 Ministra Rozwoju Regionalnego z dnia 3 listopada 2006 r. uchylającym zarządzenie w sprawie powołania Komitetu Sterującego Sektorowego Programu Operacyjnego Wzrost konkurencyjności przedsiębiorstw, lata 2004—2006, Komitet Sterujący został zniesiony.",
        "quoted": true
       },
       {
@@ -2166,7 +2355,7 @@
       },
       {
        "type": "text",
-       "text": "Załącznik 10b — Schemat obiegu dokumentów i przebiegu kontroli w ramach SPO-WKP dla działań 2.1 oraz 2.3 Dziennik Ustaw Nr 233 — 11555 — Poz. 1691",
+       "text": "Załącznik 10b — Schemat obiegu dokumentów i przebiegu kontroli w ramach SPO-WKP dla działań 2.1 oraz 2.3",
        "quoted": true
       },
       {
@@ -2219,7 +2408,7 @@
       },
       {
        "type": "text",
-       "text": "——————— Zgodnie zzarządzeniem nr31 Ministra Rozwoju Regionalnego zdnia 3 listopada 2006r. uchylającym zarządzenie wsprawie powołania Komitetu Sterującego Sektorowego Programu Operacyjnego Wzrost konkurencyjności przedsiębiorstw, lata 2004—2006, Komitet Sterujący został zniesiony. Dziennik Ustaw Nr 233 — 11557 — Poz. 1691",
+       "text": "——————— Zgodnie zzarządzeniem nr31 Ministra Rozwoju Regionalnego zdnia 3 listopada 2006r. uchylającym zarządzenie wsprawie powołania Komitetu Sterującego Sektorowego Programu Operacyjnego Wzrost konkurencyjności przedsiębiorstw, lata 2004—2006, Komitet Sterujący został zniesiony.",
        "quoted": true
       },
       {
@@ -2276,7 +2465,7 @@
       },
       {
        "type": "text",
-       "text": "Załącznik 10c — Schemat obiegu dokumentów i przebiegu kontroli w ramach SPO-WKP dla działań pomocy technicznej (3.1, 3.2, 3.3 oraz 3.4) Dziennik Ustaw Nr 233 — 11559 — Poz. 1691",
+       "text": "Załącznik 10c — Schemat obiegu dokumentów i przebiegu kontroli w ramach SPO-WKP dla działań pomocy technicznej (3.1, 3.2, 3.3 oraz 3.4)",
        "quoted": true
       },
       {
@@ -2285,7 +2474,7 @@
       },
       {
        "type": "text",
-       "text": "——————— Zgodnie zzarządzeniem nr31 Ministra Rozwoju Regionalnego zdnia 3 listopada 2006r. uchylającym zarządzenie wsprawie powołania Komitetu Sterującego Sektorowego Programu Operacyjnego Wzrost konkurencyjności przedsiębiorstw, lata 2004—2006, Komitet Sterujący został zniesiony. Dziennik Ustaw Nr 233 — 11560 — Poz. 1691",
+       "text": "——————— Zgodnie zzarządzeniem nr31 Ministra Rozwoju Regionalnego zdnia 3 listopada 2006r. uchylającym zarządzenie wsprawie powołania Komitetu Sterującego Sektorowego Programu Operacyjnego Wzrost konkurencyjności przedsiębiorstw, lata 2004—2006, Komitet Sterujący został zniesiony.",
        "quoted": true
       },
       {

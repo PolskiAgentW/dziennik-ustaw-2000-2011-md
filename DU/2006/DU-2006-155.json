@@ -1,7 +1,7 @@
 {
  "eli": "DU/2006/155",
  "title": "Rozporządzenie Ministra Finansów z dnia 3 lutego 2006 r. zmieniające rozporządzenie w sprawie kwartalnych i dodatkowych rocznych sprawozdań finansowych i statystycznych zakładów ubezpieczeń",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2006/155/text.pdf",
  "body": [
   {
@@ -498,22 +498,17 @@
    "num": "4",
    "path": "par_4",
    "text": "Rozporządzenie wchodzi w życie z dniem 8 lutego 2006 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Finansów: w z. E. Suchocka-Roguska"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: w z. E. Suchocka-Roguska"
   }
  ],
  "annexes": [
   {
    "heading": "Załączniki do rozporządzenia Ministra Finansów z dnia 3 lutego 2006 r. (poz. 155) Załącznik nr 1",
    "body": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 20 — 810 — Poz. 155"
-    },
     {
      "type": "note",
      "text": "[Na stronie 5 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
@@ -538,47 +533,56 @@
     },
     {
      "type": "note",
-     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Nazwa zakładu ubezpieczeń na życi Dodatkowe sprawozdanie roczne sporządzone na dzień"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "XIX. Wykaz aktywów stanowiących pokrycie rezerw techniczno - ubezpieczeniowych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "19.1 Aktywa stanowiące pokrycie rezerw techniczna - ubezpieczeniowych dla ubezpieczeń innych niż ubezpieczenia na życie, gdy ryzyko lokaty (inwestycyjne) ponosi ubezpieczający"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wyszczególnienie"
     },
     {
-     "type": "ocr",
-     "text": "23. aktywowane koszty akwizycji w zakresie zgadnym ze sposobem ustalania rezerwy składek lub rezerwy ubezpieczeń na życie w dziale | załącznika da ustawy oraz w zakresie zgadnym ze sposobem ustalania rezerwy składek w dziale II załącznika do ustawy"
+     "type": "ust",
+     "num": "23",
+     "path": "ust_23",
+     "text": "aktywowane koszty akwizycji w zakresie zgadnym ze sposobem ustalania rezerwy składek lub rezerwy ubezpieczeń na życie w dziale | załącznika da ustawy oraz w zakresie zgadnym ze sposobem ustalania rezerwy składek w dziale II załącznika do ustawy",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "24. udział reasekuratorów w rezerwach techniczno - ubezpieczeniowych 24.1 udział reasekuratorów z pozytywną opinią organu nadzoru 24.2 pozostały 24.2.1 zabezpieczony hipotecznie albo przez instytucje finansowe 24.2.2 pozostały"
+     "type": "ust",
+     "num": "24",
+     "path": "ust_24",
+     "text": "udział reasekuratorów w rezerwach techniczno - ubezpieczeniowych 24.1 udział reasekuratorów z pozytywną opinią organu nadzoru 24.2 pozostały 24.2.1 zabezpieczony hipotecznie albo przez instytucje finansowe 24.2.2 pozostały",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "25. inne aktywa za zezwoleniem organu nadzoru, zgodnie z art. 154 ust. 9 ustawy"
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "inne aktywa za zezwoleniem organu nadzoru, zgodnie z art. 154 ust. 9 ustawy",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "26. Razem pozostałe aktywa . Nadwyżka (niedobór) aktywów stanowiących pokrycie rezerw techniczno - ubezpieczeniowych"
-    },
-    {
-     "type": "ocr",
-     "text": "sia, FOKU"
-    },
-    {
-     "type": "ocr",
-     "text": "% . % Zagraniczne % Zagraniczne % Krajowe - rezerw rezerw - kraje UE rezerw - kraje poza UE rezerw c"
+     "type": "ust",
+     "num": "26",
+     "path": "ust_26",
+     "text": "Razem pozostałe aktywa . Nadwyżka (niedobór) aktywów stanowiących pokrycie rezerw techniczno - ubezpieczeniowych sia, FOKU",
+     "children": [
+      {
+       "type": "text",
+       "text": "% . % Zagraniczne % Zagraniczne % Krajowe - rezerw rezerw - kraje UE rezerw - kraje poza UE rezerw c"
+      }
+     ]
     }
    ]
   },
@@ -591,63 +595,87 @@
     },
     {
      "type": "note",
-     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Nazwa zakładu ubezpieczeń na życie te Dodatkowe sprawozdanie roczne sporządzone na dzień"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": ".. roku"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "XIX. Wykaz aktywów stanowiących pokrycie rezerw techniczno - ubezpieczeniowych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "19.2 Aktywa netto stanowiące pokrycie rezerw techniczno - ubezpieczeniowych z tytułu umów ubezpieczenia na życie, gdy ryzyko lokaty (inwestycyjne) ponosi ubezpieczający"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wyszczególnienie Zagraniczne Zagraniczne ¥ 9 rezerw rezerw - wale UE rezerw - EE SEI poza UE a"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "się od nich odpisów amortyzacyjnych ustalonych z zachowaniem zasady ostrożności"
     },
     {
-     "type": "ocr",
-     "text": "23. środki pieniężne PT 23.1 zgromadzone na rachunku bankowym 23.2 pozostate"
+     "type": "ust",
+     "num": "23",
+     "path": "ust_23",
+     "text": "środki pieniężne PT 23.1 zgromadzone na rachunku bankowym 23.2 pozostałe",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "24. zarachowane czynsze i odsetki PT"
+     "type": "ust",
+     "num": "24",
+     "path": "ust_24",
+     "text": "zarachowane czynsze i odsetki PT",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "25. aktywowane koszty akwizycji w zakresie zgodnym ze sposobem ustalania rezerwy składek lub rezerwy ubezpieczeń na życie w dziale I załącznika do ustawy oraz w zakresie zgodnym ze sposobem ustalania rezerwy| składek w dziale II załącznika do ustawy"
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "aktywowane koszty akwizycji w zakresie zgodnym ze sposobem ustalania rezerwy składek lub rezerwy ubezpieczeń na życie w dziale I załącznika do ustawy oraz w zakresie zgodnym ze sposobem ustalania rezerwy| składek w dziale II załącznika do ustawy",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "26. udział reasekuratorów w rezerwach techniczno - ubezpieczeniowych 26.1 udział reasekuratorów z pozytywną opinią organu nadzoru 26.2 pozostał 26.2.1 zabezpieczony hipotecznie albo przez instytucje finansowe 26.2.2 pozostał PT"
+     "type": "ust",
+     "num": "26",
+     "path": "ust_26",
+     "text": "udział reasekuratorów w rezerwach techniczno - ubezpieczeniowych 26.1 udział reasekuratorów z pozytywną opinią organu nadzoru 26.2 pozostał 26.2.1 zabezpieczony hipotecznie albo przez instytucje finansowe 26.2.2 pozostał PT",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "27. inne aktywa za zezwoleniem organu nadzoru, zgodniej z art. 154 ust. 9 ustawy"
+     "type": "ust",
+     "num": "27",
+     "path": "ust_27",
+     "text": "inne aktywa za zezwoleniem organu nadzoru, zgodniej z art. 154 ust. 9 ustawy",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "28. Zobowiązania z tytułu transakcji zawartych na rynku finansowym"
+     "type": "ust",
+     "num": "28",
+     "path": "ust_28",
+     "text": "Zobowiązania z tytułu transakcji zawartych na rynku finansowym",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "29. Pozostałe zobowiązania PT"
+     "type": "ust",
+     "num": "29",
+     "path": "ust_29",
+     "text": "Pozostałe zobowiązania PT",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "30. Razem pozostate aktywa iC. Nadwyżka (niedobór) aktywów stanowiących pokrycie rezerw techniczno - ubezpieczeniowych"
+     "type": "ust",
+     "num": "30",
+     "path": "ust_30",
+     "text": "Razem pozostałe aktywa iC. Nadwyżka (niedobór) aktywów stanowiących pokrycie rezerw techniczno - ubezpieczeniowych",
+     "children": []
     }
    ]
   },
@@ -686,31 +714,44 @@
     },
     {
      "type": "note",
-     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Nazwa zakładu ubezpieczeń na życie Sprawozdanie kwartalne sporządzone na dzień .................... roku"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "XIV. Wykaz aktywów stanowiących pokrycie rezerw techniczno - ubezpieczeniowych"
     },
     {
-     "type": "ocr",
-     "text": "14.1 Aktywa stanowiące pokrycie rezerw techniczno - ubezpieczeniowych dla ubezpieczeń innych niż ubezpieczenia na życie, gdy ryzyko lokaty (inwestycyjne) ponosi ubezpieczający was % a % Zagraniczne % Zagraniczne % Wyszczególnienie Razem rezerw Krajowe rezerw - kraje UE rezerw - kraje poza UE rezerw A B c D E F G H 1"
+     "type": "text",
+     "text": "14.1 Aktywa stanowiące pokrycie rezerw techniczno - ubezpieczeniowych dla ubezpieczeń innych niż ubezpieczenia na życie, gdy ryzyko lokaty (inwestycyjne) ponosi ubezpieczający"
     },
     {
-     "type": "ocr",
-     "text": "24. udział reasekuratorów w rezerwach techniczno - ubezpieczeniowych 24.1 udział reasekuratorów z pozytywną opinią organu nadzoru 24.2 pozostały 24.2.1 zabezpieczony hipotecznie albo przez instytucje finansowe 24.2.2 pozostały"
+     "type": "text",
+     "text": "was % a % Zagraniczne % Zagraniczne % Wyszczególnienie Razem rezerw Krajowe rezerw - kraje UE rezerw - kraje poza UE rezerw A B c D E F G H 1"
     },
     {
-     "type": "ocr",
-     "text": "25. inne aktywa za zezwoleniem organu nadzoru, zgodnie z art. 154 ust. 9 ustawy"
+     "type": "ust",
+     "num": "24",
+     "path": "ust_24",
+     "text": "udział reasekuratorów w rezerwach techniczno - ubezpieczeniowych 24.1 udział reasekuratorów z pozytywną opinią organu nadzoru 24.2 pozostały 24.2.1 zabezpieczony hipotecznie albo przez instytucje finansowe 24.2.2 pozostały",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "26. Razem pozostałe aktywa IC. Nadwyżka (niedobór) aktywów stanowiących pokrycie rezerw techniczno - ubezpieczeniowych"
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "inne aktywa za zezwoleniem organu nadzoru, zgodnie z art. 154 ust. 9 ustawy",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "26",
+     "path": "ust_26",
+     "text": "Razem pozostałe aktywa IC. Nadwyżka (niedobór) aktywów stanowiących pokrycie rezerw techniczno - ubezpieczeniowych",
+     "children": []
     }
    ]
   },
@@ -723,83 +764,109 @@
     },
     {
      "type": "note",
-     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Nazwa zakładu ubezpieczeń na życie Sprawozdanie kwartalne sporządzone na dzień"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "XIV. Wykaz aktywów stanowiących pokrycie rezerw techniczno - ubezpieczeniowych"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": ". roku"
     },
     {
-     "type": "ocr",
-     "text": "14.2 Aktywa netto stanowiące pokrycie rezerw techniczno - ubezpieczeniowych z tytułu umów ubezpieczenia na życie, gdy ryzyko | okaty (inwestycyjne) ponosi ubezpieczający"
+     "type": "text",
+     "text": "14.2 Aktywa netto stanowiące pokrycie rezerw techniczno - ubezpieczeniowych z tytułu umów ubezpieczenia na życie, gdy ryzyko | o katy (inwestycyjne) ponosi ubezpieczający"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wyszczególnienie | A]"
     },
     {
-     "type": "ocr",
-     "text": "23. środki pieniężne 23.1 zgromadzone na rachunku bankowym"
+     "type": "ust",
+     "num": "23",
+     "path": "ust_23",
+     "text": "środki pieniężne 23.1 zgromadzone na rachunku bankowym",
+     "children": [
+      {
+       "type": "text",
+       "text": "Krajowe"
+      },
+      {
+       "type": "text",
+       "text": "Zagraniczne % - kraje UE rezerw"
+      },
+      {
+       "type": "text",
+       "text": "Zagraniczne % - kraje poza UE rezerw"
+      },
+      {
+       "type": "text",
+       "text": "23.2 pozostałe"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "Krajowe"
+     "type": "ust",
+     "num": "24",
+     "path": "ust_24",
+     "text": "zarachowane czynsze i odsetki",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Zagraniczne % - kraje UE rezerw"
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "aktywowane koszty akwizycji w zakresie zgodnym ze sposobem ustalania rezerwy składek lub rezerwy ubezpieczeń na życie w dziale I załącznika do ustawy oraz w zakresie zgodnym ze sposobem ustalania rezerw: składek w dziale II załącznika do ustawy",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Zagraniczne % - kraje poza UE rezerw"
+     "type": "ust",
+     "num": "26",
+     "path": "ust_26",
+     "text": "udział reasekuratorów w rezerwach techniczno -",
+     "children": [
+      {
+       "type": "text",
+       "text": "26.1 udział reasekuratorów z pozytywną opinią organu nadzoru"
+      },
+      {
+       "type": "text",
+       "text": "26.2.1 zabezpieczony hipotecznie albo przez instytucje finansowe 26.2.2 pozostały"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "23.2 pozostałe"
+     "type": "ust",
+     "num": "27",
+     "path": "ust_27",
+     "text": "inne aktywa za zezwoleniem organu nadzoru, zgodnie z art. 154 ust. 9 ustawy",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "24. zarachowane czynsze i odsetki"
+     "type": "ust",
+     "num": "28",
+     "path": "ust_28",
+     "text": "Zobowiązania z tytułu transakcji zawartych na rynku finansowym",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "25. aktywowane koszty akwizycji w zakresie zgodnym ze sposobem ustalania rezerwy składek lub rezerwy ubezpieczeń na życie w dziale I załącznika do ustawy oraz w zakresie zgodnym ze sposobem ustalania rezerw: składek w dziale II załącznika do ustawy"
+     "type": "ust",
+     "num": "29",
+     "path": "ust_29",
+     "text": "Pozostałe zobowiązania",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "26. udział reasekuratorów w rezerwach techniczno -"
-    },
-    {
-     "type": "ocr",
-     "text": "26.1 udział reasekuratorów z pozytywną opinią organu nadzoru"
-    },
-    {
-     "type": "ocr",
-     "text": "26.2.1 zabezpieczony hipotecznie albo przez instytucje finansowe 26.2.2 pozostały"
-    },
-    {
-     "type": "ocr",
-     "text": "27. inne aktywa za zezwoleniem organu nadzoru, zgodnie z art. 154 ust. 9 ustawy"
-    },
-    {
-     "type": "ocr",
-     "text": "28. Zobowiązania z tytułu transakcji zawartych na rynku finansowym"
-    },
-    {
-     "type": "ocr",
-     "text": "29. Pozostałe zobowiązania"
-    },
-    {
-     "type": "ocr",
-     "text": "30. Razem pozostałe aktywa IC. Nadwyżka (niedobór) aktywów stanowiących pokrycie rezerw techniczno - ubezpieczeniowych"
+     "type": "ust",
+     "num": "30",
+     "path": "ust_30",
+     "text": "Razem pozostałe aktywa IC. Nadwyżka (niedobór) aktywów stanowiących pokrycie rezerw techniczno - ubezpieczeniowych",
+     "children": []
     }
    ]
   },
@@ -838,47 +905,54 @@
     },
     {
      "type": "note",
-     "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa zakładu ubezpieczeń pozostałych osobowych i majątkowych Dodatkowe sprawozdanie roczne sporządzone na dzień"
-    },
-    {
-     "type": "ocr",
-     "text": "XIX. Wykaz aktywów stanowiących pokrycie rezerw techniczno - ubezpieczeniowych 19.1 Aktywa stanowiące pokrycie rezerw techniczno - ubezpieczeniowych"
-    },
-    {
-     "type": "ocr",
-     "text": "Wyszczególnienie"
-    },
-    {
-     "type": "ocr",
-     "text": "Krajowe"
-    },
-    {
-     "type": "ocr",
-     "text": "Zagraniczne - kraje UE"
-    },
-    {
-     "type": "ocr",
-     "text": "Zagraniczne - kraje poza UE"
-    },
-    {
-     "type": "ocr",
-     "text": "25. inne aktywa za zezwoleniem organu nadzoru, zgodnie zart. 154 ust. 9 ustawy"
-    },
-    {
-     "type": "ocr",
-     "text": "26. Razem pozostałe aktywa IC. Nadwyżka (niedobór) aktywów stanowiących pokrycie rezerw techniczno - ubezpieczeniowych"
-    },
-    {
-     "type": "note",
-     "text": "[Na stronie 23 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 22 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
      "type": "text",
-     "text": "⁴¹r n k i n zc ą ł a Z"
+     "text": "Nazwa zakładu ubezpieczeń pozostałych osobowych i majątkowych Dodatkowe sprawozdanie roczne sporządzone na dzień"
+    },
+    {
+     "type": "text",
+     "text": "XIX. Wykaz aktywów stanowiących pokrycie rezerw techniczno - ubezpieczeniowych 19.1 Aktywa stanowiące pokrycie rezerw techniczno - ubezpieczeniowych"
+    },
+    {
+     "type": "text",
+     "text": "Wyszczególnienie"
+    },
+    {
+     "type": "text",
+     "text": "Krajowe"
+    },
+    {
+     "type": "text",
+     "text": "Zagraniczne - kraje UE"
+    },
+    {
+     "type": "text",
+     "text": "Zagraniczne - kraje poza UE"
+    },
+    {
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "inne aktywa za zezwoleniem organu nadzoru, zgodnie zart. 154 ust. 9 ustawy",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "26",
+     "path": "ust_26",
+     "text": "Razem pozostałe aktywa IC. Nadwyżka (niedobór) aktywów stanowiących pokrycie rezerw techniczno - ubezpieczeniowych",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Na stronie 23 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "⁴¹r n k i n zc ą ł a Z"
+      }
+     ]
     }
    ]
   },
@@ -900,23 +974,29 @@
     },
     {
      "type": "note",
-     "text": "[Strona 26 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 26 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Nazwa zakładu ubezpieczeń pozostałych osobowych i majątkowych Sprawozdanie kwartalne sporządzone na dzień .. roku"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "XIII. Wykaz aktywów stanowiących pokrycie rezerw techniczno - ubezpieczeniowych 13.1 Aktywa stanowiące pokrycie rezerw techniczno - ubezpieczeniowych Wyszczególnienie Zagraniczne Zagrali ne ¥ a a a - [+e UE a - M re poza UE {ee 24.2.1 ERO Z APE R hipotecznie albo przez instytucje finansowe. 24.2.2 pozostały"
     },
     {
-     "type": "ocr",
-     "text": "25. inne aktywa za zezwoleniem organu nadzoru, zgodnie z art. 154 ust. 9 ustawy"
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "inne aktywa za zezwoleniem organu nadzoru, zgodnie z art. 154 ust. 9 ustawy",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "26. Razem pozostałe akt EEEE KENA IC. Nadwyżka (niedobór) aktywów stanowiących pokrycie rezerw techniczno - ubezpieczeniowych"
+     "type": "ust",
+     "num": "26",
+     "path": "ust_26",
+     "text": "Razem pozostałe akt EEEE KENA IC. Nadwyżka (niedobór) aktywów stanowiących pokrycie rezerw techniczno - ubezpieczeniowych",
+     "children": []
     }
    ]
   },
@@ -957,779 +1037,787 @@
     },
     {
      "type": "note",
-     "text": "[Strona 28 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 28 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "USTALENIE WPŁYWU UCZESTNICTWA ZAKŁADU UBEZPIECZEŃ W UBEZPIECZENIOWEJ GRUPIE KAPITAŁOWEJ NA WARTOŚĆ ŚRODKÓW WŁASNYCH TEGO ZAKŁADU UBEZPIECZEŃ"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "sporządzone na podstawie § 1 pkt 6 rozporządzenia Ministra Finansów z dnia 3 lutego 2006 r. zmieniającego rozporządzenie w sprawie kwartalnych i dodatkowych rocznych sprawozdań finansowych i statystycznych zakładów ubezpieczeń"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Za okres sprawozdawczy: Data początkowa - Data końcowa -"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Dane krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej Pełna nazwa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Ulica"
     },
     {
-     "type": "ocr",
-     "text": "Dane na temat ubezpieczeniowych grup kapitałowych Liczba ubezpieczeniowych grup kapitałowych, w sktad których wchodzi na dzień sprawozdawczy krajowy zakład ubezpieczeń"
-    },
-    {
-     "type": "ocr",
-     "text": "Zakres sprawozdania wynikający z zastosowania $ 3 rozporządzenia Ministra Finansów z dnia 6 lutego 2006 r. w sprawie szczegółowego sposobu ustalania środków własnych krajowych zakładów ubezpieczeń wchodzących w skład ubezpieczeniowej grupy kapitałowej (Dz. U. Nr 20, poz. 156): $ 3. ust. 1. ["
-    },
-    {
-     "type": "ocr",
-     "text": "§ 3. ust. 2. [~"
-    },
-    {
-     "type": "ocr",
-     "text": "Data wystania sprawozdania:"
-    },
-    {
-     "type": "ocr",
-     "text": "Liczba stron sprawozdania:"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 29 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej:"
-    },
-    {
-     "type": "ocr",
-     "text": "Sprawozdanie kwartalne / dodatkowe sprawozdanie roczne sporządzone na dzień .................... roku"
-    },
-    {
-     "type": "ocr",
-     "text": "I. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń nadrzędnego w ubezpieczeniowej grupie kapitałowej na wartość środków własnych tego zakładu ubezpieczeń"
-    },
-    {
-     "type": "ocr",
-     "text": "1.1. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń nadrzędnego w ubezpieczeniowej grupie kapitałowej na wartość środków własnych tego zakładu ubezpieczeń zgodnie z rozporządzeniem wydanym na podstawie art. 148 ust. 8 ustawy"
-    },
-    {
-     "type": "ocr",
-     "text": "Suma nadwyżek / niedoborów środków własnych podmiotów podrzędnych stosownie do proporcji posiadanego udziału"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń nadrzędnego, które wynikają z wzajemnych powiązań finansowych, o których mowa w par.10 ust.2 rozporządzenia, zakładu ubezpieczeń nadrzędnego z podmiotami podrzędnymi wymienionymi w par.10 ust.1 punkt 1) z wyłączeniem podrzędnych zakładów ubezpieczeń"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń nadrzędnego, które wynikają z wzajemnych powiązań finansowych, o których mowa w par.10 ust.2, zakładu ubezpieczeń nadrzędnego z podmiotami wymienionymi w par.10 ust.1 punkt 2) i 3) rozporządzenia"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość aktywów zakładu ubezpieczeń nadrzędnego, o których mowa w par. 5 ust. 1 p. 1) z uwzględnieniem zapisów par. 5 ust. 2 rozporządzenia"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość nieopłaconego kapitału zakładowego podlegająca wyłączeniu na mocy par. 6 ust 3. z uwzględnieniem zapisów par. 6 ust. 5 rozporządzenia"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość aktywów zakładu ubezpieczeń nadrzędnego, które finansują kapitały własne podmiotów podrzędnych będących dominującymi podmiotami ubezpieczeniowymi"
-    },
-    {
-     "type": "ocr",
-     "text": "Wpływ uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej, o którym mowa w par. 13 rozporządzenia, na wartość środków własnych tego zakładu ubezpieczeń Wpływ uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej na wartość środków własnych tego zakładu ubezpieczeń"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 30 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej:"
-    },
-    {
-     "type": "ocr",
-     "text": "Sprawozdanie kwartalne / dodatkowe sprawozdanie roczne sporządzone na dzień .................... roku"
-    },
-    {
-     "type": "ocr",
-     "text": "|. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń nadrzędnego w ubezpieczeniowej grupie kapitałowej na wartość środków własnych tego zakładu ubezpieczeń 1.2. Ustalanie nadwyżki / niedoboru środków własnych podmiotów podrzędnych krajowego zakładu ubezpieczeń nadrzędnego wchodzącego w skład ubezpieczeniowej grupy kapitałowej"
-    },
-    {
-     "type": "ocr",
-     "text": "Proporcja posiadanego Wartość elementów dopuszczalnych na Wymóg wypłacalności pokrycie wymogu podmiotu wykazanego w wypłacalności podmiotu kol. A wykazanego w kol. A po uwzględnieniu wyłączeń"
-    },
-    {
-     "type": "ocr",
-     "text": "Normy wypłacalności Kraj siedziby Rodzaj obowiązujące w kraju podmiotu podmiotu wy kazanym w kol. B co informacji dotyczących| w skład ubezpieczeniowej wykazanego w | wykazanego w | najmniej porównywalne z - - . podmiotu wykazanego grupy kapitałowej w kol. A kol. A wymogami określonymi w kol. A podmiocie wykazanym w w ustawie"
-    },
-    {
-     "type": "ocr",
-     "text": "Dostępność udziału zakładu wiarygodnych ubezpieczeń wchodzącego Nazwa podmiotu podrzędnego"
-    },
-    {
-     "type": "ocr",
-     "text": "|| A | B__ 1 CC] DD — | [ ED GH] Zakłady ubezpieczeń"
-    },
-    {
-     "type": "ocr",
-     "text": "07 JN MEJS[) Aluusizq"
-    },
-    {
-     "type": "ocr",
-     "text": "— ges —"
-    },
-    {
-     "type": "ocr",
-     "text": "GGL “20d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 31 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Nadwyżka / niedobór środków własnych podmiotu wykazanego w kol. A stosownie do proporcji posiadanego"
-    },
-    {
-     "type": "ocr",
-     "text": "Wyłączenia wynikające z zastosowania par. 11 ust. 7 rozporządzenia, o ile nie zostały wyłączone na podstawie art. 148 ust. 2"
-    },
-    {
-     "type": "ocr",
-     "text": "Decyzja organu nadzoru o proporcjonalnym zaliczaniu niedoboru wynikająca z zastosowania par. 4 ust. 3 rozporządzenia"
-    },
-    {
-     "type": "ocr",
-     "text": "Nadwyżka / niedobór środków własnych"
-    },
-    {
-     "type": "ocr",
-     "text": "07 JN MEJS[) Aluusizq"
-    },
-    {
-     "type": "ocr",
-     "text": "— 9&8 —"
-    },
-    {
-     "type": "ocr",
-     "text": "GGL “20d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 32 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej: Sprawozdanie kwartalne / dodatkowe sprawozdanie roczne sporządzone na dzień .................... roku I. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń nadrzędnego w ubezpieczeniowej grupie kapitałowej na wartość środków własnych tego zakładu ubezpieczeń 1.3. Ustalanie skorygowanych elementów dopuszczalnych na pokrycie wymogu wypłacalności podmiotów podrzędnych krajowego zakładu ubezpieczeń nadrzędnego wchodzącego w skład ubezpieczeniowej grupy kapitałowej Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń nadrzędnego, Wartość aktywów zakładu Wartość aktywów zakładu R . . Ło: . \"e . . A . . Wartość aktywów zakładu które wynikają z wzajemnych Wartość elementów ubezpieczeń nadrzędnego, o | ubezpieczeń podrzędnego, o . A . ge , . Ą Ą ubezpieczeń podrzędnego, o powiązań finansowych, o których . dopuszczalnych na pokrycie których mowa w par. 5 ust. 1 | których mowa w par. 5 ust. 1 ‘ . Nazwa podmiotu podrzednego a - \"a RE których mowa w par. 5 ust. 1 p. 3) zjmowa w par.10 ust.2 rozporządzenia, wymogu wypłacalności podmiotu p. 1) z uwzględnieniem p. 2) z uwzględnieniem WE we - 2 mA 2 uwzględnieniem zapisów par. 5 | zakładu ubezpieczeń nadrzędnego z wykazanego w kol. A zapisów par. 5 ust. 2 zapisów par. 5 ust. 2 - . . . . ust. 2 rozporzadzenia podmiotami podrzednymi rozporzadzenia rozporzadzenia wymienionymi w par.10 ust.1 punkt"
-    },
-    {
-     "type": "ocr",
-     "text": "1) z wytaczeniem podrzednych zakładów ubezpieczeń |A| 0 B___ | © |\" DD E [OE Zakłady ubezpieczeń"
-    },
-    {
-     "type": "ocr",
-     "text": "Pozostałe podmioty podrzędne BZDE"
-    },
-    {
-     "type": "ocr",
-     "text": "07 JN MEJS[) Aluusizq"
-    },
-    {
-     "type": "ocr",
-     "text": "— LE8 —"
-    },
-    {
-     "type": "ocr",
-     "text": "GGL “20d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 33 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość aktywów dominującego podmiotu ubezpieczeniowego, który Wartość jest podmiotem podrzędnym zakładu |nieopłaconego kapitału| Wartość nieopłaconego | Wartość nieopłaconego | Wartość nieopłaconego ubezpieczeń nadrzędnego, które zakładowego zakładu kapitału zakładowego kapitału zakładowego kapitału zakładowego odpowiadają elementom ubezpieczeń podlegająca wyłączeniu | podlegająca wyłączeniu | podlegająca wyłączeniu dopuszczalnym na pokrycie wymogu | podrzędnego zaliczona| na mocy par. 6 ust 2. z na mocy par. 6 ust 3. z na mocy par. 6 ust 4. z wypłacalności zakładu ubezpieczeń do elementów uwzględnieniem zapisów | uwzględnieniem zapisów | uwzględnieniem zapisów podrzędnego, w którym zakładu dopuszczalnych na par. 6 ust. 5 par. 6 ust. 5 par. 6 ust. 5 ubezpieczeń nadrzędny posiada udział pokrycie wymogu rozporządzenia rozporządzenia rozporządzenia pośredni poprzez ten dominujący wypłacalności"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń podrzędnego, które wynikają z wzajemnych powiązań finansowych, o których mowa w par.10 ust.2 rozporządzenia, zakładu ubezpieczeń podrzędnego z podmiotami podrzędnymi zakładu ubezpieczeń nadrzędnego nie"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość aktywów zakładu ubezpieczeń nadrzędnego, które finansują kapitały własne podmiotów podrzędnych będących dominującymi podmiotami ubezpieczeniowymi, o ile nie zostały wyłączone na podstawie art. 148 ust. 2a"
-    },
-    {
-     "type": "ocr",
-     "text": "będącymi zakładami ubezpieczeń podmiot ubezpieczeniowy"
-    },
-    {
-     "type": "ocr",
-     "text": "07 JN MEJS[) Aluusizq"
-    },
-    {
-     "type": "ocr",
-     "text": "— 8&8 —"
-    },
-    {
-     "type": "ocr",
-     "text": "GGL “20d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 34 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość nieopłaconego kapitału zakładowego podmiotu wykazanego w | Wartość przyszłych zysków kol. A dopuszczalna na zakładu ubezpieczeń na pokrycie wymogu życie podrzędnego wypłacalności krajowego |dopuszczalnych na pokrycie zakładu ubezpieczeń |wymogu wypłacalności (par. wchodzącego w skład 7 rozporządzenia) ubezpieczeniowej grupy kapitałowej"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń podrzędnego, które nie mogą być efektywnie postawione do dyspozycji zakładu ubezpieczeń nadrzędnego (par. 8 rozporządzenia)"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość elementów Wartość elementów dopuszczalnych na dopuszczalnych na pokrycie wymogu pokrycie wymogu wypłacalności wypłacalności innych niż| podmiotu wykazanego te, o których mowa w par. w kol. A po 6, 7, 8 rozporządzenia uwzględnieniu wyłączeń"
-    },
-    {
-     "type": "ocr",
-     "text": "Minimum z wartości wykazanej w kol. Ri wymogu wypłacalności podmiotu wykazanego w kol. A"
-    },
-    {
-     "type": "ocr",
-     "text": "Suma elementów określona w par. 9 rozporządzenia"
-    },
-    {
-     "type": "ocr",
-     "text": "07 JN MEJS[) Aluusizq"
-    },
-    {
-     "type": "ocr",
-     "text": "— 6&8 —"
-    },
-    {
-     "type": "ocr",
-     "text": "GGL “20d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 35 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej:"
-    },
-    {
-     "type": "ocr",
-     "text": "Sprawozdanie kwartalne / dodatkowe sprawozdanie roczne sporządzone na dzień .................... roku"
-    },
-    {
-     "type": "ocr",
-     "text": "Il. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej, którego podmiotem dominującym nie podlegającym nadzorowi w państwie członkowskim Unii Europejskiej jest dominujący podmiot ubezpieczeniowy, zakład ubezpieczeń wykonujący działalność wyłącznie w zakresie reasekuracji lub zagraniczny zakład ubezpieczeń z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej, na wartość środków własnych tego zakładu ubezpieczeń 2.1. Informacja o podmiocie wiodącym krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej Forma prawna zgodnie z prawem kraju siedziby"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa podmiotu wiodącego w ubezpieczeniowej grupy kapitałowej"
-    },
-    {
-     "type": "ocr",
-     "text": "Adres siedziby podmiotu Rodzaj podmiotu"
-    },
-    {
-     "type": "ocr",
-     "text": "07 JN MEJS[) Aluusizq"
-    },
-    {
-     "type": "ocr",
-     "text": "— 078 —"
-    },
-    {
-     "type": "ocr",
-     "text": "GGL “20d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 36 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Poz."
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej: Nazwa podmiotu wiodącego: Sprawozdanie kwartalne / dodatkowe sprawozdanie roczne sporządzone na dzień .................... roku"
-    },
-    {
-     "type": "ocr",
-     "text": "ll. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej, którego podmiotem dominującym nie podlegającym nadzorowi w państwie członkowskim Unii Europejskiej jest dominujący podmiot ubezpieczeniowy, zakład ubezpieczeń wykonujący działalność wyłącznie w zakresie reasekuracji lub zagraniczny zakład ubezpieczeń z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej, na wartość środków własnych tego zakładu ubezpieczeń"
-    },
-    {
-     "type": "ocr",
-     "text": "2.2. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej na wartość środków własnych tego zakładu ubezpieczeń zgodnie z rozporządzeniem wydanym na podstawie art. 148 ust. 8 ustawy"
-    },
-    {
-     "type": "ocr",
-     "text": "Suma nadwyżek / niedoborów środków własnych podmiotów podrzędnych stosownie do proporcji posiadanego udziału"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń nadrzędnego, które wynikają z wzajemnych powiązań finansowych, o których mowa w par.10 ust.2 rozporządzenia, zakładu ubezpieczeń nadrzędnego z podmiotami podrzędnymi wymienionymi w par.10 ust.1 punkt 1) z wyłączeniem podrzędnych zakładów ubezpieczeń"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń nadrzędnego, które wynikają z wzajemnych powiązań finansowych, o których mowa w par.10 ust.2, zakładu ubezpieczeń nadrzędnego z podmiotami wymienionymi w par.10 ust.1 punkt 2) i 3) rozporządzenia"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość aktywów zakładu ubezpieczeń nadrzędnego, o których mowa w par. 5 ust. 1 p. 1) z uwzględnieniem zapisów par. 5 ust. 2 rozporządzenia"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość nieopłaconego kapitału zakładowego podlegająca wyłączeniu na mocy par. 6 ust 3. z uwzględnieniem zapisów par. 6 ust. 5 rozporządzenia"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość aktywów zakładu ubezpieczeń nadrzędnego, które finansują kapitały własne podmiotów podrzędnych będących dominującymi podmiotami ubezpieczeniowymi"
-    },
-    {
-     "type": "ocr",
-     "text": "Wpływ uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej, o którym mowa w par. 13 rozporządzenia, na wartość środków własnych tego zakładu ubezpieczeń"
-    },
-    {
-     "type": "ocr",
-     "text": "Wpływ uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej na wartość środków własnych tego zakładu ubezpieczeń"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 37 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej: Nazwa podmiotu wiodącego: Sprawozdanie kwartalne / dodatkowe sprawozdanie roczne sporządzone na dzień .................... roku"
-    },
-    {
-     "type": "ocr",
-     "text": "Il. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej, którego podmiotem dominującym nie podlegającym nadzorowi w państwie członkowskim Unii Europejskiej jest dominujący podmiot ubezpieczeniowy, zakład ubezpieczeń wykonujący działalność wyłącznie w zakresie reasekuracji lub zagraniczny zakład ubezpieczeń z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej, na wartość środków własnych tego zakładu ubezpieczeń"
-    },
-    {
-     "type": "ocr",
-     "text": "2.3. Ustalanie nadwyżki / niedoboru środków własnych podmiotów podrzędnych krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej"
-    },
-    {
-     "type": "ocr",
-     "text": "Proporcja posiadanego Wartość elementów dopuszczalnych na 2 m okrycie wymoau Wymóg wypłacalności pokry ymog podmiotu wykazanego w"
-    },
-    {
-     "type": "ocr",
-     "text": "Normy wypłacalności Kraj siedziby Rodzaj obowiązujące w kraju podmiotu podmiotu wykazanym w kol.Bco |. -. - . - wykazanego w | wykazanego w | najmniej porównywalne z informacji dotyczących | w skład ubezpieczeniowej wypłacalności podmiotu podmiotu wykazanego grupy kapitałowej w kol. A kol. A kol. A wymogami określonymi w kol. A podmiocie wykazanym w wykazanego w kol. A po w ustawie kol. A uwzględnieniu wyłączeń"
-    },
-    {
-     "type": "ocr",
-     "text": "Dostępność udziału zakładu wiarygodnych ubezpieczeń wchodzącego Nazwa podmiotu podrzędnego"
-    },
-    {
-     "type": "ocr",
-     "text": "| A | B_ | c] Do | E___ | EPG | Hf Zakłady ubezpieczeń"
-    },
-    {
-     "type": "ocr",
-     "text": "07 JN MEJS[) Aluusizq"
-    },
-    {
-     "type": "ocr",
-     "text": "GGL “20d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 38 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Nadwyżka / niedobór środków własnych"
-    },
-    {
-     "type": "ocr",
-     "text": "Wyłączenia wynikające z zastosowania par. 11 ust. 7 rozporządzenia, o ile nie zostały wyłączone na podstawie art. 148 ust. 2"
-    },
-    {
-     "type": "ocr",
-     "text": "Nadwyżka / niedobór środków własnych podmiotu wykazanego w kol. A stosownie do proporcji posiadanego"
-    },
-    {
-     "type": "ocr",
-     "text": "Decyzja organu nadzoru o proporcjonalnym zaliczaniu niedoboru wynikająca z zastosowania par. 4 ust. 3 rozporządzenia"
-    },
-    {
-     "type": "ocr",
-     "text": "07 JN MEJS[) Aluusizq"
-    },
-    {
-     "type": "ocr",
-     "text": "— 78 —"
-    },
-    {
-     "type": "ocr",
-     "text": "GGL “20d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 39 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej: Nazwa podmiotu wiodącego: Sprawozdanie kwartalne / dodatkowe sprawozdanie roczne sporządzone na dzień .................... roku"
-    },
-    {
-     "type": "ocr",
-     "text": "Il. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej, którego podmiotem dominującym nie podlegającym nadzorowi w państwie członkowskim Unii Europejskiej jest dominujący podmiot ubezpieczeniowy, zakład ubezpieczeń wykonujący działalność wyłącznie w zakresie reasekuracji lub zagraniczny zakład ubezpieczeń z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej, na wartość środków własnych tego zakładu ubezpieczeń"
-    },
-    {
-     "type": "ocr",
-     "text": "2.4. Ustalanie skorygowanych elementów dopuszczalnych na pokrycie wymogu wypłacalności podmiotów podrzędnych krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość aktywów zakładu ubezpieczeń nadrzędnego, o których mowa w par. 5 ust. 1 p. 1) z uwzględnieniem zapisów par. 5 ust. 2 rozporządzenia"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość aktywów zakładu ubezpieczeń podrzędnego, o których mowa w par. 5 ust. 1 p. 2) z uwzględnieniem zapisów par. 5 ust. 2 rozporządzenia"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności podmiotu wykazanego w kol. A"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa podmiotu podrzędnego"
-    },
-    {
-     "type": "ocr",
-     "text": "| A | BJ CJ DE JE] Zakłady ubezpieczeń"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość aktywów zakładu ubezpieczeń podrzędnego, o"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń nadrzędnego, które wynikają z wzajemnych powiązań finansowych, o których"
-    },
-    {
-     "type": "ocr",
-     "text": "uwzględnieniem zapisów par. 5 | zakładu ubezpieczeń nadrzędnego z ust. 2 rozporządzenia podmiotami podrzędnymi wymienionymi w par.10 ust.1 punkt"
-    },
-    {
-     "type": "ocr",
-     "text": "1) z wyłączeniem podrzędnych zakładów ubezpieczeń"
-    },
-    {
-     "type": "ocr",
-     "text": "07 JN MEJS[) Aluusizq"
-    },
-    {
-     "type": "ocr",
-     "text": "— vrs —"
-    },
-    {
-     "type": "ocr",
-     "text": "GGL “20d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 40 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość aktywów dominującego podmiotu ubezpieczeniowego, który Wartość jest podmiotem podrzędnym zakładu |nieopłaconego kapitału| Wartość nieopłaconego | Wartość nieopłaconego | Wartość nieopłaconego ubezpieczeń nadrzędnego, które zakładowego zakładu kapitału zakładowego kapitału zakładowego kapitału zakładowego odpowiadają elementom ubezpieczeń podlegająca wyłączeniu | podlegająca wyłączeniu | podlegająca wyłączeniu dopuszczalnym na pokrycie wymogu | podrzędnego zaliczona| na mocy par. 6 ust 2. z na mocy par. 6 ust 3. z na mocy par. 6 ust 4. z wypłacalności zakładu ubezpieczeń do elementów uwzględnieniem zapisów | uwzględnieniem zapisów | uwzględnieniem zapisów podrzędnego, w którym zakładu dopuszczalnych na par. 6 ust. 5 par. 6 ust. 5 par. 6 ust. 5 ubezpieczeń nadrzędny posiada udział pokrycie wymogu rozporządzenia rozporządzenia rozporządzenia pośredni poprzez ten dominujący wypłacalności"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń podrzędnego, które wynikają z wzajemnych powiązań finansowych, o których mowa w par.10 ust.2 rozporządzenia, zakładu ubezpieczeń podrzędnego z podmiotami podrzędnymi zakładu ubezpieczeń nadrzędnego nie"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość aktywów zakładu ubezpieczeń nadrzędnego, które finansują kapitały własne podmiotów podrzędnych będących dominującymi podmiotami ubezpieczeniowymi, o ile nie zostały wyłączone na podstawie art. 148 ust. 2a"
-    },
-    {
-     "type": "ocr",
-     "text": "będącymi zakładami ubezpieczeń podmiot ubezpieczeniowy"
-    },
-    {
-     "type": "ocr",
-     "text": "07 JN MEJS[) Aluusizq"
-    },
-    {
-     "type": "ocr",
-     "text": "— Svs —"
-    },
-    {
-     "type": "ocr",
-     "text": "GGL “20d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 41 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość nieopłaconego kapitału zakładowego podmiotu wykazanego w | Wartość przyszłych zysków kol. A dopuszczalna na zakładu ubezpieczeń na pokrycie wymogu życie podrzędnego wypłacalności krajowego | dopuszczalnych na pokrycie zakładu ubezpieczeń |wymogu wypłacalności (par. wchodzącego w skład 7 rozporządzenia) ubezpieczeniowej grupy kapitałowej"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń podrzędnego, które nie mogą być efektywnie postawione do dyspozycji zakładu ubezpieczeń nadrzędnego (par. 8 rozporządzenia)"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość elementów Wartość elementów dopuszczalnych na dopuszczalnych na pokrycie wymogu pokrycie wymogu wypłacalności wypłacalności innych niż| podmiotu wykazanego te, o których mowa w par. w kol. Apo 6, 7, 8 rozporządzenia uwzględnieniu wyłączeń"
-    },
-    {
-     "type": "ocr",
-     "text": "Minimum z wartości wykazanej w kol. Ri wymogu wypłacalności podmiotu wykazanego w kol. A"
-    },
-    {
-     "type": "ocr",
-     "text": "Suma elementów określona w par. 9 rozporządzenia"
-    },
-    {
-     "type": "ocr",
-     "text": "07 JN MEJS[) Aluusizq"
-    },
-    {
-     "type": "ocr",
-     "text": "— 978 —"
-    },
-    {
-     "type": "ocr",
-     "text": "GGL “20d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 42 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej: Nazwa podmiotu wiodącego: Sprawozdanie kwartalne / dodatkowe sprawozdanie roczne sporządzone na dzień .................... roku"
-    },
-    {
-     "type": "ocr",
-     "text": "Ii. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej, którego podmiotem dominującym nie podlegającym nadzorowi w państwie członkowskim Unii Europejskiej jest dominujący podmiot ubezpieczeniowy, zakład ubezpieczeń wykonujący działalność wyłącznie w zakresie reasekuracji lub zagraniczny zakład ubezpieczeń z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej, na wartość środków własnych tego zakładu ubezpieczeń"
-    },
-    {
-     "type": "ocr",
-     "text": "2.5. Ustalanie skorygowanych elementów dopuszczalnych na pokrycie wymogu wypłacalności krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość nieopłaconego kapitału zakładowego podlegająca wyłączeniu na mocy par. 6 ust 4. z uwzględnieniem zapisów par. 6 ust. 5 rozporządzenia, która jest zobowiązaniem innego zakładu ubezpieczeń podrzędnego podmiotu wiodącego i który nie jest jednocześnie zakładem ubezpieczeń podrzędnym krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość aktywów zakładu ubezpieczeń wykazanego w kol. A, o których mowa w par. 5 ust. 1 p. 3) z uwzględnieniem Wartość zapisów par. 5 ust. 2 rozporządzenia i |nieopłaconego kapitału| Wartość nieopłaconego które odpowiadają elementom zakładowego zakładu | kapitału zakładowego dopuszczalnym na pokrycie wymogu ubezpieczeń podlegająca wyłączeniu wypłacalności innego zakładu podrzędnego zaliczona| ma mocy par. 6 ust 2. z ubezpieczeń podrzędnego podmiotu do elementów uwzględnieniem zapisów wiodącego i który nie jest jednocześnie| dopuszczalnych na par. 6 ust. 5 zakładem ubezpieczeń podrzędnym pokrycie wymogu rozporządzenia krajowego zakładu ubezpieczeń wypłacalności wchodzącego w skład ubezpieczeniowej grupy kapitałowej"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość aktywów zakładu ubezpieczeń wykazanego w kol. A, o których mowa w par. 5 ust. 1 p. 2)z uwzględnieniem zapisów par. 5 ust. 2 rozporządzenia"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość elementów Nazwa krajowego zakładu ubezpieczeń dopuszczalnych na pokrycie wchodzącego w skład ubezpieczeniowej| wymogu wypłacalności zakładu grupy kapitałowej ubezpieczeń wykazanego w kol. A"
-    },
-    {
-     "type": "ocr",
-     "text": "07 JN MEJS[) Aluusizq"
-    },
-    {
-     "type": "ocr",
-     "text": "— 198 —"
-    },
-    {
-     "type": "ocr",
-     "text": "GGL “20d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 43 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość elementów dopuszczalnych na pokrycie zakładu ubezpieczeń na wymogu wypłacalności zakładu życie podrzędnego ubezpieczeń wykazanego w kol. dopuszczalnych na pokrycie| A, które nie mogą być efektywnie postawione do dyspozycji podmiotu wiodącego (par. 8 rozporządzenia)"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość nieopłaconego kapitału zakładowego zakładu ubezpieczeń wykazanego w kol. A dopuszczalna na pokrycie wymogu wypłacalności podmiotu wiodącego"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość przyszłych zysków"
-    },
-    {
-     "type": "ocr",
-     "text": "wymogu wypłacalności (par. 7 rozporządzenia)"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość elementów dopuszczalnych na pokrycie wymogu"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu wypłacalności innych niż ubezpieczeń te, o których mowa w par.|wykazanego w kol. A po 6, 7, 8 rozporządzenia uwzględnieniu wyłączeń"
-    },
-    {
-     "type": "ocr",
-     "text": "Wymóg wypłacalności zakładu ubezpieczeń wykazanego w kol. A"
-    },
-    {
-     "type": "ocr",
-     "text": "Minimum z wartości wykazanej w kol. Ki wymogu wypłacalności zakładu ubezpieczeń wykazanego w kol. A"
-    },
-    {
-     "type": "ocr",
-     "text": "Suma elementów określona w par. 9 rozporządzenia"
-    },
-    {
-     "type": "ocr",
-     "text": "07 JN MEJS[) Aluusizq"
-    },
-    {
-     "type": "ocr",
-     "text": "— 878 —"
-    },
-    {
-     "type": "ocr",
-     "text": "GGL “20d"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 44 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej: Sprawozdanie kwartalne / dodatkowe sprawozdanie roczne sporządzone na dzień .................... roku"
-    },
-    {
-     "type": "ocr",
-     "text": "Ill. Podpisy"
-    },
-    {
-     "type": "ocr",
-     "text": "Główny księgowy imię nazwisko \" \" data a podpis"
-    },
-    {
-     "type": "ocr",
-     "text": "nazwisko ma e at"
-    },
-    {
-     "type": "ocr",
-     "text": "osoba wskazana do udzielania wyjasnien w sprawie sposobu sporzadzenia sprawozdania imie nazwisko \" \" data podpis"
-    },
-    {
-     "type": "ocr",
-     "text": "osoba, której powierzono prowadzenie ksiąg rachunkowych nazwisko \" \" data"
+     "type": "text",
+     "text": "Dane na temat ubezpieczeniowych grup kapitałowych"
     },
     {
      "type": "text",
-     "text": "Noty objaśniające do załącznika nr 5"
+     "text": "Liczba ubezpieczeniowych grup kapitałowych, w skład których wchodzi na dzień sprawozdawczy krajowy zakład ubezpieczeń"
     },
     {
      "type": "text",
-     "text": "Formularze A oraz III wypełniają wszystkie krajowe zakłady ubezpieczeń wchodzące w skład ubezpieczeniowej grupy kapitałowej."
+     "text": "Zakres sprawozdania wynikający z zastosowania § 3 rozporządzenia Ministra Finansów z dnia 6 lutego 2006 r. w sprawie szczegółowego sposobu ustalania środków własnych krajowych zakładów ubezpieczeń wchodzących w skład ubezpieczeniowej grupy kapitałowej (Dz. U. Nr 20, poz. 156): § 3. ust. 1. ["
     },
     {
-     "type": "text",
-     "text": "Formularze 1.1, 1.2 oraz 1.3 wypełniają wszystkie krajowe zakłady ubezpieczeń wchodzące w skład ubezpieczeniowej grupy kapitałowej, z wyjątkiem zakładów ubezpieczeń:"
-    },
-    {
-     "type": "text",
-     "text": "— niebędących zakładami ubezpieczeń nadrzędnymi;"
-    },
-    {
-     "type": "text",
-     "text": "— podrzędnych, jeżeli jednocześnie są one zakładami ubezpieczeń nadrzędnymi oraz są one uwzględniane przy ustalaniu środków własnych podmiotów nadrzędnych będących krajowymi zakładami ubezpieczeń;"
-    },
-    {
-     "type": "text",
-     "text": "— których podmiotem dominującym jest dominujący podmiot ubezpieczeniowy niebędący zakładem ubezpieczeń, zakład ubezpieczeń wykonujący działalność wyłącznie w zakresie reasekuracji lub zagraniczny zakład ubezpieczeń z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej."
-    },
-    {
-     "type": "text",
-     "text": "Formularze 2.1, 2.2, 2.3, 2.4 oraz 2.5 wypełniają jedynie krajowe zakłady ubezpieczeń wchodzące w skład ubezpieczeniowej grupy kapitałowej, których podmiotem dominującym jest dominujący podmiot ubezpieczeniowy, zakład ubezpieczeń wykonujący działalność wyłącznie w zakresie reasekuracji lub zagraniczny zakład ubezpieczeń z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej i których podmiot dominujący nie podlega nadzorowi w państwie członkowskim Unii Europejskiej."
-    },
-    {
-     "type": "text",
-     "text": "Ilekroć w formularzach jest mowa o ustawie, to należy przez to rozumieć ustawę z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.). Ilekroć w formularzach jest mowa o rozporządzeniu, to należy przez to rozumieć rozporządzenie Ministra Finansów z dnia 6 lutego 2006 r. w sprawie szczegółowego sposobu ustalania środków własnych krajowych zakładów ubezpieczeń wchodzących w skład ubezpieczeniowej grupy kapitałowej (Dz. U. Nr 20, poz. 156)."
-    },
-    {
-     "type": "text",
-     "text": "Dane procentowe należy wykazać z dokładnością do czterech miejsc po przecinku. W zaokrągleniu do tysiąca wykazuje się wyłącznie wielkości wyrażone w złotych. Jeżeli poszczególne pozycje nie występują, należy wpisać wartość 0."
-    },
-    {
-     "type": "text",
-     "text": "W formularzach nie wyłącza się wielokrotnie tych samych elementów."
-    },
-    {
-     "type": "text",
-     "text": "Przez podmiot wiodący należy rozumieć podmiot dominujący niepodlegający nadzorowi w państwie członkowskim Unii Europejskiej, z poziomu którego następuje ustalenie nadwyżki albo niedoboru środków własnych krajowego zakładu ubezpieczeń zgodnie z § 13 ust. 1 rozporządzenia Ministra Finansów z dnia 6 lutego 2006 r. w sprawie szczegółowego sposobu ustalania środków własnych krajowych zakładów ubezpieczeń wchodzących w skład ubezpieczeniowej grupy kapitałowej."
-    },
-    {
-     "type": "text",
-     "text": "Formularze 1.2 i 2.3"
-    },
-    {
-     "type": "text",
-     "text": "Przez dostępność wiarygodnych informacji dotyczących zagranicznego podmiotu podrzędnego, w tym także zakładu ubezpieczeń podrzędnego, rozumie się posiadanie przez zakład ubezpieczeń dokumentów potwierdzających na dzień sporządzenia sprawozdania, iż:"
-    },
-    {
-     "type": "text",
-     "text": "❍ podmiot regulowany podrzędny posiada zezwolenie na prowadzenie działalności oraz składa sprawozdania finansowe sporządzone na potrzeby organu nadzoru w państwie, w którym podmiot regulowany podrzędny ma siedzibę,"
-    },
-    {
-     "type": "text",
-     "text": "❍ podmiot nieregulowany podrzędny publikuje sprawozdania finansowe zbadane przez biegłego rewidenta."
-    },
-    {
-     "type": "text",
-     "text": "Przez normy wypłacalności co najmniej porównywalne z wymogami określonymi w ustawie rozumie się:"
-    },
-    {
-     "type": "text",
-     "text": "❍ normy wypłacalności obowiązujące w państwach członkowskich Unii Europejskiej i EFTA,"
-    },
-    {
-     "type": "text",
-     "text": "❍ normy wypłacalności uznane przez organ nadzoru za porównywalne, które w szczególności:"
-    },
-    {
-     "type": "text",
-     "text": "przewidują wymóg uzyskania zezwolenia na wykonywanie działalności ubezpieczeniowej oraz"
-    },
-    {
-     "type": "text",
-     "text": "bazują na porównaniu zasobów kapitałowych zakładu ubezpieczeń z ryzykiem jego działalności mierzonym za pomocą miernika, np. marginesu wypłacalności, kapitału obarczonego ryzykiem — RBC, ustalonego w przepisach prawa obowiązujących w państwie, w którym zakład ubezpieczeń ma siedzibę."
-    },
-    {
-     "type": "text",
-     "text": "W kolumnie C należy podać rodzaj podmiotu, używając określonych symboli: ZU — zakład ubezpieczeń niebędący zakładem ubezpieczeń wykonującym działalność wyłącznie w zakresie reasekuracji, ZUR — zakład ubezpieczeń wykonujący działalność wyłącznie w zakresie reasekuracji, IKB — instytucja kredytowa bank, IKNB — instytucja kredytowa niebędąca bankiem, FI — firma inwestycyjna, PP — pozostałe podmioty."
-    },
-    {
-     "type": "text",
-     "text": "W kolumnie D należy użyć jednego z następujących stwierdzeń: porównywalne albo nieporównywalne."
-    },
-    {
-     "type": "text",
-     "text": "W kolumnie E należy użyć jednego z następujących stwierdzeń: tak albo nie."
-    },
-    {
-     "type": "text",
-     "text": "W kolumnie K należy użyć jednego z następujących stwierdzeń: tak albo nie."
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "ust. 2. [~",
+     "children": [
+      {
+       "type": "text",
+       "text": "Data wystania sprawozdania:"
+      },
+      {
+       "type": "text",
+       "text": "Liczba stron sprawozdania:"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 29 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej:"
+      },
+      {
+       "type": "text",
+       "text": "Sprawozdanie kwartalne / dodatkowe sprawozdanie roczne sporządzone na dzień .................... roku"
+      },
+      {
+       "type": "text",
+       "text": "I. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń nadrzędnego w ubezpieczeniowej grupie kapitałowej na wartość środków własnych tego zakładu ubezpieczeń"
+      },
+      {
+       "type": "text",
+       "text": "1.1. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń nadrzędnego w ubezpieczeniowej grupie kapitałowej na wartość środków własnych tego zakładu ubezpieczeń zgodnie z rozporządzeniem wydanym na podstawie art. 148 ust. 8 ustawy"
+      },
+      {
+       "type": "text",
+       "text": "Suma nadwyżek / niedoborów środków własnych podmiotów podrzędnych stosownie do proporcji posiadanego udziału"
+      },
+      {
+       "type": "text",
+       "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń nadrzędnego, które wynikają z wzajemnych powiązań finansowych, o których mowa w par.10 ust.2 rozporządzenia, zakładu ubezpieczeń nadrzędnego z podmiotami podrzędnymi wymienionymi w par.10 ust.1 punkt 1) z wyłączeniem podrzędnych zakładów ubezpieczeń"
+      },
+      {
+       "type": "text",
+       "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń nadrzędnego, które wynikają z wzajemnych powiązań finansowych, o których mowa w par.10 ust.2, zakładu ubezpieczeń nadrzędnego z podmiotami wymienionymi w par.10 ust.1 punkt 2) i 3) rozporządzenia"
+      },
+      {
+       "type": "text",
+       "text": "Wartość aktywów zakładu ubezpieczeń nadrzędnego, o których mowa w par. 5 ust. 1 p. 1) z uwzględnieniem zapisów par. 5 ust. 2 rozporządzenia"
+      },
+      {
+       "type": "text",
+       "text": "Wartość nieopłaconego kapitału zakładowego podlegająca wyłączeniu na mocy par. 6 ust 3. z uwzględnieniem zapisów par. 6 ust. 5 rozporządzenia"
+      },
+      {
+       "type": "text",
+       "text": "Wartość aktywów zakładu ubezpieczeń nadrzędnego, które finansują kapitały własne podmiotów podrzędnych będących dominującymi podmiotami ubezpieczeniowymi"
+      },
+      {
+       "type": "text",
+       "text": "Wpływ uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej, o którym mowa w par. 13 rozporządzenia, na wartość środków własnych tego zakładu ubezpieczeń Wpływ uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej na wartość środków własnych tego zakładu ubezpieczeń"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 30 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Nazwa krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej:"
+      },
+      {
+       "type": "ocr",
+       "text": "Sprawozdanie kwartalne / dodatkowe sprawozdanie roczne sporządzone na dzień .................... roku"
+      },
+      {
+       "type": "ocr",
+       "text": "|. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń nadrzędnego w ubezpieczeniowej grupie kapitałowej na wartość środków własnych tego zakładu ubezpieczeń 1.2. Ustalanie nadwyżki / niedoboru środków własnych podmiotów podrzędnych krajowego zakładu ubezpieczeń nadrzędnego wchodzącego w skład ubezpieczeniowej grupy kapitałowej"
+      },
+      {
+       "type": "ocr",
+       "text": "Proporcja posiadanego Wartość elementów dopuszczalnych na Wymóg wypłacalności pokrycie wymogu podmiotu wykazanego w wypłacalności podmiotu kol. A wykazanego w kol. A po uwzględnieniu wyłączeń"
+      },
+      {
+       "type": "ocr",
+       "text": "Normy wypłacalności Kraj siedziby Rodzaj obowiązujące w kraju podmiotu podmiotu wy kazanym w kol. B co informacji dotyczących| w skład ubezpieczeniowej wykazanego w | wykazanego w | najmniej porównywalne z - - . podmiotu wykazanego grupy kapitałowej w kol. A kol. A wymogami określonymi w kol. A podmiocie wykazanym w w ustawie"
+      },
+      {
+       "type": "ocr",
+       "text": "Dostępność udziału zakładu wiarygodnych ubezpieczeń wchodzącego Nazwa podmiotu podrzędnego"
+      },
+      {
+       "type": "ocr",
+       "text": "|| A | B__ 1 CC] DD — | [ ED GH] Zakłady ubezpieczeń"
+      },
+      {
+       "type": "ocr",
+       "text": "07 JN MEJS[) Aluusizq"
+      },
+      {
+       "type": "ocr",
+       "text": "— ges —"
+      },
+      {
+       "type": "ocr",
+       "text": "GGL “20d"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 31 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Nadwyżka / niedobór środków własnych podmiotu wykazanego w kol. A stosownie do proporcji posiadanego"
+      },
+      {
+       "type": "ocr",
+       "text": "Wyłączenia wynikające z zastosowania par. 11 ust. 7 rozporządzenia, o ile nie zostały wyłączone na podstawie art. 148 ust. 2"
+      },
+      {
+       "type": "ocr",
+       "text": "Decyzja organu nadzoru o proporcjonalnym zaliczaniu niedoboru wynikająca z zastosowania par. 4 ust. 3 rozporządzenia"
+      },
+      {
+       "type": "ocr",
+       "text": "Nadwyżka / niedobór środków własnych"
+      },
+      {
+       "type": "ocr",
+       "text": "07 JN MEJS[) Aluusizq"
+      },
+      {
+       "type": "ocr",
+       "text": "— 9&8 —"
+      },
+      {
+       "type": "ocr",
+       "text": "GGL “20d"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 32 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Nazwa krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej: Sprawozdanie kwartalne / dodatkowe sprawozdanie roczne sporządzone na dzień .................... roku I. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń nadrzędnego w ubezpieczeniowej grupie kapitałowej na wartość środków własnych tego zakładu ubezpieczeń 1.3. Ustalanie skorygowanych elementów dopuszczalnych na pokrycie wymogu wypłacalności podmiotów podrzędnych krajowego zakładu ubezpieczeń nadrzędnego wchodzącego w skład ubezpieczeniowej grupy kapitałowej Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń nadrzędnego, Wartość aktywów zakładu Wartość aktywów zakładu R . . Ło: . \"e . . A . . Wartość aktywów zakładu które wynikają z wzajemnych Wartość elementów ubezpieczeń nadrzędnego, o | ubezpieczeń podrzędnego, o . A . ge , . Ą Ą ubezpieczeń podrzędnego, o powiązań finansowych, o których . dopuszczalnych na pokrycie których mowa w par. 5 ust. 1 | których mowa w par. 5 ust. 1 ‘ . Nazwa podmiotu podrzednego a - \"a RE których mowa w par. 5 ust. 1 p. 3) zjmowa w par.10 ust.2 rozporządzenia, wymogu wypłacalności podmiotu p. 1) z uwzględnieniem p. 2) z uwzględnieniem WE we - 2 mA 2 uwzględnieniem zapisów par. 5 | zakładu ubezpieczeń nadrzędnego z wykazanego w kol. A zapisów par. 5 ust. 2 zapisów par. 5 ust. 2 - . . . . ust. 2 rozporzadzenia podmiotami podrzednymi rozporzadzenia rozporzadzenia wymienionymi w par.10 ust.1 punkt"
+      },
+      {
+       "type": "ocr",
+       "text": "1) z wytaczeniem podrzednych zakładów ubezpieczeń |A| 0 B___ | © |\" DD E [OE Zakłady ubezpieczeń"
+      },
+      {
+       "type": "ocr",
+       "text": "Pozostałe podmioty podrzędne BZDE"
+      },
+      {
+       "type": "ocr",
+       "text": "07 JN MEJS[) Aluusizq"
+      },
+      {
+       "type": "ocr",
+       "text": "— LE8 —"
+      },
+      {
+       "type": "ocr",
+       "text": "GGL “20d"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 33 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość aktywów dominującego podmiotu ubezpieczeniowego, który Wartość jest podmiotem podrzędnym zakładu |nieopłaconego kapitału| Wartość nieopłaconego | Wartość nieopłaconego | Wartość nieopłaconego ubezpieczeń nadrzędnego, które zakładowego zakładu kapitału zakładowego kapitału zakładowego kapitału zakładowego odpowiadają elementom ubezpieczeń podlegająca wyłączeniu | podlegająca wyłączeniu | podlegająca wyłączeniu dopuszczalnym na pokrycie wymogu | podrzędnego zaliczona| na mocy par. 6 ust 2. z na mocy par. 6 ust 3. z na mocy par. 6 ust 4. z wypłacalności zakładu ubezpieczeń do elementów uwzględnieniem zapisów | uwzględnieniem zapisów | uwzględnieniem zapisów podrzędnego, w którym zakładu dopuszczalnych na par. 6 ust. 5 par. 6 ust. 5 par. 6 ust. 5 ubezpieczeń nadrzędny posiada udział pokrycie wymogu rozporządzenia rozporządzenia rozporządzenia pośredni poprzez ten dominujący wypłacalności"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń podrzędnego, które wynikają z wzajemnych powiązań finansowych, o których mowa w par.10 ust.2 rozporządzenia, zakładu ubezpieczeń podrzędnego z podmiotami podrzędnymi zakładu ubezpieczeń nadrzędnego nie"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość aktywów zakładu ubezpieczeń nadrzędnego, które finansują kapitały własne podmiotów podrzędnych będących dominującymi podmiotami ubezpieczeniowymi, o ile nie zostały wyłączone na podstawie art. 148 ust. 2a"
+      },
+      {
+       "type": "ocr",
+       "text": "będącymi zakładami ubezpieczeń podmiot ubezpieczeniowy"
+      },
+      {
+       "type": "ocr",
+       "text": "07 JN MEJS[) Aluusizq"
+      },
+      {
+       "type": "ocr",
+       "text": "— 8&8 —"
+      },
+      {
+       "type": "ocr",
+       "text": "GGL “20d"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 34 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość nieopłaconego kapitału zakładowego podmiotu wykazanego w | Wartość przyszłych zysków kol. A dopuszczalna na zakładu ubezpieczeń na pokrycie wymogu życie podrzędnego wypłacalności krajowego |dopuszczalnych na pokrycie zakładu ubezpieczeń |wymogu wypłacalności (par. wchodzącego w skład 7 rozporządzenia) ubezpieczeniowej grupy kapitałowej"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń podrzędnego, które nie mogą być efektywnie postawione do dyspozycji zakładu ubezpieczeń nadrzędnego (par. 8 rozporządzenia)"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość elementów Wartość elementów dopuszczalnych na dopuszczalnych na pokrycie wymogu pokrycie wymogu wypłacalności wypłacalności innych niż| podmiotu wykazanego te, o których mowa w par. w kol. A po 6, 7, 8 rozporządzenia uwzględnieniu wyłączeń"
+      },
+      {
+       "type": "ocr",
+       "text": "Minimum z wartości wykazanej w kol. Ri wymogu wypłacalności podmiotu wykazanego w kol. A"
+      },
+      {
+       "type": "ocr",
+       "text": "Suma elementów określona w par. 9 rozporządzenia"
+      },
+      {
+       "type": "ocr",
+       "text": "07 JN MEJS[) Aluusizq"
+      },
+      {
+       "type": "ocr",
+       "text": "— 6&8 —"
+      },
+      {
+       "type": "ocr",
+       "text": "GGL “20d"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 35 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Nazwa krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej:"
+      },
+      {
+       "type": "ocr",
+       "text": "Sprawozdanie kwartalne / dodatkowe sprawozdanie roczne sporządzone na dzień .................... roku"
+      },
+      {
+       "type": "ocr",
+       "text": "Il. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej, którego podmiotem dominującym nie podlegającym nadzorowi w państwie członkowskim Unii Europejskiej jest dominujący podmiot ubezpieczeniowy, zakład ubezpieczeń wykonujący działalność wyłącznie w zakresie reasekuracji lub zagraniczny zakład ubezpieczeń z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej, na wartość środków własnych tego zakładu ubezpieczeń 2.1. Informacja o podmiocie wiodącym krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej Forma prawna zgodnie z prawem kraju siedziby"
+      },
+      {
+       "type": "ocr",
+       "text": "Nazwa podmiotu wiodącego w ubezpieczeniowej grupy kapitałowej"
+      },
+      {
+       "type": "ocr",
+       "text": "Adres siedziby podmiotu Rodzaj podmiotu"
+      },
+      {
+       "type": "ocr",
+       "text": "07 JN MEJS[) Aluusizq"
+      },
+      {
+       "type": "ocr",
+       "text": "— 078 —"
+      },
+      {
+       "type": "ocr",
+       "text": "GGL “20d"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 36 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Poz."
+      },
+      {
+       "type": "text",
+       "text": "Nazwa krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej: Nazwa podmiotu wiodącego: Sprawozdanie kwartalne / dodatkowe sprawozdanie roczne sporządzone na dzień .................... roku"
+      },
+      {
+       "type": "text",
+       "text": "ll. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej, którego podmiotem dominującym nie podlegającym nadzorowi w państwie członkowskim Unii Europejskiej jest dominujący podmiot ubezpieczeniowy, zakład ubezpieczeń wykonujący działalność wyłącznie w zakresie reasekuracji lub zagraniczny zakład ubezpieczeń z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej, na wartość środków własnych tego zakładu ubezpieczeń"
+      },
+      {
+       "type": "text",
+       "text": "2.2. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej na wartość środków własnych tego zakładu ubezpieczeń zgodnie z rozporządzeniem wydanym na podstawie art. 148 ust. 8 ustawy"
+      },
+      {
+       "type": "text",
+       "text": "Suma nadwyżek / niedoborów środków własnych podmiotów podrzędnych stosownie do proporcji posiadanego udziału"
+      },
+      {
+       "type": "text",
+       "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń nadrzędnego, które wynikają z wzajemnych powiązań finansowych, o których mowa w par.10 ust.2 rozporządzenia, zakładu ubezpieczeń nadrzędnego z podmiotami podrzędnymi wymienionymi w par.10 ust.1 punkt 1) z wyłączeniem podrzędnych zakładów ubezpieczeń"
+      },
+      {
+       "type": "text",
+       "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń nadrzędnego, które wynikają z wzajemnych powiązań finansowych, o których mowa w par.10 ust.2, zakładu ubezpieczeń nadrzędnego z podmiotami wymienionymi w par.10 ust.1 punkt 2) i 3) rozporządzenia"
+      },
+      {
+       "type": "text",
+       "text": "Wartość aktywów zakładu ubezpieczeń nadrzędnego, o których mowa w par. 5 ust. 1 p. 1) z uwzględnieniem zapisów par. 5 ust. 2 rozporządzenia"
+      },
+      {
+       "type": "text",
+       "text": "Wartość nieopłaconego kapitału zakładowego podlegająca wyłączeniu na mocy par. 6 ust 3. z uwzględnieniem zapisów par. 6 ust. 5 rozporządzenia"
+      },
+      {
+       "type": "text",
+       "text": "Wartość aktywów zakładu ubezpieczeń nadrzędnego, które finansują kapitały własne podmiotów podrzędnych będących dominującymi podmiotami ubezpieczeniowymi"
+      },
+      {
+       "type": "text",
+       "text": "Wpływ uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej, o którym mowa w par. 13 rozporządzenia, na wartość środków własnych tego zakładu ubezpieczeń"
+      },
+      {
+       "type": "text",
+       "text": "Wpływ uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej na wartość środków własnych tego zakładu ubezpieczeń"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 37 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Nazwa krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej: Nazwa podmiotu wiodącego: Sprawozdanie kwartalne / dodatkowe sprawozdanie roczne sporządzone na dzień .................... roku"
+      },
+      {
+       "type": "ocr",
+       "text": "Il. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej, którego podmiotem dominującym nie podlegającym nadzorowi w państwie członkowskim Unii Europejskiej jest dominujący podmiot ubezpieczeniowy, zakład ubezpieczeń wykonujący działalność wyłącznie w zakresie reasekuracji lub zagraniczny zakład ubezpieczeń z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej, na wartość środków własnych tego zakładu ubezpieczeń"
+      },
+      {
+       "type": "ocr",
+       "text": "2.3. Ustalanie nadwyżki / niedoboru środków własnych podmiotów podrzędnych krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej"
+      },
+      {
+       "type": "ocr",
+       "text": "Proporcja posiadanego Wartość elementów dopuszczalnych na 2 m okrycie wymoau Wymóg wypłacalności pokry ymog podmiotu wykazanego w"
+      },
+      {
+       "type": "ocr",
+       "text": "Normy wypłacalności Kraj siedziby Rodzaj obowiązujące w kraju podmiotu podmiotu wykazanym w kol.Bco |. -. - . - wykazanego w | wykazanego w | najmniej porównywalne z informacji dotyczących | w skład ubezpieczeniowej wypłacalności podmiotu podmiotu wykazanego grupy kapitałowej w kol. A kol. A kol. A wymogami określonymi w kol. A podmiocie wykazanym w wykazanego w kol. A po w ustawie kol. A uwzględnieniu wyłączeń"
+      },
+      {
+       "type": "ocr",
+       "text": "Dostępność udziału zakładu wiarygodnych ubezpieczeń wchodzącego Nazwa podmiotu podrzędnego"
+      },
+      {
+       "type": "ocr",
+       "text": "| A | B_ | c] Do | E___ | EPG | Hf Zakłady ubezpieczeń"
+      },
+      {
+       "type": "ocr",
+       "text": "07 JN MEJS[) Aluusizq"
+      },
+      {
+       "type": "ocr",
+       "text": "GGL “20d"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 38 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Nadwyżka / niedobór środków własnych"
+      },
+      {
+       "type": "ocr",
+       "text": "Wyłączenia wynikające z zastosowania par. 11 ust. 7 rozporządzenia, o ile nie zostały wyłączone na podstawie art. 148 ust. 2"
+      },
+      {
+       "type": "ocr",
+       "text": "Nadwyżka / niedobór środków własnych podmiotu wykazanego w kol. A stosownie do proporcji posiadanego"
+      },
+      {
+       "type": "ocr",
+       "text": "Decyzja organu nadzoru o proporcjonalnym zaliczaniu niedoboru wynikająca z zastosowania par. 4 ust. 3 rozporządzenia"
+      },
+      {
+       "type": "ocr",
+       "text": "07 JN MEJS[) Aluusizq"
+      },
+      {
+       "type": "ocr",
+       "text": "— 78 —"
+      },
+      {
+       "type": "ocr",
+       "text": "GGL “20d"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 39 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Nazwa krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej: Nazwa podmiotu wiodącego: Sprawozdanie kwartalne / dodatkowe sprawozdanie roczne sporządzone na dzień .................... roku"
+      },
+      {
+       "type": "ocr",
+       "text": "Il. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej, którego podmiotem dominującym nie podlegającym nadzorowi w państwie członkowskim Unii Europejskiej jest dominujący podmiot ubezpieczeniowy, zakład ubezpieczeń wykonujący działalność wyłącznie w zakresie reasekuracji lub zagraniczny zakład ubezpieczeń z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej, na wartość środków własnych tego zakładu ubezpieczeń"
+      },
+      {
+       "type": "ocr",
+       "text": "2.4. Ustalanie skorygowanych elementów dopuszczalnych na pokrycie wymogu wypłacalności podmiotów podrzędnych krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość aktywów zakładu ubezpieczeń nadrzędnego, o których mowa w par. 5 ust. 1 p. 1) z uwzględnieniem zapisów par. 5 ust. 2 rozporządzenia"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość aktywów zakładu ubezpieczeń podrzędnego, o których mowa w par. 5 ust. 1 p. 2) z uwzględnieniem zapisów par. 5 ust. 2 rozporządzenia"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności podmiotu wykazanego w kol. A"
+      },
+      {
+       "type": "ocr",
+       "text": "Nazwa podmiotu podrzędnego"
+      },
+      {
+       "type": "ocr",
+       "text": "| A | BJ CJ DE JE] Zakłady ubezpieczeń"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość aktywów zakładu ubezpieczeń podrzędnego, o"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń nadrzędnego, które wynikają z wzajemnych powiązań finansowych, o których"
+      },
+      {
+       "type": "ocr",
+       "text": "uwzględnieniem zapisów par. 5 | zakładu ubezpieczeń nadrzędnego z ust. 2 rozporządzenia podmiotami podrzędnymi wymienionymi w par.10 ust.1 punkt"
+      },
+      {
+       "type": "ocr",
+       "text": "1) z wyłączeniem podrzędnych zakładów ubezpieczeń"
+      },
+      {
+       "type": "ocr",
+       "text": "07 JN MEJS[) Aluusizq"
+      },
+      {
+       "type": "ocr",
+       "text": "— vrs —"
+      },
+      {
+       "type": "ocr",
+       "text": "GGL “20d"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 40 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość aktywów dominującego podmiotu ubezpieczeniowego, który Wartość jest podmiotem podrzędnym zakładu |nieopłaconego kapitału| Wartość nieopłaconego | Wartość nieopłaconego | Wartość nieopłaconego ubezpieczeń nadrzędnego, które zakładowego zakładu kapitału zakładowego kapitału zakładowego kapitału zakładowego odpowiadają elementom ubezpieczeń podlegająca wyłączeniu | podlegająca wyłączeniu | podlegająca wyłączeniu dopuszczalnym na pokrycie wymogu | podrzędnego zaliczona| na mocy par. 6 ust 2. z na mocy par. 6 ust 3. z na mocy par. 6 ust 4. z wypłacalności zakładu ubezpieczeń do elementów uwzględnieniem zapisów | uwzględnieniem zapisów | uwzględnieniem zapisów podrzędnego, w którym zakładu dopuszczalnych na par. 6 ust. 5 par. 6 ust. 5 par. 6 ust. 5 ubezpieczeń nadrzędny posiada udział pokrycie wymogu rozporządzenia rozporządzenia rozporządzenia pośredni poprzez ten dominujący wypłacalności"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń podrzędnego, które wynikają z wzajemnych powiązań finansowych, o których mowa w par.10 ust.2 rozporządzenia, zakładu ubezpieczeń podrzędnego z podmiotami podrzędnymi zakładu ubezpieczeń nadrzędnego nie"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość aktywów zakładu ubezpieczeń nadrzędnego, które finansują kapitały własne podmiotów podrzędnych będących dominującymi podmiotami ubezpieczeniowymi, o ile nie zostały wyłączone na podstawie art. 148 ust. 2a"
+      },
+      {
+       "type": "ocr",
+       "text": "będącymi zakładami ubezpieczeń podmiot ubezpieczeniowy"
+      },
+      {
+       "type": "ocr",
+       "text": "07 JN MEJS[) Aluusizq"
+      },
+      {
+       "type": "ocr",
+       "text": "— Svs —"
+      },
+      {
+       "type": "ocr",
+       "text": "GGL “20d"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 41 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość nieopłaconego kapitału zakładowego podmiotu wykazanego w | Wartość przyszłych zysków kol. A dopuszczalna na zakładu ubezpieczeń na pokrycie wymogu życie podrzędnego wypłacalności krajowego | dopuszczalnych na pokrycie zakładu ubezpieczeń |wymogu wypłacalności (par. wchodzącego w skład 7 rozporządzenia) ubezpieczeniowej grupy kapitałowej"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu ubezpieczeń podrzędnego, które nie mogą być efektywnie postawione do dyspozycji zakładu ubezpieczeń nadrzędnego (par. 8 rozporządzenia)"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość elementów Wartość elementów dopuszczalnych na dopuszczalnych na pokrycie wymogu pokrycie wymogu wypłacalności wypłacalności innych niż| podmiotu wykazanego te, o których mowa w par. w kol. Apo 6, 7, 8 rozporządzenia uwzględnieniu wyłączeń"
+      },
+      {
+       "type": "ocr",
+       "text": "Minimum z wartości wykazanej w kol. Ri wymogu wypłacalności podmiotu wykazanego w kol. A"
+      },
+      {
+       "type": "ocr",
+       "text": "Suma elementów określona w par. 9 rozporządzenia"
+      },
+      {
+       "type": "ocr",
+       "text": "07 JN MEJS[) Aluusizq"
+      },
+      {
+       "type": "ocr",
+       "text": "— 978 —"
+      },
+      {
+       "type": "ocr",
+       "text": "GGL “20d"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 42 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Nazwa krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej: Nazwa podmiotu wiodącego: Sprawozdanie kwartalne / dodatkowe sprawozdanie roczne sporządzone na dzień .................... roku"
+      },
+      {
+       "type": "ocr",
+       "text": "Ii. Ustalanie wpływu uczestnictwa krajowego zakładu ubezpieczeń w ubezpieczeniowej grupie kapitałowej, którego podmiotem dominującym nie podlegającym nadzorowi w państwie członkowskim Unii Europejskiej jest dominujący podmiot ubezpieczeniowy, zakład ubezpieczeń wykonujący działalność wyłącznie w zakresie reasekuracji lub zagraniczny zakład ubezpieczeń z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej, na wartość środków własnych tego zakładu ubezpieczeń"
+      },
+      {
+       "type": "ocr",
+       "text": "2.5. Ustalanie skorygowanych elementów dopuszczalnych na pokrycie wymogu wypłacalności krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość nieopłaconego kapitału zakładowego podlegająca wyłączeniu na mocy par. 6 ust 4. z uwzględnieniem zapisów par. 6 ust. 5 rozporządzenia, która jest zobowiązaniem innego zakładu ubezpieczeń podrzędnego podmiotu wiodącego i który nie jest jednocześnie zakładem ubezpieczeń podrzędnym krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość aktywów zakładu ubezpieczeń wykazanego w kol. A, o których mowa w par. 5 ust. 1 p. 3) z uwzględnieniem Wartość zapisów par. 5 ust. 2 rozporządzenia i |nieopłaconego kapitału| Wartość nieopłaconego które odpowiadają elementom zakładowego zakładu | kapitału zakładowego dopuszczalnym na pokrycie wymogu ubezpieczeń podlegająca wyłączeniu wypłacalności innego zakładu podrzędnego zaliczona| ma mocy par. 6 ust 2. z ubezpieczeń podrzędnego podmiotu do elementów uwzględnieniem zapisów wiodącego i który nie jest jednocześnie| dopuszczalnych na par. 6 ust. 5 zakładem ubezpieczeń podrzędnym pokrycie wymogu rozporządzenia krajowego zakładu ubezpieczeń wypłacalności wchodzącego w skład ubezpieczeniowej grupy kapitałowej"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość aktywów zakładu ubezpieczeń wykazanego w kol. A, o których mowa w par. 5 ust. 1 p. 2)z uwzględnieniem zapisów par. 5 ust. 2 rozporządzenia"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość elementów Nazwa krajowego zakładu ubezpieczeń dopuszczalnych na pokrycie wchodzącego w skład ubezpieczeniowej| wymogu wypłacalności zakładu grupy kapitałowej ubezpieczeń wykazanego w kol. A"
+      },
+      {
+       "type": "ocr",
+       "text": "07 JN MEJS[) Aluusizq"
+      },
+      {
+       "type": "ocr",
+       "text": "— 198 —"
+      },
+      {
+       "type": "ocr",
+       "text": "GGL “20d"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 43 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość elementów dopuszczalnych na pokrycie zakładu ubezpieczeń na wymogu wypłacalności zakładu życie podrzędnego ubezpieczeń wykazanego w kol. dopuszczalnych na pokrycie| A, które nie mogą być efektywnie postawione do dyspozycji podmiotu wiodącego (par. 8 rozporządzenia)"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość nieopłaconego kapitału zakładowego zakładu ubezpieczeń wykazanego w kol. A dopuszczalna na pokrycie wymogu wypłacalności podmiotu wiodącego"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość przyszłych zysków"
+      },
+      {
+       "type": "ocr",
+       "text": "wymogu wypłacalności (par. 7 rozporządzenia)"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość elementów dopuszczalnych na pokrycie wymogu"
+      },
+      {
+       "type": "ocr",
+       "text": "Wartość elementów dopuszczalnych na pokrycie wymogu wypłacalności zakładu wypłacalności innych niż ubezpieczeń te, o których mowa w par.|wykazanego w kol. A po 6, 7, 8 rozporządzenia uwzględnieniu wyłączeń"
+      },
+      {
+       "type": "ocr",
+       "text": "Wymóg wypłacalności zakładu ubezpieczeń wykazanego w kol. A"
+      },
+      {
+       "type": "ocr",
+       "text": "Minimum z wartości wykazanej w kol. Ki wymogu wypłacalności zakładu ubezpieczeń wykazanego w kol. A"
+      },
+      {
+       "type": "ocr",
+       "text": "Suma elementów określona w par. 9 rozporządzenia"
+      },
+      {
+       "type": "ocr",
+       "text": "07 JN MEJS[) Aluusizq"
+      },
+      {
+       "type": "ocr",
+       "text": "— 878 —"
+      },
+      {
+       "type": "ocr",
+       "text": "GGL “20d"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 44 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa krajowego zakładu ubezpieczeń wchodzącego w skład ubezpieczeniowej grupy kapitałowej: Sprawozdanie kwartalne / dodatkowe sprawozdanie roczne sporządzone na dzień .................... roku"
+      },
+      {
+       "type": "text",
+       "text": "Ill. Podpisy"
+      },
+      {
+       "type": "text",
+       "text": "Główny księgowy imię nazwisko \" \" data a podpis"
+      },
+      {
+       "type": "text",
+       "text": "nazwisko ma e at"
+      },
+      {
+       "type": "text",
+       "text": "osoba wskazana do udzielania wyjaśnień w sprawie sposobu sporządzenia sprawozdania imię nazwisko \" \" data podpis"
+      },
+      {
+       "type": "text",
+       "text": "osoba, której powierzono prowadzenie ksiąg rachunkowych nazwisko \" \" data"
+      },
+      {
+       "type": "text",
+       "text": "Noty objaśniające do załącznika nr 5"
+      },
+      {
+       "type": "text",
+       "text": "Formularze A oraz III wypełniają wszystkie krajowe zakłady ubezpieczeń wchodzące w skład ubezpieczeniowej grupy kapitałowej."
+      },
+      {
+       "type": "text",
+       "text": "Formularze 1.1, 1.2 oraz 1.3 wypełniają wszystkie krajowe zakłady ubezpieczeń wchodzące w skład ubezpieczeniowej grupy kapitałowej, z wyjątkiem zakładów ubezpieczeń:"
+      },
+      {
+       "type": "text",
+       "text": "— niebędących zakładami ubezpieczeń nadrzędnymi;"
+      },
+      {
+       "type": "text",
+       "text": "— podrzędnych, jeżeli jednocześnie są one zakładami ubezpieczeń nadrzędnymi oraz są one uwzględniane przy ustalaniu środków własnych podmiotów nadrzędnych będących krajowymi zakładami ubezpieczeń;"
+      },
+      {
+       "type": "text",
+       "text": "— których podmiotem dominującym jest dominujący podmiot ubezpieczeniowy niebędący zakładem ubezpieczeń, zakład ubezpieczeń wykonujący działalność wyłącznie w zakresie reasekuracji lub zagraniczny zakład ubezpieczeń z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej."
+      },
+      {
+       "type": "text",
+       "text": "Formularze 2.1, 2.2, 2.3, 2.4 oraz 2.5 wypełniają jedynie krajowe zakłady ubezpieczeń wchodzące w skład ubezpieczeniowej grupy kapitałowej, których podmiotem dominującym jest dominujący podmiot ubezpieczeniowy, zakład ubezpieczeń wykonujący działalność wyłącznie w zakresie reasekuracji lub zagraniczny zakład ubezpieczeń z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej i których podmiot dominujący nie podlega nadzorowi w państwie członkowskim Unii Europejskiej."
+      },
+      {
+       "type": "text",
+       "text": "Ilekroć w formularzach jest mowa o ustawie, to należy przez to rozumieć ustawę z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.). Ilekroć w formularzach jest mowa o rozporządzeniu, to należy przez to rozumieć rozporządzenie Ministra Finansów z dnia 6 lutego 2006 r. w sprawie szczegółowego sposobu ustalania środków własnych krajowych zakładów ubezpieczeń wchodzących w skład ubezpieczeniowej grupy kapitałowej (Dz. U. Nr 20, poz. 156)."
+      },
+      {
+       "type": "text",
+       "text": "Dane procentowe należy wykazać z dokładnością do czterech miejsc po przecinku. W zaokrągleniu do tysiąca wykazuje się wyłącznie wielkości wyrażone w złotych. Jeżeli poszczególne pozycje nie występują, należy wpisać wartość 0."
+      },
+      {
+       "type": "text",
+       "text": "W formularzach nie wyłącza się wielokrotnie tych samych elementów."
+      },
+      {
+       "type": "text",
+       "text": "Przez podmiot wiodący należy rozumieć podmiot dominujący niepodlegający nadzorowi w państwie członkowskim Unii Europejskiej, z poziomu którego następuje ustalenie nadwyżki albo niedoboru środków własnych krajowego zakładu ubezpieczeń zgodnie z § 13 ust. 1 rozporządzenia Ministra Finansów z dnia 6 lutego 2006 r. w sprawie szczegółowego sposobu ustalania środków własnych krajowych zakładów ubezpieczeń wchodzących w skład ubezpieczeniowej grupy kapitałowej."
+      },
+      {
+       "type": "text",
+       "text": "Formularze 1.2 i 2.3"
+      },
+      {
+       "type": "text",
+       "text": "Przez dostępność wiarygodnych informacji dotyczących zagranicznego podmiotu podrzędnego, w tym także zakładu ubezpieczeń podrzędnego, rozumie się posiadanie przez zakład ubezpieczeń dokumentów potwierdzających na dzień sporządzenia sprawozdania, iż:"
+      },
+      {
+       "type": "text",
+       "text": "❍ podmiot regulowany podrzędny posiada zezwolenie na prowadzenie działalności oraz składa sprawozdania finansowe sporządzone na potrzeby organu nadzoru w państwie, w którym podmiot regulowany podrzędny ma siedzibę,"
+      },
+      {
+       "type": "text",
+       "text": "❍ podmiot nieregulowany podrzędny publikuje sprawozdania finansowe zbadane przez biegłego rewidenta."
+      },
+      {
+       "type": "text",
+       "text": "Przez normy wypłacalności co najmniej porównywalne z wymogami określonymi w ustawie rozumie się:"
+      },
+      {
+       "type": "text",
+       "text": "❍ normy wypłacalności obowiązujące w państwach członkowskich Unii Europejskiej i EFTA,"
+      },
+      {
+       "type": "text",
+       "text": "❍ normy wypłacalności uznane przez organ nadzoru za porównywalne, które w szczególności:"
+      },
+      {
+       "type": "text",
+       "text": "przewidują wymóg uzyskania zezwolenia na wykonywanie działalności ubezpieczeniowej oraz"
+      },
+      {
+       "type": "text",
+       "text": "bazują na porównaniu zasobów kapitałowych zakładu ubezpieczeń z ryzykiem jego działalności mierzonym za pomocą miernika, np. marginesu wypłacalności, kapitału obarczonego ryzykiem — RBC, ustalonego w przepisach prawa obowiązujących w państwie, w którym zakład ubezpieczeń ma siedzibę."
+      },
+      {
+       "type": "text",
+       "text": "W kolumnie C należy podać rodzaj podmiotu, używając określonych symboli: ZU — zakład ubezpieczeń niebędący zakładem ubezpieczeń wykonującym działalność wyłącznie w zakresie reasekuracji, ZUR — zakład ubezpieczeń wykonujący działalność wyłącznie w zakresie reasekuracji, IKB — instytucja kredytowa bank, IKNB — instytucja kredytowa niebędąca bankiem, FI — firma inwestycyjna, PP — pozostałe podmioty."
+      },
+      {
+       "type": "text",
+       "text": "W kolumnie D należy użyć jednego z następujących stwierdzeń: porównywalne albo nieporównywalne."
+      },
+      {
+       "type": "text",
+       "text": "W kolumnie E należy użyć jednego z następujących stwierdzeń: tak albo nie."
+      },
+      {
+       "type": "text",
+       "text": "W kolumnie K należy użyć jednego z następujących stwierdzeń: tak albo nie."
+      }
+     ]
     }
    ]
   }

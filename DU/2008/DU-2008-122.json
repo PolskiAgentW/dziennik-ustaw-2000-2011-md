@@ -1,7 +1,7 @@
 {
  "eli": "DU/2008/122",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 23 stycznia 2008 r. zmieniające rozporządzenie w sprawie sposobu dokumentowania prowadzonej przez Policję kontroli operacyjnej, przechowywania i przekazywania wniosków, zarządzeń i materiałów uzyskanych podczas stosowania tej kontroli, a także przetwarzania i niszczenia tych materiałów",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2008/122/text.pdf",
  "body": [
   {
@@ -176,50 +176,50 @@
     },
     {
      "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(klauzula tajności)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Zarządzenie nr W sprawie kryptonim prowadzonej przez dotyczącej przestępstwa określonego w Alt. ........-suesuaaea aaa ona anaanaananianać , działając na podstawie art. 19 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji zarządzam kontrolę operacyjną na okres , począwszy od dnia godZ. ....1..11121112.. , stosowaną wobec"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Komendant Główny /Wojewódzki Policji”"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(data i godzina, podpis i pieczęć)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Sąd Okręgowy w"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Działając na podstawie art. 19 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji wnoszę o wyrażenie zgody na kontynuowanie kontroli operacyjnej zastosowanej zgodnie z moim zarządzeniem nr .... z dnia z przyczyn oraz w celach wskazanych w poniższym uzasadnieniu. Uzasadnienie"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(sygn. akt) POSTANOWIENIE Sąd Okręgowy w Sędzia przy udziale po rozpoznaniu wniosku Komendanta Głównego /Wojewódzkiego Policji” w w przedmiocie kontynuowania kontroli operacyjnej zarządzonej w przypadku niecierpiącym zwłoki na podstawie art. 19 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2007 r. Nr 43, poz. 277, Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170) ostanawia wyrazić zgodę / odmówić wyrażenia zgody” na kontynuowanie kontroli operacyjnej polegającej na sprawie o kryptonimie zarządzonej przez / Wojewódzkiego Policji” w zarządzeniem numer Uzasadnienie (w przypadku odmowy wyrażenia zgody na kontynuowanie kontroli operacyjnej zarządzonej w przypadku niecierpiącym zwłoki)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(podpis Sędziego Sądu Okręgowego)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "a niepotrzebne skreślić"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wykonano w 3 egz."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(klauzula tajności) 2/2"
     }
    ]
@@ -237,23 +237,31 @@
     },
     {
      "type": "note",
-     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "klauzula tajności Egz.nr___"
     },
     {
-     "type": "ocr",
-     "text": "5. Dodatkowe informacje o wynikach kontroli operacyjnej:"
-    },
-    {
-     "type": "ocr",
-     "text": "POLICJANT PROWADZĄCY SPRAWĘ KIEROWNIK KOMÓRKI ORGANIZACYJNEJ PROWADZĄCEJ SPRAWĘ (data, stopień, imię i nazwisko, podpis) (data, podpis, pieczęć) KOMENDANT GŁÓWNY/WOJEWÓDZKI” POLICJI"
-    },
-    {
-     "type": "ocr",
-     "text": "(podpis, data, pieczęć) Wykonano w 3 egz. ” niepotrzebne skreślić oz DO RER RER ERO OPERZE POPPE POPROSI ee TELESIS) DEWD ...............aaaeeaaaniasaw0 (klauzula tajności) Sporządził .......,.ee.e-eoee osa e aaa nasennie Wykonał ..... ce eeecenesescseeceeesseeeneserseseseeeeesrerenee 2/2"
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Dodatkowe informacje o wynikach kontroli operacyjnej:",
+     "children": [
+      {
+       "type": "text",
+       "text": "POLICJANT PROWADZĄCY SPRAWĘ KIEROWNIK KOMÓRKI ORGANIZACYJNEJ PROWADZĄCEJ SPRAWĘ (data, stopień, imię i nazwisko, podpis) (data, podpis, pieczęć) KOMENDANT GŁÓWNY/WOJEWÓDZKI” POLICJI"
+      },
+      {
+       "type": "text",
+       "text": "(podpis, data, pieczęć) Wykonano w 3 egz. ” niepotrzebne skreślić"
+      },
+      {
+       "type": "text",
+       "text": "oz DO RER RER ERO OPERZE POPPE POPROSI ee TELESIS) DEWD ...............aaaeeaaaniasaw0 (klauzula tajności) Sporządził .......,.ee.e-eoee osa e aaa nasennie Wykonał ..... ce eeecenesescseeceeesseeeneserseseseeeeesrerenee 2/2"
+      }
+     ]
     }
    ]
   },
@@ -262,7 +270,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WZÓR REJESTRU WNIOSKÓW I ZARZĄDZEŃ DOTYCZĄCYCH KONTROLI OPERACYJNEJ Dziennik Ustaw Nr 20 — 1452 — Poz. 122"
+     "text": "WZÓR REJESTRU WNIOSKÓW I ZARZĄDZEŃ DOTYCZĄCYCH KONTROLI OPERACYJNEJ"
     },
     {
      "type": "note",
@@ -273,10 +281,6 @@
   {
    "heading": "Załącznik nr 9(strona 2/2-formularz karty rejestru)",
    "body": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 20 — 1453 — Poz. 122"
-    },
     {
      "type": "note",
      "text": "[Na stronie 8 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"

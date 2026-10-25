@@ -1,7 +1,7 @@
 {
  "eli": "DU/2010/429",
  "title": "Rozporządzenie Ministra Finansów z dnia 22 kwietnia 2010 r. w sprawie rejestru zaciągniętych kredytów oraz rejestru wpłat, prowadzonych przez komitety wyborcze w wyborach Prezydenta Rzeczypospolitej Polskiej",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2010/429/text.pdf",
  "body": [
   {
@@ -214,7 +214,7 @@
        "type": "pkt",
        "num": "3",
        "path": "par_6/ust_3/pkt_3",
-       "text": "i mię i nazwisko oraz podpis pełnomocnika finansowego komitetu.",
+       "text": "imię i nazwisko oraz podpis pełnomocnika finansowego komitetu.",
        "children": []
       }
      ]
@@ -226,12 +226,11 @@
    "num": "7",
    "path": "par_7",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Finansów: w z. E. Suchocka-Roguska"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: w z. E. Suchocka-Roguska"
   }
  ],
  "annexes": [
@@ -240,7 +239,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WZÓR Dziennik Ustaw Nr 67 — 5739 — Poz. 429"
+     "text": "WZÓR"
     },
     {
      "type": "note",

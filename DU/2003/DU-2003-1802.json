@@ -1,7 +1,7 @@
 {
  "eli": "DU/2003/1802",
  "title": "Rozporządzenie Ministra Finansów z dnia 22 października 2003 r. zmieniające rozporządzenie w sprawie urzędów celnych właściwych dla przewozu i wywozu produktów GMO",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/1802/text.pdf",
  "body": [
   {
@@ -32,12 +32,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie wchodzi w życie z dniem 1 listopada 2003 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Finansów: w z. H. Wasilewska-Trenkner"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: w z. H. Wasilewska-Trenkner"
   }
  ],
  "annexes": [
@@ -54,295 +53,522 @@
     },
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Oddział Celny Port Lotniczy Katowice-Pyrzowice"
+     "type": "text",
+     "text": "1 2 Ill. | Izba Celna w Gdyni"
     },
     {
-     "type": "ocr",
-     "text": "2. | Urząd Celny w Cieszynie"
+     "type": "text",
+     "text": "Urząd Celny w Gdyni"
     },
     {
-     "type": "ocr",
-     "text": "Urząd Celny w Zebrzydowicach"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "„Dworzec Morski” w Gdyni"
     },
     {
-     "type": "ocr",
-     "text": "Dziennik Ustaw Nr 184 — 12504 — Poz. 1802"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "„Baza Kontenerowa” w Gdyni c. | Oddział Celny „Terminal Promowy” w Gdyni"
     },
     {
-     "type": "ocr",
-     "text": "1 2 3 4 _5 Ill. | Izba Celna w Gdyni 040000"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "Pocztowy w Gdyni"
     },
     {
-     "type": "ocr",
-     "text": "Urząd Celny w Gdyni Morskie 040400"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "| Urząd Celny w Gdańsku",
+     "children": [
+      {
+       "type": "text",
+       "text": "a. | Oddział Celny „Basen im. Władysława IV” w Gdańsku b. | Oddział Celny „Baza Promowa” w Gdańsku c. | Oddział Celny „Nabrzeże Wiślane” w Gdańsku m Oddział Celny „Stocznie Morskie” w Gdańsku"
+      },
+      {
+       "type": "text",
+       "text": "w Gdańsku f. | Oddział Celny Port Lotniczy Gdańsk-Rębiechowo"
+      },
+      {
+       "type": "text",
+       "text": "—"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "Oddział Celny „Dworzec Morski” Morskie 040200 w Gdyni"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "| Urząd Celny w Słupsku",
+     "children": [
+      {
+       "type": "text",
+       "text": "a. | Oddział Celny w Ustce"
+      },
+      {
+       "type": "text",
+       "text": "IV. | Izba Celna w Katowicach"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "Oddział Celny „Baza Kontenerowa” Morskie 040500 w Gdyni c. | Oddział Celny „Terminal Promowy” Morskie 040510 w Gdyni"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "| Urząd Celny w Bytomiu",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Oddział Celny Pocztowy w Gdyni Poczta 040900"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "Port Lotniczy Katowice-Pyrzowice"
     },
     {
-     "type": "ocr",
-     "text": "2. | Urząd Celny w Gdańsku 041300 nie posiada uprawnień a. | Oddział Celny „Basen im. Morskie 041100 Władysława IV” w Gdańsku b. | Oddział Celny „Baza Promowa” Morskie 041200 w Gdańsku c. | Oddział Celny „Nabrzeże Wiślane” Morskie 041400 w Gdańsku m Oddział Celny „Stocznie Morskie” Morskie 041410 w Gdańsku"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "| Urząd Celny w Cieszynie",
+     "children": [
+      {
+       "type": "text",
+       "text": "Urząd Celny w Zebrzydowicach"
+      },
+      {
+       "type": "text",
+       "text": "Izba Celna w Krakowie"
+      },
+      {
+       "type": "text",
+       "text": "Urząd Celny I w Krakowie"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "w Gdańsku f. | Oddział Celny Port Lotniczy Lotnicze 041600 nie dotyczy Gdańsk-Rębiechowo towarów objętych kontrolą — fitosanitarną"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "Towarowy Port Lotniczy Kraków-Balice"
     },
     {
-     "type": "ocr",
-     "text": "3. | Urząd Celny w Słupsku 040600 nie posiada uprawnień a. | Oddział Celny w Ustce Morskie 040620 nie dotyczy towarów objętych kontrolą weterynaryjn IV. | Izba Celna w Katowicach 180000"
+     "type": "text",
+     "text": "3 4 _5 040000"
     },
     {
-     "type": "ocr",
-     "text": "1. | Urząd Celny w Bytomiu 180200 nie posiada uprawnień 180700 nie dotyczy towarów objętych kontrolą fitosanitarną i weterynaryjną Drogowe 010100 Ea"
+     "type": "text",
+     "text": "Morskie 040400 Morskie 040200"
     },
     {
-     "type": "ocr",
-     "text": "Lotnicze"
+     "type": "text",
+     "text": "Morskie 040500"
     },
     {
-     "type": "ocr",
-     "text": "Kolejowe 010300"
+     "type": "text",
+     "text": "Morskie 040510"
     },
     {
-     "type": "ocr",
-     "text": "Izba Celna w Krakowie 050000"
+     "type": "text",
+     "text": "Poczta 040900"
     },
     {
-     "type": "ocr",
-     "text": "Urząd Celny I w Krakowie 050100 nie posiada uprawnień"
+     "type": "text",
+     "text": "041300 nie posiada uprawnień Morskie 041100"
     },
     {
-     "type": "ocr",
-     "text": "Oddział Celny Towarowy Port Lotnicze 050700 nie dotyczy Lotniczy Kraków-Balice towarów objętych kontrolą fitosanitarną"
+     "type": "text",
+     "text": "Morskie 041200"
+    },
+    {
+     "type": "text",
+     "text": "Morskie 041400"
+    },
+    {
+     "type": "text",
+     "text": "Morskie 041410"
+    },
+    {
+     "type": "text",
+     "text": "Lotnicze 041600 nie dotyczy towarów objętych kontrolą fitosanitarną 040600 nie posiada uprawnień Morskie 040620 nie dotyczy towarów objętych kontrolą weterynaryjn 180000"
+    },
+    {
+     "type": "text",
+     "text": "180200 nie posiada uprawnień 180700 nie dotyczy"
+    },
+    {
+     "type": "text",
+     "text": "Lotnicze towarów objętych kontrolą fitosanitarną i weterynaryjną Drogowe 010100 Ea Kolejowe 010300"
+    },
+    {
+     "type": "text",
+     "text": "050000"
+    },
+    {
+     "type": "text",
+     "text": "050100 nie posiada uprawnień Lotnicze 050700 nie dotyczy towarów objętych kontrolą fitosanitarną"
     },
     {
      "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "4 5 Urząd Celny w Nowym Targu EM 080600 nie posiada uprawnień"
+     "type": "text",
+     "text": "Urząd Celny w Nowym Targu"
     },
     {
-     "type": "ocr",
-     "text": "Oddział Celny w Chyżnem 080100"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "w Chyżnem"
     },
     {
-     "type": "ocr",
-     "text": "Urząd Celny w Nowym Sączu 080500 nie posiada uprawnień"
+     "type": "text",
+     "text": "Urząd Celny w Nowym Sączu"
     },
     {
-     "type": "ocr",
-     "text": "Oddział Celny w Muszynie Kolejowe 080300 nie dotyczy towarów objętych kontrolą weterynaryjną Izba Celna w Olsztynie 200000 -"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "w Muszynie"
     },
     {
-     "type": "ocr",
-     "text": "Urząd Celny w Olsztynie 200100 nie posiada uprawnień"
+     "type": "text",
+     "text": "Izba Celna w Olsztynie"
     },
     {
-     "type": "ocr",
-     "text": "Oddział Celny w Bezledach Drogowe 200300"
+     "type": "text",
+     "text": "Urząd Celny w Olsztynie"
     },
     {
-     "type": "ocr",
-     "text": "Oddział Celny w Bartoszycach Kolejowe 200310 nie dotyczy towarów objętych kontrola weterynaryjną Urząd Celny w Elblągu 200600 nie posiada uprawnień"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "w Bezledach"
     },
     {
-     "type": "ocr",
-     "text": "Oddział Celny w Braniewie Kolejowe 200200"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "w Bartoszycach"
     },
     {
-     "type": "ocr",
-     "text": "Oddział Celny w Gronowie Drogowe 200210 nie dotyczy towarów objętych kontrolą fitosanitarna Izba Celna w Poznaniu 090000"
+     "type": "text",
+     "text": "Urząd Celny w Elblągu"
     },
     {
-     "type": "ocr",
-     "text": "1. | Urząd Celny w Poznaniu 090100 nie posiada uprawnień a. | Oddział Celny Port Lotniczy Lotnicze 090700 nie dotyczy Poznań-Ławica towarów objętych kontrolą fitosanitarna__| VIII. | Izba Celna w Przemyślu 100000"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "w Braniewie"
     },
     {
-     "type": "ocr",
-     "text": "1. | Urząd Celny w Przemyślu 101100 nie posiada uprawnień a. | Oddział Celny w Medyce Drogowe 100300 b. | Oddział Celny w Korczowej Drogowe T 101200"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "w Gronowie"
     },
     {
-     "type": "ocr",
-     "text": "c. | Oddział Celny Medyka-Zurawica Kolejowe 101300 LL"
+     "type": "text",
+     "text": "Izba Celna w Poznaniu"
     },
     {
-     "type": "ocr",
-     "text": "2. | Urząd Celny w Rzeszowie 100400 nie posiada uprawnień a. | Oddział Celny Port Lotniczy Lotnicze 100430 nie dotyczy Rzeszów - Jasionka towarów objętych kontrolą fitosanitarną"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "| Urząd Celny w Poznaniu",
+     "children": [
+      {
+       "type": "text",
+       "text": "a. | Oddział Celny Port Lotniczy Poznań-Ławica"
+      },
+      {
+       "type": "text",
+       "text": "VIII. | Izba Celna w Przemyślu"
+      }
+     ]
     },
     {
-     "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "| Urząd Celny w Przemyślu",
+     "children": [
+      {
+       "type": "text",
+       "text": "a. | Oddział Celny w Medyce"
+      },
+      {
+       "type": "text",
+       "text": "b. | Oddział Celny w Korczowej"
+      },
+      {
+       "type": "text",
+       "text": "c. | Oddział Celny Medyka-Zurawica LL"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "1 2 3 4 5"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "| Urząd Celny w Rzeszowie",
+     "children": [
+      {
+       "type": "text",
+       "text": "a. | Oddział Celny Port Lotniczy Rzeszów - Jasionka"
+      },
+      {
+       "type": "text",
+       "text": "4 5 EM 080600 nie posiada uprawnień 080100"
+      },
+      {
+       "type": "text",
+       "text": "080500 nie posiada uprawnień Kolejowe 080300 nie dotyczy towarów objętych kontrolą weterynaryjną 200000 -"
+      },
+      {
+       "type": "text",
+       "text": "200100 nie posiada uprawnień Drogowe 200300"
+      },
+      {
+       "type": "text",
+       "text": "Kolejowe 200310 nie dotyczy towarów objętych kontrola weterynaryjną 200600 nie posiada uprawnień Kolejowe 200200"
+      },
+      {
+       "type": "text",
+       "text": "Drogowe 200210 nie dotyczy towarów objętych kontrolą fitosanitarna 090000"
+      },
+      {
+       "type": "text",
+       "text": "090100 nie posiada uprawnień Lotnicze 090700 nie dotyczy towarów objętych kontrolą fitosanitarna__| 100000"
+      },
+      {
+       "type": "text",
+       "text": "101100 nie posiada uprawnień Drogowe 100300 Drogowe T 101200"
+      },
+      {
+       "type": "text",
+       "text": "Kolejowe 101300"
+      },
+      {
+       "type": "text",
+       "text": "100400 nie posiada uprawnień Lotnicze 100430 nie dotyczy towarów objętych kontrolą fitosanitarną"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "1 2"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "3. | Urząd Celny w Krośnie 101000 nie posiada uprawnień a. | Oddział Celny w Barwinku Drogowe 100200"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "| Urząd Celny w Krośnie",
+     "children": [
+      {
+       "type": "text",
+       "text": "a. | Oddział Celny w Barwinku"
+      },
+      {
+       "type": "text",
+       "text": "IX. | Izba Celna w Rzepinie"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "IX. | Izba Celna w Rzepinie 110000"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "| Urząd Celny w Rzepinie",
+     "children": [
+      {
+       "type": "text",
+       "text": "| a. | Oddział Celny Kolejowy w Rzepinie"
+      },
+      {
+       "type": "text",
+       "text": "Urząd Celny w Olszynie"
+      },
+      {
+       "type": "text",
+       "text": "Urząd Celny w Świecku"
+      },
+      {
+       "type": "text",
+       "text": "Izba Celna w Szczecinie"
+      },
+      {
+       "type": "text",
+       "text": "Urząd Celny I w Szczecinie"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "1. | Urząd Celny w Rzepinie 110100 nie posiada | uprawnień a. | Oddział Celny Kolejowy w Rzepinie 110110"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "„Nabrzeże HUK” w Szczecinie"
     },
     {
-     "type": "ocr",
-     "text": "Urząd Celny w Olszynie Drogowe 110600"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "„Stocznia” w Szczecinie c. | Oddział Celny „Nabrzeże Łasztownia” w Szczecinie d. | Oddział Celny „Basen Górniczy” w Szczecinie"
     },
     {
-     "type": "ocr",
-     "text": "Urząd Celny w Świecku Drogowe"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "| Urząd Celny Il w Szczecinie i",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Izba Celna w Szczecinie"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "w Szczecinie- -Gumieńcach"
     },
     {
-     "type": "ocr",
-     "text": "Urząd Celny I w Szczecinie"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "w Kołbaskowie"
     },
     {
-     "type": "ocr",
-     "text": "Oddział Celny „Nabrzeże HUK” Morskie w Szczecinie"
+     "type": "text",
+     "text": "Urząd Celny w Stargardzie Szczecińskim"
     },
     {
-     "type": "ocr",
-     "text": "111400"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "w Krajniku Dolnym"
     },
     {
-     "type": "ocr",
-     "text": "120000"
+     "type": "text",
+     "text": "Urząd Celny w Kołobrzegu"
     },
     {
-     "type": "ocr",
-     "text": "120100"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "w Darłowie"
     },
     {
-     "type": "ocr",
-     "text": "120300"
+     "type": "text",
+     "text": "Urząd Celny w Świnoujściu"
     },
     {
-     "type": "ocr",
-     "text": "nie posiada uprawnień"
-    },
-    {
-     "type": "ocr",
-     "text": "Oddział Celny „Stocznia” Morskie 120330 w Szczecinie c. | Oddział Celny „Nabrzeże Morskie 120400 Łasztownia” w Szczecinie d. | Oddział Celny „Basen Górniczy” Morskie KM EEE w Szczecinie"
-    },
-    {
-     "type": "ocr",
-     "text": "2. | Urząd Celny Il w Szczecinie 121600 nie posiada i uprawnień"
-    },
-    {
-     "type": "ocr",
-     "text": "Oddział Celny w Szczecinie- Kolejowe 120700 -Gumieńcach"
-    },
-    {
-     "type": "ocr",
-     "text": "Oddział Celny w Kołbaskowie Drogowe 120800"
-    },
-    {
-     "type": "ocr",
-     "text": "Urząd Celny w Stargardzie 121500 nie posiada Szczecińskim uprawnień"
-    },
-    {
-     "type": "ocr",
-     "text": "Oddział Celny w Krajniku Dolnym Drogowe 121000 nie dotyczy towarów objętych kontrolą fitosanitarną i weterynaryjną Urząd Celny w Kołobrzegu Morskie 120900"
-    },
-    {
-     "type": "ocr",
-     "text": "Oddział Celny w Darłowie Morskie 121420 nie dotyczy towarów objętych kontrolą"
-    },
-    {
-     "type": "ocr",
-     "text": "Urząd Celny w Świnoujściu Morskie 121100"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "a. | Oddział Celny „Baza Rybacka” w Świnoujściu"
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "3 4 5 101000 nie posiada uprawnień Drogowe 100200"
+    },
+    {
+     "type": "text",
+     "text": "110000"
+    },
+    {
+     "type": "text",
+     "text": "110100 nie posiada uprawnień 110110"
+    },
+    {
+     "type": "text",
+     "text": "Drogowe"
+    },
+    {
+     "type": "text",
+     "text": "110600"
+    },
+    {
+     "type": "text",
+     "text": "Drogowe"
+    },
+    {
+     "type": "text",
+     "text": "111400"
+    },
+    {
+     "type": "text",
+     "text": "120000"
+    },
+    {
+     "type": "text",
+     "text": "120100 nie posiada uprawnień Morskie"
+    },
+    {
+     "type": "text",
+     "text": "120300"
+    },
+    {
+     "type": "text",
+     "text": "Morskie 120330"
+    },
+    {
+     "type": "text",
+     "text": "Morskie 120400 Morskie KM EEE 121600 nie posiada uprawnień Kolejowe 120700"
+    },
+    {
+     "type": "text",
+     "text": "Drogowe 120800"
+    },
+    {
+     "type": "text",
+     "text": "121500 nie posiada uprawnień Drogowe 121000 nie dotyczy towarów objętych kontrolą fitosanitarną i weterynaryjną Morskie 120900"
+    },
+    {
+     "type": "text",
+     "text": "Morskie 121420 nie dotyczy towarów objętych kontrolą weterynaryjną Morskie 121100"
+    },
+    {
+     "type": "text",
      "text": "Morskie 121110"
     },
     {
-     "type": "ocr",
-     "text": "weterynaryjną"
-    },
-    {
      "type": "note",
-     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Izba Celna w Warszawie 140000"
+     "type": "text",
+     "text": "Izba Celna w Warszawie 1."
     },
     {
-     "type": "ocr",
-     "text": "Oddział Celny Towarowy V Lotnicze 150330 Urząd Celny IV w Warszawie Poczta Izba Celna we Wrocławiu 160000 . | Urząd Celny w Zgorzelcu Em"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "Towarowy V Urząd Celny IV w Warszawie Izba Celna we Wrocławiu . | Urząd Celny w Zgorzelcu —"
     },
     {
-     "type": "ocr",
-     "text": "Oddział Celny w Węglińcu"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "w Węglińcu"
     },
     {
-     "type": "ocr",
-     "text": "Oddział Celny w Jędrzychowicach Drogowe 162700"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "w Jędrzychowicach"
     },
     {
-     "type": "ocr",
-     "text": "2. | Urząd Celny w Kudowie-Zdroju Drogowe 160300"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "| Urząd Celny w Kudowie-Zdroju",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Oddział Celny w Międzylesiu Kolejowe 160400"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "w Międzylesiu"
     },
     {
-     "type": "ocr",
-     "text": "Oddział Celny w Boboszowie Drogowe 160410"
+     "type": "heading",
+     "label": "Oddział Celny",
+     "text": "w Boboszowie"
     },
     {
-     "type": "ocr",
-     "text": "1. 150100 150200 150300"
+     "type": "text",
+     "text": "140000 150100 150200 150300"
     },
     {
-     "type": "ocr",
-     "text": "—"
+     "type": "text",
+     "text": "Lotnicze 150330 Poczta 160000 Em 162000 nie posiada uprawnień nie dotyczy"
     },
     {
-     "type": "ocr",
-     "text": "162000"
-    },
-    {
-     "type": "ocr",
-     "text": "nie posiada uprawnień nie dotyczy towarów objętych kontrolą weterynaryjną"
-    },
-    {
-     "type": "ocr",
-     "text": "162200"
-    },
-    {
-     "type": "ocr",
-     "text": "nie dotyczy towarów objętych kontrolą fitosanitarną i weterynaryjną"
+     "type": "text",
+     "text": "162200 towarów objętych kontrolą weterynaryjną Drogowe 162700 Drogowe 160300 Kolejowe 160400 Drogowe 160410 nie dotyczy towarów objętych kontrolą fitosanitarną i weterynaryjną"
     }
    ]
   }

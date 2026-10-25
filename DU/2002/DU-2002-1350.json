@@ -1,7 +1,7 @@
 {
  "eli": "DU/2002/1350",
  "title": "Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 26 września 2002 r. w sprawie trybu postępowania w sprawach podziału czasu nieodpłatnego, rozpowszechniania audycji wyborczych, sposobu przygotowania i emisji tych audycji oraz sposobu upowszechniania informacji o terminach emisji audycji wyborczych przed wyborami do rad gmin, rad powiatów i sejmików województw.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2002/1350/text.pdf",
  "body": [
   {
@@ -359,327 +359,531 @@
     },
     {
      "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "WOJEWÓDZTWO KUJAWSKO-POMORSKIE"
     },
     {
-     "type": "ocr",
-     "text": ". . Nazwa oddziału TVP S.A., Lp. Powiaty w granicach A vo . - RE ie . który swym zasięgiem powierzchniowym obejmuje administracyjnych SEA . obszar wymieniony w kolumnie 2"
+     "type": "text",
+     "text": "Lp. Powiaty w granicach . ."
     },
     {
-     "type": "ocr",
-     "text": "EM"
+     "type": "text",
+     "text": "administracyjnych ie ."
     },
     {
-     "type": "ocr",
-     "text": "ee IEEE 3 ee 1 | Bydgoszcz p.g. Oddz. Terenowy Bydgoszcz (TVP3 Bydgoszcz) 2 | powiaty: bydgoski, tucholski, Oddz. Terenowy Bydgoszcz (TVP3 Bydgoszcz) nakielski, sępoleński, świecki"
+     "type": "text",
+     "text": "Nazwa oddziału TVP S.A., A vo . - RE który swym zasięgiem powierzchniowym obejmuje SEA ."
     },
     {
-     "type": "ocr",
-     "text": "Grudziądz p.g., powiaty: Oddz. Terenowy Bydgoszcz (TVP3 Bydgoszcz) chełmiński, grudziądzki, wąbrzeski :"
+     "type": "text",
+     "text": "obszar wymieniony w kolumnie 2 ee IEEE 3 EM 1 | Bydgoszcz p.g. 2 | powiaty: bydgoski, tucholski, nakielski, sępoleński, świecki Grudziądz p.g., powiaty:"
     },
     {
-     "type": "ocr",
-     "text": "5 | powiaty: toruński, Oddz. Terenowy Bydgoszcz (TVP3 Bydgoszcz) golubsko-dobrzyński, brodnicki Oddz. Terenowy Warszawa (TVP2) powiaty: inowrocławski, żniński, Oddz. Terenowy Bydgoszcz (TVP3 Bydgoszcz) mogileński 7"
+     "type": "text",
+     "text": "Ww chełmiński, grudziądzki, wąbrzeski"
     },
     {
-     "type": "ocr",
-     "text": "powiaty: aleksandrowski, radziejowski Oddz. Terenowy Bydgoszcz (TVP3 Bydgoszcz) Włocławek p.g., powiaty: Oddz. Terenowy Warszawa (TVP2) włocławski, lipnowski, rypiński"
+     "type": "text",
+     "text": "5 | powiaty: toruński, golubsko-dobrzyński, brodnicki powiaty: inowrocławski, żniński, mogileński powiaty: aleksandrowski, radziejowski 7 Włocławek p.g., powiaty: włocławski, lipnowski, rypiński"
     },
     {
-     "type": "ocr",
-     "text": "Ww"
+     "type": "text",
+     "text": "WOJEWÓDZTWO LUBELSKIE"
     },
     {
-     "type": "ocr",
-     "text": "WOJEWODZTWO LUBELSKIE"
+     "type": "text",
+     "text": ". ."
     },
     {
-     "type": "ocr",
-     "text": ". . Nazwa oddziału TVP S.A., Powiaty w granicach Ą ME . ; . Lp. 7, . który swym zasięgiem powierzchniowym obejmuje administracyjnych on . obszar wymieniony w kolumnie 2"
+     "type": "text",
+     "text": "Powiaty w granicach Lp. 7, . administracyjnych"
     },
     {
-     "type": "ocr",
-     "text": "| | Lublin p.g., powiaty: łęczyński, Oddz. Terenowy Lublin (TVP3 Lublin) świdnicki powiaty: lubelski, puławski Oddz. Terenowy Lublin (TVP3 Lublin) powiaty: janowski, kraśnicki, opolski Oddz. Terenowy Lublin (TVP3 Lublin)"
+     "type": "text",
+     "text": "| | Lublin p.g., powiaty: łęczyński, świdnicki powiaty: lubelski, puławski powiaty: janowski, kraśnicki, opolski"
     },
     {
-     "type": "ocr",
-     "text": "4 | powiaty: lubartowski, rycki, łukowski Oddz. Terenowy Lublin (TVP3 Lublin) Oddz. Terenowy Lublin (TVP2) 5 | powiat parczewski Oddz. Terenowy Lublin (TVP3 Lublin) Biała Podlaska p.g., Oddz. Terenowy Lublin (TVP2) powiaty: bialski, radzyński EL EEE krasnostawski, chełmski, włodawski Oddz. Terenowy Lublin (TVP2) powiat biłgorajski Oddz. Terenowy Lublin (TVP3 Lublin) Zamość p.g., powiaty: hrubieszowski, tomaszowski, Oddz. Terenowy Lublin (TVP2) zamojski"
+     "type": "text",
+     "text": "4 | powiaty: lubartowski, rycki, łukowski"
+    },
+    {
+     "type": "text",
+     "text": "5 | powiat parczewski Biała Podlaska p.g., powiaty: bialski, radzyński ee Oddz. Terenowy Bydgoszcz (TVP3 Bydgoszcz) Oddz. Terenowy Bydgoszcz (TVP3 Bydgoszcz)"
+    },
+    {
+     "type": "text",
+     "text": "Oddz. Terenowy Bydgoszcz (TVP3 Bydgoszcz) :"
+    },
+    {
+     "type": "text",
+     "text": "Oddz. Terenowy Bydgoszcz (TVP3 Bydgoszcz) Oddz. Terenowy Warszawa (TVP2) Oddz. Terenowy Bydgoszcz (TVP3 Bydgoszcz)"
+    },
+    {
+     "type": "text",
+     "text": "Oddz. Terenowy Bydgoszcz (TVP3 Bydgoszcz) Oddz. Terenowy Warszawa (TVP2)"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa oddziału TVP S.A., Ą ME . ; ."
+    },
+    {
+     "type": "text",
+     "text": "który swym zasięgiem powierzchniowym obejmuje on ."
+    },
+    {
+     "type": "text",
+     "text": "obszar wymieniony w kolumnie 2"
+    },
+    {
+     "type": "text",
+     "text": "Oddz. Terenowy Lublin (TVP3 Lublin)"
+    },
+    {
+     "type": "text",
+     "text": "Oddz. Terenowy Lublin (TVP3 Lublin) Oddz. Terenowy Lublin (TVP3 Lublin)"
+    },
+    {
+     "type": "text",
+     "text": "Oddz. Terenowy Lublin (TVP3 Lublin) Oddz. Terenowy Lublin (TVP2) Oddz. Terenowy Lublin (TVP3 Lublin) Oddz. Terenowy Lublin (TVP2) EL EEE krasnostawski, chełmski, włodawski powiat biłgorajski Zamość p.g., powiaty: hrubieszowski, tomaszowski, zamojski"
+    },
+    {
+     "type": "text",
+     "text": "Oddz. Terenowy Lublin (TVP2) Oddz. Terenowy Lublin (TVP3 Lublin) Oddz. Terenowy Lublin (TVP2)"
     },
     {
      "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO LUBUSKIE Nazwa oddziału TVP S.A., który swym zasięgiem powierzchniowym obejmuje obszar wymieniony w kolumnie 2 eG KKA 3 Gorzów Wielkopolski p.g. Oddz. Terenowy Poznań (TVP3 Poznań)"
+     "type": "text",
+     "text": "WOJEWÓDZTWO LUBUSKIE"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Powiaty w granicach administracyjnych"
     },
     {
-     "type": "ocr",
-     "text": "2 | powiaty: gorzowski, strzelecko- drezdenecki Oddz. Terenowy Poznań (TVP3 Poznań)"
-    },
-    {
-     "type": "ocr",
-     "text": "powiaty: międzyrzecki, sulęciński, słubicki Oddz. Terenowy Poznań (TVP3 Poznań)"
-    },
-    {
-     "type": "ocr",
-     "text": "Zielona Góra p.g. Oddz. Terenowy Poznań (TVP3 Poznań) 5 | powiaty: zielonogórski, Oddz. Terenowy Poznań (TVP3 Poznań) świebodziński, krośnieński m powiaty: żarski, żagański Oddz. Terenowy Poznań (TVP2) powiat nowosolski Oddz. Terenowy Poznań (TVP2)"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO ŁÓDZKIE Nazwa oddziału TVP S.A., który swym zasięgiem powierzchniowym obejmuje obszar wymieniony w kolumnie 2"
-    },
-    {
-     "type": "ocr",
-     "text": "Powiaty w granicach administracyjnych"
-    },
-    {
-     "type": "ocr",
-     "text": "powiaty: sieradzki, łaski, zduńskowolski, poddębicki, Oddz. Terenowy Łódź (TVP3 Łódź) wieruszowski, wieluński, pajęczański Oddz. Terenowy Łódź (TVP2) Oddz. Terenowy Katowice (TVP2) 2 | powiaty: bełchatowski, Oddz. Terenowy Łódź (TVP3 Łódź) radomszczański Oddz. Terenowy Katowice (TVP2) 3 | Piotrków Trybunalski p.g., Oddz. Terenowy Łódź (TVP3 Łódź) powiaty: piotrkowski, opoczyński Oddz. Terenowy Łódź (TVP2) powiaty: tomaszowski, pabianicki, łódzki wschodni Oddz. Terenowy Łódź (TVP3 Łódź)"
-    },
-    {
-     "type": "ocr",
-     "text": "Łódź p.g. Oddz. Terenowy Łódź (TVP3 Łódź)"
-    },
-    {
-     "type": "ocr",
-     "text": "5. powiaty: kutnowski, łęczycki, zgierski Oddz. Terenowy Łódź (TVP3 Łódź) 7 | Skierniewice p.g., powiaty: Oddz. Terenowy Łódź (TVP3 Łódź) Oddz. Terenowy Łódź (TVP2) skierniewicki, łowicki, rawski"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO MAŁOPOLSKIE"
-    },
-    {
-     "type": "ocr",
-     "text": "Powiaty w eranicach Nazwa oddziału TVP S.A., a i M nych który swym zasięgiem powierzchniowym obejmuje JJBY obszar zmieniony w kolumnie 2 Kraków p.g. Oddz. Terenowy Kraków (TVP3 Raków)"
-    },
-    {
-     "type": "ocr",
-     "text": "Tarnów p.g., powiaty: tarnowski, dąbrowski Oddz. Terenowy Kraków (TVP3 Kraków)"
-    },
-    {
-     "type": "ocr",
-     "text": "3 | Nowy Sącz p.g., powiaty: Oddz. Terenowy Kraków (TVP2) nowosądecki, gorlicki Oddz. Terenowy Rzeszów (TVP2) powiaty: bocheński, brzeski, Oddz. Terenowy Kraków (TVP3 Kraków) wielicki, proszowicki 5 | powiaty: nowotarski, tatrzański, Oddz. Terenowy Kraków (TVP3 Kraków) limanowski Oddz. Terenowy Kraków (TVP2) powiaty: myślenicki, wadowicki, suski Oddz. Terenowy Kraków (TVP3 Kraków) Oddz. Terenowy Kraków (TVP2) | 7 |powiaykukowski miechowski | 0 | krakowski, miechowski Oddz. Joz Terenowy Krakow TYPSKaków) || Kraków (TVP3 Kraków) ae a chrzanowski, olkuski ee Terenowy Kraków (TVP3 Kraków) Oddz. Terenowy Katowice (TVP2)"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO MAZOWIECKIE"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa oddziału TVP S.A., który swym zasięgiem powierzchniowym obejmuje obszar wymieniony w kolumnie 2 3 DETNNNNEM Oddz. Jota Terenowy Wansawa (TVPS Warszawa) Warszawa (TVP3 Warszawa)"
-    },
-    {
-     "type": "ocr",
-     "text": "MZ ve warszawski zachodni, a Terenowy Warszawa (TVP3 Warszawa) pruszkowski, żyrardowski, sochaczewski s powiaty: legionowski, wołomiński, nowodworski Oddz. Terenowy Warszawa (TVP3 Warszawa) 4 | Radom p.g. Oddz. Terenowy Warszawa (TVP3 Warszawa) powiaty: radomski, białobrzeski, kozienicki, lipski, Oddz. Terenowy Kraków (TVP2)"
-    },
-    {
-     "type": "ocr",
-     "text": "Powiaty w granicach administracyjnych"
-    },
-    {
-     "type": "ocr",
-     "text": "zwoleński, szydłowiecki, przysuski Oddz. Terenowy Lublin (TVP2)"
-    },
-    {
-     "type": "ocr",
-     "text": "Oddz. Terenowy Warszawa (TVP2) Siedlce p.g., powiaty: siedlecki, łosicki, sokołowski, Oddz. Terenowy Warszawa (TVP2) ostrowski"
-    },
-    {
-     "type": "ocr",
-     "text": "wyszkowski"
-    },
-    {
-     "type": "ocr",
-     "text": "ciechanowski, mławski, żuromiński Oddz. Terenowy Warszawa (TVP2)"
-    },
-    {
-     "type": "ocr",
-     "text": "[fermions [een ements"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO OPOLSKIE . . Nazwa oddziału TVP S.A, Powiaty w granicach ; Ne . ; RE"
-    },
-    {
-     "type": "ocr",
-     "text": "7. . który swym zasięgiem powierzchniowym obejmuje administracyjnych NE - obszar wymieniony w kolumnie 2 powiaty: brzeski, namysłowski Oddz. Terenowy Wrocław (TVP3 Wrocław)"
-    },
-    {
-     "type": "ocr",
-     "text": "Oddz. Terenowy Katowice (TVP2)"
-    },
-    {
-     "type": "ocr",
-     "text": "5 powiaty: krapkowicki, prudnicki 7 | powiaty: kędzierzyńsko-kozielski Oddz. Terenowy Katowice (TVP3 Katowice) głubczycki Oddz. Terenowy Katowice (TVP2)"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO PODKARPACKIE Powiat icach Nazwa oddziału TVP S.A., ini y t ych który swym zasięgiem powierzchniowym obejmuje ammanistracy nye obszar wymieniony w kolumnie 2 1 | Rzeszów p.g., powiat rzeszowski Oddz. Terenowy Rzeszów (TVP3 Rzeszów) 2 | powiaty: ropczycko-sędziszowski, strzyżowski, dębicki, Oddz. Terenowy Rzeszów (TVP2) mielecki Oddz. Terenowy Kraków (TVP2) Oddz. Terenowy Rzeszów (TVP2) Oddz. Terenowy Kraków (TVP2)"
-    },
-    {
-     "type": "ocr",
-     "text": "powiaty: kolbuszowski, niżański, Tarnobrzeg m.w., powiaty: tarnobrzeski, stalowowolski powiaty: leżajski, łańcucki, Oddz. Terenowy Rzeszów (TVP2) przeworski 5 | Przemyśl p.g., Oddz. Terenowy Rzeszów (TVP3 Rzeszów) powiaty: jarosławski, lubaczowski, przemyski Oddz. Terenowy Rzeszów (TVP2) powiaty: sanocki, brzozowski, Oddz. Terenowy Rzeszów (TVP2) bieszczadzki 7 | Krosno p.g., powiaty: jasielski, Oddz. Terenowy Rzeszów (TVP2) krośnieński"
-    },
-    {
-     "type": "ocr",
-     "text": "4"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO PODLASKIE . . Nazwa oddziału TVP S.A., Powiaty w granicach Z . - 2. Lp. 7 . który swym zasięgiem powierzchniowym obejmuje administracyjnych WEŃ . obszar wymieniony w kolumnie 2 ! | Suwałki p.g., powiaty: Oddz. Terenowy Białystok (TVP2) suwalski, sejneński 2 | powiaty: sokólski, Oddz. Terenowy Białystok (TVP3 Białystok) augustowski Oddz. Terenowy Białystok (TVP2) Białystok p.g. Oddz. Terenowy Białystok (TVP3 Białystok) powiat białostocki Oddz. Terenowy Białystok (TVP3 Białystok) 5 | powiaty: bielski, Oddz. Terenowy Białystok (TVP3 Białystok) hajnowski, siemiatycki Oddz. Terenowy Białystok (TVP2) Łomża p.g., powiaty: Oddz. Terenowy Białystok (TVP3 Białystok) łomżyński, wysokomazowiecki, Oddz. Terenowy Białystok (TVP2) zambrowski 7 | powiaty: grajewski, kolneński, Oddz. Terenowy Białystok (TVP3 Białystok) moniecki"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO POMORSKIE Powiat icach Nazwa oddziału TVP S.A., oni y tenn ch który swym zasięgiem powierzchniowym obejmuje ACMNISIrACY nyc obszar wymieniony w kolumnie 2 2 powiaty: chojnicki, Oddz. Terenowy Gdańsk (TVP2) człuchowski, bytowski Oddz. Terenowy Szczecin (TVP2) owiat lęborski Oddz. Terenowy Gdańsk (TVP3 Gdańsk) łupsk p.g., powiat słupski Oddz. Terenowy Szczecin (TVP2) 3 | powiaty: wejherowski, pucki, Oddz. Terenowy Gdańsk (TVP3 Gdańsk) kartuski, kościerski Gdynia p.g., Sopot m.w Oddz. Terenowy Gdańsk (TVP3 Gdańsk) Gdańsk p.g. Oddz. Terenowy Gdańsk (TVP3 Gdańsk)"
-    },
-    {
-     "type": "ocr",
-     "text": "—"
-    },
-    {
-     "type": "ocr",
-     "text": "2 ns"
-    },
-    {
-     "type": "ocr",
-     "text": "powiaty: starogardzki, gdański, Oddz. Terenowy Gdańsk (TVP3 Gdańsk) tczewski 7 | powiaty: malborski, nowodworski, Oddz. Terenowy Gdańsk (TVP3 Gdańsk) kwidzyński"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO ŚLĄSKIE Nazwa oddziału TVP S.A., który swym zasięgiem powierzchniowym obejmuje obszar wymieniony w kolumnie 2"
-    },
-    {
-     "type": "ocr",
-     "text": "Powiaty w granicach administracyjnych Oddz. Terenowy Katowice (TVP3 Katowice) Oddz. Terenowy Katowice (TVP2)"
-    },
-    {
-     "type": "ocr",
-     "text": "Oddz. Terenowy Katowice (TVP2)"
-    },
-    {
-     "type": "ocr",
-     "text": "Zabrze p.g., Ruda Sląska p.g. Oddz. Terenowy Katowice (TVP3 Katowice)"
-    },
-    {
-     "type": "ocr",
-     "text": "Gliwice p.g., powiat gliwicki Oddz. Terenowy Katowice (TVP3 Katowice) Chorzów p.g., Siemianowice Śląskie p.g., Oddz. Terenowy Katowice (TVP3 Katowice) Świętochłowice PB. Piekary Slaskie p-g. Mysłowice p.g., Tychy p.g., powiaty: Oddz. Terenowy Katowice (TVP3 Katowice) pszczyński, mikołowski, tyski Częstochowa p.g., Oddz. Terenowy Katowice (TVP3 Katowice) powiaty: częstochowski, myszkowski, kłobucki"
-    },
-    {
-     "type": "ocr",
-     "text": "Jastrzębie-Zdrój p.g., Rybnik p.g., Żory p.g., powiaty: raciborski, wodzisławski, rybnicki 2 | Bielsko-Biała p.g., powiaty: żywiecki, bielski, cieszyński"
-    },
-    {
-     "type": "ocr",
-     "text": "|>| Pabrowa Górnicza p.g., powiaty: będziński, zawierciański | Oddz. Odd. Terenowy Katowice (TVPSKatowies) | 0 Katowice (TVP3 Katowice) iu Bytom p.g., powiaty: ee Terenowy Katowice (TVP3 Katowice) lubliniecki, tarnogórski Jaworzno p.g., Sosnowiec p.g. Oddz. Terenowy Katowice (TVP3 Katowice)"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWODZTWO SWIETOKRZYSKIE"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa oddziatu TVP S.A., który swym zasięgiem powierzchniowym obejmuje"
-    },
-    {
-     "type": "ocr",
-     "text": "Powiaty w granicach Lp. administracyjnych obszar wymieniony w kolumnie 2 Es RC EEEE powiaty: sandomierski, staszowski Oddz. Terenowy Kraków (TVP2)"
-    },
-    {
-     "type": "ocr",
-     "text": "| pińczowski i włoszczowski 4"
-    },
-    {
-     "type": "ocr",
-     "text": "pa"
-    },
-    {
-     "type": "ocr",
-     "text": "5"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO WARMIŃSKO-MAZURSKIE"
-    },
-    {
-     "type": "ocr",
-     "text": ". . Nazwa oddziału TVP S.A., administracyjnych który swym zasięgiem powierzchniowym obejmuje obszar wymieniony w kolumnie 2"
-    },
-    {
-     "type": "ocr",
-     "text": "1 |Elbląg p.g., powiat elbląski Oddz. Terenowy Gdańsk (TVP3 Gdańsk)"
-    },
-    {
-     "type": "ocr",
-     "text": "2 | powiaty: ełcki, giżycki, Oddz. Terenowy Białystok (TVP2) olecko-gołdapski, piski ."
-    },
-    {
-     "type": "ocr",
-     "text": "3 | powiaty: iławski, nowomiejski, Oddz. Terenowy Gdańsk (TVP2) działdowski 4 | powiaty: ostródzki, olsztyński Oddz. Terenowy Gdańsk (TVP2) Oddz. Terenowy Gdańsk"
-    },
-    {
-     "type": "ocr",
-     "text": "5 | Olsztyn p.g. Oddz. Terenowy Gdańsk"
-    },
-    {
-     "type": "ocr",
-     "text": "powiaty: lidzbarski, braniewski, Oddz. Terenowy Gdańsk (TVP2) bartoszycki, kętrzyński"
-    },
-    {
-     "type": "ocr",
-     "text": "7 | powiaty: mrągowski, szczycieński, Oddz. Terenowy Gdańsk (TVP2) nidzicki Oddz. Terenowy Warszawa (TVP2)"
-    },
-    {
-     "type": "ocr",
-     "text": "Lp. Powiaty w granicach"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO WIELKOPOLSKIE Powiat icach Nazwa oddziału TVP S.A., mi y M gran ych który swym zasięgiem powierzchniowym obejmuje ACMINIS TACY NYC obszar wymieniony w kolumnie 2"
-    },
-    {
-     "type": "ocr",
-     "text": "2 | powiaty: poznański, obornicki, Oddz. Terenowy Poznań (TVP3 Poznań) średzki, śremski Oddz. Terenowy Poznań (TVP2) 3 | Konin p.g., powiaty: koniński, Oddz. Terenowy Poznań (TVP2) kolski, słupecki, turecki Kalisz p.g., powiaty: kaliski, Oddz. Terenowy Poznań (TVP3 Poznań) jarociński, pleszewski Oddz. Terenowy Poznań (TVP2) 5 | powiaty: ostrowski, krotoszyński, ostrzeszowski, kępiński Oddz. Terenowy Poznań (TVP2) Oddz. Terenowy Wrocław (TVP2) Leszno p.g., powiaty: leszczyński, Oddz. Terenowy Poznań (TVP2) gostyński, kościański, rawicki 7 | powiaty: szamotulski, wolsztyński, Oddz. Terenowy Poznań (TVP2) międzychodzki, grodziski, nowotomyski powiaty: pilski, chodzieski, Oddz. Terenowy Poznań (TVP2) czarnkowsko-trzcianecki, złotowski powiaty: gnieźnieński, wągrowiecki, wrzesiński Oddz. Terenowy Poznań (TVP2)"
-    },
-    {
-     "type": "ocr",
-     "text": "4"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO ZACHODNIOPOMORSKIE . . Nazwa oddziału TVP S.A., Powiaty w granicach , NE . . RE Lp. . . który swym zasięgiem powierzchniowym obejmuje administracyjnych ae . obszar wymieniony w kolumnie 2 Szczecin p.g., powiat policki Oddz. Terenowy Szczecin (TVP3 Szczecin) 2 | Świnoujście p.g., powiaty: Oddz. Terenowy Szczecin (TVP3 Szczecin) kamieński, goleniowski, gryficki powiaty: kołobrzeski, białogardzki, drawski, świdwiński, Oddz. Terenowy Szczecin (TVP2) wałecki Oddz. Terenowy Poznań (TVP2) 4 | Koszalin p.g., powiaty: Oddz. Terenowy Szczecin (TVP2) koszaliński, sławieński, szczecinecki 5 | powiaty: stargardzki, choszczeński, gryfiński, pyrzycki, Oddz. Terenowy Szczecin (TVP3 Szczecin) myśliborski"
+     "type": "text",
+     "text": "Nazwa oddziału TVP S.A., który swym zasięgiem powierzchniowym obejmuje obszar wymieniony w kolumnie 2 eG KKA Gorzów Wielkopolski p.g. 2 | powiaty: gorzowski, strzelecko- drezdenecki"
+    },
+    {
+     "type": "text",
+     "text": "powiaty: międzyrzecki, sulęciński, słubicki"
+    },
+    {
+     "type": "text",
+     "text": "Zielona Góra p.g. 5 | powiaty: zielonogórski, świebodziński, krośnieński m powiaty: żarski, żagański powiat nowosolski"
+    },
+    {
+     "type": "text",
+     "text": "WOJEWÓDZTWO ŁÓDZKIE"
+    },
+    {
+     "type": "text",
+     "text": "Powiaty w granicach administracyjnych powiaty: sieradzki, łaski, zduńskowolski, poddębicki, wieruszowski, wieluński, pajęczański"
+    },
+    {
+     "type": "text",
+     "text": "2 | powiaty: bełchatowski, radomszczański 3 | Piotrków Trybunalski p.g., powiaty: piotrkowski, opoczyński powiaty: tomaszowski, pabianicki, łódzki wschodni"
+    },
+    {
+     "type": "text",
+     "text": "Łódź p.g."
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_19/ust_5",
+     "text": "powiaty: kutnowski, łęczycki, zgierski 7 | Skierniewice p.g., powiaty: skierniewicki, łowicki, rawski",
+     "children": [
+      {
+       "type": "text",
+       "text": "3 Oddz. Terenowy Poznań (TVP3 Poznań) Oddz. Terenowy Poznań (TVP3 Poznań)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Poznań (TVP3 Poznań)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Poznań (TVP3 Poznań) Oddz. Terenowy Poznań (TVP3 Poznań)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Poznań (TVP2) Oddz. Terenowy Poznań (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa oddziału TVP S.A., który swym zasięgiem powierzchniowym obejmuje obszar wymieniony w kolumnie 2 Oddz. Terenowy Łódź (TVP3 Łódź) Oddz. Terenowy Łódź (TVP2) Oddz. Terenowy Katowice (TVP2) Oddz. Terenowy Łódź (TVP3 Łódź) Oddz. Terenowy Katowice (TVP2) Oddz. Terenowy Łódź (TVP3 Łódź) Oddz. Terenowy Łódź (TVP2) Oddz. Terenowy Łódź (TVP3 Łódź)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Łódź (TVP3 Łódź) Oddz. Terenowy Łódź (TVP3 Łódź) Oddz. Terenowy Łódź (TVP3 Łódź) Oddz. Terenowy Łódź (TVP2)"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO MAŁOPOLSKIE"
+      },
+      {
+       "type": "text",
+       "text": "Powiaty w eranicach a i M nych JJBY"
+      },
+      {
+       "type": "text",
+       "text": "Kraków p.g."
+      },
+      {
+       "type": "text",
+       "text": "Tarnów p.g., powiaty: tarnowski, dąbrowski"
+      },
+      {
+       "type": "text",
+       "text": "3 | Nowy Sącz p.g., powiaty: nowosądecki, gorlicki powiaty: bocheński, brzeski, wielicki, proszowicki 5 | powiaty: nowotarski, tatrzański, limanowski powiaty: myślenicki, wadowicki, suski"
+      },
+      {
+       "type": "text",
+       "text": "| 7 |powiaykukowski miechowski | 0 krakowski, miechowski"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa oddziału TVP S.A., który swym zasięgiem powierzchniowym obejmuje obszar zmieniony w kolumnie 2 Oddz. Terenowy Kraków (TVP3 Raków)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Kraków (TVP3 Kraków)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Kraków (TVP2) Oddz. Terenowy Rzeszów (TVP2) Oddz. Terenowy Kraków (TVP3 Kraków)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Kraków (TVP3 Kraków) Oddz. Terenowy Kraków (TVP2) Oddz. Terenowy Kraków (TVP3 Kraków) Oddz. Terenowy Kraków (TVP2) | Oddz. Joz Terenowy Krakow TYPSKaków) || Kraków (TVP3 Kraków) ae a chrzanowski, olkuski ee Terenowy Kraków (TVP3 Kraków)"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO MAZOWIECKIE"
+      },
+      {
+       "type": "text",
+       "text": "Powiaty w granicach administracyjnych"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Katowice (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa oddziału TVP S.A., który swym zasięgiem powierzchniowym obejmuje obszar wymieniony w kolumnie 2 3 DETNNNNEM Oddz. Jota Terenowy Wansawa (TVPS Warszawa) Warszawa (TVP3 Warszawa)"
+      },
+      {
+       "type": "text",
+       "text": "MZ ve warszawski zachodni, pruszkowski, żyrardowski, sochaczewski"
+      },
+      {
+       "type": "text",
+       "text": "s powiaty: legionowski, wołomiński, nowodworski 4 | Radom p.g. powiaty: radomski, białobrzeski, kozienicki, lipski, zwoleński, szydłowiecki, przysuski"
+      },
+      {
+       "type": "text",
+       "text": "Siedlce p.g., powiaty: siedlecki, łosicki, sokołowski, ostrowski"
+      },
+      {
+       "type": "text",
+       "text": "wyszkowski a Terenowy Warszawa (TVP3 Warszawa)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Warszawa (TVP3 Warszawa)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Warszawa (TVP3 Warszawa) Oddz. Terenowy Kraków (TVP2) Oddz. Terenowy Lublin (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Warszawa (TVP2) Oddz. Terenowy Warszawa (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "[fermions [een ements ciechanowski, mławski, żuromiński Oddz. Terenowy Warszawa (TVP2)"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO OPOLSKIE"
+      },
+      {
+       "type": "text",
+       "text": ". . Powiaty w granicach administracyjnych"
+      },
+      {
+       "type": "text",
+       "text": "7"
+      },
+      {
+       "type": "text",
+       "text": "powiaty: brzeski, namysłowski"
+      },
+      {
+       "type": "text",
+       "text": "5 powiaty: krapkowicki, prudnicki 7 | powiaty: kędzierzyńsko-kozielski głubczycki"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO PODKARPACKIE"
+      },
+      {
+       "type": "text",
+       "text": "Powiat i cach ini y t ych ammanistracy nye 1 | Rzeszów p.g., powiat rzeszowski 2 | powiaty: ropczycko-sędziszowski, strzyżowski, dębicki, mielecki powiaty: kolbuszowski, niżański, Tarnobrzeg m.w., powiaty: tarnobrzeski, stalowowolski powiaty: leżajski, łańcucki, 4 przeworski 5 | Przemyśl p.g., powiaty: jarosławski, lubaczowski, przemyski powiaty: sanocki, brzozowski, bieszczadzki 7 | Krosno p.g., powiaty: jasielski, krośnieński"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa oddziału TVP S.A, który swym zasięgiem powierzchniowym obejmuje ; Ne . ; RE NE - obszar wymieniony w kolumnie 2 Oddz. Terenowy Wrocław (TVP3 Wrocław)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Katowice (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Katowice (TVP3 Katowice) Oddz. Terenowy Katowice (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa oddziału TVP S.A., który swym zasięgiem powierzchniowym obejmuje obszar wymieniony w kolumnie 2 Oddz. Terenowy Rzeszów (TVP3 Rzeszów) Oddz. Terenowy Rzeszów (TVP2) Oddz. Terenowy Kraków (TVP2) Oddz. Terenowy Rzeszów (TVP2) Oddz. Terenowy Kraków (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Rzeszów (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Rzeszów (TVP3 Rzeszów) Oddz. Terenowy Rzeszów (TVP2) Oddz. Terenowy Rzeszów (TVP2) Oddz. Terenowy Rzeszów (TVP2)"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO PODLASKIE"
+      },
+      {
+       "type": "text",
+       "text": ". . Powiaty w granicach Lp. 7 . administracyjnych ! | Suwałki p.g., powiaty: suwalski, sejneński 2 | powiaty: sokólski, augustowski Białystok p.g. powiat białostocki 5 | powiaty: bielski, hajnowski, siemiatycki Łomża p.g., powiaty: łomżyński, wysokomazowiecki, zambrowski 7 | powiaty: grajewski, kolneński, moniecki"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO POMORSKIE Powiat i cach oni y tenn ch ACMNISIrACY nyc 2 powiaty: chojnicki, — człuchowski, bytowski owiał lęborski"
+      },
+      {
+       "type": "text",
+       "text": "2 ns łupsk p.g., powiat słupski 3 | powiaty: wejherowski, pucki, kartuski, kościerski Gdynia p.g., Sopot m.w Gdańsk p.g. powiaty: starogardzki, gdański, tczewski 7 | powiaty: malborski, nowodworski, kwidzyński"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa oddziału TVP S.A., który swym zasięgiem powierzchniowym obejmuje Z . - 2. WEŃ ."
+      },
+      {
+       "type": "text",
+       "text": "obszar wymieniony w kolumnie 2 Oddz. Terenowy Białystok (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Białystok (TVP3 Białystok) Oddz. Terenowy Białystok (TVP2) Oddz. Terenowy Białystok (TVP3 Białystok) Oddz. Terenowy Białystok (TVP3 Białystok) Oddz. Terenowy Białystok (TVP3 Białystok) Oddz. Terenowy Białystok (TVP2) Oddz. Terenowy Białystok (TVP3 Białystok) Oddz. Terenowy Białystok (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Białystok (TVP3 Białystok)"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa oddziału TVP S.A., który swym zasięgiem powierzchniowym obejmuje obszar wymieniony w kolumnie 2 Oddz. Terenowy Gdańsk (TVP2) Oddz. Terenowy Szczecin (TVP2) Oddz. Terenowy Gdańsk (TVP3 Gdańsk) Oddz. Terenowy Szczecin (TVP2) Oddz. Terenowy Gdańsk (TVP3 Gdańsk)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Gdańsk (TVP3 Gdańsk) Oddz. Terenowy Gdańsk (TVP3 Gdańsk) Oddz. Terenowy Gdańsk (TVP3 Gdańsk)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Gdańsk (TVP3 Gdańsk)"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO ŚLĄSKIE Powiaty w granicach administracyjnych Jastrzębie-Zdrój p.g., Rybnik p.g., Żory p.g., powiaty: raciborski, wodzisławski, rybnicki 2 | Bielsko-Biała p.g., powiaty: żywiecki, bielski, cieszyński Zabrze p.g., Ruda Sląska p.g."
+      },
+      {
+       "type": "text",
+       "text": "Gliwice p.g., powiat gliwicki Chorzów p.g., Siemianowice Śląskie p.g., Świętochłowice PB. Piekary Slaskie p-g. Mysłowice p.g., Tychy p.g., powiaty: pszczyński, mikołowski, tyski Częstochowa p.g., powiaty: częstochowski, myszkowski, kłobucki"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa oddziału TVP S.A., który swym zasięgiem powierzchniowym obejmuje obszar wymieniony w kolumnie 2 Oddz. Terenowy Katowice (TVP3 Katowice) Oddz. Terenowy Katowice (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Katowice (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Katowice (TVP3 Katowice)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Katowice (TVP3 Katowice) Oddz. Terenowy Katowice (TVP3 Katowice)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Katowice (TVP3 Katowice)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Katowice (TVP3 Katowice)"
+      },
+      {
+       "type": "text",
+       "text": "|>| Pabrowa Górnicza p.g., powiaty: będziński, zawierciański | Oddz. Odd. Terenowy Katowice (TVPSKatowies) | 0 Katowice (TVP3 Katowice) iu Bytom p.g., powiaty: lubliniecki, tarnogórski Jaworzno p.g., Sosnowiec p.g."
+      },
+      {
+       "type": "text",
+       "text": "ee Terenowy Katowice (TVP3 Katowice)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Katowice (TVP3 Katowice)"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO ŚWIĘTOKRZYSKIE Powiaty w granicach Lp. administracyjnych"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa oddziału TVP S.A., który swym zasięgiem powierzchniowym obejmuje obszar wymieniony w kolumnie 2 Es RC EEEE powiaty: sandomierski, staszowski | pińczowski i włoszczowski 4 5"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Kraków (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "pa"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO WARMIŃSKO-MAZURSKIE"
+      },
+      {
+       "type": "text",
+       "text": ". ."
+      },
+      {
+       "type": "text",
+       "text": "Lp. Powiaty w granicach administracyjnych 1 |Elbląg p.g., powiat elbląski 2 | powiaty: ełcki, giżycki, olecko-gołdapski, piski 3 | powiaty: iławski, nowomiejski, działdowski 4 | powiaty: ostródzki, olsztyński"
+      },
+      {
+       "type": "text",
+       "text": "5 | Olsztyn p.g. powiaty: lidzbarski, braniewski, bartoszycki, kętrzyński 7 | powiaty: mrągowski, szczycieński, nidzicki"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa oddziału TVP S.A., który swym zasięgiem powierzchniowym obejmuje obszar wymieniony w kolumnie 2 Oddz. Terenowy Gdańsk (TVP3 Gdańsk) Oddz. Terenowy Białystok (TVP2) . Oddz. Terenowy Gdańsk (TVP2) Oddz. Terenowy Gdańsk (TVP2) Oddz. Terenowy Gdańsk Oddz. Terenowy Gdańsk Oddz. Terenowy Gdańsk (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Gdańsk (TVP2) Oddz. Terenowy Warszawa (TVP2)"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO WIELKOPOLSKIE Powiat i cach mi y M gran ych ACMINIS TACY NYC"
+      },
+      {
+       "type": "text",
+       "text": "2 | powiaty: poznański, obornicki, średzki, śremski 3 | Konin p.g., powiaty: koniński, kolski, słupecki, turecki Kalisz p.g., powiaty: kaliski,"
+      },
+      {
+       "type": "text",
+       "text": "4 jarociński, pleszewski 5 | powiaty: ostrowski, krotoszyński, ostrzeszowski, kępiński"
+      },
+      {
+       "type": "text",
+       "text": "Leszno p.g., powiaty: leszczyński, gostyński, kościański, rawicki 7 | powiaty: szamotulski, wolsztyński, międzychodzki, grodziski, nowotomyski powiaty: pilski, chodzieski, czarnkowsko-trzcianecki, złotowski powiaty: gnieźnieński, wągrowiecki, wrzesiński"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO ZACHODNIOPOMORSKIE"
+      },
+      {
+       "type": "text",
+       "text": ". ."
+      },
+      {
+       "type": "text",
+       "text": "Powiaty w granicach Lp. . . administracyjnych Szczecin p.g., powiat policki 2 | Świnoujście p.g., powiaty: kamieński, goleniowski, gryficki powiaty: kołobrzeski, białogardzki, drawski, świdwiński, wałecki 4 | Koszalin p.g., powiaty: koszaliński, sławieński, szczecinecki 5 | powiaty: stargardzki, choszczeński, gryfiński, pyrzycki, myśliborski"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa oddziału TVP S.A., który swym zasięgiem powierzchniowym obejmuje obszar wymieniony w kolumnie 2"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Poznań (TVP3 Poznań) Oddz. Terenowy Poznań (TVP2) Oddz. Terenowy Poznań (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Poznań (TVP3 Poznań) Oddz. Terenowy Poznań (TVP2) Oddz. Terenowy Poznań (TVP2) Oddz. Terenowy Wrocław (TVP2) Oddz. Terenowy Poznań (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Poznań (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Poznań (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Poznań (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa oddziału TVP S.A., , NE . . RE który swym zasięgiem powierzchniowym obejmuje ae ."
+      },
+      {
+       "type": "text",
+       "text": "obszar wymieniony w kolumnie 2 Oddz. Terenowy Szczecin (TVP3 Szczecin) Oddz. Terenowy Szczecin (TVP3 Szczecin)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Szczecin (TVP2) Oddz. Terenowy Poznań (TVP2) Oddz. Terenowy Szczecin (TVP2)"
+      },
+      {
+       "type": "text",
+       "text": "Oddz. Terenowy Szczecin (TVP3 Szczecin)"
+      }
+     ]
     }
    ]
   }
@@ -698,255 +902,495 @@
     },
     {
      "type": "note",
-     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa rozgłośni, która swoim"
-    },
-    {
-     "type": "ocr",
-     "text": "Dziennik Ustaw Nr 164 — 10445 — Poz. 1350 WOJEWÓDZTWO LUBELSKIE"
-    },
-    {
-     "type": "ocr",
-     "text": "zasięgiem powierzchniowym obejmuje obszar wymieniony w kolumnie 2"
-    },
-    {
-     "type": "ocr",
-     "text": "L Powiaty w granicach Siedziba P- administracyjnych eG NENA WEZ WE Lublin p.g., powiaty: łęczyński, świdnicki Radio Lublin S.A. Lublin powiaty: lubelski, puławski Radio Lublin S.A. powiaty: janowski, kraśnicki, opolski Radio Lublin S.A. powiaty: lubartowski, łukowski, rycki Radio Lublin S.A. 5 | Biała Podlaska p.g., powiaty: bialski, Radio Lublin S.A Lublin parczewski, radzyński Chełm p.g., powiaty: chełmski, Radio Lublin S.A Lublin krasnostawski, włodawski Radio Lublin S.A"
-    },
-    {
-     "type": "ocr",
-     "text": "7 | Zamość p.g., powiaty: biłgorajski, hrubieszowski, tomaszowski, zamojski"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO LUBUSKIE . Nazwa rozgłośni, która swoim Powiaty w granicach 1. : . RE 2 oy Lp. . zasięgiem powierzchniowym obejmuje Siedziba administracyjnych NE : obszar wymieniony w kolumnie 2 Gorzów Wielkopolski p.g. Radio Zachód S.A. Zielona Góra 2 | powiaty: gorzowski, Radio Zachód S.A Zielona Góra strzelecko-drezdenecki 3 | powiaty: międzyrzecki, sulęciński, Radio Zachód S.A. Zielona Góra słubicki Zielona Góra p.g. Radio Zachód S.A. powiaty: zielonogórski, Radio Zachód S.A Zielona Góra świebodziński, krośnieński powiaty: żarski, żagański Radio Zachód S.A 7 | powiat nowosolski Radio Zachód S.A"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO ŁÓDZKIE . Nazwa rozgłośni, która swoim Powiaty w granicach O. . . EE Lp. . zasięgiem powierzchniowym obejmuje Siedziba administracyjnych NE : obszar wymieniony w kolumnie 2 PA] 2 || 4 | powiaty: sieradzki, wieruszowski, Radio Łódź S.A. Łódź wieluński, łaski, zduńskowolski, poddębicki, pajęczański"
-    },
-    {
-     "type": "ocr",
-     "text": "3 | Piotrków Trybunalski p.g., powiaty: Radio Kielce S.A. Kielce piotrkowski, opoczyński 4 | powiaty: tomaszowski, pabianicki, Radio Łódź S.A. Łódź łódzki wschodni"
-    },
-    {
-     "type": "ocr",
-     "text": "|"
-    },
-    {
-     "type": "ocr",
-     "text": "2 | powiaty: bełchatowski, radomszczański Radio Katowice S.A"
-    },
-    {
-     "type": "ocr",
-     "text": "5 | Łódź p.g. Radio Łódź S.A powiaty: kutnowski, łęczycki, zgierski Radio Łódź S.A Skierniewice p.g., powiaty: Radio Łódź S.A Łódź skierniewicki, łowicki, rawski"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO MAŁOPOLSKIE"
-    },
-    {
-     "type": "ocr",
-     "text": "zasięgiem powierzchniowym obejmuje"
-    },
-    {
-     "type": "ocr",
-     "text": "Lp. \"adminiswocyjnych. Siedziba obszar wymieniony w kolumnie 2 1 | 20] 2 3] 4 1 | Kraków p.g. Radio Kraków S.A. Kraków"
-    },
-    {
-     "type": "ocr",
-     "text": "Nazwa rozgłośni, która swoim"
-    },
-    {
-     "type": "ocr",
-     "text": "2 | Tarnów p.g., powiaty: tarnowski, Radio Kraków S.A. Kraków dąbrowski 3 | Nowy Sącz p.g., powiaty: Radio Kraków S.A. Kraków nowosądecki, gorlicki 4 | powiaty: bocheński, brzeski, Radio Kraków S.A. Kraków wielicki, proszowicki 5 | powiaty: nowotarski, tatrzański, Radio Kraków S.A. Kraków limanowski powiaty: myślenicki, suski, Radio Kraków S.A. Kraków wadowicki powiaty: krakowski, miechowski Radio Kraków S.A. powiaty: oświęcimski, chrzanowski, Radio Kraków S.A. Kraków olkuski"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO MAZOWIECKIE . o, Nazwa rozgłośni, która swoim Powiaty w granicach NE - . . SEE Lp. 7. . zasięgiem powierzchniowym obejmuje Siedziba administracyjnych RE : obszar wymieniony w kolumnie 2 | 4 |"
-    },
-    {
-     "type": "ocr",
-     "text": "2"
-    },
-    {
-     "type": "ocr",
-     "text": "powiaty: grodziski, warszawski zachodni, Radio dla Ciebie S.A. Warszawa pruszkowski, żyrardowski, sochaczewski powiaty: legionowski, wołomiński, Radio dla Ciebie S.A. Warszawa nowodworski Radom p.g., powiaty: radomski, Radio Kielce S.A. Kielce białobrzeski, kozienicki, lipski, zwoleński, szydłowiecki, przysuski 5 | powiaty: miński, garwoliński, Radio dla Ciebie S.A. Warszawa węgrowski Siedlce p.g., powiaty: siedlecki, Radio dla Ciebie S.A. Warszawa łosicki, sokołowski, ostrowski Ostrołęka p.g., powiaty: Radio dła Ciebie S.A. Warszawa ostrołęcki, przasnyski, makowski, wyszkowski powiaty: ciechanowski, mławski, Radio dla Ciebie S.A. Warszawa płoński, pułtuski, żuromiński Płock p.g., powiaty: płocki, Radio dla Ciebie S.A. Warszawa gostyniński, sierpecki 10 | powiaty: piaseczyński, otwocki, Radio dla Ciebie S.A. Warszawa grójecki"
-    },
-    {
-     "type": "ocr",
-     "text": "Powiaty w granicach = : - . zasięgiem powierzchniowym obejmuje administracyjnych Siedziba yy obszar wymieniony w kolumnie 2 | DB | 4 | powiaty: brzeski, namysłowski Radio Opole S.A. Opole"
-    },
-    {
-     "type": "ocr",
-     "text": "Opole p.g. Radio Opole S.A. powiaty: opolski, strzelecki Radio Opole S.A."
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO OPOLSKIE Nazwa rozgłośni, która swoim"
-    },
-    {
-     "type": "ocr",
-     "text": "powiaty: kluczborski, oleski Radio Opole S.A powiaty: krapkowicki, prudnicki Radio Opole S.A powiaty: kędzierzyńsko-kozielski, Radio Opole S.A. głubczycki"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO PODKARPACKIE"
-    },
-    {
-     "type": "ocr",
-     "text": ". . Nazwa rozgłośni, która swoim Powiaty w granicach 2 : . s. ME Lp. „7. . zasięgiem powierzchniowym obejmuje Siedziba administracyjnych . . obszar wymieniony w kolumnie 2 PA] DB” | 4 | Rzeszów p.g., powiat rzeszowski Radio Rzeszów S.A. 2 | powiaty: dębicki, mielecki, Radio Rzeszów S.A. Rzeszów ropczycko-sędziszowski, strzyżowski 3 | Tarnobrzeg p.g., powiaty: Radio Rzeszów S.A. Rzeszów tarnobrzeski, stalowowolski, kolbuszowski, niżański"
-    },
-    {
-     "type": "ocr",
-     "text": "powiaty: leżajski, łańcucki, przeworski Radio Rzeszów S.A. 5 | Przemyśl p.g., powiaty: jarosławski, Radio Rzeszów S.A. Rzeszów lubaczowski, przemyski"
-    },
-    {
-     "type": "ocr",
-     "text": "powiaty: sanocki, brzozowski, Radio Rzeszów S.A. Rzeszów bieszczadzki"
-    },
-    {
-     "type": "ocr",
-     "text": "7 | Krosno p.g., powiaty: jasielski, Radio Rzeszów S.A. Rzeszów krośnieński"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO PODLASKIE"
-    },
-    {
-     "type": "ocr",
-     "text": ". . Nazwa rozgłośni, która swoim Powiaty w granicach Lo : . . NE Lp. ie . zasięgiem powierzchniowym obejmuje Siedziba administracyjnych NE Ą obszar wymieniony w kolumnie 2 4 Suwałki p.g., powiaty: suwalski, Radio Białystok S.A. Białystok sejneński"
-    },
-    {
-     "type": "ocr",
-     "text": "5 _ | powiaty: bielski, hajnowski, Radio Białystok S.A. Białystok siemiatycki"
-    },
-    {
-     "type": "ocr",
-     "text": "Łomża p.g., powiaty: łomżyński, Radio Białystok S.A. Białystok wysokomazowiecki, zambrowski 7 | powiaty: grajewski, kolneński, Radio Białystok S.A. Białystok moniecki"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO POMORSKIE Powiaty w granicach Nazwa rozgłośni, która swoim Lp. ny W eral zasięgiem powierzchniowym obejmuje Siedziba administracyjnych NE - obszar wymieniony w kolumnie 2 YG |]|_||||4 0 (] powiaty: chojnicki, człuchowski, Radio Koszalin S.A. Koszalin bytowski 2 | Słupsk p.g., powiaty: słupski, Radio Gdańsk S.A. Gdańsk lęborski . 3 | powiaty: wejherowski, pucki, Radio Gdańsk S.A. Gdańsk kartuski, kościerski Gdynia p.g., Sopot m.w Radio Gdańsk S.A."
-    },
-    {
-     "type": "ocr",
-     "text": "powiaty: starogardzki, gdański, Radio Gdańsk S.A Gdańsk tczewski"
-    },
-    {
-     "type": "ocr",
-     "text": "Gdańsk p.g Radio Gdańsk S.A"
-    },
-    {
-     "type": "ocr",
-     "text": "7 | powiaty: malborski, nowodworski Radio Gdańsk S.A. Gdańsk kwidzyński"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO ŚLĄSKIE . . Nazwa rozgłośni, która swoim Powiaty w granicach NE . . . NE . . zasięgiem powierzchniowym obejmuje Siedziba administracyjnych NE ’ obszar wymieniony w kolumnie 2"
-    },
-    {
-     "type": "ocr",
-     "text": "L"
-    },
-    {
-     "type": "ocr",
-     "text": "1 | Jastrzębie-Zdrój p.g., Rybnik p.g., Radio Katowice S.A. Katowice Zory p.g., powiaty: raciborski, rybnicki, wodzisławski"
-    },
-    {
-     "type": "ocr",
-     "text": "Pp"
-    },
-    {
-     "type": "ocr",
-     "text": "2 | Bielsko-Biala p.g., powiaty: żywiecki, Radio Katowice S.A Katowice bielski, cieszyński 3"
-    },
-    {
-     "type": "ocr",
-     "text": "0"
-    },
-    {
-     "type": "ocr",
-     "text": "Katowice p.g."
-    },
-    {
-     "type": "ocr",
-     "text": "4 Radio Katowice S.A Gliwice p.g., powiat gliwicki Radio Katowice S.A Katowice Chorzów p.g., Siemianowice Śląskie p.g., Radio Katowice S.A. Katowice Świętochłowice p.g., Piekary Śląskie p.g. Radio Katowice S.A."
-    },
-    {
-     "type": "ocr",
-     "text": "Częstochowa m.w., powiaty: Radio Katowice S.A. Katowice częstochowski, kłobucki, myszkowski Dąbrowa Górnicza p.g., powiaty: Radio Katowice S.A. Katowice będziński, zawierciański Bytom p.g., powiaty: lubliniecki, Radio Katowice S.A Katowice tarnogórski Jaworzno p.g., Sosnowiec p.g. Radio Katowice S.A"
-    },
-    {
-     "type": "ocr",
-     "text": "3 | Zabrze p.g., Ruda Śląska p.g. Radio Katowice S.A."
-    },
-    {
-     "type": "ocr",
-     "text": "Mysłowice p.g., Tychy p.g., powiaty: Katowice pszczyński, mikołowski, tyski"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 19 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWODZTWO SWIETOKRZYSKIE . . Nazwa rozgłośni, która swoim Powiaty w granicach or : . RAE NE Lp. 7. . zasięgiem powierzchniowym obejmuje Siedziba administracyjnych . : obszar wymieniony w kolumnie 2 YG EEEE URZ WA 1 | powiaty: sandomierski, staszowski Radio Kielce S.A. Kielce 2 | powiaty: buski, kazimierski, Radio Kielce S.A Kielce pińczowski 3 | powiaty: jędrzejowski, konecki Radio Kielce S.A Kielce włoszczowski 4 | powiaty: skarżyski, starachowicki Radio Kielce S.A. powiaty: ostrowiecki, opatowski Radio Kielce S.A 5] Kielce p.g. Radio Kielce S.A powiat kielecki Radio Kielce S.A"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO WARMIŃSKO-MAZURSKIE . , Nazwa rozgłośni, która swoim Powiaty w granicach NE , . A NE Lp. id . zasięgiem powierzchniowym obejmuje Siedziba administracyjnych . . obszar wymieniony w kolumnie 2 PA | DT 3 [4 Elbląg p.g., powiat elbląski Radio Olsztyn S.A. Olsztyn 2 | powiaty: ełcki, giżycki, Radio Olsztyn S.A. Olsztyn olecko-gołdapski, piski Radio Białystok S.A. Białystok 3 | powiaty: iławski, nowomiejski, Radio Olsztyn S.A Olsztyn działdowski powiaty: ostródzki, olsztyński Radio Olsztyn S.A. Olsztyn p.g. Radio Olsztyn S.A. powiaty: lidzbarski, braniewski, Radio Olsztyn S.A bartoszycki, kętrzyński 7 | powiaty: mrągowski, szczycieński, Radio Olsztyn S.A. Olsztyn nidzicki"
-    },
-    {
-     "type": "ocr",
-     "text": "Olsztyn Olsztyn Olsztyn"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 20 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO WIELKOPOLSKIE . . Nazwa rozgłośni, która swoim Powiaty w granicach RE : . A NE Lp. ns . zasięgiem powierzchniowym obejmuje Siedziba administracyjnych . : obszar wymieniony w kolumnie 2 PA | ABT 4 | 1"
-    },
-    {
-     "type": "ocr",
-     "text": "3"
-    },
-    {
-     "type": "ocr",
-     "text": "2 | powiaty: poznański, obornicki, Radio Merkury S.A. Poznań średzki, śremski 3 | Konin p.g., powiaty: koniński, Radio Merkury S.A. Poznań kolski, słupecki, turecki Kalisz p.g., powiaty: kaliski, Radio Merkury S.A. Poznań jarociński, pleszewski powiaty: ostrowski, kępiński, Radio Merkury S.A. Poznań krotoszyński, ostrzeszowski Leszno p.g., powiaty: leszczyński, Radio Merkury S.A. Poznań gostyński, kościański, rawicki 7 | powiaty: szamotulski, wolsztyński, Radio Merkury S.A. Poznań międzychodzki, grodziski, nowotomyski powiaty: pilski, chodzieski, Radio Merkury S.A. Poznań czarnkowsko-trzcianecki, złotowski powiaty: gnieźnieński, wągrowiecki, Radio Merkury S.A. Poznań wrzesiński"
-    },
-    {
-     "type": "ocr",
-     "text": "WOJEWÓDZTWO ZACHODNIOPOMORSKIE . . Nazwa rozgłośni, która swoim Lp. Powiaty w granicach RE - . . 4. RA . zasięgiem powierzchniowym obejmuje Siedziba administracyjnych NE - obszar wymieniony w kolumnie 2 DA a 4 | Szczecin p.g., powiat policki Radio Szczecin S.A. Szczecin 2 | Świnoujście p.g., powiaty: Radio Szczecin S.A. Szczecin kamieński, goleniowski, gryficki 3 | powiaty: kołobrzeski, białogardzki, Radio Koszalin S.A. Koszalin drawski, świdwiński, wałecki 4 | Koszalin p.g., powiaty: koszaliński, Radio Koszalin S.A. Koszalin sławieński, szczecinecki 5 | powiaty: stargardzki, choszczeński, Radio Szczecin S.A. Szczecin gryfiński, pyrzycki, myśliborski"
+     "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
      "type": "text",
-     "text": "* Układ według powiatów. ——————————— * Układ według powiatów."
+     "text": "WOJEWÓDZTWO LUBELSKIE L Powiaty w granicach P- administracyjnych"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa rozgłośni, która swoim zasięgiem powierzchniowym obejmuje Siedziba obszar wymieniony w kolumnie 2 eG NENA WEZ WE Lublin p.g., powiaty: łęczyński, świdnicki Radio Lublin S.A. Lublin powiaty: lubelski, puławski Radio Lublin S.A. powiaty: janowski, kraśnicki, opolski Radio Lublin S.A. powiaty: lubartowski, łukowski, rycki Radio Lublin S.A. 5 | Biała Podlaska p.g., powiaty: bialski, Radio Lublin S.A Lublin parczewski, radzyński Chełm p.g., powiaty: chełmski, Radio Lublin S.A Lublin krasnostawski, włodawski 7 | Zamość p.g., powiaty: biłgorajski, Radio Lublin S.A hrubieszowski, tomaszowski, zamojski"
+    },
+    {
+     "type": "text",
+     "text": "WOJEWÓDZTWO LUBUSKIE"
+    },
+    {
+     "type": "text",
+     "text": ". Powiaty w granicach Lp. . administracyjnych"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa rozgłośni, która swoim"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": ": . RE 2 oy zasięgiem powierzchniowym obejmuje Siedziba NE :",
+     "children": [
+      {
+       "type": "text",
+       "text": "obszar wymieniony w kolumnie 2 Gorzów Wielkopolski p.g. Radio Zachód S.A. Zielona Góra 2 | powiaty: gorzowski, Radio Zachód S.A Zielona Góra strzelecko-drezdenecki 3 | powiaty: międzyrzecki, sulęciński, Radio Zachód S.A. Zielona Góra słubicki Zielona Góra p.g. Radio Zachód S.A. powiaty: zielonogórski, Radio Zachód S.A Zielona Góra świebodziński, krośnieński powiaty: żarski, żagański Radio Zachód S.A 7 | powiat nowosolski Radio Zachód S.A"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO ŁÓDZKIE"
+      },
+      {
+       "type": "text",
+       "text": "."
+      },
+      {
+       "type": "text",
+       "text": "Powiaty w granicach Lp. . administracyjnych"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa rozgłośni, która swoim O. . . EE zasięgiem powierzchniowym obejmuje Siedziba NE :"
+      },
+      {
+       "type": "text",
+       "text": "obszar wymieniony w kolumnie 2 PA] 2 || 4 | powiaty: sieradzki, wieruszowski, wieluński, łaski, zduńskowolski, poddębicki, pajęczański 2 | powiaty: bełchatowski, radomszczański 3 | Piotrków Trybunalski p.g., powiaty: piotrkowski, opoczyński 4 | powiaty: tomaszowski, pabianicki, łódzki wschodni"
+      },
+      {
+       "type": "text",
+       "text": "Radio Łódź S.A. Łódź"
+      },
+      {
+       "type": "text",
+       "text": "Radio Katowice S.A Radio Kielce S.A. Kielce"
+      },
+      {
+       "type": "text",
+       "text": "Radio Łódź S.A. Łódź"
+      },
+      {
+       "type": "text",
+       "text": "5 | Łódź p.g. Radio Łódź S.A powiaty: kutnowski, łęczycki, zgierski Radio Łódź S.A Skierniewice p.g., powiaty: Radio Łódź S.A Łódź skierniewicki, łowicki, rawski"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO MAŁOPOLSKIE Lp. \"adminiswocyjnych. 1 | 20]"
+      },
+      {
+       "type": "text",
+       "text": "|"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa rozgłośni, która swoim zasięgiem powierzchniowym obejmuje Siedziba obszar wymieniony w kolumnie 2 2 3] 4 1 | Kraków p.g. Radio Kraków S.A. Kraków 2 | Tarnów p.g., powiaty: tarnowski, Radio Kraków S.A. Kraków dąbrowski 3 | Nowy Sącz p.g., powiaty: Radio Kraków S.A. Kraków nowosądecki, gorlicki 4 | powiaty: bocheński, brzeski, Radio Kraków S.A. Kraków wielicki, proszowicki 5 | powiaty: nowotarski, tatrzański, Radio Kraków S.A. Kraków limanowski powiaty: myślenicki, suski, Radio Kraków S.A. Kraków wadowicki powiaty: krakowski, miechowski Radio Kraków S.A. powiaty: oświęcimski, chrzanowski, Radio Kraków S.A. Kraków olkuski"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO MAZOWIECKIE"
+      },
+      {
+       "type": "text",
+       "text": ". o, Powiaty w granicach Lp. 7. . administracyjnych"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa rozgłośni, która swoim NE - . . SEE zasięgiem powierzchniowym obejmuje Siedziba RE : obszar wymieniony w kolumnie 2 | 4 |"
+      },
+      {
+       "type": "text",
+       "text": "powiaty: grodziski, warszawski zachodni, Radio dla Ciebie S.A. Warszawa 2 pruszkowski, żyrardowski, sochaczewski"
+      },
+      {
+       "type": "text",
+       "text": "powiaty: legionowski, wołomiński, Radio dla Ciebie S.A. Warszawa nowodworski"
+      },
+      {
+       "type": "text",
+       "text": "Radom p.g., powiaty: radomski, Radio Kielce S.A. Kielce białobrzeski, kozienicki, lipski, zwoleński, szydłowiecki, przysuski"
+      },
+      {
+       "type": "text",
+       "text": "5 | powiaty: miński, garwoliński, Radio dla Ciebie S.A. Warszawa węgrowski"
+      },
+      {
+       "type": "text",
+       "text": "Siedlce p.g., powiaty: siedlecki, Radio dla Ciebie S.A. Warszawa łosicki, sokołowski, ostrowski"
+      },
+      {
+       "type": "text",
+       "text": "Ostrołęka p.g., powiaty: Radio dła Ciebie S.A. Warszawa ostrołęcki, przasnyski, makowski, wyszkowski"
+      },
+      {
+       "type": "text",
+       "text": "powiaty: ciechanowski, mławski, Radio dla Ciebie S.A. Warszawa płoński, pułtuski, żuromiński"
+      },
+      {
+       "type": "text",
+       "text": "Płock p.g., powiaty: płocki, Radio dla Ciebie S.A. Warszawa gostyniński, sierpecki"
+      },
+      {
+       "type": "text",
+       "text": "10 | powiaty: piaseczyński, otwocki, Radio dla Ciebie S.A. Warszawa grójecki"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO OPOLSKIE"
+      },
+      {
+       "type": "text",
+       "text": "Powiaty w granicach administracyjnych yy"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa rozgłośni, która swoim = : - . zasięgiem powierzchniowym obejmuje Siedziba obszar wymieniony w kolumnie 2 | DB | 4 | powiaty: brzeski, namysłowski Radio Opole S.A. Opole"
+      },
+      {
+       "type": "text",
+       "text": "Opole p.g. Radio Opole S.A."
+      },
+      {
+       "type": "text",
+       "text": "powiaty: opolski, strzelecki Radio Opole S.A."
+      },
+      {
+       "type": "text",
+       "text": "powiaty: kluczborski, oleski Radio Opole S.A"
+      },
+      {
+       "type": "text",
+       "text": "powiaty: krapkowicki, prudnicki Radio Opole S.A"
+      },
+      {
+       "type": "text",
+       "text": "powiaty: kędzierzyńsko-kozielski, Radio Opole S.A. głubczycki"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 16 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO PODKARPACKIE"
+      },
+      {
+       "type": "text",
+       "text": ". ."
+      },
+      {
+       "type": "text",
+       "text": "Powiaty w granicach Lp. „7. . administracyjnych"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa rozgłośni, która swoim 2 : . s. ME zasięgiem powierzchniowym obejmuje Siedziba . ."
+      },
+      {
+       "type": "text",
+       "text": "obszar wymieniony w kolumnie 2 PA] DB” | 4 | Rzeszów p.g., powiat rzeszowski"
+      },
+      {
+       "type": "text",
+       "text": "2 | powiaty: dębicki, mielecki, ropczycko-sędziszowski, strzyżowski"
+      },
+      {
+       "type": "text",
+       "text": "3 | Tarnobrzeg p.g., powiaty: tarnobrzeski, stalowowolski, kolbuszowski, niżański"
+      },
+      {
+       "type": "text",
+       "text": "powiaty: leżajski, łańcucki, przeworski"
+      },
+      {
+       "type": "text",
+       "text": "5 | Przemyśl p.g., powiaty: jarosławski, lubaczowski, przemyski"
+      },
+      {
+       "type": "text",
+       "text": "Radio Rzeszów S.A."
+      },
+      {
+       "type": "text",
+       "text": "Radio Rzeszów S.A. Rzeszów"
+      },
+      {
+       "type": "text",
+       "text": "Radio Rzeszów S.A. Rzeszów"
+      },
+      {
+       "type": "text",
+       "text": "Radio Rzeszów S.A."
+      },
+      {
+       "type": "text",
+       "text": "Radio Rzeszów S.A. Rzeszów"
+      },
+      {
+       "type": "text",
+       "text": "powiaty: sanocki, brzozowski, Radio Rzeszów S.A. Rzeszów bieszczadzki"
+      },
+      {
+       "type": "text",
+       "text": "7 | Krosno p.g., powiaty: jasielski, Radio Rzeszów S.A. Rzeszów krośnieński"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO PODLASKIE"
+      },
+      {
+       "type": "text",
+       "text": ". ."
+      },
+      {
+       "type": "text",
+       "text": "Powiaty w granicach Lp. ie . administracyjnych"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa rozgłośni, która swoim Lo : . . NE zasięgiem powierzchniowym obejmuje Siedziba NE Ą obszar wymieniony w kolumnie 2 4 Suwałki p.g., powiaty: suwalski, Radio Białystok S.A. Białystok sejneński"
+      },
+      {
+       "type": "text",
+       "text": "5 _ | powiaty: bielski, hajnowski, Radio Białystok S.A. Białystok siemiatycki"
+      },
+      {
+       "type": "text",
+       "text": "Łomża p.g., powiaty: łomżyński, Radio Białystok S.A. Białystok wysokomazowiecki, zambrowski"
+      },
+      {
+       "type": "text",
+       "text": "7 | powiaty: grajewski, kolneński, Radio Białystok S.A. Białystok moniecki"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO POMORSKIE"
+      },
+      {
+       "type": "text",
+       "text": "Powiaty w granicach Lp. ny W eral administracyjnych"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa rozgłośni, która swoim zasięgiem powierzchniowym obejmuje Siedziba obszar wymieniony w kolumnie 2 NE - YG |]|_||||4 0 (] powiaty: chojnicki, człuchowski, bytowski 2 | Słupsk p.g., powiaty: słupski, lęborski 3 | powiaty: wejherowski, pucki, kartuski, kościerski Gdynia p.g., Sopot m.w Gdańsk p.g powiaty: starogardzki, gdański, tczewski"
+      },
+      {
+       "type": "text",
+       "text": "Radio Koszalin S.A. Koszalin"
+      },
+      {
+       "type": "text",
+       "text": "Radio Gdańsk S.A. Gdańsk . Radio Gdańsk S.A. Gdańsk"
+      },
+      {
+       "type": "text",
+       "text": "Radio Gdańsk S.A. Radio Gdańsk S.A Radio Gdańsk S.A Gdańsk"
+      },
+      {
+       "type": "text",
+       "text": "7 | powiaty: malborski, nowodworski Radio Gdańsk S.A. Gdańsk kwidzyński"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 18 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO ŚLĄSKIE . ."
+      },
+      {
+       "type": "text",
+       "text": "Powiaty w granicach L Pp administracyjnych . ."
+      },
+      {
+       "type": "text",
+       "text": "1 | Jastrzębie-Zdrój p.g., Rybnik p.g., Żory p.g., powiaty: raciborski, rybnicki, wodzisławski 2 | Bielsko-Biala p.g., powiaty: żywiecki, bielski, cieszyński 3 | Zabrze p.g., Ruda Śląska p.g. 3 Katowice p.g."
+      },
+      {
+       "type": "text",
+       "text": "4 Gliwice p.g., powiat gliwicki Chorzów p.g., Siemianowice Śląskie p.g., Świętochłowice p.g., Piekary Śląskie p.g. Mysłowice p.g., Tychy p.g., powiaty: pszczyński, mikołowski, tyski Częstochowa m.w., powiaty: częstochowski, kłobucki, myszkowski Dąbrowa Górnicza p.g., powiaty: będziński, zawierciański Bytom p.g., powiaty: lubliniecki, 0 tarnogórski Jaworzno p.g., Sosnowiec p.g."
+      },
+      {
+       "type": "text",
+       "text": "Nazwa rozgłośni, która swoim NE . . . NE zasięgiem powierzchniowym obejmuje Siedziba NE ’ obszar wymieniony w kolumnie 2 Radio Katowice S.A. Katowice"
+      },
+      {
+       "type": "text",
+       "text": "Radio Katowice S.A Katowice"
+      },
+      {
+       "type": "text",
+       "text": "Radio Katowice S.A. Radio Katowice S.A Radio Katowice S.A Katowice Radio Katowice S.A. Katowice"
+      },
+      {
+       "type": "text",
+       "text": "Radio Katowice S.A."
+      },
+      {
+       "type": "text",
+       "text": "Katowice"
+      },
+      {
+       "type": "text",
+       "text": "Radio Katowice S.A. Katowice"
+      },
+      {
+       "type": "text",
+       "text": "Radio Katowice S.A. Katowice"
+      },
+      {
+       "type": "text",
+       "text": "Radio Katowice S.A Katowice"
+      },
+      {
+       "type": "text",
+       "text": "Radio Katowice S.A"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 19 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO ŚWIĘTOKRZYSKIE"
+      },
+      {
+       "type": "text",
+       "text": ". . Powiaty w granicach Lp. 7. . administracyjnych"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa rozgłośni, która swoim or : . RAE NE zasięgiem powierzchniowym obejmuje Siedziba . :"
+      },
+      {
+       "type": "text",
+       "text": "obszar wymieniony w kolumnie 2 YG EEEE URZ WA 1 | powiaty: sandomierski, staszowski Radio Kielce S.A. Kielce 2 | powiaty: buski, kazimierski, Radio Kielce S.A Kielce pińczowski 3 | powiaty: jędrzejowski, konecki Radio Kielce S.A Kielce włoszczowski 4 | powiaty: skarżyski, starachowicki Radio Kielce S.A. powiaty: ostrowiecki, opatowski Radio Kielce S.A 5] Kielce p.g. Radio Kielce S.A powiat kielecki Radio Kielce S.A"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO WARMIŃSKO-MAZURSKIE"
+      },
+      {
+       "type": "text",
+       "text": ". ,"
+      },
+      {
+       "type": "text",
+       "text": "Powiaty w granicach Lp. id . administracyjnych"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa rozgłośni, która swoim NE , . A NE zasięgiem powierzchniowym obejmuje Siedziba . ."
+      },
+      {
+       "type": "text",
+       "text": "obszar wymieniony w kolumnie 2 PA | DT 3 [4 Elbląg p.g., powiat elbląski Radio Olsztyn S.A. Olsztyn 2 | powiaty: ełcki, giżycki, Radio Olsztyn S.A. Olsztyn olecko-gołdapski, piski Radio Białystok S.A. Białystok 3 | powiaty: iławski, nowomiejski, Radio Olsztyn S.A Olsztyn działdowski powiaty: ostródzki, olsztyński Radio Olsztyn S.A. Olsztyn Olsztyn p.g. Radio Olsztyn S.A. Olsztyn powiaty: lidzbarski, braniewski, Radio Olsztyn S.A bartoszycki, kętrzyński"
+      },
+      {
+       "type": "text",
+       "text": "Olsztyn"
+      },
+      {
+       "type": "text",
+       "text": "7 | powiaty: mrągowski, szczycieński, Radio Olsztyn S.A. Olsztyn nidzicki"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 20 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO WIELKOPOLSKIE"
+      },
+      {
+       "type": "text",
+       "text": ". ."
+      },
+      {
+       "type": "text",
+       "text": "Powiaty w granicach Lp. ns . administracyjnych"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa rozgłośni, która swoim RE : . A NE zasięgiem powierzchniowym obejmuje Siedziba . :"
+      },
+      {
+       "type": "text",
+       "text": "obszar wymieniony w kolumnie 2 PA | ABT 4 | 1 2 | powiaty: poznański, obornicki, średzki, śremski 3 | Konin p.g., powiaty: koniński, kolski, słupecki, turecki Kalisz p.g., powiaty: kaliski, jarociński, pleszewski powiaty: ostrowski, kępiński, krotoszyński, ostrzeszowski Leszno p.g., powiaty: leszczyński, gostyński, kościański, rawicki 7 | powiaty: szamotulski, wolsztyński, międzychodzki, grodziski, nowotomyski powiaty: pilski, chodzieski, czarnkowsko-trzcianecki, złotowski powiaty: gnieźnieński, wągrowiecki, wrzesiński"
+      },
+      {
+       "type": "text",
+       "text": "3"
+      },
+      {
+       "type": "text",
+       "text": "Radio Merkury S.A. Poznań"
+      },
+      {
+       "type": "text",
+       "text": "Radio Merkury S.A. Poznań"
+      },
+      {
+       "type": "text",
+       "text": "Radio Merkury S.A. Poznań"
+      },
+      {
+       "type": "text",
+       "text": "Radio Merkury S.A. Poznań"
+      },
+      {
+       "type": "text",
+       "text": "Radio Merkury S.A. Poznań"
+      },
+      {
+       "type": "text",
+       "text": "Radio Merkury S.A. Poznań"
+      },
+      {
+       "type": "text",
+       "text": "Radio Merkury S.A. Poznań"
+      },
+      {
+       "type": "text",
+       "text": "Radio Merkury S.A. Poznań"
+      },
+      {
+       "type": "text",
+       "text": "WOJEWÓDZTWO ZACHODNIOPOMORSKIE Lp. Powiaty w granicach . . administracyjnych RA . DA a Szczecin p.g., powiat policki 2 | Świnoujście p.g., powiaty: kamieński, goleniowski, gryficki 3 | powiaty: kołobrzeski, białogardzki, drawski, świdwiński, wałecki 4 | Koszalin p.g., powiaty: koszaliński, sławieński, szczecinecki 5 | powiaty: stargardzki, choszczeński, gryfiński, pyrzycki, myśliborski"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa rozgłośni, która swoim RE - . . 4."
+      },
+      {
+       "type": "text",
+       "text": "zasięgiem powierzchniowym obejmuje Siedziba NE - obszar wymieniony w kolumnie 2 4 | Radio Szczecin S.A. Szczecin Radio Szczecin S.A. Szczecin"
+      },
+      {
+       "type": "text",
+       "text": "Radio Koszalin S.A. Koszalin"
+      },
+      {
+       "type": "text",
+       "text": "Radio Koszalin S.A. Koszalin"
+      },
+      {
+       "type": "text",
+       "text": "Radio Szczecin S.A. Szczecin"
+      },
+      {
+       "type": "text",
+       "text": "* Układ według powiatów. ——————————— * Układ według powiatów."
+      }
+     ]
     }
    ]
   }

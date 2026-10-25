@@ -1,7 +1,7 @@
 {
  "eli": "DU/2004/2741",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 21 grudnia 2004 r. w sprawie szczegółowego zakresu informacji zawartych we wnioskach o umieszczenie leku lub wyrobu medycznego w wykazach, sposobu składania wniosków oraz trybu i terminów ich rozpatrywania",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/2741/text.pdf",
  "body": [
   {
@@ -198,107 +198,141 @@
     },
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "9. Wielkość DDD (określona dawka w zależności od wskazania) określona przez Swiatową Organizację Zdrowia (WHO)"
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Wielkość DDD (określona dawka w zależności od wskazania) określona przez Światową Organizację Zdrowia (WHO)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "10. Czas standardowej kuracji"
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Czas standardowej kuracji",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "11. Dzienny koszt terapii oraz średni koszt standardowej terapii"
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Dzienny koszt terapii oraz średni koszt standardowej terapii",
+     "children": [
+      {
+       "type": "text",
+       "text": "II. Informacja o leku/ wyrobie medycznym* w kraju wytwórcy"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "II. Informacja o leku/ wyrobie medycznym* w kraju wytwórcy"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Data pierwszej rejestracji — leku/wyrobu medycznego*. Okres ważności wpisu do Rejestru m",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "1. Data pierwszej rejestracji — leku/wyrobu medycznego*. Okres ważności wpisu do Rejestru"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Cena zbytu (cena wytwórcy, bez VAT i marż)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "m"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Informacje na temat refundacji leku/wyrobu medycznego* w kraju wytwórcy (jaki procent ceny leku/wyrobu medycznego* jest refundowany ?)",
+     "children": [
+      {
+       "type": "text",
+       "text": "NL. Informacja o leku/ wyrobie medycznym* w innych krajach"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "2. Cena zbytu (cena wytwórcy, bez VAT i marż)"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Rejestracje w innych krajach (kraj, data rejestracji, ewentualnie data skreślenia z rejestru); ze szczególnym wskazaniem stanu rejestracji w poszczególnych krajach Unii Europejskiej",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "3. Informacje na temat refundacji leku/wyrobu medycznego* w kraju wytwórcy (jaki procent ceny leku/wyrobu medycznego* jest refundowany ?)"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Kraje, w których lek/wyrób medyczny* jest refundowany (procent refundacji)",
+     "children": [
+      {
+       "type": "text",
+       "text": "* Niepotrzebne skreślić."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "IV. Dodatkowe informacje na temat leku/wyrobu medycznego* w Polsce | 1. Stan ochrony patentowej"
+      },
+      {
+       "type": "text",
+       "text": "| 2. Data wygaśnięcia ochrony patentowej"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "NL. Informacja o leku/ wyrobie medycznym* w innych krajach"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Proponowana cena (bez VAT, bez marż) leku/wyrobu medycznego* w PLN, po umieszczeniu w wykazie leków podstawowych i uzupełniających lub wykazie leków 1 wyrobów medycznych, które mogą być przepisywane bezpłatnie, za opłatą ryczałtową lub częściową odpłatnością osobom chorującym na choroby zakaźne lub psychiczne oraz upośledzonym umysłowo, a także chorującym na niektóre choroby przewlekłe, wrodzone, nabyte, wraz z kalkulacją i uzasadnieniem.",
+     "children": [
+      {
+       "type": "text",
+       "text": "V. Bezpieczeństwo stosowania"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "1. Rejestracje w innych krajach (kraj, data rejestracji, ewentualnie data skreślenia z rejestru); ze szczególnym wskazaniem stanu rejestracji w poszczególnych krajach Unii Europejskiej"
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Czy zgłoszono w Polsce zaobserwowane (jakie?) niepożądane działania leku/wyrobu medycznego* w okresie ostatnich 5 lat?",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2. Kraje, w których lek/wyrób medyczny* jest refundowany (procent refundacji)"
-    },
-    {
-     "type": "ocr",
-     "text": "* Niepotrzebne skreślić."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "IV. Dodatkowe informacje na temat leku/wyrobu medycznego* w Polsce | 1. Stan ochrony patentowej"
-    },
-    {
-     "type": "ocr",
-     "text": "| 2. Data wygaśnięcia ochrony patentowej"
-    },
-    {
-     "type": "ocr",
-     "text": "3. Proponowana cena (bez VAT, bez marż) leku/wyrobu medycznego* w PLN, po umieszczeniu w wykazie leków podstawowych i uzupełniających lub wykazie leków 1 wyrobów medycznych, które mogą być przepisywane bezpłatnie, za opłatą ryczałtową lub częściową odpłatnością osobom chorującym na choroby zakaźne lub psychiczne oraz upośledzonym umysłowo, a także chorującym na niektóre choroby przewlekłe, wrodzone, nabyte, wraz z kalkulacją i uzasadnieniem."
-    },
-    {
-     "type": "ocr",
-     "text": "V. Bezpieczeństwo stosowania"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Czy zgłoszono w Polsce zaobserwowane (jakie?) niepożądane działania leku/wyrobu medycznego* w okresie ostatnich 5 lat?"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Jakie niepożądane działania leku/wyrobu medycznego* zgłoszono w kraju wnioskodawcy iw innych krajach w okresie ostatnich 5 lat?"
-    },
-    {
-     "type": "ocr",
-     "text": "* Niepotrzebne skreślić."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "VI. Wskazanie, wraz z uzasadnieniem, w którym z wykazów lek/wyrób medyczny* ma być umieszczony"
-    },
-    {
-     "type": "ocr",
-     "text": "Uzasadnienie dotyczące umieszczenia leku/wyrobu medycznego* w wykazie, ze szczególnym uwzględnieniem skuteczności działania potwierdzonej w kontrolowanych badaniach klinicznych publikowanych w uznanych czasopismach medycznych wraz z kopią materiałów źródłowych. (W przypadku obszernych materiałów źródłowych należy dołączyć je jako oddzielny załącznik do wniosku)"
-    },
-    {
-     "type": "ocr",
-     "text": "miejscowość, data podpis osoby upoważnionej do reprezentowania wnioskodawcy"
-    },
-    {
-     "type": "ocr",
-     "text": "* Niepotrzebne skreślić."
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Jakie niepożądane działania leku/wyrobu medycznego* zgłoszono w kraju wnioskodawcy iw innych krajach w okresie ostatnich 5 lat?",
+     "children": [
+      {
+       "type": "text",
+       "text": "* Niepotrzebne skreślić."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "VI. Wskazanie, wraz z uzasadnieniem, w którym z wykazów lek/wyrób medyczny* ma być umieszczony"
+      },
+      {
+       "type": "text",
+       "text": "Uzasadnienie dotyczące umieszczenia leku/wyrobu medycznego* w wykazie, ze szczególnym uwzględnieniem skuteczności działania potwierdzonej w kontrolowanych badaniach klinicznych publikowanych w uznanych czasopismach medycznych wraz z kopią materiałów źródłowych. (W przypadku obszernych materiałów źródłowych należy dołączyć je jako oddzielny załącznik do wniosku)"
+      },
+      {
+       "type": "text",
+       "text": "miejscowość, data podpis osoby upoważnionej do reprezentowania wnioskodawcy"
+      },
+      {
+       "type": "text",
+       "text": "* Niepotrzebne skreślić."
+      }
+     ]
     }
    ]
   },
@@ -307,7 +341,7 @@
    "body": [
     {
      "type": "text",
-     "text": "* ZAKRES INFORMACJI DOTYCZĄCYCH WIELKOŚCI SPRZEDAŻY I CEN LEKU/WYROBU MEDYCZNEGO , KTÓREGO DOTYCZY WNIOSEK Dziennik Ustaw Nr 276 — 19551 — Poz. 2741"
+     "text": "* ZAKRES INFORMACJI DOTYCZĄCYCH WIELKOŚCI SPRZEDAŻY I CEN LEKU/WYROBU MEDYCZNEGO , KTÓREGO DOTYCZY WNIOSEK"
     },
     {
      "type": "note",

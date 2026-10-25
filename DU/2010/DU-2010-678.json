@@ -1,7 +1,7 @@
 {
  "eli": "DU/2010/678",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 11 czerwca 2010 r. w sprawie zakazów lub ograniczeń lotów na czas dłuższy niż 3 miesiące",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2010/678/text.pdf",
  "body": [
   {
@@ -106,21 +106,21 @@
        "type": "pkt",
        "num": "10",
        "path": "par_2/ust_1/pkt_10",
-       "text": "I CAO — Organizację Międzynarodowego Lotnictwa Cywilnego;",
+       "text": "ICAO — Organizację Międzynarodowego Lotnictwa Cywilnego;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "11",
        "path": "par_2/ust_1/pkt_11",
-       "text": "I nstytucja — Polską Agencję Żeglugi Powietrznej, która zapewnia służby ruchu lotniczego, na podstawie odrębnych przepisów;",
+       "text": "Instytucja — Polską Agencję Żeglugi Powietrznej, która zapewnia służby ruchu lotniczego, na podstawie odrębnych przepisów;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "12",
        "path": "par_2/ust_1/pkt_12",
-       "text": "N OTAM — (Notice To Airmen) wiadomość rozpowszechnianą za pomocą środków telekomunikacyjnych, zawierającą informacje o ustanowieniu, stanie lub zmianach urządzeń lotniczych, służbach, procedurach, a także o niebezpieczeństwie, których znajomość we właściwym czasie jest istotna dla personelu związanego z operacjami lotniczymi;",
+       "text": "NOTAM — (Notice To Airmen) wiadomość rozpowszechnianą za pomocą środków telekomunikacyjnych, zawierającą informacje o ustanowieniu, stanie lub zmianach urządzeń lotniczych, służbach, procedurach, a także o niebezpieczeństwie, których znajomość we właściwym czasie jest istotna dla personelu związanego z operacjami lotniczymi;",
        "children": []
       },
       {
@@ -134,7 +134,7 @@
        "type": "pkt",
        "num": "14",
        "path": "par_2/ust_1/pkt_14",
-       "text": "p race lotnicze — operacje lotnicze, o których mowa w Dziale 1 Części II Załącznika 6 do Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. Nr 35, poz. 212 i 214, z późn. zm.[^3]), przyjętego przez ICAO;",
+       "text": "prace lotnicze — operacje lotnicze, o których mowa w Dziale 1 Części II Załącznika 6 do Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. Nr 35, poz. 212 i 214, z późn. zm.[^3]), przyjętego przez ICAO;",
        "children": []
       },
       {
@@ -378,21 +378,21 @@
      "type": "pkt",
      "num": "1",
      "path": "par_6/pkt_1",
-     "text": "o peracyjnych, wykonywanych na hasło GARDA lub ALFA SCRAMBLE;",
+     "text": "operacyjnych, wykonywanych na hasło GARDA lub ALFA SCRAMBLE;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
      "path": "par_6/pkt_2",
-     "text": "w ykonywanych w celu udzielania pomocy w przypadkach zagrożenia życia lub zdrowia ludzi lub zwierząt, w tym w szczególności w czasie wystąpienia klęsk żywiołowych, katastrof, zagrożeń ekologicznych lub sytuacji awaryjnych;",
+     "text": "wykonywanych w celu udzielania pomocy w przypadkach zagrożenia życia lub zdrowia ludzi lub zwierząt, w tym w szczególności w czasie wystąpienia klęsk żywiołowych, katastrof, zagrożeń ekologicznych lub sytuacji awaryjnych;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
      "path": "par_6/pkt_3",
-     "text": "w ykonywanych na wniosek osoby kierującej działaniami w strefie D lub za jej zgodą, w porozumieniu z Instytucją.",
+     "text": "wykonywanych na wniosek osoby kierującej działaniami w strefie D lub za jej zgodą, w porozumieniu z Instytucją.",
      "children": []
     }
    ]
@@ -413,14 +413,14 @@
        "type": "pkt",
        "num": "1",
        "path": "par_7/ust_1/pkt_1",
-       "text": "o peracyjnych, wykonywanych na hasło GARDA lub ALFA SCRAMBLE;",
+       "text": "operacyjnych, wykonywanych na hasło GARDA lub ALFA SCRAMBLE;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "par_7/ust_1/pkt_2",
-       "text": "w ykonywanych w celu udzielania pomocy w przypadkach zagrożenia życia lub zdrowia ludzi lub zwierząt, w tym w szczególności w czasie wystąpienia klęsk żywiołowych, katastrof, zagrożeń ekologicznych lub sytuacji awaryjnych;",
+       "text": "wykonywanych w celu udzielania pomocy w przypadkach zagrożenia życia lub zdrowia ludzi lub zwierząt, w tym w szczególności w czasie wystąpienia klęsk żywiołowych, katastrof, zagrożeń ekologicznych lub sytuacji awaryjnych;",
        "children": []
       },
       {
@@ -567,7 +567,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ STREF ZAKAZANYCH (P) Dziennik Ustaw Nr 106 — 8972 — Poz. 678"
+     "text": "WYKAZ STREF ZAKAZANYCH (P)"
     },
     {
      "type": "note",
@@ -708,7 +708,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ STREF NIEBEZPIECZNYCH (D) Dziennik Ustaw Nr 106 — 8974 — Poz. 678"
+     "text": "WYKAZ STREF NIEBEZPIECZNYCH (D)"
     },
     {
      "type": "note",
@@ -1537,7 +1537,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WARUNKI WYKONYWANIA LOTÓW W STREFACH R Dziennik Ustaw Nr 106 — 8979 — Poz. 678"
+     "text": "WARUNKI WYKONYWANIA LOTÓW W STREFACH R"
     },
     {
      "type": "note",
@@ -2574,7 +2574,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ STREF IDENTYFIKACJI OBRONY POWIETRZNEJ (ADIZ) Dziennik Ustaw Nr 106 — 8987 — Poz. 678"
+     "text": "WYKAZ STREF IDENTYFIKACJI OBRONY POWIETRZNEJ (ADIZ)"
     },
     {
      "type": "note",

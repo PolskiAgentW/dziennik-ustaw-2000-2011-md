@@ -1,7 +1,7 @@
 {
  "eli": "DU/2006/661",
  "title": "Rozporządzenie Rady Ministrów z dnia 23 maja 2006 r. w sprawie trybu przekazywania środków finansowych na wypłaty świadczeń rodzinnych oraz sposobu sporządzania sprawozdań rzeczowo-finansowych",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2006/661/text.pdf",
  "body": [
   {
@@ -240,7 +240,7 @@
       },
       {
        "type": "text",
-       "text": "za ............... kwartał 20 ..... r. Dziennik Ustaw Nr 95 — 4480 — Poz. 661"
+       "text": "za ............... kwartał 20 ..... r."
       },
       {
        "type": "note",
@@ -624,77 +624,126 @@
       },
       {
        "type": "note",
-       "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "OBJAŚNIENIA:"
-      },
-      {
-       "type": "ocr",
-       "text": "1. W częściach A, B, D, E sprawozdania liczbę świadczeń oraz wydatki ujmuje się narastająco od początku roku (np. informacja za maj ujęta w sprawozdaniu za Il kwartał w kol. 4 i 8 obejmuje dane za okres styczeń—maj). W częściach C, F, G sprawozdania dane podaje się w ujęciu miesięcznym (nienarastająco). Wartości w sprawozdaniu ujmuje się z dokładnością do 1 zł, z wyjątkiem części C, wiersz 3.1 sprawozdania, gdzie liczbę etatów wykazuje się z dokładnością do dwóch miejsc po przecinku."
-      },
-      {
-       "type": "ocr",
-       "text": "4. Sprawozdanie sporządza się metodą kasową — ujmuje się wydatki faktycznie poniesione i liczbę rzeczywiście wypłaconych świadczeń. W przypadku gdy świadczenie wypłacane jest w ratach, w części A, B, E w kol. 7—10 sprawozdania świadczenie ujmuje się w miesiącu, w którym wypłacono pierwszą ratę, zaś kwoty wykazuje się według faktycznej wypłaty."
-      },
-      {
-       "type": "ocr",
-       "text": "5. Liczby i kwoty wypłacanych świadczeń wykazane w części A sprawozdania nie są pomniejszane o zwroty świadczeń nienależnie pobranych oraz o świadczenia niepodjęte."
-      },
-      {
-       "type": "ocr",
-       "text": "6. W części A w wierszu 2.4.2 sprawozdania wykazuje się dodatki po zwiększeniu, a nie jedynie kwoty zwiększeń, wynikające z art. 11a ust. 5 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych."
-      },
-      {
-       "type": "ocr",
-       "text": "7. W częściach A, B i E kolumny 6 i 10 sprawozdania dotyczą świadczeń rodzinnych przyznanych przez marszałka województwa w ramach koordynacji systemów zabezpieczenia społecznego państw Unii Europejskiej (tj. decyzji, o których mowa w art. 21 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych). Kwoty tych świadczeń wykazywane są także, łącznie z innymi świadczeniami i świadczeniobiorcami, w kol. 3 i 4 oraz 7 i8."
-      },
-      {
-       "type": "ocr",
-       "text": "8. W części C w wierszach 3.1 i 3.2 sprawozdania wykazuje się liczbę osób, za które pracodawca ponosi pełne koszty zatrudnienia."
-      },
-      {
-       "type": "ocr",
-       "text": "9. W części C w wierszu 3.3 sprawozdania wykazuje się również liczbę osób, za które pracodawca nie ponosi pełnych kosztów zatrudnienia."
-      },
-      {
-       "type": "ocr",
-       "text": "10. W części D sprawozdania należy ująć informacje na temat świadczeń sfinansowanych z dotacji celowej z budżetu państwa."
-      },
-      {
-       "type": "ocr",
-       "text": "11. W części D w kol. 6 sprawozdania wykazuje się odzyskane świadczenia nienależnie pobrane:"
-      },
-      {
-       "type": "ocr",
-       "text": "a) wypłacone w latach ubiegłych,"
-      },
-      {
-       "type": "ocr",
-       "text": "b) wypłacone przed dniem wejścia w życie ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych i przekazane do odzyskania gminom,"
-      },
-      {
-       "type": "ocr",
-       "text": "c) wypłacone przez organ inny niż organ właściwy, który odzyskał nienależnie pobrane świadczenia oraz świadczenia niepodjęte, przekazane do wypłaty w roku ubiegłym."
-      },
-      {
-       "type": "ocr",
-       "text": "12. Odzyskane świadczenia nienależnie pobrane wykazuje się w części D sprawozdania bez pobranych odsetek."
-      },
-      {
-       "type": "ocr",
-       "text": "13. W części E sprawozdania wykazuje się liczbę świadczeń i wydatki ze środków własnych gminy poniesione na podstawie art. 15a i art. 22a ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych."
-      },
-      {
-       "type": "ocr",
-       "text": "14. W części F w wierszu 2 sprawozdania ujmuje się tę część dotacji obliczonej zgodnie z art. 33 ust. 2a ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, która przypada na obsługę świadczeń rodzinnych, tj. 3% miesięcznej transzy określonej w rozdziale 85212 klasyfikacji budżetowej, pomniejszoną o koszty obsługi zaliczki alimentacyjnej (tj. o 3% wydatków na zaliczki alimentacyjne)."
-      },
-      {
-       "type": "ocr",
-       "text": "15. W części F w wierszu 3 sprawozdania ujmuje się całość wydatków bieżących na obsługę świadczeń rodzinnych, sfinansowanych w ramach dotacji celowej z budżetu państwa określonej w rozdziale 85212 klasyfikacji budżetowej oraz pokrytych ze środków własnych gminy."
       }
      ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "W częściach A, B, D, E sprawozdania liczbę świadczeń oraz wydatki ujmuje się narastająco od początku roku (np. informacja za maj ujęta w sprawozdaniu za Il kwartał w kol. 4 i 8 obejmuje dane za okres styczeń—maj). W częściach C, F, G sprawozdania dane podaje się w ujęciu miesięcznym (nienarastająco). Wartości w sprawozdaniu ujmuje się z dokładnością do 1 zł, z wyjątkiem części C, wiersz 3.1 sprawozdania, gdzie liczbę etatów wykazuje się z dokładnością do dwóch miejsc po przecinku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Sprawozdanie sporządza się metodą kasową — ujmuje się wydatki faktycznie poniesione i liczbę rzeczywiście wypłaconych świadczeń. W przypadku gdy świadczenie wypłacane jest w ratach, w części A, B, E w kol. 7—10 sprawozdania świadczenie ujmuje się w miesiącu, w którym wypłacono pierwszą ratę, zaś kwoty wykazuje się według faktycznej wypłaty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Liczby i kwoty wypłacanych świadczeń wykazane w części A sprawozdania nie są pomniejszane o zwroty świadczeń nienależnie pobranych oraz o świadczenia niepodjęte.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "W części A w wierszu 2.4.2 sprawozdania wykazuje się dodatki po zwiększeniu, a nie jedynie kwoty zwiększeń, wynikające z art. 11a ust. 5 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "W częściach A, B i E kolumny 6 i 10 sprawozdania dotyczą świadczeń rodzinnych przyznanych przez marszałka województwa w ramach koordynacji systemów zabezpieczenia społecznego państw Unii Europejskiej (tj. decyzji, o których mowa w art. 21 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych). Kwoty tych świadczeń wykazywane są także, łącznie z innymi świadczeniami i świadczeniobiorcami, w kol. 3 i 4 oraz 7 i8.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "W części C w wierszach 3.1 i 3.2 sprawozdania wykazuje się liczbę osób, za które pracodawca ponosi pełne koszty zatrudnienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "W części C w wierszu 3.3 sprawozdania wykazuje się również liczbę osób, za które pracodawca nie ponosi pełnych kosztów zatrudnienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "W części D sprawozdania należy ująć informacje na temat świadczeń sfinansowanych z dotacji celowej z budżetu państwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "W części D w kol. 6 sprawozdania wykazuje się odzyskane świadczenia nienależnie pobrane:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_11/lit_a",
+       "text": "wypłacone w latach ubiegłych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_11/lit_b",
+       "text": "wypłacone przed dniem wejścia w życie ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych i przekazane do odzyskania gminom,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_11/lit_c",
+       "text": "wypłacone przez organ inny niż organ właściwy, który odzyskał nienależnie pobrane świadczenia oraz świadczenia niepodjęte, przekazane do wypłaty w roku ubiegłym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Odzyskane świadczenia nienależnie pobrane wykazuje się w części D sprawozdania bez pobranych odsetek.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "W części E sprawozdania wykazuje się liczbę świadczeń i wydatki ze środków własnych gminy poniesione na podstawie art. 15a i art. 22a ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "W części F w wierszu 2 sprawozdania ujmuje się tę część dotacji obliczonej zgodnie z art. 33 ust. 2a ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, która przypada na obsługę świadczeń rodzinnych, tj. 3% miesięcznej transzy określonej w rozdziale 85212 klasyfikacji budżetowej, pomniejszoną o koszty obsługi zaliczki alimentacyjnej (tj. o 3% wydatków na zaliczki alimentacyjne).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "W części F w wierszu 3 sprawozdania ujmuje się całość wydatków bieżących na obsługę świadczeń rodzinnych, sfinansowanych w ramach dotacji celowej z budżetu państwa określonej w rozdziale 85212 klasyfikacji budżetowej oraz pokrytych ze środków własnych gminy.",
+     "children": []
     }
    ]
   },

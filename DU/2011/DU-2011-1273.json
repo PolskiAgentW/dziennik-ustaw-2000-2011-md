@@ -1,7 +1,7 @@
 {
  "eli": "DU/2011/1273",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 13 września 2011 r. zmieniające rozporządzenie w sprawie zakresu niezbędnych informacji gromadzonych przez świadczeniodawców, szczegółowego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2011/1273/text.pdf",
  "body": [
   {
@@ -54,7 +54,7 @@
         },
         {
          "type": "text",
-         "text": "„c) i dentyfikator świadczeniodawcy wystawiającego skierowanie lub zlecenie albo pełna nazwa innego podmiotu uprawnionego do zlecania świadczeń finansowanych ze środków publicznych oraz VIII część kodu resortowego, jeżeli została nadana,”,",
+         "text": "„c) identyfikator świadczeniodawcy wystawiającego skierowanie lub zlecenie albo pełna nazwa innego podmiotu uprawnionego do zlecania świadczeń finansowanych ze środków publicznych oraz VIII część kodu resortowego, jeżeli została nadana,”,",
          "quoted": true
         },
         {
@@ -63,12 +63,12 @@
         },
         {
          "type": "text",
-         "text": "„13) k od trybu przyjęcia osoby, której udzielono świadczenia zdrowotnego, określony zgodnie z załącznikiem nr 4 do rozporządzenia — w przypadku udzielenia świadczenia z zakresu ambulatoryjnej opieki specjalistycznej;",
+         "text": "„13) kod trybu przyjęcia osoby, której udzielono świadczenia zdrowotnego, określony zgodnie z załącznikiem nr 4 do rozporządzenia — w przypadku udzielenia świadczenia z zakresu ambulatoryjnej opieki specjalistycznej;",
          "quoted": true
         },
         {
          "type": "text",
-         "text": "13a) i nformację, czy świadczenie zdrowotne zostało udzielone w warunkach, o których mowa w art. 15 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654, Nr 149, poz. 887, Nr 174, poz. 1039 i Nr 185, poz. 1092), w art. 30 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2008 r. Nr 136, poz. 857, z późn. zm.[^3]) lub w art. 3 pkt 8 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm.[^4]);”,",
+         "text": "13a) informację, czy świadczenie zdrowotne zostało udzielone w warunkach, o których mowa w art. 15 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654, Nr 149, poz. 887, Nr 174, poz. 1039 i Nr 185, poz. 1092), w art. 30 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2008 r. Nr 136, poz. 857, z późn. zm.[^3]) lub w art. 3 pkt 8 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm.[^4]);”,",
          "quoted": true
         }
        ]
@@ -193,7 +193,7 @@
         },
         {
          "type": "text",
-         "text": "a) l iczbę oczekujących, według stanu na ostatni dzień miesiąca,",
+         "text": "a) liczbę oczekujących, według stanu na ostatni dzień miesiąca,",
          "quoted": true
         },
         {
@@ -203,7 +203,7 @@
         },
         {
          "type": "text",
-         "text": "c) ł ączną liczbę osób skreślonych z listy oczekujących w danym okresie sprawozdawczym,",
+         "text": "c) łączną liczbę osób skreślonych z listy oczekujących w danym okresie sprawozdawczym,",
          "quoted": true
         },
         {
@@ -267,7 +267,7 @@
        "children": [
         {
          "type": "text",
-         "text": "„4. Ś wiadczeniodawcy przekazują co miesiąc dane, o których mowa w ust. 2—3, nie później niż w terminie dziesięciu dni od zakończenia miesiąca.”;",
+         "text": "„4. Świadczeniodawcy przekazują co miesiąc dane, o których mowa w ust. 2—3, nie później niż w terminie dziesięciu dni od zakończenia miesiąca.”;",
          "quoted": true
         }
        ]
@@ -348,7 +348,7 @@
        "type": "lit",
        "num": "a",
        "path": "par_1/pkt_5/lit_a",
-       "text": "w iersz 1.3.1 otrzymuje brzmienie:",
+       "text": "wiersz 1.3.1 otrzymuje brzmienie:",
        "children": [
         {
          "type": "text",
@@ -736,7 +736,7 @@
      "type": "pkt",
      "num": "9",
      "path": "pkt_9",
-     "text": "„ 10” — osoba leczona, przyjęta w trybie oznaczonym kodem „9” lub „10”, która samowolnie opuściła podmiot leczniczy.",
+     "text": "„10” — osoba leczona, przyjęta w trybie oznaczonym kodem „9” lub „10”, która samowolnie opuściła podmiot leczniczy.",
      "children": []
     }
    ]
@@ -874,7 +874,7 @@
       },
       {
        "type": "text",
-       "text": "6.2. KOMUNIKAT POTWIERDZENIA DANYCH O DEKLARACJI WYBORU, O KTÓREJ MOWA W ART. 56 UST. 1 USTAWY Dziennik Ustaw Nr 215 — 12436 — Poz. 1273"
+       "text": "6.2. KOMUNIKAT POTWIERDZENIA DANYCH O DEKLARACJI WYBORU, O KTÓREJ MOWA W ART. 56 UST. 1 USTAWY"
       }
      ]
     },
@@ -990,10 +990,6 @@
       {
        "type": "text",
        "text": "9 — nieznana"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 215 — 12437 — Poz. 1273"
       }
      ]
     },
@@ -1049,7 +1045,7 @@
       },
       {
        "type": "text",
-       "text": "czas-gen 1 data + czas Data i czas wygenerowania Informacja pomocnicza komunikatu Dziennik Ustaw Nr 215 — 12438 — Poz. 1273 1 swiadczeniodawca 1 Świadczeniodawca dokonujący sprawozdania"
+       "text": "czas-gen 1 data + czas Data i czas wygenerowania Informacja pomocnicza komunikatu 1 swiadczeniodawca 1 Świadczeniodawca dokonujący sprawozdania"
       },
       {
        "type": "text",
@@ -1105,7 +1101,7 @@
       },
       {
        "type": "text",
-       "text": "typ 1 do 5 znaków Typ komunikatu (symbol) Dziennik Ustaw Nr 215 — 12439 — Poz. 1273 wersja 1 do 2 cyfr Numer wersji struktury komunikatu"
+       "text": "typ 1 do 5 znaków Typ komunikatu (symbol) wersja 1 do 2 cyfr Numer wersji struktury komunikatu"
       },
       {
        "type": "text",
@@ -1137,7 +1133,7 @@
       },
       {
        "type": "text",
-       "text": "opis 1 do 250 Opis powodu odrzucenia znaków komunikatu Dziennik Ustaw Nr 215 — 12440 — Poz. 1273"
+       "text": "opis 1 do 250 Opis powodu odrzucenia znaków komunikatu"
       }
      ]
     },
@@ -1205,7 +1201,7 @@
       },
       {
        "type": "text",
-       "text": "nr-wersji 1 Liczba (4,0) Numer wersji (modyfikacji) Atrybut techniczny wykorzystywany do danych zestawu świadczeń, numerowania wersji przekazywanych danych z wyjątkiem danych w przypadku ich poprawiania rozliczeniowych zdefiniowanych przez płatnika Dziennik Ustaw Nr 215 — 12441 — Poz. 1273 typ 1 1 litera Typ zestawu świadczeń Pomocniczy atrybut techniczny pozwalający na lepszą weryfikację poprawności struktury przekazanego komunikatu w zależności od rodzaju świadczeń przekazywanych w sprawozdaniu. Wartości: S — dla świadczeń opieki stacjonarnej A — dla pozostałych świadczeń"
+       "text": "nr-wersji 1 Liczba (4,0) Numer wersji (modyfikacji) Atrybut techniczny wykorzystywany do danych zestawu świadczeń, numerowania wersji przekazywanych danych z wyjątkiem danych w przypadku ich poprawiania rozliczeniowych zdefiniowanych przez płatnika typ 1 1 litera Typ zestawu świadczeń Pomocniczy atrybut techniczny pozwalający na lepszą weryfikację poprawności struktury przekazanego komunikatu w zależności od rodzaju świadczeń przekazywanych w sprawozdaniu. Wartości: S — dla świadczeń opieki stacjonarnej A — dla pozostałych świadczeń"
       },
       {
        "type": "text",
@@ -1237,7 +1233,7 @@
       },
       {
        "type": "text",
-       "text": "3 pacjent 1 Dane pacjenta Dziennik Ustaw Nr 215 — 12442 — Poz. 1273 4 ident-pacj 1 Identyfikacja pacjenta"
+       "text": "3 pacjent 1 Dane pacjenta 4 ident-pacj 1 Identyfikacja pacjenta"
       },
       {
        "type": "text",
@@ -1289,7 +1285,7 @@
       },
       {
        "type": "text",
-       "text": "kod- 0-1 do 10 znaków Kod pocztowy, jeżeli występuje pocztowy Dziennik Ustaw Nr 215 — 12443 — Poz. 1273 miejscowosc 1 do 56 znaków Miejscowość zamieszkania"
+       "text": "kod- 0-1 do 10 znaków Kod pocztowy, jeżeli występuje pocztowy miejscowosc 1 do 56 znaków Miejscowość zamieszkania"
       },
       {
        "type": "text",
@@ -1361,7 +1357,7 @@
       },
       {
        "type": "text",
-       "text": "6 gmina 0-1 Gmina, w której wydano 1z decyzję dla świadczeniobiorcy, o którym mowa w art. 2 ust. 1 pkt 2 ustawy Dziennik Ustaw Nr 215 — 12444 — Poz. 1273 teryt 1 7 cyfr Kod gminy krajowego rejestru Identyfikacja gminy poprzez kod TERYT określa urzędowego podziału również jednoznacznie organ wydający decyzję terytorialnego kraju TERYT (wójt/burmistrz gminy)"
+       "text": "6 gmina 0-1 Gmina, w której wydano 1z decyzję dla świadczeniobiorcy, o którym mowa w art. 2 ust. 1 pkt 2 ustawy teryt 1 7 cyfr Kod gminy krajowego rejestru Identyfikacja gminy poprzez kod TERYT określa urzędowego podziału również jednoznacznie organ wydający decyzję terytorialnego kraju TERYT (wójt/burmistrz gminy)"
       },
       {
        "type": "text",
@@ -1433,7 +1429,7 @@
       },
       {
        "type": "text",
-       "text": "data-do 1 data Data końcowa okresu ważności Dziennik Ustaw Nr 215 — 12445 — Poz. 1273 7 poswiadcz 0-1 Poświadczenie 1z numer 1 do 20 znaków Numer poświadczenia Numer ten, zbudowany zgodnie z wzorem określonym w rozporządzeniu wydanym na podstawie art. 52 ust. 3 ustawy, zawiera również rodzaj poświadczanego druku serii E100. Numer w formacie: OW/EEE/RR/NNNNN Gdzie OW — nr oddziału wojewódzkiego NFZ, EEE — dokument E100, RR — rok, NNNNN — kolejny numer poświadczenia"
+       "text": "data-do 1 data Data końcowa okresu ważności 7 poswiadcz 0-1 Poświadczenie 1z numer 1 do 20 znaków Numer poświadczenia Numer ten, zbudowany zgodnie z wzorem określonym w rozporządzeniu wydanym na podstawie art. 52 ust. 3 ustawy, zawiera również rodzaj poświadczanego druku serii E100. Numer w formacie: OW/EEE/RR/NNNNN Gdzie OW — nr oddziału wojewódzkiego NFZ, EEE — dokument E100, RR — rok, NNNNN — kolejny numer poświadczenia"
       },
       {
        "type": "text",
@@ -1469,7 +1465,7 @@
       },
       {
        "type": "text",
-       "text": "4 upraw-dodatkowe 0-1 Informacje o uprawnieniu dodatkowym pacjenta Dziennik Ustaw Nr 215 — 12446 — Poz. 1273 upraw-dod 1 do 7 znaków Kod dodatkowego uprawnienia Zgodnie z tabelą nr 9 załącznika nr 3 do pacjenta rozporządzenia"
+       "text": "4 upraw-dodatkowe 0-1 Informacje o uprawnieniu dodatkowym pacjenta upraw-dod 1 do 7 znaków Kod dodatkowego uprawnienia Zgodnie z tabelą nr 9 załącznika nr 3 do pacjenta rozporządzenia"
       },
       {
        "type": "text",
@@ -1525,7 +1521,7 @@
       },
       {
        "type": "text",
-       "text": "id-typ- 1 4 cyfry Identyfikator typu komórki Część VIII kodu resortowego. Jeśli nie nadano, to kom-org organizacyjnej należy przekazać „0000” u świadczeniodawcy, w której wystawiono zlecenie Dziennik Ustaw Nr 215 — 12447 — Poz. 1273 5 personel-zlec 1 Dane identyfikujące osobę zlecającą wykonanie świadczenia"
+       "text": "id-typ- 1 4 cyfry Identyfikator typu komórki Część VIII kodu resortowego. Jeśli nie nadano, to kom-org organizacyjnej należy przekazać „0000” u świadczeniodawcy, w której wystawiono zlecenie 5 personel-zlec 1 Dane identyfikujące osobę zlecającą wykonanie świadczenia"
       },
       {
        "type": "text",
@@ -1597,7 +1593,7 @@
       },
       {
        "type": "text",
-       "text": "data 1 data Data wypisu Dziennik Ustaw Nr 215 — 12448 — Poz. 1273 przycz- 0-1 do 5 znaków Przyczyna zgonu (wg ICD-10) Jeżeli zgon był przyczyną zakończenia zgonu hospitalizacji"
+       "text": "data 1 data Data wypisu przycz- 0-1 do 5 znaków Przyczyna zgonu (wg ICD-10) Jeżeli zgon był przyczyną zakończenia zgonu hospitalizacji"
       },
       {
        "type": "text",
@@ -1645,11 +1641,15 @@
       },
       {
        "type": "text",
-       "text": "data-od 1 data Data początku udzielania świadczenia Dziennik Ustaw Nr 215 — 12449 — Poz. 1273 data-do 0-1 data Data końca udzielania świadczenia tryb 0-1 1 cyfra Kod trybu przyjęcia pacjenta Zgodnie z załącznikiem nr 4 do rozporządzenia. Atrybut nieprzekazywany w przypadku podstawowej opieki zdrowotnej. Podawany obligatoryjnie dla zestawów świadczeń, dla których atrybut //zestaw-swiadczen/@typ = „A”. Niepodawany dla zestawów świadczeń stacjonarnych (tryb przyjęcia określony jest wtedy w elemencie //hospitalizacja/przyjecie/@tryb) dni-lecz 0-1 do 3 cyfr Liczba dni leczenia Liczba dni w przypadku, gdy jednostką statystyczną jest osoba leczona, cykl leczenia lub sesja 5 z-listy-oczek 0-1 Dane charakteryzujące wpis na Podawana tylko wtedy, gdy zrealizowane listę oczekujących, z której świadczenie jest przyczyną wykreślenia z listy wykreślono pacjenta oczekujących data- 1 data Data wpisu na listę Podawana tylko wtedy, gdy zrealizowane oczekiw oczekujących świadczenie jest podstawą do wykreślenia z listy oczekujących kod-kateg 1 1 znak Kryterium medyczne Wartości: przypisane pacjentowi na liście 1 — przypadek stabilny oczekujących 2 — przypadek pilny Określone w rozporządzeniu wydanym na podstawie art. 20 ust. 11 ustawy kod-proc 0-1 do 20 znaków Kod procedury medycznej, Występuje, gdy lista, z której wykreślono pacjenta, zakresu świadczeń lub dotyczy określonej procedury medycznej. Kod świadczenia procedury, zakresu świadczeń lub świadczenia wysokospecjalistycznego wysokospecjalistycznego według słownika zdefiniowanego przez płatnika id-kom- 1 3 lub 4 cyfry Identyfikator komórki Gdy nienadany, należy przekazać „000”. org organizacyjnej według księgi Świadczenie może być zrealizowane w innej rejestrowej rejestru podmiotów komórce świadczeniodawcy niż ta, której dotyczy wykonujących działalność lista oczekujących leczniczą, której dotyczy lista oczekujących 5 przepustka 0-n Dane dotyczące przepustki Przepustka zgodnie z definicją określoną w § 1 ust. 2 pkt 4 rozporządzenia nr- 1 do 3 cyfr Numer przepustki Unikalny kolejny numer przepustki w ramach przepust świadczenia data-od 1 data i czas Data i godzina rozpoczęcia Czas należy przekazywać z dokładnością do minut, przepustki wskazując w sekcji sekund wartość „00”"
+       "text": "data-od 1 data Data początku udzielania świadczenia data-do 0-1 data Data końca udzielania świadczenia tryb 0-1 1 cyfra Kod trybu przyjęcia pacjenta Zgodnie z załącznikiem nr 4 do rozporządzenia. Atrybut nieprzekazywany w przypadku podstawowej opieki zdrowotnej. Podawany obligatoryjnie dla zestawów świadczeń, dla których atrybut //zestaw-swiadczen/@typ = „A”. Niepodawany dla zestawów świadczeń stacjonarnych (tryb przyjęcia określony jest wtedy w elemencie //hospitalizacja/przyjecie/@tryb) dni-lecz 0-1 do 3 cyfr Liczba dni leczenia Liczba dni w przypadku, gdy jednostką statystyczną jest osoba leczona, cykl leczenia lub sesja 5 z-listy-oczek 0-1 Dane charakteryzujące wpis na Podawana tylko wtedy, gdy zrealizowane listę oczekujących, z której świadczenie jest przyczyną wykreślenia z listy wykreślono pacjenta oczekujących data- 1 data Data wpisu na listę Podawana tylko wtedy, gdy zrealizowane oczekiw oczekujących świadczenie jest podstawą do wykreślenia z listy oczekujących kod-kateg 1 1 znak Kryterium medyczne Wartości: przypisane pacjentowi na liście 1 — przypadek stabilny oczekujących 2 — przypadek pilny Określone w rozporządzeniu wydanym na podstawie art. 20 ust. 11 ustawy kod-proc 0-1 do 20 znaków Kod procedury medycznej, Występuje, gdy lista, z której wykreślono pacjenta, zakresu świadczeń lub dotyczy określonej procedury medycznej. Kod świadczenia procedury, zakresu świadczeń lub świadczenia wysokospecjalistycznego wysokospecjalistycznego według słownika zdefiniowanego przez płatnika id-kom- 1 3 lub 4 cyfry Identyfikator komórki Gdy nienadany, należy przekazać „000”. org organizacyjnej według księgi Świadczenie może być zrealizowane w innej rejestrowej rejestru podmiotów komórce świadczeniodawcy niż ta, której dotyczy wykonujących działalność lista oczekujących leczniczą, której dotyczy lista oczekujących 5 przepustka 0-n Dane dotyczące przepustki Przepustka zgodnie z definicją określoną w § 1 ust. 2 pkt 4 rozporządzenia nr- 1 do 3 cyfr Numer przepustki Unikalny kolejny numer przepustki w ramach przepust świadczenia data-od 1 data i czas Data i godzina rozpoczęcia Czas należy przekazywać z dokładnością do minut, przepustki wskazując w sekcji sekund wartość „00”"
       },
       {
        "type": "text",
-       "text": "data-do 1 data i czas Data i godzina zakończenia Czas należy przekazywać z dokładnością do minut, przepustki wskazując w sekcji sekund wartość „00” Dziennik Ustaw Nr 215 — 12450 — Poz. 1273 4.1.7. Element „kom-org”"
+       "text": "data-do 1 data i czas Data i godzina zakończenia Czas należy przekazywać z dokładnością do minut, przepustki wskazując w sekcji sekund wartość „00”"
+      },
+      {
+       "type": "text",
+       "text": "4.1.7. Element „kom-org”"
       },
       {
        "type": "text",
@@ -1701,7 +1701,7 @@
       },
       {
        "type": "text",
-       "text": "glowna 1 do 5 znaków Przyczyna główna Kod według klasyfikacji ICD-10 Dziennik Ustaw Nr 215 — 12451 — Poz. 1273 wsp1 0-1 do 5 znaków Przyczyna współistniejąca nr 1 jw."
+       "text": "glowna 1 do 5 znaków Przyczyna główna Kod według klasyfikacji ICD-10 wsp1 0-1 do 5 znaków Przyczyna współistniejąca nr 1 jw."
       },
       {
        "type": "text",
@@ -1761,7 +1761,7 @@
       },
       {
        "type": "text",
-       "text": "data-wyk 0-1 data Data wykonania procedury Występuje w przypadkach określonych w § 3 ust. 1 pkt 5 rozporządzenia Dziennik Ustaw Nr 215 — 12452 — Poz. 1273 4.1.12. Element „ratownictwo”"
+       "text": "data-wyk 0-1 data Data wykonania procedury Występuje w przypadkach określonych w § 3 ust. 1 pkt 5 rozporządzenia 4.1.12. Element „ratownictwo”"
       },
       {
        "type": "text",
@@ -1805,7 +1805,7 @@
       },
       {
        "type": "text",
-       "text": "zakonczenie- 0-1 data + czas Zakończenie medycznych czynnosci czynności ratunkowych przez zespół ratownictwa medycznego, inne niż przekazanie pacjenta szpitalnemu oddziałowi ratunkowemu lub jednostce organizacyjnej szpitala Dziennik Ustaw Nr 215 — 12453 — Poz. 1273 oddzial- 0-1 data + czas Przekazanie opieki nad ratunkowy- pacjentem szpitalnemu przek oddziałowi ratunkowemu lub jednostce organizacyjnej szpitala wyspecjalizowanej w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego"
+       "text": "zakonczenie- 0-1 data + czas Zakończenie medycznych czynnosci czynności ratunkowych przez zespół ratownictwa medycznego, inne niż przekazanie pacjenta szpitalnemu oddziałowi ratunkowemu lub jednostce organizacyjnej szpitala oddzial- 0-1 data + czas Przekazanie opieki nad ratunkowy- pacjentem szpitalnemu przek oddziałowi ratunkowemu lub jednostce organizacyjnej szpitala wyspecjalizowanej w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego"
       },
       {
        "type": "text",
@@ -1853,7 +1853,7 @@
       },
       {
        "type": "text",
-       "text": "1 swiadczeniodawca 1 Świadczeniodawca, który przekazał potwierdzane dane Dziennik Ustaw Nr 215 — 12454 — Poz. 1273 (wszystkie) Wszystkie atrybuty przyjmują wartości zgodnie ze specyfikacją ogólnego nagłówka komunikatów potwierdzeń"
+       "text": "1 swiadczeniodawca 1 Świadczeniodawca, który przekazał potwierdzane dane (wszystkie) Wszystkie atrybuty przyjmują wartości zgodnie ze specyfikacją ogólnego nagłówka komunikatów potwierdzeń"
       },
       {
        "type": "text",
@@ -1893,7 +1893,7 @@
       },
       {
        "type": "text",
-       "text": "3 problem 0-n Informacja o ewentualnych Nie występuje, gdy nie ma żadnych problemów problemach związanych w zestawie świadczeń lub dotyczą one z całością zestawu świadczeń, poszczególnych świadczeń składowych a nie pojedynczym świadczeniem Dziennik Ustaw Nr 215 — 12455 — Poz. 1273 waga 1 1 znak Waga wskazywanego Wartości: problemu B — B łąd — problem powodujący odrzucenie danych O — O strzeżenie — sygnalizacja potencjalnego problemu I — Informacja — dodatkowa informacja od płatnika, np. sugestia sprawdzenia danych w sytuacji podejrzenia często popełnianego błędu"
+       "text": "3 problem 0-n Informacja o ewentualnych Nie występuje, gdy nie ma żadnych problemów problemach związanych w zestawie świadczeń lub dotyczą one z całością zestawu świadczeń, poszczególnych świadczeń składowych a nie pojedynczym świadczeniem waga 1 1 znak Waga wskazywanego Wartości: problemu B — B łąd — problem powodujący odrzucenie danych O — O strzeżenie — sygnalizacja potencjalnego problemu I — Informacja — dodatkowa informacja od płatnika, np. sugestia sprawdzenia danych w sytuacji podejrzenia często popełnianego błędu"
       },
       {
        "type": "text",
@@ -1949,7 +1949,7 @@
       },
       {
        "type": "text",
-       "text": "0 komunikat 1 Główny element komunikatu Dziennik Ustaw Nr 215 — 12456 — Poz. 1273 typ 1 do 5 znaków Typ komunikatu (symbol) W przypadku niniejszego komunikatu ma wartość „ZPOSP”"
+       "text": "0 komunikat 1 Główny element komunikatu typ 1 do 5 znaków Typ komunikatu (symbol) W przypadku niniejszego komunikatu ma wartość „ZPOSP”"
       },
       {
        "type": "text",
@@ -1997,7 +1997,7 @@
       },
       {
        "type": "text",
-       "text": "id-inst 0-1 do 38 znaków Identyfikator instalacji systemu Wymagany, gdy inny niż wpisany w atrybucie świadczeniodawcy, w którym //komunikat/swiadczeniodawca/@id-inst została zarejestrowana pozycja sprawozdania Dziennik Ustaw Nr 215 — 12457 — Poz. 1273 id-poz- 1 do 10 cyfr Identyfikator pozycji Jednoznaczny w ramach identyfikatora instalacji rozlicz sprawozdania systemu świadczeniodawcy"
+       "text": "id-inst 0-1 do 38 znaków Identyfikator instalacji systemu Wymagany, gdy inny niż wpisany w atrybucie świadczeniodawcy, w którym //komunikat/swiadczeniodawca/@id-inst została zarejestrowana pozycja sprawozdania id-poz- 1 do 10 cyfr Identyfikator pozycji Jednoznaczny w ramach identyfikatora instalacji rozlicz sprawozdania systemu świadczeniodawcy"
       },
       {
        "type": "text",
@@ -2053,7 +2053,7 @@
       },
       {
        "type": "text",
-       "text": "kod- 1 do 16 znaków Kod przedmiotu Zgodnie z § 3 ust. 4 pkt 3 lit. c lub § 3 ust. 5 pkt 4 przedm ortopedycznego bądź środka lit. b rozporządzenia, według słownika pomocniczego, a w przypadku zdefiniowanego przez płatnika naprawy — kod naprawy przedmiotu Dziennik Ustaw Nr 215 — 12458 — Poz. 1273 ilosc 1 do 3 cyfr Wydana ilość przedmiotów W przypadku naprawy ilość jest równa 1"
+       "text": "kod- 1 do 16 znaków Kod przedmiotu Zgodnie z § 3 ust. 4 pkt 3 lit. c lub § 3 ust. 5 pkt 4 przedm ortopedycznego bądź środka lit. b rozporządzenia, według słownika pomocniczego, a w przypadku zdefiniowanego przez płatnika naprawy — kod naprawy przedmiotu ilosc 1 do 3 cyfr Wydana ilość przedmiotów W przypadku naprawy ilość jest równa 1"
       },
       {
        "type": "text",
@@ -2117,7 +2117,7 @@
       },
       {
        "type": "text",
-       "text": "miesiac 1 miesiąc Miesiąc, którego dotyczy potwierdzane sprawozdanie Dziennik Ustaw Nr 215 — 12459 — Poz. 1273 id-dok-rozl 1 do 24 znaków Identyfikator dokumentu rozliczeniowego"
+       "text": "miesiac 1 miesiąc Miesiąc, którego dotyczy potwierdzane sprawozdanie id-dok-rozl 1 do 24 znaków Identyfikator dokumentu rozliczeniowego"
       },
       {
        "type": "text",
@@ -2157,7 +2157,7 @@
       },
       {
        "type": "text",
-       "text": "4 problem 0-n Informacja o ewentualnych Nie występuje, gdy nie ma żadnych problemów problemach związanych z daną pozycją sprawozdania z pozycją sprawozdania Dziennik Ustaw Nr 215 — 12460 — Poz. 1273 Waga 1 1 znak Waga wskazywanego Wartości: problemu B — Błąd — problem powodujący odrzucenie danych O — Ostrzeżenie — sygnalizacja potencjalnego problemu I — Informacja — dodatkowa informacja od płatnika, np. sugestia sprawdzenia danych w sytuacji podejrzenia często popełnianego błędu"
+       "text": "4 problem 0-n Informacja o ewentualnych Nie występuje, gdy nie ma żadnych problemów problemach związanych z daną pozycją sprawozdania z pozycją sprawozdania Waga 1 1 znak Waga wskazywanego Wartości: problemu B — Błąd — problem powodujący odrzucenie danych O — Ostrzeżenie — sygnalizacja potencjalnego problemu I — Informacja — dodatkowa informacja od płatnika, np. sugestia sprawdzenia danych w sytuacji podejrzenia często popełnianego błędu"
       },
       {
        "type": "text",
@@ -2213,7 +2213,7 @@
       },
       {
        "type": "text",
-       "text": "id-spraw 1 1 cyfra Identyfikator sprawozdania Identyfikator sprawozdania w ramach umowy, roku i miesiąca Dziennik Ustaw Nr 215 — 12461 — Poz. 1273 wersja 1 do 3 cyfr Numer wersji danych Pierwszy numer wersji w ramach identyfikatora w ramach sprawozdania sprawozdania przyjmuje wartość „1”. Przesłanie danych w wersji niższej lub takiej jak zarejestrowana w systemie płatnika, w ramach identyfikatora sprawozdania, powoduje odrzucenie sprawozdania. Przesłanie danych w wersji wyższej, w ramach identyfikatora sprawozdania, powoduje nadpisanie w całości sprawozdania poprzedniego"
+       "text": "id-spraw 1 1 cyfra Identyfikator sprawozdania Identyfikator sprawozdania w ramach umowy, roku i miesiąca wersja 1 do 3 cyfr Numer wersji danych Pierwszy numer wersji w ramach identyfikatora w ramach sprawozdania sprawozdania przyjmuje wartość „1”. Przesłanie danych w wersji niższej lub takiej jak zarejestrowana w systemie płatnika, w ramach identyfikatora sprawozdania, powoduje odrzucenie sprawozdania. Przesłanie danych w wersji wyższej, w ramach identyfikatora sprawozdania, powoduje nadpisanie w całości sprawozdania poprzedniego"
       },
       {
        "type": "text",
@@ -2245,7 +2245,7 @@
       },
       {
        "type": "text",
-       "text": "4 dekl-poz 1-n Dane dotyczące deklaracji wyboru, złożonej przez świadczeniobiorcę, o której mowa w art. 56 ust. 1 ustawy Dziennik Ustaw Nr 215 — 12462 — Poz. 1273 id-dekl 1 do 10 cyfr Identyfikator deklaracji Atrybut techniczny jednoznacznie identyfikujący wyboru, o której mowa złożoną deklarację w ramach systemu w art. 56 ust. 1 ustawy informatycznego świadczeniodawcy"
+       "text": "4 dekl-poz 1-n Dane dotyczące deklaracji wyboru, złożonej przez świadczeniobiorcę, o której mowa w art. 56 ust. 1 ustawy id-dekl 1 do 10 cyfr Identyfikator deklaracji Atrybut techniczny jednoznacznie identyfikujący wyboru, o której mowa złożoną deklarację w ramach systemu w art. 56 ust. 1 ustawy informatycznego świadczeniodawcy"
       },
       {
        "type": "text",
@@ -2313,7 +2313,7 @@
       },
       {
        "type": "text",
-       "text": "imie 1 do 30 znaków Imię Dziennik Ustaw Nr 215 — 12463 — Poz. 1273 imie2 0-1 do 30 znaków Drugie imię"
+       "text": "imie 1 do 30 znaków Imię imie2 0-1 do 30 znaków Drugie imię"
       },
       {
        "type": "text",
@@ -2381,7 +2381,7 @@
       },
       {
        "type": "text",
-       "text": "1 potw-spraw- 1 Potwierdzenie sprawozdania rozlicz-dekl-poz rozliczeniowego deklaracji wyboru, o której mowa w art. 56 ust. 1 ustawy Dziennik Ustaw Nr 215 — 12464 — Poz. 1273 id-spraw 1 1 cyfra Identyfikator sprawozdania Wartość jak w analogicznym atrybucie z potwierdzanego sprawozdania"
+       "text": "1 potw-spraw- 1 Potwierdzenie sprawozdania rozlicz-dekl-poz rozliczeniowego deklaracji wyboru, o której mowa w art. 56 ust. 1 ustawy id-spraw 1 1 cyfra Identyfikator sprawozdania Wartość jak w analogicznym atrybucie z potwierdzanego sprawozdania"
       },
       {
        "type": "text",
@@ -2433,7 +2433,7 @@
       },
       {
        "type": "text",
-       "text": "5 problem 0-n Informacja o ewentualnych Nie występuje, gdy nie ma żadnych problemów problemach związanych w deklaracji wyboru, o której mowa w art. 56 ust. 1 z deklaracją wyboru, o której ustawy mowa w art. 56 ust. 1 ustawy Dziennik Ustaw Nr 215 — 12465 — Poz. 1273 waga 1 1 znak Waga wskazywanego Wartości: problemu B — B łąd — problem powodujący odrzucenie danych O — Ostrzeżenie — sygnalizacja potencjalnego problemu I — Informacja — dodatkowa informacja od płatnika, np. sugestia sprawdzenia danych w sytuacji podejrzenia często popełnianego błędu kod 1 do 10 znaków Kod problemu Zestaw kodów ustalany jest przez odbiorcę potwierdzanych danych (płatnika) opis 1 do 250 Opis problemu znaków"
+       "text": "5 problem 0-n Informacja o ewentualnych Nie występuje, gdy nie ma żadnych problemów problemach związanych w deklaracji wyboru, o której mowa w art. 56 ust. 1 z deklaracją wyboru, o której ustawy mowa w art. 56 ust. 1 ustawy waga 1 1 znak Waga wskazywanego Wartości: problemu B — B łąd — problem powodujący odrzucenie danych O — Ostrzeżenie — sygnalizacja potencjalnego problemu I — Informacja — dodatkowa informacja od płatnika, np. sugestia sprawdzenia danych w sytuacji podejrzenia często popełnianego błędu kod 1 do 10 znaków Kod problemu Zestaw kodów ustalany jest przez odbiorcę potwierdzanych danych (płatnika) opis 1 do 250 Opis problemu znaków"
       }
      ]
     },
@@ -2465,7 +2465,7 @@
       },
       {
        "type": "text",
-       "text": "umowa 1 do 24 znaków Numer umowy z płatnikiem, w ramach której były realizowane świadczenia objęte sprawozdaniem zbiorczym Dziennik Ustaw Nr 215 — 12466 — Poz. 1273 rok 1 rok Rok, którego dotyczy sprawozdanie"
+       "text": "umowa 1 do 24 znaków Numer umowy z płatnikiem, w ramach której były realizowane świadczenia objęte sprawozdaniem zbiorczym rok 1 rok Rok, którego dotyczy sprawozdanie"
       },
       {
        "type": "text",
@@ -2525,7 +2525,7 @@
       },
       {
        "type": "text",
-       "text": "0 komunikat 1 Główny element komunikatu Dziennik Ustaw Nr 215 — 12467 — Poz. 1273 xmlns 1 stała wartość Identyfikator przestrzeni nazw Dla formatów komunikatów określonych (domyślnej) dla elementów niniejszym rozporządzeniem jest to stała wartość: komunikatu określonych www.csioz.gov.pl/xml/swd-platnik/1 rozporządzeniem"
+       "text": "0 komunikat 1 Główny element komunikatu xmlns 1 stała wartość Identyfikator przestrzeni nazw Dla formatów komunikatów określonych (domyślnej) dla elementów niniejszym rozporządzeniem jest to stała wartość: komunikatu określonych www.csioz.gov.pl/xml/swd-platnik/1 rozporządzeniem"
       },
       {
        "type": "text",
@@ -2569,7 +2569,7 @@
       },
       {
        "type": "text",
-       "text": "id-swd 1 do 16 znaków Identyfikator świadczeniodawcy Dziennik Ustaw Nr 215 — 12468 — Poz. 1273 id-inst 1 do 38 znaków Identyfikator instalacji systemu Unikalny co najmniej w ramach informatycznego świadczeniodawcy. Identyfikator ten definiuje świadczeniodawcy przestrzeń unikalności dla identyfikatorów technicznych wszystkich obiektów danych tworzonych po stronie świadczeniodawcy i przekazywanych płatnikowi, jak: zestaw świadczeń, świadczenie, produkt rozliczeniowy"
+       "text": "id-swd 1 do 16 znaków Identyfikator świadczeniodawcy id-inst 1 do 38 znaków Identyfikator instalacji systemu Unikalny co najmniej w ramach informatycznego świadczeniodawcy. Identyfikator ten definiuje świadczeniodawcy przestrzeń unikalności dla identyfikatorów technicznych wszystkich obiektów danych tworzonych po stronie świadczeniodawcy i przekazywanych płatnikowi, jak: zestaw świadczeń, świadczenie, produkt rozliczeniowy"
       },
       {
        "type": "text",
@@ -2605,7 +2605,11 @@
       },
       {
        "type": "text",
-       "text": "wersja 1 do 3 cyfr Numer wersji danych Przyjmuje się, że dane o większym numerze wersji dotyczących określonej listy zastępują w całości poprzednio przekazane dane oczekujących w kluczu sprawozdania wymienionym w opisie elementu „lista-oczek” Dziennik Ustaw Nr 215 — 12469 — Poz. 1273 usun 0-1 1 znak Żądanie usunięcia danych Stosowane wówczas, kiedy chcemy usunąć ze [N] dotyczących określonej listy sprawozdania listę (dotyczącą określonej komórki oczekujących organizacyjnej lub procedury), traktowaną jako odrębny obiekt sprawozdawczy. Natomiast gdy kolejka jest obserwowana, ale ma liczebność = „0” i czas oczekiwania = „0”, to podaje się te wartości w odpowiednich atrybutach elementu „parametry”"
+       "text": "wersja 1 do 3 cyfr Numer wersji danych Przyjmuje się, że dane o większym numerze wersji dotyczących określonej listy zastępują w całości poprzednio przekazane dane oczekujących w kluczu sprawozdania wymienionym w opisie elementu „lista-oczek”"
+      },
+      {
+       "type": "text",
+       "text": "usun 0-1 1 znak Żądanie usunięcia danych Stosowane wówczas, kiedy chcemy usunąć ze [N] dotyczących określonej listy sprawozdania listę (dotyczącą określonej komórki oczekujących organizacyjnej lub procedury), traktowaną jako odrębny obiekt sprawozdawczy. Natomiast gdy kolejka jest obserwowana, ale ma liczebność = „0” i czas oczekiwania = „0”, to podaje się te wartości w odpowiednich atrybutach elementu „parametry”"
       },
       {
        "type": "text",
@@ -2673,7 +2677,7 @@
       },
       {
        "type": "text",
-       "text": "nazwisko 1 do 60 znaków Nazwisko Dziennik Ustaw Nr 215 — 12470 — Poz. 1273 5 adres 0-1 Adres zamieszkania pacjenta Występuje wtedy, gdy przekazuje się dane osób oczekujących (atrybut „zakres-danych” = W)"
+       "text": "nazwisko 1 do 60 znaków Nazwisko 5 adres 0-1 Adres zamieszkania pacjenta Występuje wtedy, gdy przekazuje się dane osób oczekujących (atrybut „zakres-danych” = W)"
       },
       {
        "type": "text",
@@ -2741,7 +2745,7 @@
       },
       {
        "type": "text",
-       "text": "operator 1 do 30 znaków Imię i nazwisko osoby dokonującej wpisu Dziennik Ustaw Nr 215 — 12471 — Poz. 1273 data-plan 1 data Planowana data udzielenia W przypadku zaplanowania z dokładnością do świadczenia tygodnia podaje się pierwszy dzień tygodnia (poniedziałek)"
+       "text": "operator 1 do 30 znaków Imię i nazwisko osoby dokonującej wpisu data-plan 1 data Planowana data udzielenia W przypadku zaplanowania z dokładnością do świadczenia tygodnia podaje się pierwszy dzień tygodnia (poniedziałek)"
       },
       {
        "type": "text",
@@ -2801,7 +2805,7 @@
       },
       {
        "type": "text",
-       "text": "xmlns 1 stała wartość Identyfikator przestrzeni nazw Dla formatów komunikatów określonych (domyślnej) dla elementów niniejszym rozporządzeniem jest to stała wartość: komunikatu określonych www.csioz.gov.pl/xml/swd-platnik/1 rozporządzeniem Dziennik Ustaw Nr 215 — 12472 — Poz. 1273 typ 1 do 5 znaków Typ komunikatu (symbol) W przypadku niniejszego komunikatu ma wartość „P_LIO”"
+       "text": "xmlns 1 stała wartość Identyfikator przestrzeni nazw Dla formatów komunikatów określonych (domyślnej) dla elementów niniejszym rozporządzeniem jest to stała wartość: komunikatu określonych www.csioz.gov.pl/xml/swd-platnik/1 rozporządzeniem typ 1 do 5 znaków Typ komunikatu (symbol) W przypadku niniejszego komunikatu ma wartość „P_LIO”"
       },
       {
        "type": "text",
@@ -2841,7 +2845,7 @@
       },
       {
        "type": "text",
-       "text": "id-swd 1 do 16 znaków Identyfikator świadczeniodawcy Dziennik Ustaw Nr 215 — 12473 — Poz. 1273 id-inst 1 do 38 znaków Identyfikator instalacji systemu Unikalny co najmniej w ramach informatycznego świadczeniodawcy. Identyfikator ten definiuje świadczeniodawcy przestrzeń unikalności dla identyfikatorów technicznych wszystkich obiektów danych tworzonych po stronie świadczeniodawcy i przekazywanych płatnikowi, jak: zestaw świadczeń, świadczenie, produkt rozliczeniowy"
+       "text": "id-swd 1 do 16 znaków Identyfikator świadczeniodawcy id-inst 1 do 38 znaków Identyfikator instalacji systemu Unikalny co najmniej w ramach informatycznego świadczeniodawcy. Identyfikator ten definiuje świadczeniodawcy przestrzeń unikalności dla identyfikatorów technicznych wszystkich obiektów danych tworzonych po stronie świadczeniodawcy i przekazywanych płatnikowi, jak: zestaw świadczeń, świadczenie, produkt rozliczeniowy"
       },
       {
        "type": "text",
@@ -2873,7 +2877,7 @@
       },
       {
        "type": "text",
-       "text": "kod-proc 0-1 do 20 znaków Kod procedury medycznej lub Kod procedury, zakresu świadczeń lub świadczenia świadczenia wysokospecjalistycznego według słownika wysokospecjalistycznego zdefiniowanego przez płatnika Dziennik Ustaw Nr 215 — 12474 — Poz. 1273 wersja 1 do 3 cyfr Numer wersji danych Przyjmuje się, że dane o większym numerze wersji dotyczących określonej listy zastępują w całości poprzednio przekazane dane oczekujących"
+       "text": "kod-proc 0-1 do 20 znaków Kod procedury medycznej lub Kod procedury, zakresu świadczeń lub świadczenia świadczenia wysokospecjalistycznego według słownika wysokospecjalistycznego zdefiniowanego przez płatnika wersja 1 do 3 cyfr Numer wersji danych Przyjmuje się, że dane o większym numerze wersji dotyczących określonej listy zastępują w całości poprzednio przekazane dane oczekujących"
       },
       {
        "type": "text",
@@ -2897,7 +2901,7 @@
       },
       {
        "type": "text",
-       "text": "opis 0-1 do 250 Opis przyczyny Atrybut przekazywany tylko dla zakres-danych znaków zakwestionowania / = „O” niepublikowania informacji o danej liście oczekujących Dziennik Ustaw Nr 215 — 12475 — Poz. 1273"
+       "text": "opis 0-1 do 250 Opis przyczyny Atrybut przekazywany tylko dla zakres-danych znaków zakwestionowania / = „O” niepublikowania informacji o danej liście oczekujących"
       }
      ]
     }

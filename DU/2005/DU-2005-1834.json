@@ -1,7 +1,7 @@
 {
  "eli": "DU/2005/1834",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 27 października 2005 r. w sprawie szkolenia, egzaminowania i uzyskiwania uprawnień przez kierujących pojazdami, instruktorów i egzaminatorów",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/1834/text.pdf",
  "body": [
   {
@@ -4843,7 +4843,7 @@
     },
     {
      "type": "text",
-     "text": "Format A4, układ poziomy strona 1 Dziennik Ustaw Nr 217 — 14503 — Poz. 1834"
+     "text": "Format A4, układ poziomy strona 1"
     },
     {
      "type": "note",
@@ -6661,68 +6661,114 @@
             },
             {
              "type": "note",
-             "text": "[Strona 35 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+             "text": "[Strona 35 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
             },
             {
-             "type": "ocr",
+             "type": "text",
              "text": "przewodów hamulcowych i elektrycznych), elementów przyczepy związanych z jej załadunkiem, sposobu zabezpieczenia ładunku,"
-            },
-            {
-             "type": "ocr",
-             "text": "b) sprzęganie przyczepy z pojazdem silnikowym (sytuacja wyjściowa — pojazd silnikowy obok przyczepy) — na wykonanie zadania osoba egzaminowana ma nie więcej niż 10 min, Czynności wykonywane w trakcie sprzęgania: - podjazd pojazdem silnikowym przed przyczepę, - cofnięcie pojazdem silnikowym w kierunku przyczepy w sposób umożliwiający dokonanie sprzęgnięcia, - regulacja wysokości zaczepu przyczepy (w przypadku gdy konstrukcja przyczepy to umożliwia), - _ dokonanie połączenia zaczepu przyczepy z hakiem lub zaczepu pojazdu silnikowego oraz zabezpieczenie przed rozłączeniem, - _ podłączenie do pojazdu silnikowego: przewodów elektrycznych przyczepy (silnik pojazdu wyłączony), przewodów hamulcowych przyczepy, sprawdzenie działania świateł przyczepy, zwolnienie hamulca postojowego jeżeli przyczepa jest w niego wyposażona."
-            },
-            {
-             "type": "ocr",
-             "text": "7) dodatkowo dla kategorii D, D+E, D1, D1+E sprawdzenie nadwozia, drzwi, wyjść awaryjnych, wymaganego wyposażenia,"
-            },
-            {
-             "type": "ocr",
-             "text": "1) pozycja początkowa pojazdu określona w instrukcji w tabeli nr 9,"
-            },
-            {
-             "type": "ocr",
-             "text": "2) dla kategorii B, BI, C, C1, DI — płynna jazda pasem ruchu do przodu i tyłu (w przypadku kategorii B i Blw trakcie jazdy do tyłu obserwacja toru jazdy pojazdu zgodnie z techniką kierowania przez tylną szybę pojazdu i lusterka),"
-            },
-            {
-             "type": "ocr",
-             "text": "3) dla kategorii T, B+E, CHE, C1+E, D, D+E, D1+E:"
-            },
-            {
-             "type": "ocr",
-             "text": "a) płynna jazda do przodu pasem ruchu,"
-            },
-            {
-             "type": "ocr",
-             "text": "b) cofanie po prostej i łuku, z możliwością zatrzymywania > > się i ponawiania jazdy do przodu, w czasie nie dłuższym niż 5 minut,"
-            },
-            {
-             "type": "ocr",
-             "text": "4) nieprzejeżdżanie przez linie, i nienajeżdżanie na krawężniki, pachołki i tyczki ograniczające pas (nie dotyczy linii wewnętrznych ograniczających i wyznaczających pole zatrzymania pojazdu),"
-            },
-            {
-             "type": "ocr",
-             "text": "5) zatrzymanie pojazdu przed końcem i początkiem pasa:"
-            },
-            {
-             "type": "ocr",
-             "text": "a) w przypadku kategorii Bi Bl w wyznaczonym polu zatrzymania pojazdu,"
-            },
-            {
-             "type": "ocr",
-             "text": "b) w przypadku pozostałych kategorii w odległości niewiększej niż I m od linii ograniczającej pas."
-            },
-            {
-             "type": "ocr",
-             "text": "l) pozycja początkowa pojazdu określona w tabeli nr 10, 3 34 2) właściwe sygnalizowanie zamiaru zmiany kierunku jazdy,"
-            },
-            {
-             "type": "ocr",
-             "text": "3) w czasie wykonania zadania:"
-            },
-            {
-             "type": "ocr",
-             "text": "a) możliwa jedna korekta toru jazd"
-            },
+            }
+           ]
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_9/ust_1/pkt_3/lit_b",
+           "text": "sprzęganie przyczepy z pojazdem silnikowym (sytuacja wyjściowa — pojazd silnikowy obok przyczepy) — na wykonanie zadania osoba egzaminowana ma nie więcej niż 10 min, Czynności wykonywane w trakcie sprzęgania: - podjazd pojazdem silnikowym przed przyczepę, - cofnięcie pojazdem silnikowym w kierunku przyczepy w sposób umożliwiający dokonanie sprzęgnięcia, - regulacja wysokości zaczepu przyczepy (w przypadku gdy konstrukcja przyczepy to umożliwia), - _ dokonanie połączenia zaczepu przyczepy z hakiem lub zaczepu pojazdu silnikowego oraz zabezpieczenie przed rozłączeniem, - _ podłączenie do pojazdu silnikowego: przewodów elektrycznych przyczepy (silnik pojazdu wyłączony), przewodów hamulcowych przyczepy, sprawdzenie działania świateł przyczepy, zwolnienie hamulca postojowego jeżeli przyczepa jest w niego wyposażona.",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_9/ust_1/pkt_7",
+         "text": "dodatkowo dla kategorii D, D+E, D1, D1+E sprawdzenie nadwozia, drzwi, wyjść awaryjnych, wymaganego wyposażenia,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_9/ust_1/pkt_1",
+         "text": "pozycja początkowa pojazdu określona w instrukcji w tabeli nr 9,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_9/ust_1/pkt_2",
+         "text": "dla kategorii B, BI, C, C1, DI — płynna jazda pasem ruchu do przodu i tyłu (w przypadku kategorii B i Blw trakcie jazdy do tyłu obserwacja toru jazdy pojazdu zgodnie z techniką kierowania przez tylną szybę pojazdu i lusterka),",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_9/ust_1/pkt_3",
+         "text": "dla kategorii T, B+E, CHE, C1+E, D, D+E, D1+E:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_9/ust_1/pkt_3/lit_a",
+           "text": "płynna jazda do przodu pasem ruchu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_9/ust_1/pkt_3/lit_b",
+           "text": "cofanie po prostej i łuku, z możliwością zatrzymywania > > się i ponawiania jazdy do przodu, w czasie nie dłuższym niż 5 minut,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_9/ust_1/pkt_4",
+         "text": "nieprzejeżdżanie przez linie, i nienajeżdżanie na krawężniki, pachołki i tyczki ograniczające pas (nie dotyczy linii wewnętrznych ograniczających i wyznaczających pole zatrzymania pojazdu),",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_9/ust_1/pkt_5",
+         "text": "zatrzymanie pojazdu przed końcem i początkiem pasa:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_9/ust_1/pkt_5/lit_a",
+           "text": "w przypadku kategorii Bi Bl w wyznaczonym polu zatrzymania pojazdu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_9/ust_1/pkt_5/lit_b",
+           "text": "w przypadku pozostałych kategorii w odległości niewiększej niż I m od linii ograniczającej pas.",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "l",
+           "path": "par_9/ust_1/pkt_5/lit_l",
+           "text": "pozycja początkowa pojazdu określona w tabeli nr 10, 3 34 2) właściwe sygnalizowanie zamiaru zmiany kierunku jazdy,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_9/ust_1/pkt_3",
+         "text": "w czasie wykonania zadania:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_9/ust_1/pkt_3/lit_a",
+           "text": "możliwa jedna korekta toru jazd",
+           "children": [
             {
              "type": "note",
              "text": "[Na stronie 36 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
@@ -7132,143 +7178,150 @@
       },
       {
        "type": "note",
-       "text": "[Strona 45 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "text": "[Strona 45 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Nieustąpienie pierwszeństwa przez kierującego pojazdem, który skręca w drogę poprzeczną, pieszemu przechodzącemu na skrzyżowaniu przez jezdnię drogi, na którą wjeżdża pojazd. Niezatrzymanie pojazdu w razie przechodzenia przez jezdnię osoby niepełnosprawnej, używającej specjalnego oznaczenia, lub osoby o widocznej ograniczonej sprawności poruszania się w celu umożliwieniu jej przejścia. Nieustąpienie pierwszeństwa pieszemu podczas cofania. Niezastosowanie się do: - _ sygnałów świetlnych, - sygnałów i poleceń podawanych przez osoby uprawnione do kierowania ruchem drogowym, - sygnałów i poleceń podawanych przez osoby uprawnione do kontroli ruchu drogowego. Niezastosowanie się do znaków: - „zakaz wjazdu”, - „zakaz ruchu w obu kierunkach”, - „zakaz skręcania w lewo”, - „zakaz skręcania w prawo”, - „nakaz jazdy....”, - „linia podwójna ciągła”, 10."
       },
       {
-       "type": "ocr",
-       "text": "11."
+       "type": "text",
+       "text": "11"
       },
       {
-       "type": "ocr",
-       "text": "Nieustąpienie pierwszeństwa przejazdu: - na skrzyżowaniu w sytuacji równorzędnej, - na skrzyżowaniu oznaczonym znakami określającymi pierwszeństwo przejazdu, - pojazdom szynowym, - rowerzystom, - podczas zmiany pasa ruchu, - wrazie przecinania się poza skrzyżowaniem kierunków ruchu lub torów jazdy pojazdów poruszających się po tej samej drodze, - podczas włączania sie do ruchu, - podczas cofania, Naruszenie zakazu zawracania. 12."
+       "type": "text",
+       "text": "Nieustąpienie pierwszeństwa przejazdu: - na skrzyżowaniu w sytuacji równorzędnej, - na skrzyżowaniu oznaczonym znakami określającymi pierwszeństwo przejazdu, - pojazdom szynowym, - rowerzystom, - podczas zmiany pasa ruchu, - w razie przecinania się poza skrzyżowaniem kierunków ruchu lub torów jazdy pojazdów poruszających się po tej samej drodze, - podczas włączania się do ruchu, - podczas cofania, Naruszenie zakazu zawracania. 12."
       },
       {
-       "type": "ocr",
-       "text": "13."
+       "type": "text",
+       "text": "13"
       },
       {
-       "type": "ocr",
+       "type": "text",
        "text": "Przekroczenie dopuszczalnej prędkości o więcej niż 20 km/h. Nieupewnienie się o możliwości wyprzedzania."
       },
       {
        "type": "note",
-       "text": "[Strona 46 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "text": "[Strona 46 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
-       "type": "ocr",
-       "text": "14. | Naruszenie zakazu wyprzedzania: - na przejazdach rowerowych i bezpośrednio przed nimi, - przy dojeżdżaniu do wierzchołka wzniesienia, - na zakrętach oznaczonych znakami ostrzegawczymi, - na skrzyżowaniach, - na przejazdach kolejowych i bezpośrednio przed nimi, - na przejazdach tramwajowych i bezpośrednio przed nimi. 15.| Niezastosowanie się do znaku zakaz rzedzania."
+       "type": "ust",
+       "num": "14",
+       "path": "par_14/ust_14",
+       "text": "| Naruszenie zakazu wyprzedzania: - na przejazdach rowerowych i bezpośrednio przed nimi, - przy dojeżdżaniu do wierzchołka wzniesienia, - na zakrętach oznaczonych znakami ostrzegawczymi, - na skrzyżowaniach, - na przejazdach kolejowych i bezpośrednio przed nimi, - na przejazdach tramwajowych i bezpośrednio przed nimi. 15.| Niezastosowanie się do znaku zakaz rzedzania.",
+       "children": []
       },
       {
-       "type": "ocr",
-       "text": "16. | Wyprzedzanie z niewłaściwej strony."
-      },
-      {
-       "type": "text",
-       "text": "wzór nr 1"
-      },
-      {
-       "type": "text",
-       "text": "ZAŚWIADCZENIE O ZAKWALIFIKOWANIU NA EGZAMIN DLA KANDYDATÓW NA KIEROWCÓW"
-      },
-      {
-       "type": "text",
-       "text": "Format A5, układ poziomy"
-      },
-      {
-       "type": "note",
-       "text": "[Na stronie 47 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "wzór nr 2"
-      },
-      {
-       "type": "text",
-       "text": "WZÓR PLANU EGZAMINÓW"
-      },
-      {
-       "type": "text",
-       "text": "Format A4, układ pionowy wzór nr 3"
-      },
-      {
-       "type": "text",
-       "text": "LISTA OSÓB ZAKWALIFIKOWANYCH NA EGZAMIN — KATEGORIE A, B, C, D, T, B+E, C+E, D+E"
-      },
-      {
-       "type": "note",
-       "text": "[Na stronie 48 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "LISTA OSÓB ZAKWALIFIKOWANYCH NA EGZAMIN — KATEGORIE A1, B1, C1, D1, C1+E, D1+E, pozwolenie"
-      },
-      {
-       "type": "text",
-       "text": "wzór nr 4"
-      },
-      {
-       "type": "text",
-       "text": "PROTOKÓŁ EGZAMINACYJNY Z WYNIKÓW EGZAMINÓW PROWADZONYCH W ZAKRESIE PRAWA JAZDY KATEGORII: A, B, C, D, T, B+E, C+E lub D+E"
-      },
-      {
-       "type": "text",
-       "text": "Format A4, układ pionowy Strona 1 + kolejne"
-      },
-      {
-       "type": "note",
-       "text": "[Na stronie 49 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "Strona ostatnia wzór nr 5"
-      },
-      {
-       "type": "text",
-       "text": "PROTOKÓŁ EGZAMINACYJNY Z WYNIKÓW EGZAMINÓW PROWADZONYCH W ZAKRESIE PRAWA JAZDY KATEGORII: A1, B1, C1,C1+E, D1, D1+E ORAZ POZWOLENIA Format A4, układ pionowy Strona 1 + kolejne"
-      },
-      {
-       "type": "text",
-       "text": "Strona ostatnia"
-      },
-      {
-       "type": "note",
-       "text": "[Na stronie 50 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "wzór nr 6"
-      },
-      {
-       "type": "text",
-       "text": "ARKUSZ ODPOWIEDZI"
-      },
-      {
-       "type": "text",
-       "text": "Format A5, układ pionowy"
-      },
-      {
-       "type": "note",
-       "text": "[Na stronie 51 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "wzór nr 7"
-      },
-      {
-       "type": "text",
-       "text": "ARKUSZ PRZEBIEGU EGZAMINU PRAKTYCZNEGO"
-      },
-      {
-       "type": "text",
-       "text": "Format A-5, układ pionowy"
-      },
-      {
-       "type": "note",
-       "text": "[Na stronie 52 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+       "type": "ust",
+       "num": "16",
+       "path": "par_14/ust_16",
+       "text": "| Wyprzedzanie z niewłaściwej strony.",
+       "children": [
+        {
+         "type": "text",
+         "text": "wzór nr 1"
+        },
+        {
+         "type": "text",
+         "text": "ZAŚWIADCZENIE O ZAKWALIFIKOWANIU NA EGZAMIN DLA KANDYDATÓW NA KIEROWCÓW"
+        },
+        {
+         "type": "text",
+         "text": "Format A5, układ poziomy"
+        },
+        {
+         "type": "note",
+         "text": "[Na stronie 47 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "wzór nr 2"
+        },
+        {
+         "type": "text",
+         "text": "WZÓR PLANU EGZAMINÓW"
+        },
+        {
+         "type": "text",
+         "text": "Format A4, układ pionowy wzór nr 3"
+        },
+        {
+         "type": "text",
+         "text": "LISTA OSÓB ZAKWALIFIKOWANYCH NA EGZAMIN — KATEGORIE A, B, C, D, T, B+E, C+E, D+E"
+        },
+        {
+         "type": "note",
+         "text": "[Na stronie 48 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "LISTA OSÓB ZAKWALIFIKOWANYCH NA EGZAMIN — KATEGORIE A1, B1, C1, D1, C1+E, D1+E, pozwolenie"
+        },
+        {
+         "type": "text",
+         "text": "wzór nr 4"
+        },
+        {
+         "type": "text",
+         "text": "PROTOKÓŁ EGZAMINACYJNY Z WYNIKÓW EGZAMINÓW PROWADZONYCH W ZAKRESIE PRAWA JAZDY KATEGORII: A, B, C, D, T, B+E, C+E lub D+E"
+        },
+        {
+         "type": "text",
+         "text": "Format A4, układ pionowy Strona 1 + kolejne"
+        },
+        {
+         "type": "note",
+         "text": "[Na stronie 49 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Strona ostatnia wzór nr 5"
+        },
+        {
+         "type": "text",
+         "text": "PROTOKÓŁ EGZAMINACYJNY Z WYNIKÓW EGZAMINÓW PROWADZONYCH W ZAKRESIE PRAWA JAZDY KATEGORII: A1, B1, C1,C1+E, D1, D1+E ORAZ POZWOLENIA Format A4, układ pionowy Strona 1 + kolejne"
+        },
+        {
+         "type": "text",
+         "text": "Strona ostatnia"
+        },
+        {
+         "type": "note",
+         "text": "[Na stronie 50 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "wzór nr 6"
+        },
+        {
+         "type": "text",
+         "text": "ARKUSZ ODPOWIEDZI"
+        },
+        {
+         "type": "text",
+         "text": "Format A5, układ pionowy"
+        },
+        {
+         "type": "note",
+         "text": "[Na stronie 51 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "wzór nr 7"
+        },
+        {
+         "type": "text",
+         "text": "ARKUSZ PRZEBIEGU EGZAMINU PRAKTYCZNEGO"
+        },
+        {
+         "type": "text",
+         "text": "Format A-5, układ pionowy"
+        },
+        {
+         "type": "note",
+         "text": "[Na stronie 52 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+        }
+       ]
       }
      ]
     }
@@ -8902,102 +8955,137 @@
     },
     {
      "type": "note",
-     "text": "[Strona 74 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Wykonanie manewrów w ruchu drogowym: B"
-    },
-    {
-     "type": "ocr",
-     "text": "a) parkowanie prostopadłe lub skośne — wjazd przodem wyjazd tyłem (możliwa jedna korekta toru jazdy), miejsce do parkowania wyznacza kandydat na egzaminatora oceniający sposób wykonywania zadań przez kandydata na egzaminatora lub egzaminatora wykonującego zadania w ruchu drogowym, wskazując je osobie wykonującej zadanie, po zaparkowaniu musi być możliwość opuszczenia pojazdu przez kierowcę i pasażera z obydwu stron pojazdu, a pojazd musi być zaparkowany w sposób zgodny z przepisami ruchu drogowego (należy sprawdzić możliwość opuszczenia pojazdu), parkowanie odbywa się z zachowaniem zasad ruchu drogowego,"
-    },
-    {
-     "type": "ocr",
-     "text": "b) lub parkowanie równoległe pomiędzy dwoma pojazdami (manewr jest wykonywany jeżeli jest możliwe wyznaczenie miejsca do parkowania — możliwa jedna korekta toru jazdy) — wjazd tyłem — wyjazd przodem,"
-    },
-    {
-     "type": "ocr",
-     "text": "12"
-    },
-    {
-     "type": "ocr",
-     "text": "miejsce do parkowania wyznacza , kandydat na egzaminatora oceniający sposób wykonywania zadań przez kandydata na egzaminatora lub egzaminatora wykonującego zadania w ruchu drogowym, wskazując je osobie wykonującej zadanie, długość miejsca do parkowania pomiędzy pojazdami powinna stanowić około 2 krotność długości pojazdu egzaminacyjnego, w trakcie wykonywania manewru możliwa jedna korekta toru jazdy, po zaparkowaniu pojazd nie może stwarzać zagrożenia dla bezpieczeństwa ruchu drogowego, w przypadku kiedy pojazd parkuje równolegle do krawężnika, w trakcie wykonywania manewru nie może najechać na krawężnik ale powinien zaparkować się jak najbliżej jego."
-    },
-    {
-     "type": "ocr",
-     "text": "c) zawracanie na drodze jednojezdniowej — dwukierunkowej — możliwość wykonania manewru przy wykorzystaniu infrastruktury drogowej (bramy, wjazdy, podjazdy, zatoczki itp.) — zawracanie musi odbyć się przy użyciu biegu wstecznego. miejsce do zawracania wyznacza kandydat na egzaminatora oceniający sposób wykonywania zadań przez kandydata na egzaminatora lub egzaminatora wykonującego zadania w ruchu drogowym, wskazując je osobie wykonującemu zadanie."
-    },
-    {
-     "type": "ocr",
-     "text": "13"
-    },
-    {
-     "type": "ocr",
-     "text": "Przejazd przez torowisko tramwajowe**) i kolejowe*? oraz obok ABCD przystanku tramwajowego**) i autobusowego Wykonanie manewrów: ABCD"
-    },
-    {
-     "type": "ocr",
-     "text": "a) wyprzedzania, omijania, wymijania (dla kategorii A przy 14 prędkości co najmniej 50 km/h),"
-    },
-    {
-     "type": "ocr",
-     "text": "b) zmiany pasa ruchu i kierunku jazdy w lewo, prawo, oraz zawracania, Hamowanie od prędkości co najmniej 50 km/h do zatrzymania w ABCD 15 wyznaczonym miejscu (manewr może być wykonany na placu manewrowym ośrodka egzaminowania"
+     "text": "[Strona 74 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
      "type": "text",
-     "text": "Tabela 2"
+     "text": "Wykonanie manewrów w ruchu drogowym: B"
     },
     {
-     "type": "note",
-     "text": "[Na stronie 75 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "parkowanie prostopadłe lub skośne — wjazd przodem wyjazd tyłem (możliwa jedna korekta toru jazdy), miejsce do parkowania wyznacza kandydat na egzaminatora oceniający sposób wykonywania zadań przez kandydata na egzaminatora lub egzaminatora wykonującego zadania w ruchu drogowym, wskazując je osobie wykonującej zadanie, po zaparkowaniu musi być możliwość opuszczenia pojazdu przez kierowcę i pasażera z obydwu stron pojazdu, a pojazd musi być zaparkowany w sposób zgodny z przepisami ruchu drogowego (należy sprawdzić możliwość opuszczenia pojazdu), parkowanie odbywa się z zachowaniem zasad ruchu drogowego,",
+     "children": []
     },
     {
-     "type": "note",
-     "text": "[Strona 76 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "lub parkowanie równoległe pomiędzy dwoma pojazdami (manewr jest wykonywany jeżeli jest możliwe wyznaczenie miejsca do parkowania — możliwa jedna korekta toru jazdy) — wjazd tyłem — wyjazd przodem,",
+     "children": [
+      {
+       "type": "text",
+       "text": "12 miejsce do parkowania wyznacza , kandydat na egzaminatora oceniający sposób wykonywania zadań przez kandydata na egzaminatora lub egzaminatora wykonującego zadania w ruchu drogowym, wskazując je osobie wykonującej zadanie, długość miejsca do parkowania pomiędzy pojazdami powinna stanowić około 2 krotność długości pojazdu egzaminacyjnego, w trakcie wykonywania manewru możliwa jedna korekta toru jazdy, po zaparkowaniu pojazd nie może stwarzać zagrożenia dla bezpieczeństwa ruchu drogowego, w przypadku kiedy pojazd parkuje równolegle do krawężnika, w trakcie wykonywania manewru nie może najechać na krawężnik ale powinien zaparkować się jak najbliżej jego."
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "(nie dotyczy linii wewnętrznych ograniczających i wyznaczających pole zatrzymania pojazdu, - zatrzymanie pojazdu przed końcem i początkiem pasa w wyznaczonym polu zatrzymania pojazdu."
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "zawracanie na drodze jednojezdniowej — dwukierunkowej — możliwość wykonania manewru przy wykorzystaniu infrastruktury drogowej (bramy, wjazdy, podjazdy, zatoczki itp.) — zawracanie musi odbyć się przy użyciu biegu wstecznego. miejsce do zawracania wyznacza kandydat na egzaminatora oceniający sposób wykonywania zadań przez kandydata na egzaminatora lub egzaminatora wykonującego zadania w ruchu drogowym, wskazując je osobie wykonującemu zadanie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "13"
+      },
+      {
+       "type": "text",
+       "text": "Przejazd przez torowisko tramwajowe**) i kolejowe*? oraz obok ABCD przystanku tramwajowego**) i autobusowego Wykonanie manewrów: ABCD"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "1) pozycja początkowa pojazdu określona w tabeli nr 10 załącznika nr 1,"
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "wyprzedzania, omijania, wymijania (dla kategorii A przy 14 prędkości co najmniej 50 km/h),",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "2) właściwe sygnalizowanie zamiaru zmiany kierunku jazdy,"
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "zmiany pasa ruchu i kierunku jazdy w lewo, prawo, oraz zawracania, Hamowanie od prędkości co najmniej 50 km/h do zatrzymania w ABCD 15 wyznaczonym miejscu (manewr może być wykonany na placu manewrowym ośrodka egzaminowania",
+     "children": [
+      {
+       "type": "text",
+       "text": "Tabela 2"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 75 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 76 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "(nie dotyczy linii wewnętrznych ograniczających i wyznaczających pole zatrzymania pojazdu, - zatrzymanie pojazdu przed końcem i początkiem pasa w wyznaczonym polu zatrzymania pojazdu."
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "3) wczasie wykonania zadania pojazd nie może: - wyjechać poza określony obszar wjazdu, - naruszyć (najechać kołem lub wyjechać obrysem pojazdu nad linię) linii ograniczających stanowisko, - potrącić pachołków lub tyczek,"
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "pozycja początkowa pojazdu określona w tabeli nr 10 załącznika nr 1,",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4) płynne wykonanie parkowania,"
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "właściwe sygnalizowanie zamiaru zmiany kierunku jazdy,",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "5) pozycja pojazdu na stanowisku — wewnątrz stanowiska,"
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "w czasie wykonania zadania pojazd nie może: - wyjechać poza określony obszar wjazdu, - naruszyć (najechać kołem lub wyjechać obrysem pojazdu nad linię) linii ograniczających stanowisko, - potrącić pachołków lub tyczek,",
+     "children": []
     },
     {
-     "type": "ocr",
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "płynne wykonanie parkowania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "pozycja pojazdu na stanowisku — wewnątrz stanowiska,",
+     "children": []
+    },
+    {
+     "type": "text",
      "text": "pozycja początkowa pojazdu określona w tabeli nr 10 załącznika nr 1, właściwe sygnalizowanie zamiaru zmiany kierunku jazdy, w czasie wykonania zadania pojazd nie może: - wyjechać poza określony obszar wjazdu, - naruszyć (najechać kołem lub wyjechać obrysem pojazdu nad linię) linii ograniczających stanowisko, - potrącić pachołków lub tyczek,"
     },
     {
-     "type": "ocr",
-     "text": "4) płynne wykonanie parkowania,"
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "płynne wykonanie parkowania,",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "5) pozycja pojazdu na stanowisku — wewnątrz stanowiska."
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "pozycja pojazdu na stanowisku — wewnątrz stanowiska.",
+     "children": []
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "przy ruszaniu pojazd nie powinien cofnąć się więcej niż 0,2 m, a silnik nie powinien zgasnąć — osoba egzaminowana w trakcie wykonywania tego manewru po zatrzymaniu pojazdu na wzniesieniu zaciąga hamulec awaryjny, a następnie rusza do przodu zwalniając go,"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5-krotny przejazd po łukach w kształcie cyfry 8 i 2-krotny przejazd pomiędzy 5 pachołkami bez podpierania się nogami, najeżdżania na linie, potrącania pachołków, upewnianie się o możliwości skręcenia"
     }
    ]

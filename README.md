@@ -79,7 +79,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-24 20:51 UTC (liczone z `index.csv`).
+Stan na 2026-10-25 15:47 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -96,11 +96,11 @@ Stan na 2026-10-24 20:51 UTC (liczone z `index.csv`).
 | 2010 | 1427 | 1427 | 0 |
 | 2011 | 1429 | 1429 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 3483, razem 66483 z 160308 stron. Tekst z OCR (oznaczony) ma 64001 z nich w 3425 aktach; treści pozostałych brak.
-Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 5402.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 3483, razem 66484 z 160308 stron. Tekst z OCR (oznaczony) ma 63985 z nich w 3424 aktach; treści pozostałych brak.
+Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 5400.
 
 Rodzaje aktów: Rozporządzenie 18305, Oświadczenie rządowe 633, Umowa międzynarodowa 342, Konwencja 98, Protokół 78, Obwieszczenie 39, Porozumienie 37, Uchwała 26, Postanowienie 25, Dokument wypowiedzenia 12, Traktat 11, Decyzja 2, Statut 2, Ustawa 1, Deklaracja 1, Akt 1, Układ 1.
-Wersje konwertera: eli2md 0.6.18 (6717), eli2md 0.6.17 (5435), eli2md 0.6.22 (3704), eli2md 0.6.24 (3125), eli2md 0.6.16 (327), eli2md 0.6.37 (299), eli2md 0.6.61 (6), eli2md 0.6.39 (1).
+Wersje konwertera: eli2md 0.6.18 (6505), eli2md 0.6.17 (5300), eli2md 0.6.22 (3564), eli2md 0.6.24 (2612), eli2md 0.6.62 (1013), eli2md 0.6.16 (319), eli2md 0.6.37 (294), eli2md 0.6.61 (6), eli2md 0.6.39 (1).
 <!-- stats:end -->
 
 ## Zawartość
@@ -253,6 +253,25 @@ zostały spełnione; 4)[^3] powyższe zwierzęta…” (DU/2004/1637). Teraz zac
 We wszystkich 6 słowa są te same co poprzednio. W DU/2004/1637 jedno takie miejsce zostało („…EC[^3]; 3)[^3] jest
 zwierzęciem…”). W DU/2005/937 i 1947 jedna strona mniej jest liczona jako strona z obrazem (`image_pages` 2 → 1;
 w 1947 OCR tej strony nie dawał tekstu).
+
+Zmiana 2026-10-25 (eli2md 0.6.62, 1013 aktów; opis w README eli2md, wpis 0.6.62): nagłówek strony numeru
+(„Dziennik Ustaw Nr 97 — 5671 — Poz. 563”) i notka drukarni („Zam. 688 Korekta III: 17.12.01”) zostawały w tekście aktu,
+gdy nie były pierwszą linią strony (strona z obróconą tabelą, nagłówek pod notką, strona czytana przez OCR). Przeliczyłem
+ponownie 1058 aktów, w których był taki nagłówek (4043 wystąpienia). Nowy plik zostaje tylko wtedy, gdy nagłówków jest
+mniej, a reszta tekstu (bez nagłówków, notek, białych znaków i ogonków) różni się od poprzedniej najwyżej o 0,5% znaków.
+Tak jest w 1013 aktach (w 698 z nich reszta tekstu ma te same znaki). W 1012 z nich nagłówka już nie ma; w DU/2005/1681
+został w 156 miejscach z 157 (nad nagłówkiem jest tam linia drukarni „… #… Page …”). W 23 z 1013 aktów zmieniła się
+w `index.csv` liczba stron z OCR albo z obrazem (bez linii nagłówka OCR czyta stronę inaczej), np. DU/2000/680
+`ocr_pages` 120 → 119. W DU/2004/1728 odczyt OCR formularza ze strony 7 („% zł zł zł % % .. % % % zł”) nie przechodzi
+już progu czytelności; zamiast niego jest notka, że treść tej strony jest tylko w PDF.
+Bez zmian zostało 45 aktów. W 30 nagłówka w nowym pliku nie było, ale reszta tekstu różniła się o więcej niż 0,5%
+(głównie OCR tabel i obrazów przeczytany inaczej; 3 obejrzane odczyty były lepsze, ale reguła ich nie przyjmuje):
+DU/2000/299, DU/2001/533, 1616, DU/2002/272, 274, 326, 666, 1223, 1311, 1375, DU/2003/106, 259, 2305, DU/2004/494, 741,
+1699, DU/2006/707, 848, DU/2007/695, DU/2008/809, 945, 1149, DU/2009/858, 1335, 1492, 1647, DU/2010/731, DU/2011/653,
+681, 1191. W 15 nagłówek zostawał także w nowym pliku: w 10 nad nagłówkiem jest notka drukarni w innym brzmieniu
+(„Korekta: 24.05.02”, „Zam. 432 — Łamanie: 7.07.03”; DU/2002/595, 659, 836, DU/2003/805, 1174, DU/2005/1014, 1016,
+1034, DU/2006/1241, DU/2007/1390), w 3 linia drukarni „Dz. U. Nr 172 #1975 7/9/05 11:32 Page 10539” (DU/2005/1443,
+1444, 1679), w DU/2000/129 OCR czyta znak przed nagłówkiem, w DU/2011/1427 przyczyny nie znam.
 
 **Czego te liczby nie mówią:**
 

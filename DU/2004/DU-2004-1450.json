@@ -1,7 +1,7 @@
 {
  "eli": "DU/2004/1450",
  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 24 maja 2004 r. w sprawie sposobu przeprowadzania i dokumentowania przez Wojskowe Służby Informacyjne czynności niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania lub obrotu przedmiotami przestępstwa, a także sposobu przechowywania, przekazywania oraz niszczenia materiałów i dokumentów uzyskanych lub wytworzonych w związku z realizacją tych czynności",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2004/1450/text.pdf",
  "body": [
   {
@@ -424,12 +424,11 @@
    "num": "10",
    "path": "par_10",
    "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Obrony Narodowej: w z. J. Zemke"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Obrony Narodowej: w z. J. Zemke"
   }
  ],
  "annexes": [
@@ -446,30 +445,30 @@
     },
     {
      "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "ŚCIŚLE TAJNE (po wypełnieniu) Egzemplarz pojedynczy"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Czynności określone w zarządzeniu zrealizuje: (zina enzecna ik łabaz WSl anamewadacywmnoky777717171717171717"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "SZEF WOJSKOWYCH SŁUŻB INFORMACYJNYCH mp."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(stopień, imię i nazwisko, podpis)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "* Niepotrzebne skreślić."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wykonano w 1 egz. — a/a. Sporządził: ...........::2:--1--22:1. Wykonał: .............:--0:sssssr2 Nr D.E.W.D. .............-..... ŚCIŚLE TAJNE, str. 2/2"
     }
    ]
@@ -596,7 +595,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WZÓR REJESTRU ZARZĄDZEŃ I ZAWIADOMIEŃ DOTYCZĄCYCH NIEJAWNEGO NADZOROWANIA WYTWARZANIA, PRZEMIESZCZANIA, PRZECHOWYWANIA LUB OBROTU PRZEDMIOTAMI PRZESTĘPSTWA Dziennik Ustaw Nr 135 — 9497 — Poz. 1450"
+     "text": "WZÓR REJESTRU ZARZĄDZEŃ I ZAWIADOMIEŃ DOTYCZĄCYCH NIEJAWNEGO NADZOROWANIA WYTWARZANIA, PRZEMIESZCZANIA, PRZECHOWYWANIA LUB OBROTU PRZEDMIOTAMI PRZESTĘPSTWA"
     },
     {
      "type": "note",

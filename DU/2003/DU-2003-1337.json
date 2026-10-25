@@ -1,7 +1,7 @@
 {
  "eli": "DU/2003/1337",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 10 lipca 2003 r. w sprawie zakresu świadczeń zdrowotnych, w szczególności badań przesiewowych, oraz okresów, w których te badania są przeprowadzane",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/1337/text.pdf",
  "body": [
   {
@@ -264,123 +264,263 @@
     },
     {
      "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "| 2 3 33 —37 tydz.| 1. Badanie ogólne podmiotowe i przedmiotowe 1. Morfologia krwi ciąży 2. Badanie położnicze zewnętrzne ( w tym 2. Badanie ogólne moczu wysokość dna macicy) 3. VDRL (u kobiet ze zwiększonym"
+     "type": "text",
+     "text": "| 2"
     },
     {
-     "type": "ocr",
-     "text": "3. Ocena wymiarów miednicy populacyjnym lub indywidualnym"
+     "type": "text",
+     "text": "3 33 —37 tydz.| 1. Badanie ogólne podmiotowe i przedmiotowe 1. Morfologia krwi ciąży 2. Badanie położnicze zewnętrzne ( w tym wysokość dna macicy)"
     },
     {
-     "type": "ocr",
-     "text": "4. Badanie ginekologiczne (we wzierniku ryzykiem zakażenia) i zestawione) 4. Antygen HBs"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Ocena wymiarów miednicy",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "5. Ocena pH wydzieliny pochwowej 5. ALAT"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Badanie ginekologiczne (we wzierniku i zestawione)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "6. Ocena czynności serca płodu 6. Przeciwciała anty-HIV (u kobiet"
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Ocena pH wydzieliny pochwowej",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "7. Pomiar ciśnienia tętniczego krwi w okresie ciąży z podwyższonym"
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Ocena czynności serca płodu",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "8. Badanie piersi ryzykiem po uprzednim uzyskaniu"
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Pomiar ciśnienia tętniczego krwi",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "9. Pomiar masy ciała zgody — z poradą przed pobraniem"
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Badanie piersi",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "10. Ocena ruchliwości płodu krwi i po uzyskaniu wyniku)"
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Pomiar masy ciała",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "11. Ocena ryzyka ciążowego 7. Badanie ultrasonograficzne"
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Ocena ruchliwości płodu",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "12. Kształtowanie zdrowego stylu życia 8. Konsultacja lekarza stomatologa z oceną stanu zdrowia uzębienia"
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Ocena ryzyka ciążowego",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "13. W przypadku opieki sprawowanej przez wskaźnikiem PUW, stanu przyzębia położną lub lekarza podstawowej opieki i błony śluzowej jamy ustnej zdrowotnej obowiązkowa konsultacja lekarza ginekologa"
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Kształtowanie zdrowego stylu życia",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "38 — 39 tydz. |1. Badanie ogólne podmiotowe i przedmiotowe 1. Badanie ogólne moczu ciąży 2. Badanie położnicze zewnętrzne ( w tym 2. Morfologia krwi wysokość dna macicy)"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Badanie ogólne moczu",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "3. Ocena czynności serca płodu"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "VDRL (u kobiet ze zwiększonym populacyjnym lub indywidualnym ryzykiem zakażenia)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4. - Pomiar ciśnienia tętniczego krwi"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Antygen HBs",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "5. Pomiar masy ciała"
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "ALAT",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "6. Ocena ruchliwości płodu"
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Przeciwciała anty-HIV (u kobiet w okresie ciąży z podwyższonym ryzykiem po uprzednim uzyskaniu zgody — z poradą przed pobraniem krwi i po uzyskaniu wyniku)",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "7. Ocena ryzyka ciążowego"
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Badanie ultrasonograficzne",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "8. Kształtowanie zdrowego stylu życia"
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Konsultacja lekarza stomatologa z oceną stanu zdrowia uzębienia",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "9. W przypadku opieki sprawowanej przez położną lub lekarza podstawowej opieki zdrowotnej obowiązkowa konsultacja lekarza ginekologa"
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "W przypadku opieki sprawowanej przez wskaźnikiem PUW, stanu przyzębia położną lub lekarza podstawowej opieki i błony śluzowej jamy ustnej zdrowotnej obowiązkowa konsultacja lekarza ginekologa",
+     "children": [
+      {
+       "type": "text",
+       "text": "38 — 39 tydz. |1. Badanie ogólne podmiotowe i przedmiotowe 1. Badanie ogólne moczu ciąży 2. Badanie położnicze zewnętrzne ( w tym wysokość dna macicy)"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "40-41 tydz. |1. Badanie ogólne podmiotowe i przedmiotowe 1. Badanie ogólne moczu ciąży 2. Badanie położnicze (w tym wysokość dna 2. Morfologia krwi macicy)"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Ocena czynności serca płodu",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "3. - Badanie ginekologiczne (we wzierniku i zestawione)"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "- Pomiar ciśnienia tętniczego krwi",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "4. Ocena czynności serca płodu"
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Pomiar masy ciała",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "5. Pomiar ciśnienia tętniczego krwi"
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Ocena ruchliwości płodu",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "6. Pomiar masy ciała"
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Ocena ryzyka ciążowego",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "7. Ocena ruchliwości płodu"
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Kształtowanie zdrowego stylu życia",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "8. Ocenaryzyka ciążowego"
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Morfologia krwi",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "9. Kształtowanie zdrowego stylu życia"
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "W przypadku opieki sprawowanej przez położną lub lekarza podstawowej opieki zdrowotnej obowiązkowa konsultacja lekarza ginekologa",
+     "children": [
+      {
+       "type": "text",
+       "text": "40-41 tydz. |1. Badanie ogólne podmiotowe i przedmiotowe 1. Badanie ogólne moczu ciąży 2. Badanie położnicze (w tym wysokość dna 2. Morfologia krwi macicy)"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "10. Skierowanie do szpitala"
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "- Badanie ginekologiczne (we wzierniku i zestawione)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Ocena czynności serca płodu",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Pomiar ciśnienia tętniczego krwi",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Pomiar masy ciała",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Ocena ruchliwości płodu",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Ocenaryzyka ciążowego",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Kształtowanie zdrowego stylu życia",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Skierowanie do szpitala",
+     "children": []
     }
    ]
   },
@@ -389,7 +529,7 @@
    "body": [
     {
      "type": "text",
-     "text": "ZAKRES PROFILAKTYCZNYCH ŚWIADCZEŃ ZDROWOTNYCH U DZIECI DO UKOŃCZENIA 6 ROKU ŻYCIA WRAZ Z OKRESAMI ICH PRZEPROWADZANIA Dziennik Ustaw Nr 139 — 9397 — Poz. 1337"
+     "text": "ZAKRES PROFILAKTYCZNYCH ŚWIADCZEŃ ZDROWOTNYCH U DZIECI DO UKOŃCZENIA 6 ROKU ŻYCIA WRAZ Z OKRESAMI ICH PRZEPROWADZANIA"
     },
     {
      "type": "note",
@@ -502,10 +642,6 @@
     {
      "type": "ocr",
      "text": "LEEL “20d"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 139 — 9400 — Poz. 1337"
     },
     {
      "type": "note",
