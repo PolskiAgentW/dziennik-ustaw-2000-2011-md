@@ -1,7 +1,7 @@
 {
  "eli": "DU/2005/1034",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 20 czerwca 2005 r. zmieniające rozporządzenie w sprawie wzoru dokumentu \"Prawo wykonywania zawodu farmaceuty\"",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.63",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2005/1034/text.pdf",
  "body": [
   {
@@ -44,14 +44,6 @@
   {
    "type": "signature",
    "text": "Minister Zdrowia: M. Balicki"
-  },
-  {
-   "type": "text",
-   "text": "Zam. 1667 — kor. 28.06.2005 r."
-  },
-  {
-   "type": "text",
-   "text": "Dziennik Ustaw Nr 123 — 7881 — Poz. 1034"
   }
  ],
  "annexes": [
@@ -76,158 +68,186 @@
     },
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Ś A ADNOTACJE O ZMIANIE DANYCH OSOBOWYCH. ADNOTACJE O ZMIANIE DANYCH OSOBOWYCH nazwisko .... imiona imiona (nazwa dokumentu, na podstawie którego dokonano zmiany nazwiska) wydany przez... wydany przez"
+     "type": "text",
+     "text": "Ś ADNOTACJE O ZMIANIE DANYCH OSOBOWYCH. imiona (nazwa dokumentu, na podstawie którego dokonano zmiany nazwiska) wydany przez..."
     },
     {
-     "type": "ocr",
-     "text": "(pieczątka okręgowej rady aptekarskiej) (data) (podpis) ESKA CZASGNKI) (diz) Godpis)"
+     "type": "text",
+     "text": "(pieczątka okręgowej rady aptekarskiej) (data) (podpis)"
     },
     {
-     "type": "ocr",
-     "text": "nazwisko .... nazwisko .................... IMIONAR SZCZERE yo OKE A ZR imiona (nazwa dokumentu, na podstawie którego dokonano zmiany nazwiska) ZZ sot (nazwa dokumentu, na podstawie którego dokonano zmiany nazwiska) wydany przez .... wydany przez"
+     "type": "text",
+     "text": "nazwisko .... IMIONAR SZCZERE yo OKE A ZR (nazwa dokumentu, na podstawie którego dokonano zmiany nazwiska) ZZ wydany przez ...."
     },
     {
-     "type": "ocr",
-     "text": "(pieczątka okręgowej rady aptckarskicj) (data) (podpis) (pieczątka okręgowej rady aptekarskiej) (data) (podpis) Ę -"
+     "type": "text",
+     "text": "(pieczątka okręgowej rady aptckarskicj) (data) (podpis) Ę"
     },
     {
-     "type": "ocr",
-     "text": "WPIS DO REJESTRU WPIS DO REJESTRU Ooo DGAPAE SĘ panna Okręgowa Izba Aptekarska W... : > > A 3 = otwierdza wpis do rejestru farmaceutów na terenie województwa potwierdza wpis do rejestru farmaceutów na terenie województwa E av a a"
+     "type": "text",
+     "text": "WPIS DO REJESTRU Ooo DGAPAE SĘ : > > A 3 = potwierdza wpis do rejestru farmaceutów na terenie województwa"
     },
     {
-     "type": "ocr",
-     "text": "(pieczątka okręgowej rady aptekarskiej) (data) (podpis) (pieczątka okręgowej rady aptekarskiej) (data) (podpis)"
+     "type": "text",
+     "text": "(pieczątka okręgowej rady aptekarskiej) (data) (podpis)"
     },
     {
-     "type": "ocr",
-     "text": "KREŚLENIE Z REJESTR SKREŚLENIE Z REJESTRU Ę SEEN RE „. Okr Izba Aptekarska w ...... smmnmenne Okręgowa Izba Aptekarska w ....... R A 3 aes = Ę rza potwierdza skreślenie z rejestru farmaceutów z terenu województwa potwierdza skreślenie z rejestru farmaceutów z terenu województwa od dnia .... PAŚĆ (pieczątka okręgowej rady apiekarskiej) (data) (podpis) (pieczątka okręgowej rady aptekarskiej) (data) (podpis) U"
+     "type": "text",
+     "text": "SKREŚLENIE Z REJESTRU smmnmenne Okręgowa Izba Aptekarska w ....... 3 aes = Ę rżą potwierdza skreślenie z rejestru farmaceutów z terenu województwa PAŚĆ (pieczątka okręgowej rady aptekarskiej) (data) (podpis)"
+    },
+    {
+     "type": "text",
+     "text": "A ADNOTACJE O ZMIANIE DANYCH OSOBOWYCH nazwisko .... imiona wydany przez"
+    },
+    {
+     "type": "text",
+     "text": "ESKA CZASGNKI) (diz) Godpis)"
+    },
+    {
+     "type": "text",
+     "text": "nazwisko .................... imiona sot (nazwa dokumentu, na podstawie którego dokonano zmiany nazwiska) wydany przez"
+    },
+    {
+     "type": "text",
+     "text": "(pieczątka okręgowej rady aptekarskiej) (data) (podpis) -"
+    },
+    {
+     "type": "text",
+     "text": "WPIS DO REJESTRU panna Okręgowa Izba Aptekarska W... otwierdza wpis do rejestru farmaceutów na terenie województwa E av a a"
+    },
+    {
+     "type": "text",
+     "text": "(pieczątka okręgowej rady aptekarskiej) (data) (podpis)"
+    },
+    {
+     "type": "text",
+     "text": "KREŚLENIE Z REJESTR Ę SEEN RE „. Okr Izba Aptekarska w ...... R A potwierdza skreślenie z rejestru farmaceutów z terenu województwa od dnia .... (pieczątka okręgowej rady a piekarskiej) (data) (podpis) U"
     },
     {
      "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "$ WPIS DO REJESTRU ....... Okręgowa Izba Aptekarska w ......... potwierdza wpis do rejestru farmaceutów na terenie województwa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(pieczątka okręgowej rady aptekarskiej) (data) (podpis)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "SKREŚLENIE Z REJESTRU ....... Okręgowa Izba Aptekarska w ......... potwierdza skreślenie z rejestru farmaceutów z terenu województwa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(pieczątka okręgowej rady aptekarskiej) (data) (podpis) U"
     },
     {
-     "type": "ocr",
-     "text": "N WPIS DO REJESTRU wm Okręgowa Izba Aptekarska w ....... potwierdza wpis do rejestru farmaceutów na terenie województwa NY ...... 1. OF dnia ......"
-    },
-    {
-     "type": "ocr",
-     "text": "(pieczątka okręgowej rady aptekarskiej) (data) (podpis)"
-    },
-    {
-     "type": "ocr",
-     "text": "SKREŚLENIE Z REJESTRU mew. OKregowa Izba Aptekarska W... potwierdza skreślenie z rejestru farmaceutów z terenu województwa od dnia ....... (pieczątka okręgowej rady aptekarskiej) (data) (podpis) J"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "WPIS DO REJESTRU ........ Okręgowa Izba Aptekarska w ............. potwierdza wpis do rejestru farmaceutów na terenie województwa „.. od dnia ...."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(pieczątka okręgowej rady aptekarskiej) (data) (podpis)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "SKREŚLENIE Z REJESTRU pamana. Okręgowa lzba Aptekarska w... o potwierdza skreślenie z rejestru farmaceutów z terenu województwa Bd AR Z ZZ RR d (picczątka okręgowej rady aptckarskicj) (data) (podpis) ="
     },
     {
-     "type": "ocr",
-     "text": "WPIS DO REJESTRU pamana. OKregowa Izba Aptekarska W |... potwierdza wpis do rejestru farmaceutów na terenie województwa od dnia ."
+     "type": "text",
+     "text": "N WPIS DO REJESTRU wm Okręgowa Izba Aptekarska w ....... potwierdza wpis do rejestru farmaceutów na terenie województwa NY ...... 1. OF dnia ......"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(pieczątka okręgowej rady aptekarskiej) (data) (podpis)"
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "SKREŚLENIE Z REJESTRU mew. OKregowa Izba Aptekarska W... potwierdza skreślenie z rejestru farmaceutów z terenu województwa od dnia ....... (pieczątka okręgowej rady aptekarskiej) (data) (podpis) J"
+    },
+    {
+     "type": "text",
+     "text": "WPIS DO REJESTRU pamana. OKregowa Izba Aptekarska W |... potwierdza wpis do rejestru farmaceutów na terenie województwa od dnia ."
+    },
+    {
+     "type": "text",
+     "text": "(pieczątka okręgowej rady aptekarskiej) (data) (podpis)"
+    },
+    {
+     "type": "text",
      "text": "SKREŚLENIE Z REJESTRU pana. OKtregowa Tzba Aptekarska w... potwierdza skreślenie z rejestru farmaceutów z terenu województwa io. Sc hiv pete 2 RZ Z DRR COSA (pieczątka okręgowej rady aptekarskiej) (data) (podpis) ="
     },
     {
      "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Ś ADNOTACJE ODNOSZĄCE SIĘ DO WYKONYWANIA ZAWODU FARMACEUTY"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "E"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "ADNOTACJE ODNOSZĄCE SIĘ DO WYKONYWANIA ZAWODU FARMACEUTY"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "= WPISY DOTYCZĄCE SPECJALIZACJI"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Specjalizacja w zakresie uzyskana z dniem dokument wydany przez dnia."
     },
     {
-     "type": "ocr",
-     "text": "(pieczątka okręgowej rady apiekarskiej) (data) (podpis)"
+     "type": "text",
+     "text": "(pieczątka okręgowej rady a piekarskiej) (data) (podpis)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "WPISY DOTYCZĄCE UZYSKANYCH STOPNI NAUKOWYCH Stopień naukowy doktora w zakresie nadany przez"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "w dniu"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(pieczątka okręgowej rady aptekarskiej) (data) (podpis)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Specjalizacja w zakresie uzyskana z dniem dokument. wydany przez dnia"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "12 U"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(pieczątka okręgowej rady aptekarskiej) (data) (podpis)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Stopień naukowy doktora habilitowanego"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "w zakresie nadany przez"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "w dniu"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(pieczątka okręgowej rady aptekarskiej) (data) (podpis)"
     },
     {
