@@ -1,7 +1,7 @@
 {
  "eli": "DU/2006/44",
  "title": "Rozporządzenie Ministra Gospodarki z dnia 30 grudnia 2005 r. zmieniające rozporządzenie w sprawie przyjęcia Uzupełnienia Sektorowego Programu Operacyjnego Wzrost konkurencyjności przedsiębiorstw, lata 2004-2006",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.69",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2006/44/text.pdf",
  "body": [
   {
@@ -1781,7 +1781,22 @@
       },
       {
        "type": "text",
-       "text": "Publiczne wsparcie finansowe ogółem 3,200000 mln € Wsparcie finansowe z EFRR 2,400000 min € Publiczne wsparcie finansowe krajowe Srodki prywatne Wkład publiczny w środkach ogółem (w %) Wkład EFRR w całości środków publicznych (w %) Publiczny wkład krajowy w całości środków publicznych (w %) Wkład EFRR w środkach ogółem (w %) Wkład publiczny krajowy w środkach ogółem (w %) Wkład Środków prywatnych w środkach ogółem (w %) Skład Komitetu Sterującego",
+       "text": "Publiczne wsparcie finansowe ogółem 3,200000 mln € Wsparcie finansowe z EFRR 2,400000 min € Publiczne wsparcie finansowe krajowe Srodki prywatne Wkład publiczny w środkach ogółem (w %) Wkład EFRR w całości środków publicznych (w %) Publiczny wkład krajowy w całości środków publicznych (w %)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wkład EFRR w środkach ogółem (w %) Wkład publiczny krajowy w środkach ogółem (w %)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wkład Środków prywatnych w środkach ogółem (w %)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Skład Komitetu Sterującego",
        "quoted": true
       },
       {
@@ -4381,7 +4396,11 @@
       },
       {
        "type": "text",
-       "text": "Liczba wspartych przedsiębiorstw?” Liczba wspartych projektów bezpośrednio nakierowanych na poprawę BHP Liczba wspartych projektów, w których BHP występuje | jako dodatkowy element Rezultat"
+       "text": "Liczba wspartych przedsiębiorstw?”"
+      },
+      {
+       "type": "text",
+       "text": "Liczba wspartych projektów bezpośrednio nakierowanych na poprawę BHP Liczba wspartych projektów, w których BHP występuje | jako dodatkowy element Rezultat"
       },
       {
        "type": "text",
@@ -4401,7 +4420,11 @@
       },
       {
        "type": "text",
-       "text": "18 miesięcy po zakończeniu 10000 realizacji projektu; PARP, RIF 18 miesięcy po zakończeniu 359 mln € realizacji projektu; RIF, PARP Oddziaływanie Ze względu na krótki okres programowania oddziaływanie wsparcia nie będzie mierzalne"
+       "text": "18 miesięcy po zakończeniu 10000 realizacji projektu; PARP, RIF 18 miesięcy po zakończeniu 359 mln € realizacji projektu; RIF, PARP Oddziaływanie"
+      },
+      {
+       "type": "text",
+       "text": "Ze względu na krótki okres programowania oddziaływanie wsparcia nie będzie mierzalne"
       },
       {
        "type": "text",
@@ -4432,7 +4455,11 @@
       },
       {
        "type": "text",
-       "text": "Działanie 2.4 Produkt"
+       "text": "Działanie 2.4"
+      },
+      {
+       "type": "text",
+       "text": "Produkt"
       },
       {
        "type": "text",
@@ -4544,11 +4571,19 @@
       },
       {
        "type": "text",
-       "text": "Produkt Liczba osób - odwiedzających stronę SPO-WKP w skali miesiąca internetową"
+       "text": "Produkt"
       },
       {
        "type": "text",
-       "text": "Bieżący monitoring; Instytucja Zarządzaj ąca Liczba publikacji dotyczących SPO-WKP w prasie"
+       "text": "Liczba osób - odwiedzających stronę SPO-WKP w skali miesiąca internetową"
+      },
+      {
+       "type": "text",
+       "text": "Bieżący monitoring; Instytucja Zarządzaj ąca"
+      },
+      {
+       "type": "text",
+       "text": "Liczba publikacji dotyczących SPO-WKP w prasie"
       },
       {
        "type": "text",
@@ -4576,7 +4611,11 @@
       },
       {
        "type": "text",
-       "text": "Bieżący monitoring; Instytucja Zarządzająca Liczba wyemitowanych _ spotów telewizyjnych reklamowych na temat SPO-WKP"
+       "text": "Bieżący monitoring; Instytucja Zarządzająca"
+      },
+      {
+       "type": "text",
+       "text": "Liczba wyemitowanych _ spotów telewizyjnych reklamowych na temat SPO-WKP"
       },
       {
        "type": "text",
@@ -4666,7 +4705,7 @@
       },
       {
        "type": "text",
-       "text": "§ 1. Wszyscy ubiegający się o dofinansowanie, którzy uzyskają mniej niż 51 punktów, będą mogli się starać o wsparcie finansowe w kolejnej rundzie aplikacyjnej po dokonaniu zmian lub uzupełnień.",
+       "text": "51. Wszyscy ubiegający się o dofinansowanie, którzy uzyskają mniej niż 51 punktów, będą mogli się starać o wsparcie finansowe w kolejnej rundzie aplikacyjnej po dokonaniu zmian lub uzupełnień.",
        "quoted": true
       },
       {
