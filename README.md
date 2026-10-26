@@ -79,7 +79,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-26 00:08 UTC (liczone z `index.csv`).
+Stan na 2026-10-26 00:20 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -96,11 +96,11 @@ Stan na 2026-10-26 00:08 UTC (liczone z `index.csv`).
 | 2010 | 1427 | 1427 | 0 |
 | 2011 | 1429 | 1429 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 3487, razem 66550 z 160308 stron. Tekst z OCR (oznaczony) ma 64040 z nich w 3428 aktach; treści pozostałych brak.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 3487, razem 66550 z 160308 stron. Tekst z OCR (oznaczony) ma 64044 z nich w 3428 aktach; treści pozostałych brak.
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 5400.
 
 Rodzaje aktów: Rozporządzenie 18305, Oświadczenie rządowe 633, Umowa międzynarodowa 342, Konwencja 98, Protokół 78, Obwieszczenie 39, Porozumienie 37, Uchwała 26, Postanowienie 25, Dokument wypowiedzenia 12, Traktat 11, Decyzja 2, Statut 2, Ustawa 1, Deklaracja 1, Akt 1, Układ 1.
-Wersje konwertera: eli2md 0.6.18 (6501), eli2md 0.6.17 (5298), eli2md 0.6.22 (3564), eli2md 0.6.24 (2553), eli2md 0.6.62 (986), eli2md 0.6.16 (319), eli2md 0.6.37 (291), eli2md 0.6.66 (34), eli2md 0.6.65 (34), eli2md 0.6.69 (18), eli2md 0.6.63 (7), eli2md 0.6.61 (6), eli2md 0.6.68 (2), eli2md 0.6.39 (1).
+Wersje konwertera: eli2md 0.6.18 (6501), eli2md 0.6.17 (5298), eli2md 0.6.22 (3564), eli2md 0.6.24 (2556), eli2md 0.6.62 (985), eli2md 0.6.16 (319), eli2md 0.6.37 (291), eli2md 0.6.66 (34), eli2md 0.6.65 (34), eli2md 0.6.69 (16), eli2md 0.6.63 (7), eli2md 0.6.61 (6), eli2md 0.6.68 (2), eli2md 0.6.39 (1).
 <!-- stats:end -->
 
 ## Zawartość
@@ -333,6 +333,13 @@ byłby brany za „§” („84. ex.4404 Wyroby …” → „§ 4.”). W 11 pl
 w 4 (DU/2001/1772, DU/2005/2010, DU/2008/807, DU/2011/3) zmieniłoby „§” w złą stronę (np. „§ 2.” przestałby być
 nagłówkiem). W tych 33 aktach nie ma już nagłówka „§” z numeru listy, którego nie było w wersji sprzed 2026-10-25
 (sprawdzane wzorcem: „5N.”/„8N.” przed tym samym tekstem w starej wersji).
+
+2026-10-26, bilans nagłówków „§” po przeliczeniach z 2026-10-25 i 2026-10-26: obejrzałem zmiany nagłówków „§” w aktach,
+w których różnią się od wersji sprzed 2026-10-25 (10 w tym zbiorze). 3 akty wracają do wersji sprzed 2026-10-25:
+DU/2005/1610 („§ 2.” przestał być nagłówkiem, doklejony do poprzedniego akapitu), DU/2003/1575 („83. Sąd Okręgowy
+w Gliwicach” z listy sądów wzięte za „§ 3.”), DU/2009/1569 („59. Deklaracja Królestwa Niderlandów”, odczytane przez OCR
+jako „$9.”, wzięte za „§ 9.”). W pozostałych 7 zmiany, które obejrzałem, są poprawą: „§ N.” z akapitu staje się
+nagłówkiem, „$ 2.” odczytane przez OCR staje się „§ 2.” (DU/2003/805, DU/2010/247).
 
 **Czego te liczby nie mówią:**
 

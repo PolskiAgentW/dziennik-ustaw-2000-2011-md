@@ -1,7 +1,7 @@
 {
  "eli": "DU/2003/1575",
  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 20 sierpnia 2003 r. w sprawie zakładania i prowadzenia ksiąg wieczystych w systemie informatycznym",
- "converter": "eli2md 0.6.69",
+ "converter": "eli2md 0.6.24",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2003/1575/text.pdf",
  "body": [
   {
@@ -3609,11 +3609,12 @@
    "num": "105",
    "path": "par_105",
    "text": "Rozporządzenie wchodzi w życie z dniem 1 października 2003 r.",
-   "children": []
-  },
-  {
-   "type": "signature",
-   "text": "Minister Sprawiedliwości: w z. J. Łankiewicz"
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Sprawiedliwości: w z. J. Łankiewicz"
+    }
+   ]
   }
  ],
  "annexes": [
@@ -3630,633 +3631,931 @@
     },
     {
      "type": "note",
-     "text": "[Strona 20 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 20 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "text",
-     "text": "Sąd apelacyjny in Sąd okręgowy Kod sądu Wydział ksiąg wieczystych sądu Kod wydziału ksiąg Lp. okręgowego rejonowego wieczystych sądu"
+     "type": "ocr",
+     "text": "Sąd apelacyjny in Sąd okręgowy Kod sądu Wydział ksiąg wieczystych sądu Kod wydziału ksiąg Lp. okręgowego rejonowego wieczystych sądu — rejonowego"
     },
     {
-     "type": "text",
-     "text": "— 42. 43. 44."
+     "type": "ocr",
+     "text": "42. w Kościerzynie GDI1E"
     },
     {
-     "type": "text",
-     "text": "Sad Okręgowy w KO Koszalinie 52. 53 | 54. 55. 56. 57."
+     "type": "ocr",
+     "text": "43. w Kwidzynie GD1I"
     },
     {
-     "type": "ust",
-     "num": "58",
-     "path": "ust_58",
-     "text": "Sąd Okręgowy w Słupsku SL 59. [60 | 61. 62. 63.",
-     "children": []
+     "type": "ocr",
+     "text": "44. w Kwidzynie — wydział zamiejscowy z GD2I siedzibą w Sztumie w Malborku GD1M w Sopocie GD1s w Starogardzie Gdańskim GDIA w Tczewie | GD1T w Wejherowie GD1W w Wejherowie — wydział zamiejscowy z GD2W siedziba w Pucku Sad Okregowy w KO w Białogardzie KOLB Koszalinie"
     },
     {
-     "type": "ust",
-     "num": "64",
-     "path": "ust_64",
-     "text": "Sąd Okręgowy w Toruniu 65. |56. | 67. 68. 60.",
-     "children": []
+     "type": "ocr",
+     "text": "52. w Drawsku Pomorskim KO1D 53 | w Kołobrzegu KOLL"
     },
     {
-     "type": "ust",
-     "num": "70",
-     "path": "ust_70",
-     "text": "Sad Okręgowy we WL Włocławku 71. 72. 73. 74.",
-     "children": []
+     "type": "ocr",
+     "text": "54. w Koszalinie KOLK"
     },
     {
-     "type": "ust",
-     "num": "75",
-     "path": "ust_75",
-     "text": "Sad Apelacyjny w | Sad Okręgowy w Bielsku- BB Katowicach -Białej 76. 71.",
-     "children": []
+     "type": "ocr",
+     "text": "55. w Stawnie KOLE"
     },
     {
-     "type": "ust",
-     "num": "78",
-     "path": "ust_78",
-     "text": "| Sąd Okręgowy w cz Częstochowie 79. 80. req. 82.",
-     "children": []
+     "type": "ocr",
+     "text": "56. w Szczecinku KO1I"
     },
     {
-     "type": "par",
-     "num": "3",
-     "path": "par_3",
-     "text": "Sad Okręgowy w GL Gliwicach 84. 85. 86. 87 rejonowego w Kościerzynie GDI1E w Kwidzynie GD1I w Kwidzynie — wydział zamiejscowy z GD2I siedzibą w Sztumie w Malborku GD1M w Sopocie GD1s w Starogardzie Gdańskim GDIA w Tczewie | GD1T w Wejherowie GD1W w Wejherowie — wydział zamiejscowy z GD2W siedziba w Pucku w Białogardzie KOLB",
-     "children": [
-      {
-       "type": "text",
-       "text": "w Drawsku Pomorskim KO1D w Kołobrzegu KOLL w Koszalinie KOLK w Stawnie KOLE w Szczecinku KO1I w Wałczu KOLW w Bytowie SL1B w Bytowie — wydział zamiejscowy z siedzibą | SL2B w Miastku w Chojnicach SL1C w Człuchowie SL1Z w Lęborku SLIL w Słupsku SL13 w Brodnicy TO1B w Chełmnie TO1C w Golubiu-Dobrzyniu TO1G w Grudziądzu TOlU | w Toruniu TOLT w Wąbrzeźnie TOW w Aleksandrowie Kujawskim WLIA"
-      },
-      {
-       "type": "text",
-       "text": "w Lipnie WLIL w Radziejowie WLIR w Rypinie WLIY 4 we Wioclawku WLIW w Bielsku-Białej BB1B"
-      },
-      {
-       "type": "text",
-       "text": "w Cieszynie BB1C w Żywcu BB1Z w Częstochowie CZ1C"
-      },
-      {
-       "type": "text",
-       "text": "w Częstochowie — wydział zamiejscowy z CZ2C siedziba w Kłobucku w Myszkowie CZ1M w Zawierciu C4212 w Zawierciu — wydział zamiejscowy z siedzibą CZ22, w Siewierzu w Gliwicach L1G"
-      },
-      {
-       "type": "text",
-       "text": "w Jastrzębiu-Zdroju GL1J w Lublińcu i GLIL | w Raciborzu LIR w Rudzie Śląskiej GL1S"
-      },
-      {
-       "type": "note",
-       "text": "[Strona 21 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "Sąd apelacyjny Sąd okręgowy Kod sądu Wydział ksiąg wieczystych sądu Kod wydziału ksiąg Lp. okręgowego rejonowego wieczystych sądu L"
-      },
-      {
-       "type": "text",
-       "text": "-"
-      },
-      {
-       "type": "ust",
-       "num": "93",
-       "path": "par_3/ust_93",
-       "text": "Sad Okręgowy KA Katowicach 94. 95. 96. 97. 98. 99. [ 700. | 101. 102.",
-       "children": [
-        {
-         "type": "text",
-         "text": "103"
-        },
-        {
-         "type": "text",
-         "text": "Sąd Apelacyjny w | Sąd Okręgowy KI Krakowie Kielcach 106. 107. 108. 109. 110 111. 112 113 114 115. 116."
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "118",
-       "path": "par_3/ust_118",
-       "text": "Sad Okręgowy KR Krakowie 119.",
-       "children": [
-        {
-         "type": "text",
-         "text": "120"
-        },
-        {
-         "type": "text",
-         "text": "121"
-        },
-        {
-         "type": "text",
-         "text": "122"
-        },
-        {
-         "type": "text",
-         "text": "123"
-        },
-        {
-         "type": "text",
-         "text": "124"
-        },
-        {
-         "type": "text",
-         "text": "125"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "126",
-       "path": "par_3/ust_126",
-       "text": "127. 128. 129.",
-       "children": [
-        {
-         "type": "text",
-         "text": "130"
-        },
-        {
-         "type": "text",
-         "text": "—_L rejonowego w Rybniku GL1Y w Tarnowskich Gérach GL1T w Wodzisławiu Śląskim GL1W |W Zabrzu | GL1Z w Żorach GL1X w Będzinie KAIB"
-        },
-        {
-         "type": "text",
-         "text": "w Bytomiu KAŁY w Chorzowie KA1C w Dąbrowie Górniczej KAID w Jaworznie KAlJ w Katowicach KA1K w Mikołowie KAIM w Mysłowicach KAlL w Pszczynie KA1P w Pszczynie — wydział zamiejscowy z KAŻP siedzibą w Czechowicach-Dziedzicach w Sosnowcu KA1S w Tychach KA1T w Busku-Zdroju KI1IB"
-        },
-        {
-         "type": "text",
-         "text": "w Jędrzejowie KILJ w Kazimierzy Wielkiej KI1I w Kielcach KI1L w Końskich KI1K w Opatowie ] KI1T w Ostrowcu Świętokrzyskim T KILO w Pińczowie KI1P w Sandomierzu KI18 w Skarżysku-Kamiennej KI1R w Starachowicach w Staszowie we Włoszczowie KILW w Chrzanowie KR1C"
-        },
-        {
-         "type": "text",
-         "text": "dla Krakowa-Krowodrzy w Krakowie — wydział KRIK zamiejscowy z siedzibą w Czernichowie dla Krakowa-Krowodrzy w Krakowie — wydział | KR2K zamiejscowy z siedziba w Krzeszowicach dla Krakowa-Nowej Huty w Krakowie — KR1H wydział zamiejscowy z siedzibą w Proszowicach dla Krakowa-Podgórza w Krakowie — Wydział KR1P Ksiąg Wieczystych dla miasta Kraków oraz gmin: Kocmyrzów-Luborzyca, Świątniki Górne, Wielka Wieś i Zielonki dla Krakowa-Podgórza w Krakowie — wydział KR2P zamiejscowy z siedzibą w Niepołomicach dla Krakowa-Podgórza w Krakowie — wydział | KR3P zamiejscowy z siedzibą w Skale dla Krakowa-Podgórza w Krakowie — wydział | KR4P zamiejscowy z siedzibą w Skawinie dla Krakowa-Śródmieścia w Krakowie KRIS w Miechowie KR1M w Myślenicach | KR1Y w Myślenicach — wydział zamiejscowy z KRZY siedzibą w Dobczycach | w Olkuszu KR10"
-        },
-        {
-         "type": "note",
-         "text": "[Strona 22 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "Sąd apelacyjny Sąd okręgowy Kod sądu p. okręgowego"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "134",
-       "path": "par_3/ust_134",
-       "text": "135.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "136",
-       "path": "par_3/ust_136",
-       "text": "Sąd Okręgowy w Nowym NS Sączu",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "1137",
-       "path": "par_3/ust_1137",
-       "text": "| 138.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "139",
-       "path": "par_3/ust_139",
-       "text": "|——— 140. 141. 142.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "143",
-       "path": "par_3/ust_143",
-       "text": "Sad Okręgowy Tarnowie 144. 145.",
-       "children": [
-        {
-         "type": "text",
-         "text": "147"
-        },
-        {
-         "type": "text",
-         "text": "Sąd Apelacyjny w | Sąd Okręgowy w Lublinie LU Lublinie"
-        },
-        {
-         "type": "text",
-         "text": "Sąd Okręgowy w RA Radomiu 159."
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "160",
-       "path": "par_3/ust_160",
-       "text": "161.",
-       "children": [
-        {
-         "type": "text",
-         "text": "163"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "164",
-       "path": "par_3/ust_164",
-       "text": "165. Parlay",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "166",
-       "path": "par_3/ust_166",
-       "text": "Sąd Okręgowy w SI Siedlcach 167. 168; 169. — 170. 171.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "172",
-       "path": "par_3/ust_172",
-       "text": "Sąd _ Okręgowy w ŻA Zamościu G73, 174. 175.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Wydział ksiąg wieczystych sądu Kod wydziału ksiąg rejonowego wieczystych sądu rejonowego w Oświęcimiu KRIE w Oświęcimiu — wydział zamiejscowy z KRŻE siedzibą w Kętach w Suchej Beskidzkiej KR1B w Wadowicach KR1W w Wieliczce if KR1lI w Gorlicach NS1G"
-        },
-        {
-         "type": "text",
-         "text": "w Limanowej NS1L w Limanowej — wydział zamiejscowy z NS2L siedzibą w Mszanie Dolnej w Muszynie NS1M w Nowym Sączu NS1S w Nowym Targu NSIT w Zakopanem NS1Z w Bochni TRIO"
-        },
-        {
-         "type": "text",
-         "text": "w Brzesku TR1B w Dąbrowie Tarnowskiej TR1D"
-        },
-        {
-         "type": "text",
-         "text": "w Tarnowie — wydział zamiejscowy z siedzibą w Tuchowie w Białej Podlaskiej LULB | w Chełmie LU1C w Kraśniku LULK w Lubartowie | LUIA w Lublinie LULI w Łukowie a LULU w Opolu Lubelskim LU1O | w Puławach LU1P w Radzyniu Podlaskim LU1R we Włodawie LULW w Grójcu RA1G {oo w Grójcu — wydział zamiejscowy z siedzibą w RAŻG Białobrzegach w Kozienicach RALK w Lipsku"
-        },
-        {
-         "type": "text",
-         "text": "w Przysusze — wydział zamiejscowy z siedzibą w Szydłowcu w Radomiu RALR w Zwoleniu RA1Z FE p w Garwolinie SIIG"
-        },
-        {
-         "type": "text",
-         "text": "| w Mińsku Mazowieckim SI1M w Siedlcach L SI1S w Siedlcach — zamiejscowy wydział w SI2S łosicach w Sokołowie Podlaskim ST1P w Węgrowie SIiW | w Biigoraju ZA1B = w Hrubieszowie ZALH w Janowie Lubelskim ZALJ w Krasnymstawie Ji ZALK"
-        },
-        {
-         "type": "note",
-         "text": "[Strona 23 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "Sad apelacyjny Sad okręgowy Kod sadu Wydział ksiąg wieczystych sądu Kod wydziału ksiąg okręgowego rejonowego wieczystych sądu"
-        },
-        {
-         "type": "text",
-         "text": "Sąd Apelacyjny w | Sąd Okręgowy w Kaliszu KZ Łodzi"
-        },
-        {
-         "type": "text",
-         "text": "183"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "184",
-       "path": "par_3/ust_184",
-       "text": "| --——1",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "185",
-       "path": "par_3/ust_185",
-       "text": "Sąd Okręgowy w Łodzi LD 186. 187. 188.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "189",
-       "path": "par_3/ust_189",
-       "text": "190. 191. 192. 193. 194. 195. 196. 197.",
-       "children": [
-        {
-         "type": "text",
-         "text": "198"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "199",
-       "path": "par_3/ust_199",
-       "text": "‘",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "200",
-       "path": "par_3/ust_200",
-       "text": "Sad Okręgowy w PT . Piotrkowie Trybunalskim 201. 202. 203. 204.",
-       "children": [
-        {
-         "type": "text",
-         "text": "rejonowego w Tomaszowie Lubelskim ZA1T [w Zamościu ZA1Z w Jarocinie KZ1J"
-        },
-        {
-         "type": "text",
-         "text": "w Kaliszu KZ1A w Kępnie KZIE w Krotoszynie KZ1R w Ostrowie Wielkopolskim KZ1W w Ostrzeszowie KZ10 w Pleszewie KZ1P w Brzezinach LD1B w Kutnie LD1K w Łasku LDIA w Łasku — wydział zamiejscowy z siedzibą w| LD2A Poddębicach w Łęczycy LDIY dla Łodzi-Śródmieścia w Łodzi LDIM w towiczu LDLO w Pabianicach LD1P Pabiani w Rawie Mazowieckiej LDiR w Sieradzu LDIE w Skierniewicach LD1H w Wieluniu LDILW w Wieluniu — wydział zamiejscowy z siedzibą LD2W w Wieruszowie w Zduńskiej Woli LD1Z w Zgierzu LD1G w Bełchatowie PT1B"
-        },
-        {
-         "type": "text",
-         "text": "w Opocznie PT10 w Piotrkowie Trybunalskim PT1P w Radomsku PT1R w Tomaszowie Mazowieckim PT1T"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "205",
-       "path": "par_3/ust_205",
-       "text": "|Sąd Apelacyjny Sąd Okręgowy Ww GW w Gorzowie Wielkopolskim GW1G w Poznaniu Gorzowie Wielkopolskim 206. 207. 208. 209.",
-       "children": [
-        {
-         "type": "text",
-         "text": "|_ w Międzyrzeczu GW1IM w Słubicach GW1S w Strzelcach Krajeńskich GW1K w Sulęcinie GW1U"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "210",
-       "path": "par_3/ust_210",
-       "text": "Sad Okręgowy PO w Chodzieży POlH Poznaniu 211.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "212",
-       "path": "par_3/ust_212",
-       "text": "213. 214. 215.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "216",
-       "path": "par_3/ust_216",
-       "text": "217. 218. rai9. | (220. | w Chodzieży — wydział zamiejscowy z PO2C siedziba w Wyrzysku w Gnieźnie PO1G w Gostyniu POLY w Grodzisku Wielkopolskim PO1S w Grodzisku Wielkopolskim — wydział PO2S zamiejscowy z siedzibą w Nowym Tomyślu w Kole POLO w Koninie PO1N w Kościanie POLK w Lesznie | POLL w Pile POLI",
-       "children": [
-        {
-         "type": "note",
-         "text": "[Strona 24 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "Sąd apelacyjny Sąd okręgowy Kod sądu Wydział ksiąg wieczystych sądu Kod wydziału ksiąg okręgowego rejonowego wieczystych sądu"
-        },
-        {
-         "type": "text",
-         "text": "222"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "223",
-       "path": "par_3/ust_223",
-       "text": "224. |225. | 226.",
-       "children": [
-        {
-         "type": "text",
-         "text": "227"
-        },
-        {
-         "type": "text",
-         "text": "Sąd Okręgowy Szczecinie"
-        },
-        {
-         "type": "text",
-         "text": "245, 246."
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "547",
-       "path": "par_3/ust_547",
-       "text": "| rejonowego w Poznaniu dla części miasta Poznania w PO1P granicach ustalonych tradycyjnie dla dzielnic: Grunwald, Jeżyce i Stare Miasto oraz gmin: Czerwonak, Dopniewo, Murowana Goślina, Suchy Las i Tarnowo Podgórne w Poznaniu dla części miasta Poznania w PO2P granicach ustalonych tradycyjnie dla dzielnic. Nowe Miasto i Wilda, miast Luboń i Puszczykowo oraz gmin Komorniki i Swarzędz w Rawiczu POLR w Słupcy POLC w Szamotułach PO1A w Szamotułach — wydział zamiejscowy z POZA siedzibą w Międzychodzie w Szamotułach — wydział zamiejscowy z PO3A siedziba w Obornikach w Śremie PO1M w Środzie Wielkopolskiej PO1D w Trzciance | PO1T w Trzciance — wydział zamiejscowy z PO2T siedzibą w Czarnkowie w Turku PO1U w Wągrowcu POLB w Wolsztynie POLE we Wrześni POLF w Złotowie PO1Z w Choszcznie SZ1C",
-       "children": [
-        {
-         "type": "text",
-         "text": "w Goleniowie SZ10 w Gryficach SZ1G w Gryfinie SZ1Y w Łobzie SZ1L w Myśliborzu SZ1M w Stargardzie Szczecińskim SZ1T w Stargardzie Szczecińskim — wydział SZ2T zamiejscowy z siedzibą w Pyrzycach w Szczecinie SZ1S w Szczecinie — wydział zamiejscowy z | SZ2S —_ siedziba w Policach w Świnoujściu SZ1W"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "248",
-       "path": "par_3/ust_248",
-       "text": "Sad Okręgowy w Zielonej ZG w Krośnie Odrzańskim ZGIK Górze 249. 250. 251. 252.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "253",
-       "path": "par_3/ust_253",
-       "text": "254. 255.",
-       "children": [
-        {
-         "type": "text",
-         "text": "w Krośnie Odrzańskim — wydział zamiejscowy ZG2K w Gubinie w Nowej Soli ZGIŃ w Świebodzinie ZG1S w Świebodzinie — wydział zamiejscowy w 7G2S Sulechowie [w Zielone Górze ZGLE w Żaganiu ZG1G w Żarach 7G1R"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "256",
-       "path": "par_3/ust_256",
-       "text": "| Sąd Apelacyjny w | Sąd Okręgowy w Krośnie KS w Brzozowie KS1B Rzeszowie 257. 258. [259 | 260.",
-       "children": [
-        {
-         "type": "text",
-         "text": "w Jarosławiu KSIR w Jaśle KS1S w Krośnie KSIK w Lesku KSIE"
-        },
-        {
-         "type": "note",
-         "text": "[Strona 25 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "Sąd apelacyjny Sąd okręgowy Kod sądu okręgowego"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "261",
-       "path": "par_3/ust_261",
-       "text": "u SI",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "262",
-       "path": "par_3/ust_262",
-       "text": "363. 264. 265. 266.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "267",
-       "path": "par_3/ust_267",
-       "text": "Sad Okręgowy w RZ Rzeszowie 268. 269. 270. 271. 272. [ars Sąd Okręgowy w TB Tarnobrzegu",
-       "children": [
-        {
-         "type": "text",
-         "text": "278"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "279",
-       "path": "par_3/ust_279",
-       "text": "|Sąd Apelacyjny w | Sąd Okręgowy w OS Warszawie Ostrołęce 280. 281. 282. 283.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "284",
-       "path": "par_3/ust_284",
-       "text": "Sąd Okręgowy w Płocku PL 285. 286. 287. 288. 289. 290. 291.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "292",
-       "path": "par_3/ust_292",
-       "text": "Sąd Okręgowy w WA Warszawie 293. 294. 295. 296. 297.",
-       "children": [
-        {
-         "type": "text",
-         "text": "298"
-        },
-        {
-         "type": "text",
-         "text": "299"
-        },
-        {
-         "type": "text",
-         "text": "Wydział ksiąg wieczystych sądu Kod wydziału ksiąg rejonowego wieczystych sądu rejonowego w Lesku — wydział zamiejscowy z siedzibą w KS2E Ustrzykach Dolnych w Lubaczowie KS1U |-— w Przemyślu KS1P w Przeworsku KS1W w Przeworsku — wydział zamiejscowy z KS2W siedziba w Sieniawie w Sanoku KS1S w Dębicy RZ1D ~"
-        },
-        {
-         "type": "text",
-         "text": "w Leżajsku RZ1E w Łańcucie RZIA w Ropczycach RZ1R w Rzeszowie RZ1Z w Rzeszowie — wydział zamiejscowy z RZ2Z siedzibą w Tyczynie RZS w Mielcu TR1M"
-        },
-        {
-         "type": "text",
-         "text": "w Kolbuszowej TB1K w Nisku TB1N w Stalowej Woli TBLS w Tarnobrzegu TB1T w Ostrołęce Oslo"
-        },
-        {
-         "type": "text",
-         "text": "w Ostrowi Mazowieckiej 1 OS IM w Przasnyszu OSI1P w Pułtusku | OS1U i w Wyszkowie OS1W w Ciechanowie PLic w Gostyninie PL1G w Mławie PLIM w Płocku PL1P w Płońsku PL1L w Sierpcu PLIE w Sochaczewie PL1O w Żyrardowie PL1Z w Grodzisku Mazowieckim WA1G"
-        },
-        {
-         "type": "text",
-         "text": "w Legionowie WALL w Nowym Dworze Mazowieckim WAIN w Otwocku WA1O w Pruszkowie WA1P dla Warszawy-Mokotowa w Warszawie — dla WA1M części miasta stołecznego Warszawy w granicach ustalonych dla dzielnic: Bemowo, Bielany, Ochota, Ursus, Włochy i żoliborz oraz gminy Izabelin dla Warszawy-Mokotowa w Warszawie - dla WA2M części miasta stołecznego Warszawy w granicach ustalonych dla dzielnic: Mokotów, Ursynów i Wilanów dla Warszawy-Mokotowa w Warszawie — dla WA3M części miasta stołecznego Warszawy w granicach ustalonych dla dzielnic: Białołęka, Praga-Północ, Targówek"
-        },
-        {
-         "type": "note",
-         "text": "[Strona 26 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "Sąd apelacyjny Sąd okręgowy Kod sądu Lp. okręgowego"
-        },
-        {
-         "type": "text",
-         "text": "300"
-        },
-        {
-         "type": "text",
-         "text": "301"
-        },
-        {
-         "type": "text",
-         "text": "302"
-        },
-        {
-         "type": "text",
-         "text": "303"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "304",
-       "path": "par_3/ust_304",
-       "text": "|Sąd Apelacyjny we | Sąd Okręgowy w Jeleniej Wrocławiu Górze 305. 306. 307. 308. 309.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "310",
-       "path": "par_3/ust_310",
-       "text": "Sąd Okręgowy w Legnicy LE 311. 312. 313. 314.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "315",
-       "path": "par_3/ust_315",
-       "text": "Sąd Okręgowy w Opolu 316. 317. 318. 319. 320. 321. 322. 323.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "324",
-       "path": "par_3/ust_324",
-       "text": "Sąd Okręgowy w SW Świdnicy 325, 326.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "327",
-       "path": "par_3/ust_327",
-       "text": "328. 329.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "330",
-       "path": "par_3/ust_330",
-       "text": "Sad Okręgowy we WR Wrocławiu 331. 332. [333. | 334. 335. 336. 337.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Wydział ksiąg wieczystych sądu Kod wydziału ksiąg rejonowego wieczystych sądu rejonowego dla Warszawy-Mokotowa w Warszawie — dla WA4M części miasta stołecznego Warszawy w ranicach ustalonych dla dzielnic ródmieście i Wola dla Warszawy-Mokotowa w Warszawie — dla WA5M gmin: Góra Kalwaria, Konstancin-Jeziorna, Lesznowola, Piaseczno i Prażmów dla Warszawy-Mokotowa w Warszawie — dla WA6M części miasta stołecznego Warszawy w granicach ustalonych dla dzielnic: Praga-Południe, Rembertów, Wawer i Wesoła w Wołominie WA1W w Bolesławcu JG1B"
-        },
-        {
-         "type": "text",
-         "text": "w Jeleniej Górze JG1IJ w Kamiennej Górze JG1IK | w Lubaniu JGIL w Lwówku Śląskim JG1S w Zgorzelcu JG1Z w Głogowie LE1G w Jaworze LE1J w Legnicy LE1L w Lubinie w Złotoryi"
-        },
-        {
-         "type": "text",
-         "text": "w Głubczycach w Kędzierzynie-Koźlu w Kluczborku 1 w Nysie OP1N w Oleśnie OP1L w Opolu OP10 w Prudniku OP1P w Strzelcach Opolskich OP1S w Dzierżoniowie SW1D"
-        },
-        {
-         "type": "text",
-         "text": "w Kłodzku _ sz SW1K w Kłodzku — wydział zamiejscowy z siedzibą SW2K w Nowej Rudzie w Świdnicy SW1S w Wałbrzychu SWiw w Ząbkowicach Slaskich SW1Z w Oleśnicy WRIE"
-        },
-        {
-         "type": "text",
-         "text": "w Oławie WR1O w Strzelinie WR1T w Środzie Śląskiej WR1S w Trzebnicy WR1W w Trzebnicy — wydział zamiejscowy w Miliczu WR2W w Wotowie WRIL dla Wrocławia-Krzyków we Wrocławiu WR1K"
-        }
-       ]
-      }
-     ]
+     "type": "ocr",
+     "text": "57. w Wałczu KOLW"
+    },
+    {
+     "type": "ocr",
+     "text": "58. Sąd Okręgowy w Słupsku SL w Bytowie SL1B"
+    },
+    {
+     "type": "ocr",
+     "text": "59. w Bytowie — wydział zamiejscowy z siedzibą | SL2B w Miastku [60 | w Chojnicach SL1C"
+    },
+    {
+     "type": "ocr",
+     "text": "61. w Człuchowie SL1Z"
+    },
+    {
+     "type": "ocr",
+     "text": "62. w Lęborku SLIL"
+    },
+    {
+     "type": "ocr",
+     "text": "63. w Słupsku SL13"
+    },
+    {
+     "type": "ocr",
+     "text": "64. Sąd Okręgowy w Toruniu w Brodnicy TO1B"
+    },
+    {
+     "type": "ocr",
+     "text": "65. w Chełmnie TO1C |56. | w Golubiu-Dobrzyniu TO1G"
+    },
+    {
+     "type": "ocr",
+     "text": "67. w Grudziądzu TOlU |"
+    },
+    {
+     "type": "ocr",
+     "text": "68. w Toruniu TOLT"
+    },
+    {
+     "type": "ocr",
+     "text": "60. w Wabrzeznie TOW"
+    },
+    {
+     "type": "ocr",
+     "text": "70. Sad Okregowy we WL w Aleksandrowie Kujawskim WLIA Włocławku"
+    },
+    {
+     "type": "ocr",
+     "text": "71. w Lipnie WLIL"
+    },
+    {
+     "type": "ocr",
+     "text": "72. w Radziejowie WLIR"
+    },
+    {
+     "type": "ocr",
+     "text": "73. w Rypinie WLIY"
+    },
+    {
+     "type": "ocr",
+     "text": "74. 4 we Wioclawku WLIW"
+    },
+    {
+     "type": "ocr",
+     "text": "75. Sad Apelacyjny w | Sad Okregowy w Bielsku- BB w Bielsku-Biatej BB1B Katowicach -Białej"
+    },
+    {
+     "type": "ocr",
+     "text": "76. w Cieszynie BB1C"
+    },
+    {
+     "type": "ocr",
+     "text": "71. w Żywcu BB1Z"
+    },
+    {
+     "type": "ocr",
+     "text": "78. | Sąd Okręgowy w cz w Częstochowie CZ1C Czestochowie"
+    },
+    {
+     "type": "ocr",
+     "text": "79. w Częstochowie — wydział zamiejscowy z CZ2C siedziba w Ktobucku"
+    },
+    {
+     "type": "ocr",
+     "text": "80. w Myszkowie CZ1M req. w Zawierciu C4212"
+    },
+    {
+     "type": "ocr",
+     "text": "82. w Zawierciu — wydział zamiejscowy z siedzibą CZ22, w Siewierzu"
+    },
+    {
+     "type": "ocr",
+     "text": "83. Sad Okregowy w GL w Gliwicach L1G Gliwicach"
+    },
+    {
+     "type": "ocr",
+     "text": "84. w Jastrzębiu-Zdroju GL1J"
+    },
+    {
+     "type": "ocr",
+     "text": "85. w Lublińcu i GLIL"
+    },
+    {
+     "type": "ocr",
+     "text": "86. | w Raciborzu LIR 87 w Rudzie Śląskiej GL1S"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 21 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Sąd apelacyjny Sąd okręgowy Kod sądu Wydział ksiąg wieczystych sądu Kod wydziału ksiąg Lp. okręgowego rejonowego wieczystych sądu L —_L rejonowego w Rybniku GL1Y w Tarnowskich Gérach GL1T w Wodzisławiu Śląskim GL1W |W Zabrzu | GL1Z - w Żorach GL1X"
+    },
+    {
+     "type": "ocr",
+     "text": "93. Sad Okregowy KA w Bedzinie KAIB Katowicach"
+    },
+    {
+     "type": "ocr",
+     "text": "94. w Bytomiu KALY"
+    },
+    {
+     "type": "ocr",
+     "text": "95. w Chorzowie KA1C"
+    },
+    {
+     "type": "ocr",
+     "text": "96. w Dąbrowie Górniczej KAID"
+    },
+    {
+     "type": "ocr",
+     "text": "97. w Jaworznie KAlJ"
+    },
+    {
+     "type": "ocr",
+     "text": "98. w Katowicach KA1K"
+    },
+    {
+     "type": "ocr",
+     "text": "99. w Mikołowie KAIM [ 700. | w Mystowicach KAlL"
+    },
+    {
+     "type": "ocr",
+     "text": "101. w Pszczynie KA1P"
+    },
+    {
+     "type": "ocr",
+     "text": "102. w Pszczynie — wydział zamiejscowy z KAŻP siedzibą w Czechowicach-Dziedzicach"
+    },
+    {
+     "type": "ocr",
+     "text": "103. w Sosnowcu KA1S w Tychach KA1T Sąd Apelacyjny w | Sąd Okręgowy KI w Busku-Zdroju KI1IB Krakowie Kielcach"
+    },
+    {
+     "type": "ocr",
+     "text": "106. w Jędrzejowie KILJ"
+    },
+    {
+     "type": "ocr",
+     "text": "107. w Kazimierzy Wielkiej KI1I"
+    },
+    {
+     "type": "ocr",
+     "text": "108. w Kielcach KI1L"
+    },
+    {
+     "type": "ocr",
+     "text": "109. w Końskich KI1K 110 w Opatowie ] KI1T"
+    },
+    {
+     "type": "ocr",
+     "text": "111. w Ostrowcu Swietokrzyskim T KILO 112 w Pińczowie KI1P 113 w Sandomierzu KI18 114 w Skarżysku-Kamiennej KI1R"
+    },
+    {
+     "type": "ocr",
+     "text": "115. w Starachowicach"
+    },
+    {
+     "type": "ocr",
+     "text": "116. w Staszowie"
+    },
+    {
+     "type": "ocr",
+     "text": "we Włoszczowie KILW"
+    },
+    {
+     "type": "ocr",
+     "text": "118. Sad Okregowy KR w Chrzanowie KR1C Krakowie"
+    },
+    {
+     "type": "ocr",
+     "text": "119. dla Krakowa-Krowodrzy w Krakowie — wydział KRIK zamiejscowy z siedzibą w Czernichowie"
+    },
+    {
+     "type": "ocr",
+     "text": "120. dla Krakowa-Krowodrzy w Krakowie — wydział | KR2K zamiejscowy z siedziba w Krzeszowicach"
+    },
+    {
+     "type": "ocr",
+     "text": "121. dla Krakowa-Nowej Huty w Krakowie — KR1H wydział zamiejscowy z siedzibą w Proszowicach"
+    },
+    {
+     "type": "ocr",
+     "text": "122. dla Krakowa-Podgórza w Krakowie — Wydział KR1P Ksiąg Wieczystych dla miasta Kraków oraz gmin: Kocmyrzów-Luborzyca, Świątniki Górne, Wielka Wieś i Zielonki"
+    },
+    {
+     "type": "ocr",
+     "text": "123. dla Krakowa-Podgórza w Krakowie — wydział KR2P zamiejscowy z siedzibą w Niepołomicach"
+    },
+    {
+     "type": "ocr",
+     "text": "124. dla Krakowa-Podgórza w Krakowie — wydział | KR3P zamiejscowy z siedzibą w Skale"
+    },
+    {
+     "type": "ocr",
+     "text": "125. dla Krakowa-Podgórza w Krakowie — wydział | KR4P zamiejscowy z siedzibą w Skawinie"
+    },
+    {
+     "type": "ocr",
+     "text": "126. dla Krakowa-Śródmieścia w Krakowie KRIS"
+    },
+    {
+     "type": "ocr",
+     "text": "127. w Miechowie KR1M"
+    },
+    {
+     "type": "ocr",
+     "text": "128. w Myślenicach | KR1Y"
+    },
+    {
+     "type": "ocr",
+     "text": "129. w Myślenicach — wydział zamiejscowy z KRZY siedzibą w Dobczycach"
+    },
+    {
+     "type": "ocr",
+     "text": "130. | w Olkuszu KR10"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Sąd apelacyjny Sąd okręgowy Kod sądu Wydział ksiąg wieczystych sądu Kod wydziału ksiąg p. okręgowego rejonowego wieczystych sądu rejonowego w Oświęcimiu KRIE w Oświęcimiu — wydział zamiejscowy z KRŻE siedzibą w Kętach w Suchej Beskidzkiej KR1B"
+    },
+    {
+     "type": "ocr",
+     "text": "134. w Wadowicach KR1W"
+    },
+    {
+     "type": "ocr",
+     "text": "135. w Wieliczce if KR1lI"
+    },
+    {
+     "type": "ocr",
+     "text": "136. Sąd Okręgowy w Nowym NS w Gorlicach NS1G Sączu"
+    },
+    {
+     "type": "ocr",
+     "text": "1137. | w Limanowej NS1L"
+    },
+    {
+     "type": "ocr",
+     "text": "138. w Limanowej — wydział zamiejscowy z NS2L siedzibą w Mszanie Dolnej"
+    },
+    {
+     "type": "ocr",
+     "text": "139. w Muszynie NS1M |———"
+    },
+    {
+     "type": "ocr",
+     "text": "140. w Nowym Sączu NS1S"
+    },
+    {
+     "type": "ocr",
+     "text": "141. w Nowym Targu NSIT"
+    },
+    {
+     "type": "ocr",
+     "text": "142. w Zakopanem NS1Z"
+    },
+    {
+     "type": "ocr",
+     "text": "143. Sad Okregowy w Bochni TRIO Tarnowie"
+    },
+    {
+     "type": "ocr",
+     "text": "144. w Brzesku TR1B"
+    },
+    {
+     "type": "ocr",
+     "text": "145. w Dąbrowie Tarnowskiej TR1D"
+    },
+    {
+     "type": "ocr",
+     "text": "147. w Tarnowie — wydział zamiejscowy z siedzibą w Tuchowie Sąd Apelacyjny w | Sąd Okręgowy w Lublinie LU w Białej Podlaskiej LULB Lublinie | w Chełmie LU1C w Kraśniku LULK w Lubartowie | LUIA w Lublinie LULI w Łukowie a LULU w Opolu Lubelskim LU1O | w Puławach LU1P w Radzyniu Podlaskim LU1R we Włodawie LULW Sąd Okręgowy w RA w Grójcu RA1G Radomiu {oo"
+    },
+    {
+     "type": "ocr",
+     "text": "159. w Grójcu — wydział zamiejscowy z siedzibą w RAŻG Białobrzegach"
+    },
+    {
+     "type": "ocr",
+     "text": "160. w Kozienicach RALK"
+    },
+    {
+     "type": "ocr",
+     "text": "161. w Lipsku"
+    },
+    {
+     "type": "ocr",
+     "text": "163. w Przysusze — wydział zamiejscowy z siedzibą w Szydłowcu"
+    },
+    {
+     "type": "ocr",
+     "text": "164. w Radomiu RALR"
+    },
+    {
+     "type": "ocr",
+     "text": "165. w Zwoleniu RA1Z Parlay FE p"
+    },
+    {
+     "type": "ocr",
+     "text": "166. Sąd Okręgowy w SI w Garwolinie SIIG Siedlcach |"
+    },
+    {
+     "type": "ocr",
+     "text": "167. w Mińsku Mazowieckim SI1M 168; w Siedlcach L SI1S"
+    },
+    {
+     "type": "ocr",
+     "text": "169. w Siedlcach — zamiejscowy wydział w SI2S — tosicach"
+    },
+    {
+     "type": "ocr",
+     "text": "170. w Sokotowie Podlaskim ST1P"
+    },
+    {
+     "type": "ocr",
+     "text": "171. w Wegrowie SIiW"
+    },
+    {
+     "type": "ocr",
+     "text": "172. Sąd _ Okręgowy w ŻA | w Biigoraju ZA1B Zamosciu = G73, w Hrubieszowie ZALH"
+    },
+    {
+     "type": "ocr",
+     "text": "174. w Janowie Lubelskim ZALJ"
+    },
+    {
+     "type": "ocr",
+     "text": "175. w Krasnymstawie Ji ZALK"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Sad apelacyjny Sad okregowy Kod sadu Wydział ksiąg wieczystych sądu Kod wydziału ksiąg okręgowego rejonowego wieczystych sądu rejonowego w Tomaszowie Lubelskim ZA1T [w Zamościu ZA1Z Sąd Apelacyjny w | Sąd Okręgowy w Kaliszu KZ w Jarocinie KZ1J Łodzi w Kaliszu KZ1A w Kepnie KZIE w Krotoszynie KZ1R w Ostrowie Wielkopolskim KZ1W"
+    },
+    {
+     "type": "ocr",
+     "text": "183. w Ostrzeszowie KZ10"
+    },
+    {
+     "type": "ocr",
+     "text": "184. | w Pleszewie KZ1P --——1"
+    },
+    {
+     "type": "ocr",
+     "text": "185. Sąd Okręgowy w Łodzi LD w Brzezinach LD1B"
+    },
+    {
+     "type": "ocr",
+     "text": "186. w Kutnie LD1K"
+    },
+    {
+     "type": "ocr",
+     "text": "187. w Łasku LDIA"
+    },
+    {
+     "type": "ocr",
+     "text": "188. w Łasku — wydział zamiejscowy z siedzibą w| LD2A Poddebicach"
+    },
+    {
+     "type": "ocr",
+     "text": "189. w Łęczycy LDIY"
+    },
+    {
+     "type": "ocr",
+     "text": "190. dla Łodzi-Śródmieścia w Łodzi LDIM"
+    },
+    {
+     "type": "ocr",
+     "text": "191. w towiczu LDLO"
+    },
+    {
+     "type": "ocr",
+     "text": "192. Pabiani"
+    },
+    {
+     "type": "ocr",
+     "text": "w Pabianicach LD1P"
+    },
+    {
+     "type": "ocr",
+     "text": "193. w Rawie Mazowieckiej LDiR"
+    },
+    {
+     "type": "ocr",
+     "text": "194. w Sieradzu LDIE"
+    },
+    {
+     "type": "ocr",
+     "text": "195. w Skierniewicach LD1H"
+    },
+    {
+     "type": "ocr",
+     "text": "196. w Wieluniu LDILW"
+    },
+    {
+     "type": "ocr",
+     "text": "197. w Wieluniu — wydział zamiejscowy z siedzibą LD2W w Wieruszowie"
+    },
+    {
+     "type": "ocr",
+     "text": "198. w Zduńskiej Woli LD1Z"
+    },
+    {
+     "type": "ocr",
+     "text": "199. ‘ w Zgierzu LD1G"
+    },
+    {
+     "type": "ocr",
+     "text": "200. Sad Okregowy w PT w Bełchatowie PT1B . Piotrkowie Trybunalskim"
+    },
+    {
+     "type": "ocr",
+     "text": "201. w Opocznie PT10"
+    },
+    {
+     "type": "ocr",
+     "text": "202. w Piotrkowie Trybunalskim PT1P"
+    },
+    {
+     "type": "ocr",
+     "text": "203. w Radomsku PT1R"
+    },
+    {
+     "type": "ocr",
+     "text": "204. w Tomaszowie Mazowieckim PT1T"
+    },
+    {
+     "type": "ocr",
+     "text": "205. |Sąd Apelacyjny Sąd Okręgowy Ww GW w Gorzowie Wielkopolskim GW1G w Poznaniu Gorzowie Wielkopolskim |_"
+    },
+    {
+     "type": "ocr",
+     "text": "206. w Międzyrzeczu GW1IM"
+    },
+    {
+     "type": "ocr",
+     "text": "207. w Słubicach GW1S"
+    },
+    {
+     "type": "ocr",
+     "text": "208. w Strzelcach Krajeńskich GW1K"
+    },
+    {
+     "type": "ocr",
+     "text": "209. w Sulecinie GW1U"
+    },
+    {
+     "type": "ocr",
+     "text": "210. Sad Okregowy PO w Chodziezy POlH Poznaniu"
+    },
+    {
+     "type": "ocr",
+     "text": "211. w Chodzieży — wydział zamiejscowy z PO2C siedziba w Wyrzysku"
+    },
+    {
+     "type": "ocr",
+     "text": "212. w Gnieznie PO1G"
+    },
+    {
+     "type": "ocr",
+     "text": "213. w Gostyniu POLY"
+    },
+    {
+     "type": "ocr",
+     "text": "214. w Grodzisku Wielkopolskim PO1S"
+    },
+    {
+     "type": "ocr",
+     "text": "215. w Grodzisku Wielkopolskim — wydział PO2S zamiejscowy z siedzibą w Nowym Tomyślu"
+    },
+    {
+     "type": "ocr",
+     "text": "216. w Kole POLO"
+    },
+    {
+     "type": "ocr",
+     "text": "217. w Koninie PO1N"
+    },
+    {
+     "type": "ocr",
+     "text": "218. w Kościanie POLK rai9. | w Lesznie | POLL (220. | w Pile POLI"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 24 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Sąd apelacyjny Sąd okręgowy Kod sądu Wydział ksiąg wieczystych sądu Kod wydziału ksiąg okręgowego rejonowego wieczystych sądu rejonowego w Poznaniu dla części miasta Poznania w PO1P granicach ustalonych tradycyjnie dla dzielnic: Grunwald, Jeżyce i Stare Miasto oraz gmin: Czerwonak, Dopniewo, Murowana Goślina, Suchy Las i Tarnowo Podgórne"
+    },
+    {
+     "type": "ocr",
+     "text": "222. w Poznaniu dla części miasta Poznania w PO2P granicach ustalonych tradycyjnie dla dzielnic. Nowe Miasto i Wilda, miast Luboń i Puszczykowo oraz gmin Komorniki i Swarzędz"
+    },
+    {
+     "type": "ocr",
+     "text": "223. w Rawiczu POLR"
+    },
+    {
+     "type": "ocr",
+     "text": "224. w Stupcy POLC |225. | w Szamotułach PO1A"
+    },
+    {
+     "type": "ocr",
+     "text": "226. w Szamotułach — wydział zamiejscowy z POZA siedzibą w Międzychodzie"
+    },
+    {
+     "type": "ocr",
+     "text": "227. w Szamotułach — wydział zamiejscowy z PO3A siedziba w Obornikach w Sremie PO1M w Środzie Wielkopolskiej PO1D w Trzciance | PO1T w Trzciance — wydział zamiejscowy z PO2T siedzibą w Czarnkowie w Turku PO1U w Wagrowcu POLB w Wolsztynie POLE we Wrześni POLF w Złotowie PO1Z Sąd Okręgowy w Choszcznie SZ1C Szczecinie w Goleniowie SZ10 w Gryficach SZ1G w Gryfinie SZ1Y w Łobzie SZ1L w Myśliborzu SZ1M w Stargardzie Szczecińskim SZ1T w Stargardzie Szczecińskim — wydział SZ2T zamiejscowy z siedzibą w Pyrzycach 245, w Szczecinie SZ1S"
+    },
+    {
+     "type": "ocr",
+     "text": "246. w Szczecinie — wydział zamiejscowy z | SZ2S —_ siedziba w Policach"
+    },
+    {
+     "type": "ocr",
+     "text": "547. | w Świnoujściu SZ1W"
+    },
+    {
+     "type": "ocr",
+     "text": "248. Sad Okręgowy w Zielonej ZG w Krośnie Odrzańskim ZGIK Górze"
+    },
+    {
+     "type": "ocr",
+     "text": "249. w Krośnie Odrzańskim — wydział zamiejscowy ZG2K w Gubinie"
+    },
+    {
+     "type": "ocr",
+     "text": "250. w Nowej Soli ZGIN"
+    },
+    {
+     "type": "ocr",
+     "text": "251. w Świebodzinie ZG1S"
+    },
+    {
+     "type": "ocr",
+     "text": "252. w Świebodzinie — wydział zamiejscowy w 7G2S Sulechowie"
+    },
+    {
+     "type": "ocr",
+     "text": "253. [wZielone Górze ZGLE"
+    },
+    {
+     "type": "ocr",
+     "text": "254. w Zaganiu ZG1G"
+    },
+    {
+     "type": "ocr",
+     "text": "255. w Zarach 7G1R"
+    },
+    {
+     "type": "ocr",
+     "text": "256. | Sąd Apelacyjny w | Sąd Okręgowy w Krośnie KS w Brzozowie KS1B Rzeszowie"
+    },
+    {
+     "type": "ocr",
+     "text": "257. w Jarosławiu KSIR"
+    },
+    {
+     "type": "ocr",
+     "text": "258. w Jaśle KS1S [259 | w Krośnie KSIK"
+    },
+    {
+     "type": "ocr",
+     "text": "260. w Lesku KSIE"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Sąd apelacyjny Sąd okręgowy Kod sądu Wydział ksiąg wieczystych sądu Kod wydziału ksiąg okręgowego rejonowego wieczystych sądu rejonowego"
+    },
+    {
+     "type": "ocr",
+     "text": "261. u SI w Lesku — wydział zamiejscowy z siedzibą w KS2E Ustrzykach Dolnych"
+    },
+    {
+     "type": "ocr",
+     "text": "262. w Lubaczowie KS1U |-—"
+    },
+    {
+     "type": "ocr",
+     "text": "363. w Przemyślu KS1P"
+    },
+    {
+     "type": "ocr",
+     "text": "264. w Przeworsku KS1W"
+    },
+    {
+     "type": "ocr",
+     "text": "265. w Przeworsku — wydział zamiejscowy z KS2W siedziba w Sieniawie"
+    },
+    {
+     "type": "ocr",
+     "text": "266. w Sanoku KS1S"
+    },
+    {
+     "type": "ocr",
+     "text": "267. Sad Okregowy w RZ w Dębicy RZ1D Rzeszowie ~"
+    },
+    {
+     "type": "ocr",
+     "text": "268. w Lezajsku RZ1E"
+    },
+    {
+     "type": "ocr",
+     "text": "269. w Łańcucie RZIA"
+    },
+    {
+     "type": "ocr",
+     "text": "270. w Ropczycach RZ1R"
+    },
+    {
+     "type": "ocr",
+     "text": "271. w Rzeszowie RZ1Z"
+    },
+    {
+     "type": "ocr",
+     "text": "272. w Rzeszowie — wydział zamiejscowy z RZ2Z siedzibą w Tyczynie [ars RZS Sąd Okręgowy w TB w Mielcu TR1M Tarnobrzegu w Kolbuszowej TB1K w Nisku TB1N w Stalowej Woli TBLS"
+    },
+    {
+     "type": "ocr",
+     "text": "278. w Tarnobrzegu TB1T"
+    },
+    {
+     "type": "ocr",
+     "text": "279. |Sąd Apelacyjny w | Sąd Okręgowy w OS w Ostrołęce Oslo Warszawie Ostrołęce"
+    },
+    {
+     "type": "ocr",
+     "text": "280. w Ostrowi Mazowieckiej 1 OS IM"
+    },
+    {
+     "type": "ocr",
+     "text": "281. w Przasnyszu OSI1P"
+    },
+    {
+     "type": "ocr",
+     "text": "282. w Pułtusku | OS1U"
+    },
+    {
+     "type": "ocr",
+     "text": "283. i w Wyszkowie OS1W"
+    },
+    {
+     "type": "ocr",
+     "text": "284. Sąd Okręgowy w Płocku PL w Ciechanowie PLic"
+    },
+    {
+     "type": "ocr",
+     "text": "285. w Gostyninie PL1G"
+    },
+    {
+     "type": "ocr",
+     "text": "286. w Mławie PLIM 287."
+    },
+    {
+     "type": "ocr",
+     "text": "w Płocku PL1P"
+    },
+    {
+     "type": "ocr",
+     "text": "288. w Płońsku PL1L"
+    },
+    {
+     "type": "ocr",
+     "text": "289. w Sierpcu PLIE"
+    },
+    {
+     "type": "ocr",
+     "text": "290. w Sochaczewie PL1O"
+    },
+    {
+     "type": "ocr",
+     "text": "291. w Zyrardowie PL1Z"
+    },
+    {
+     "type": "ocr",
+     "text": "292. Sąd Okręgowy w WA w Grodzisku Mazowieckim WA1G Warszawie"
+    },
+    {
+     "type": "ocr",
+     "text": "293. w Legionowie WALL"
+    },
+    {
+     "type": "ocr",
+     "text": "294. w Nowym Dworze Mazowieckim WAIN"
+    },
+    {
+     "type": "ocr",
+     "text": "295. w Otwocku WA1O"
+    },
+    {
+     "type": "ocr",
+     "text": "296. w Pruszkowie WA1P"
+    },
+    {
+     "type": "ocr",
+     "text": "297. dla Warszawy-Mokotowa w Warszawie — dla WA1M części miasta stołecznego Warszawy w granicach ustalonych dla dzielnic: Bemowo, Bielany, Ochota, Ursus, Włochy i żoliborz oraz gminy Izabelin"
+    },
+    {
+     "type": "ocr",
+     "text": "298. dla Warszawy-Mokotowa w Warszawie - dla WA2M części miasta stołecznego Warszawy w granicach ustalonych dla dzielnic: Mokotów, Ursynów i Wilanów"
+    },
+    {
+     "type": "ocr",
+     "text": "299. dla Warszawy-Mokotowa w Warszawie — dla WA3M części miasta stołecznego Warszawy w granicach ustalonych dla dzielnic: Białołęka, Praga-Północ, Targówek"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 26 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Sąd apelacyjny Sąd okręgowy Kod sądu Wydział ksiąg wieczystych sądu Kod wydziału ksiąg Lp. okręgowego rejonowego wieczystych sądu rejonowego"
+    },
+    {
+     "type": "ocr",
+     "text": "300. dla Warszawy-Mokotowa w Warszawie — dla WA4M części miasta stołecznego Warszawy w ranicach ustalonych dla dzielnic ródmieście i Wola"
+    },
+    {
+     "type": "ocr",
+     "text": "301. dla Warszawy-Mokotowa w Warszawie — dla WA5M gmin: Góra Kalwaria, Konstancin-Jeziorna, Lesznowola, Piaseczno i Prażmów"
+    },
+    {
+     "type": "ocr",
+     "text": "302. dla Warszawy-Mokotowa w Warszawie — dla WA6M części miasta stołecznego Warszawy w granicach ustalonych dla dzielnic: Praga-Południe, Rembertów, Wawer i Wesoła"
+    },
+    {
+     "type": "ocr",
+     "text": "303. w Wołominie WA1W"
+    },
+    {
+     "type": "ocr",
+     "text": "304. |Sąd Apelacyjny we | Sąd Okręgowy w Jeleniej w Bolesławcu JG1B Wrocławiu Górze"
+    },
+    {
+     "type": "ocr",
+     "text": "305. w Jeleniej Górze JG1IJ"
+    },
+    {
+     "type": "ocr",
+     "text": "306. w Kamiennej Górze JG1IK"
+    },
+    {
+     "type": "ocr",
+     "text": "307. | w Lubaniu JGIL"
+    },
+    {
+     "type": "ocr",
+     "text": "308. w Lwówku Śląskim JG1S"
+    },
+    {
+     "type": "ocr",
+     "text": "309. w Zgorzelcu JG1Z"
+    },
+    {
+     "type": "ocr",
+     "text": "310. Sąd Okręgowy w Legnicy LE w Głogowie LE1G"
+    },
+    {
+     "type": "ocr",
+     "text": "311. w Jaworze LE1J"
+    },
+    {
+     "type": "ocr",
+     "text": "312. w Legnicy LE1L"
+    },
+    {
+     "type": "ocr",
+     "text": "313. w Lubinie"
+    },
+    {
+     "type": "ocr",
+     "text": "314. w Złotoryi"
+    },
+    {
+     "type": "ocr",
+     "text": "315. Sąd Okręgowy w Opolu"
+    },
+    {
+     "type": "ocr",
+     "text": "316. w Głubczycach"
+    },
+    {
+     "type": "ocr",
+     "text": "317. w Kedzierzynie-Kozlu"
+    },
+    {
+     "type": "ocr",
+     "text": "318. w Kluczborku 1"
+    },
+    {
+     "type": "ocr",
+     "text": "319. w Nysie OP1N"
+    },
+    {
+     "type": "ocr",
+     "text": "320. w Oleśnie OP1L"
+    },
+    {
+     "type": "ocr",
+     "text": "321. w Opolu OP10"
+    },
+    {
+     "type": "ocr",
+     "text": "322. w Prudniku OP1P"
+    },
+    {
+     "type": "ocr",
+     "text": "323. w Strzelcach Opolskich OP1S"
+    },
+    {
+     "type": "ocr",
+     "text": "324. Sąd Okręgowy w SW w Dzierżoniowie SW1D Świdnicy 325, w Kłodzku _ sz SW1K"
+    },
+    {
+     "type": "ocr",
+     "text": "326. w Kłodzku — wydział zamiejscowy z siedzibą SW2K w Nowej Rudzie"
+    },
+    {
+     "type": "ocr",
+     "text": "327. w Świdnicy SW1S"
+    },
+    {
+     "type": "ocr",
+     "text": "328. w Wałbrzychu SWiw"
+    },
+    {
+     "type": "ocr",
+     "text": "329. w Zabkowicach Slaskich SW1Z"
+    },
+    {
+     "type": "ocr",
+     "text": "330. Sad Okregowy we WR w Oleśnicy WRIE Wrocławiu"
+    },
+    {
+     "type": "ocr",
+     "text": "331. w Oławie WR1O"
+    },
+    {
+     "type": "ocr",
+     "text": "332. w Strzelinie WR1T [333. | w Środzie Śląskiej WR1S"
+    },
+    {
+     "type": "ocr",
+     "text": "334. w Trzebnicy WR1W"
+    },
+    {
+     "type": "ocr",
+     "text": "335. w Trzebnicy — wydział zamiejscowy w Miliczu WR2W"
+    },
+    {
+     "type": "ocr",
+     "text": "336. w Wotowie WRIL"
+    },
+    {
+     "type": "ocr",
+     "text": "337. dla Wrocławia-Krzyków we Wrocławiu WR1K"
     }
    ]
   },
@@ -4265,7 +4564,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ DOPUSZCZALNYCH ZNAKÓW PISARSKICH W SYSTEMIE INFORMATYCZNYM"
+     "text": "WYKAZ DOPUSZCZALNYCH ZNAKÓW PISARSKICH W SYSTEMIE INFORMATYCZNYM Dziennik Ustaw Nr 162 — 11228 — Poz. 1575"
     },
     {
      "type": "note",
