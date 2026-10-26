@@ -347,14 +347,14 @@ słownym pisanym małymi literami, stojące jako osobny akapit („Rozdział pie
 artykułu przed nimi. `.md` się nie zmienił, więc pole `converter` (w `.md`, `.json` i `index.csv`) zostaje wersją, w której powstał `.md`. Liczba jednostek i słowa w drzewie bez zmian.
 
 2026-10-26, eli2md 0.6.72, 299 aktów (opis w README eli2md, wpis 0.6.72): strona, na której nagłówek zeszytu jest
-w obrazie strony (zeskanowany załącznik), ma w warstwie tekstowej sam numer strony („— 9511 —”, DU/2004/1453 s. 3).
+w obrazie strony (zeskanowany załącznik), ma w warstwie tekstowej sam numer strony („— 14107 —”, DU/2003/1988 s. 2).
 Ten numer nie jest już tekstem. Przeliczyłem ponownie 527 aktów, w których stoi taki wiersz. Nowy plik zostaje tylko
 wtedy, gdy ciąg słów różni się od poprzedniego wyłącznie brakiem numerów stron, a jednostki drzewa są te same. Tak jest
 w 299 aktach. W 228 zostaje poprzedni plik: w 4 nowy był taki sam, w 224 różnił się też w innych miejscach (zmiany
-konwertera od eli2md 0.6.17–0.6.24, w których powstały te pliki), których tu nie publikuję; numery stron zostają w nich
-w tekście (331 wierszy). W 123 opublikowanych aktach zmieniają się też metadane stron: ostatnia strona PDF ze stopką
+konwertera od eli2md 0.6.17–0.6.24, w których powstały te pliki, np. kursywa podpisu w DU/2004/1453), których tu nie
+publikuję; numery stron zostają w nich w tekście (331 wierszy). W 123 opublikowanych aktach zmieniają się też metadane stron: ostatnia strona PDF ze stopką
 wydawcy (ISSN, „Egzemplarze bieżące…”) i jej obrazem nie liczy się do stron aktu (`pages_with_images` w 123,
-`pages_images_ocr` i `ocr` w 53), jak w plikach z nowszych wersji eli2md.
+`pages_images_ocr` w 53, `ocr` w 52), jak w plikach z nowszych wersji eli2md.
 
 **Czego te liczby nie mówią:**
 
