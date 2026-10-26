@@ -341,6 +341,11 @@ w Gliwicach” z listy sądów wzięte za „§ 3.”), DU/2009/1569 („59. Dek
 jako „$9.”, wzięte za „§ 9.”). W pozostałych 7 zmiany, które obejrzałem, są poprawą: „§ N.” z akapitu staje się
 nagłówkiem, „$ 2.” odczytane przez OCR staje się „§ 2.” (DU/2003/805, DU/2010/247).
 
+2026-10-26, drzewo JSON (kod drzewa eli2md 0.6.70, 4 akty; opis w README eli2md, wpis 0.6.70): nagłówki z liczebnikiem
+słownym pisanym małymi literami, stojące jako osobny akapit („Rozdział pierwszy”, „Część druga”), są w `.json` węzłami
+`heading` (DU/2002/750, DU/2002/1646, DU/2003/370, DU/2003/1212; 34 nowe nagłówki). Wcześniej trafiały jako tekst do
+artykułu przed nimi. `.md` się nie zmienił, więc pole `converter` (w `.md`, `.json` i `index.csv`) zostaje wersją, w której powstał `.md`. Liczba jednostek i słowa w drzewie bez zmian.
+
 **Czego te liczby nie mówią:**
 
 - Wzorzec HTML mają głównie ustawy, obwieszczenia i orzeczenia. Większość aktów w tym zbiorze to rozporządzenia,
