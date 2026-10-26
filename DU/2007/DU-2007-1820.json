@@ -1,7 +1,7 @@
 {
  "eli": "DU/2007/1820",
  "title": "Rozporządzenie Ministra Finansów z dnia 24 grudnia 2007 r. w sprawie struktury logicznej i podań, sposobu ich przesyłania oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone",
- "converter": "eli2md 0.6.65",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2007/1820/text.pdf",
  "body": [
   {
@@ -3751,16 +3751,8 @@
      "text": "<xsd:documentation>likwidacja</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"2\"> <xsd:annotation> <xsd:documentation>upadłość</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"3\"> <xsd:annotation> <xsd:documentation>śmierć podatnika</xsd:documentation> </xsd:annotation> </xsd:enumeration> <xsd:enumeration value=\"4\"> <xsd:annotation> <xsd:documentation>inna</xsd:documentation> </xsd:annotation> </xsd:enumeration> </xsd:restriction> </xsd:simpleT ype> </xsd:element> <xsd:element name=\"P_22\" type=\"TZnakowy\"> <xsd:annotation> <xsd:documentation>Urząd skarbowy, w którym złożono ostatnią deklaracje podatkową dła podatku od towarów i usług</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:choice> <xsd:element name=\"P_23A\" type=\"TMiesiac\"> <xsd:annotation> <xsd:documentation>Miesiąc, za który podatnik złożył (złoży) ostatnią deklarację podatkową</xsd:documentation> </xsd:annotation> </xsd:element> <xsd:element name=\"P_23B\" type=\"TKwartal\"> <xsd:annotation> <xsd:documentation>Kwartał , za który podatnik złożył (złoży) ostatnią deklarację podatkową</xsd:documentation> </xsd:annotation> </xsd:element> </xsd:choice> <xsd:element name=\"P_23\"> <xsd:annotation> <xsd:documentation>Rok, za który podatnik złożył (złoży) ostatnią deklarację podatkową</xsd:documentation> </xsd:annotation> <xsd:simpleType> <xsd:restriction base=\"TRok\"> <xsd:mininclusive value=\"2007\"/> </xsd:restriction> </xsd:simpleT ype> </xsd:element> </xsd:sequence> </xsd:complexT ype> </xsd:element> </xsd:schema>"
     },
     {
-     "type": "text",
-     "text": "— 17706 —"
-    },
-    {
      "type": "note",
      "text": "[Na stronie 319 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 17707 —"
     },
     {
      "type": "note",
